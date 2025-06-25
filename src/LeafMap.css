@@ -1,0 +1,41 @@
+.leafcharemoji {
+  height: 24px;
+  width: 24px;
+}
+.leafschuemoji {
+  height: 24px;
+  width: 24px;
+}
+.leafplayerName {
+  font-weight: bold;
+  font-size: smaller;
+}
+
+.leafplayerName2 {
+  font-weight: bold;
+  font-size: smaller;
+  color: #000;
+}
+
+.leafplayerNameMarker {
+  font-weight: bolder;
+  font-size: medium;
+  color: #000;
+}
+
+.leafset-row-1 {
+  border: 2px solid lightsteelblue;
+  border-radius: 10px;
+  background-color: darkturquoise;
+}
+
+.leafbracketLink {
+  font-size:smaller;
+  color: #FFF;
+}
+
+.leafpopup {
+  margin: 0px;
+  margin-left: 0px;
+  border-radius: 0px;
+}

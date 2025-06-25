@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.overallDiv {
+  width: vw;
+  overflow: hidden;
+}
+
+
+.charemoji {
+  height: 36px;
+  width: 36px;
+}
+.schuemoji {
+  height: 36px;
+  width: 36px;
+}
+.playerName {
+  color: #FFF;
+  font-size:large;
+  line-height: 1.2;
+  font-weight: bold;
+
+}
+.playerName:hover {
+  font-weight: bolder;
+  color: lightgray;
+}
+
+.set-row-2 {
+  color: #FFF;
+  font-size:large;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+.set-row-3 {
+  /* width: 50% */
+}
+.setRows {
+  /* display: flex;
+  flex-wrap: wrap; */
+  overflow: hidden;
+}
+
+.bracketName {
+  font-weight: bold;
+}
+
+.set-row-1 {
+  border: 2px solid lightgreen;
+  border-radius: 10px;
+  background-color: darkgreen;
+  padding: 20px;
+  margin: 20px;
+}
+
+.set-row-1:hover {
+  background-color: rgb(0, 68, 0);;
+}
+
+.set-row-1:active {
+  background-color: rgb(0, 49, 0);
+}
+
+.set-row-1-selected {
+  background-color: rgb(23, 139, 23);;
+  border: 3px solid  lightgreen;
+}
+
+.bracketLink {
+  font-size:medium;
+  line-height: 1.2;
+  color: #FFF;
+}
+
+.bigLinkHolder {
+  display: flex;
+  flex-wrap: wrap;
+  width: vw;
+  align-items: center;
+}
+.bigLink {
+  font-size:x-small;
+  text-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+  max-lines: 30;
+  max-width: 300px;
+  color: white;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.bigLinkLabel {
+  font-size:small;
+  text-wrap: wrap;
+  max-lines: 1;
+}
+
+.app-inform {
+  font-size:medium;
+  line-height:1.2
+}
+#map {
+  width: 600px;
+  height: 400px;
+}
+
+.flexMapVid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.rawStyle {
+  font-size: small
+}

@@ -1,0 +1,28 @@
+.about-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  font-size: 20px;
+  color: white;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 24px;
+  line-height: 24px;
+}
+
+.about-heading1 {
+  font-size: 20px;
+  line-height: 28px;
+}
+.about-heading2 {
+  font-size: 18px;
+  line-height: 24px;
+}
+.about-body {
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFF;
+}

@@ -1,0 +1,273 @@
+import React, { useRef, useState, useEffect } from "react";
+import './LeafMap.css';
+import L from 'leaflet';
+
+import { MapContainer, TileLayer, Marker, Popup, useMapEvents } from "react-leaflet";
+import { divIcon , DivIcon} from 'leaflet';
+import "leaflet/dist/leaflet.css";
+import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath } from './Utilities'
+import { MediaPreview } from './VideoEmbeds'
+import { spreadPoints } from './SpaceLatLon'
+function MapEventHelper({setZoomLevel}) {
+  const MapEvents = useMapEvents({
+      zoomend: (e) => {
+        setZoomLevel(e.target.getZoom());
+      },
+    });
+  return null
+}
+
+function getSpreadMetersPerZoom(zoomLevel) {
+  var spreadMeters = 1000000
+  if (zoomLevel < 1) {
+    spreadMeters = 800000
+  } else if (zoomLevel < 2) {
+    spreadMeters = 300000
+  } else if (zoomLevel < 3) {
+    spreadMeters = 120000
+  } else if (zoomLevel < 4) {
+    spreadMeters = 80000
+  } else if (zoomLevel < 5) {
+    spreadMeters = 40000
+  } else if (zoomLevel < 6) {
+    spreadMeters = 16000
+  } else if (zoomLevel < 7) {
+    spreadMeters = 12000
+  } else if (zoomLevel < 8) {
+    spreadMeters = 10000
+  } else if (zoomLevel < 9) {
+    spreadMeters = 8000
+  } else if (zoomLevel < 10) {
+    spreadMeters = 6000
+  } else if (zoomLevel < 11) {
+    spreadMeters = 5000
+  } else if (zoomLevel < 12) {
+    spreadMeters = 3000
+  } else if (zoomLevel < 13) {
+    spreadMeters = 2000
+  } else if (zoomLevel < 14) {
+    spreadMeters = 1000
+  } else if (zoomLevel < 15) {
+    spreadMeters = 600
+  } else if (zoomLevel < 16) {
+    spreadMeters = 350
+  } else if (zoomLevel < 17) {
+    spreadMeters = 200
+  } else if (zoomLevel < 18) {
+    spreadMeters = 100
+  } else if (zoomLevel < 19) {
+    spreadMeters = 50
+  } else {
+    spreadMeters = 50
+  }
+  return spreadMeters
+}
+
+export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex}) {
+    console.log("leafy width = ", width, ", height", height)
+
+  var initialZoomLevel = 2
+  if (width < 700) {
+    initialZoomLevel = 0
+  }
+  if (useFullView) {
+    initialZoomLevel += 1
+  }
+  const [zoomLevel, setZoomLevel] = useState(initialZoomLevel);
+
+  const handleStreamIndexButtonClick = (numSubStreams) => {
+    setStreamSubIndex((streamSubIndex + 1) % numSubStreams);
+  };
+
+  const mapRefReg = useRef(null);
+  const mapRefBig = useRef(null);
+  var mapRef = mapRefReg
+  var mapKey = "Reg"
+  if (useFullView) {
+    mapRef = mapRefBig
+    mapKey = "Big"
+  }
+
+  const latitude = 51.505;
+  const longitude = -0.09;
+  const videoWidth = 600;
+  const videoHeight = 400;
+  if (useFullView) {
+    var height="100vh";
+    var width="100vw";
+  }
+  
+  var inputLatLon = data.map(item => ({lat: item.bracketInfo.lat, lon: item.bracketInfo.lon}))
+  inputLatLon.forEach(elem => console.log("latLonInputs", elem))
+
+  var spreadMeters = getSpreadMetersPerZoom(zoomLevel)
+  var latLons = spreadPoints(inputLatLon, spreadMeters)
+ 
+  return (
+    <div style={{backgroundColor: 'blue', justifyContent: "center", height: height, width: width, justifyContent: "center", alignSelf: "center"}}>
+      <MapContainer key={mapKey} center={[latitude, longitude]} zoom={initialZoomLevel} ref={mapRef} style={{height: height, width: width, justifyContent: "center"}}>
+        <TileLayer
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" >OpenStreetMap</a>'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        />
+        {
+          <MapEventHelper setZoomLevel={setZoomLevel} />
+        }
+        {
+          data.map( (item, index) => {
+            var iconUrl = getCharUrl(item.player1Info.charInfo)
+            var iconUrl2 = getCharUrl(item.player2Info.charInfo)
+            var onMarkerClick = () => handleIndexChange(index)
+            var icon = new L.Icon({
+              iconUrl: iconUrl,
+              iconSize: [32, 32],
+              iconAnchor: [30, 32],
+              popupAnchor: [0, -32],
+            })
+            var icon2 = new L.Icon({
+              iconUrl: iconUrl2,
+              iconSize: [32, 32],
+              iconAnchor: [2, 32],
+              popupAnchor: [0, -32],
+            })
+
+            var icon3 = new L.DivIcon({
+              iconSize: [3, 3],
+              html: renderMarkerText(item, zoomLevel)
+            })
+
+            const customDivIcon = divIcon({
+              html: '<div style="background-color: blue; width: 30px; height: 30px; border-radius: 50%;"><img src={"./botEmojis/ken.png"}/></div>',
+              iconSize: [200, 200],
+              iconAnchor: [15, 15],
+            });
+
+            const customDivIcon2 = (
+              <DivIcon position={[latitude, longitude]}>
+                <svg
+                  viewBox="0 0 120 120"
+                  version="1.1"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle cx="60" cy="60" r="50" />
+                </svg>
+              </DivIcon>
+            )
+
+            var lat = latLons[index].lat;
+            var lon = latLons[index].lon;
+            var marker1 = (
+              <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+                icon
+              }>
+                <Popup className="leafpopup"
+                  maxWidth={videoWidth}
+                  width={videoWidth}
+                >
+                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn)}
+                </Popup>
+              </Marker>
+            )
+            var marker2 = (
+              <Marker key={index+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+                icon2
+              }>
+                <Popup className="leafpopup"
+                  maxWidth={videoWidth}
+                  width={videoWidth}
+                >
+                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn)}
+                </Popup>
+              </Marker>
+            )
+            var marker3 = (
+              <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+                icon3
+              }>
+                <Popup className="leafpopup"
+                  maxWidth={videoWidth}
+                  width={videoWidth}
+                >
+                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn)}
+                </Popup>
+              </Marker>
+            )
+            return <div>
+              {marker3}
+              {marker1}
+              {marker2}
+            </div>
+
+          }) 
+        }
+      </MapContainer> 
+    </div>
+  );
+}
+
+function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn) {
+  var streamButton = null
+  var numSubStreams = item.streamInfo.streamUrls.length
+  if (numSubStreams > 1) {
+    streamButton = <button onClick={() => handleStreamIndexButtonClick(numSubStreams)}><span>switch stream</span></button>
+  }
+  var preview = null
+  if (useVideoIn.popup == true) {
+    preview = MediaPreview({item, streamSubIndex})
+  }
+
+  return (
+    <div className="leafset-row-1"> 
+      <div >
+        <span className="leafplayerName">{item.bracketInfo.tourneyName}</span><br/>
+        <span style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+        <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
+        <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
+        {item.streamInfo.streamUrls.map((sInfo, index) => 
+          <div><a href={sInfo.streamUrl} target="_blank" className="leafbracketLink">{sInfo.streamUrl}</a><br/></div>
+        )}
+      </div>
+      <div>
+        <a href={getStartggUserLink(item.player1Info.userSlug)} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={getStartggUserLink(item.player2Info.userSlug)} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/><br/>
+      </div>
+      {streamButton}
+      {
+        preview
+      }
+    </div>
+  );
+}
+
+function renderMarkerText(item, zoomLevel) {
+  var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px"><div><span style="font-size: 14px;font-weight: bolder; background: #ffffffcc">👤${item.bracketInfo.numEntrants}</span></br><span className="leafplayerName">${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
+      </div>
+      <div>
+        <span style="font-size: 12px;font-weight: bolder;">${item.player1Info.nameWithRomaji}</span> vs <span style="font-size: 12px;font-weight: bolder;">${item.player2Info.nameWithRomaji}</span><br/>
+      </div>
+    </div>`
+
+  if (zoomLevel < 4) {
+    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px"><div><span style="font-size: 14px;font-weight: bolder; background: #ffffffcc">👤${item.bracketInfo.numEntrants}</span></div?</div>`
+  }
+  return txt
+}
+
+function charEmojis(charInfo, prekey) {
+  var emojiArrs = []
+  charInfo.forEach((item, index) => {
+    emojiArrs.push(charEmojiImage(item.name, prekey + index + "_"))
+    if (item.schuEmojiName != null) {
+      emojiArrs.push(schuEmojiImage(item.schuEmojiName, prekey + "schu_" + index + "_"))
+    }
+  })
+  return emojiArrs.map((item, subindex) => 
+    item
+  )
+}
+
+function charEmojiImage(name, key = "") {
+  return <img className="leafcharemoji" key={key} src={charEmojiImagePath(name)}/>
+}
+function schuEmojiImage(name, key = "") {
+  return <img className="leafschuemoji" key={key} src={schuEmojiImagePath(name)}/>
+}
