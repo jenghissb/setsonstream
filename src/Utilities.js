@@ -12,10 +12,8 @@ export function getCharUrl(charInfo){
 
 export function charEmojiImagePath(name) {
   return process.env.PUBLIC_URL + "/botEmojis/" + name + ".png"
-//   return "./botEmojis/" + name + ".png"
 }
 
 export function schuEmojiImagePath(name) {
   return process.env.PUBLIC_URL + "/scemojis/" + name + ".png"
-  return "./scemojis/" + name + ".png"
 }

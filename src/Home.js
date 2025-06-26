@@ -170,7 +170,6 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected) {
   }
   var divClass = "set-row-1"
   if (selected) divClass = divClass + " set-row-1-selected"
-  if (selected) console.log("SELECTED INDEX = " + index)
   var onClick = (e) => {
     const selection = window.getSelection();
     if (selection.toString().length > 0) {

@@ -64,8 +64,6 @@ function getSpreadMetersPerZoom(zoomLevel) {
 }
 
 export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex}) {
-    console.log("leafy width = ", width, ", height", height)
-
   var initialZoomLevel = 2
   if (width < 700) {
     initialZoomLevel = 0
@@ -98,8 +96,6 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
   }
   
   var inputLatLon = data.map(item => ({lat: item.bracketInfo.lat, lon: item.bracketInfo.lon}))
-  inputLatLon.forEach(elem => console.log("latLonInputs", elem))
-
   var spreadMeters = getSpreadMetersPerZoom(zoomLevel)
   var latLons = spreadPoints(inputLatLon, spreadMeters)
  
