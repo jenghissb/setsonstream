@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import './index.css';
 import Home, {HomeModes} from './Home';
 import About from './About';
@@ -10,7 +10,7 @@ import AppNavBar from "./AppNavBar";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <AppNavBar/>
       <Routes>
         <Route index element={<Home homeMode={HomeModes.MAIN}/>} />
@@ -18,7 +18,7 @@ root.render(
         <Route path="allinlist" element={<Home homeMode={HomeModes.ALLINLIST}/>} />
         <Route path="about" element={<About />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 
