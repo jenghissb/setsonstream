@@ -136,24 +136,6 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
               html: renderMarkerText(item, zoomLevel)
             })
 
-            const customDivIcon = divIcon({
-              html: '<div style="background-color: blue; width: 30px; height: 30px; border-radius: 50%;"><img src={"./botEmojis/ken.png"}/></div>',
-              iconSize: [200, 200],
-              iconAnchor: [15, 15],
-            });
-
-            const customDivIcon2 = (
-              <DivIcon position={[latitude, longitude]}>
-                <svg
-                  viewBox="0 0 120 120"
-                  version="1.1"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <circle cx="60" cy="60" r="50" />
-                </svg>
-              </DivIcon>
-            )
-
             var lat = latLons[index].lat;
             var lon = latLons[index].lon;
             var marker1 = (
