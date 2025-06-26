@@ -41,6 +41,10 @@
   width: vw;
   overflow: hidden;
 }
+.topContainer {
+  position: sticky;
+  top: 20px;
+}
 
 
 .charemoji {
@@ -56,11 +60,35 @@
   font-size:large;
   line-height: 1.2;
   font-weight: bold;
-
 }
 .playerName:hover {
-  font-weight: bolder;
+  font-weight: 900;
   color: lightgray;
+}
+
+.tourneyText {
+  color: #FFF;
+  font-size:large;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+.tourney-background-image {
+ background:
+  /* top, transparent black, faked with gradient */ 
+  linear-gradient(
+    rgba(0, 0, 0, 0.6), 
+    rgba(0, 0, 0, 0.6)
+  ),
+  /* bottom, image */
+  url(https://images.unsplash.com/photo-1614030424754-24d0eebd46b2);
+}
+.tourney-icon {
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  margin-left: -17px;
+  margin-top: -17px;
 }
 
 .set-row-2 {
@@ -68,6 +96,8 @@
   font-size:large;
   line-height: 1.2;
   font-weight: bold;
+  position: absolute,
+  /* margin-left: 100px; */
 }
 
 .set-row-3 {
@@ -84,7 +114,7 @@
 }
 
 .set-row-1 {
-  border: 2px solid lightgreen;
+  border: 2px solid gray;
   border-radius: 10px;
   background-color: darkgreen;
   padding: 20px;
@@ -109,6 +139,19 @@
   line-height: 1.2;
   color: #FFF;
 }
+
+.bracketLink:hover {
+  color: rgb(0, 68, 0);;
+  font-weight: bolder;
+  color: lightgray;
+}
+
+.bracketLink:active {
+  color: rgb(0, 49, 0);
+  font-weight: bolder;
+  color: lightgray;
+}
+
 
 .bigLinkHolder {
   display: flex;

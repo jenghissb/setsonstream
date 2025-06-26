@@ -80,9 +80,6 @@ function MainComponent(homeMode) {
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error: {error.message}</p>;
   
-  if (data.data == null) {
-    return <p>No active sets found</p>
-  }
   var targetWidth = 854
   var targetHeight = 480
   var width = Math.min(window.innerWidth, targetWidth)
@@ -92,32 +89,37 @@ function MainComponent(homeMode) {
     width = Math.floor(height*16.0/9)
   }
 
+  var displayData = data.data
+  if (displayData == null) {
+    displayData = []
+  }
   var preview = null
-  if (useVideoIn.panel == true && data.data.length > 0) {
-    preview = MediaPreview({item: data.data[itemIndex], streamSubIndex, width, height})
+  if (useVideoIn.panel == true && displayData.length > 0) {
+    preview = <div class="topContainer">{MediaPreview({item: displayData[itemIndex], streamSubIndex, width, height})}</div>
   }
   var noData = null
-  if (data.data.length < 1) {
+  
+  if (displayData.length < 1) {
     noData = NoData()
   }
   return (
     <div className="overallDiv">
       <div className="flexMapVid">
         {
-          Leafy(data.data, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex)
+          Leafy(displayData, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex)
         }
         {
           preview
         }
       </div>
       {
-        renderLink(data.data)
+        renderLink(displayData)
       }
       { 
         noData
       }
       {
-        renderData(data.data, useVideoIn, handleIndexChange, itemIndex)
+        renderData(displayData, useVideoIn, handleIndexChange, itemIndex)
       }
     </div>
   );
@@ -177,19 +179,32 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected) {
     }
     handleIndexChange(index)
   }
+  var tourneyBackgroundUrl=null
+  var tourneyIconUrl = null
+  try {
+    tourneyBackgroundUrl = item.bracketInfo.images[1].url
+    tourneyIconUrl = item.bracketInfo.images[0].url
+  }catch{}
   return (
-    <div className={divClass} main={selected} onClick={onClick}> 
+    <div className={divClass} main={selected} onClick={onClick} style={
+      {
+        background: `linear-gradient(rgba(0, 0, 0, 0.6),  rgba(0, 0, 0, 0.6)), url(${tourneyBackgroundUrl})`,
+        backgroundSize: "cover",
+        // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
+      }
+    }>
+      <div className="tourney-icon" style={{backgroundImage: `url(${tourneyIconUrl})`, backgroundSize: "cover", backgroundPosition: "center",}} />
       <div className="set-row-2">
-        <span className="playerName">{item.bracketInfo.tourneyName}</span><br/>
-        <span className="playerName" style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="playerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
-        <span className="playerName">{item.bracketInfo.fullRoundText}</span><br/>
-        <a href={item.bracketInfo.url} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
+        <span className="tourneyText">{item.bracketInfo.tourneyName}</span><br/>
+        <span className="tourneyText" style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+        <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
+        <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => 
           <div ><a href={sItem.streamUrl} target="_blank" className="bracketLink">{sItem.streamUrl}</a><br/></div>
         )}
       </div>
       <div>
-        <a href={getStartggUserLink(item.player1Info.userSlug)} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={getStartggUserLink(item.player1Info.userSlug)} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
+        <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
       </div>
       {
         preview

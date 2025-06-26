@@ -9,6 +9,7 @@
 .leafplayerName {
   font-weight: bold;
   font-size: smaller;
+  color: #FFF;
 }
 
 .leafplayerName2 {
@@ -23,11 +24,26 @@
   color: #000;
 }
 
-.leafset-row-1 {
-  border: 2px solid lightsteelblue;
-  border-radius: 10px;
-  background-color: darkturquoise;
+.leafbracketInfo {
+  font-weight: bold;
+  font-size: smaller;
+  color: #FFF;
 }
+
+.leafset-row-1 {
+}
+
+.leaflet-row-sub a {
+  border-top: 2px solid lightsteelblue;
+  color: red; /* Change default link color */
+}
+
+.leafset-row-sub {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+}
+
 
 .leafbracketLink {
   font-size:smaller;

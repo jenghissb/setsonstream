@@ -193,20 +193,28 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
   if (useVideoIn.popup == true) {
     preview = MediaPreview({item, streamSubIndex})
   }
-
+  var tourneyBackgroundUrl=null
+  var tourneyIconUrl = null
+  try {
+    tourneyBackgroundUrl = item.bracketInfo.images[1].url
+    tourneyIconUrl = item.bracketInfo.images[0].url
+  }catch{}
   return (
     <div className="leafset-row-1"> 
-      <div >
+      <div className="leafset-row-sub" style={
+      {
+        background: `linear-gradient(rgba(0, 0, 0, 0.6),  rgba(0, 0, 0, 0.6)), url(${tourneyBackgroundUrl})`,
+        backgroundSize: "cover",
+      }
+    }>
         <span className="leafplayerName">{item.bracketInfo.tourneyName}</span><br/>
-        <span style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+        <span className="leafbracketName" style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
         <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sInfo, index) => 
           <div><a href={sInfo.streamUrl} target="_blank" className="leafbracketLink">{sInfo.streamUrl}</a><br/></div>
         )}
-      </div>
-      <div>
-        <a href={getStartggUserLink(item.player1Info.userSlug)} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={getStartggUserLink(item.player2Info.userSlug)} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/><br/>
+        <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
       </div>
       {streamButton}
       {
