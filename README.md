@@ -7,6 +7,6 @@ SetsOnStream works by querying the active sets labeled as on stream in the start
 # Initial version
 
 This is the alpha web version, hosted at
-https://jenghissb@github.io/setsonstream
+https://jenghissb.github.io/setsonstream
 
 Next big version will be a UI styling
