@@ -39,7 +39,7 @@
 
 .overallDiv {
   width: vw;
-  /* overflow: hidden; */
+  /* over flow: hidden; */
 }
 .topContainer {
   /* position: sticky;
@@ -59,6 +59,7 @@
   font-size:large;
   line-height: 1.2;
   font-weight: bold;
+  word-break: break-all;
 }
 .playerName:hover {
   font-weight: 900;
@@ -71,6 +72,7 @@
   line-height: 1.2;
   font-weight: bold;
   text-shadow: 1px 1px 1px #000000;
+  word-break: break-all;
 }
 
 .tourney-background-image {
@@ -123,6 +125,11 @@
   /* display: flex;
   flex-wrap: wrap; */
   overflow: hidden;
+}
+
+.rowPreviewHolder {
+  margin-left: -18px;
+  margin-right: -18px;
 }
 
 .bracketName {

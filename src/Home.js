@@ -210,9 +210,11 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
       <div className="set-row-4">
         <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
       </div>
+      <div class="rowPreviewHolder" >
       {
         preview
       }
+      </div>
 
     </div>
   );
