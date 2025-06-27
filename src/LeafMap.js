@@ -63,7 +63,7 @@ function getSpreadMetersPerZoom(zoomLevel) {
   return spreadMeters
 }
 
-export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex}) {
+export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex, mainVideoDim}) {
   var initialZoomLevel = 2
   if (width < 700) {
     initialZoomLevel = 0
@@ -88,8 +88,16 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
 
   const latitude = 51.505;
   const longitude = -0.09;
-  const videoWidth = 600;
-  const videoHeight = 400;
+
+  const videoScale = 0.8
+  const videoDim = {
+    height: mainVideoDim.height * videoScale,
+    width: mainVideoDim.width * videoScale
+  }
+
+  const videoWidth = videoDim.width;
+  const videoHeight = videoDim.height;
+  console.log("videoWidth = ", videoWidth)
   if (useFullView) {
     var height="100vh";
     var width="100vw";
@@ -142,7 +150,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
                   maxWidth={videoWidth}
                   width={videoWidth}
                 >
-                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn)}
+                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim)}
                 </Popup>
               </Marker>
             )
@@ -154,7 +162,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
                   maxWidth={videoWidth}
                   width={videoWidth}
                 >
-                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn)}
+                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim)}
                 </Popup>
               </Marker>
             )
@@ -166,7 +174,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
                   maxWidth={videoWidth}
                   width={videoWidth}
                 >
-                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn)}
+                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim)}
                 </Popup>
               </Marker>
             )
@@ -183,7 +191,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
   );
 }
 
-function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn) {
+function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim) {
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
   if (numSubStreams > 1) {
@@ -191,7 +199,7 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
   }
   var preview = null
   if (useVideoIn.popup == true) {
-    preview = MediaPreview({item, streamSubIndex})
+    preview = MediaPreview({item, streamSubIndex, ...videoDim})
   }
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null

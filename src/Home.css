@@ -87,8 +87,8 @@
   height: 40px;
   width: 40px;
   position: absolute;
-  margin-left: -20px;
-  margin-top: -20px;
+  margin-left: -16px;
+  margin-top: -16px;
   border-top-left-radius: 8px;
   z-index: 2;
 }
@@ -114,6 +114,11 @@
 .set-row-3 {
   /* width: 50% */
 }
+
+.set-row-4 {
+  margin-bottom: 8px;
+}
+
 .setRows {
   /* display: flex;
   flex-wrap: wrap; */
@@ -128,8 +133,9 @@
   border: 2px solid gray;
   border-radius: 10px;
   background-color: darkgreen;
-  padding: 20px;
-  margin: 20px;
+  padding: 16px;
+  padding-bottom: 6px;
+  margin: 16px;
 }
 
 .set-row-1:hover {

@@ -108,7 +108,7 @@ function MainComponent(homeMode) {
     <div className="overallDiv">
       <div className="flexMapVid">
         {
-          Leafy(displayData, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex)
+          Leafy(displayData, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim)
         }
         {
           preview
@@ -207,7 +207,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
           <div ><a href={sItem.streamUrl} target="_blank" className="bracketLink">{sItem.streamUrl}</a><br/></div>
         )}
       </div>
-      <div>
+      <div className="set-row-4">
         <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
       </div>
       {
@@ -253,12 +253,12 @@ function BracketEmbed({width = 854, height = 480}) {
 
 }
 
-function Leafy(data, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex) {
+function Leafy(data, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim) {
   if (homeMode === HomeModes.ALLINLIST) {
     return
   }
   if (data != null)
-    return <LeafMap data={data} handleIndexChange={handleIndexChange} useVideoIn={useVideoIn} width={width} height={height} useFullView={homeMode === HomeModes.FULLMAP} streamSubIndex={streamSubIndex} setStreamSubIndex={setStreamSubIndex} />
+    return <LeafMap data={data} handleIndexChange={handleIndexChange} useVideoIn={useVideoIn} width={width} height={height} useFullView={homeMode === HomeModes.FULLMAP} streamSubIndex={streamSubIndex} setStreamSubIndex={setStreamSubIndex} mainVideoDim={mainVideoDim}/>
 }
 
 function NoData() {
