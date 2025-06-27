@@ -10,7 +10,7 @@ import AppNavBar from "./AppNavBar";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter >
       <AppNavBar/>
       <Routes>
         <Route index element={<Home homeMode={HomeModes.MAIN}/>} />
@@ -18,7 +18,7 @@ root.render(
         <Route path="allinlist" element={<Home homeMode={HomeModes.ALLINLIST}/>} />
         <Route path="about" element={<About />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 
