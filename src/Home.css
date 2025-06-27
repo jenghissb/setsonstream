@@ -87,8 +87,8 @@
   height: 40px;
   width: 40px;
   position: absolute;
-  margin-left: -16px;
-  margin-top: -16px;
+  margin-left: -8px;
+  margin-top: -8px;
   border-top-left-radius: 8px;
   z-index: 2;
 }
@@ -135,7 +135,7 @@
   background-color: darkgreen;
   padding: 16px;
   padding-bottom: 6px;
-  margin: 16px;
+  margin: 8px;
 }
 
 .set-row-1:hover {

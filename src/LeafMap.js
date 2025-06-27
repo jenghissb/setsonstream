@@ -89,7 +89,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
   const latitude = 51.505;
   const longitude = -0.09;
 
-  const videoScale = 0.92
+  const videoScale = 0.97
   const videoDim = {
     height: mainVideoDim.height * videoScale,
     width: mainVideoDim.width * videoScale
@@ -97,7 +97,6 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
 
   const videoWidth = videoDim.width;
   const videoHeight = videoDim.height;
-  console.log("videoWidth = ", videoWidth)
   if (useFullView) {
     var height="100vh";
     var width="100vw";
