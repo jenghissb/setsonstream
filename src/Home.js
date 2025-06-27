@@ -89,6 +89,8 @@ function MainComponent(homeMode) {
     width = Math.floor(height*16.0/9)
   }
 
+  var mainVideoDim = { width, height }
+
   var displayData = data.data
   if (displayData == null) {
     displayData = []
@@ -119,7 +121,7 @@ function MainComponent(homeMode) {
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemIndex)
+        renderData(displayData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim)
       }
     </div>
   );
@@ -154,21 +156,22 @@ function renderLink(jsonData) {
   return <div className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'}}>{"TwitchTheater link: "}</span><a href={str} target="_blank" className="bigLink">{str}</a></div>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex) {
+function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim) {
   return <div className="setRows">{
     jsonData.map((item, index) => (
       <div className="set-row-3" index={index}>
-        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemIndex == index)}
+        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemIndex == index, mainVideoDim)}
       </div>
 
     ))}
     </div>
 }
 
-function renderDataRow(item, useVideoIn, handleIndexChange, index, selected) {
+function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mainVideoDim) {
   var preview = null
   if (useVideoIn.list) {
-    preview = MediaPreview({item: item})
+    var scale = 0.8
+    preview = MediaPreview({item: item, width: mainVideoDim.width * scale, height: mainVideoDim.height * scale})
   }
   var divClass = "set-row-1"
   if (selected) divClass = divClass + " set-row-1-selected"
