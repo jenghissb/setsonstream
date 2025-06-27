@@ -31,7 +31,7 @@ function About() {
                     <a className="about-body" href="https://smash-map.com/" target="_blank">https://smash-map.com/</a><br/>
                     <br/>
                     <span className="about-heading1">Contact</span><br/>
-                    <span className="about-body"><a className="about-body" href="https://x.com/jenghi_ssb">https://x.com/jenghi_ssb</a></span>
+                    <span className="about-body"><a className="about-body" href="https://x.com/jenghi_ssb">jenghi_ssb</a></span>
                 </div>
             </header>
         </div>
