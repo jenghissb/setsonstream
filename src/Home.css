@@ -42,10 +42,9 @@
   overflow: hidden;
 }
 .topContainer {
-  position: sticky;
-  top: 20px;
+  /* position: sticky;
+  top: 20px; */
 }
-
 
 .charemoji {
   height: 36px;
@@ -71,6 +70,7 @@
   font-size:large;
   line-height: 1.2;
   font-weight: bold;
+  text-shadow: 1px 1px 1px #000000;
 }
 
 .tourney-background-image {
@@ -87,6 +87,16 @@
   height: 40px;
   width: 40px;
   position: absolute;
+  margin-left: -20px;
+  margin-top: -20px;
+  border-top-left-radius: 8px;
+  z-index: 2;
+}
+
+.tourney-icon-no-rad {
+  height: 40px;
+  width: 40px;
+  position: absolute;
   margin-left: -17px;
   margin-top: -17px;
 }
@@ -96,7 +106,8 @@
   font-size:large;
   line-height: 1.2;
   font-weight: bold;
-  position: absolute,
+  position: relative;
+  z-index: 3;
   /* margin-left: 100px; */
 }
 
@@ -135,9 +146,11 @@
 }
 
 .bracketLink {
-  font-size:medium;
+  font-size:small;
   line-height: 1.2;
   color: #FFF;
+  text-wrap: wrap;
+  word-break: break-all;
 }
 
 .bracketLink:hover {
@@ -155,13 +168,16 @@
 
 .bigLinkHolder {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   width: vw;
   align-items: center;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 .bigLink {
   font-size:x-small;
   text-wrap: wrap;
+  word-break: break-all;
   display: flex;
   flex-wrap: wrap;
   max-lines: 30;
@@ -191,6 +207,8 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  /* position: sticky;
+  top: 0; */
 }
 
 .rawStyle {

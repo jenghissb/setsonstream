@@ -199,12 +199,17 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
     tourneyBackgroundUrl = item.bracketInfo.images[1].url
     tourneyIconUrl = item.bracketInfo.images[0].url
   }catch{}
+  var infoSectionStyle = "leafset-row-sub-with-vid"
+  if (preview == null) {
+    infoSectionStyle = "leafset-row-sub"
+  }
   return (
     <div className="leafset-row-1"> 
-      <div className="leafset-row-sub" style={
+      <div className={infoSectionStyle} style={
       {
-        background: `linear-gradient(rgba(0, 0, 0, 0.6),  rgba(0, 0, 0, 0.6)), url(${tourneyBackgroundUrl})`,
+        background: `linear-gradient(rgba(255, 255, 255, 0.8),  rgba(255, 255, 255, 0.8)), url(${tourneyBackgroundUrl})`,
         backgroundSize: "cover",
+        backgroundPosition: "center"
       }
     }>
         <span className="leafplayerName">{item.bracketInfo.tourneyName}</span><br/>

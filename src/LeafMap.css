@@ -9,7 +9,17 @@
 .leafplayerName {
   font-weight: bold;
   font-size: smaller;
-  color: #FFF;
+  color: #000 !important;
+}
+
+.leafplayerName:hover {
+  font-weight: 900;
+  color: lightgray;
+}
+
+.leafplayerName a {
+  font-weight: 900;
+  color: black !important;
 }
 
 .leafplayerName2 {
@@ -27,18 +37,36 @@
 .leafbracketInfo {
   font-weight: bold;
   font-size: smaller;
-  color: #FFF;
+  color: #000;
 }
 
 .leafset-row-1 {
+  margin-left: -21px;
+  margin-right: -25px;
+  margin-top: -14px;
+  margin-bottom: -14px;
 }
 
-.leaflet-row-sub a {
+/* .leaflet-row-sub a {
   border-top: 2px solid lightsteelblue;
-  color: red; /* Change default link color */
-}
+  color: red;
+} */
 
 .leafset-row-sub {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 10px;
+}
+
+.leafset-row-sub-with-vid {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+}
+
+.leafset-row-wi {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   padding: 10px;
@@ -47,7 +75,9 @@
 
 .leafbracketLink {
   font-size:smaller;
-  color: #FFF;
+  color: #000 !important;
+  text-wrap: wrap;
+  word-break: break-all;
 }
 
 .leafpopup {

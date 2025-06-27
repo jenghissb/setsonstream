@@ -188,8 +188,9 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected) {
   return (
     <div className={divClass} main={selected} onClick={onClick} style={
       {
-        background: `linear-gradient(rgba(0, 0, 0, 0.6),  rgba(0, 0, 0, 0.6)), url(${tourneyBackgroundUrl})`,
+        background: `linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.4)), url(${tourneyBackgroundUrl})`,
         backgroundSize: "cover",
+        backgroundPosition: "center"
         // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
       }
     }>
