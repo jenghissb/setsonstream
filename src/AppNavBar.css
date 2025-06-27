@@ -1,7 +1,27 @@
 .AppNavBar {
-    font-size: medium;
+}
+
+.AppNavBarHolder {
+    flex-direction: row;
+    display: flex;
+    width: 100vw;
+    height: 25px;
+    padding-left: 6px;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgb(24, 27, 27);
 }
 
 .AppNavBarItem {
+    font-size: medium;
     margin-right: 10px;
+    font-weight: 500;
+    color: rgb(211, 210, 210);
+    text-decoration: none;
+    padding-left: 4px;
+}
+
+.AppNavBarItem:hover {
+  font-weight: 700;
+  color: rgb(153, 160, 168);
 }
