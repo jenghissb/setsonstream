@@ -170,7 +170,7 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex, mainVide
 function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mainVideoDim) {
   var preview = null
   if (useVideoIn.list) {
-    var scale = 0.8
+    var scale = 0.92
     preview = MediaPreview({item: item, width: mainVideoDim.width * scale, height: mainVideoDim.height * scale})
   }
   var divClass = "set-row-1"

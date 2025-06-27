@@ -89,7 +89,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
   const latitude = 51.505;
   const longitude = -0.09;
 
-  const videoScale = 0.8
+  const videoScale = 0.92
   const videoDim = {
     height: mainVideoDim.height * videoScale,
     width: mainVideoDim.width * videoScale
