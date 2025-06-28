@@ -89,8 +89,8 @@
   height: 40px;
   width: 40px;
   position: absolute;
-  margin-left: -8px;
-  margin-top: -8px;
+  margin-left: -16px;
+  margin-top: -16px;
   border-top-left-radius: 8px;
   z-index: 2;
 }

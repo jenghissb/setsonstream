@@ -142,7 +142,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
             var lat = latLons[index].lat;
             var lon = latLons[index].lon;
             var marker1 = (
-              <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+              <Marker key={index+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
                 icon
               }>
                 <Popup className="leafpopup"
@@ -226,7 +226,7 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
         {item.streamInfo.streamUrls.map((sInfo, index) => 
           <div><a href={sInfo.streamUrl} target="_blank" className="leafbracketLink">{sInfo.streamUrl}</a><br/></div>
         )}
-        <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
+        <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "leaf_play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "leaf_play2_")}<br/>
       </div>
       {streamButton}
       {
@@ -237,12 +237,34 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
 }
 
 function renderMarkerText(item, zoomLevel) {
-  var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px"><div><span style="font-size: 14px;font-weight: bolder; background: #ffffffcc">👤${item.bracketInfo.numEntrants}</span></br><span className="leafplayerName">${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
-      </div>
-      <div>
+  console.log(item.player1Info.nameWithRomaji)
+  // var lumitier = item.bracketInfo.lumitier
+  var lumitier = "C+"
+  var lumitierStr = ''
+  // if (lumitier.length > 0) {
+  //   lumitierStr = `<span style="background: solid gray; border-radius: 2px; border: 2px #fff">${lumitier}</span>`
+  // }
+  
+  var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px; flex; align-items: center; justify-content: center;">
+    <div>
+      <span style="font-size: 14px;font-weight: bolder; background: #fff; padding: 2px;">👤${item.bracketInfo.numEntrants}</span>${lumitierStr}</br>
+    </div>
+    <div style="background: white; width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid gray">
+      <span >
+        <span style="background: white">${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
+        <br/>
         <span style="font-size: 12px;font-weight: bolder;">${item.player1Info.nameWithRomaji}</span> vs <span style="font-size: 12px;font-weight: bolder;">${item.player2Info.nameWithRomaji}</span><br/>
+      </span>
       </div>
     </div>`
+
+
+  // var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px"><div><span style="font-size: 14px;font-weight: bolder; background: #ffffffcc">👤${item.bracketInfo.numEntrants}</span></br><span >${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
+  //     </div>
+  //     <div>
+  //       <span style="font-size: 12px;font-weight: bolder;">${item.player1Info.nameWithRomaji}</span> vs <span style="font-size: 12px;font-weight: bolder;">${item.player2Info.nameWithRomaji}</span><br/>
+  //     </div>
+  //   </div>`
 
   if (zoomLevel < 4) {
     txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px"><div><span style="font-size: 14px;font-weight: bolder; background: #ffffffcc">👤${item.bracketInfo.numEntrants}</span></div?</div>`

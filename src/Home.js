@@ -97,7 +97,7 @@ function MainComponent(homeMode) {
   }
   var preview = null
   if (useVideoIn.panel == true && displayData.length > 0) {
-    preview = <div class="topContainer">{MediaPreview({item: displayData[itemIndex], streamSubIndex, width, height})}</div>
+    preview = <div className="topContainer">{MediaPreview({item: displayData[itemIndex], streamSubIndex, width, height})}</div>
   }
   var noData = null
   
@@ -189,7 +189,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
     tourneyIconUrl = item.bracketInfo.images[0].url
   }catch{}
   return (
-    <div className={divClass} main={selected} onClick={onClick} style={
+    <div className={divClass} onClick={onClick} style={
       {
         background: `linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.4)), url(${tourneyBackgroundUrl})`,
         backgroundSize: "cover",
@@ -210,7 +210,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
       <div className="set-row-4">
         <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
       </div>
-      <div class="rowPreviewHolder" >
+      <div className="rowPreviewHolder" >
       {
         preview
       }
