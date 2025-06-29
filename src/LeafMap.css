@@ -34,6 +34,20 @@
   color: #000;
 }
 
+.leaftourneyName {
+  font-weight: bold;
+  /* font-size: large; */
+  color: #000 !important;
+  line-height: 1.8;
+}
+
+.leafEntrants {
+  font-weight: bold;
+  font-size: medium;
+  color: #000 !important;
+}
+
+
 .leafbracketInfo {
   font-weight: bold;
   font-size: smaller;

@@ -5,7 +5,7 @@ import L from 'leaflet';
 import { MapContainer, TileLayer, Marker, Popup, useMapEvents } from "react-leaflet";
 import { divIcon , DivIcon} from 'leaflet';
 import "leaflet/dist/leaflet.css";
-import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath } from './Utilities'
+import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr } from './Utilities'
 import { MediaPreview } from './VideoEmbeds'
 import { spreadPoints } from './SpaceLatLon'
 function MapEventHelper({setZoomLevel}) {
@@ -98,7 +98,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
   const videoWidth = videoDim.width;
   const videoHeight = videoDim.height;
   if (useFullView) {
-    var height="100vh";
+    var height="calc(100dvh - 56px)";
     var width="100vw";
   }
   
@@ -210,6 +210,10 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
   if (preview == null) {
     infoSectionStyle = "leafset-row-sub"
   }
+  var lumitier = item.bracketInfo.lumitier
+  // var lumitier = "C+"
+  // var lumitierIconStr = getLumitierIconStr(lumitier)
+  //getLumitierIcon(lumitier)
   return (
     <div className="leafset-row-1"> 
       <div className={infoSectionStyle} style={
@@ -219,8 +223,8 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
         backgroundPosition: "center"
       }
     }>
-        <span className="leafplayerName">{item.bracketInfo.tourneyName}</span><br/>
-        <span className="leafbracketName" style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+        <span className="leaftourneyName">{getLumitierIcon(lumitier, {marginRight: '6px'})}{item.bracketInfo.tourneyName}</span><br/>
+        <span className="leafEntrants" style={{ marginRight: '3px' }}>👤 {item.bracketInfo.numEntrants}{" "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
         <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sInfo, index) => 
@@ -239,50 +243,11 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
 function renderMarkerText(item, zoomLevel) {
   var lumitier = item.bracketInfo.lumitier
   // var lumitier = "C+"
-  var lumitierStr = ''
-  if (lumitier != null && lumitier.length > 0) {
-    var lumiColor;
-    console.log(lumitier.charAt(0))
-    //reference:
-      // charEmojiImagePathase 'D':
-      //   lumiColor = "rgb(119, 195, 223)"; break;
-      // case 'C':
-      //   lumiColor = "rgb(132, 227, 122)"; break;
-      // case 'B':
-      //   lumiColor = "rgb(221, 229, 114)"; break;
-      // case 'A':
-      //   lumiColor = "rgb(220, 166, 103)"; break;
-      // case 'S':
-      //   lumiColor = "rgb(210, 100, 96)"; break;
-      // case 'P':
-      //   lumiColor = "rgb(119, 195, 223)"; break;
-      // default:
-      //   lumiColor = "rgb(8, 83, 181)";
-    // lumiColor = "#bdc636"; break;
-
-    switch (lumitier.charAt(0)) {
-      case 'D':
-        lumiColor = "#77c3df"; break;
-      case 'C':
-        lumiColor = "#84e37a"; break;
-      case 'B':
-        lumiColor = "#bdc636"; break;
-      case 'A':
-        lumiColor = "#dca667"; break;
-      case 'S':
-        lumiColor = "#d26460"; break;
-      case 'P':
-        lumiColor = "#77c3df"; break;
-      default:
-        lumiColor = "#0853b5";
-    }
-    console.log("color: ", lumiColor)
-    lumitierStr = `<span style="background:${lumiColor}; font-size: 13px; padding-left: 5px; padding-right: 5px; padding-bottom: 2px; margin-left: -2px; margin-top: 80px; border-radius: 6px; border: 1px solid rgb(7, 41, 87); color: #fff">${lumitier}</span>`
-  }
+  var lumitierIconStr = getLumitierIconStr(lumitier)
   
   var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px; flex; align-items: center; justify-content: center; position: relative;">
     <div style="z-index: 1; margin-bottom: -2px; position: relative; ">
-      <span style="font-size: 16px;font-weight: bolder; background: #fff; padding-top:1px; padding-left:2px; padding-right:2px; border-top-left-radius:4px; border-top-right-radius:4px; border: 1px solid gray; border-bottom: 0;">👤${item.bracketInfo.numEntrants}</span>${lumitierStr}</br>
+      <span style="font-size: 16px;font-weight: bolder; background: #fff; padding-top:1px; padding-left:2px; padding-right:2px; border-top-left-radius:4px; border-top-right-radius:4px; border: 1px solid gray; border-bottom: 0;">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</br>
     </div>
     <div style=" background: white; width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid gray">
       <span >
@@ -294,7 +259,7 @@ function renderMarkerText(item, zoomLevel) {
   </div>`
 
   if (zoomLevel < 4) {
-    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 16px; font-weight: bold; width:300px"><div><span style="font-size: 16px;font-weight: bolder; background: #ffffffff; padding-bottom:1px; padding-top:1px; padding-left:2px; padding-right:2px; border-radius:4px; border: 1px solid gray;">👤${item.bracketInfo.numEntrants}</span>${lumitierStr}</div></div>`
+    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 16px; font-weight: bold; width:300px"><div><span style="font-size: 16px;font-weight: bolder; background: #ffffffff; padding-bottom:1px; padding-top:1px; padding-left:2px; padding-right:2px; border-radius:4px; border: 1px solid gray;">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</div></div>`
   }
   return txt
 }

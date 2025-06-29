@@ -2,7 +2,7 @@ import './Home.css';
 import React, { useState, useEffect } from 'react';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
-import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath } from './Utilities.js'
+import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon } from './Utilities.js'
 
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
@@ -104,8 +104,17 @@ function MainComponent(homeMode) {
   if (displayData.length < 1) {
     noData = NoData()
   }
+  var showMapBeside = 2*width <= window.innerWidth
+  var stickyPos = 0
+  if (!showMapBeside) {
+    stickyPos -= height
+  }
   return (
     <div className="overallDiv">
+      {
+        renderLink(displayData, homeMode == HomeModes.FULLMAP)
+      }
+      <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
         {
           Leafy(displayData, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim)
@@ -114,18 +123,50 @@ function MainComponent(homeMode) {
           preview
         }
       </div>
+      </div>
       {
-        renderLink(displayData)
+        renderLink(displayData, homeMode != HomeModes.FULLMAP)
       }
       { 
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim)
+        renderData(displayData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim, homeMode)
       }
     </div>
   );
 }
+
+/*
+              <span className="about-heading1">About SetsOnStream</span><br/>
+              <span className="about-body">SetsOnStream is a project to see what sets are on stream,</span>
+              <span className="about-body" style={{position: 'sticky', top:"0px"}}> and watch sets from around the world</span><br/>
+              <span className="about-body">Its origin is as an offshoot project of the SetsOnStream discord bot for charcords</span><br/>
+              <span className="about-body">SetsOnStream works by querying the active sets labeled as on stream in the start.gg API</span><br/>
+              <br/>
+              <span className="about-heading1">Limitations of SetsOnStream</span><br/>
+              <span className="about-body">SetsOnStream will catch many tourney sets on stream!</span><br/>
+              <span className="about-body">However, some amount of sets will not appear if they do not label a set for stream and set it active.</span><br/>
+              <span className="about-body">When using SetsOnStream, will need to refresh to pull current data</span><br/>
+              <span className="about-body">SetsOnStream guesses the character based on previous character history.  There are a lot of multi-main players so accuracy may vary.</span><br/>
+              <br/>
+              <span className="about-heading1">YouTube streams</span><br/>
+              <span className="about-body">For sets mapped to YouTube channels, you may see multiple YouTube links and a switch stream button.</span><br/>
+              <span className="about-body">That's because some tourneys run multiple live streams from the same channel and which one isn't known for a given set.</span><br/>
+              <br/>
+              <span className="about-heading1">Character info</span><br/>
+              <span className="about-body">Badges for <a className="about-body" href="https://x.com/SchuStats">SchuStats</a> character top 100 rankings are used to help provide context! </span><br/>
+              <br/>
+              <span className="about-heading1">Links to other useful sites</span><br/>
+              <span className="about-body">If you're looking for a map to find upcoming tournaments on, try these:</span><br/>
+              <a className="about-body" href="https://www.smash-mapping.com/" target="_blank">https://www.smash-mapping.com/</a><br/>
+              <a className="about-body" href="https://smash-map.com/" target="_blank">https://smash-map.com/</a><br/>
+              <br/>
+              <span className="about-heading1">Contact</span><br/>
+              <span className="about-body"><a className="about-body" href="https://x.com/jenghi_ssb">jenghi_ssb</a></span>
+
+*/
+
 
 function Home({homeMode=HomeModes.MAIN}) {
   return (
@@ -138,16 +179,18 @@ function Home({homeMode=HomeModes.MAIN}) {
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
             integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
             crossOrigin=""></script>
-
         {
-          MainComponent(homeMode = homeMode)
+          MainComponent(homeMode)
         }
       </header>
     </div>
   );
 }
 
-function renderLink(jsonData) {
+function renderLink(jsonData, shouldShow) {
+  if (!shouldShow) {
+    return
+  }
   var list = jsonData.map(item => item.streamInfo.forTheatre).filter(item => item !== null).filter((value, index, self) => self.indexOf(value) === index)
   var str = "https://twitchtheater.tv"
   list.forEach(item => {
@@ -156,7 +199,10 @@ function renderLink(jsonData) {
   return <div className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'}}>{"TwitchTheater link: "}</span><a href={str} target="_blank" className="bigLink">{str}</a></div>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim) {
+function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim, homeMode) {
+  if (homeMode == HomeModes.FULLMAP) {
+    return
+  }
   return <div className="setRows">{
     jsonData.map((item, index) => (
       <div className="set-row-3" index={index}>
@@ -199,7 +245,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
     }>
       <div className="tourney-icon" style={{backgroundImage: `url(${tourneyIconUrl})`, backgroundSize: "cover", backgroundPosition: "center",}} />
       <div className="set-row-2">
-        <span className="tourneyText">{item.bracketInfo.tourneyName}</span><br/>
+        {getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className="tourneyTitle">{item.bracketInfo.tourneyName}</span><br/>
         <span className="tourneyText" style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
