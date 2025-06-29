@@ -228,9 +228,17 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex, mainVide
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
-  return <div className="setRows">{
+  
+  var stylename1 = "setRows-flex"
+  var stylename2 = "set-row-3-flex"
+  if (homeMode == HomeModes.ALLINLIST) {
+    stylename1 = "setRows"
+    stylename2 = "set-row-3"
+  }
+
+  return <div className={stylename1}>{
     jsonData.map((item, index) => (
-      <div className="set-row-3" index={index}>
+      <div className={stylename2} index={index}>
         {renderDataRow(item, useVideoIn, handleIndexChange, index, itemIndex == index, mainVideoDim)}
       </div>
 

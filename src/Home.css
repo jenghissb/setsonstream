@@ -160,18 +160,27 @@
 }
 
 .set-row-3 {
-  /* width: 50% */
 }
+.set-row-3-flex {
+  flex-grow: 1;
+}
+
 
 .set-row-4 {
   margin-bottom: 8px;
 }
 
 .setRows {
-  /* display: flex;
-  flex-wrap: wrap; */
   overflow: hidden;
 }
+
+.setRows-flex {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+
+
 
 .rowPreviewHolder {
   margin-left: -18px;
