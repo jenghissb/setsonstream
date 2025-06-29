@@ -238,36 +238,28 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
 
 function renderMarkerText(item, zoomLevel) {
   console.log(item.player1Info.nameWithRomaji)
-  // var lumitier = item.bracketInfo.lumitier
-  var lumitier = "C+"
+  var lumitier = item.bracketInfo.lumitier
+  // var lumitier = "C+"
   var lumitierStr = ''
-  // if (lumitier.length > 0) {
-  //   lumitierStr = `<span style="background: solid gray; border-radius: 2px; border: 2px #fff">${lumitier}</span>`
-  // }
+  if (lumitier != null && lumitier.length > 0) {
+    lumitierStr = `<span style="background:rgb(8, 83, 181); font-size: 13px; padding-left: 5px; padding-right: 5px; padding-bottom: 2px; margin-left: -2px; margin-top: 80px; border-radius: 6px; border: 1px solid rgb(7, 41, 87); color: #fff">${lumitier}</span>`
+  }
   
-  var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px; flex; align-items: center; justify-content: center;">
-    <div>
-      <span style="font-size: 14px;font-weight: bolder; background: #fff; padding: 2px;">👤${item.bracketInfo.numEntrants}</span>${lumitierStr}</br>
+  var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px; flex; align-items: center; justify-content: center; position: relative;">
+    <div style="z-index: 1; margin-bottom: -2px; position: relative; ">
+      <span style="font-size: 16px;font-weight: bolder; background: #fff; padding-top:1px; padding-left:2px; padding-right:2px; border-top-left-radius:4px; border-top-right-radius:4px; border: 1px solid gray; border-bottom: 0;">👤${item.bracketInfo.numEntrants}</span>${lumitierStr}</br>
     </div>
-    <div style="background: white; width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid gray">
+    <div style=" background: white; width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid gray">
       <span >
         <span style="background: white">${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
         <br/>
         <span style="font-size: 12px;font-weight: bolder;">${item.player1Info.nameWithRomaji}</span> vs <span style="font-size: 12px;font-weight: bolder;">${item.player2Info.nameWithRomaji}</span><br/>
       </span>
-      </div>
-    </div>`
-
-
-  // var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px"><div><span style="font-size: 14px;font-weight: bolder; background: #ffffffcc">👤${item.bracketInfo.numEntrants}</span></br><span >${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
-  //     </div>
-  //     <div>
-  //       <span style="font-size: 12px;font-weight: bolder;">${item.player1Info.nameWithRomaji}</span> vs <span style="font-size: 12px;font-weight: bolder;">${item.player2Info.nameWithRomaji}</span><br/>
-  //     </div>
-  //   </div>`
+    </div>
+  </div>`
 
   if (zoomLevel < 4) {
-    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px"><div><span style="font-size: 14px;font-weight: bolder; background: #ffffffcc">👤${item.bracketInfo.numEntrants}</span></div?</div>`
+    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 16px; font-weight: bold; width:300px"><div><span style="font-size: 16px;font-weight: bolder; background: #ffffffff; padding-bottom:1px; padding-top:1px; padding-left:2px; padding-right:2px; border-radius:4px; border: 1px solid gray;">👤${item.bracketInfo.numEntrants}</span>${lumitierStr}</div></div>`
   }
   return txt
 }

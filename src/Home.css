@@ -37,6 +37,24 @@
   }
 }
 
+/* .roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+} */
+
 .overallDiv {
   width: vw;
   /* over flow: hidden; */
@@ -60,10 +78,23 @@
   line-height: 1.2;
   font-weight: bold;
   word-break: break-all;
+  text-decoration: none;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  paint-order: stroke fill;
+  text-shadow: 1.5px 1.5px 1.5px #000000;
+  /* text-shadow: 2px 2px 2px #000000; */
 }
 .playerName:hover {
   font-weight: 900;
   color: lightgray;
+}
+
+.vsText {
+  color: #FFF;
+  font-size:medium;
+  line-height: 1.2;
+  font-weight: bold;
 }
 
 .tourneyText {
@@ -71,7 +102,12 @@
   font-size:large;
   line-height: 1.2;
   font-weight: bold;
-  text-shadow: 1px 1px 1px #000000;
+  /* font-family: 'Helvetica Neue', Arial, sans-serif; */
+  /* font-family: "Roboto", sans-serif; */
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  paint-order: stroke fill;
+  text-shadow: 1.5px 1.5px 1.5px #000000;
   word-break: break-all;
 }
 
