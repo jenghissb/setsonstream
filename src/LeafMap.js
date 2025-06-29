@@ -121,7 +121,7 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
           data.map( (item, index) => {
             var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
             var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
-            var onMarkerClick = () => handleIndexChange(index)
+            var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
             var icon = new L.Icon({
               iconUrl: iconUrl,
               iconSize: [32, 32],

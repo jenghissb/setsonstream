@@ -4,6 +4,10 @@ import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon } from './Utilities.js'
 import {GameIds, Characters} from './GameInfo.js'
+import { initializeApp } from "firebase/app";
+import { getFirestore, doc, getDoc } from "firebase/firestore";
+import { getAnalytics } from "firebase/analytics";
+
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
   FULLMAP: 'FULLMAP',
@@ -33,13 +37,56 @@ function getInitialFilter() {
   }
 }
 
+function compareIntegers(a, b) {
+  if (a < b) {
+    return -1;
+  }
+  if (a > b) {
+    return 1;
+  }
+  return 0; // Preserve original order if values are equal
+}
+
+function getDisplayData(data, filterInfo) {
+  var sortedData = [...data].sort((a,b) => {
+    return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+  })
+  return sortedData
+}
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyDqeH6lwm1_jGfq2LvSCOtpRqjzOZ0n_pw",
+  authDomain: "setsonstream1.firebaseapp.com",
+  projectId: "setsonstream1",
+  storageBucket: "setsonstream1.firebasestorage.app",
+  messagingSenderId: "111757344724",
+  appId: "1:111757344724:web:9ceeb07889bf17c6e5e041",
+  measurementId: "G-R40CQL1S4W"
+};
+
+const firebaseApp = initializeApp(firebaseConfig);
+const firebaseDb = getFirestore(firebaseApp);
+const analytics = getAnalytics(firebaseApp);
+
+async function fetchBotData() {
+  const docRef = doc(firebaseDb, "data1", "latest");
+  const docSnap = await getDoc(docRef);
+
+  if (docSnap.exists()) {
+    return docSnap.data();
+  } else {
+    console.error("No such document!");
+  }
+}
+
 function MainComponent(homeMode) {
   const [filterInfo, setFilterInfo] = useState(getInitialFilter());
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [streamSubIndex, setStreamSubIndex] = useState(0);
-  const [itemIndex, setItemIndex] = useState(0);
+  const [currentItemKey, setCurrentItemKey] = useState(null);
   
   var useVideoIn = {
     popup: false,
@@ -53,11 +100,11 @@ function MainComponent(homeMode) {
     useVideoIn.panel = false
     useVideoIn.list = true
   }
-  const handleIndexChange = (newIndex) => {
-    if (itemIndex != newIndex) {
+  const handleIndexChange = (newSetKey) => {
+    if (currentItemKey != newSetKey) {
       setStreamSubIndex(0)
     }
-    setItemIndex(newIndex);
+    setCurrentItemKey(newSetKey);
   };
 
   const [dimensions, setDimensions] = useState({
@@ -85,12 +132,17 @@ function MainComponent(homeMode) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://v0-new-project-nxcrs7gtpb7.vercel.app/api/data');
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
+        const result = await fetchBotData();
+        console.log("response1")
+        console.log(result)
+        var data = result.jsonArr
+        if (data == null) {
+          data = []
         }
-        const result = await response.json();
-        setData(result);
+        data.forEach(item => {
+          item.bracketInfo.setKey = `${item.bracketInfo.setId}_${item.bracketInfo.tourneyId}`
+        })
+        setData(data);
       } catch (err) {
         setError(err);
       } finally {
@@ -116,13 +168,19 @@ function MainComponent(homeMode) {
 
   var mainVideoDim = { width, height }
 
-  var displayData = data.data
+  var displayData = getDisplayData(data, filterInfo)
   if (displayData == null) {
     displayData = []
   }
+  var itemKey = currentItemKey
+  if (itemKey == null && displayData.length > 0) {
+    itemKey = displayData[0].bracketInfo.setKey
+  }
+
   var preview = null
   if (useVideoIn.panel == true && displayData.length > 0) {
-    preview = <div className="topContainer">{MediaPreview({item: displayData[itemIndex], streamSubIndex, width, height})}</div>
+    var previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
+    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height})}</div>
   }
   var noData = null
   
@@ -156,7 +214,7 @@ function MainComponent(homeMode) {
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim, homeMode)
+        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode)
       }
     </div>
   );
@@ -224,7 +282,7 @@ function renderLink(jsonData, shouldShow) {
   return <div className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'}}>{"TwitchTheater link: "}</span><a href={str} target="_blank" className="bigLink">{str}</a></div>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex, mainVideoDim, homeMode) {
+function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -239,14 +297,14 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemIndex, mainVide
   return <div className={stylename1}>{
     jsonData.map((item, index) => (
       <div className={stylename2} index={index}>
-        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemIndex == index, mainVideoDim)}
+        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim)}
       </div>
 
     ))}
     </div>
 }
 
-function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mainVideoDim) {
+function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim) {
   var preview = null
   if (useVideoIn.list) {
     var scale = 0.97
@@ -259,7 +317,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
     if (selection.toString().length > 0) {
       return; // Exit the function to prevent further click handling
     }
-    handleIndexChange(index)
+    handleIndexChange(item.bracketInfo.setKey)
   }
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
