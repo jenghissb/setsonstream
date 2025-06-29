@@ -11,7 +11,7 @@ export function getCharUrl(charInfo, gameId){
 }
 
 export function charEmojiImagePath(name, gameId) {
-  return process.env.PUBLIC_URL + `/${gameId}/${name}.png`
+  return process.env.PUBLIC_URL + `/charEmojis/${gameId}/${name}.png`
 }
 
 export function schuEmojiImagePath(name) {
