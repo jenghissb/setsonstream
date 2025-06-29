@@ -83,11 +83,13 @@
   -webkit-text-stroke-color: black;
   paint-order: stroke fill;
   text-shadow: 1.5px 1.5px 1.5px #000000;
+  display: inline-block;
   /* text-shadow: 2px 2px 2px #000000; */
 }
 .playerName:hover {
-  font-weight: 900;
+  /* font-weight: 900; */
   color: lightgray;
+  transform: scale(1.05);
 }
 
 .vsText {
@@ -165,7 +167,6 @@
   flex-grow: 1;
 }
 
-
 .set-row-4 {
   margin-bottom: 8px;
 }
@@ -179,8 +180,6 @@
   flex-wrap: wrap;
   overflow: hidden;
 }
-
-
 
 .rowPreviewHolder {
   margin-left: -18px;
@@ -219,12 +218,13 @@
   color: #FFF;
   text-wrap: wrap;
   word-break: break-all;
+  display: inline-block;
 }
 
 .bracketLink:hover {
-  color: rgb(0, 68, 0);;
-  font-weight: bolder;
+  /* font-weight: bolder; */
   color: lightgray;
+  transform: scale(1.05);
 }
 
 .bracketLink:active {
