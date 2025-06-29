@@ -2,20 +2,20 @@ export function getStartggUserLink(userSlug) {
   return `https://start.gg/user/${userSlug}`;
 }
 
-export function getCharUrl(charInfo){
+export function getCharUrl(charInfo, gameId){
   if (charInfo.length > 0) {
-    return charEmojiImagePath(charInfo[0].name)
+    return charEmojiImagePath(charInfo[0].name, gameId)
   } else {
-    return charEmojiImagePath("ken")
+    return process.env.PUBLIC_URL + `/unknownchar.png`
   }
 }
 
-export function charEmojiImagePath(name) {
-  return process.env.PUBLIC_URL + "/botEmojis/" + name + ".png"
+export function charEmojiImagePath(name, gameId) {
+  return process.env.PUBLIC_URL + `/${gameId}/${name}.png`
 }
 
 export function schuEmojiImagePath(name) {
-  return process.env.PUBLIC_URL + "/scemojis/" + name + ".png"
+  return process.env.PUBLIC_URL + `/scemojis/${name}.png`
 }
 
 export function getLumitierIconStr(lumitier) {

@@ -3,14 +3,38 @@ import React, { useState, useEffect } from 'react';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon } from './Utilities.js'
-
+import {GameIds, Characters} from './GameInfo.js'
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
   FULLMAP: 'FULLMAP',
   ALLINLIST: 'ALLINLIST',
 });
 
+var EmptyFilterInfo = {
+  currentGameId: GameIds.SMASH_ULTIMATE,
+  filterInfo: {
+    1386: {
+      characters: [], // string[]
+    }
+  }
+}
+
+function getInitialFilter() {
+  var filterInfo = JSON.parse(localStorage.getItem('filterInfo'))
+  if (filterInfo == null) {
+    filterInfo = {
+      currentGameId: GameIds.SMASH_ULTIMATE,
+      filterInfo: {
+        [GameIds.SMASH_ULTIMATE]: {
+          characters: ["pikachu"], // string[]
+        },
+      }
+    }
+  }
+}
+
 function MainComponent(homeMode) {
+  const [filterInfo, setFilterInfo] = useState(getInitialFilter());
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -73,6 +97,7 @@ function MainComponent(homeMode) {
         setLoading(false);
       }
     };
+    // filterInfo
 
     fetchData();
   }, []);
@@ -254,7 +279,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
         )}
       </div>
       <div className="set-row-4">
-        <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "play1_")}<span className='vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "play2_")}<br/>
+        <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_")}<span className='vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_")}<br/>
       </div>
       <div className="rowPreviewHolder" >
       {
@@ -266,10 +291,10 @@ function renderDataRow(item, useVideoIn, handleIndexChange, index, selected, mai
   );
 }
 
-function charEmojis(charInfo, prekey) {  
+function charEmojis(charInfo, gameId, prekey) {  
   var emojiArrs = []
   charInfo.forEach((item, index) => {
-    emojiArrs.push(charEmojiImage(item.name, prekey + index + "_"))
+    emojiArrs.push(charEmojiImage(item.name, gameId, prekey + index + "_"))
     if (item.schuEmojiName != null) {
       emojiArrs.push(schuEmojiImage(item.schuEmojiName, prekey + "schu_" + index + "_"))
     }
@@ -278,8 +303,8 @@ function charEmojis(charInfo, prekey) {
     item
   )
 }
-function charEmojiImage(name, key = "") {
-  return <img className="charemoji" key={key} src={charEmojiImagePath(name)}/>
+function charEmojiImage(name, gameId, key = "") {
+  return <img className="charemoji" key={key} src={charEmojiImagePath(name, gameId)}/>
 }
 function schuEmojiImage(name, key = "") {
   return <img className="schuemoji" key={key} src={schuEmojiImagePath(name)}/>

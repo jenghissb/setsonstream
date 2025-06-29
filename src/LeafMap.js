@@ -8,6 +8,7 @@ import "leaflet/dist/leaflet.css";
 import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr } from './Utilities'
 import { MediaPreview } from './VideoEmbeds'
 import { spreadPoints } from './SpaceLatLon'
+
 function MapEventHelper({setZoomLevel}) {
   const MapEvents = useMapEvents({
       zoomend: (e) => {
@@ -118,8 +119,8 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
         }
         {
           data.map( (item, index) => {
-            var iconUrl = getCharUrl(item.player1Info.charInfo)
-            var iconUrl2 = getCharUrl(item.player2Info.charInfo)
+            var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
+            var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
             var onMarkerClick = () => handleIndexChange(index)
             var icon = new L.Icon({
               iconUrl: iconUrl,
@@ -230,7 +231,7 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
         {item.streamInfo.streamUrls.map((sInfo, index) => 
           <div><a href={sInfo.streamUrl} target="_blank" className="leafbracketLink">{sInfo.streamUrl}</a><br/></div>
         )}
-        <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, "leaf_play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, "leaf_play2_")}<br/>
+        <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "leaf_play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "leaf_play2_")}<br/>
       </div>
       {streamButton}
       {
@@ -264,10 +265,10 @@ function renderMarkerText(item, zoomLevel) {
   return txt
 }
 
-function charEmojis(charInfo, prekey) {
+function charEmojis(charInfo, gameId, prekey) {
   var emojiArrs = []
   charInfo.forEach((item, index) => {
-    emojiArrs.push(charEmojiImage(item.name, prekey + index + "_"))
+    emojiArrs.push(charEmojiImage(item.name, gameId, prekey + index + "_"))
     if (item.schuEmojiName != null) {
       emojiArrs.push(schuEmojiImage(item.schuEmojiName, prekey + "schu_" + index + "_"))
     }
@@ -277,8 +278,8 @@ function charEmojis(charInfo, prekey) {
   )
 }
 
-function charEmojiImage(name, key = "") {
-  return <img className="leafcharemoji" key={key} src={charEmojiImagePath(name)}/>
+function charEmojiImage(name, gameId, key = "") {
+  return <img className="leafcharemoji" key={key} src={charEmojiImagePath(name, gameId)}/>
 }
 function schuEmojiImage(name, key = "") {
   return <img className="leafschuemoji" key={key} src={schuEmojiImagePath(name)}/>
