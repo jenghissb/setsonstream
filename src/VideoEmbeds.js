@@ -27,10 +27,11 @@ function TwitchEmbed({ channel, width = 426, height = 240 }) {
   return (
     <iframe
       src={src}
+      muted={false}
       width={width}
       height={height}
       allowFullScreen={true}
-      parent={"jenghissb.github.io/setsonstream"}
+      parent={window.location.hostname}
       title={`Twitch stream for ${channel}`}
     />
   );

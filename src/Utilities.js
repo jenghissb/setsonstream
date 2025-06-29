@@ -6,7 +6,7 @@ export function getCharUrl(charInfo, gameId){
   if (charInfo.length > 0) {
     return charEmojiImagePath(charInfo[0].name, gameId)
   } else {
-    return process.env.PUBLIC_URL + `/unknownchar.png`
+    return process.env.PUBLIC_URL + `/charEmojis/unknownchar.png`
   }
 }
 
