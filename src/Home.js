@@ -129,7 +129,7 @@ function MainComponent(homeMode) {
   const [error, setError] = useState(null);
   const [streamSubIndex, setStreamSubIndex] = useState(0);
   const [currentItemKey, setCurrentItemKey] = useState(null);
-  const [showFilterModal, setShowFilterModal] = useState(true);
+  const [showFilterModal, setShowFilterModal] = useState(false);
 
   const currentGameId = filterInfo.currentGameId
 
