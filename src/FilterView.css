@@ -1,0 +1,115 @@
+.filterView {
+  /* width: 40px; */
+  /* height: 200px; */
+  width: 100%;
+  background-color: #000000;
+  border: 2px solid gray;
+  border-radius: 10px;
+  /* padding: 5px; */
+  /* margin: 30px; */
+  /* position: relative; */
+  position:relative;
+}
+
+.gameListContainer {
+  background-color: #007700;
+  width: 40px;
+  height: 200px;
+  left:0px;
+  right:0px;
+  width: fit-content;
+  height:fit-content;
+}
+
+.filterItem {
+  font-size: medium;
+  margin-right: 10px;
+  font-weight: 500;
+  color: rgb(211, 210, 210);
+  text-decoration: none;
+  padding-left: 4px;
+}
+
+.filterButton:active {
+  opacity: 0.8;
+  transform: scale(1.04);
+}
+
+.xButton {
+  position: absolute;
+  top:0;
+  right:0;
+  /* right:100vw; */
+  width: 40px;
+  height: 40px;
+  /* background-color: #007700; */
+  display: flex; /* Make the container a flex container */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.xButton:active {
+  opacity: 0.8;
+  transform: scale(1.1);
+}
+
+.xButton:hover {
+  opacity: 0.8;
+  transform: scale(1.1);
+}
+
+
+.xSvg {
+
+}
+
+.filterTitle {
+  font-size: larger;
+  color: #fff;
+  align-self: flex-start;
+  text-align: left;
+  padding: 6px;
+}
+
+.charList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-height: 120px;
+
+  /* height:300px; */
+  /* row */
+  overflow-x: scroll;
+}
+
+.charTile {
+  width: 60px;
+  height: 60px;
+  margin: 1px;
+  opacity: 60%;
+}
+
+.charTileMatches {
+  opacity: 100%;
+  box-shadow: 0 0 100px greenyellow;
+}
+
+.charFilterContainer {
+  position: absolute;
+  top:0;
+  left:0;
+  width: 40px;
+  height: 40px;
+}
+.charFilterIcon {
+  width: 18px;
+  height: 18px;
+  /* position: absolute;
+  top: 0px;
+  left: 0px; */
+}
+
+.filterModal {
+  width:100vw;
+  height:calc(100dvh - 100px)
+}

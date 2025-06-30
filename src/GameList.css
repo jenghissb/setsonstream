@@ -1,0 +1,38 @@
+.AppNavBar {
+}
+
+.gameList {
+    flex-direction: row;
+    display: flex;
+    width: 100vw;
+    overflow-x: scroll;
+    /* height: 25px; */
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgb(24, 27, 27);
+}
+
+.gameItem {
+    width: 60px;
+    height: 80px;
+    font-size: medium;
+    margin: 5px;
+    /* font-weight: 500;
+    color: rgb(211, 210, 210);
+    text-decoration: none;
+    padding-left: 4px; */
+}
+
+.currentGame {
+  transform: scale(1.15);
+}
+.gameItem:hover {
+  font-weight: 700;
+  opacity: 0.8;
+  /* transform: scale(1.1)  */
+}
+.gameItem:active {
+  transform: scale(1.15);
+  opacity: 0.8;
+}
+

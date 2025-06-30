@@ -1,9 +1,13 @@
 import './Home.css';
 import React, { useState, useEffect } from 'react';
+import { createPortal } from 'react-dom';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon } from './Utilities.js'
-import {GameIds, Characters} from './GameInfo.js'
+import { GameIds, Characters } from './GameInfo.js'
+import { renderGameList } from './GameList.js'
+import { FilterView } from './FilterView.js'
+import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { getAnalytics } from "firebase/analytics";
@@ -16,8 +20,8 @@ export const HomeModes = Object.freeze({
 
 var EmptyFilterInfo = {
   currentGameId: GameIds.SMASH_ULTIMATE,
-  filterInfo: {
-    1386: {
+  filters: {
+    "1386": {
       characters: [], // string[]
     }
   }
@@ -25,16 +29,24 @@ var EmptyFilterInfo = {
 
 function getInitialFilter() {
   var filterInfo = JSON.parse(localStorage.getItem('filterInfo'))
+  // filterInfo = null
   if (filterInfo == null) {
     filterInfo = {
       currentGameId: GameIds.SMASH_ULTIMATE,
-      filterInfo: {
+      filters: {
         [GameIds.SMASH_ULTIMATE]: {
-          characters: ["pikachu"], // string[]
+          characters: ["ken"], // string[]
         },
       }
     }
   }
+  if (filterInfo.filters[filterInfo.currentGameId] == undefined) {
+    filterInfo.filters[filterInfo.currentGameId] = {}
+  }
+  if (filterInfo.filters[filterInfo.currentGameId].characters == undefined) {
+    filterInfo.filters[filterInfo.currentGameId].characters = []
+  }
+  return filterInfo
 }
 
 function compareIntegers(a, b) {
@@ -47,9 +59,39 @@ function compareIntegers(a, b) {
   return 0; // Preserve original order if values are equal
 }
 
+function hasCharacter(item, charName) {
+  return (charInfoHasCharacter(item.player1Info.charInfo, charName) || 
+    charInfoHasCharacter(item.player2Info.charInfo, charName))
+}
+function charInfoHasCharacter(charInfo, charName) {
+  var hasCharacter = false
+  charInfo.forEach(item => {
+    if (item.name == charName) {
+      hasCharacter = true
+    }
+  })
+  return hasCharacter
+}
+
+function itemMatchesFilter(item, filterInfo) {
+  var matchesFilter = false
+  filterInfo?.filters[filterInfo.currentGameId]?.characters?.forEach(charName => {
+    if (hasCharacter(item, charName)) {
+      matchesFilter = true
+    }
+  })
+  return matchesFilter
+}
+
 function getDisplayData(data, filterInfo) {
   var sortedData = [...data].sort((a,b) => {
     return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+  })
+  sortedData.forEach(item => {
+    item.matchesFilter = itemMatchesFilter(item, filterInfo)
+  })
+  sortedData = [...sortedData].sort((a,b) => {
+    return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
   })
   return sortedData
 }
@@ -69,8 +111,8 @@ const firebaseApp = initializeApp(firebaseConfig);
 const firebaseDb = getFirestore(firebaseApp);
 const analytics = getAnalytics(firebaseApp);
 
-async function fetchBotData() {
-  const docRef = doc(firebaseDb, "data1", "latest");
+async function fetchBotData(gameId) {
+  const docRef = doc(firebaseDb, "data1", `${gameId}`);
   const docSnap = await getDoc(docRef);
 
   if (docSnap.exists()) {
@@ -87,7 +129,10 @@ function MainComponent(homeMode) {
   const [error, setError] = useState(null);
   const [streamSubIndex, setStreamSubIndex] = useState(0);
   const [currentItemKey, setCurrentItemKey] = useState(null);
-  
+  const [showFilterModal, setShowFilterModal] = useState(true);
+
+  const currentGameId = filterInfo.currentGameId
+
   var useVideoIn = {
     popup: false,
     list: false,
@@ -106,6 +151,36 @@ function MainComponent(homeMode) {
     }
     setCurrentItemKey(newSetKey);
   };
+
+  const updateCurrentGame = (newGameId) => {
+    var newFilterInfo = {
+      ...filterInfo,
+      currentGameId: newGameId,
+    };
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
+  const toggleCharacter = (charName, gameId) => {
+    var newFilters = {...filterInfo.filters}
+    if (newFilters[gameId] == undefined) {
+      newFilters[gameId] = {}
+    }
+    var characters = newFilters[gameId]?.characters ?? []
+    var newCharacters = []
+    if (characters.indexOf(charName) > -1) {
+      newCharacters = characters.filter(item => item != charName)
+    } else {
+      newCharacters = [...characters, charName]
+    }
+    newFilters[gameId].characters = newCharacters
+
+    var newFilterInfo = {...filterInfo, filters: newFilters}
+
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
 
   const [dimensions, setDimensions] = useState({
     width: window.innerWidth,
@@ -132,9 +207,7 @@ function MainComponent(homeMode) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const result = await fetchBotData();
-        console.log("response1")
-        console.log(result)
+        const result = await fetchBotData(filterInfo.currentGameId);
         var data = result.jsonArr
         if (data == null) {
           data = []
@@ -149,10 +222,8 @@ function MainComponent(homeMode) {
         setLoading(false);
       }
     };
-    // filterInfo
-
     fetchData();
-  }, []);
+  }, [filterInfo.currentGameId]);
 
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error: {error.message}</p>;
@@ -216,40 +287,38 @@ function MainComponent(homeMode) {
       {
         renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode)
       }
+      <div className="bottomOffsetDiv"/>
+      { 
+        renderFooterButton(filterInfo, () => setShowFilterModal(true))
+      }
+      {
+        renderFooter(filterInfo, gameInfo => updateCurrentGame(gameInfo.id), () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+      }
     </div>
   );
 }
 
-/*
-              <span className="about-heading1">About SetsOnStream</span><br/>
-              <span className="about-body">SetsOnStream is a project to see what sets are on stream,</span>
-              <span className="about-body" style={{position: 'sticky', top:"0px"}}> and watch sets from around the world</span><br/>
-              <span className="about-body">Its origin is as an offshoot project of the SetsOnStream discord bot for charcords</span><br/>
-              <span className="about-body">SetsOnStream works by querying the active sets labeled as on stream in the start.gg API</span><br/>
-              <br/>
-              <span className="about-heading1">Limitations of SetsOnStream</span><br/>
-              <span className="about-body">SetsOnStream will catch many tourney sets on stream!</span><br/>
-              <span className="about-body">However, some amount of sets will not appear if they do not label a set for stream and set it active.</span><br/>
-              <span className="about-body">When using SetsOnStream, will need to refresh to pull current data</span><br/>
-              <span className="about-body">SetsOnStream guesses the character based on previous character history.  There are a lot of multi-main players so accuracy may vary.</span><br/>
-              <br/>
-              <span className="about-heading1">YouTube streams</span><br/>
-              <span className="about-body">For sets mapped to YouTube channels, you may see multiple YouTube links and a switch stream button.</span><br/>
-              <span className="about-body">That's because some tourneys run multiple live streams from the same channel and which one isn't known for a given set.</span><br/>
-              <br/>
-              <span className="about-heading1">Character info</span><br/>
-              <span className="about-body">Badges for <a className="about-body" href="https://x.com/SchuStats">SchuStats</a> character top 100 rankings are used to help provide context! </span><br/>
-              <br/>
-              <span className="about-heading1">Links to other useful sites</span><br/>
-              <span className="about-body">If you're looking for a map to find upcoming tournaments on, try these:</span><br/>
-              <a className="about-body" href="https://www.smash-mapping.com/" target="_blank">https://www.smash-mapping.com/</a><br/>
-              <a className="about-body" href="https://smash-map.com/" target="_blank">https://smash-map.com/</a><br/>
-              <br/>
-              <span className="about-heading1">Contact</span><br/>
-              <span className="about-body"><a className="about-body" href="https://x.com/jenghi_ssb">jenghi_ssb</a></span>
+function renderFooterButton(filterInfo, onOpen ) {
+  return <div className="footerButtonContainer">
+      <div className="filterButtonHolder">
+        {renderFilterButton(filterInfo, onOpen)}
+      </div>
+  </div>
+}
 
-*/
-
+function renderFooter(filterInfo, onGameClick, onClose, showFilterModal, toggleCharacter ) {
+  if (!showFilterModal) {
+    return
+  }
+  return (
+    <div className="fullFooter">
+      <div className="footerOutside" onClick={onClose}/>
+      <div className="footerContent">
+      {FilterView(filterInfo, onGameClick, onClose, toggleCharacter)}
+      </div>
+    </div>
+  )
+}
 
 function Home({homeMode=HomeModes.MAIN}) {
   return (

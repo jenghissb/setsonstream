@@ -64,6 +64,52 @@
   top: 20px; */
 }
 
+.fullFooter {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 210;
+  display: flex;
+  flex-direction: column;
+}
+
+.footerOutside {
+  backdrop-filter: brightness(40%);
+  height:200;
+  width:100vw;
+  flex-grow:1;
+}
+
+.footerContent {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100vw;
+  z-index: 210;
+}
+
+.bottomOffsetDiv {
+  height:64px;
+}
+
+
+.footerButtonContainer {
+  position: fixed;
+  bottom: 15px;
+  right: 25px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 200;
+  /* width: 100%; */
+}
+
+
+
 .charemoji {
   height: 36px;
   width: 36px;
@@ -253,6 +299,12 @@
   color: white;
   padding-top: 4px;
   padding-bottom: 4px;
+}
+
+.filterButtonHolder {
+  align-self: flex-end;
+  justify-self: flex-end;
+  margin-right: 10px;
 }
 
 .bigLinkLabel {

@@ -245,12 +245,16 @@ function renderMarkerText(item, zoomLevel) {
   var lumitier = item.bracketInfo.lumitier
   // var lumitier = "C+"
   var lumitierIconStr = getLumitierIconStr(lumitier)
-  
+  // var shadowColor = "#F9D84999";
+  var shadowColor = "#00ffff99";
+  var shadowText1 = item.matchesFilter ? "box-shadow: 12px 0px 40px 20px "+shadowColor+"; " : ""
+  var shadowText2 = item.matchesFilter ? "box-shadow: 0px -15px 40px 12px "+shadowColor+"; ": ""
+
   var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px; flex; align-items: center; justify-content: center; position: relative;">
     <div style="z-index: 1; margin-bottom: -2px; position: relative; ">
       <span style="font-size: 16px;font-weight: bolder; background: #fff; padding-top:1px; padding-left:2px; padding-right:2px; border-top-left-radius:4px; border-top-right-radius:4px; border: 1px solid gray; border-bottom: 0;">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</br>
     </div>
-    <div style=" background: white; width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid gray">
+    <div style=" background: white; width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid gray; ${shadowText2}">
       <span >
         <span style="background: white">${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
         <br/>
@@ -260,7 +264,7 @@ function renderMarkerText(item, zoomLevel) {
   </div>`
 
   if (zoomLevel < 4) {
-    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 16px; font-weight: bold; width:300px"><div><span style="font-size: 16px;font-weight: bolder; background: #ffffffff; padding-bottom:1px; padding-top:1px; padding-left:2px; padding-right:2px; border-radius:4px; border: 1px solid gray;">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</div></div>`
+    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 16px; font-weight: bold; width:300px"><div><span style="font-size: 16px;font-weight: bolder; background: #ffffffff; padding-bottom:1px; padding-top:1px; padding-left:2px; padding-right:2px; border-radius:4px; border: 1px solid gray; ${shadowText1}">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</div></div>`
   }
   return txt
 }

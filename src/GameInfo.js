@@ -5,6 +5,99 @@ export const GameIds = {
 
 export const Characters = Object.freeze({
   "1386": {
-    charList: ["banjokazooie","bayonetta","bowser","bowserjr","byleth","captainfalcon","chrom","cloud","corrin","daisy","darkpit","darksamus","diddykong","donkeykong","drmario","duckhunt","falco","fox","ganondorf","gnw","greninja","hero","iceclimbers","ike","incineroar","inkling","isabelle","jigglypuff","joker","kazuya","ken","kingdedede","kingkrool","kirby","link","littlemac","lucario","lucas","lucina","luigi","mario","marth","marthlucina","megaman","metaknight","mewtwo","miibrawler","miigunner","miiswordfighter","minmin","mythra","ness","olimar","pacman","palutena","peach","peachdaisy","pichu","pikachu","piranhaplant","pit","pitdarkpit","pokemontrainer","pyra","pyramythra","richter","ridley","rob","robin","rosalinaandluma","roy","ryu","samus","samusdarksamus","sephiroth","sheik","shulk","simon","simonrichter","snake","sonic","sora","steve","terry","toonlink","villager","wario","wiifittrainer","wolf","yoshi","younglink","zelda","zss"]
+    charList: ["banjokazooie","bayonetta","bowser","bowserjr","byleth","captainfalcon","chrom","cloud","corrin","diddykong","donkeykong","drmario","duckhunt","falco","fox","ganondorf","gnw","greninja","hero","iceclimbers","ike","incineroar","inkling","isabelle","jigglypuff","joker","kazuya","ken","kingdedede","kingkrool","kirby","link","littlemac","lucario","lucas","lucina","luigi","mario","marth","megaman","metaknight","mewtwo","miibrawler","miigunner","miiswordfighter","minmin","mythra","ness","olimar","pacman","palutena","peachdaisy","pichu","pikachu","piranhaplant","pitdarkpit","pokemontrainer","pyra","pyramythra","ridley","rob","robin","rosalinaandluma","roy","ryu","samusdarksamus","sephiroth","sheik","shulk","simonrichter","snake","sonic","sora","steve","terry","toonlink","villager","wario","wiifittrainer","wolf","yoshi","younglink","zelda","zss"]
   }
 });
+
+// 264x352
+export const VideoGameInfo = Object.freeze([
+  {
+    "id": "1386",
+    "name": "Super Smash Bros. Ultimate",
+    "displayName": "Ultimate",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/1386/image-d24f740623a31f9e1eec2aabc30f4ba2.jpg?ehk=Sn%2F72y2MSZz0neS6sqFNaHrl%2BK4pvHdLB7xd9CDX684%3D&ehkOptimized=Cv4voljXe9IIL1YmYNqg162zjL1hDYQvuyujRyflMX4%3D"
+      },
+      {
+        "url": "https://images.start.gg/images/videogame/1386/image-df8b5408537089162788e68e026dee7b.png?ehk=KcISCzQslXsN9BRFd2lOX73XyWRcoKvUXSGlpkowu0Y%3D&ehkOptimized=bqVSF19aK4hKWmDEMRF1VwbkqBjFD%2FkAjY9I5SuPASE%3D"
+      }
+    ]
+  },
+  {
+    "id": "43868",
+    "name": "Street Fighter 6",
+    "displayName": "Street Fighter 6",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/43868/image-e3e3c405db59bae213cb02dfee9ab9a0.jpg?ehk=ZtdBgarQyX4bTSuJWfPLdaFWXToJ3c2tx7DKUw7pN%2Fs%3D&ehkOptimized=jKLhJExgAx9csoAYGUD7hYyVdY1fPcbM1Cat8AekxtY%3D"
+      },
+      {
+        "url": "https://images.start.gg/images/videogame/43868/image-983f6864d7ceec4eba46f2b1f2f96376.png?ehk=HbhnGpjHRr%2BzkoySljQC%2Bm4q8XWCUKVLfXmS8LlrxeU%3D&ehkOptimized=NyI804ksN7oS9PNRBRqfpr7bJ2%2FrjarPE4tZCMMPfjs%3D"
+      }
+    ]
+  },
+  {
+    "id": "49783",
+    "name": "TEKKEN 8",
+    "displayName": "TEKKEN 8",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/49783/image-acc13f09acce9819aa908ba77d621a05.jpg?ehk=jYogwhWRsoP38Mt7kbA5RLwuoFoH8y%2FBKabBOaDnmdg%3D&ehkOptimized=xnCM%2FeDWTNnEiVwwtXti50eZLgSc%2B6pb%2BTs2Do8O0Ks%3D"
+      },
+      {
+        "url": "https://images.start.gg/images/videogame/49783/image-02076b03b40cbedcb96897a43670cfd5.jpg?ehk=bkXbFQDPPDs2aWLfmPbaXKggVvhnjobAF2bDh8%2FrRsI%3D&ehkOptimized=ImVCZu9KMU1cYTP8tG150ZAnXPSt2vLAIcu87A1GhRQ%3D"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Super Smash Bros. Melee",
+    "displayName": "Melee",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/1/image-36450d5d1b6f2c693be2abfdbc159106.jpg?ehk=kHyxo9ZpitIjPcTdkRi6H4H8JkRXjeM5%2BousqjDV%2B%2FI%3D&ehkOptimized=CRpoBnGE8dtJkSIGcd2811UkurtlEPOKEay%2BqgCETlQ%3D"
+      },
+      {
+        "url": "https://images.start.gg/images/videogame/1/image-5584f7c210c950a8b2bd65fbb6195f7a.png?ehk=zh8NxsAXJnb9bF8afAoE4%2Bw%2BFMB0jyoilZEtEKVXZwc%3D&ehkOptimized=fitamXYJEzDP2zNEjQkKW%2FYSWDlVsQ1OBEalHKu5CoE%3D"
+      }
+    ]
+  },
+  {
+    "id": "33945",
+    "name": "Guilty Gear: Strive",
+    "displayName": "Guilty Gear: Strive",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/33945/image-baf58126feb19827670d6e88deac0d39.jpg?ehk=FXPTXzzOOO6%2BGgZFvIxiGkBMRyBPJlsWi3%2BSecHOOfU%3D&ehkOptimized=%2FSlM7PUdFRks7tJDVFTYaE1uV1MRIEI3Po0%2Br2geFZk%3D"
+      },
+      {
+        "url": "https://images.start.gg/images/videogame/33945/image-100cf5f061503040429d489b79a3f54b.png?ehk=x4DN%2FdLv673ZPlSMFhS8cFNnIwPBHKjolT9S1TPJtu0%3D&ehkOptimized=YERewzBGH83HSe7aSCtYVZ6vqvyZyKFxh9xbdFY91uc%3D"
+      }
+    ]
+  },
+  {
+    "id": "48548",
+    "name": "Granblue Fantasy Versus: Rising",
+    "displayName": "Granblue Fantasy Versus: Rising",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/48548/image-671eaa79165e3a80d6f89b2c9a09ccec.png?ehk=zAEyeT%2FAaIjXbqDLrJGHdHaPbEZDJtF6zgewmNx4c4M%3D&ehkOptimized=YWQ5ZkLjjw5VIxh98wlX%2Bo%2FwX6xRmQpglqMY5vEcG2Y%3D"
+      }
+    ]
+  },
+  {
+    "id": "53945",
+    "name": "Rivals of Aether II",
+    "displayName": "Rivals of Aether II",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/53945/image-51b85875cc3581106eb5986c02343438.png?ehk=9M208lBU1rR4A9Gxq2XobwvNaq5AwIio9exvntOrKOI%3D&ehkOptimized=TnKDP3iLZIJKAU4Zvf7CJ9yWRKM0F%2FbNtMtjVHAVfwY%3D"
+      }
+    ]
+  },
+]);
+
+export const VideoGameInfoById = Object.fromEntries(
+  VideoGameInfo.map(item => [item.id, item])
+);
