@@ -42,7 +42,7 @@ function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true })
       width={width}
       height={height}
       allowFullScreen={true}
-      parent={"www"+window.location.hostname}
+      parent={"www."+window.location.hostname}
       title={`Twitch stream for ${channel}`}
     />
   );
