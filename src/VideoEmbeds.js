@@ -31,6 +31,8 @@ function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true })
     src = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=${window.location.hostname}`
   }
 
+  console.log(src)
+
   // const vodUrl = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=${window.location.hostname}`
 
   return (
