@@ -28,7 +28,7 @@ function BlankEmbed({width = 426, height = 240 }) {
 function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true }) {
   var src = `https://player.twitch.tv/?channel=${channel}&parent=${window.location.hostname}`;
   if (!useLiveStream) {
-    src = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=${window.location.hostname}`
+    src = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=www.${window.location.hostname}`
   }
 
   console.log(src)
@@ -42,7 +42,7 @@ function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true })
       width={width}
       height={height}
       allowFullScreen={true}
-      parent={window.location.hostname}
+      parent={"www"+window.location.hostname}
       title={`Twitch stream for ${channel}`}
     />
   );
