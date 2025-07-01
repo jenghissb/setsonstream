@@ -4,7 +4,8 @@ export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, 
     return BlankEmbed({width, height})
   }
   if (item.streamInfo.streamSource === "TWITCH") {
-    return TwitchEmbed({channel: item.streamInfo.forTheatre, width, height, useLiveStream})
+    var streamUrlInfo = item.streamInfo.streamUrls[0]
+    return TwitchEmbed({channel: item.streamInfo.forTheatre, width, height, useLiveStream, videoId:streamUrlInfo.videoId, offsetHms:streamUrlInfo.offsetHms})
   } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[streamSubIndex].embedUrl) {
     return YoutubeEmbed({url: item.streamInfo.streamUrls[streamSubIndex].embedUrl, width, height})
   } else {
@@ -25,10 +26,10 @@ function BlankEmbed({width = 426, height = 240 }) {
   );
 }
 
-function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true }) {
+function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true, videoId, offsetHms }) {
   var src = `https://player.twitch.tv/?channel=${channel}&parent=${window.location.hostname}`;
-  if (!useLiveStream) {
-    src = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=www.${window.location.hostname}`
+  if (!useLiveStream && videoId != null && offsetHms != null) {
+    src = `https://player.twitch.tv/?video=${videoId}&t=${offsetHms}&parent=${window.location.hostname}`
   }
 
   console.log(src)
@@ -42,7 +43,7 @@ function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true })
       width={width}
       height={height}
       allowFullScreen={true}
-      parent={"www."+window.location.hostname}
+      parent={window.location.hostname}
       title={`Twitch stream for ${channel}`}
     />
   );

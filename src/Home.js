@@ -419,7 +419,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
         {getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className="tourneyTitle">{item.bracketInfo.tourneyName}</span><br/>
         <span className="tourneyText" style={{ marginRight: '5px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
-        <span style={{display: "inline-block"}}>{renderRewindAndLiveButtons(useLiveStream, updateIndexAndSetLive)}</span><br/>
+        {renderRewindAndLiveButtons(item, useLiveStream, updateIndexAndSetLive)}
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => 
           <div ><a href={sItem.streamUrl} target="_blank" className="bracketLink">{sItem.streamUrl}</a><br/></div>

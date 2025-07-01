@@ -111,3 +111,21 @@ export function useOnClickOutside(ref, handler) {
     [ref, handler] // Re-run if ref or handler changes
   );
 }
+
+
+export function supportsRewindSet(item) {
+  var supportsRewind = false
+  if (item == null || item.streamInfo == undefined) {
+    // supportsRewind = false
+  } else if (item.streamInfo.streamSource === "TWITCH") {
+    var streamUrlInfo = item.streamInfo.streamUrls[0]
+    if (streamUrlInfo.videoId != null && streamUrlInfo.offsetHms != null) {
+      supportsRewind = true
+    }
+  } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[0].embedUrl) {
+    // supportsRewind = false
+  } else {
+    // supportsRewind = false
+  }
+  return supportsRewind
+}
