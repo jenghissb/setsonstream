@@ -1,10 +1,10 @@
 
-export function MediaPreview({item, streamSubIndex=0, width = 426, height = 240}) {
+export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true}) {
   if (item == null || item.streamInfo == undefined) {
     return BlankEmbed({width, height})
   }
   if (item.streamInfo.streamSource === "TWITCH") {
-    return TwitchEmbed({channel: item.streamInfo.forTheatre, width, height})
+    return TwitchEmbed({channel: item.streamInfo.forTheatre, width, height, useLiveStream})
   } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[streamSubIndex].embedUrl) {
     return YoutubeEmbed({url: item.streamInfo.streamUrls[streamSubIndex].embedUrl, width, height})
   } else {
@@ -25,8 +25,11 @@ function BlankEmbed({width = 426, height = 240 }) {
   );
 }
 
-function TwitchEmbed({ channel, width = 426, height = 240 }) {
-  const src = `https://player.twitch.tv/?channel=${channel}&parent=${window.location.hostname}`;
+function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true }) {
+  var src = `https://player.twitch.tv/?channel=${channel}&parent=${window.location.hostname}`;
+  if (!useLiveStream) {
+    src = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=${window.location.hostname}`
+  }
 
   // const vodUrl = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=${window.location.hostname}`
 

@@ -3,10 +3,11 @@ import React, { useState, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
-import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon } from './Utilities.js'
+import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem } from './Utilities.js'
 import { GameIds, Characters } from './GameInfo.js'
 import { renderGameList } from './GameList.js'
 import { FilterView } from './FilterView.js'
+import { renderRewindAndLiveButtons, renderRewindSetButton} from './RewindSetButton.js'
 import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
@@ -128,6 +129,7 @@ function MainComponent(homeMode) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [streamSubIndex, setStreamSubIndex] = useState(0);
+  const [useLiveStream, setUseLiveStream] = useState(true);
   const [currentItemKey, setCurrentItemKey] = useState(null);
   const [showFilterModal, setShowFilterModal] = useState(false);
 
@@ -148,6 +150,9 @@ function MainComponent(homeMode) {
   const handleIndexChange = (newSetKey) => {
     if (currentItemKey != newSetKey) {
       setStreamSubIndex(0)
+      if (currentItemKey != null) {
+        setUseLiveStream(true)
+      }
     }
     setCurrentItemKey(newSetKey);
   };
@@ -251,7 +256,7 @@ function MainComponent(homeMode) {
   var preview = null
   if (useVideoIn.panel == true && displayData.length > 0) {
     var previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
-    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height})}</div>
+    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height, useLiveStream})}</div>
   }
   var noData = null
   
@@ -285,7 +290,7 @@ function MainComponent(homeMode) {
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode)
+        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream)
       }
       <div className="bottomOffsetDiv"/>
       { 
@@ -351,7 +356,7 @@ function renderLink(jsonData, shouldShow) {
   return <div className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'}}>{"TwitchTheater link: "}</span><a href={str} target="_blank" className="bigLink">{str}</a></div>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode) {
+function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -366,14 +371,14 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoD
   return <div className={stylename1}>{
     jsonData.map((item, index) => (
       <div className={stylename2} index={index}>
-        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim)}
+        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim, useLiveStream, setUseLiveStream)}
       </div>
 
     ))}
     </div>
 }
 
-function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim) {
+function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim, useLiveStream, setUseLiveStream) {
   var preview = null
   if (useVideoIn.list) {
     var scale = 0.97
@@ -394,6 +399,12 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
     tourneyBackgroundUrl = item.bracketInfo.images[1].url
     tourneyIconUrl = item.bracketInfo.images[0].url
   }catch{}
+  var viewersText=""
+  viewersText = getViewersTextFromItem(item)
+  var updateIndexAndSetLive = (newLive) => {
+    handleIndexChange(item.bracketInfo.setKey)
+    setUseLiveStream(newLive)
+  }
   return (
     <div className={divClass} onClick={onClick} style={
       {
@@ -406,8 +417,9 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
       <div className="tourney-icon" style={{backgroundImage: `url(${tourneyIconUrl})`, backgroundSize: "cover", backgroundPosition: "center",}} />
       <div className="set-row-2">
         {getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className="tourneyTitle">{item.bracketInfo.tourneyName}</span><br/>
-        <span className="tourneyText" style={{ marginRight: '5px' }}>👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+        <span className="tourneyText" style={{ marginRight: '5px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
+        <span style={{display: "inline-block"}}>{renderRewindAndLiveButtons(useLiveStream, updateIndexAndSetLive)}</span><br/>
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => 
           <div ><a href={sItem.streamUrl} target="_blank" className="bracketLink">{sItem.streamUrl}</a><br/></div>

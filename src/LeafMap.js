@@ -5,7 +5,7 @@ import L from 'leaflet';
 import { MapContainer, TileLayer, Marker, Popup, useMapEvents } from "react-leaflet";
 import { divIcon , DivIcon} from 'leaflet';
 import "leaflet/dist/leaflet.css";
-import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr } from './Utilities'
+import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr, getViewersTextFromItem } from './Utilities'
 import { MediaPreview } from './VideoEmbeds'
 import { spreadPoints } from './SpaceLatLon'
 
@@ -215,6 +215,7 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
   // var lumitier = "C+"
   // var lumitierIconStr = getLumitierIconStr(lumitier)
   //getLumitierIcon(lumitier)
+  var viewersText = getViewersTextFromItem(item)
   return (
     <div className="leafset-row-1"> 
       <div className={infoSectionStyle} style={
@@ -225,7 +226,7 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
       }
     }>
         <span className="leaftourneyName">{getLumitierIcon(lumitier, {marginRight: '6px'})}{item.bracketInfo.tourneyName}</span><br/>
-        <span className="leafEntrants" style={{ marginRight: '3px' }}>👤 {item.bracketInfo.numEntrants}{" "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+        <span className="leafEntrants" style={{ marginRight: '3px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{" "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
         <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sInfo, index) => 

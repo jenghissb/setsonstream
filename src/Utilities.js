@@ -78,6 +78,17 @@ function getLumiColor(lumitier) {
     return lumiColor
 }
 
+export function getViewersTextFromItem(item) {
+  var viewersText = ""
+  var streamUrls = item.streamInfo.streamUrls
+  if(streamUrls.length > 0 && streamUrls[0].numberOfViewers) {
+    if (streamUrls[0].numberOfViewers !=null && streamUrls[0].numberOfViewers > 5) {
+      viewersText = `👁️ ${streamUrls[0].numberOfViewers}  `
+    }
+  }
+  return viewersText
+}
+
 export function useOnClickOutside(ref, handler) {
   useEffect(
     () => {

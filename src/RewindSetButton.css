@@ -1,0 +1,17 @@
+
+.rewindSetButton {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  /* background-color: aqua; */
+}
+
+.rewindSetButton:active {
+  transform: scale(1.15);
+  /* opacity: 0.8; */
+}
+
+.rewindSetButton:hover {
+  transform: scale(1.15);
+  /* opacity: 0.8; */
+}
