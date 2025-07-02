@@ -12,6 +12,7 @@ import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { getAnalytics } from "firebase/analytics";
+import pako from 'pako';
 
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
@@ -85,7 +86,9 @@ function itemMatchesFilter(item, filterInfo) {
 }
 
 function getDisplayData(data, filterInfo) {
-  var sortedData = [...data].sort((a,b) => {
+  var dataToStart = data[filterInfo.currentGameId].live
+  // var dataToStart = data[filterInfo.currentGameId].vods
+  var sortedData = [...dataToStart].sort((a,b) => {
     return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
   })
   sortedData.forEach(item => {
@@ -113,7 +116,7 @@ const firebaseDb = getFirestore(firebaseApp);
 const analytics = getAnalytics(firebaseApp);
 
 async function fetchBotData(gameId) {
-  const docRef = doc(firebaseDb, "data1", `${gameId}`);
+  const docRef = doc(firebaseDb, "data1", "allInfo");
   const docSnap = await getDoc(docRef);
 
   if (docSnap.exists()) {
@@ -121,6 +124,22 @@ async function fetchBotData(gameId) {
   } else {
     console.error("No such document!");
   }
+}
+
+function decompressDataFromFetch(compressedDataBase64) {
+    const binaryString = atob(compressedDataBase64);
+    const len = binaryString.length;
+    const bytes = new Uint8Array(len);
+    for (let i = 0; i < len; i++) {
+      bytes[i] = binaryString.charCodeAt(i);
+    }
+
+    // 2. Decompress the Uint8Array using pako
+    const decompressedBytes = pako.inflate(bytes);
+
+    // 3. Convert the decompressed bytes back to a UTF-8 string
+    const decompressedText = new TextDecoder('utf-8').decode(decompressedBytes);
+    return decompressedText
 }
 
 function MainComponent(homeMode) {
@@ -158,12 +177,17 @@ function MainComponent(homeMode) {
   };
 
   const updateCurrentGame = (newGameId) => {
+    var gameChanged = (newGameId != filterInfo.currentGameId)
     var newFilterInfo = {
       ...filterInfo,
       currentGameId: newGameId,
     };
     localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
     setFilterInfo(newFilterInfo)
+    if (gameChanged) {
+      setCurrentItemKey(null)
+      setUseLiveStream(true)
+    }
   }
 
   const toggleCharacter = (charName, gameId) => {
@@ -213,12 +237,16 @@ function MainComponent(homeMode) {
     const fetchData = async () => {
       try {
         const result = await fetchBotData(filterInfo.currentGameId);
-        var data = result.jsonArr
+        var data = JSON.parse(decompressDataFromFetch(result.info))
         if (data == null) {
-          data = []
+          data = {}
         }
-        data.forEach(item => {
-          item.bracketInfo.setKey = `${item.bracketInfo.setId}_${item.bracketInfo.tourneyId}`
+        Object.keys(data).forEach((key1) => {
+          Object.keys(data[key1]).forEach((key2) => {
+            data[key1][key2].forEach(item => {
+              item.bracketInfo.setKey = `${item.bracketInfo.setId}_${item.bracketInfo.tourneyId}`
+            })
+          })
         })
         setData(data);
       } catch (err) {
@@ -228,7 +256,8 @@ function MainComponent(homeMode) {
       }
     };
     fetchData();
-  }, [filterInfo.currentGameId]);
+  }, []);
+  // }, [filterInfo.currentGameId]);
 
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error: {error.message}</p>;

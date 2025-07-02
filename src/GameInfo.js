@@ -6,6 +6,21 @@ export const GameIds = {
 export const Characters = Object.freeze({
   "1386": {
     charList: ["banjokazooie","bayonetta","bowser","bowserjr","byleth","captainfalcon","chrom","cloud","corrin","diddykong","donkeykong","drmario","duckhunt","falco","fox","ganondorf","gnw","greninja","hero","iceclimbers","ike","incineroar","inkling","isabelle","jigglypuff","joker","kazuya","ken","kingdedede","kingkrool","kirby","link","littlemac","lucario","lucas","lucina","luigi","mario","marth","megaman","metaknight","mewtwo","miibrawler","miigunner","miiswordfighter","minmin","mythra","ness","olimar","pacman","palutena","peachdaisy","pichu","pikachu","piranhaplant","pitdarkpit","pokemontrainer","pyra","pyramythra","ridley","rob","robin","rosalinaandluma","roy","ryu","samusdarksamus","sephiroth","sheik","shulk","simonrichter","snake","sonic","sora","steve","terry","toonlink","villager","wario","wiifittrainer","wolf","yoshi","younglink","zelda","zss"]
+  },
+  "1": {
+    charList: ["bowser","captainfalcon","donkeykong","drmario","falco","fox","ganondorf","iceclimbers","jigglypuff","kirby","link","luigi","mario","marth","mewtwo","mrgamewatch","ness","peach","pichu","pikachu","roy","samus","sheik","yoshi","younglink","zelda"]
+  },
+  "33945": {
+    charList: ["aba","anji","asukar","axl","baiken","bedman","bridget","chipp","dizzy","elphelt","faust","giovanna","goldlewis","happychaos","ino","jacko","johnny","ky","leo","may","millia","nagoriyuki","potemkin","ramlethal","sin","slayer","sol","testament","venom","zato"]
+  },
+  "43868": {
+    charList: ["aki","akuma","blanka","cammy","chunli","deejay","dhalsim","ehonda","ed","elena","guile","jp","jamie","juri","ken","kimberly","lily","luke","mbison","mai","manon","marisa","rashid","ryu","terry","zangief"]
+  },
+  "49783": {
+    charList: ["alisa","anna","asuka","azucena","bryan","claudio","clive","deviljin","dragunov","eddy","fahkumram","feng","heihachi","hwoarang","jack8","jin","jun","kazuya","king","kuma","lars","law","lee","leo","leroy","lidia","lili","nina","panda","paul","raven","reina","shaheen","steve","victor","xiaoyu","yoshimitsu","zafina"]
+  },
+  "53945": {
+    charList: ["absa","clairen","etalus","fleet","forsburn","kragg","loxodont","maypul","olympia","orcane","ranno","wrastor","zetterburn"]
   }
 });
 
@@ -25,6 +40,16 @@ export const VideoGameInfo = Object.freeze([
     ]
   },
   {
+    "id": "53945",
+    "name": "Rivals of Aether II",
+    "displayName": "Rivals of Aether II",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/53945/image-51b85875cc3581106eb5986c02343438.png?ehk=9M208lBU1rR4A9Gxq2XobwvNaq5AwIio9exvntOrKOI%3D&ehkOptimized=TnKDP3iLZIJKAU4Zvf7CJ9yWRKM0F%2FbNtMtjVHAVfwY%3D"
+      }
+    ]
+  },
+  {
     "id": "43868",
     "name": "Street Fighter 6",
     "displayName": "Street Fighter 6",
@@ -38,19 +63,6 @@ export const VideoGameInfo = Object.freeze([
     ]
   },
   {
-    "id": "49783",
-    "name": "TEKKEN 8",
-    "displayName": "TEKKEN 8",
-    "images": [
-      {
-        "url": "https://images.start.gg/images/videogame/49783/image-acc13f09acce9819aa908ba77d621a05.jpg?ehk=jYogwhWRsoP38Mt7kbA5RLwuoFoH8y%2FBKabBOaDnmdg%3D&ehkOptimized=xnCM%2FeDWTNnEiVwwtXti50eZLgSc%2B6pb%2BTs2Do8O0Ks%3D"
-      },
-      {
-        "url": "https://images.start.gg/images/videogame/49783/image-02076b03b40cbedcb96897a43670cfd5.jpg?ehk=bkXbFQDPPDs2aWLfmPbaXKggVvhnjobAF2bDh8%2FrRsI%3D&ehkOptimized=ImVCZu9KMU1cYTP8tG150ZAnXPSt2vLAIcu87A1GhRQ%3D"
-      }
-    ]
-  },
-  {
     "id": "1",
     "name": "Super Smash Bros. Melee",
     "displayName": "Melee",
@@ -60,6 +72,19 @@ export const VideoGameInfo = Object.freeze([
       },
       {
         "url": "https://images.start.gg/images/videogame/1/image-5584f7c210c950a8b2bd65fbb6195f7a.png?ehk=zh8NxsAXJnb9bF8afAoE4%2Bw%2BFMB0jyoilZEtEKVXZwc%3D&ehkOptimized=fitamXYJEzDP2zNEjQkKW%2FYSWDlVsQ1OBEalHKu5CoE%3D"
+      }
+    ]
+  },
+  {
+    "id": "49783",
+    "name": "TEKKEN 8",
+    "displayName": "TEKKEN 8",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/49783/image-acc13f09acce9819aa908ba77d621a05.jpg?ehk=jYogwhWRsoP38Mt7kbA5RLwuoFoH8y%2FBKabBOaDnmdg%3D&ehkOptimized=xnCM%2FeDWTNnEiVwwtXti50eZLgSc%2B6pb%2BTs2Do8O0Ks%3D"
+      },
+      {
+        "url": "https://images.start.gg/images/videogame/49783/image-02076b03b40cbedcb96897a43670cfd5.jpg?ehk=bkXbFQDPPDs2aWLfmPbaXKggVvhnjobAF2bDh8%2FrRsI%3D&ehkOptimized=ImVCZu9KMU1cYTP8tG150ZAnXPSt2vLAIcu87A1GhRQ%3D"
       }
     ]
   },
@@ -83,16 +108,6 @@ export const VideoGameInfo = Object.freeze([
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/48548/image-671eaa79165e3a80d6f89b2c9a09ccec.png?ehk=zAEyeT%2FAaIjXbqDLrJGHdHaPbEZDJtF6zgewmNx4c4M%3D&ehkOptimized=YWQ5ZkLjjw5VIxh98wlX%2Bo%2FwX6xRmQpglqMY5vEcG2Y%3D"
-      }
-    ]
-  },
-  {
-    "id": "53945",
-    "name": "Rivals of Aether II",
-    "displayName": "Rivals of Aether II",
-    "images": [
-      {
-        "url": "https://images.start.gg/images/videogame/53945/image-51b85875cc3581106eb5986c02343438.png?ehk=9M208lBU1rR4A9Gxq2XobwvNaq5AwIio9exvntOrKOI%3D&ehkOptimized=TnKDP3iLZIJKAU4Zvf7CJ9yWRKM0F%2FbNtMtjVHAVfwY%3D"
       }
     ]
   },
