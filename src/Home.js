@@ -85,9 +85,12 @@ function itemMatchesFilter(item, filterInfo) {
   return matchesFilter
 }
 
-function getDisplayData(data, filterInfo) {
+function getDisplayData(data, filterInfo,showVodsMode) {
+
   var dataToStart = data[filterInfo.currentGameId].live
-  // var dataToStart = data[filterInfo.currentGameId].vods
+  if (showVodsMode) {
+    dataToStart = data[filterInfo.currentGameId].vods
+  }
   var sortedData = [...dataToStart].sort((a,b) => {
     return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
   })
@@ -143,6 +146,7 @@ function decompressDataFromFetch(compressedDataBase64) {
 }
 
 function MainComponent(homeMode) {
+  const [showVodsMode, setShowVodsMode] = useState(false);
   const [filterInfo, setFilterInfo] = useState(getInitialFilter());
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -273,7 +277,7 @@ function MainComponent(homeMode) {
 
   var mainVideoDim = { width, height }
 
-  var displayData = getDisplayData(data, filterInfo)
+  var displayData = getDisplayData(data, filterInfo, showVodsMode)
   if (displayData == null) {
     displayData = []
   }
@@ -285,12 +289,15 @@ function MainComponent(homeMode) {
   var preview = null
   if (useVideoIn.panel == true && displayData.length > 0) {
     var previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
-    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height, useLiveStream})}</div>
+    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height, useLiveStream: useLiveStream && !showVodsMode})}</div>
   }
   var noData = null
+  var afterData = null
   
   if (displayData.length < 1) {
-    noData = NoData()
+    noData = NoData(showVodsMode, setShowVodsMode)
+  } else {
+    afterData = AfterData(showVodsMode, setShowVodsMode)
   }
   var showMapBeside = 2*width <= window.innerWidth
   var stickyPos = 0
@@ -300,7 +307,7 @@ function MainComponent(homeMode) {
   return (
     <div className="overallDiv">
       {
-        renderLink(displayData, homeMode == HomeModes.FULLMAP)
+        renderLinkRow(displayData, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP)
       }
       <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
@@ -313,13 +320,16 @@ function MainComponent(homeMode) {
       </div>
       </div>
       {
-        renderLink(displayData, homeMode != HomeModes.FULLMAP)
+        renderLinkRow(displayData, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP)
       }
       { 
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream)
+        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode)
+      }
+      {
+        afterData
       }
       <div className="bottomOffsetDiv"/>
       { 
@@ -373,10 +383,34 @@ function Home({homeMode=HomeModes.MAIN}) {
   );
 }
 
-function renderLink(jsonData, shouldShow) {
+function renderLinkRow(jsonData, showVodsMode, setShowVodsMode, shouldShow) {
   if (!shouldShow) {
     return
   }
+  return <div className="linkRow">
+    {
+      renderLink(jsonData)
+    }
+    {renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode)}
+  </div>
+}
+function renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode) {
+  var classNameLive = "toggleLiveVodCurrent"
+  var classNameVod = "toggleLiveVod"
+  if (showVodsMode) {
+      classNameLive = "toggleLiveVod"
+      classNameVod = "toggleLiveVodCurrent"
+  }
+  return (
+    <div className="toggleLiveVodHolder">
+      <span className={classNameLive} onClick={() => setShowVodsMode(false)}>Live</span>
+      <span className={classNameVod} onClick={() => setShowVodsMode(true)}>Recent</span>
+    </div>
+  )
+}
+
+
+function renderLink(jsonData, shouldShow) {
   var list = jsonData.map(item => item.streamInfo.forTheatre).filter(item => item !== null).filter((value, index, self) => self.indexOf(value) === index)
   var str = "https://twitchtheater.tv"
   list.forEach(item => {
@@ -385,7 +419,7 @@ function renderLink(jsonData, shouldShow) {
   return <div className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'}}>{"TwitchTheater link: "}</span><a href={str} target="_blank" className="bigLink">{str}</a></div>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream) {
+function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -400,14 +434,14 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoD
   return <div className={stylename1}>{
     jsonData.map((item, index) => (
       <div className={stylename2} index={index}>
-        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim, useLiveStream, setUseLiveStream)}
+        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode)}
       </div>
 
     ))}
     </div>
 }
 
-function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim, useLiveStream, setUseLiveStream) {
+function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode) {
   var preview = null
   if (useVideoIn.list) {
     var scale = 0.97
@@ -434,6 +468,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
     handleIndexChange(item.bracketInfo.setKey)
     setUseLiveStream(newLive)
   }
+  console.log("TEST24 selected = ", selected)
   return (
     <div className={divClass} onClick={onClick} style={
       {
@@ -448,7 +483,9 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
         {getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className="tourneyTitle">{item.bracketInfo.tourneyName}</span><br/>
         <span className="tourneyText" style={{ marginRight: '5px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
-        {renderRewindAndLiveButtons(item, useLiveStream, updateIndexAndSetLive)}
+      </div>
+        {renderRewindAndLiveButtons(item, useLiveStream, updateIndexAndSetLive, showVodsMode, selected)}
+      <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => 
           <div ><a href={sItem.streamUrl} target="_blank" className="bracketLink">{sItem.streamUrl}</a><br/></div>
@@ -460,7 +497,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
       <div className="rowPreviewHolder" >
       {
         preview
-      }
+      } 
       </div>
 
     </div>
@@ -510,12 +547,32 @@ function Leafy(data, handleIndexChange, useVideoIn, width, height, homeMode, str
     return <LeafMap data={data} handleIndexChange={handleIndexChange} useVideoIn={useVideoIn} width={width} height={height} useFullView={homeMode === HomeModes.FULLMAP} streamSubIndex={streamSubIndex} setStreamSubIndex={setStreamSubIndex} mainVideoDim={mainVideoDim}/>
 }
 
-function NoData() {
+function NoData(showVodsMode, setShowVodsMode) {
+
+  var vodPrompt = null
+  if (!showVodsMode) {
+    var vodPrompt = <span className="app-inform"><br/><p>Try watching <u onClick={() => setShowVodsMode(true)}>Recent sets</u> instead</p></span>
+  }
   return <div>
     <span className="app-inform">No set data</span><br/>
     <span className="app-inform">Refresh again later to try again</span><br/>
     <span className="app-inform">Some times of day have no sets sometimes, like after PST hours but before JST hours (pacific ocean is big) </span>
+    {vodPrompt}
   </div>
 }
+
+function AfterData(showVodsMode, setShowVodsMode) {
+
+  if (showVodsMode) {
+    return null
+  } else {
+    return <div>
+      <span className="app-inform">Looking for more?</span><br/>
+      <span className="app-inform"><p>Try watching <u onClick={() => setShowVodsMode(true)}>Recent sets</u></p></span>
+    </div>
+  }
+}
+
+
 
 export default Home;

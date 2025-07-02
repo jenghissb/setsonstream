@@ -15,3 +15,20 @@
   transform: scale(1.15);
   /* opacity: 0.8; */
 }
+
+.rewindSetRow {
+  height: 40px;
+  justify-self:stretch;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  justify-items: center;
+  align-items:center;
+  /* flex-grow: 1; */
+}
+
+.progressBar {
+  flex-grow: 1;
+  justify-self:stretch;
+}

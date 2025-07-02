@@ -21,17 +21,39 @@ export function renderRewindSetButton(setUseLiveStream) {
 }
 
 
-export function renderRewindAndLiveButtons(item, useLiveStream, setUseLiveStream) {
+export function renderRewindAndLiveButtons(item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, isVodMode) {
+  useLiveStream = useLiveStream && !showVodsMode
   if (!supportsRewindSet(item)) {
     return
+  }
+  if (!shouldShow) {
+    return <div className="rewindSetButton" ></div>
   }
   if (useLiveStream) {
     return renderRewindSetButton(setUseLiveStream)
   } else {
-    return renderSetLiveButton(setUseLiveStream)
+    return renderRewindControlRow(item, setUseLiveStream, showVodsMode)
+    //return renderSetLiveButton(setUseLiveStream)
   }
 }
 
+const BasicProgressBar = ({currentValue, maxValue}) => 
+        <progress value={currentValue} max={maxValue}>{currentValue}%</progress>;
+
+
+function renderRewindControlRow(item, setUseLiveStream, showVodsMode) {
+  var liveButton = null
+  if (!showVodsMode) {
+    liveButton = renderSetLiveButton(setUseLiveStream)
+  }
+
+  return <div className="rewindSetRow">
+    <BasicProgressBar className="progressBar" currentValue={30} maxValue={90}/>
+    {
+      liveButton
+    }
+  </div>
+}
 
 export function renderSetLiveButton(setUseLiveStream) {
   return <div onClick={() => setUseLiveStream(true)} className="rewindSetButton">

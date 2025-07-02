@@ -301,6 +301,44 @@
   padding-bottom: 4px;
 }
 
+.linkRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.toggleLiveVodHolder {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.toggleLiveVod {
+  font-weight:bold;
+  font-size: large;
+  color: #fffa;
+  padding:16px;
+}
+
+.toggleLiveVodCurrent {
+  font-size: large;
+  font-weight:bold;
+  color: #fff;
+  padding:16px;
+}
+
+.toggleLiveVod:active {
+  color: #fff;
+  /* color: lightgray; */
+  transform: scale(1.09);
+}
+
+.toggleLiveVod:hover {
+  color: lightgray;
+  transform: scale(1.09);
+}
+
+
 .filterButtonHolder {
   align-self: flex-end;
   justify-self: flex-end;
