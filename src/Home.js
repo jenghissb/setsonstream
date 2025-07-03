@@ -12,6 +12,7 @@ import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { getAnalytics } from "firebase/analytics";
+
 import pako from 'pako';
 
 export const HomeModes = Object.freeze({
@@ -155,6 +156,8 @@ function MainComponent(homeMode) {
   const [useLiveStream, setUseLiveStream] = useState(true);
   const [currentItemKey, setCurrentItemKey] = useState(null);
   const [showFilterModal, setShowFilterModal] = useState(false);
+  const [currentVideoOffset, setCurrentVideoOffset] = useState(0); 
+  // const [currentTimest, setCurrentItemKey] = useState(null);
 
   const currentGameId = filterInfo.currentGameId
 
@@ -214,6 +217,11 @@ function MainComponent(homeMode) {
     setFilterInfo(newFilterInfo)
   }
 
+  const handleTimestampChange = (newSeconds) => {
+    console.log('hi', newSeconds)
+    setCurrentVideoOffset(newSeconds)
+  }
+
 
   const [dimensions, setDimensions] = useState({
     width: window.innerWidth,
@@ -252,6 +260,7 @@ function MainComponent(homeMode) {
             })
           })
         })
+        console.log("DATA = ", data)
         setData(data);
       } catch (err) {
         setError(err);
@@ -281,6 +290,7 @@ function MainComponent(homeMode) {
   if (displayData == null) {
     displayData = []
   }
+  console.log("display data length = ", displayData.length)
   var itemKey = currentItemKey
   if (itemKey == null && displayData.length > 0) {
     itemKey = displayData[0].bracketInfo.setKey
@@ -289,7 +299,7 @@ function MainComponent(homeMode) {
   var preview = null
   if (useVideoIn.panel == true && displayData.length > 0) {
     var previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
-    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height, useLiveStream: useLiveStream && !showVodsMode})}</div>
+    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset: currentVideoOffset})}</div>
   }
   var noData = null
   var afterData = null
@@ -326,7 +336,7 @@ function MainComponent(homeMode) {
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode)
+        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange)
       }
       {
         afterData
@@ -419,7 +429,7 @@ function renderLink(jsonData, shouldShow) {
   return <div className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'}}>{"TwitchTheater link: "}</span><a href={str} target="_blank" className="bigLink">{str}</a></div>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode) {
+function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -434,14 +444,14 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoD
   return <div className={stylename1}>{
     jsonData.map((item, index) => (
       <div className={stylename2} index={index}>
-        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode)}
+        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange)}
       </div>
 
     ))}
     </div>
 }
 
-function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode) {
+function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange) {
   var preview = null
   if (useVideoIn.list) {
     var scale = 0.97
@@ -484,7 +494,9 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
         <span className="tourneyText" style={{ marginRight: '5px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
       </div>
-        {renderRewindAndLiveButtons(item, useLiveStream, updateIndexAndSetLive, showVodsMode, selected)}
+      <div className="set-row-5">
+        {renderRewindAndLiveButtons(item, useLiveStream, updateIndexAndSetLive, showVodsMode, selected, handleTimestampChange)}
+      </div>
       <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => 

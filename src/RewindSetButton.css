@@ -32,3 +32,21 @@
   flex-grow: 1;
   justify-self:stretch;
 }
+
+.markContainer {
+  color: #fff;
+  line-height: 1.2;
+  font-size: smaller;
+  font-weight: bold;
+  font-style: italic;
+  word-break: break-all;
+  text-decoration: none;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  paint-order: stroke fill;
+
+}
+
+.markText {
+
+}

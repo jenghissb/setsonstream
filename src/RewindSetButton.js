@@ -1,5 +1,8 @@
+import { useState, React } from 'react';
 import './RewindSetButton.css'
 import { supportsRewindSet } from './Utilities'
+import { Slider } from '@mui/material';
+import debounce from 'lodash/debounce';
 
 function renderSvg() {
   return <svg width="40px" height="40px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" stroke-width="4" stroke="#bbbbbb" fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
@@ -21,7 +24,7 @@ export function renderRewindSetButton(setUseLiveStream) {
 }
 
 
-export function renderRewindAndLiveButtons(item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, isVodMode) {
+export function renderRewindAndLiveButtons(item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, handleTimestampChange) {
   useLiveStream = useLiveStream && !showVodsMode
   if (!supportsRewindSet(item)) {
     return
@@ -32,27 +35,68 @@ export function renderRewindAndLiveButtons(item, useLiveStream, setUseLiveStream
   if (useLiveStream) {
     return renderRewindSetButton(setUseLiveStream)
   } else {
-    return renderRewindControlRow(item, setUseLiveStream, showVodsMode)
+    return RewindControlRow(item, setUseLiveStream, showVodsMode, handleTimestampChange)
     //return renderSetLiveButton(setUseLiveStream)
   }
 }
 
-const BasicProgressBar = ({currentValue, maxValue}) => 
-        <progress value={currentValue} max={maxValue}>{currentValue}%</progress>;
-
-
-function renderRewindControlRow(item, setUseLiveStream, showVodsMode) {
+function RewindControlRow(item, setUseLiveStream, showVodsMode, handleTimestampChange) {
   var liveButton = null
   if (!showVodsMode) {
     liveButton = renderSetLiveButton(setUseLiveStream)
   }
+  var startedAt = item.bracketInfo.startedAt
+  var endedAt = item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
+  var duration = Math.min(endedAt-startedAt, 60*60)
+  var endedAt = startedAt + endedAt
+  
+  const handleChange = (event, newValue) => {
+    handleTimestampChange(newValue)
+  };
+  const debouncedOnChange = debounce(handleChange, 500);
+
+  var marks = [
+    {
+      value: 0,
+      label: <div className='markContainer'>start</div>,
+    },
+  ];
+  if (item.bracketInfo.endTimeDetected != null) {
+    marks.push(
+      {
+        value: duration,
+        label: <div className='markContainer'>end</div>,
+      },
+    )
+  }
 
   return <div className="rewindSetRow">
-    <BasicProgressBar className="progressBar" currentValue={30} maxValue={90}/>
+    <Slider
+      size="medium"
+      defaultValue={0}
+      min={-4*60}
+      max={duration+4*60}
+      onChange={debouncedOnChange}
+      valueLabelFormat={(value) => convertSecondstoTimeStr(value)}
+      marks={marks}
+      aria-label="Small"
+      valueLabelDisplay="auto"
+    />
     {
       liveButton
     }
   </div>
+}
+
+function convertSecondstoTimeStr(given_seconds) {
+  var hours = Math.floor(given_seconds / 3600);
+  var minutes = Math.floor((given_seconds - (hours * 3600)) / 60);
+  var seconds = given_seconds - (hours * 3600) - (minutes * 60);
+
+  var timeString = hours.toString().padStart(2, '0') + ':' +
+    minutes.toString().padStart(2, '0') + ':' +
+    seconds.toString().padStart(2, '0');
+  return timeString
 }
 
 export function renderSetLiveButton(setUseLiveStream) {
