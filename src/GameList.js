@@ -10,7 +10,7 @@ export function renderGameList(currentGameId, onClickItem) {
         if (item.id == currentGameId) {
           itemClass += " currentGame"
         }
-        return <img className={itemClass} key={item.id} onClick={() => onClickItem(item)} src={item.images[0].url}/>
+        return <img className={itemClass} key={item.id} onClick={() => onClickItem(item)} src={item.images.at(-1).url}/>
       })
     }</div>
   );

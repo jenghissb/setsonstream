@@ -12,14 +12,25 @@ function filterIcon() {
 }
 
 var charPositions = [
-  {top: "28px", left: "10px"},
-  {top: "20px", left: "-6px"},
-  {top: "20px", left: "30px"},
-  {top: "2px", left: "32px"},
-  {top: "-10px", left: "16px"},
-  {top: "-10px", left: "-0px"},
-  {top: "-2px", left: "-10px"},
+  {top: "42px", left: "15px"},
+  {top: "30px", left: "-9px"},
+  {top: "30px", left: "45px"},
+  {top: "3px", left: "48px"},
+  {top: "-15px", left: "24px"},
+  {top: "-15px", left: "-0px"},
+  {top: "-3px", left: "-15px"},
 ]
+
+// var charPositions = [
+//   {top: "28px", left: "10px"},
+//   {top: "20px", left: "-6px"},
+//   {top: "20px", left: "30px"},
+//   {top: "2px", left: "32px"},
+//   {top: "-10px", left: "16px"},
+//   {top: "-10px", left: "-0px"},
+//   {top: "-2px", left: "-10px"},
+// ]
+
 
 export function renderFilterButton(filterInfo, onClick) {
   var currentGameId = filterInfo.currentGameId
@@ -42,7 +53,7 @@ export function renderFilterButton(filterInfo, onClick) {
       <div className="filterButton"
         onClick={onClick}
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.4)), url(${gameInfo.images[0].url})`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.4)), url(${gameInfo.images.at(-1).url})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           // backgroundImage: `url(${gameInfo.images[0].url})`,

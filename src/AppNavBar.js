@@ -8,7 +8,7 @@ const AppNavBar = () => {
         <nav className="AppNavBar">
             <Link className="AppNavBarItem" to="/">Home</Link>
             <Link className="AppNavBarItem" to="/fullmap">Full Map</Link>
-            <Link className="AppNavBarItem" to="/allinlist">All in List</Link>
+            {/* <Link className="AppNavBarItem" to="/allinlist">All in List</Link> */}
             <Link className="AppNavBarItem" to="/about">About</Link>
         </nav>
     </div>

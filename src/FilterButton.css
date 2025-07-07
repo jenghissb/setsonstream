@@ -1,6 +1,6 @@
 .filterButton {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   background-color: #000000;
   border: 2px solid gray;
   border-radius: 10px;
@@ -30,8 +30,8 @@
   position: absolute;
   top:0;
   left:0;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   display: flex; /* Make the container a flex container */
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
@@ -41,12 +41,12 @@
   position: absolute;
   top:0;
   left:0;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
 }
 .charFilterIcon {
-  width: 18px;
-  height: 18px;
+  width: 26px;
+  height: 26px;
   /* position: absolute;
   top: 0px;
   left: 0px; */

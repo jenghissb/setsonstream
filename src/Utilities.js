@@ -120,10 +120,31 @@ export function supportsRewindSet(item) {
     if (streamUrlInfo.videoId != null && streamUrlInfo.offsetHms != null) {
       supportsRewind = true
     }
-  } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[0].embedUrl) {
-    // supportsRewind = false
+  } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[0].videoId) {
+    var streamUrlInfo = item.streamInfo.streamUrls[0]
+    if (streamUrlInfo.videoId != null && streamUrlInfo.offset != null) {
+      supportsRewind = true
+    }
+
   } else {
     // supportsRewind = false
   }
   return supportsRewind
+}
+
+export function getStreamUrl(streamInfo, index) {
+    const streamUrlInfo = streamInfo.streamUrls[index]
+  if (streamInfo.streamSource == 'YOUTUBE') {
+    const videoId = streamUrlInfo.videoId
+    if (videoId) {
+      return `https://www.youtube.com/watch?v=${videoId}`
+    } else if (streamUrlInfo.streamUrl != null) {
+      return streamUrlInfo.streamUrl
+    } else {
+      const channel = streamInfo.ytChannelId
+      return `https://www.youtube.com/${channel}`
+    }
+  } else if (streamInfo.streamSource === 'TWITCH') {
+    return `https://www.twitch.tv/${streamInfo.forTheatre}`
+  }
 }

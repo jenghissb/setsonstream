@@ -1,13 +1,11 @@
 import './Home.css';
-import React, { useState, useEffect } from 'react';
-import { createPortal } from 'react-dom';
+  import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
-import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem } from './Utilities.js'
-import { GameIds, Characters } from './GameInfo.js'
-import { renderGameList } from './GameList.js'
+import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl } from './Utilities.js'
+import { GameIds } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
-import { renderRewindAndLiveButtons, renderRewindSetButton} from './RewindSetButton.js'
+import { RewindAndLiveButtons } from './RewindSetButton.js'
 import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
@@ -86,8 +84,18 @@ function itemMatchesFilter(item, filterInfo) {
   return matchesFilter
 }
 
-function getDisplayData(data, filterInfo,showVodsMode) {
+function printNumberOfVods(data) {
+  var vodCount = []
+  var overall = 0
+  Object.keys(data).forEach(gameId => {
+    vodCount.push(data[gameId].vods.length)
+    overall += data[gameId].vods.length
+  })
+  console.log(vodCount)
+  console.log(overall)
+}
 
+function getDisplayData(data, filterInfo,showVodsMode) {
   var dataToStart = data[filterInfo.currentGameId].live
   if (showVodsMode) {
     dataToStart = data[filterInfo.currentGameId].vods
@@ -102,6 +110,19 @@ function getDisplayData(data, filterInfo,showVodsMode) {
     return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
   })
   return sortedData
+}
+
+function getDataByTourney(displayData) {
+  var tourneyById = {}
+  displayData.forEach(item => {
+    var arr = tourneyById[item.bracketInfo.tourneyId]
+    if (arr == undefined) {
+      arr = []
+    }
+    arr.push(item)
+    tourneyById[item.bracketInfo.tourneyId] = arr
+  })
+  return tourneyById
 }
 
 
@@ -157,9 +178,17 @@ function MainComponent(homeMode) {
   const [currentItemKey, setCurrentItemKey] = useState(null);
   const [showFilterModal, setShowFilterModal] = useState(false);
   const [currentVideoOffset, setCurrentVideoOffset] = useState(0); 
+  const [currentPlayer, setCurrentPlayer] = useState(null); 
+  const [rewindRef, setRewindRef] = useState(null); 
   // const [currentTimest, setCurrentItemKey] = useState(null);
+  const [controlsOn, setControlsOn] = useState(false); 
 
   const currentGameId = filterInfo.currentGameId
+
+  const currentItemKeyRef = useRef(currentItemKey);
+  const currentPlayerRef = useRef(currentPlayer);
+  // const rewindRefRef = useRef(rewindRef);
+  const rewindRefRef = useRef(null);
 
   var useVideoIn = {
     popup: false,
@@ -173,15 +202,16 @@ function MainComponent(homeMode) {
     useVideoIn.panel = false
     useVideoIn.list = true
   }
-  const handleIndexChange = (newSetKey) => {
-    if (currentItemKey != newSetKey) {
+  const handleIndexChange = useCallback((newSetKey) => {
+    if (currentItemKeyRef.current != newSetKey) {
       setStreamSubIndex(0)
-      if (currentItemKey != null) {
+      if (currentItemKeyRef.current != null) {
         setUseLiveStream(true)
       }
     }
-    setCurrentItemKey(newSetKey);
-  };
+    currentItemKeyRef.current = newSetKey
+    setCurrentItemKey(newSetKey)
+  }, []);
 
   const updateCurrentGame = (newGameId) => {
     var gameChanged = (newGameId != filterInfo.currentGameId)
@@ -192,6 +222,7 @@ function MainComponent(homeMode) {
     localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
     setFilterInfo(newFilterInfo)
     if (gameChanged) {
+      currentItemKeyRef.current = null
       setCurrentItemKey(null)
       setUseLiveStream(true)
     }
@@ -217,11 +248,25 @@ function MainComponent(homeMode) {
     setFilterInfo(newFilterInfo)
   }
 
-  const handleTimestampChange = (newSeconds) => {
-    console.log('hi', newSeconds)
-    setCurrentVideoOffset(newSeconds)
-  }
 
+  const handleTimestampChange = useCallback((newSeconds) => {
+    if (currentPlayerRef.current?.player?.player?.seekTo ?? null != null) {
+      currentPlayerRef.current?.player?.player?.seekTo(newSeconds)
+    } else {
+      currentPlayerRef.current?.seek(newSeconds)
+    }
+  }, [currentPlayerRef])
+
+  const rewindReady = useCallback((newRewindRef) => {
+    rewindRefRef.current = newRewindRef
+    // setRewindRef(newRewindRef)
+  },[])
+
+  const onProgress = (progress) => {
+    if (rewindRefRef.current != null) {
+      rewindRefRef.current(progress)
+    }
+  }
 
   const [dimensions, setDimensions] = useState({
     width: window.innerWidth,
@@ -260,8 +305,9 @@ function MainComponent(homeMode) {
             })
           })
         })
-        console.log("DATA = ", data)
         setData(data);
+        // printNumberOfVods(data)
+        // console.log(data)
       } catch (err) {
         setError(err);
       } finally {
@@ -283,23 +329,33 @@ function MainComponent(homeMode) {
     height = 0.8*window.innerHeight
     width = Math.floor(height*16.0/9)
   }
-
+  
   var mainVideoDim = { width, height }
 
   var displayData = getDisplayData(data, filterInfo, showVodsMode)
   if (displayData == null) {
     displayData = []
   }
-  console.log("display data length = ", displayData.length)
+  var tourneyById = getDataByTourney(displayData)
   var itemKey = currentItemKey
   if (itemKey == null && displayData.length > 0) {
     itemKey = displayData[0].bracketInfo.setKey
   }
 
   var preview = null
+  
+  const handleReady = player => {
+    if (null != player) {
+      currentPlayerRef.current = player
+      setCurrentPlayer(player)
+    }
+  }
+
   if (useVideoIn.panel == true && displayData.length > 0) {
     var previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
-    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width, height, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset: currentVideoOffset})}</div>
+    const vidWidth = `${width}px`
+    const vidHeight = `${height}px`
+    preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
   }
   var noData = null
   var afterData = null
@@ -322,7 +378,7 @@ function MainComponent(homeMode) {
       <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
         {
-          Leafy(displayData, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim)
+          Leafy(displayData, tourneyById, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim)
         }
         {
           preview
@@ -336,7 +392,7 @@ function MainComponent(homeMode) {
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange)
+        renderData(displayData, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady)
       }
       {
         afterData
@@ -385,6 +441,8 @@ function Home({homeMode=HomeModes.MAIN}) {
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
             integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
             crossOrigin=""></script>
+        {/* <script src="https://player.twitch.tv/js/embed/v1.js"></script> */}
+        <script src="https://embed.twitch.tv/embed/v1.js"></script>
         {
           MainComponent(homeMode)
         }
@@ -426,10 +484,15 @@ function renderLink(jsonData, shouldShow) {
   list.forEach(item => {
     str += ("/" + item)
   })
-  return <div className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'}}>{"TwitchTheater link: "}</span><a href={str} target="_blank" className="bigLink">{str}</a></div>
+  const numSlash = str.split("/").length
+  var numVids = numSlash - 3
+  if (list.length == 0)
+    return <div />
+
+  return <a target="_blank" href={str} className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'} }>{`TwitchTheater (${numVids}) 🔗 `}</span></a>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoDim, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange) {
+function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -444,16 +507,16 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, mainVideoD
   return <div className={stylename1}>{
     jsonData.map((item, index) => (
       <div className={stylename2} index={index}>
-        {renderDataRow(item, useVideoIn, handleIndexChange, index, itemKey == item.bracketInfo.setKey, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange)}
+        <DataRow item={item} useVideoInList={useVideoIn.list} handleIndexChange={handleIndexChange} selected={itemKey == item.bracketInfo.setKey} width={width} height={height} useLiveStream={useLiveStream} setUseLiveStream={setUseLiveStream} showVodsMode={showVodsMode} handleTimestampChange={handleTimestampChange} rewindReady={rewindReady}/>
       </div>
 
     ))}
-    </div>
+  </div>
 }
 
-function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange) {
+const DataRow = memo(({item, useVideoInList, handleIndexChange, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
   var preview = null
-  if (useVideoIn.list) {
+  if (useVideoInList) {
     var scale = 0.97
     preview = MediaPreview({item: item, width: mainVideoDim.width * scale, height: mainVideoDim.height * scale})
   }
@@ -478,11 +541,11 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
     handleIndexChange(item.bracketInfo.setKey)
     setUseLiveStream(newLive)
   }
-  console.log("TEST24 selected = ", selected)
+
   return (
     <div className={divClass} onClick={onClick} style={
       {
-        background: `linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.4)), url(${tourneyBackgroundUrl})`,
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.4)), url(${tourneyBackgroundUrl})`,
         backgroundSize: "cover",
         backgroundPosition: "center"
         // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
@@ -495,13 +558,14 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
       </div>
       <div className="set-row-5">
-        {renderRewindAndLiveButtons(item, useLiveStream, updateIndexAndSetLive, showVodsMode, selected, handleTimestampChange)}
+        {RewindAndLiveButtons({item, useLiveStream, updateIndexAndSetLive, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
       </div>
       <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
-        {item.streamInfo.streamUrls.map((sItem, index) => 
-          <div ><a href={sItem.streamUrl} target="_blank" className="bracketLink">{sItem.streamUrl}</a><br/></div>
-        )}
+        {item.streamInfo.streamUrls.map((sItem, index) => {
+          const streamUrl = getStreamUrl(item.streamInfo, index)
+          return <div ><a href={streamUrl} target="_blank" className="bracketLink">{streamUrl}</a><br/></div>
+        })}
       </div>
       <div className="set-row-4">
         <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_")}<span className='vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_")}<br/>
@@ -514,7 +578,7 @@ function renderDataRow(item, useVideoIn, handleIndexChange, itemKey, selected, m
 
     </div>
   );
-}
+})
 
 function charEmojis(charInfo, gameId, prekey) {  
   var emojiArrs = []
@@ -551,12 +615,12 @@ function BracketEmbed({width = 854, height = 480}) {
 
 }
 
-function Leafy(data, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim) {
+function Leafy(data, tourneyById, showVodsMode, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim) {
   if (homeMode === HomeModes.ALLINLIST) {
     return
   }
   if (data != null)
-    return <LeafMap data={data} handleIndexChange={handleIndexChange} useVideoIn={useVideoIn} width={width} height={height} useFullView={homeMode === HomeModes.FULLMAP} streamSubIndex={streamSubIndex} setStreamSubIndex={setStreamSubIndex} mainVideoDim={mainVideoDim}/>
+    return <LeafMap data={data} tourneyById={tourneyById} showVodsMode={showVodsMode} handleIndexChange={handleIndexChange} useVideoIn={useVideoIn} width={width} height={height} useFullView={homeMode === HomeModes.FULLMAP} streamSubIndex={streamSubIndex} setStreamSubIndex={setStreamSubIndex} vidWidth={mainVideoDim.width} vidHeight={mainVideoDim.height}/>
 }
 
 function NoData(showVodsMode, setShowVodsMode) {
@@ -584,7 +648,5 @@ function AfterData(showVodsMode, setShowVodsMode) {
     </div>
   }
 }
-
-
 
 export default Home;

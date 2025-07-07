@@ -1,11 +1,11 @@
-import React, { useRef, useState, useEffect } from "react";
+import React, { useRef, useState, useEffect, memo } from "react";
 import './LeafMap.css';
 import L from 'leaflet';
 
 import { MapContainer, TileLayer, Marker, Popup, useMapEvents } from "react-leaflet";
 import { divIcon , DivIcon} from 'leaflet';
 import "leaflet/dist/leaflet.css";
-import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr, getViewersTextFromItem } from './Utilities'
+import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr, getViewersTextFromItem, getStreamUrl } from './Utilities'
 import { MediaPreview } from './VideoEmbeds'
 import { spreadPoints } from './SpaceLatLon'
 
@@ -64,7 +64,7 @@ function getSpreadMetersPerZoom(zoomLevel) {
   return spreadMeters
 }
 
-export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex, mainVideoDim}) {
+export const LeafMap = memo(({data, tourneyById, showVodsMode, handleIndexChange, useVideoInPopup, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex, vidWidth, vidHeight}) => {
   var initialZoomLevel = 2
   if (width < 700) {
     initialZoomLevel = 0
@@ -72,6 +72,9 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
   if (useFullView) {
     initialZoomLevel += 1
   }
+  const tourneyIds = Object.keys(tourneyById)
+  const tourneys = tourneyIds.map(id => tourneyById[id])
+  const showTourneysMode = showVodsMode
   const [zoomLevel, setZoomLevel] = useState(initialZoomLevel);
 
   const handleStreamIndexButtonClick = (numSubStreams) => {
@@ -87,13 +90,14 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
     mapKey = "Big"
   }
 
-  const latitude = 51.505;
+  // const latitude = 51.505;
+  const latitude = 31.505;
   const longitude = -0.09;
 
   const videoScale = 0.97
   const videoDim = {
-    height: mainVideoDim.height * videoScale,
-    width: mainVideoDim.width * videoScale
+    height: vidHeight * videoScale,
+    width: vidWidth * videoScale
   }
 
   const videoWidth = videoDim.width;
@@ -102,11 +106,23 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
     var height="calc(100dvh - 56px)";
     var width="100vw";
   }
-  
-  var inputLatLon = data.map(item => ({lat: item.bracketInfo.lat, lon: item.bracketInfo.lon}))
+
+  var inputLatLon = []
+  var markerData = []
+  if (showTourneysMode) {
+    inputLatLon = tourneyIds.map(tourneyId => {
+      return {
+        lat: tourneyById[tourneyId][0].bracketInfo.lat,
+        lon: tourneyById[tourneyId][0].bracketInfo.lon
+      }
+    })
+    markerData = tourneys
+  } else {
+    inputLatLon = data.map(item => ({lat: item.bracketInfo.lat, lon: item.bracketInfo.lon}))
+    markerData = data
+  }
   var spreadMeters = getSpreadMetersPerZoom(zoomLevel)
   var latLons = spreadPoints(inputLatLon, spreadMeters)
- 
   return (
     <div style={{backgroundColor: 'blue', justifyContent: "center", height: height, width: width, justifyContent: "center", alignSelf: "center"}}>
       <MapContainer key={mapKey} center={[latitude, longitude]} zoom={initialZoomLevel} ref={mapRef} style={{height: height, width: width, justifyContent: "center"}}>
@@ -118,88 +134,171 @@ export function LeafMap({data, handleIndexChange, useVideoIn, height=300, width=
           <MapEventHelper setZoomLevel={setZoomLevel} />
         }
         {
-          data.map( (item, index) => {
-            var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
-            var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
-            var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
-            var icon = new L.Icon({
-              iconUrl: iconUrl,
-              iconSize: [32, 32],
-              iconAnchor: [30, 32],
-              popupAnchor: [0, -32],
-            })
-            var icon2 = new L.Icon({
-              iconUrl: iconUrl2,
-              iconSize: [32, 32],
-              iconAnchor: [2, 32],
-              popupAnchor: [0, -32],
-            })
-
-            var icon3 = new L.DivIcon({
-              iconSize: [3, 3],
-              html: renderMarkerText(item, zoomLevel)
-            })
-
-            var lat = latLons[index].lat;
-            var lon = latLons[index].lon;
-            var marker1 = (
-              <Marker key={index+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
-                icon
-              }>
-                <Popup className="leafpopup"
-                  maxWidth={videoWidth}
-                  width={videoWidth}
-                >
-                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim)}
-                </Popup>
-              </Marker>
-            )
-            var marker2 = (
-              <Marker key={index+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
-                icon2
-              }>
-                <Popup className="leafpopup"
-                  maxWidth={videoWidth}
-                  width={videoWidth}
-                >
-                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim)}
-                </Popup>
-              </Marker>
-            )
-            var marker3 = (
-              <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
-                icon3
-              }>
-                <Popup className="leafpopup"
-                  maxWidth={videoWidth}
-                  width={videoWidth}
-                >
-                  {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim)}
-                </Popup>
-              </Marker>
-            )
-            return <div>
-              {marker3}
-              {marker1}
-              {marker2}
-            </div>
-
+          markerData.map( (item, index) => {
+            return <MarkersForItem {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
           }) 
         }
       </MapContainer> 
     </div>
   );
-}
+})
 
-function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoIn, videoDim) {
+const MarkersForItem = memo(({showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}) =>{
+  if (showTourneysMode) {
+    return <MarkersForTourney {...{showTourneysMode, tourneyItem: item, index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
+  } else {
+    return <MarkersForSet {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
+  }
+});
+
+
+const MarkersForTourney = memo(({tourneyItem, index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}) =>{
+  var item = tourneyItem[0]
+  var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
+  var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
+  var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
+  var icon = new L.Icon({
+    iconUrl: iconUrl,
+    iconSize: [32, 32],
+    iconAnchor: [30, 32],
+    popupAnchor: [0, -32],
+  })
+  var icon2 = new L.Icon({
+    iconUrl: iconUrl2,
+    iconSize: [32, 32],
+    iconAnchor: [2, 32],
+    popupAnchor: [0, -32],
+  })
+
+  var icon3 = new L.DivIcon({
+    iconSize: [3, 3],
+    html: renderMarkerText(item, zoomLevel)
+  })
+
+  var lat = latLons[index].lat;
+  var lon = latLons[index].lon;
+  var marker1 = (
+    <Marker key={index+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+      icon
+    }>
+      <Popup className="leafpopup"
+        maxWidth={videoWidth}
+        width={videoWidth}
+      >
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoInPopup, videoWidth, videoHeight)}
+      </Popup>
+    </Marker>
+  )
+  var marker2 = (
+    <Marker key={index+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+      icon2
+    }>
+      <Popup className="leafpopup"
+        maxWidth={videoWidth}
+        width={videoWidth}
+      >
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoInPopup, videoWidth, videoHeight)}
+      </Popup>
+    </Marker>
+  )
+  var marker3 = (
+    <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+      icon3
+    }>
+      <Popup className="leafpopup"
+        maxWidth={videoWidth}
+        width={videoWidth}
+      >
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoInPopup, videoWidth, videoHeight)}
+      </Popup>
+    </Marker>
+  )
+  return <div>
+    {marker3}
+    {marker1}
+    {marker2}
+  </div>
+
+});
+
+const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}) =>{
+  // console.log("test22 item=", item)
+  var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
+  var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
+  var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
+  var icon = new L.Icon({
+    iconUrl: iconUrl,
+    iconSize: [32, 32],
+    iconAnchor: [30, 32],
+    popupAnchor: [0, -32],
+  })
+  var icon2 = new L.Icon({
+    iconUrl: iconUrl2,
+    iconSize: [32, 32],
+    iconAnchor: [2, 32],
+    popupAnchor: [0, -32],
+  })
+
+  var icon3 = new L.DivIcon({
+    iconSize: [3, 3],
+    html: renderMarkerText(item, zoomLevel)
+  })
+
+  var lat = latLons[index].lat;
+  var lon = latLons[index].lon;
+  var marker1 = (
+    <Marker key={index+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+      icon
+    }>
+      <Popup className="leafpopup"
+        maxWidth={videoWidth}
+        width={videoWidth}
+      >
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoInPopup, videoWidth, videoHeight)}
+      </Popup>
+    </Marker>
+  )
+  var marker2 = (
+    <Marker key={index+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+      icon2
+    }>
+      <Popup className="leafpopup"
+        maxWidth={videoWidth}
+        width={videoWidth}
+      >
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoInPopup, videoWidth, videoHeight)}
+      </Popup>
+    </Marker>
+  )
+  var marker3 = (
+    <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
+      icon3
+    }>
+      <Popup className="leafpopup"
+        maxWidth={videoWidth}
+        width={videoWidth}
+      >
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoInPopup, videoWidth, videoHeight)}
+      </Popup>
+    </Marker>
+  )
+  return <div>
+    {marker3}
+    {marker1}
+    {marker2}
+  </div>
+
+});
+
+function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVideoInPopup, videoWidth, videoHeight) {
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
   if (numSubStreams > 1) {
     streamButton = <button onClick={() => handleStreamIndexButtonClick(numSubStreams)}><span>switch stream</span></button>
   }
   var preview = null
-  if (useVideoIn.popup == true) {
-    preview = MediaPreview({item, streamSubIndex, ...videoDim})
+  if (useVideoInPopup == true) {
+    preview = MediaPreview({item, streamSubIndex, width: videoWidth, height: videoHeight})
   }
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
@@ -229,9 +328,10 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, useVide
         <span className="leafEntrants" style={{ marginRight: '3px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{" "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
         <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
-        {item.streamInfo.streamUrls.map((sInfo, index) => 
-          <div><a href={sInfo.streamUrl} target="_blank" className="leafbracketLink">{sInfo.streamUrl}</a><br/></div>
-        )}
+        {item.streamInfo.streamUrls.map((sInfo, index) => {
+          const streamUrl = getStreamUrl(item.streamInfo, index)
+          return <div><a href={streamUrl} target="_blank" className="leafbracketLink">{streamUrl}</a><br/></div>
+        })}
         <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "leaf_play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "leaf_play2_")}<br/>
       </div>
       {streamButton}

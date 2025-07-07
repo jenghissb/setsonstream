@@ -1,16 +1,94 @@
+import React, { useEffect, useRef, memo } from 'react';
+import { useState } from 'react';
+import ReactPlayer from 'react-player';
+import { TwitchPlayer1 } from './TwitchPlayer1.js'
 
-export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true, currentVideoOffset=0}) {
+export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true, currentVideoOffset=0, handleReady, onProgress}) {
   if (item == null || item.streamInfo == undefined) {
     return BlankEmbed({width, height})
   }
+  const initialOffset = getStreamTimeOffset(item, streamSubIndex)
   if (item.streamInfo.streamSource === "TWITCH") {
     var streamUrlInfo = item.streamInfo.streamUrls[0]
-    return TwitchEmbed({channel: item.streamInfo.forTheatre, width, height, useLiveStream, videoId:streamUrlInfo.videoId, offsetHms:streamUrlInfo.offsetHms, currentVideoOffset})
-  } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[streamSubIndex].embedUrl) {
-    return YoutubeEmbed({url: item.streamInfo.streamUrls[streamSubIndex].embedUrl, width, height})
+    var options = {width, height}
+    var useVod = !useLiveStream && streamUrlInfo.videoId != null
+    var playerKey = ""
+    if (useVod){
+      options.video = streamUrlInfo.videoId
+      playerKey = options.video
+      options.time = streamUrlInfo.offsetHms
+    } else {
+      options.channel = item.streamInfo.forTheatre
+      playerKey = options.channel
+    }
+
+    return <TwitchPlayer1 key={playerKey} {...options} initialOffset={initialOffset} onReady={handleReady} onProgress={onProgress}/>
+    //return TwitchEmbedBefore({channel: item.streamInfo.forTheatre, width, height, useLiveStream, videoId:streamUrlInfo.videoId, offsetHms:streamUrlInfo.offsetHms, currentVideoOffset})
+  } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[streamSubIndex].videoId) {
+    var streamUrlInfo = item.streamInfo.streamUrls[0]
+    return YoutubeEmbed({width, height, useLiveStream, videoId:streamUrlInfo.videoId, offset:streamUrlInfo.offset, currentVideoOffset, handleReady, onProgress, setKey:item.bracketInfo.setKey})
+    // return YoutubeEmbedPrev({url: getEmbedUrl(item.streamInfo.streamUrls[streamSubIndex].videoId), width, height})
   } else {
     return BlankEmbed({width, height})
   }
+}
+
+function YoutubeEmbed({width = 426, height = 240, setKey, useLiveStream=true, videoId, offset, currentVideoOffset=0, handleReady, onProgress}) {
+  var url = `https://www.youtube.com/watch?v=${videoId}`;
+  var options = {
+    youtube: {
+      width,
+      height,
+      videoId,
+      parent: [`${window.location.hostname}`]
+    }
+  }
+  var useVod = !useLiveStream && videoId != null
+
+  if (useVod){
+    options.youtube.playerVars = {
+      start: parseInt(offset)
+    }
+  }
+
+  const onVideoProgress = (progressInfo) => {
+    onProgress(progressInfo.playedSeconds - offset)
+  }
+  return <ReactPlayer
+    key={setKey + useLiveStream}
+    url={url} // Replace with your Twitch channel URL
+    config={
+      options
+    }
+    controls={true} // Show player controls
+    parent={window.location.hostname}
+    playing={true}
+    width={width}
+    height={height}
+    onReady={it => {
+      handleReady(it?.player ?? null)
+    }}
+    onProgress={onVideoProgress}
+      />
+}
+
+function getEmbedUrl(videoId) {
+  return `https://www.youtube.com/embed/${videoId}`
+}
+
+export function MediaPreviewPrevious({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true, currentVideoOffset=0}) {
+  // return BlankEmbed({width, height})
+  // if (item == null || item.streamInfo == undefined) {
+  //   return BlankEmbed({width, height})
+  // }
+  // if (item.streamInfo.streamSource === "TWITCH") {
+  //   var streamUrlInfo = item.streamInfo.streamUrls[0]
+  //   return TwitchEmbedBefore({channel: item.streamInfo.forTheatre, width, height, useLiveStream, videoId:streamUrlInfo.videoId, offsetHms:streamUrlInfo.offsetHms, currentVideoOffset})
+  // } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[streamSubIndex].videoId) {
+  //   return YoutubeEmbed({url: getEmbedUrl(item.streamInfo.streamUrls[streamSubIndex].videoId), width, height})
+  // } else {
+  //   return BlankEmbed({width, height})
+  // }
 }
 
 function BlankEmbed({width = 426, height = 240 }) {
@@ -26,7 +104,22 @@ function BlankEmbed({width = 426, height = 240 }) {
   );
 }
 
-function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true, videoId, offsetHms, currentVideoOffset=0}) {
+export function getStreamTimeOffset(item, streamSubIndex=0) {
+  const streamInfo = item.streamInfo
+  // const source =
+  const streamUrlInfo = streamInfo.streamUrls[streamSubIndex]
+  var offset = 0
+  if (streamUrlInfo.offset != null) {
+    offset = streamUrlInfo.offset
+  } else if (streamUrlInfo.offsetHms != null) {
+    offset = hmsStringToSeconds(streamUrlInfo.offsetHms)
+  } else if (streamUrlInfo.offsetS != null) {
+    offset = parseInt(streamUrlInfo.offsetS.slice(0, -1))
+  }
+  return offset
+}
+
+function TwitchEmbedBefore({ channel, width = 426, height = 240, useLiveStream=true, videoId, offsetHms, currentVideoOffset=0}) {
   var src = `https://player.twitch.tv/?channel=${channel}&parent=${window.location.hostname}`;
   if (!useLiveStream && videoId != null && offsetHms != null) {
     var initialOffset = hmsStringToSeconds(offsetHms)
@@ -34,9 +127,6 @@ function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true, v
     var newOffsetHms = secondsToHmsString(newOffset)
     src = `https://player.twitch.tv/?video=${videoId}&t=${newOffsetHms}&parent=${window.location.hostname}`
   }
-  //currentVideoOffset=0
-  console.log(src)
-  // const vodUrl = `https://www.twitch.tv/videos/2500360733?t=0h4m9s&parent=${window.location.hostname}`
 
   return (
     <iframe
@@ -51,7 +141,7 @@ function TwitchEmbed({ channel, width = 426, height = 240, useLiveStream=true, v
   );
 }
 
-function YoutubeEmbed({ url, width = 426, height = 240 }) {
+function YoutubeEmbedPrev({ url, width = 426, height = 240 }) {
   const src = url + "?autoplay=1";
   return (
     <iframe
@@ -65,7 +155,7 @@ function YoutubeEmbed({ url, width = 426, height = 240 }) {
   );
 }
 
-function hmsStringToSeconds(hmsString) {
+export function hmsStringToSeconds(hmsString) {
   let seconds = 0;
   const regex = /(\d+)h(?:(\d+)m)?(?:(\d+)s)?/; // Regex to match the hms format
   const match = hmsString.match(regex);
@@ -83,7 +173,7 @@ function hmsStringToSeconds(hmsString) {
   return seconds;
 }
 
-function secondsToHmsString(seconds) {
+export function secondsToHmsString(seconds) {
   // Calculate hours, minutes, and seconds
   const hours = Math.floor(seconds / 3600); // 1.2.4, 1.5.1
   const minutes = Math.floor((seconds % 3600) / 60); // 1.2.4, 1.5.1
