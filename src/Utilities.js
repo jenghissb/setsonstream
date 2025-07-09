@@ -148,3 +148,27 @@ export function getStreamUrl(streamInfo, index) {
     return `https://www.twitch.tv/${streamInfo.forTheatre}`
   }
 }
+
+export function formatDisplayTimestamp(unixTimestamp) {
+  const date = new Date(unixTimestamp * 1000); // Convert seconds to milliseconds
+  const now = new Date(); // Current local date and time
+
+  // Check if the date is the same day
+  const isSameDay = date.getDate() === now.getDate() &&
+                    date.getMonth() === now.getMonth() &&
+                    date.getFullYear() === now.getFullYear();
+
+  if (isSameDay) {
+    // Format as time only (e.g., "10:30 AM")
+    // date
+    return date.toLocaleTimeString([], { hour: 'numeric', minute: 'numeric' });
+  } else {
+    // Format as date and time (e.g., "July 7, 2025, 10:30 AM")
+    return date.toLocaleString([], {
+      month: 'short',
+      day: 'numeric',
+      hour: 'numeric',
+      minute: 'numeric'
+    });
+  }
+}

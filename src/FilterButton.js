@@ -53,7 +53,7 @@ export function renderFilterButton(filterInfo, onClick) {
       <div className="filterButton"
         onClick={onClick}
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.4)), url(${gameInfo.images.at(-1).url})`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.2),  rgba(0, 0, 0, 0.2)), url(${gameInfo.images.at(-1).url})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           // backgroundImage: `url(${gameInfo.images[0].url})`,

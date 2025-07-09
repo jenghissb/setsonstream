@@ -1,0 +1,47 @@
+.searchInputBar {
+  color: #FFF;
+  font-size:small;
+  text-wrap: wrap;
+  text-decoration: none;
+  max-lines: 1;
+  background-color: #181c24;
+  border-radius: 10px;
+  margin-left: 6px;
+  padding: 8px;
+  border: 2px solid #888;
+  height: 10px;
+  min-width: 48px;
+  max-width: 200px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  align-self: center;
+}
+
+.searchTerm {
+  color: #FFF;
+  font-size:small;
+  text-wrap: none;
+  white-space: nowrap;
+  text-decoration: none;
+  max-lines: 1;
+  background-color: #181c24;
+  border-radius: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin: 2px;
+  height: fit-content;
+
+}
+.searchTermHolder {
+  display: flex;
+  height:fit-content;
+  flex-direction: row;
+  overflow-x: scroll;
+  flex-wrap: none;
+  align-items: center;
+  padding-left:2px;
+  max-width: 100vw;
+  align-self: center;
+}

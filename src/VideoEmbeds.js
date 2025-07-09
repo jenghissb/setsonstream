@@ -3,7 +3,7 @@ import { useState } from 'react';
 import ReactPlayer from 'react-player';
 import { TwitchPlayer1 } from './TwitchPlayer1.js'
 
-export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true, currentVideoOffset=0, handleReady, onProgress}) {
+export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true, currentVideoOffset=0, handleReady, onProgress, targetId=null}) {
   if (item == null || item.streamInfo == undefined) {
     return BlankEmbed({width, height})
   }
@@ -15,13 +15,15 @@ export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, 
     var playerKey = ""
     if (useVod){
       options.video = streamUrlInfo.videoId
-      playerKey = options.video
+      playerKey = `${item.bracketInfo.setKey}_${options.video}`
       options.time = streamUrlInfo.offsetHms
     } else {
       options.channel = item.streamInfo.forTheatre
-      playerKey = options.channel
+      playerKey = `${item.bracketInfo.setKey}_${options.channel}`
     }
-
+    if (targetId != null) {
+      options.targetId = targetId
+    }
     return <TwitchPlayer1 key={playerKey} {...options} initialOffset={initialOffset} onReady={handleReady} onProgress={onProgress}/>
     //return TwitchEmbedBefore({channel: item.streamInfo.forTheatre, width, height, useLiveStream, videoId:streamUrlInfo.videoId, offsetHms:streamUrlInfo.offsetHms, currentVideoOffset})
   } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[streamSubIndex].videoId) {
@@ -52,7 +54,9 @@ function YoutubeEmbed({width = 426, height = 240, setKey, useLiveStream=true, vi
   }
 
   const onVideoProgress = (progressInfo) => {
-    onProgress(progressInfo.playedSeconds - offset)
+    if (onProgress != null) {
+      onProgress(progressInfo.playedSeconds - offset)
+    }
   }
   return <ReactPlayer
     key={setKey + useLiveStream}
@@ -66,7 +70,9 @@ function YoutubeEmbed({width = 426, height = 240, setKey, useLiveStream=true, vi
     width={width}
     height={height}
     onReady={it => {
-      handleReady(it?.player ?? null)
+      if (handleReady != null){
+        handleReady(it?.player ?? null)
+      }
     }}
     onProgress={onVideoProgress}
       />
@@ -94,14 +100,21 @@ export function MediaPreviewPrevious({item, streamSubIndex=0, width = 426, heigh
 function BlankEmbed({width = 426, height = 240 }) {
   const src = `about:blank`;
   return (
-    <iframe
-      src={src}
-      width={width}
-      height={height}
-      allowFullScreen={true}
-      title={`Blank`}
+    <div
+      style={{backgroundColor: "black", width, height}}
     />
   );
+
+  // const src = `about:blank`;
+  // return (
+  //   <iframe
+  //     src={src}
+  //     width={width}
+  //     height={height}
+  //     allowFullScreen={true}
+  //     title={`Blank`}
+  //   />
+  // );
 }
 
 export function getStreamTimeOffset(item, streamSubIndex=0) {

@@ -2,17 +2,18 @@ import './Home.css';
   import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
-import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl } from './Utilities.js'
-import { GameIds } from './GameInfo.js'
+import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp } from './Utilities.js'
+import { GameIds, getDefaultTimeRange } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
+import { SearchInputBar, SearchTerms } from "./SearchInputBar.js"
 import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { getAnalytics } from "firebase/analytics";
-
 import pako from 'pako';
-
+import { blue } from '@mui/material/colors';
+import { FilterType } from './FilterTypeButton.js'
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
   FULLMAP: 'FULLMAP',
@@ -74,6 +75,16 @@ function charInfoHasCharacter(charInfo, charName) {
   return hasCharacter
 }
 
+const textMatches = (filterInfo, text) => {
+  var matches = false
+  filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
+    if (text.toLowerCase().indexOf(searchTerm.toLowerCase()) >=0) {
+      matches = true
+    }
+  })
+  return matches
+}
+
 function itemMatchesFilter(item, filterInfo) {
   var matchesFilter = false
   filterInfo?.filters[filterInfo.currentGameId]?.characters?.forEach(charName => {
@@ -81,6 +92,19 @@ function itemMatchesFilter(item, filterInfo) {
       matchesFilter = true
     }
   })
+  if (textMatches(filterInfo, item.bracketInfo.tourneyName)) {
+    matchesFilter = true
+  }
+  if (textMatches(filterInfo, item.player1Info.name)) {
+    matchesFilter = true
+  }
+  if (textMatches(filterInfo, item.player2Info.name)) {
+    matchesFilter = true
+  }
+
+  // filterInfo?.filters[filterInfo.currentGameId]?.searches?.forEach(searchTerm => {
+  // })
+
   return matchesFilter
 }
 
@@ -95,20 +119,37 @@ function printNumberOfVods(data) {
   console.log(overall)
 }
 
-function getDisplayData(data, filterInfo,showVodsMode) {
+function getDisplayData(data, filterInfo, showVodsMode) {
   var dataToStart = data[filterInfo.currentGameId].live
   if (showVodsMode) {
     dataToStart = data[filterInfo.currentGameId].vods
+    const timeRange = filterInfo.filters[filterInfo.currentGameId]?.timeRange
+    if (timeRange != null) {
+      const timeStart = Date.now()/1000 + timeRange[0]*24*60*60
+      const timeEnd = Date.now()/1000 + timeRange[1]*24*60*60
+      dataToStart = dataToStart.filter(item => (item.bracketInfo.startedAt > timeStart
+         && item.bracketInfo.startedAt < timeEnd + 3500*1.5))
+    }
   }
   var sortedData = [...dataToStart].sort((a,b) => {
     return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
   })
+  if (showVodsMode) {
+    sortedData = [...dataToStart].sort((a,b) => {
+      return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+    })
+  }
   sortedData.forEach(item => {
     item.matchesFilter = itemMatchesFilter(item, filterInfo)
   })
   sortedData = [...sortedData].sort((a,b) => {
     return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
   })
+
+  const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
+  if (filterType == FilterType.FILTER) {
+    sortedData = sortedData.filter((it) => it.matchesFilter)
+  }
   return sortedData
 }
 
@@ -168,7 +209,7 @@ function decompressDataFromFetch(compressedDataBase64) {
 }
 
 function MainComponent(homeMode) {
-  const [showVodsMode, setShowVodsMode] = useState(false);
+  // const [showVodsMode, setShowVodsMode] = useState(false);
   const [filterInfo, setFilterInfo] = useState(getInitialFilter());
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -183,6 +224,7 @@ function MainComponent(homeMode) {
   // const [currentTimest, setCurrentItemKey] = useState(null);
   const [controlsOn, setControlsOn] = useState(false); 
 
+  const showVodsMode = filterInfo.showVodsMode || false
   const currentGameId = filterInfo.currentGameId
 
   const currentItemKeyRef = useRef(currentItemKey);
@@ -244,6 +286,84 @@ function MainComponent(homeMode) {
 
     var newFilterInfo = {...filterInfo, filters: newFilters}
 
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
+  const addSearchTerm = (searchTerm) => {
+    searchTerm = searchTerm.trim()
+    const gameId = filterInfo.currentGameId
+
+    var newFilters = {...filterInfo.filters}
+    if (newFilters[gameId] == undefined) {
+      newFilters[gameId] = {}
+    }
+    var searches = newFilters[gameId]?.searches ?? [] 
+    var newSearches = []
+    if (searches.indexOf(searchTerm) > -1) {
+    } else {
+      newSearches = [...searches, searchTerm]
+    }
+    newFilters[gameId].searches = newSearches
+    var newFilterInfo = {...filterInfo, filters: newFilters}
+
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
+  
+  const removeSearchTerm = (searchTerm) => {
+    const gameId = filterInfo.currentGameId
+
+    var newFilters = {...filterInfo.filters}
+    if (newFilters[gameId] == undefined) {
+      newFilters[gameId] = {}
+    }
+    var searches = newFilters[gameId]?.searches ?? [] 
+    var newSearches = []
+    if (searches.indexOf(searchTerm) > -1) {
+      newSearches = searches.filter(item => item != searchTerm)
+    }
+    newFilters[gameId].searches = newSearches
+    var newFilterInfo = {...filterInfo, filters: newFilters}
+
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
+  const changeFilterType = (value) => {    
+    var newFilterTypeObj = {}
+    var currentFilterInfo = filterInfo?.filterType ?? {}
+    var newFilterTypeObj = {...currentFilterInfo }
+    if (showVodsMode) {
+      newFilterTypeObj["vods"] = value
+    } else {
+      newFilterTypeObj["live"] = value
+    }
+    var newFilterInfo = {...filterInfo, filterType: newFilterTypeObj}
+
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
+
+
+  const onTimeRangeChanged = (value) => {
+    const gameId = filterInfo.currentGameId
+    
+    var newFilters = {...filterInfo.filters}
+    if (newFilters[gameId] == undefined) {
+      newFilters[gameId] = {}
+    }
+    newFilters[gameId] = {...newFilters[gameId], timeRange: value}
+    var newFilterInfo = {...filterInfo, filters: newFilters}
+
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
+  const setShowVodsMode = (value) => {
+    var newFilterInfo = {...filterInfo, showVodsMode: value}
     localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
     setFilterInfo(newFilterInfo)
   }
@@ -351,8 +471,19 @@ function MainComponent(homeMode) {
     }
   }
 
-  if (useVideoIn.panel == true && displayData.length > 0) {
-    var previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
+  const onSearch = (searchTerm) => {
+    addSearchTerm(searchTerm)
+  }
+
+  const onSearchRemove = (index, searchTerm) => {
+    removeSearchTerm(searchTerm)
+  }
+
+  if (useVideoIn.panel == true) {
+    var previewItem = null
+    if (displayData.length > 0) {
+      previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
+    }
     const vidWidth = `${width}px`
     const vidHeight = `${height}px`
     preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
@@ -370,15 +501,19 @@ function MainComponent(homeMode) {
   if (!showMapBeside) {
     stickyPos -= height
   }
+  var overallStyle = {}
+  if (homeMode == HomeModes.FULLMAP) {
+    overallStyle = {height: "100dvh"}
+  }
   return (
-    <div className="overallDiv">
+    <div className="overallDiv" overallStyle>
       {
-        renderLinkRow(displayData, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP)
+        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
       }
       <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
         {
-          Leafy(displayData, tourneyById, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim)
+          Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged)
         }
         {
           preview
@@ -386,13 +521,13 @@ function MainComponent(homeMode) {
       </div>
       </div>
       {
-        renderLinkRow(displayData, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP)
+        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
       }
       { 
         noData
       }
       {
-        renderData(displayData, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady)
+        renderData(displayData, filterInfo, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady)
       }
       {
         afterData
@@ -451,15 +586,32 @@ function Home({homeMode=HomeModes.MAIN}) {
   );
 }
 
-function renderLinkRow(jsonData, showVodsMode, setShowVodsMode, shouldShow) {
+function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shouldShow, onSearch, onSearchRemove, changeFilterType) {
   if (!shouldShow) {
     return
   }
-  return <div className="linkRow">
-    {
-      renderLink(jsonData)
-    }
-    {renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode)}
+  const showBelow = window.innerWidth < 450
+  const gameFilterInfo = filterInfo.filters[filterInfo.currentGameId]
+  const hasFilters = (gameFilterInfo?.characters ?? []).length > 0
+  var filterType = undefined
+  if (showVodsMode) {
+    filterType = filterInfo.filterType?.vods
+  } else {
+    filterType = filterInfo.filterType?.live
+  }
+  const searchTerms = <SearchTerms searchTerms={gameFilterInfo?.searches} onRemove={onSearchRemove} hasFilters={hasFilters} filterType={filterType} changeFilterType={changeFilterType}/>
+  return <div className='linkRowHolder'>
+    <div className="linkRow">
+      {
+        renderLink(jsonData, !showVodsMode)
+      }
+      <span className="searchAndFilters">
+      <SearchInputBar style={{alignSelf: "center", backgroundColor:"#ee5599"}} onSearch={onSearch} filterInfo={filterInfo} />
+      {!showBelow && searchTerms}
+      </span>
+      {renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode)}
+    </div>
+    {showBelow && searchTerms}
   </div>
 }
 function renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode) {
@@ -479,6 +631,9 @@ function renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode) {
 
 
 function renderLink(jsonData, shouldShow) {
+  if (!shouldShow) {
+    return <div />
+  }
   var list = jsonData.map(item => item.streamInfo.forTheatre).filter(item => item !== null).filter((value, index, self) => self.indexOf(value) === index)
   var str = "https://twitchtheater.tv"
   list.forEach(item => {
@@ -489,10 +644,10 @@ function renderLink(jsonData, shouldShow) {
   if (list.length == 0)
     return <div />
 
-  return <a target="_blank" href={str} className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '5px'} }>{`TwitchTheater (${numVids}) 🔗 `}</span></a>
+  return <a target="_blank" href={str} className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '2px'} }>TwitchTheater<br/>{`🔗(${numVids})`}</span></a>
 }
 
-function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady) {
+function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -507,14 +662,14 @@ function renderData(jsonData, useVideoIn, handleIndexChange, itemKey, width, hei
   return <div className={stylename1}>{
     jsonData.map((item, index) => (
       <div className={stylename2} index={index}>
-        <DataRow item={item} useVideoInList={useVideoIn.list} handleIndexChange={handleIndexChange} selected={itemKey == item.bracketInfo.setKey} width={width} height={height} useLiveStream={useLiveStream} setUseLiveStream={setUseLiveStream} showVodsMode={showVodsMode} handleTimestampChange={handleTimestampChange} rewindReady={rewindReady}/>
+        <DataRow item={item} filterInfo={filterInfo} useVideoInList={useVideoIn.list} handleIndexChange={handleIndexChange} selected={itemKey == item.bracketInfo.setKey} width={width} height={height} useLiveStream={useLiveStream} setUseLiveStream={setUseLiveStream} showVodsMode={showVodsMode} handleTimestampChange={handleTimestampChange} rewindReady={rewindReady}/>
       </div>
 
     ))}
   </div>
 }
 
-const DataRow = memo(({item, useVideoInList, handleIndexChange, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
+const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
   var preview = null
   if (useVideoInList) {
     var scale = 0.97
@@ -541,7 +696,30 @@ const DataRow = memo(({item, useVideoInList, handleIndexChange, selected, mainVi
     handleIndexChange(item.bracketInfo.setKey)
     setUseLiveStream(newLive)
   }
+  if (item.matchesFilter) {
+    divClass = `${divClass} set-row-matches`
+  }
 
+  const textGlowClass="textGlow"
+  var tourneyTitleClass = "tourneyTitle"
+  if (textMatches(filterInfo, item.bracketInfo.tourneyName)) {
+    tourneyTitleClass = `${tourneyTitleClass} ${textGlowClass}`
+  }
+  var player1NameClass = "playerName"
+  if (textMatches(filterInfo, item.player1Info.nameWithRomaji)) {
+    player1NameClass = `${player1NameClass} ${textGlowClass}`
+  }
+  var player2NameClass = "playerName"
+  if (textMatches(filterInfo, item.player2Info.nameWithRomaji)) {
+    player2NameClass = `${player2NameClass} ${textGlowClass}`
+  }
+  const startedAtText = formatDisplayTimestamp(item.bracketInfo.startedAt)
+  var timestampText = `${startedAtText}`
+  var liveTextSpan = null
+  if (item.bracketInfo.endTimeDetected == null) {
+    const liveText = ' LIVE'
+    liveTextSpan = <span className='live-text'>{liveText}</span>
+  }
   return (
     <div className={divClass} onClick={onClick} style={
       {
@@ -552,14 +730,13 @@ const DataRow = memo(({item, useVideoInList, handleIndexChange, selected, mainVi
       }
     }>
       <div className="tourney-icon" style={{backgroundImage: `url(${tourneyIconUrl})`, backgroundSize: "cover", backgroundPosition: "center",}} />
+      <div className="tourney-timestamp"><span className='t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
       <div className="set-row-2">
-        {getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className="tourneyTitle">{item.bracketInfo.tourneyName}</span><br/>
+        {getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className={tourneyTitleClass}>{item.bracketInfo.tourneyName}</span><br/>
         <span className="tourneyText" style={{ marginRight: '5px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
       </div>
-      <div className="set-row-5">
-        {RewindAndLiveButtons({item, useLiveStream, updateIndexAndSetLive, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
-      </div>
+      {RewindAndLiveButtons({item, useLiveStream, updateIndexAndSetLive, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
       <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => {
@@ -568,7 +745,7 @@ const DataRow = memo(({item, useVideoInList, handleIndexChange, selected, mainVi
         })}
       </div>
       <div className="set-row-4">
-        <a href={item.player1Info.entrantUrl} target="_blank" className="playerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_")}<span className='vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className="playerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_")}<br/>
+        <a href={item.player1Info.entrantUrl} target="_blank" className={player1NameClass}>{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className={player2NameClass}>{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}<br/>
       </div>
       <div className="rowPreviewHolder" >
       {
@@ -580,10 +757,10 @@ const DataRow = memo(({item, useVideoInList, handleIndexChange, selected, mainVi
   );
 })
 
-function charEmojis(charInfo, gameId, prekey) {  
+function charEmojis(charInfo, gameId, prekey, filterInfo) {  
   var emojiArrs = []
   charInfo.forEach((item, index) => {
-    emojiArrs.push(charEmojiImage(item.name, gameId, prekey + index + "_"))
+    emojiArrs.push(charEmojiImage(item.name, gameId, prekey + index + "_", filterInfo))
     if (item.schuEmojiName != null) {
       emojiArrs.push(schuEmojiImage(item.schuEmojiName, prekey + "schu_" + index + "_"))
     }
@@ -592,8 +769,19 @@ function charEmojis(charInfo, gameId, prekey) {
     item
   )
 }
-function charEmojiImage(name, gameId, key = "") {
-  return <img className="charemoji" key={key} src={charEmojiImagePath(name, gameId)}/>
+function charEmojiImage(name, gameId, key = "", filterInfo) {
+  const src = charEmojiImagePath(name, gameId)
+  var matchesFilter = false;
+  filterInfo?.filters[gameId]?.characters?.forEach(charName => {
+    if (charName == name) {
+      matchesFilter = true
+    }
+  })
+  var emojiClass = "charemoji"
+  if (matchesFilter) {
+    emojiClass = "charemojimatches"
+  }
+  return <img className={emojiClass} key={key} src={charEmojiImagePath(name, gameId)}/>
 }
 function schuEmojiImage(name, key = "") {
   return <img className="schuemoji" key={key} src={schuEmojiImagePath(name)}/>
@@ -615,12 +803,20 @@ function BracketEmbed({width = 854, height = 480}) {
 
 }
 
-function Leafy(data, tourneyById, showVodsMode, handleIndexChange, useVideoIn, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim) {
+function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged) {
+  
   if (homeMode === HomeModes.ALLINLIST) {
     return
   }
+  const gameId = filterInfo.currentGameId
+  const timeRange = filterInfo.filters[gameId].timeRange ?? getDefaultTimeRange(gameId)
+  var topOffset = "70px"
+  if (window.innerWidth < 450 && (filterInfo.filters[filterInfo.currentGameId]?.searches ?? []).length > 0) {
+    topOffset = "100px"
+  }
+  const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
   if (data != null)
-    return <LeafMap data={data} tourneyById={tourneyById} showVodsMode={showVodsMode} handleIndexChange={handleIndexChange} useVideoIn={useVideoIn} width={width} height={height} useFullView={homeMode === HomeModes.FULLMAP} streamSubIndex={streamSubIndex} setStreamSubIndex={setStreamSubIndex} vidWidth={mainVideoDim.width} vidHeight={mainVideoDim.height}/>
+    return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged }}/>
 }
 
 function NoData(showVodsMode, setShowVodsMode) {

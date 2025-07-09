@@ -54,6 +54,11 @@
   color: #000;
 }
 
+.leafVertConstraint {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
 .leafset-row-1 {
   margin-left: -21px;
   margin-right: -25px;
@@ -86,6 +91,61 @@
   padding: 10px;
 }
 
+.leafset-set-top-header {
+  padding-right: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+  /* padding-left: 46px */
+}
+.leafsetTourneyInfo {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.leafset-set-row {
+  padding: 10px;
+  margin-top: 2px;
+}
+
+.leafset-set-row:active {
+  opacity: 0.8;
+}
+
+.leafset-set-row:hover {
+  opacity: 0.8;
+}
+
+
+.leafset-set-row-selected {
+  padding: 10px;
+  margin-top: 2px;
+  border: 2px solid lightsteelblue;
+}
+
+.leafHeaderInside {
+  display: flex;
+  flex-direction: row;
+  /* width: 100vw; */
+  /* height: 25px; */
+  justify-content: flex-start;
+  /* align-items: center; */
+}
+
+.leaf-tourney-icon {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  border-top-left-radius: 8px;
+  align-self:flex-start
+  /* position: absolute;
+  left:0;
+  top:0;
+  margin-left: -16px;
+  margin-top: -16px; */
+  /* z-index: 2; */
+}
+
+
 
 .leafbracketLink {
   font-size:smaller;
@@ -98,4 +158,74 @@
   margin: 0px;
   margin-left: 0px;
   border-radius: 0px;
+}
+
+.leafMinMaxSvg {
+  color:#f9f9f9ff;
+  width: 32px;
+  height: 32px;
+  position:absolute;
+  right: 12px;
+  bottom:12px;
+  /* bottom:120px; */
+  z-index: 4001;
+}
+
+.attribution2 {
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent;
+  /* font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; */
+  font-size: 0.75rem;
+  position: relative;
+  z-index: 800;
+  pointer-events: auto;
+  clear: both;
+  cursor: auto;
+  padding: 0 5px;
+  color: #333;
+  line-height: 1.4;
+  float: right;
+  background: rgba(255, 255, 255, 0.8);
+  margin: 0;
+  box-shadow: none;
+  text-decoration: none;
+}
+
+.attributionFlag {
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-size: 0.75rem;
+  pointer-events: auto;
+  line-height: 1.4;
+  -webkit-tap-highlight-color: rgba(51, 181, 229, 0.4);
+  color: #0078A8;
+  display: inline !important;
+  vertical-align: baseline !important;
+  width: 1em;
+  height: 0.6669em;
+  text-decoration: none;
+  
+}
+
+.attirbutionContainer {
+  position:absolute;
+  right: 40px;
+  top: 0px;
+  /* bottom:120px; */
+  z-index: 3990;
+  letter-spacing: -0.38px;
+  text-decoration: none;
+}
+
+.attributionLink {
+  /* color: blue; */
+  font-size: 0.75rem;
+  color: #0078A8;
+  text-decoration: none;
+}
+
+.attributionLink:hover {
+  text-decoration: underline;
 }

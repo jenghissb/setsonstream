@@ -116,3 +116,19 @@ export const VideoGameInfo = Object.freeze([
 export const VideoGameInfoById = Object.fromEntries(
   VideoGameInfo.map(item => [item.id, item])
 );
+
+
+const TimeRanges = Object.freeze({
+  "1386": [-1.5, 0],
+  "1": [-3.5, 0],
+  // "33945": 
+  // "43868": 
+  //   charLis
+  // "49783": 
+  // "53945": 
+});
+
+export function getDefaultTimeRange(gameId) {
+  const defaultRangeValue = [-6.5, 0]
+  return TimeRanges[gameId] ?? defaultRangeValue
+}
