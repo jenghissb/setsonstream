@@ -511,7 +511,7 @@ function MainComponent(homeMode) {
 
   const sayNoMatch = wouldHaveData
   const shouldShowNoData = displayData.length < 1
-  const shouldShowNoDataOver = shouldShowNoData && homeMode != HomeModes.FULLMAP
+  const shouldShowNoDataOver = shouldShowNoData && homeMode == HomeModes.FULLMAP
   if (homeMode != HomeModes.FULLMAP) {
     if (shouldShowNoData) {
       noData = NoData(showVodsMode, setShowVodsMode, false, sayNoMatch)
