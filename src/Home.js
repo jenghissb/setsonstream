@@ -162,6 +162,14 @@ function getDisplayData(data, filterInfo, showVodsMode) {
   return sortedData
 }
 
+function hasDataForGame(data, gameId, showVodsMode) {
+  if (showVodsMode) {
+    return data[gameId]?.vods?.length ?? 0 > 0
+  } else {
+    return data[gameId]?.live?.length ?? 0 > 0
+  }
+}
+
 function getDataByTourney(displayData) {
   var tourneyById = {}
   displayData.forEach(item => {
@@ -467,6 +475,7 @@ function MainComponent(homeMode) {
     displayData = []
   }
   var tourneyById = getDataByTourney(displayData)
+  var wouldHaveData = hasDataForGame(data, filterInfo.currentGameId, showVodsMode)
   var itemKey = currentItemKey
   if (itemKey == null && displayData.length > 0) {
     itemKey = displayData[0].bracketInfo.setKey
@@ -500,11 +509,14 @@ function MainComponent(homeMode) {
   }
   var noData = null
   var afterData = null
-  
-  if (displayData.length < 1) {
-    noData = NoData(showVodsMode, setShowVodsMode)
-  } else {
-    afterData = AfterData(showVodsMode, setShowVodsMode)
+
+  const sayNoMatch = wouldHaveData
+  if (homeMode != HomeModes.FULLMAP) {
+    if (displayData.length < 1) {
+      noData = NoData(showVodsMode, setShowVodsMode, false, sayNoMatch)
+    } else {
+      afterData = AfterData(showVodsMode, setShowVodsMode)
+    }
   }
   var showMapBeside = 2*width <= window.innerWidth
   var stickyPos = 0
@@ -543,6 +555,7 @@ function MainComponent(homeMode) {
         afterData
       }
       <div className="bottomOffsetDiv"/>
+      { renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch)}
       { 
         renderFooterButton(filterInfo, () => setShowFilterModal(true))
       }
@@ -551,6 +564,14 @@ function MainComponent(homeMode) {
       }
     </div>
   );
+}
+
+function renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch) {
+  return <div className="noDataContainer">
+      <div className="noDataHolder">
+        {NoData(showVodsMode, setShowVodsMode, true, sayNoMatch)}
+      </div>
+  </div>
 }
 
 function renderFooterButton(filterInfo, onOpen ) {
@@ -654,7 +675,7 @@ function renderLink(jsonData, shouldShow) {
   if (list.length == 0)
     return <div />
 
-  return <a target="_blank" href={str} className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '2px'} }>TwitchTheater<br/>{`🔗(${numVids})`}</span></a>
+  return <a target="_blank" href={str} className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '2px'} }>TwitchTheater<br/><span style={{fontSize:"smaller"}}>{`🔗(${numVids})`}</span></span></a>
 }
 
 function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady) {
@@ -829,16 +850,18 @@ function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsM
     return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged }}/>
 }
 
-function NoData(showVodsMode, setShowVodsMode) {
+function NoData(showVodsMode, setShowVodsMode, overMap, sayNoMatch) {
 
   var vodPrompt = null
+  const textClassName = "app-inform" + (overMap? " app-inform-overMap" : "")
   if (!showVodsMode) {
-    var vodPrompt = <span className="app-inform"><br/><p>Try watching <u onClick={() => setShowVodsMode(true)}>Recent sets</u> instead</p></span>
+    var vodPrompt = <span className={textClassName}><br/><p>Try watching <u onClick={() => setShowVodsMode(true)}>Recent sets</u> instead</p></span>
   }
+  const firstLineText = sayNoMatch ? "No sets match" : "No sets found"
   return <div>
-    <span className="app-inform">No set data</span><br/>
-    <span className="app-inform">Refresh again later to try again</span><br/>
-    <span className="app-inform">Some times of day have no sets sometimes, like after PST hours but before JST hours (pacific ocean is big) </span>
+    <span className={textClassName}>{firstLineText}</span><br/>
+    <span className={textClassName}>Refresh again later to try again</span><br/>
+    <span className={textClassName}>Some times of day have no sets sometimes, like after PST hours but before JST hours (pacific ocean is big) </span>
     {vodPrompt}
   </div>
 }

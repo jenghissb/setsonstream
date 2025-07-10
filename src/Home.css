@@ -108,6 +108,26 @@
   /* width: 100%; */
 }
 
+.noDataContainer {
+  position: fixed;
+  bottom: 100px;
+  /* right: 25px; */
+  width: 100%;
+  /* height: 300px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 200;
+  /* width: 100%; */
+}
+
+.noDataHolder {
+  align-self: center;
+  justify-self: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 .charemoji {
   height: 36px;
   width: 36px;
@@ -436,8 +456,13 @@
 
 .app-inform {
   font-size:medium;
-  line-height:1.2
+  line-height:1.2;
 }
+
+.app-inform-overMap {
+  color: #000000ff;
+}
+
 #map {
   width: 600px;
   height: 400px;
