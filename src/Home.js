@@ -770,7 +770,6 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, sele
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
       </div>
       {RewindAndLiveButtons({item, useLiveStream, updateIndexAndSetLive, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
-      {streamButton}
       <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => {
