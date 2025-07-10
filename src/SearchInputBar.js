@@ -161,8 +161,8 @@ function SearchTerm({onRemove, searchTerm, index}) {
   return <div className={"searchTerm"} onClick={() => onRemove(index, searchTerm)}>{searchTerm} <span>x</span></div>
 }
 
-export function SearchTerms({searchTerms, onRemove, hasFilters, filterType, changeFilterType}) {
-  if (hasFilters || (searchTerms != null && searchTerms.length > 0)) {
+export function SearchTerms({searchTerms, onRemove, hasCharFilters, filterType, changeFilterType}) {
+  if (hasCharFilters || (searchTerms != null && searchTerms.length > 0)) {
     return <div className='searchTermHolder'>
       {renderFilterTypeButton(filterType, changeFilterType)}
       {searchTerms?.map((item, index) => <SearchTerm {...{onRemove, searchTerm: item, index}} />)}

@@ -119,8 +119,16 @@ function printNumberOfVods(data) {
   console.log(overall)
 }
 
+function filterInfoHasFiltersForCurrentGame(filterInfo) {
+  const gameFilterInfo = filterInfo.filters[filterInfo.currentGameId]
+  const hasCharFilters = (gameFilterInfo?.characters ?? []).length > 0
+  const hasSearchFilters = (gameFilterInfo?.searches ?? []).length > 0
+  return hasCharFilters || hasSearchFilters
+}
+
 function getDisplayData(data, filterInfo, showVodsMode) {
   var dataToStart = data[filterInfo.currentGameId].live
+  const hasFilters = filterInfoHasFiltersForCurrentGame(filterInfo)
   if (showVodsMode) {
     dataToStart = data[filterInfo.currentGameId].vods
     const timeRange = filterInfo.filters[filterInfo.currentGameId]?.timeRange
@@ -139,16 +147,17 @@ function getDisplayData(data, filterInfo, showVodsMode) {
       return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
     })
   }
-  sortedData.forEach(item => {
-    item.matchesFilter = itemMatchesFilter(item, filterInfo)
-  })
-  sortedData = [...sortedData].sort((a,b) => {
-    return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
-  })
-
-  const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
-  if (filterType == FilterType.FILTER) {
-    sortedData = sortedData.filter((it) => it.matchesFilter)
+  if (hasFilters) {
+    sortedData.forEach(item => {
+      item.matchesFilter = itemMatchesFilter(item, filterInfo)
+    })
+    sortedData = [...sortedData].sort((a,b) => {
+      return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
+    })
+    const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
+    if (filterType == FilterType.FILTER) {
+      sortedData = sortedData.filter((it) => it.matchesFilter)
+    }
   }
   return sortedData
 }
@@ -332,6 +341,7 @@ function MainComponent(homeMode) {
   }
 
   const changeFilterType = (value) => {    
+    console.log("changeFilterType start", value)
     var newFilterTypeObj = {}
     var currentFilterInfo = filterInfo?.filterType ?? {}
     var newFilterTypeObj = {...currentFilterInfo }
@@ -426,7 +436,7 @@ function MainComponent(homeMode) {
           })
         })
         setData(data);
-        // printNumberOfVods(data)
+        printNumberOfVods(data)
         // console.log(data)
       } catch (err) {
         setError(err);
@@ -592,21 +602,21 @@ function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shou
   }
   const showBelow = window.innerWidth < 450
   const gameFilterInfo = filterInfo.filters[filterInfo.currentGameId]
-  const hasFilters = (gameFilterInfo?.characters ?? []).length > 0
+  const hasCharFilters = (gameFilterInfo?.characters ?? []).length > 0
   var filterType = undefined
   if (showVodsMode) {
     filterType = filterInfo.filterType?.vods
   } else {
     filterType = filterInfo.filterType?.live
   }
-  const searchTerms = <SearchTerms searchTerms={gameFilterInfo?.searches} onRemove={onSearchRemove} hasFilters={hasFilters} filterType={filterType} changeFilterType={changeFilterType}/>
+  const searchTerms = <SearchTerms searchTerms={gameFilterInfo?.searches} onRemove={onSearchRemove} hasCharFilters={hasCharFilters} filterType={filterType} changeFilterType={changeFilterType}/>
   return <div className='linkRowHolder'>
     <div className="linkRow">
       {
         renderLink(jsonData, !showVodsMode)
       }
       <span className="searchAndFilters">
-      <SearchInputBar style={{alignSelf: "center", backgroundColor:"#ee5599"}} onSearch={onSearch} filterInfo={filterInfo} />
+      <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} />
       {!showBelow && searchTerms}
       </span>
       {renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode)}

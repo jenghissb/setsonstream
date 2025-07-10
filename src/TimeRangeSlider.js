@@ -18,6 +18,8 @@ export const TimeRangeSlider = ({width, height, onChange, gameId, initialTimeRan
   const [currentProgress, setCurrentProgress] = useState(defaultValues);
   const [dragOffset, setDragOffset] = useState(null);
   
+  const onChangeRef = useRef(onChange)
+  onChangeRef.current = onChange
   var marks = [
     {
       value: -7,
@@ -28,9 +30,11 @@ export const TimeRangeSlider = ({width, height, onChange, gameId, initialTimeRan
       label: <div className='timeMarkContainer' style={{marginRight:"40px"}}>present</div>,
     },
   ];
-
+  console.log("TEST7 TimeRangeSlider onChange=", onChange)
+  
   const updateChangeExternal = (updatedValue) =>{
-    onChange(updatedValue)
+    onChangeRef.current(updatedValue)
+    // onChange(updatedValue)
   }
 
   const debouncedChangeExternal = useRef(debounce(updateChangeExternal, 500)).current;
