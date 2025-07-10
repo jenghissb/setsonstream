@@ -349,7 +349,6 @@ function MainComponent(homeMode) {
   }
 
   const changeFilterType = (value) => {    
-    console.log("changeFilterType start", value)
     var newFilterTypeObj = {}
     var currentFilterInfo = filterInfo?.filterType ?? {}
     var newFilterTypeObj = {...currentFilterInfo }
@@ -551,7 +550,7 @@ function MainComponent(homeMode) {
         noData
       }
       {
-        renderData(displayData, filterInfo, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady)
+        renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady)
       }
       {
         afterData
@@ -680,7 +679,7 @@ function renderLink(jsonData, shouldShow) {
   return <a target="_blank" href={str} className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '2px'} }>TwitchTheater<br/><span style={{fontSize:"smaller"}}>{`🔗(${numVids})`}</span></span></a>
 }
 
-function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady) {
+function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -693,16 +692,17 @@ function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, itemKey
   }
 
   return <div className={stylename1}>{
-    jsonData.map((item, index) => (
-      <div className={stylename2} index={index}>
-        <DataRow item={item} filterInfo={filterInfo} useVideoInList={useVideoIn.list} handleIndexChange={handleIndexChange} selected={itemKey == item.bracketInfo.setKey} width={width} height={height} useLiveStream={useLiveStream} setUseLiveStream={setUseLiveStream} showVodsMode={showVodsMode} handleTimestampChange={handleTimestampChange} rewindReady={rewindReady}/>
+    jsonData.map((item, index) => {
+      const itemStreamSubIndex = (itemKey == item.bracketInfo.setKey) ? streamSubIndex : 0
+      return <div className={stylename2} index={index}>
+        <DataRow {...{item, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
       </div>
 
-    ))}
+    })}
   </div>
 }
 
-const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
+const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
   var preview = null
   if (useVideoInList) {
     var scale = 0.97
@@ -716,6 +716,16 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, sele
       return; // Exit the function to prevent further click handling
     }
     handleIndexChange(item.bracketInfo.setKey)
+  }
+  
+  const handleStreamIndexButtonClick = (numSubStreams) => {
+    setStreamSubIndex((streamSubIndex + 1) % numSubStreams);
+  };
+
+  var streamButton = null
+  var numSubStreams = item.streamInfo.streamUrls.length
+  if (numSubStreams > 1 && selected) {
+    streamButton = <button onClick={() => handleStreamIndexButtonClick(numSubStreams)}><span>switch stream</span></button>
   }
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
@@ -770,6 +780,7 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, sele
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
       </div>
       {RewindAndLiveButtons({item, useLiveStream, updateIndexAndSetLive, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
+      {streamButton}
       <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => {

@@ -222,9 +222,9 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
   const [isPopupOpen2, setIsPopupOpen2] = useState(false);
   const [isPopupOpen3, setIsPopupOpen3] = useState(false);
 
-  const handleOpenPopup1 = () => console.log(setIsPopupOpen1(true));
-  const handleOpenPopup2 = () => console.log(setIsPopupOpen2(true));
-  const handleOpenPopup3 = () => console.log(setIsPopupOpen3(true));
+  const handleOpenPopup1 = () => setIsPopupOpen1(true);
+  const handleOpenPopup2 = () => setIsPopupOpen2(true);
+  const handleOpenPopup3 = () => setIsPopupOpen3(true);
 
   const handleClosePopup1 = () => setIsPopupOpen1(false);
   const handleClosePopup2 = () => setIsPopupOpen2(false);

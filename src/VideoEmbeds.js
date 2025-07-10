@@ -8,36 +8,38 @@ export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, 
     return BlankEmbed({width, height})
   }
   const initialOffset = getStreamTimeOffset(item, streamSubIndex)
+  var streamUrlInfo = item.streamInfo.streamUrls[0]
+  if (streamSubIndex < item.streamInfo.streamUrls.length) {
+    streamUrlInfo = item.streamInfo.streamUrls[streamSubIndex]
+  }
   if (item.streamInfo.streamSource === "TWITCH") {
-    var streamUrlInfo = item.streamInfo.streamUrls[0]
     var options = {width, height}
     var useVod = !useLiveStream && streamUrlInfo.videoId != null
     var playerKey = ""
     if (useVod){
       options.video = streamUrlInfo.videoId
-      playerKey = `${item.bracketInfo.setKey}_${options.video}`
+      playerKey = `${item.bracketInfo.setKey}_${options.video}_${streamSubIndex}`
       options.time = streamUrlInfo.offsetHms
     } else {
       // options.height = options.width
       // height: .8*window.innerHeight
       options.channel = item.streamInfo.forTheatre
-      playerKey = `${item.bracketInfo.setKey}_${options.channel}`
+      playerKey = `${item.bracketInfo.setKey}_${options.channel}_${streamSubIndex}`
     }
     if (targetId != null) {
       options.targetId = targetId
     }
     return <TwitchPlayer1 key={playerKey} {...options} initialOffset={initialOffset} onReady={handleReady} onProgress={onProgress}/>
     //return TwitchEmbedBefore({channel: item.streamInfo.forTheatre, width, height, useLiveStream, videoId:streamUrlInfo.videoId, offsetHms:streamUrlInfo.offsetHms, currentVideoOffset})
-  } else if (item.streamInfo.streamSource === "YOUTUBE" && null != item.streamInfo.streamUrls[streamSubIndex].videoId) {
-    var streamUrlInfo = item.streamInfo.streamUrls[0]
-    return YoutubeEmbed({width, height, useLiveStream, videoId:streamUrlInfo.videoId, offset:streamUrlInfo.offset, currentVideoOffset, handleReady, onProgress, setKey:item.bracketInfo.setKey})
+  } else if (item.streamInfo.streamSource === "YOUTUBE" && null != streamUrlInfo.videoId) {
+    return YoutubeEmbed({width, height, useLiveStream, videoId:streamUrlInfo.videoId, offset:streamUrlInfo.offset, currentVideoOffset, handleReady, onProgress, setKey:item.bracketInfo.setKey, streamSubIndex})
     // return YoutubeEmbedPrev({url: getEmbedUrl(item.streamInfo.streamUrls[streamSubIndex].videoId), width, height})
   } else {
     return BlankEmbed({width, height})
   }
 }
 
-function YoutubeEmbed({width = 426, height = 240, setKey, useLiveStream=true, videoId, offset, currentVideoOffset=0, handleReady, onProgress}) {
+function YoutubeEmbed({width = 426, height = 240, setKey, streamSubIndex, useLiveStream=true, videoId, offset, currentVideoOffset=0, handleReady, onProgress}) {
   var url = `https://www.youtube.com/watch?v=${videoId}`;
   var options = {
     youtube: {
@@ -61,7 +63,7 @@ function YoutubeEmbed({width = 426, height = 240, setKey, useLiveStream=true, vi
     }
   }
   return <ReactPlayer
-    key={setKey + useLiveStream}
+    key={`${setKey}_${streamSubIndex}_${useLiveStream}`}
     url={url} // Replace with your Twitch channel URL
     config={
       options
