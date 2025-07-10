@@ -30,11 +30,9 @@ export const TimeRangeSlider = ({width, height, onChange, gameId, initialTimeRan
       label: <div className='timeMarkContainer' style={{marginRight:"40px"}}>present</div>,
     },
   ];
-  console.log("TEST7 TimeRangeSlider onChange=", onChange)
   
   const updateChangeExternal = (updatedValue) =>{
     onChangeRef.current(updatedValue)
-    // onChange(updatedValue)
   }
 
   const debouncedChangeExternal = useRef(debounce(updateChangeExternal, 500)).current;

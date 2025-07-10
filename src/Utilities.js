@@ -12,6 +12,10 @@ export function getCharUrl(charInfo, gameId){
   }
 }
 
+export function getInternalImageUrl(subpath) {
+  return process.env.PUBLIC_URL + "/" + subpath
+}
+
 export function charEmojiImagePath(name, gameId) {
   return process.env.PUBLIC_URL + `/charEmojis/${gameId}/${name}.png`
 }

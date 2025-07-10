@@ -511,8 +511,10 @@ function MainComponent(homeMode) {
   var afterData = null
 
   const sayNoMatch = wouldHaveData
+  const shouldShowNoData = displayData.length < 1
+  const shouldShowNoDataOver = shouldShowNoData && homeMode != HomeModes.FULLMAP
   if (homeMode != HomeModes.FULLMAP) {
-    if (displayData.length < 1) {
+    if (shouldShowNoData) {
       noData = NoData(showVodsMode, setShowVodsMode, false, sayNoMatch)
     } else {
       afterData = AfterData(showVodsMode, setShowVodsMode)
@@ -555,7 +557,7 @@ function MainComponent(homeMode) {
         afterData
       }
       <div className="bottomOffsetDiv"/>
-      { renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch)}
+      { shouldShowNoDataOver && renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch)}
       { 
         renderFooterButton(filterInfo, () => setShowFilterModal(true))
       }
@@ -768,6 +770,7 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, sele
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
       </div>
       {RewindAndLiveButtons({item, useLiveStream, updateIndexAndSetLive, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
+      {streamButton}
       <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => {

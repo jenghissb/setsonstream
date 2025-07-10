@@ -26,3 +26,44 @@
   line-height: 24px;
   color: #FFF;
 }
+
+.about-exp {
+  font-size: 14px;
+  line-height: 14px;
+  color: #FFF;
+  font-style: italic;
+  padding-left: 30px;
+  margin-bottom: 0px;
+}
+
+.exampleScreenShot {
+  max-width: calc(100vw - 40px);
+  max-height: 500px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  /* object-fit: contain; */
+  /* width:40; */
+  /* aspect-ratio: preserve; */
+}
+
+.good1 {
+  height:62px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  /* width:40; */
+  /* aspect-ratio: preserve; */
+}
+.bad1 {
+  height:62px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  /* width:40; */
+  /* aspect-ratio: preserve; */
+}
+.bad2 {
+  height:62px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  /* width:40; */
+  /* aspect-ratio: preserve; */
+}

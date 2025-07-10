@@ -2,10 +2,15 @@ import { useState, React } from 'react';
 
 import './RewindSetButton.css'
 import { supportsRewindSet } from './Utilities'
-import { Slider } from '@mui/material';
+// import { Slider } from '@mui/material';
 import debounce from 'lodash/debounce';
 
 import { getStreamTimeOffset } from './VideoEmbeds.js'
+import Slider, { SliderThumb, SliderValueLabelProps } from '@mui/material/Slider';
+import { styled } from '@mui/material/styles';
+import Typography from '@mui/material/Typography';
+import Tooltip from '@mui/material/Tooltip';
+import Box from '@mui/material/Box';
 
 function renderSvg() {
   return <svg width="40px" height="40px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke="#bbbbbb" fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
@@ -52,9 +57,18 @@ function convertSecondstoTimeStr(given_seconds) {
   var minutes = Math.floor((given_seconds - (hours * 3600)) / 60);
   var seconds = Math.floor(given_seconds - (hours * 3600) - (minutes * 60));
 
-  var timeString = hours.toString().padStart(2, '0') + ':' +
-    minutes.toString().padStart(2, '0') + ':' +
-    seconds.toString().padStart(2, '0');
+  var timeString = seconds.toString().padStart(2, '0');
+  if (hours < 1) {
+    timeString = minutes.toString() + ':' + timeString
+  } else {
+    timeString = minutes.toString().padStart(2, '0') + ':' + timeString
+  }
+  if (hours > 0) {
+    timeString = hours.toString() + ':' + timeString
+  }
+  // var timeString = hours.toString().padStart(2, '0') + ':' +
+  //   minutes.toString().padStart(2, '0') + ':' +
+  //   seconds.toString().padStart(2, '0');
   return `${signStr}${timeString}`
 }
 
@@ -130,7 +144,7 @@ function RewindControlRow({item, setUseLiveStream, showVodsMode, handleTimestamp
 
   const valueToUse = Math.floor(currentProgress)
   return <div className="rewindSetRow">
-    <Slider
+    <StyledSlider
       size="medium"
       defaultValue={0}
       min={-4*60}
@@ -147,3 +161,30 @@ function RewindControlRow({item, setUseLiveStream, showVodsMode, handleTimestamp
     }
   </div>
 }
+
+
+const StyledSlider = styled(Slider)({
+  color: '#52af77',
+  height: 8,
+  '& .MuiSlider-track': {
+    border: 'none',
+  },
+  '& .MuiSlider-rail': {
+    color: '#52af77',
+    opacity: 0.7,
+    height: 5,
+  },
+  '& .MuiSlider-thumb': {
+    height: 26,
+    width: 18,
+    borderRadius: 6,
+    backgroundColor: '#ddd',
+    border: '1.5px solid rgb(57, 121, 82)',
+    '&:focus, &:hover, &.Mui-active, &.Mui-focusVisible': {
+      boxShadow: 'inherit',
+    },
+    '&::before': {
+      display: 'none',
+    },
+  },
+});
