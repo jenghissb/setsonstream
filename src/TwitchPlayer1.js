@@ -4,8 +4,8 @@ const EMBED_URL = 'https://embed.twitch.tv/embed/v1.js';
 export class TwitchPlayer1 extends React.Component {
   componentDidMount() {
     const scriptId = "scripty"
-    // const embed = new window.Twitch.Player(this.props.targetId, { ...this.props });
-    const embed = new window.Twitch.Embed(this.props.targetId, { ...this.props }); 
+    const embed = new window.Twitch.Player(this.props.targetId, { ...this.props });
+    // const embed = new window.Twitch.Embed(this.props.targetId, { ...this.props }); 
     // console.log("qualities? = ",embed.getQualities())
     // this.onLoadTimeout = setTimeout(() => {
     //     console.log("qualities? = ",embed.getQualities())

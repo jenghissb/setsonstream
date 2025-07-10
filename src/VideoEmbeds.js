@@ -18,6 +18,8 @@ export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, 
       playerKey = `${item.bracketInfo.setKey}_${options.video}`
       options.time = streamUrlInfo.offsetHms
     } else {
+      // options.height = options.width
+      // height: .8*window.innerHeight
       options.channel = item.streamInfo.forTheatre
       playerKey = `${item.bracketInfo.setKey}_${options.channel}`
     }
