@@ -259,7 +259,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
         maxWidth={videoWidth}
         width={videoWidth}
       >
-        {isPopupOpen1 && renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight)}
+        {isPopupOpen1 && renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 1)}
       </Popup>
     </Marker>
   )
@@ -271,7 +271,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
         maxWidth={videoWidth}
         width={videoWidth}
       >
-        {isPopupOpen2 &&renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight)}
+        {isPopupOpen2 &&renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 2)}
       </Popup>
     </Marker>
   )
@@ -283,7 +283,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
         maxWidth={videoWidth}
         width={videoWidth}
       >
-        {isPopupOpen3 && renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight)}
+        {isPopupOpen3 && renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 3)}
       </Popup>
     </Marker>
   )
@@ -327,7 +327,7 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
         maxWidth={videoWidth}
         width={videoWidth}
       >
-        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight)}
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 1)}
       </Popup>
     </Marker>
   )
@@ -339,7 +339,7 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
         maxWidth={videoWidth}
         width={videoWidth}
       >
-        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight)}
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 2)}
       </Popup>
     </Marker>
   )
@@ -351,7 +351,7 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
         maxWidth={videoWidth}
         width={videoWidth}
       >
-        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight)}
+        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 3)}
       </Popup>
     </Marker>
   )
@@ -363,14 +363,14 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
 
 });
 
-function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight) {
+function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex) {
   var item = tourney[0]
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
   if (numSubStreams > 1) {
     streamButton = <button onClick={() => handleStreamIndexButtonClick(numSubStreams)}><span>switch stream</span></button>
   }
-  const targetId = `${item.bracketInfo.tourneyId}`
+  const targetId = `${item.bracketInfo.tourneyId}_${markerIndex}`
   // define these here handleReady, onProgress
   var preview = null
   if (useVideoInPopup == true) {
@@ -436,13 +436,13 @@ function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubI
   );
 }
 
-function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight) {
+function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex) {
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
   if (numSubStreams > 1) {
     streamButton = <button onClick={() => handleStreamIndexButtonClick(numSubStreams)}><span>switch stream</span></button>
   }
-  const targetId = item.bracketInfo.setKey
+  const targetId = `${item.bracketInfo.setKey}_${markerIndex}`
   var preview = null
   if (useVideoInPopup == true) {
     preview = MediaPreview({item, streamSubIndex, width: videoWidth, height: videoHeight, targetId})
