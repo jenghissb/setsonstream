@@ -29,7 +29,8 @@ export const VideoGameInfo = Object.freeze([
   {
     "id": "1386",
     "name": "Super Smash Bros. Ultimate",
-    "displayName": "Ultimate",
+    "displayName": "Smash Ultimate",
+    // "displayName": "Ultimate",
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/1386/image-d24f740623a31f9e1eec2aabc30f4ba2.jpg?ehk=Sn%2F72y2MSZz0neS6sqFNaHrl%2BK4pvHdLB7xd9CDX684%3D&ehkOptimized=Cv4voljXe9IIL1YmYNqg162zjL1hDYQvuyujRyflMX4%3D"

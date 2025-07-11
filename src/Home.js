@@ -3,7 +3,7 @@ import './Home.css';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp } from './Utilities.js'
-import { GameIds, getDefaultTimeRange } from './GameInfo.js'
+import { GameIds, getDefaultTimeRange, VideoGameInfoById } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
 import { SearchInputBar, SearchTerms } from "./SearchInputBar.js"
@@ -385,6 +385,14 @@ function MainComponent(homeMode) {
     setFilterInfo(newFilterInfo)
   }
 
+  const onSearch = (searchTerm) => {
+    addSearchTerm(searchTerm)
+  }
+
+  const onSearchRemove = (index, searchTerm) => {
+    removeSearchTerm(searchTerm)
+  }
+
 
   const handleTimestampChange = useCallback((newSeconds) => {
     if (currentPlayerRef.current?.player?.player?.seekTo ?? null != null) {
@@ -455,9 +463,8 @@ function MainComponent(homeMode) {
   }, []);
   // }, [filterInfo.currentGameId]);
 
-  if (loading) return <p>Loading...</p>;
-  if (error) return <p>Error: {error.message}</p>;
-  
+  var gameName = VideoGameInfoById[filterInfo.currentGameId].displayName
+  var loadingText = `Loading ${gameName} sets ...`
   var targetWidth = 854
   var targetHeight = 480
   var width = Math.min(window.innerWidth, targetWidth)
@@ -466,9 +473,50 @@ function MainComponent(homeMode) {
     height = 0.8*window.innerHeight
     width = Math.floor(height*16.0/9)
   }
-  
   var mainVideoDim = { width, height }
 
+
+  if (loading) {
+    if (useVideoIn.panel == true) {
+      const vidWidth = `${width}px`
+      const vidHeight = `${height}px`
+      preview = <div className="topContainer">{MediaPreview({item: null, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady: null, onProgress: null})}</div>
+
+      return (
+        <div className="overallDiv" overallStyle>
+          {
+            renderLinkRow([], filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
+          }
+          <div className="stickyContainer" style={{top: stickyPos}}>
+          <div className="flexMapVid">
+            {
+              Leafy([], {}, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged)
+            }
+            {
+              preview
+            }
+          </div>
+          </div>
+          {
+            renderLinkRow([], filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
+          }
+          <p>{loadingText}</p>
+          { 
+            renderFooterButton(filterInfo, () => setShowFilterModal(true))
+          }
+          {
+            renderFooter(filterInfo, gameInfo => updateCurrentGame(gameInfo.id), () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+          }
+        </div>          
+      )
+    }
+  }
+ 
+
+
+  if (loading) return <p>{loadingText}</p>;
+  if (error) return <p>Error: {error.message}</p>;
+  
   var displayData = getDisplayData(data, filterInfo, showVodsMode)
   if (displayData == null) {
     displayData = []
@@ -487,14 +535,6 @@ function MainComponent(homeMode) {
       currentPlayerRef.current = player
       setCurrentPlayer(player)
     }
-  }
-
-  const onSearch = (searchTerm) => {
-    addSearchTerm(searchTerm)
-  }
-
-  const onSearchRemove = (index, searchTerm) => {
-    removeSearchTerm(searchTerm)
   }
 
   if (useVideoIn.panel == true) {
@@ -600,7 +640,7 @@ function renderFooter(filterInfo, onGameClick, onClose, showFilterModal, toggleC
 function Home({homeMode=HomeModes.MAIN}) {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="App-header">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
             integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -613,7 +653,7 @@ function Home({homeMode=HomeModes.MAIN}) {
         {
           MainComponent(homeMode)
         }
-      </header>
+      </div>
     </div>
   );
 }
