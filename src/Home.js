@@ -23,7 +23,7 @@ export const HomeModes = Object.freeze({
 var EmptyFilterInfo = {
   currentGameId: GameIds.SMASH_ULTIMATE,
   filters: {
-    "1386": {
+    [GameIds.SMASH_ULTIMATE]: {
       characters: [], // string[]
     }
   }
@@ -37,7 +37,7 @@ function getInitialFilter() {
       currentGameId: GameIds.SMASH_ULTIMATE,
       filters: {
         [GameIds.SMASH_ULTIMATE]: {
-          characters: ["ken"], // string[]
+          characters: [], // string[] e.g. "ken"
         },
       }
     }
@@ -225,7 +225,17 @@ function decompressDataFromFetch(compressedDataBase64) {
     return decompressedText
 }
 
+function getInitialShowVodsMode(currentGameId, data) {
+  if (data == null) {
+    return false
+  } else {
+    return (data[currentGameId]?.live?.length ?? 0) == 0
+  }
+}
+
 function MainComponent(homeMode) {
+  // localStorage.removeItem("filterInfo"))
+  // return
   // const [showVodsMode, setShowVodsMode] = useState(false);
   const [filterInfo, setFilterInfo] = useState(getInitialFilter());
   const [data, setData] = useState(null);
@@ -241,8 +251,9 @@ function MainComponent(homeMode) {
   // const [currentTimest, setCurrentItemKey] = useState(null);
   const [controlsOn, setControlsOn] = useState(false); 
 
-  const showVodsMode = filterInfo.showVodsMode || false
   const currentGameId = filterInfo.currentGameId
+  // const showVodsMode = filterInfo.showVodsMode || false
+  const showVodsMode = filterInfo.showVodsMode ?? getInitialShowVodsMode(currentGameId, data)
 
   const currentItemKeyRef = useRef(currentItemKey);
   const currentPlayerRef = useRef(currentPlayer);
@@ -274,10 +285,14 @@ function MainComponent(homeMode) {
 
   const updateCurrentGame = (newGameId) => {
     var gameChanged = (newGameId != filterInfo.currentGameId)
+    var newFilter = filterInfo.filters[newGameId] ?? {}
     var newFilterInfo = {
       ...filterInfo,
+      filters: {...filterInfo.filters},
       currentGameId: newGameId,
     };
+    newFilterInfo.filters[newGameId] = newFilter
+
     localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
     setFilterInfo(newFilterInfo)
     if (gameChanged) {

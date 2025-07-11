@@ -1,6 +1,7 @@
 
 export const GameIds = {
   SMASH_ULTIMATE: "1386",
+  MELEE: "1",
 }
 
 export const Characters = Object.freeze({
