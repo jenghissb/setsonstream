@@ -135,7 +135,8 @@ function getDisplayData(data, filterInfo, showVodsMode) {
     if (timeRange != null) {
       const timeStart = Date.now()/1000 + timeRange[0]*24*60*60
       const timeEnd = Date.now()/1000 + timeRange[1]*24*60*60
-      dataToStart = dataToStart.filter(item => (item.bracketInfo.startedAt > timeStart
+      const isTimePlus =  timeRange < -7.5
+      dataToStart = dataToStart.filter(item => ((isTimePlus || item.bracketInfo.startedAt > timeStart)
          && item.bracketInfo.startedAt < timeEnd + 3500*1.5))
     }
   }

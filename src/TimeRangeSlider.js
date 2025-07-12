@@ -10,6 +10,9 @@ import { debounce } from 'lodash';
  
 
 function convertSecondstoTimeStr(value) {
+  if (value < -7.5) {
+    return `8+ days ago`
+  }
   return `${Math.trunc(Math.abs(value))} days ago`
 }
 export const TimeRangeSlider = ({width, height, onChange, gameId, initialTimeRange}) => {
@@ -83,7 +86,7 @@ export const TimeRangeSlider = ({width, height, onChange, gameId, initialTimeRan
       slots={{ thumb: AirbnbThumbComponent }}
       size="medium"
       defaultValue={defaultValues}
-      min={-12}
+      min={-8}
       max={0}
       step={0.1}
       onChange={handleChange}
@@ -143,6 +146,7 @@ const AirbnbSlider = styled(Slider)(({ theme }) => ({
     color: '#d8d8d8',
     opacity: 1,
     height: 3,
+    border: '1px solid #6a6a6a',
     ...theme.applyStyles('dark', {
       color: '#bfbfbf',
       opacity: undefined,
