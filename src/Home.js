@@ -479,7 +479,7 @@ function MainComponent(homeMode) {
   }, []);
   // }, [filterInfo.currentGameId]);
 
-  var gameName = VideoGameInfoById[filterInfo.currentGameId].displayName
+  var gameName = VideoGameInfoById[filterInfo.currentGameId].displayName  console.log(`is rendering ${gameName}`)
   var loadingText = `Loading ${gameName} sets ...`
   var targetWidth = 854
   var targetHeight = 480
@@ -492,11 +492,22 @@ function MainComponent(homeMode) {
   var mainVideoDim = { width, height }
 
 
+  const topRef = useRef(null);
+  const scrollUpRef = useRef(null);
+  const headerHeight = 26
+  const onChangeGame = (gameInfo) => {
+    updateCurrentGame(gameInfo.id)
+    const newScrollY = -stickyPos+headerHeight
+    if (window.scrollY > newScrollY) {
+      window.scrollTo({top: -stickyPos+headerHeight})
+    }
+  }
+
   if (loading) {
     if (useVideoIn.panel == true) {
       const vidWidth = `${width}px`
       const vidHeight = `${height}px`
-      preview = <div className="topContainer">{MediaPreview({item: null, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady: null, onProgress: null})}</div>
+      preview = <div ref={topRef}className="topContainer">{MediaPreview({item: null, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady: null, onProgress: null})}</div>
 
       return (
         <div className="overallDiv" overallStyle>
@@ -521,14 +532,12 @@ function MainComponent(homeMode) {
             renderFooterButton(filterInfo, () => setShowFilterModal(true))
           }
           {
-            renderFooter(filterInfo, gameInfo => updateCurrentGame(gameInfo.id), () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+            renderFooter(filterInfo, onChangeGame, () => setShowFilterModal(false), showFilterModal, toggleCharacter)
           }
         </div>          
       )
     }
   }
- 
-
 
   if (loading) return <p>{loadingText}</p>;
   if (error) return <p>Error: {error.message}</p>;
@@ -584,6 +593,7 @@ function MainComponent(homeMode) {
   if (homeMode == HomeModes.FULLMAP) {
     overallStyle = {height: "100dvh"}
   }
+
   return (
     <div className="overallDiv" overallStyle>
       {
@@ -606,7 +616,7 @@ function MainComponent(homeMode) {
         noData
       }
       {
-        renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady)
+        renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
       }
       {
         afterData
@@ -617,7 +627,7 @@ function MainComponent(homeMode) {
         renderFooterButton(filterInfo, () => setShowFilterModal(true))
       }
       {
-        renderFooter(filterInfo, gameInfo => updateCurrentGame(gameInfo.id), () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+        renderFooter(filterInfo, onChangeGame, () => setShowFilterModal(false), showFilterModal, toggleCharacter)
       }
     </div>
   );
@@ -735,7 +745,7 @@ function renderLink(jsonData, shouldShow) {
   return <a target="_blank" href={str} className="bigLinkHolder"><span className="bigLinkLabel" style={{marginRight: '2px'} }>TwitchTheater<br/><span style={{fontSize:"smaller"}}>{`🔗(${numVids})`}</span></span></a>
 }
 
-function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady) {
+function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef) {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
@@ -747,7 +757,7 @@ function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamS
     stylename2 = "set-row-3"
   }
 
-  return <div className={stylename1}>{
+  return <div className={stylename1} ref={scrollUpRef}>{  
     jsonData.map((item, index) => {
       const itemStreamSubIndex = (itemKey == item.bracketInfo.setKey) ? streamSubIndex : 0
       return <div className={stylename2} index={index}>
@@ -758,7 +768,7 @@ function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamS
   </div>
 }
 
-const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
+const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}, checkPropsAreEqual) => {
   var preview = null
   if (useVideoInList) {
     var scale = 0.97

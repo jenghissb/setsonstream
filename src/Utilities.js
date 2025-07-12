@@ -176,3 +176,18 @@ export function formatDisplayTimestamp(unixTimestamp) {
     });
   }
 }
+
+function checkPropsAreEqual(prevProps, nextProps) {
+  console.log("checkPropsAreEqual")
+  Object.keys(nextProps).forEach((key) => {
+    if (prevProps[key] == nextProps[key]) {
+
+    } else {
+      console.log(key, ", false: ", prevProps[key], nextProps[key])
+    }
+  })
+  Object.keys(nextProps).forEach((key) => {
+    if (prevProps[key] != nextProps[key]) return false
+  })
+  return true
+}
