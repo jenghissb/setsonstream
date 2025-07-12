@@ -479,7 +479,7 @@ function MainComponent(homeMode) {
   }, []);
   // }, [filterInfo.currentGameId]);
 
-  var gameName = VideoGameInfoById[filterInfo.currentGameId].displayName  console.log(`is rendering ${gameName}`)
+  var gameName = VideoGameInfoById[filterInfo.currentGameId].displayName
   var loadingText = `Loading ${gameName} sets ...`
   var targetWidth = 854
   var targetHeight = 480
