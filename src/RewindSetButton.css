@@ -45,6 +45,8 @@
   font-style: italic;
   word-break: break-all;
   text-decoration: none;
+  margin-top: -38px;
+
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
   paint-order: stroke fill;

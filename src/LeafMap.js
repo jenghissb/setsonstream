@@ -12,7 +12,7 @@ import { spreadPoints } from './SpaceLatLon'
 import { TimeRangeSlider } from './TimeRangeSlider'
 import { getDefaultTimeRange } from './GameInfo'
 import { FilterType, renderFilterTypeButton } from './FilterTypeButton'
-
+import { RewindAndLiveButtons } from './RewindSetButton'
 function renderMinMaxSvg(useFullView) {
   if (useFullView) {
     return <Link className="leafMinMaxSvg" to="/" style={{bottom: "128px", right: "34px"}}>{renderMinimizeSvg()}</Link>
@@ -85,7 +85,7 @@ function getSpreadMetersPerZoom(zoomLevel) {
   return spreadMeters
 }
 
-export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, topOffset, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex, vidWidth, vidHeight, onTimeRangeChanged}) => {  
+export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, topOffset, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex, vidWidth, vidHeight, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) => {
   var initialZoomLevel = 2
   if (width < 700) {
     initialZoomLevel = 0
@@ -93,6 +93,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
   if (useFullView) {
     initialZoomLevel += 1
   }
+  
   const tourneyIds = Object.keys(tourneyById)
   const tourneys = tourneyIds.map(id => tourneyById[id])
   const showTourneysMode = showVodsMode
@@ -193,8 +194,8 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
       }
       {
         markerData.map( (item, index) => {
-          
-          return <MarkersForItem key={`marlers${index}`} {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
+          var markerKey = showTourneysMode ? "t"+item[0].bracketInfo.setKey : item.bracketInfo.setKey
+          return <MarkersForItem key={`markers${markerKey}`} {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
         }) 
       }
     </MapContainer> 
@@ -202,19 +203,105 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
   );
 })
 
-const MarkersForItem = memo(({showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}) =>{
+const MarkersForItem = memo(({showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
   // return <MarkersForSet {...{showTourneysMode, item: item[0], index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
 
   if (showTourneysMode) {
-    return <MarkersForTourney {...{showTourneysMode, tourney: item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
+    return <MarkersForTourney {...{showTourneysMode, tourney: item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
   } else {
-    return <MarkersForSet {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
+    return <MarkersForSet {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
   }
 });
 
 
-const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}) =>{
+const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
+
   var item = tourney[0]
+  var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
+  var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
+  var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
+  var setKey = item.bracketInfo.setKey
+  const [isPopupOpen1, setIsPopupOpen1] = useState(false);
+  const [isPopupOpen2, setIsPopupOpen2] = useState(false);
+  const [isPopupOpen3, setIsPopupOpen3] = useState(false);
+
+  const handleOpenPopup1 = () => setIsPopupOpen1(true);
+  const handleOpenPopup2 = () => setIsPopupOpen2(true);
+  const handleOpenPopup3 = () => setIsPopupOpen3(true);
+
+  const handleClosePopup1 = () => setIsPopupOpen1(false);
+  const handleClosePopup2 = () => setIsPopupOpen2(false);
+  const handleClosePopup3 = () => setIsPopupOpen3(false);
+
+
+  var icon = new L.Icon({
+    iconUrl: iconUrl,
+    iconSize: [32, 32],
+    iconAnchor: [30, 32],
+    popupAnchor: [0, -32],
+  })
+  var icon2 = new L.Icon({
+    iconUrl: iconUrl2,
+    iconSize: [32, 32],
+    iconAnchor: [2, 32],
+    popupAnchor: [0, -32],
+  })
+
+  var icon3 = new L.DivIcon({
+    iconSize: [3, 3],
+    html: renderMarkerText(item, zoomLevel, filterType)
+  })
+
+  var lat = latLons[index].lat;
+  var lon = latLons[index].lon;
+  
+  var maxWidth = useVideoInPopup ? videoWidth : (0.7*videoWidth)
+
+  var marker1 = (
+    <Marker key={setKey+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup1, popupclose: handleClosePopup1}} icon={
+      icon
+    }>
+      <Popup className="leafpopup"
+        maxWidth={maxWidth}
+        width={maxWidth}
+      >
+        {isPopupOpen1 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 1, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
+      </Popup>
+    </Marker>
+  )
+  var marker2 = (
+    <Marker key={setKey+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup2, popupclose: handleClosePopup2}} icon={
+      icon2
+    }>
+      <Popup className="leafpopup"
+        maxWidth={maxWidth}
+        width={maxWidth}
+      >
+        {isPopupOpen2 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 2, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
+      </Popup>
+    </Marker>
+  )
+  var marker3 = (
+    <Marker key={setKey} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup3, popupclose: handleClosePopup3}} icon={
+      icon3
+    }> 
+      <Popup className="leafpopup"
+        maxWidth={maxWidth}
+        width={maxWidth}
+      >
+        {isPopupOpen3 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 3, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
+      </Popup>
+    </Marker>
+  )
+  return <div>
+    {marker3}
+    {marker1}
+    {marker2}
+  </div>
+
+});
+
+const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
   var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
   var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
   var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
@@ -252,39 +339,42 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
 
   var lat = latLons[index].lat;
   var lon = latLons[index].lon;
+  var setKey = item.bracketInfo.setKey
+  var maxWidth = useVideoInPopup ? videoWidth : (0.7*videoWidth)
+
   var marker1 = (
-    <Marker key={index+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup1, popupclose: handleClosePopup1}} icon={
+    <Marker key={setKey+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup1, popupclose: handleClosePopup1}} icon={
       icon
     }>
       <Popup className="leafpopup"
-        maxWidth={videoWidth}
-        width={videoWidth}
+        maxWidth={maxWidth}
+        width={maxWidth}
       >
-        {isPopupOpen1 && renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 1)}
+        {isPopupOpen1 && <PopupForSet key={setKey+"PopupForSet1"} {...{item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 1, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
     </Marker>
   )
   var marker2 = (
-    <Marker key={index+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup2, popupclose: handleClosePopup2}} icon={
+    <Marker key={setKey+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup2, popupclose: handleClosePopup2}} icon={
       icon2
     }>
       <Popup className="leafpopup"
-        maxWidth={videoWidth}
-        width={videoWidth}
+        maxWidth={maxWidth}
+        width={maxWidth}
       >
-        {isPopupOpen2 &&renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 2)}
+        {isPopupOpen2 && <PopupForSet key={setKey+"PopupForSet2"} {...{item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 2, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
     </Marker>
   )
   var marker3 = (
-    <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup3, popupclose: handleClosePopup3}} icon={
+    <Marker key={setKey} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup3, popupclose: handleClosePopup3}} icon={
       icon3
-    }> 
+    }>
       <Popup className="leafpopup"
-        maxWidth={videoWidth}
-        width={videoWidth}
+        maxWidth={maxWidth}
+        width={maxWidth}
       >
-        {isPopupOpen3 && renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 3)}
+        {isPopupOpen3 && <PopupForSet key={setKey+"PopupForSet3"} {...{item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 3, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
     </Marker>
   )
@@ -296,75 +386,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
 
 });
 
-const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}) =>{
-  var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
-  var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
-  var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
-  var icon = new L.Icon({
-    iconUrl: iconUrl,
-    iconSize: [32, 32],
-    iconAnchor: [30, 32],
-    popupAnchor: [0, -32],
-  })
-  var icon2 = new L.Icon({
-    iconUrl: iconUrl2,
-    iconSize: [32, 32],
-    iconAnchor: [2, 32],
-    popupAnchor: [0, -32],
-  })
-
-  var icon3 = new L.DivIcon({
-    iconSize: [3, 3],
-    html: renderMarkerText(item, zoomLevel, filterType)
-  })
-
-  var lat = latLons[index].lat;
-  var lon = latLons[index].lon;
-  var marker1 = (
-    <Marker key={index+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
-      icon
-    }>
-      <Popup className="leafpopup"
-        maxWidth={videoWidth}
-        width={videoWidth}
-      >
-        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 1)}
-      </Popup>
-    </Marker>
-  )
-  var marker2 = (
-    <Marker key={index+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
-      icon2
-    }>
-      <Popup className="leafpopup"
-        maxWidth={videoWidth}
-        width={videoWidth}
-      >
-        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 2)}
-      </Popup>
-    </Marker>
-  )
-  var marker3 = (
-    <Marker key={index} position={[lat, lon]} eventHandlers={{click: onMarkerClick}} icon={
-      icon3
-    }>
-      <Popup className="leafpopup"
-        maxWidth={videoWidth}
-        width={videoWidth}
-      >
-        {renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, 3)}
-      </Popup>
-    </Marker>
-  )
-  return <div>
-    {marker3}
-    {marker1}
-    {marker2}
-  </div>
-
-});
-
-function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex) {
+function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) {
   var item = tourney[0]
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
@@ -373,11 +395,11 @@ function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubI
   }
   const targetId = `${item.bracketInfo.tourneyId}_${markerIndex}`
   // define these here handleReady, onProgress
+  item = tourney.find(it => it.bracketInfo.setKey == itemKey) ?? item
   var preview = null
   if (useVideoInPopup == true) {
-    item = tourney.find(it => it.bracketInfo.setKey == itemKey) ?? item
     //MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, handleReady, onProgress})}</div>
-    preview = MediaPreview({item, streamSubIndex, useLiveStream: useLiveStream && !showVodsMode, showVodsMode, width: videoWidth, height: videoHeight, targetId})
+    preview = MediaPreview({item, streamSubIndex, useLiveStream: useLiveStream && !showVodsMode, showVodsMode, width: videoWidth, height: videoHeight, targetId, handleReady})
   }
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
@@ -391,6 +413,7 @@ function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubI
   // var lumitierIconStr = getLumitierIconStr(lumitier)
   //getLumitierIcon(lumitier)
   var viewersText = getViewersTextFromItem(item)
+
   return (
     <div className="leafset-row-1" style={{maxWidth: videoWidth}}> 
       <div className="leafVertConstraint" style={{}}>
@@ -408,8 +431,9 @@ function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubI
           </div>
         </div>
         {tourney.map(item =>  {
+          var selected = item.bracketInfo.setKey == itemKey
           var setRowStyle = "leafset-set-row"
-          if (item.bracketInfo.setKey == itemKey) {
+          if (selected) {
             setRowStyle = "leafset-set-row-selected"
           }
           return <div className={setRowStyle} style={{
@@ -419,6 +443,7 @@ function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubI
             marginTop: "2px"
           }} onClick={() => handleIndexChange(item.bracketInfo.setKey)}> 
             <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
+            {selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
             <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
             {item.streamInfo.streamUrls.map((sInfo, index) => {
               const streamUrl = getStreamUrl(item.streamInfo, index)
@@ -437,7 +462,7 @@ function renderPopupForTourney(tourney, handleStreamIndexButtonClick, streamSubI
   );
 }
 
-function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex) {
+const PopupForSet = ({item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) => {
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
   if (numSubStreams > 1) {
@@ -446,7 +471,7 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey
   const targetId = `${item.bracketInfo.setKey}_${markerIndex}`
   var preview = null
   if (useVideoInPopup == true) {
-    preview = MediaPreview({item, streamSubIndex, width: videoWidth, height: videoHeight, targetId})
+    preview = MediaPreview({item, streamSubIndex, width: videoWidth, height: videoHeight, targetId, handleReady})
   }
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
@@ -463,6 +488,8 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey
   // var lumitierIconStr = getLumitierIconStr(lumitier)
   //getLumitierIcon(lumitier)
   var viewersText = getViewersTextFromItem(item)
+  const selected = item.bracketInfo.setKey == itemKey
+  const shouldShowRewindBar = selected// && useVideoInPopup == true
   return (
     <div className="leafset-row-1"> 
       <div className={infoSectionStyle} style={
@@ -475,10 +502,11 @@ function renderPopup(item, handleStreamIndexButtonClick, streamSubIndex, itemKey
         <span className="leaftourneyName">{getLumitierIcon(lumitier, {marginRight: '6px'})}{item.bracketInfo.tourneyName}</span><br/>
         <span className="leafEntrants" style={{ marginRight: '3px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{" "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
+        {selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: shouldShowRewindBar, handleTimestampChange, rewindReady})}
         <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sInfo, index) => {
           const streamUrl = getStreamUrl(item.streamInfo, index)
-          return <div><a href={streamUrl} target="_blank" className="leafbracketLink">{streamUrl}</a><br/></div>
+          return <div key={index}><a href={streamUrl} target="_blank" className="leafbracketLink">{streamUrl}</a><br/></div>
         })}
         <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "leaf_play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "leaf_play2_")}<br/>
       </div>

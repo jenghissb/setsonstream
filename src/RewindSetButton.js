@@ -27,9 +27,14 @@ function renderSvg(width="40px", height="40px", color="#bbbbbb") {
 }
 
 export function renderRewindSetButton(setUseLiveStream) {
-  return <div onClick={() => setUseLiveStream(false)} className="rewindSetButton">
+  // NOTE: setTimeout is needed so the map popup doesn't close itself.
+  return <div onClick={() => setTimeout(() => setUseLiveStream(false), 50)} className="rewindSetButton">
     {renderSvg()}
   </div>
+
+  // return <div onClick={() => setUseLiveStream(false)} className="rewindSetButton">
+  //   {renderSvg()}
+  // </div>
 }
 
 export function renderRewindShortButton(rewindSet) {
@@ -40,7 +45,7 @@ export function renderRewindShortButton(rewindSet) {
   </div>
 }
 
-export function RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, handleTimestampChange, rewindReady}) {
+export const RewindAndLiveButtons = ({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, handleTimestampChange, rewindReady}) => {
   useLiveStream = useLiveStream && !showVodsMode
   if (!supportsRewindSet(item)) {
     return
@@ -87,12 +92,12 @@ export function renderSetLiveButton(setUseLiveStream) {
 }
 
 function renderLiveSvg() {
-  return <svg width="40px" height="40px" viewBox="0 0 76 76" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" enable-background="new 0 0 76.00 76.00" space="preserve">
-    <path fill="#bbbbbb" fill-opacity="1" strokeWidth="0.3" stroke-linejoin="round" d="M 30.0833,20.5833L 50.6665,36.021L 50.6665,37.2084L 30.0833,52.25L 30.0833,20.5833 Z M 26.9166,57L 28.5,57L 28.5,63.3333L 31.6666,63.3333L 31.6666,64.9167L 28.5,64.9167L 26.9166,64.9167L 26.9166,57 Z M 33.25,64.9167L 33.25,57L 34.8333,57L 34.8333,64.9167L 33.25,64.9167 Z M 36.8124,57L 38.7916,57L 40.375,62.2779L 41.9583,57L 43.9375,57L 41.1666,64.9167L 39.5833,64.9167L 36.8124,57 Z M 45.9166,57L 47.5,57L 50.6666,57L 50.6666,58.5833L 47.5,58.5833L 47.5,60.1667L 50.6667,60.1667L 50.6667,61.75L 47.5,61.75L 47.5,63.3333L 50.6667,63.3333L 50.6667,64.9167L 47.5,64.9167L 45.9166,64.9167L 45.9166,57 Z "/>
+  return <svg width="40px" height="40px" viewBox="0 0 76 76" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" enableBackground="new 0 0 76.00 76.00" space="preserve">
+    <path fill="#bbbbbb" fillOpacity="1" strokeWidth="0.3" strokeLinejoin="round" d="M 30.0833,20.5833L 50.6665,36.021L 50.6665,37.2084L 30.0833,52.25L 30.0833,20.5833 Z M 26.9166,57L 28.5,57L 28.5,63.3333L 31.6666,63.3333L 31.6666,64.9167L 28.5,64.9167L 26.9166,64.9167L 26.9166,57 Z M 33.25,64.9167L 33.25,57L 34.8333,57L 34.8333,64.9167L 33.25,64.9167 Z M 36.8124,57L 38.7916,57L 40.375,62.2779L 41.9583,57L 43.9375,57L 41.1666,64.9167L 39.5833,64.9167L 36.8124,57 Z M 45.9166,57L 47.5,57L 50.6666,57L 50.6666,58.5833L 47.5,58.5833L 47.5,60.1667L 50.6667,60.1667L 50.6667,61.75L 47.5,61.75L 47.5,63.3333L 50.6667,63.3333L 50.6667,64.9167L 47.5,64.9167L 45.9166,64.9167L 45.9166,57 Z "/>
   </svg>
 }
 
-function RewindControlRow({item, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) {
+const RewindControlRow = ({item, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
   var liveButton = null
   if (!showVodsMode) {
     liveButton = renderSetLiveButton(setUseLiveStream)
@@ -107,7 +112,10 @@ function RewindControlRow({item, setUseLiveStream, showVodsMode, handleTimestamp
   
   const [currentProgress, setCurrentProgress] = useState(null);
   const [mouseDownTimeoutInfo, setMouseDownTimeoutInfo] = useState(null);
-
+  // const currentProgress = null
+  // const mouseDownTimeoutInfo = null
+  // const setCurrentProgress = () => {}
+  // const setMouseDownTimeoutInfo = () => {}
   rewindReady(progress => {
     if(mouseDownTimeoutInfo == null) {
       setCurrentProgress(progress)

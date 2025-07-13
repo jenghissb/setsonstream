@@ -327,6 +327,7 @@ function MainComponent(homeMode) {
   const currentPlayerRef = useRef(currentPlayer);
   // const rewindRefRef = useRef(rewindRef);
   const rewindRefRef = useRef(null);
+  const rewindRefRefMap = useRef(null);
 
   var useVideoIn = {
     popup: false,
@@ -481,7 +482,6 @@ function MainComponent(homeMode) {
     if (currentPlayerRef.current?.player?.player?.seekTo ?? null != null) {
       // youtube
       const p=currentPlayerRef.current?.player?.player
-      console.log("Player!", p)
       if (newSeconds == null && rewindAmount != null) {
         const currentTime = p?.getCurrentTime() ?? 0
         p?.seekTo(currentTime - rewindAmount)
@@ -505,9 +505,17 @@ function MainComponent(homeMode) {
     // setRewindRef(newRewindRef)
   },[])
 
+  const rewindReadyMap = useCallback((newRewindRef) => {
+    rewindRefRefMap.current = newRewindRef
+    // setRewindRef(newRewindRef)
+  },[])
+
   const onProgress = (progress) => {
     if (rewindRefRef.current != null) {
       rewindRefRef.current(progress)
+    }
+    if (rewindRefRefMap.current != null) {
+      rewindRefRefMap.current(progress)
     }
   }
 
@@ -599,7 +607,7 @@ function MainComponent(homeMode) {
           <div className="stickyContainer" style={{top: stickyPos}}>
           <div className="flexMapVid">
             {
-              Leafy([], {}, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged)
+              Leafy([], {}, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, null)
             }
             {
               preview
@@ -684,7 +692,7 @@ function MainComponent(homeMode) {
       <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
         {
-          Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged)
+          Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
         }
         {
           preview
@@ -928,7 +936,7 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, stre
         <span className="tourneyText" style={{ marginRight: '5px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span><span className="tourneyText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
         <span className="tourneyText">{item.bracketInfo.fullRoundText}</span><br/>
       </div>
-      {RewindAndLiveButtons({item, useLiveStream, updateIndexAndSetLive, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
+      {RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
       {streamButton}
       <div className="set-row-2">
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
@@ -997,7 +1005,7 @@ function BracketEmbed({width = 854, height = 480}) {
 
 }
 
-function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged) {
+function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady) {
   
   if (homeMode === HomeModes.ALLINLIST) {
     return
@@ -1010,7 +1018,7 @@ function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsM
   }
   const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
   if (data != null)
-    return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged }}/>
+    return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady }}/>
 }
 
 function NoData(showVodsMode, setShowVodsMode, overMap, sayNoMatch) {
