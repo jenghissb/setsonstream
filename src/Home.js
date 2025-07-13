@@ -2,6 +2,7 @@ import './Home.css';
   import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
 import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
+import { MediaChat } from "./MediaChat.js"
 import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp } from './Utilities.js'
 import { GameIds, getDefaultTimeRange, VideoGameInfoById } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
@@ -573,6 +574,7 @@ function MainComponent(homeMode) {
   var loadingText = `Loading ${gameName} sets ...`
   var targetWidth = 854
   var targetHeight = 480
+  const chatWidth = Math.min(window.innerWidth, 400)
   var width = Math.min(window.innerWidth, targetWidth)
   var height = Math.floor(width*9/16.0)
   if (height > 0.8 * window.innerHeight) {
@@ -652,6 +654,21 @@ function MainComponent(homeMode) {
     }
   }
 
+  var mapWidth = width;
+  const mapHeight = height;
+
+  var showMapBeside = 2*width <= window.innerWidth
+  if (showMapBeside) {
+    const widthRemainForChat = window.innerWidth - 2*width
+    if (widthRemainForChat < (chatWidth+5))
+      mapWidth -= (chatWidth+5 - widthRemainForChat)
+  }
+  var stickyPos = 0
+  if (!showMapBeside) {
+    stickyPos -= height
+  }
+
+  var chat = null
   if (useVideoIn.panel == true) {
     var previewItem = null
     if (displayData.length > 0) {
@@ -660,6 +677,9 @@ function MainComponent(homeMode) {
     const vidWidth = `${width}px`
     const vidHeight = `${height}px`
     preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
+    if(showMapBeside) {
+      chat = MediaChat({width: "400px", height: vidHeight, item: previewItem, streamSubIndex, useLiveStream})
+    }
   }
   var noData = null
   var afterData = null
@@ -674,11 +694,8 @@ function MainComponent(homeMode) {
       afterData = AfterData(showVodsMode, setShowVodsMode)
     }
   }
-  var showMapBeside = 2*width <= window.innerWidth
-  var stickyPos = 0
-  if (!showMapBeside) {
-    stickyPos -= height
-  }
+
+  // var showChatBeside = chatWidth+2*width <= window.innerWidth
   // var overallStyle = {}
   // if (homeMode == HomeModes.FULLMAP) {
   //   overallStyle = {height: "100dvh"}
@@ -692,11 +709,12 @@ function MainComponent(homeMode) {
       <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
         {
-          Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+          Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
         }
         {
           preview
         }
+        {chat}
       </div>
       </div>
       {
