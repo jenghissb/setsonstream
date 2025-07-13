@@ -859,7 +859,7 @@ function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamS
   </div>
 }
 
-const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}, checkPropsAreEqual) => {
+const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
   var preview = null
   if (useVideoInList) {
     var scale = 0.97
@@ -942,7 +942,7 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, stre
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => {
           const streamUrl = getStreamUrl(item.streamInfo, index)
-          const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false)
+          const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false || showVodsMode)
           return <div key={index}><a href={streamLink} target="_blank" className="bracketLink">{streamUrl}</a><br/></div>
         })}
       </div>
