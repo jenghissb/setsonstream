@@ -1,0 +1,22 @@
+
+.expandChatHolder {
+  position: absolute;
+  height:28px;
+  width: fit-content;
+  right: 0px;
+  top: 0px;
+  background-color: rgb(34, 34, 34);
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.expandChatText {
+  font-size: small;
+  color: #eee;
+  border: 1px solid black
+}
+
+.embedContainer {
+  overflow: hidden;
+  position: relative;
+}

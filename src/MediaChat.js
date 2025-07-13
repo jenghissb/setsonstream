@@ -1,4 +1,5 @@
-export const MediaChat = ({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true, trimHeight=false}) => {
+import "./MediaChat.css"
+export const MediaChat = ({item, streamSubIndex=0, width = 426, height = 24, useLiveStream=true, trimHeight=false, updateChatPref, chatPref}) => {
   if (!useLiveStream) {
     return;
   }
@@ -10,9 +11,9 @@ export const MediaChat = ({item, streamSubIndex=0, width = 426, height = 24, use
     streamUrlInfo = item.streamInfo.streamUrls[streamSubIndex]
   }
   if (item.streamInfo.streamSource === "TWITCH") {
-    return TwitchEmbed({width, height, channel: item.streamInfo.forTheatre, setKey:item.bracketInfo.setKey, streamSubIndex, trimHeight})    
+    return TwitchEmbed({width, height, channel: item.streamInfo.forTheatre, setKey:item.bracketInfo.setKey, streamSubIndex, trimHeight, updateChatPref, chatPref})    
   } else if (item.streamInfo.streamSource === "YOUTUBE" && null != streamUrlInfo.videoId) {
-    return YoutubeEmbed({width, height, videoId:streamUrlInfo.videoId, setKey:item.bracketInfo.setKey, streamSubIndex, trimHeight})
+    return YoutubeEmbed({width, height, videoId:streamUrlInfo.videoId, setKey:item.bracketInfo.setKey, streamSubIndex, trimHeight, updateChatPref, chatPref})
     // return YoutubeEmbedPrev({url: getEmbedUrl(item.streamInfo.streamUrls[streamSubIndex].videoId), width, height})
   } else {
     return BlankEmbed({width, height})
@@ -22,14 +23,20 @@ export const MediaChat = ({item, streamSubIndex=0, width = 426, height = 24, use
 const BlankEmbed = ({width, height}) => {
   return null
 }
-const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex, trimHeight}) => {
+const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex, trimHeight, updateChatPref, chatPref}) => {
   const src = `https://www.twitch.tv/embed/${channel}/chat?darkpopout&parent=${window.location.hostname}`
-  const coverTop = trimHeight ? 140 : 0
-  const coverBottom = trimHeight ? 52 : 0
+  const expanded = chatPref?.expanded ?? true
+  var coverTop = trimHeight ? 140 : 0
+  var coverBottom = trimHeight ? 46 : 0
   const iframeWidth = width
   const iframeHeight = height + coverTop + coverBottom
+  const showExpandMinim = trimHeight == true
+  if (trimHeight && !expanded) {
+    coverTop = iframeHeight+100
+    coverBottom = -46
+  }
   return (
-    <div style={{overflow: "hidden"}}>
+    <div className="embedContainer">
       <iframe
         style={{border: "none", marginTop: -coverTop, marginBottom: -coverBottom, width: iframeWidth, height: iframeHeight}}
         src={src}
@@ -38,21 +45,28 @@ const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex, trimHeight
         theme={"dark"}
         parent={window.location.hostname}
         />
+      {showExpandMinim && <ExpandMinimizeChat expanded={expanded} updateChatPref={updateChatPref} />}
     </div>
   )
 }//darkpopout
 
 
-const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex}) => {
+const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex, updateChatPref, chatPref }) => {
   const src = `https://www.youtube.com/live_chat?v=${videoId}&embed_domain=${`${window.location.hostname}`}`
-  const coverTop = 140;
+  const expanded = chatPref?.expanded ?? true
+  var coverTop = trimHeight ? 140 : 0
+  var coverBottom = trimHeight ? 0 : 0
   const iframeWidth = width
-  const iframeHeight = height + coverTop
-
+  const iframeHeight = height + coverTop + coverBottom
+  const showExpandMinim = trimHeight == true
+  if (trimHeight && !expanded) {
+    coverTop = iframeHeight+100
+    coverBottom = -46
+  }
   return (
-    <div style={{overflow: "hidden"}}>
+    <div className="embedContainer">
       <iframe
-        style={{border: "none", marginTop: -coverTop, width: iframeWidth, height: iframeHeight}}
+        style={{border: "none", marginTop: -coverTop, marginBottom: -coverBottom, width: iframeWidth, height: iframeHeight}}
         src={src}
         width={width}
         height={height}
@@ -60,6 +74,16 @@ const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex}) => {
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         title={`Youtube chat`}
       />
+      {showExpandMinim && <ExpandMinimizeChat expanded={expanded} updateChatPref={updateChatPref} />}
     </div>
   );
+}
+
+const ExpandMinimizeChat = ({expanded, updateChatPref}) => {
+  const text = expanded ? "⌃ minimize chat" : "⌄ maximize chat"
+  return (
+    <div className="expandChatHolder" onClick={() => updateChatPref(!expanded)}>
+      <div className="expandChatText">{text}</div>
+    </div>
+  )
 }

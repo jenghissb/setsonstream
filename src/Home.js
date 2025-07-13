@@ -470,6 +470,13 @@ function MainComponent(homeMode) {
     setFilterInfo(newFilterInfo)
   }
 
+  const updateChatPref = (expanded) => {
+    var newFilterInfo = {...filterInfo, chat: {...(filterInfo.chat ?? {}), expanded}}
+    localStorage.setItem("filterInfo", JSON.stringify(newFilterInfo));
+    setFilterInfo(newFilterInfo)
+  }
+
+
   const onSearch = (searchTerm) => {
     addSearchTerm(searchTerm)
   }
@@ -668,9 +675,7 @@ function MainComponent(homeMode) {
     stickyPos -= height
   }
 
-  const showChatBeneath = width < targetWidth+2
-
-  console.log("showChatBeneath", showChatBeneath, width, targetWidth)
+  const showChatBeneath = width > window.innerWidth-2
   var chat = null
   if (useVideoIn.panel == true) {
     var previewItem = null
@@ -681,8 +686,8 @@ function MainComponent(homeMode) {
     const vidHeight = `${height}px`
     preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
     if(showMapBeside || showChatBeneath) {
-      const chatHeight = showChatBeneath ? 200 : height
-      chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:showChatBeneath})
+      const chatHeight = showChatBeneath ? 140 : height
+      chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:showChatBeneath, updateChatPref, chatPref: filterInfo.chat})
     }
   }
   var noData = null
