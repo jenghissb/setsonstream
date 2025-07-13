@@ -231,6 +231,10 @@ function getDisplayData(data, filterInfo, showVodsMode) {
   return sortedData
 }
 
+function displayDataHasItemKey(displayData, itemKey) {
+  return displayData.filter(item => item.bracketInfo.setKey == itemKey).length > 0
+}
+
 function hasDataForGame(data, gameId, showVodsMode) {
   if (showVodsMode) {
     return data[gameId]?.vods?.length ?? 0 > 0
@@ -294,7 +298,7 @@ function decompressDataFromFetch(compressedDataBase64) {
     return decompressedText
 }
 
-function getInitialShowVodsMode(currentGameId, data) {
+function getInitialShowVodsMode(currentGameId, data ) {
   if (data == null) {
     return false
   } else {
@@ -648,8 +652,12 @@ function MainComponent(homeMode) {
   var tourneyById = getDataByTourney(displayData)
   var wouldHaveData = hasDataForGame(data, filterInfo.currentGameId, showVodsMode)
   var itemKey = currentItemKey
-  if (itemKey == null && displayData.length > 0) {
-    itemKey = displayData[0].bracketInfo.setKey
+  if (displayData.length > 0) {
+    if (itemKey == null) {
+      itemKey = displayData[0].bracketInfo.setKey
+    } else if (!displayDataHasItemKey(displayData, itemKey)) {
+      itemKey = displayData[0].bracketInfo.setKey
+    }
   }
 
   var preview = null
