@@ -229,3 +229,8 @@
 .attributionLink:hover {
   text-decoration: underline;
 }
+
+.rewindControlsHolder {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

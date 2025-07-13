@@ -93,7 +93,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
   if (useFullView) {
     initialZoomLevel += 1
   }
-  
+
   const tourneyIds = Object.keys(tourneyById)
   const tourneys = tourneyIds.map(id => tourneyById[id])
   const showTourneysMode = showVodsMode
@@ -443,7 +443,7 @@ function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex,
             marginTop: "2px"
           }} onClick={() => handleIndexChange(item.bracketInfo.setKey)}> 
             <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
-            {selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
+            {selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady, fromMap: true})}
             <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
             {item.streamInfo.streamUrls.map((sInfo, index) => {
               const streamUrl = getStreamUrl(item.streamInfo, index)
@@ -490,30 +490,33 @@ const PopupForSet = ({item, handleStreamIndexButtonClick, streamSubIndex, itemKe
   var viewersText = getViewersTextFromItem(item)
   const selected = item.bracketInfo.setKey == itemKey
   const shouldShowRewindBar = selected// && useVideoInPopup == true
+  const vertMax = 0.8*videoHeight
   return (
     <div className="leafset-row-1"> 
-      <div className={infoSectionStyle} style={
-      {
-        background: `linear-gradient(rgba(255, 255, 255, 0.8),  rgba(255, 255, 255, 0.8)), url(${tourneyBackgroundUrl})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center"
-      }
-    }>
-        <span className="leaftourneyName">{getLumitierIcon(lumitier, {marginRight: '6px'})}{item.bracketInfo.tourneyName}</span><br/>
-        <span className="leafEntrants" style={{ marginRight: '3px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{" "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
-        <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
-        {selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: shouldShowRewindBar, handleTimestampChange, rewindReady})}
-        <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
-        {item.streamInfo.streamUrls.map((sInfo, index) => {
-          const streamUrl = getStreamUrl(item.streamInfo, index)
-          return <div key={index}><a href={streamUrl} target="_blank" className="leafbracketLink">{streamUrl}</a><br/></div>
-        })}
-        <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "leaf_play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "leaf_play2_")}<br/>
-      </div>
-      {streamButton}
-      {
-        preview
-      }
+      <div className="leafVertConstraint" style={{maxHeight: vertMax}}>
+        <div className={infoSectionStyle} style={
+          {
+            background: `linear-gradient(rgba(255, 255, 255, 0.8),  rgba(255, 255, 255, 0.8)), url(${tourneyBackgroundUrl})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center"
+          }
+        }>
+          <span className="leaftourneyName">{getLumitierIcon(lumitier, {marginRight: '6px'})}{item.bracketInfo.tourneyName}</span><br/>
+          <span className="leafEntrants" style={{ marginRight: '3px' }}>{viewersText}👤 {item.bracketInfo.numEntrants}{" "}</span><span className="leafplayerName">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+          <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
+          {selected && <div className="rewindControlsHolder">{RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: shouldShowRewindBar, handleTimestampChange, rewindReady, fromMap: true})}</div>}
+          <a href={item.bracketInfo.url} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
+          {item.streamInfo.streamUrls.map((sInfo, index) => {
+            const streamUrl = getStreamUrl(item.streamInfo, index)
+            return <div key={index}><a href={streamUrl} target="_blank" className="leafbracketLink">{streamUrl}</a><br/></div>
+          })}
+          <a href={item.player1Info.entrantUrl} target="_blank" className="leafplayerName">{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "leaf_play1_")} vs <a href={item.player2Info.entrantUrl} target="_blank" className="leafplayerName">{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "leaf_play2_")}<br/>
+        </div>
+        {streamButton}
+        </div>
+        {
+          preview
+        }
     </div>
   );
 }

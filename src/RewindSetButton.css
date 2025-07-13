@@ -52,6 +52,19 @@
   paint-order: stroke fill;
 
 }
+.markContainerFromMap {
+  color: #444;
+  line-height: 1.2;
+  font-size: smaller;
+  font-weight: bold;
+  font-style: italic;
+  word-break: break-all;
+  text-decoration: none;
+  margin-top: -38px;
+}
+
+
+
 
 .markText {
 
