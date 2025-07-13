@@ -668,8 +668,9 @@ function MainComponent(homeMode) {
     stickyPos -= height
   }
 
-  const showChatBeneath = width < targetWidth
+  const showChatBeneath = width < targetWidth+2
 
+  console.log("showChatBeneath", showChatBeneath, width, targetWidth)
   var chat = null
   if (useVideoIn.panel == true) {
     var previewItem = null
@@ -680,7 +681,8 @@ function MainComponent(homeMode) {
     const vidHeight = `${height}px`
     preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
     if(showMapBeside || showChatBeneath) {
-      chat = MediaChat({width: chatWidth, height: height, item: previewItem, streamSubIndex, useLiveStream})
+      const chatHeight = showChatBeneath ? 200 : height
+      chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:showChatBeneath})
     }
   }
   var noData = null
