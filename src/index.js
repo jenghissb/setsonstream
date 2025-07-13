@@ -34,8 +34,8 @@ function Layout() {
   return (
     <>
       <header>
-        <h1 class="visuallyhidden">Setsonstream.tv - Watch Fighting Game Tournaments</h1>
-        <p class="visuallyhidden">Stream tournament sets from Smash Ultimate, Street Fighter 6, and more.</p>
+        <h1 className="visuallyhidden">Setsonstream.tv - Watch Fighting Game Tournaments</h1>
+        <p className="visuallyhidden">Stream tournament sets from Smash Ultimate, Street Fighter 6, and more.</p>
         <AppNavBar/>
       </header>
       <Outlet />

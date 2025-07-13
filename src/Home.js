@@ -709,7 +709,7 @@ function renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch) {
 }
 
 function renderFooterButton(filterInfo, onOpen ) {
-  return <div className="footerButtonContainer">
+  return <div className="footerButtonContainer" key="FooterButtonHome">
       <div className="filterButtonHolder">
         {renderFilterButton(filterInfo, onOpen)}
       </div>
@@ -827,7 +827,8 @@ function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamS
   return <div className={stylename1} ref={scrollUpRef}>{  
     jsonData.map((item, index) => {
       const itemStreamSubIndex = (itemKey == item.bracketInfo.setKey) ? streamSubIndex : 0
-      return <div className={stylename2} index={index}>
+      //key={`maindata`}
+      return <div key={`${item.bracketInfo.setKey}_dataRowItem`} className={stylename2} index={index}>
         <DataRow {...{item, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
       </div>
 
@@ -919,7 +920,7 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, stre
         {item.streamInfo.streamUrls.map((sItem, index) => {
           const streamUrl = getStreamUrl(item.streamInfo, index)
           const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false)
-          return <div ><a href={streamLink} target="_blank" className="bracketLink">{streamUrl}</a><br/></div>
+          return <div key={index}><a href={streamLink} target="_blank" className="bracketLink">{streamUrl}</a><br/></div>
         })}
       </div>
       <div className="set-row-4">

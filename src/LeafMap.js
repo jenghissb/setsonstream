@@ -23,11 +23,11 @@ function renderMinMaxSvg(useFullView) {
 
 function renderFullscreenSvg() {
   //style={{ width: '100%', height: '100%' }} 
-  return <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style={{ filter: 'drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.5))' }}><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+  return <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ filter: 'drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.5))' }}><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
 }
 
 function renderMinimizeSvg() {
-  return <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style={{ filter: 'drop-shadow(3px 3px 5px rgba(0, 0, 0, 0.5))' }}><path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path></svg>
+  return <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ filter: 'drop-shadow(3px 3px 5px rgba(0, 0, 0, 0.5))' }}><path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path></svg>
 }
 
 function MapEventHelper({setZoomLevel}) {
@@ -173,7 +173,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
     <div className="attirbutionContainer">
       <div className="attribution2">
         <a className="attributionLink" href="https://leafletjs.com" target="_blank" title="A JavaScript library for interactive maps">
-          <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" class="attributionFlag">
+          <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" className="attributionFlag">
             <path fill="#4C7BE1" d="M0 0h12v4H0z"></path><path fill="#FFD500" d="M0 4h12v3H0z"></path><path fill="#E0BC00" d="M0 7h12v1H0z"></path>
           </svg> Leaflet</a> <span aria-hidden="true">|</span> © <a className="attributionLink" href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>
       </div>
@@ -193,7 +193,8 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
       }
       {
         markerData.map( (item, index) => {
-          return <MarkersForItem {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
+          
+          return <MarkersForItem key={`marlers${index}`} {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
         }) 
       }
     </MapContainer> 
