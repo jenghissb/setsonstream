@@ -2,29 +2,9 @@ import React, { useState, useRef, useEffect } from 'react';
 import "./SearchInputBar.css"
 import { Characters } from './GameInfo.js'
 import { renderFilterTypeButton } from './FilterTypeButton'
+import { charEmojiImagePath } from './Utilities.js'
 
-// function TextInputComponent() {
-//   const [inputValue, setInputValue] = useState('');
-
-//   const handleChange = (event) => {
-//     setInputValue(event.target.value);
-//   };
-
-//   return (
-//     <div>
-//       <label htmlFor="myTextInput">Enter Text:</label>
-//       <input
-//         type="text"
-//         id="myTextInput"
-//         value={inputValue}
-//         onChange={handleChange}
-//       />
-//       <p>Current input: {inputValue}</p>
-//     </div>
-//   );
-// }
-
-export function SearchInputBar({ onSearch, filterInfo }) {
+export function SearchInputBar({ onSearch, filterInfo, toggleCharacter }) {
   const [searchTerm, setSearchTerm] = useState('');
   const inputRef = useRef(null);
   const [filteredResults, setFilteredResults] = useState([]);
@@ -49,7 +29,7 @@ export function SearchInputBar({ onSearch, filterInfo }) {
     if (searchTerm) {
 
       const results = data.filter(item =>
-        item.toLowerCase().includes(searchTerm.toLowerCase())
+        item.toLowerCase().startsWith(searchTerm.toLowerCase())
       );
       setFilteredResults(results);
       setShowDropdown(true);
@@ -60,12 +40,12 @@ export function SearchInputBar({ onSearch, filterInfo }) {
   }, [searchTerm]);
 
   const handleItemClick = (item) => {
-    // onToggleChar(event.target.value.toLowerCase())
     if(inputRef.current) {
       inputRef.current.blur()
     }
     setSearchTerm("");
     setShowDropdown(false);
+    toggleCharacter(item, filterInfo.currentGameId)
   };
 
   // Handle click outside to close dropdown
@@ -81,25 +61,8 @@ export function SearchInputBar({ onSearch, filterInfo }) {
     };
   }, [dropdownRef]);
 
-  // console.log("filteredResults = ", filteredResults, "showDropdown", showDropdown)
-  // style={{alignSelf: "center", backgroundColor:"#ee5599"}}
-      // <div style={{position: "relative", zIndex: 10000, alignSelf: "center" }} ref={dropdownRef}>
-
   return (
-    <input
-      className={"searchInputBar"}
-      ref={inputRef}
-      type="text"
-      placeholder="Search..."
-      value={searchTerm}
-      onKeyDown={handleKeyDown}
-      onChange={handleChange}
-      onFocus={() => setShowDropdown(true)}
-    />
-  )
-
-  return (
-    <div style={{zIndex: 100, alignSelf: "center", backgroundColor: "orange", alignContent: "center" }} ref={dropdownRef}>
+    <div className="outerContainer" ref={dropdownRef}>
       <input
         className={"searchInputBar"}
         ref={inputRef}
@@ -111,49 +74,31 @@ export function SearchInputBar({ onSearch, filterInfo }) {
         onFocus={() => setShowDropdown(true)}
       />
 
-        {/* {showDropdown && filteredResults.length > 0 && (
-        <ul style={{
-          position: 'absolute',
-          top: '100%', // Position directly below the input
-          left: 0,
-          width: '60px',
-          border: '1px solid #ccc',
-          listStyle: 'none',
-          padding: 0,
-          marginBottom: "-100px",
-          marginTop: "-100px",
-          backgroundColor: 'white',
-          zIndex: 10001 // Ensure it appears above other content
-        }}>
-          {filteredResults.map((item, index) => (
-            <li
+      {showDropdown && filteredResults.length > 0 && (
+        <ul className='dropdownList'>
+          {filteredResults.map((item, index) => {
+            var charAlreadyFiltered = false;
+            if (filterInfo.filters[filterInfo.currentGameId]?.characters?.includes(item)) {
+              charAlreadyFiltered = true
+            }
+
+            return <li
               key={index}
               onClick={() => handleItemClick(item)}
-              style={{ padding: '8px', cursor: 'pointer', color: "#ffffff", width: "60px", height:"40px" }}
+              className='dropdownItem'
             >
-              {item}
+              <div className='charDropdownItem'>
+                <img className="searchCharEmoji" src={charEmojiImagePath(item, filterInfo.currentGameId)}/>
+                <span className='searchCharText'>{item}</span>
+                {charAlreadyFiltered && <span className='searchCharTextX'>x</span>}
+              </div>
             </li>
-          ))}
+          })}
         </ul>
       )}
- */}
 
     </div>
   );
-
-  // return (
-  //   <div>
-  //     <input
-  //       className={"searchInputBar"}
-  //       ref={inputRef}
-  //       type="text"
-  //       placeholder="Search..."
-  //       value={searchTerm}
-  //       onKeyDown={handleKeyDown}
-  //       onChange={handleChange}
-  //     />
-  //   </div>
-  // );
 }
 
 
@@ -168,22 +113,4 @@ export function SearchTerms({searchTerms, onRemove, hasCharFilters, filterType, 
       {searchTerms?.map((item, index) => <SearchTerm {...{onRemove, searchTerm: item, index}} />)}
     </div>
   }
-}
-
-
-function SimpleDropdown() {
-  const [selectedValue, setSelectedValue] = useState('');
-
-  const handleChange = (event) => {
-    setSelectedValue(event.target.value);
-  };
-
-  return (
-    <select value={null} onChange={handleChange}>
-      <option value="">Select an option</option>
-      <option value="option1">pikachu</option>
-      <option value="option2"><div>PIKACHU</div></option>
-      <option value="option3">Option 3</option>
-    </select>
-  );
 }

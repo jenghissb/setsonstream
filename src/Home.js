@@ -76,7 +76,11 @@ function charInfoHasCharacter(charInfo, charName) {
 }
 
 const textMatches = (filterInfo, text) => {
+  if (text == null || text.length == 9) {
+    return false
+  }
   var matches = false
+  var Acheck = false
   filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
     if (text.toLowerCase().indexOf(searchTerm.toLowerCase()) >=0) {
       matches = true
@@ -85,7 +89,59 @@ const textMatches = (filterInfo, text) => {
   return matches
 }
 
-function itemMatchesFilter(item, filterInfo) {
+function checkUrlMatches(urlFilters, item) {
+  var itemMatches = false
+  urlFilters.twitchMatch.forEach((twitchMatch) => {
+    item.streamInfo.streamUrls.forEach(streamUrlInfo => {
+      const videoId = streamUrlInfo.videoId
+      if (videoId != null && videoId.toLowerCase().indexOf(twitchMatch) >=0) {
+        itemMatches = true
+      }
+    })
+  })
+  urlFilters.twitchMatchChannel.forEach((twitchMatchChannel) => {
+    item.streamInfo.streamUrls.forEach(streamUrlInfo => {
+      if (streamUrlInfo.forTheatre.toLowerCase().indexOf(twitchMatchChannel) >=0) {
+        itemMatches = true
+      }
+    })
+  })
+  urlFilters.youtubeMatch.forEach((youtubeMatch) => {
+    item.streamInfo.streamUrls.forEach(streamUrlInfo => {
+      const videoId = streamUrlInfo.videoId
+      if (videoId != null && videoId.toLowerCase().indexOf(youtubeMatch) >=0) {
+        itemMatches = true
+      }
+    })
+  })
+  return itemMatches
+}
+
+function getUrlFilters(filterInfo) {
+  const twitchRegex = `(?:https?:\/\/)?(?:www\.)?twitch\.tv\/videos\/([^?]+)`
+  const twitchRegexChannel = `(?:https?:\/\/)?(?:www\.)?twitch\.tv\/([^?]+)`
+  const youtubeRegex = `(?:https?:\/\/)?(?:www\.)?(?:m\.)?(?:youtube\.com\/(?:watch[?]v=|embed\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})`
+  const urlFilters = {
+    twitchMatch: [],
+    twitchMatchChannel: [],
+    youtubeMatch: [],
+  }
+  filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
+    const twitchMatch = searchTerm.match(twitchRegex)?.[1]
+    const twitchMatchChannel = searchTerm.match(twitchRegexChannel)?.[1]
+    const youtubeMatch = searchTerm.match(youtubeRegex)?.[1]
+    if (twitchMatch != null && twitchMatch.length > 0) {
+      urlFilters.twitchMatch.push(twitchMatch)
+    } else if (twitchMatchChannel != null && twitchMatchChannel.length > 0) {
+      urlFilters.twitchMatchChannel.push(twitchMatchChannel)
+    } else if (youtubeMatch != null && youtubeMatch.length > 0) {
+      urlFilters.youtubeMatch.push(youtubeMatch)
+    }
+  })
+  return urlFilters
+}
+
+function itemMatchesFilter(item, filterInfo, urlFilters) {
   var matchesFilter = false
   filterInfo?.filters[filterInfo.currentGameId]?.characters?.forEach(charName => {
     if (hasCharacter(item, charName)) {
@@ -98,12 +154,22 @@ function itemMatchesFilter(item, filterInfo) {
   if (textMatches(filterInfo, item.player1Info.name)) {
     matchesFilter = true
   }
-  if (textMatches(filterInfo, item.player2Info.name)) {
+  if (item.streamInfo.streamSource == "TWITCH") {
+    if (textMatches(filterInfo, item.streamInfo.forTheatre)) {
+      matchesFilter = true
+    }
+  }
+  item.streamInfo.streamUrls.forEach(streamUrlInfo => {
+    if (textMatches(filterInfo, streamUrlInfo.videoId)) {
+      matchesFilter = true
+    }
+  })
+  if (checkUrlMatches(urlFilters, item)) {
+      matchesFilter = true
+  }
+  if (textMatches(filterInfo, item.bracketInfo.url)) {
     matchesFilter = true
   }
-
-  // filterInfo?.filters[filterInfo.currentGameId]?.searches?.forEach(searchTerm => {
-  // })
 
   return matchesFilter
 }
@@ -149,8 +215,9 @@ function getDisplayData(data, filterInfo, showVodsMode) {
     })
   }
   if (hasFilters) {
+    const urlFilters = getUrlFilters(filterInfo)
     sortedData.forEach(item => {
-      item.matchesFilter = itemMatchesFilter(item, filterInfo)
+      item.matchesFilter = itemMatchesFilter(item, filterInfo, urlFilters)
     })
     sortedData = [...sortedData].sort((a,b) => {
       return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
@@ -467,7 +534,7 @@ function MainComponent(homeMode) {
           })
         })
         setData(data);
-        printNumberOfVods(data)
+        // printNumberOfVods(data)
         // console.log(data)
       } catch (err) {
         setError(err);
@@ -510,7 +577,7 @@ function MainComponent(homeMode) {
       preview = <div ref={topRef}className="topContainer">{MediaPreview({item: null, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady: null, onProgress: null})}</div>
 
       return (
-        <div className="overallDiv" overallStyle>
+        <div className="overallDiv">
           {
             renderLinkRow([], filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
           }
@@ -589,15 +656,15 @@ function MainComponent(homeMode) {
   if (!showMapBeside) {
     stickyPos -= height
   }
-  var overallStyle = {}
-  if (homeMode == HomeModes.FULLMAP) {
-    overallStyle = {height: "100dvh"}
-  }
+  // var overallStyle = {}
+  // if (homeMode == HomeModes.FULLMAP) {
+  //   overallStyle = {height: "100dvh"}
+  // }
 
   return (
-    <div className="overallDiv" overallStyle>
+    <div className="overallDiv">
       {
-        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
+        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter)
       }
       <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
@@ -610,7 +677,7 @@ function MainComponent(homeMode) {
       </div>
       </div>
       {
-        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
+        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter)
       }
       { 
         noData
@@ -684,7 +751,7 @@ function Home({homeMode=HomeModes.MAIN}) {
   );
 }
 
-function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shouldShow, onSearch, onSearchRemove, changeFilterType) {
+function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shouldShow, onSearch, onSearchRemove, changeFilterType, toggleCharacter) {
   if (!shouldShow) {
     return
   }
@@ -704,7 +771,7 @@ function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shou
         renderLink(jsonData, !showVodsMode)
       }
       <span className="searchAndFilters">
-      <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} />
+      <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter}/>
       {!showBelow && searchTerms}
       </span>
       {renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode)}
@@ -851,7 +918,8 @@ const DataRow = memo(({item, filterInfo, useVideoInList, handleIndexChange, stre
         <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="bracketLink">{item.bracketInfo.url}</a><br/>
         {item.streamInfo.streamUrls.map((sItem, index) => {
           const streamUrl = getStreamUrl(item.streamInfo, index)
-          return <div ><a href={streamUrl} target="_blank" className="bracketLink">{streamUrl}</a><br/></div>
+          const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false)
+          return <div ><a href={streamLink} target="_blank" className="bracketLink">{streamUrl}</a><br/></div>
         })}
       </div>
       <div className="set-row-4">

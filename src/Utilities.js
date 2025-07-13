@@ -136,20 +136,33 @@ export function supportsRewindSet(item) {
   return supportsRewind
 }
 
-export function getStreamUrl(streamInfo, index) {
-    const streamUrlInfo = streamInfo.streamUrls[index]
+export function getStreamUrl(streamInfo, index, preferTimestampedVod=false) {
+  const streamUrlInfo = streamInfo.streamUrls[index]
   if (streamInfo.streamSource == 'YOUTUBE') {
     const videoId = streamUrlInfo.videoId
-    if (videoId) {
-      return `https://www.youtube.com/watch?v=${videoId}`
+    if (videoId != null) {
+      if (preferTimestampedVod && streamUrlInfo.offset != null) {
+        return `https://www.youtube.com/watch?v=${videoId}?t=${streamUrlInfo.offset}s`
+      } else {
+        return `https://www.youtube.com/watch?v=${videoId}`
+      }
     } else if (streamUrlInfo.streamUrl != null) {
       return streamUrlInfo.streamUrl
     } else {
       const channel = streamInfo.ytChannelId
       return `https://www.youtube.com/${channel}`
     }
-  } else if (streamInfo.streamSource === 'TWITCH') {
-    return `https://www.twitch.tv/${streamInfo.forTheatre}`
+  } else if (streamInfo.streamSource == 'TWITCH') {
+    const videoId = streamUrlInfo.videoId
+    if (preferTimestampedVod && videoId != null) {
+      var offsetParamText = ""
+      if (streamUrlInfo.offsetHms) {
+        offsetParamText = `?t=${streamUrlInfo.offsetHms}`
+      }
+      return `https://www.twitch.tv/videos/${videoId}${offsetParamText}`
+    } else {
+      return `https://www.twitch.tv/${streamInfo.forTheatre}`
+    }
   }
 }
 
