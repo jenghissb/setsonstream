@@ -685,7 +685,7 @@ function MainComponent(homeMode) {
     const vidWidth = `${width}px`
     const vidHeight = `${height}px`
     preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
-    if(showMapBeside || showChatBeneath) {
+    if(showMapBeside || showChatBeneath && useLiveStream == true && !showVodsMode) {
       const chatHeight = showChatBeneath ? 140 : height
       chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:showChatBeneath, updateChatPref, chatPref: filterInfo.chat})
     }

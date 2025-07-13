@@ -51,7 +51,7 @@ const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex, trimHeight
 }//darkpopout
 
 
-const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex, updateChatPref, chatPref }) => {
+const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex, trimHeight, updateChatPref, chatPref }) => {
   const src = `https://www.youtube.com/live_chat?v=${videoId}&embed_domain=${`${window.location.hostname}`}`
   const expanded = chatPref?.expanded ?? true
   var coverTop = trimHeight ? 140 : 0
