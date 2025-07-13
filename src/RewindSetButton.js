@@ -12,8 +12,8 @@ import Typography from '@mui/material/Typography';
 import Tooltip from '@mui/material/Tooltip';
 import Box from '@mui/material/Box';
 
-function renderSvg() {
-  return <svg width="40px" height="40px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke="#bbbbbb" fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
+function renderSvg(width="40px", height="40px", color="#bbbbbb") {
+  return <svg width={width} height={height} viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke={color} fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
 
   return <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -25,12 +25,20 @@ function renderSvg() {
     <path d="M 50 10 A 40 40 0 1 0 10 50" fill="none" stroke="black" strokeWidth="4" marker-end="url(#arrow)" />
   </svg>
 }
+
 export function renderRewindSetButton(setUseLiveStream) {
   return <div onClick={() => setUseLiveStream(false)} className="rewindSetButton">
     {renderSvg()}
   </div>
 }
 
+export function renderRewindShortButton(rewindSet) {
+  const secondsToRewind = 5;
+  return <div onClick={() => rewindSet(5)} className="rewindShortButton">
+    {renderSvg("32px", "32px", "#dddddd")}
+    <div className='rewindShortText'>{secondsToRewind}</div>
+  </div>
+}
 
 export function RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, handleTimestampChange, rewindReady}) {
   useLiveStream = useLiveStream && !showVodsMode
@@ -127,6 +135,10 @@ function RewindControlRow({item, setUseLiveStream, showVodsMode, handleTimestamp
     setCurrentProgress(newValue)
   };
 
+  const rewindShort = (rewindAmount) => {
+    handleTimestampChange(null, rewindAmount)
+  }
+
   var marks = [
     {
       value: 0,
@@ -144,6 +156,9 @@ function RewindControlRow({item, setUseLiveStream, showVodsMode, handleTimestamp
 
   const valueToUse = Math.floor(currentProgress)
   return <div className="rewindSetRow">
+    {
+      renderRewindShortButton(rewindShort)
+    }
     <StyledSlider
       size="medium"
       defaultValue={0}

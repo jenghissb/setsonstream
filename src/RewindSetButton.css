@@ -28,11 +28,8 @@
   flex-wrap: nowrap;
   justify-content: center;
   justify-items: center;
-  align-items:center;
-    flex-grow: 1;
-  flex-shrink: 1;
-
-  /* flex-grow: 1; */
+  align-items:flex-start;
+  align-content:flex-start;
 }
 
 .progressBar {
@@ -59,6 +56,29 @@
 }
 
 
+.rewindShortButton {
+  width: 34px;
+  height: 34px;
+  justify-self: center;
+  position: relative;
+  padding-right: 10px;
+}
+
+.rewindShortButton:active {
+  transform: scale(1.15);
+}
+
+.rewindShortButton:hover {
+  transform: scale(1.15);
+}
+
+.rewindShortText {
+  top: 16px;
+  left: 6px;
+  position: absolute;
+  font-size: small;
+  color: #bbbbbb;
+}
 
 
 

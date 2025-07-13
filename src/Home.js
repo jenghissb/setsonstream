@@ -477,11 +477,26 @@ function MainComponent(homeMode) {
   }
 
 
-  const handleTimestampChange = useCallback((newSeconds) => {
+  const handleTimestampChange = useCallback((newSeconds, rewindAmount=0) => {
     if (currentPlayerRef.current?.player?.player?.seekTo ?? null != null) {
-      currentPlayerRef.current?.player?.player?.seekTo(newSeconds)
+      // youtube
+      const p=currentPlayerRef.current?.player?.player
+      console.log("Player!", p)
+      if (newSeconds == null && rewindAmount != null) {
+        const currentTime = p?.getCurrentTime() ?? 0
+        p?.seekTo(currentTime - rewindAmount)
+      } else {
+          p?.seekTo(newSeconds)
+      }
     } else {
-      currentPlayerRef.current?.seek(newSeconds)
+      // twitch
+      const p = currentPlayerRef.current
+      if (newSeconds == null && rewindAmount != null) {
+        const currentTime = p?.getCurrentTime() ?? 0
+        p?.seek(currentTime - rewindAmount)
+      } else {
+        p?.seek(newSeconds)
+      }
     }
   }, [currentPlayerRef])
 
