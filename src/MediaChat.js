@@ -24,29 +24,42 @@ const BlankEmbed = ({width, height}) => {
   return null
 }
 const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex}) => {
-  const src = `https://www.twitch.tv/embed/${channel}?parent=${window.location.hostname}`
+  const src = `https://www.twitch.tv/embed/${channel}/chat?darkpopout&parent=${window.location.hostname}`
+  const coverTop = 140;
+  const iframeWidth = width
+  const iframeHeight = height + coverTop
   return (
-    <iframe
-      src={src}
-      height={height}
-      width={width}
-      parent={window.location.hostname}
-      />
-    
+    <div style={{overflow: "hidden"}}>
+      <iframe
+        style={{border: "none", marginTop: -coverTop, width: iframeWidth, height: iframeHeight}}
+        src={src}
+        height={iframeHeight}
+        width={iframeWidth}
+        theme={"dark"}
+        parent={window.location.hostname}
+        />
+    </div>
   )
-}
+}//darkpopout
 
 
 const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex}) => {
   const src = `https://www.youtube.com/live_chat?v=${videoId}&embed_domain=${`${window.location.hostname}`}`
+  const coverTop = 140;
+  const iframeWidth = width
+  const iframeHeight = height + coverTop
+
   return (
-    <iframe
-      src={src}
-      width={width}
-      height={height}
-      allowFullScreen={true}
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      title={`Youtube chat`}
-    />
+    <div style={{overflow: "hidden"}}>
+      <iframe
+        style={{border: "none", marginTop: -coverTop, width: iframeWidth, height: iframeHeight}}
+        src={src}
+        width={width}
+        height={height}
+        allowFullScreen={true}
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        title={`Youtube chat`}
+      />
+    </div>
   );
 }
