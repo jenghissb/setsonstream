@@ -491,6 +491,7 @@ function MainComponent(homeMode) {
 
 
   const handleTimestampChange = useCallback((newSeconds, rewindAmount=0) => {
+    // rewindAmount = -1.0/60
     if (currentPlayerRef.current?.player?.player?.seekTo ?? null != null) {
       // youtube
       const p=currentPlayerRef.current?.player?.player

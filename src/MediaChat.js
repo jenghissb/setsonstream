@@ -28,6 +28,7 @@ const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex, trimHeight
   const expanded = chatPref?.expanded ?? true
   var coverTop = trimHeight ? 140 : 0
   var coverBottom = trimHeight ? 46 : 0
+  // const heightAdj = height + 4
   const iframeWidth = width
   const iframeHeight = height + coverTop + coverBottom
   const showExpandMinim = trimHeight == true
@@ -80,10 +81,42 @@ const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex, trimHeigh
 }
 
 const ExpandMinimizeChat = ({expanded, updateChatPref}) => {
+  if (expanded) {
+    return (
+      <div className="expandChatHolder" onClick={() => updateChatPref(!expanded)}>
+        <div className="expandChatText">
+        <ChevronUp width="20px" height="30px" color="#cccccc"/>
+        <ChatBubbble width="30px" height="30px" color="#cccccc" color2="01010100"/>
+        </div>
+      </div>
+    )
+  } else {
+    return (
+      <div className="expandChatHolder" onClick={() => updateChatPref(!expanded)}>
+        <div className="expandChatText">
+          <ChevronDown width="20px" height="30px" color="#cccccc"/>
+          <ChatBubbble width="30px" height="30px" color="#cccccc" color2="01010100"/>
+        </div>
+      </div>
+    ) 
+  }
+
   const text = expanded ? "⌃ minimize chat" : "⌄ maximize chat"
   return (
     <div className="expandChatHolder" onClick={() => updateChatPref(!expanded)}>
       <div className="expandChatText">{text}</div>
     </div>
   )
+}
+
+const ChevronUp = ({width, height, color}) => {
+  return <svg xmlns="http://www.w3.org/2000/svg" width={width} height={height} viewBox="0 0 448 448"><path fillOpacity="1" fill={color}  strokeWidth="32" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="4" strokeDasharray="none" d="m384 871.925-37.46 36.437L224 789.17 101.46 908.362 64 871.925l37.426-36.403.034.033L224 716.362l122.54 119.193.034-.033z" transform="translate(0 -604.362)"/></svg>
+}
+
+const ChevronDown = ({width, height, color}) => {
+  return <svg xmlns="http://www.w3.org/2000/svg" width={width} height={height} viewBox="0 0 448 448"><path fillOpacity="1" fill={color} strokeWidth="32" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="4" strokeDasharray="none" d="m384 784.8-37.46-36.438L224 867.555 101.46 748.362 64 784.8l37.426 36.404.034-.034L224 940.362 346.54 821.17l.034.034z" transform="translate(0 -604.362)"/></svg>
+}
+
+const ChatBubbble = ({width, height, color, color2}) => {
+  return <svg width={width} height={height} viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle cx="16" cy="16" r="16" fill={color2}/><path fill={color} d="M16.28 23.325a11.5 11.5 0 0 0 2.084-.34 5.7 5.7 0 0 0 2.602.17 1 1 0 0 1 .104-.008c.31 0 .717.18 1.31.56v-.625a.61.61 0 0 1 .311-.531q.388-.22.717-.499c.864-.732 1.352-1.708 1.352-2.742q-.002-.522-.159-1.006.393-.732.627-1.53A4.6 4.6 0 0 1 26 19.31c0 1.405-.654 2.715-1.785 3.673a6 6 0 0 1-.595.442v1.461c0 .503-.58.792-.989.493a15 15 0 0 0-1.2-.81 3 3 0 0 0-.368-.187q-.511.077-1.039.077c-1.412 0-2.716-.423-3.743-1.134zm-7.466-2.922C7.03 18.89 6 16.829 6 14.62c0-4.513 4.258-8.12 9.457-8.12s9.458 3.607 9.458 8.12c0 4.514-4.259 8.121-9.458 8.121q-.878 0-1.728-.135c-.245.058-1.224.64-2.635 1.67-.511.374-1.236.013-1.236-.616v-2.492a9 9 0 0 1-1.044-.765m4.949.666q.065 0 .13.01c.51.086 1.034.13 1.564.13 4.392 0 7.907-2.978 7.907-6.589 0-3.61-3.515-6.588-7.907-6.588-4.39 0-7.907 2.978-7.907 6.588 0 1.746.821 3.39 2.273 4.62q.55.464 1.196.832c.241.136.39.39.39.664v1.437c1.116-.749 1.85-1.104 2.354-1.104m-2.337-4.916c-.685 0-1.24-.55-1.24-1.226 0-.677.555-1.226 1.24-1.226s1.24.549 1.24 1.226-.555 1.226-1.24 1.226m4.031 0c-.685 0-1.24-.55-1.24-1.226 0-.677.555-1.226 1.24-1.226s1.24.549 1.24 1.226-.555 1.226-1.24 1.226m4.031 0c-.685 0-1.24-.55-1.24-1.226 0-.677.555-1.226 1.24-1.226s1.24.549 1.24 1.226-.555 1.226-1.24 1.226"/></g></svg>
 }

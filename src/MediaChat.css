@@ -8,15 +8,23 @@
   background-color: rgb(34, 34, 34);
   padding-left: 4px;
   padding-right: 4px;
+  border: 1px solid black;
+  /* display: flex;
+  flex-direction: row; */
 }
 
 .expandChatText {
   font-size: small;
   color: #eee;
-  border: 1px solid black
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
 }
 
 .embedContainer {
   overflow: hidden;
   position: relative;
+  min-height: 30px;
+  /* margin-top: -4px; */
 }
