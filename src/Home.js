@@ -672,11 +672,12 @@ function MainComponent(homeMode) {
 
   var mapWidth = width;
   const mapHeight = height;
+  var hasChat = useLiveStream == true && !showVodsMode
 
   var showMapBeside = 2*width <= window.innerWidth
   if (showMapBeside) {
     const widthRemainForChat = window.innerWidth - 2*width
-    if (widthRemainForChat < (chatWidth+5))
+    if (widthRemainForChat < (chatWidth+5) && hasChat)
       mapWidth -= (chatWidth+5 - widthRemainForChat)
   }
   var stickyPos = 0
@@ -689,6 +690,9 @@ function MainComponent(homeMode) {
   if (!showChatBeneath && !showMapBeside) {
     if (width + chatWidth < window.innerWidth) {
       showChatBesideNextLine = true
+      if (hasChat) {
+        mapWidth += chatWidth;
+      }
     } else {
       showChatBeneath = true
     }
