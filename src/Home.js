@@ -152,7 +152,10 @@ function itemMatchesFilter(item, filterInfo, urlFilters) {
   if (textMatches(filterInfo, item.bracketInfo.tourneyName)) {
     matchesFilter = true
   }
-  if (textMatches(filterInfo, item.player1Info.name)) {
+  if (textMatches(filterInfo, item.player1Info.nameWithRomaji)) {
+    matchesFilter = true
+  }
+  if (textMatches(filterInfo, item.player2Info.nameWithRomaji)) {
     matchesFilter = true
   }
   if (item.streamInfo.streamSource == "TWITCH") {
