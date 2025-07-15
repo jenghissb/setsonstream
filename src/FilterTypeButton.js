@@ -35,7 +35,7 @@ function hideIcon() {
 // ]
 
 
-export function renderFilterTypeButton(filterType = FilterType.FILTER, changeFilterType) {
+export function renderFilterTypeButton(filterType = FilterType.HIGHLIGHT, changeFilterType) {
   // var currentGameId = filterInfo.currentGameId
   // var gameInfo = VideoGameInfoById[currentGameId]
   // var characters = filterInfo?.filters[currentGameId]?.characters

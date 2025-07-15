@@ -226,7 +226,7 @@ function getDisplayData(data, filterInfo, showVodsMode) {
     sortedData = [...sortedData].sort((a,b) => {
       return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
     })
-    const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
+    const filterType = (showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live) ?? FilterType.HIGHLIGHT
     if (filterType == FilterType.FILTER) {
       sortedData = sortedData.filter((it) => it.matchesFilter)
     }
