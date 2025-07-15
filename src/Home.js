@@ -201,7 +201,7 @@ function getDisplayData(data, filterInfo, showVodsMode) {
   const hasFilters = filterInfoHasFiltersForCurrentGame(filterInfo)
   if (showVodsMode) {
     dataToStart = data[filterInfo.currentGameId].vods
-    const timeRange = filterInfo.filters[filterInfo.currentGameId]?.timeRange
+    const timeRange = filterInfo.filters[filterInfo.currentGameId]?.timeRange ?? getDefaultTimeRange(filterInfo.currentGameId)
     if (timeRange != null) {
       const timeStart = Date.now()/1000 + timeRange[0]*24*60*60
       const timeEnd = Date.now()/1000 + timeRange[1]*24*60*60
