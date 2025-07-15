@@ -24,3 +24,17 @@
   font-weight: 700;
   color: rgb(153, 160, 168);
 }
+
+.shareSvg:active {
+  transform: scale(1.2)
+}
+
+.shareSvg:last-child {
+  margin-left: auto; /* This is the key */
+  margin-right: 12px; /* Remove potential extra margin from the last item */
+}
+
+.shareSvgCopied {
+  font-size: smaller;
+  color: white;
+}
