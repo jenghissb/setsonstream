@@ -15,8 +15,22 @@ function convertSecondstoTimeStr(value) {
   }
   return `${Math.trunc(Math.abs(value))} days ago`
 }
+
+function normalizeRange(inputRange, minMaxRange) {
+  var normalizedRange = [...inputRange]
+  if (inputRange[0] < minMaxRange[0]) {
+    normalizedRange[0] = minMaxRange[0]
+  }
+  if (inputRange[1] > minMaxRange[1]) {
+    normalizedRange[1] = minMaxRange[1]
+  }
+  return normalizedRange
+}
+
 export const TimeRangeSlider = ({width, height, onChange, gameId, initialTimeRange}) => {
-  const defaultValues = initialTimeRange //[-6, 0]
+  const rangeMinMax = [-8, 0]
+  const defaultValues = normalizeRange(initialTimeRange, rangeMinMax)
+
   // const defaultValues = [-6, 0]
   const [currentProgress, setCurrentProgress] = useState(defaultValues);
   const [dragOffset, setDragOffset] = useState(null);
@@ -45,34 +59,42 @@ export const TimeRangeSlider = ({width, height, onChange, gameId, initialTimeRan
   
   const handleChange = (event, newValue) => {
     var updatedValue = [...newValue]
-    if (newValue[0] < currentProgress[0]) {
-      updatedValue[0] = currentProgress[0]
-    }
+    // if (newValue[0] < currentProgress[0]) {
+    //   updatedValue[0] = currentProgress[0]
+    // }
     if (event.type == "mousedown" || event.type == "touchstart") {
       if (newValue[0] > currentProgress[0] + 0.4) {
+        // console.log("downA", event.type, newValue, currentProgress)
         setDragOffset({
           offset: newValue[0], isLeft: true, initialProgress: currentProgress
         })
       } else if ((newValue[1] < currentProgress[1] - 0.4)){
+        // console.log("downB", event.type, newValue, currentProgress)
         setDragOffset({
           offset: newValue[1], isLeft: false, initialProgress: currentProgress
         })
       } else {
+        // console.log("downC", event.type, newValue, currentProgress)
         setDragOffset(null)
       }
-      setCurrentProgress([...currentProgress])
+      // setCurrentProgress([...currentProgress])
+      setCurrentProgress(normalizeRange(currentProgress, rangeMinMax))
     } else {
       if (dragOffset != null && dragOffset.isLeft) {
         var offsetVal = newValue[0] - dragOffset.offset
         updatedValue[0] = dragOffset.initialProgress[0] + offsetVal
         updatedValue[1] = dragOffset.initialProgress[1] + offsetVal
+        // console.log("moveA", event.type, newValue, currentProgress, updatedValue, dragOffset)
       } else if (dragOffset != null && !dragOffset.isLeft) {
         var offsetVal = newValue[1] - dragOffset.offset
         updatedValue[0] = dragOffset.initialProgress[0] + offsetVal
         updatedValue[1] = dragOffset.initialProgress[1] + offsetVal
+        // console.log("moveB", event.type, newValue, currentProgress, updatedValue, dragOffset)
       } else {
         updatedValue = [...newValue]
+        // console.log("moveC", event.type, newValue, currentProgress, updatedValue, dragOffset)
       }
+      updatedValue = normalizeRange(updatedValue, rangeMinMax)
       setCurrentProgress(updatedValue)
       debouncedChangeExternal(updatedValue)
     }

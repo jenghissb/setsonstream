@@ -388,6 +388,7 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
 
 function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) {
   var item = tourney[0]
+  item = tourney.find(it => it.bracketInfo.setKey == itemKey) ?? item
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
   if (numSubStreams > 1) {
@@ -395,7 +396,6 @@ function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex,
   }
   const targetId = `${item.bracketInfo.tourneyId}_${markerIndex}`
   // define these here handleReady, onProgress
-  item = tourney.find(it => it.bracketInfo.setKey == itemKey) ?? item
   var preview = null
   if (useVideoInPopup == true) {
     //MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, handleReady, onProgress})}</div>
