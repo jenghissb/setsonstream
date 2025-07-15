@@ -28,12 +28,12 @@ function ShareSvg() {
 
   const onClick = async () => {
     try {
-        console.log(navigator.share, navigator.canShare(shareData))
-        console.log("navigator.clipboard.writeText", navigator.clipboard.writeText)
-        if (false && navigator.share && navigator.canShare(shareData)) {
-            await navigator.share(shareData);
-            console.log('Content shared successfully!');
-        } else {
+        // console.log(navigator.share, navigator.canShare(shareData))
+        // console.log("navigator.clipboard.writeText", navigator.clipboard.writeText)
+        // if (false && navigator.share && navigator.canShare(shareData)) {
+        //     await navigator.share(shareData);
+        //     console.log('Content shared successfully!');
+        // } else {
             setCopied(true); // Display "copied!"
 
             setTimeout(() => {
@@ -41,7 +41,7 @@ function ShareSvg() {
             }, 1500);
             await navigator.clipboard.writeText(shareText);
             console.log('Share link copied successfully!');
-        }
+        // }
     } catch (err) {
         console.error('Failed to copy share link:', err);
     }
