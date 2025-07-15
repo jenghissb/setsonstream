@@ -101,15 +101,22 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter }) {
   );
 }
 
+function CharacterTerm({toggleCharacter, charName, gameId}) {
+  var charIconPath = charEmojiImagePath(charName, gameId)
+  var charIcon = <img className="charEmojiSearchTerm" key={charName} src={charIconPath}></img>
+  return <div className={"searchTerm"} onClick={() => toggleCharacter(charName, gameId)}>
+    {charIcon} <span>x</span></div>
+}
 
 function SearchTerm({onRemove, searchTerm, index}) {
   return <div className={"searchTerm"} onClick={() => onRemove(index, searchTerm)}>{searchTerm} <span>x</span></div>
 }
 
-export function SearchTerms({searchTerms, onRemove, hasCharFilters, filterType, changeFilterType}) {
+export function SearchTerms({searchTerms, onRemove, hasCharFilters, filterType, changeFilterType, toggleCharacter, gameId, charFilters}) {
   if (hasCharFilters || (searchTerms != null && searchTerms.length > 0)) {
     return <div className='searchTermHolder'>
       {renderFilterTypeButton(filterType, changeFilterType)}
+      {charFilters?.map(item => <CharacterTerm {...{toggleCharacter, charName: item, gameId}} />)}
       {searchTerms?.map((item, index) => <SearchTerm {...{onRemove, searchTerm: item, index}} />)}
     </div>
   }

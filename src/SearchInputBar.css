@@ -51,6 +51,15 @@
   align-self: center;
 }
 
+.charEmojiSearchTerm {
+  width: 20px;
+  height: 20px;
+  margin-top: -6px;
+  margin-bottom: -6px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
 .outerContainer {
   min-width: 48px;
   max-width: 200px;

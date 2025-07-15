@@ -838,7 +838,7 @@ function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shou
   } else {
     filterType = filterInfo.filterType?.live
   }
-  const searchTerms = <SearchTerms searchTerms={gameFilterInfo?.searches} onRemove={onSearchRemove} hasCharFilters={hasCharFilters} filterType={filterType} changeFilterType={changeFilterType}/>
+  const searchTerms = <SearchTerms searchTerms={gameFilterInfo?.searches} onRemove={onSearchRemove} hasCharFilters={hasCharFilters} filterType={filterType} changeFilterType={changeFilterType} toggleCharacter={toggleCharacter} gameId={filterInfo.currentGameId} charFilters={gameFilterInfo?.characters}/>
   return <div className='linkRowHolder'>
     <div className="linkRow">
       {
