@@ -25,7 +25,7 @@ const BlankEmbed = ({width, height}) => {
 }
 const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex, trimHeight, updateChatPref, chatPref}) => {
   const src = `https://www.twitch.tv/embed/${channel}/chat?darkpopout&parent=${window.location.hostname}`
-  const expanded = chatPref?.expanded ?? true
+  const expanded = chatPref?.expanded ?? false
   var coverTop = trimHeight ? 140 : 0
   var coverBottom = trimHeight ? 46 : 0
   // const heightAdj = height + 4
@@ -54,7 +54,7 @@ const TwitchEmbed = ({width, height, channel, setKey, streamSubIndex, trimHeight
 
 const YoutubeEmbed = ({width, height, videoId, setKey, streamSubIndex, trimHeight, updateChatPref, chatPref }) => {
   const src = `https://www.youtube.com/live_chat?v=${videoId}&embed_domain=${`${window.location.hostname}`}`
-  const expanded = chatPref?.expanded ?? true
+  const expanded = chatPref?.expanded ?? false
   var coverTop = trimHeight ? 140 : 0
   var coverBottom = trimHeight ? 0 : 0
   const iframeWidth = width
