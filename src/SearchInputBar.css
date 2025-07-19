@@ -141,3 +141,54 @@
   font-size: large;
 }
 
+.searchUserDropdownItem {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: none;
+  height: 40px;
+  overflow-x: hidden;
+  align-items: center;
+  align-content: center;
+}
+
+/* .searchUserName {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: none;
+  height: 40px;
+  align-items: center;
+  align-content: center;
+} */
+
+
+
+.charemoji {
+  height: 36px;
+  width: 36px;
+}
+
+.charemojimatches {
+  height: 36px;
+  width: 36px;
+  background-image: radial-gradient(#aaffff88, #aaffff00 200%);
+  box-shadow: 0px 0px 30px 2px rgb(170 255 255 / 0.8);
+}
+.schuemoji {
+  height: 36px;
+  width: 36px;
+}
+
+.searchUserName {
+  color: #FFF;
+  font-size: medium;
+  line-height: 1.2;
+  font-weight: bold;
+  /* word-break: break-all;
+  text-decoration: none; */
+  /* -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  paint-order: stroke fill;
+  text-shadow: 1.5px 1.5px 1.5px #000000;
+  display: inline-block; */
+  /* text-shadow: 2px 2px 2px #000000; */
+}

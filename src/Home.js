@@ -83,8 +83,10 @@ const textMatches = (filterInfo, text) => {
   var matches = false
   var Acheck = false
   filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
-    if (text.toLowerCase().indexOf(searchTerm.toLowerCase()) >=0) {
-      matches = true
+    if (typeof searchTerm === "string") {
+      if (text.toLowerCase().indexOf(searchTerm.toLowerCase()) >=0) {
+        matches = true
+      }
     }
   })
   return matches
@@ -128,15 +130,17 @@ function getUrlFilters(filterInfo) {
     youtubeMatch: [],
   }
   filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
-    const twitchMatch = searchTerm.match(twitchRegex)?.[1]
-    const twitchMatchChannel = searchTerm.match(twitchRegexChannel)?.[1]
-    const youtubeMatch = searchTerm.match(youtubeRegex)?.[1]
-    if (twitchMatch != null && twitchMatch.length > 0) {
-      urlFilters.twitchMatch.push(twitchMatch)
-    } else if (twitchMatchChannel != null && twitchMatchChannel.length > 0) {
-      urlFilters.twitchMatchChannel.push(twitchMatchChannel)
-    } else if (youtubeMatch != null && youtubeMatch.length > 0) {
-      urlFilters.youtubeMatch.push(youtubeMatch)
+    if (typeof searchTerm === "string") {
+      const twitchMatch = searchTerm.match(twitchRegex)?.[1]
+      const twitchMatchChannel = searchTerm.match(twitchRegexChannel)?.[1]
+      const youtubeMatch = searchTerm.match(youtubeRegex)?.[1]
+      if (twitchMatch != null && twitchMatch.length > 0) {
+        urlFilters.twitchMatch.push(twitchMatch)
+      } else if (twitchMatchChannel != null && twitchMatchChannel.length > 0) {
+        urlFilters.twitchMatchChannel.push(twitchMatchChannel)
+      } else if (youtubeMatch != null && youtubeMatch.length > 0) {
+        urlFilters.youtubeMatch.push(youtubeMatch)
+      }
     }
   })
   return urlFilters
@@ -174,7 +178,16 @@ function itemMatchesFilter(item, filterInfo, urlFilters) {
   if (textMatches(filterInfo, item.bracketInfo.url)) {
     matchesFilter = true
   }
-
+  filterInfo?.filters[filterInfo.currentGameId]?.searches?.forEach(searchItem => {
+    if (typeof searchItem !== "string" && searchItem.userSlug != null){
+      if (searchItem?.userSlug == item?.player1Info?.userSlug) {
+        matchesFilter = true
+      }
+      if (searchItem?.userSlug == item?.player2Info?.userSlug) {
+        matchesFilter = true
+      }
+    }
+  })
   return matchesFilter
 }
 
@@ -259,6 +272,27 @@ function getDataByTourney(displayData) {
   return tourneyById
 }
 
+function getDropdownSuggestions(data, gameId) {
+  var recentData = data[gameId].vods
+  recentData = [...recentData].sort((a,b) => {
+    return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+  })
+  const usersMap = {}
+  recentData.forEach(set => {
+    var {userSlug, charInfo, nameWithRomaji} = set.player1Info
+    if (userSlug != null) {
+      usersMap[userSlug] = { userSlug, charInfo, nameWithRomaji }
+    }
+    var {userSlug, charInfo, nameWithRomaji} = set.player2Info
+    if (userSlug != null) {
+      usersMap[userSlug] = { userSlug, charInfo, nameWithRomaji }
+    }
+  })
+  
+  return {
+    users: Object.values(usersMap)
+  }
+}
 
 const firebaseConfig = {
   apiKey: "AIzaSyDqeH6lwm1_jGfq2LvSCOtpRqjzOZ0n_pw",
@@ -400,7 +434,9 @@ function MainComponent(homeMode) {
   }
 
   const addSearchTerm = (searchTerm) => {
-    searchTerm = searchTerm.trim()
+    if (typeof searchTerm === "string") {
+      searchTerm = searchTerm.trim()
+    }
     const gameId = filterInfo.currentGameId
 
     var newFilters = {...filterInfo.filters}
@@ -410,6 +446,7 @@ function MainComponent(homeMode) {
     var searches = newFilters[gameId]?.searches ?? [] 
     var newSearches = []
     if (searches.indexOf(searchTerm) > -1) {
+      newSearches = searches
     } else {
       newSearches = [...searches, searchTerm]
     }
@@ -432,6 +469,9 @@ function MainComponent(homeMode) {
     var newSearches = []
     if (searches.indexOf(searchTerm) > -1) {
       newSearches = searches.filter(item => item != searchTerm)
+    } else {
+      newSearches = searches.filter(item => 
+        item.userSlug != null && item.userSlug != searchTerm.userSlug)
     }
     newFilters[gameId].searches = newSearches
     var newFilterInfo = {...filterInfo, filters: newFilters}
@@ -485,7 +525,12 @@ function MainComponent(homeMode) {
 
 
   const onSearch = (searchTerm) => {
-    addSearchTerm(searchTerm)
+    if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => 
+      searchTerm.userSlug != null && searchTerm.userSlug == searchItem.userSlug)) {
+      removeSearchTerm(searchTerm)
+    } else {
+      addSearchTerm(searchTerm)
+    }
   }
 
   const onSearchRemove = (index, searchTerm) => {
@@ -619,7 +664,7 @@ function MainComponent(homeMode) {
       return (
         <div className="overallDiv">
           {
-            renderLinkRow([], filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
+            renderLinkRow([], filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, null)
           }
           <div className="stickyContainer" style={{top: stickyPos}}>
           <div className="flexMapVid">
@@ -632,7 +677,7 @@ function MainComponent(homeMode) {
           </div>
           </div>
           {
-            renderLinkRow([], filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType)
+            renderLinkRow([], filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, null)
           }
           <p>{loadingText}</p>
           { 
@@ -663,6 +708,7 @@ function MainComponent(homeMode) {
       itemKey = displayData[0].bracketInfo.setKey
     }
   }
+  var dropdownSuggestions = getDropdownSuggestions(data, filterInfo.currentGameId)
 
   var preview = null
   
@@ -737,7 +783,7 @@ function MainComponent(homeMode) {
   return (
     <div className="overallDiv">
       {
-        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter)
+        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
       }
       <div className="stickyContainer" style={{top: stickyPos}}>
       <div className="flexMapVid">
@@ -751,7 +797,7 @@ function MainComponent(homeMode) {
       </div>
       </div>
       {
-        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter)
+        renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
       }
       { 
         noData
@@ -825,7 +871,7 @@ function Home({homeMode=HomeModes.MAIN}) {
   );
 }
 
-function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shouldShow, onSearch, onSearchRemove, changeFilterType, toggleCharacter) {
+function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shouldShow, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions) {
   if (!shouldShow) {
     return
   }
@@ -845,7 +891,7 @@ function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shou
         renderLink(jsonData, !showVodsMode)
       }
       <span className="searchAndFilters">
-      <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter}/>
+      <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter} suggestionsInfo={dropdownSuggestions}/>
       {!showBelow && searchTerms}
       </span>
       {renderLiveVodToggle(jsonData, showVodsMode, setShowVodsMode)}
