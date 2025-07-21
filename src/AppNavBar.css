@@ -1,13 +1,19 @@
 .AppNavBar {
+  flex-direction: row;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  align-content: center;
 }
 
 .AppNavBarHolder {
   flex-direction: row;
   display: flex;
   width: 100vw;
-  height: 25px;
+  height: 28px;
   justify-content: flex-start;
   align-items: center;
+  align-content: center;
   background-color: rgb(24, 27, 27);
 }
 
@@ -15,14 +21,17 @@
   font-size: medium;
   margin-right: 10px;
   font-weight: 500;
+  height: 100%;
   color: rgb(211, 210, 210);
   text-decoration: none;
   padding-left: 4px;
+  justify-self: center;
+  align-content: center;
 }
 
 .AppNavBarItem:hover {
-  font-weight: 700;
   color: rgb(153, 160, 168);
+  scale: 1.05;
 }
 
 .shareSvg:active {
@@ -37,4 +46,12 @@
 .shareSvgCopied {
   font-size: smaller;
   color: white;
+}
+
+.AppNavBarLogo {
+  font-size: smaller;
+  color: white;
+  height: 100%;
+  object-fit:cover;
+  object-position: center;
 }

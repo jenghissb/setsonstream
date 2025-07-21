@@ -1,15 +1,14 @@
 // components/Navbar.js
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { getInternalImageUrl } from './Utilities';
 import './AppNavBar.css'
 const AppNavBar = () => {
     return (
     <div className="AppNavBarHolder">
         <nav className="AppNavBar">
-            <Link className="AppNavBarItem" to="/">Home</Link>
-            <Link className="AppNavBarItem" to="/fullmap">Full Map</Link>
-            {/* <Link className="AppNavBarItem" to="/allinlist">All in List</Link> */}
-            <Link className="AppNavBarItem" to="/about">About</Link>
+        <Link className="AppNavBarItem" to="/"><img className="AppNavBarLogo" src={getInternalImageUrl("logoOg3.png")} /></Link>
+        <Link className="AppNavBarItem" to="/about">About</Link>
         </nav>
         <ShareSvg/>
     </div>
