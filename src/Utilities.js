@@ -204,3 +204,19 @@ function checkPropsAreEqual(prevProps, nextProps) {
   })
   return true
 }
+
+export const textMatches = (filterInfo, text) => {
+  if (text == null || text.length == 9) {
+    return false
+  }
+  var matches = false
+  var Acheck = false
+  filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
+    if (typeof searchTerm === "string") {
+      if (text.toLowerCase().indexOf(searchTerm.toLowerCase()) >=0) {
+        matches = true
+      }
+    }
+  })
+  return matches
+}
