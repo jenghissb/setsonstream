@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route, HashRouter, Outlet, useMatches } from "react-router-dom";
 
 import './index.css';
-import Home, {HomeModes} from './Home';
+import Home from './Home';
+import Home2, {HomeModes} from './Home2';
 import About from './About';
 import reportWebVitals from './reportWebVitals';
 import AppNavBar from "./AppNavBar";
@@ -15,6 +16,7 @@ root.render(
       <main>
         <Routes>
           <Route path="/" element={<Layout />}>
+            {/* <Route index element={<Home2 homeMode={HomeModes.MAIN}/>} /> */}
             <Route index element={<Home homeMode={HomeModes.MAIN}/>} />
             <Route path="fullmap" element={<Home homeMode={HomeModes.FULLMAP}/>} />
             <Route path="allinlist" element={<Home homeMode={HomeModes.ALLINLIST}/>} />
@@ -34,6 +36,7 @@ function Layout() {
   return (
     <>
       <header>
+      {/* <header style={{ top: 0, position: "sticky", zIndex: 2004 }}> */}
         <h1 className="visuallyhidden">Setsonstream.tv - Watch Fighting Game Tournaments</h1>
         <p className="visuallyhidden">Stream tournament sets from Smash Ultimate, Street Fighter 6, and more.</p>
         <AppNavBar/>

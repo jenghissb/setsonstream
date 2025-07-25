@@ -59,7 +59,7 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
     }
     setSearchTerm("");
     setShowDropdown(false);
-    if (typeof item === "String") {
+    if (typeof item === "string") {
       toggleCharacter(item, filterInfo.currentGameId)
     } else {
       onSearch(item)
