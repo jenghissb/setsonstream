@@ -14,7 +14,7 @@
 } */
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0f0f0f;
   min-height: calc(100vh - 25px);
   display: flex;
   flex-direction: column;
@@ -133,6 +133,10 @@
 }
 .set-row-3-flex {
   flex-grow: 1;
+  flex-shrink: 0;
+  min-width: 320px;
+  max-width: 400px;
+  flex-basis: 0;
 }
 
 
@@ -145,6 +149,12 @@
   flex-wrap: wrap;
   overflow: hidden;
 }
+
+.setRows-flex::after {
+    content: "";
+    flex-grow: 1;
+}
+
 
 .rowPreviewHolder {
   margin-left: -18px;
@@ -272,7 +282,7 @@
 
 .stickyContainer {
   position: sticky;
-  background: #292C33;
+  background: #0f0f0f;
   z-index: 20;
 }
 

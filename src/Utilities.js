@@ -166,6 +166,17 @@ export function getStreamUrl(streamInfo, index, preferTimestampedVod=false) {
   }
 }
 
+export function getChannelName(streamInfo) {
+  if (streamInfo.streamSource == 'YOUTUBE') {
+    return streamInfo.ytChannelId
+  } else if (streamInfo.streamSource == 'TWITCH') {
+    return streamInfo.forTheatre
+  } else {
+    return streamInfo.channel
+  }
+
+}
+
 export function formatDisplayTimestamp(unixTimestamp) {
   const date = new Date(unixTimestamp * 1000); // Convert seconds to milliseconds
   const now = new Date(); // Current local date and time

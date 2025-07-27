@@ -14,6 +14,7 @@ import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { getAnalytics } from "firebase/analytics";
 import pako from 'pako';
 import { DataRow } from './DataRow.js';
+import { DataRowHybrid } from './DataRowHybrid.js';
 import { FilterType } from './FilterTypeButton.js'
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
@@ -933,7 +934,7 @@ function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamS
       const itemStreamSubIndex = (itemKey == item.bracketInfo.setKey) ? streamSubIndex : 0
       //key={`maindata`}
       return <div key={`${item.bracketInfo.setKey}_dataRowItem`} className={stylename2} index={index}>
-        <DataRow {...{item, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
+        <DataRowHybrid {...{item, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
       </div>
 
     })}
