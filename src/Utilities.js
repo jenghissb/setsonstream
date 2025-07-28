@@ -168,13 +168,12 @@ export function getStreamUrl(streamInfo, index, preferTimestampedVod=false) {
 
 export function getChannelName(streamInfo) {
   if (streamInfo.streamSource == 'YOUTUBE') {
-    return streamInfo.ytChannelId
+    return streamInfo.streamName ?? " " //streamInfo.ytChannelId
   } else if (streamInfo.streamSource == 'TWITCH') {
     return streamInfo.forTheatre
   } else {
     return streamInfo.channel
   }
-
 }
 
 export function formatDisplayTimestamp(unixTimestamp) {
