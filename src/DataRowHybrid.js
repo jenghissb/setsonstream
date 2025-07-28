@@ -29,7 +29,7 @@ export const DataRowHybrid = memo(({item, filterInfo, useVideoInList, handleInde
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
   try {
-    if (item.bracketInfo.endTimeDetected == null) {
+    if (item.bracketInfo.endTimeDetected == null && item.streamInfo.streamSource != "YOUTUBE") {
       const thumbWidth = 440;
       const thumbHeight = 248;//Math.trunc(thumbWidth*9/16)
       tourneyBackgroundUrl = `https://static-cdn.jtvnw.net/previews-ttv/live_user_${item.streamInfo.forTheatre.toLowerCase().normalize()}-${thumbWidth}x${thumbHeight}.jpg`
