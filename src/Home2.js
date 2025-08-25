@@ -606,7 +606,6 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const [filterInfo, setFilterInfo] = useState(initialFilter);
   overrideCurrentGame(homeType, params, filterInfo)
   filterInfo.showVodsMode = true
-  console.log("filterInfo", filterInfo)
   const showVodsMode = filterInfo.showVodsMode
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
