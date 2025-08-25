@@ -1,17 +1,18 @@
 .searchInputBar {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:small;
   text-wrap: wrap;
   text-decoration: none;
   max-lines: 1;
-  background-color: #181c24;
+  background-color: var(--bg-modal);
+  /* background-color: #181c24; */
   border-radius: 10px;
   margin-left: 6px;
   padding: 8px;
   border: 2px solid #888;
   height: 10px;
-  min-width: 48px;
-  max-width: 200px;
+  min-width: 260px;
+  max-width: 300px;
   flex-grow: 1;
   flex-shrink: 1;
   align-self: center;
@@ -23,13 +24,13 @@
 
 
 .searchTerm {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:small;
   text-wrap: none;
   white-space: nowrap;
   text-decoration: none;
   max-lines: 1;
-  background-color: #181c24;
+  background-color: var(--bg-controls);;
   border-radius: 12px;
   padding-top: 6px;
   padding-bottom: 6px;
@@ -62,7 +63,7 @@
 
 .outerContainer {
   min-width: 48px;
-  max-width: 200px;
+  max-width: 300px;
   display:flex;
   flex-grow: 1;
   flex-shrink: 1;
@@ -86,14 +87,14 @@
   /* top: 100%; */
   /* left: 0; */
   width: 60px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--text-main-color-subdue-3);
   list-style: none;
   padding: 0;
   margin-bottom: -1px;
   margin-top: 34px;
   margin-left: 6px;
-  background-color: white;
-  z-index: 21;
+  background-color: var(--text-main-color);
+  z-index: 51000;
 
 }
 
@@ -101,11 +102,12 @@
   padding: 8px;
   cursor: pointer;
   /* color: #ffffff; */
-  width: 180px;
-    background: #292C33;
+  width: 240px;
+  background: var(--bg-modal);
+  /* background: #292C33; */
   height: 40px ;
-  border: 0.5px solid white ;
-  border-right: 1px solid white ;
+  border: 0.5px solid var(--text-main-color);
+  border-right: 1px solid var(--text-main-color) ;
 }
 
 .charDropdownItem {
@@ -127,7 +129,7 @@
   /* height: 36px;
   width: 36px; */
   /* flex-grow: 0; */
-  color:white;
+  color:var(--text-main-color);
   padding-left: 6px;
   font-size: medium;
 }
@@ -136,7 +138,7 @@
   /* height: 36px;
   width: 36px; */
   /* flex-grow: 0; */
-  color:white;
+  color:var(--text-main-color);
   padding-left: 6px;
   font-size: large;
 }
@@ -161,6 +163,26 @@
 } */
 
 
+.searchTourneyIcon {
+  height: 36px;
+  width: 36px;
+  border-radius: 4px;
+  flex-grow: 0;
+}
+
+.searchChannelIcon {
+  height: 36px;
+  width: 36px;
+  border-radius: 18px;
+  flex-grow: 0;
+}
+
+.searchGameIcon {
+  height: 48px;
+  width: 36px;
+  /* border-radius: 18px; */
+  flex-grow: 0;
+}
 
 .charemoji {
   height: 36px;
@@ -179,7 +201,7 @@
 }
 
 .searchUserName {
-  color: #FFF;
+  color:var(--text-main-color);
   font-size: medium;
   line-height: 1.2;
   font-weight: bold;
@@ -191,4 +213,32 @@
   text-shadow: 1.5px 1.5px 1.5px #000000;
   display: inline-block; */
   /* text-shadow: 2px 2px 2px #000000; */
+}
+
+.searchRowContainer {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  /* height: fit-content; */
+  width: fit-content;
+  justify-self: center;
+  align-self: center;
+}
+
+.searchIconContainer {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  background-color: var(--bg-modal);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border: 2px solid gray;
+  height: 26px;
+  width: 26px;
+  margin-left: -3px;
+  /* height:max-content */
 }

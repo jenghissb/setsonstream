@@ -5,7 +5,7 @@ import { charEmojiImagePath, useOnClickOutside } from './Utilities.js'
 import { renderGameList } from './GameList.js'
 function renderXButton(onCloseClick) {
   return <div className="xButton" onClick={onCloseClick}>
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
       <line x1="18" y1="6" x2="6" y2="18"></line>
       <line x1="6" y1="6" x2="18" y2="18"></line>
     </svg>
@@ -30,21 +30,26 @@ function renderCharacters(filterInfo, toggleCharacter) {
   </div>
 }
 
-export const FilterView = (filterInfo, onGameClick, onCloseClick, toggleCharacter) => {
+export const FilterView = (filterInfo, onChangeGame, onCloseClick, toggleCharacter, filterSetting) => {
   // const myRef = useRef();
   // useOnClickOutside(myRef, onCloseClick);
-
+  const gameOnly = filterSetting === "game"
+  const title = gameOnly ? "Select game" : "Filter games and characters"
   var currentGameId = filterInfo.currentGameId
+  var onGameClick = gameOnly ? (item) => {
+    onChangeGame(item)
+    onCloseClick()
+  } : onChangeGame
   return (
     // <div style={{position:'absolute', zIndex: 30, left:0, top:100, position: 'sticky'}}>
     <div className="filterView">
-      <div className="filterTitle">Filter games and characters</div>
+      <div className="filterTitle">{title}</div>
       {
-        renderCharacters(filterInfo, toggleCharacter)
+        !gameOnly && renderCharacters(filterInfo, toggleCharacter)
       }
-        {
-          renderGameList(filterInfo.currentGameId, onGameClick)
-        }
+      {
+        renderGameList(filterInfo.currentGameId, onGameClick)
+      }
       {
         renderXButton(onCloseClick)
       }

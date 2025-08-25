@@ -1,0 +1,22 @@
+#theme-switch{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 4px;
+}
+#theme-switch-1 {
+  display: block;
+}
+#theme-switch-2 {
+  display: none;
+}
+[data-theme="light"] #theme-switch-1{
+  display: none;
+}
+[data-theme="light"] #theme-switch-2{
+  display: block;
+}
+
+#theme-switch:hover{
+  transform: scale(1.1)
+}

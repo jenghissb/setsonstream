@@ -1,6 +1,7 @@
 import './Home.css';
   import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
-import { LeafMap } from './LeafMap.js'
+import { LeafMap } from './LeafMapMin.js'
+// import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
 import { textMatches } from './Utilities.js'
@@ -15,7 +16,8 @@ import { getAnalytics } from "firebase/analytics";
 import pako from 'pako';
 import { DataRow } from './DataRow.js';
 import { DataRowHybrid } from './DataRowHybrid.js';
-import { FilterType } from './FilterTypeButton.js'
+import { FilterType } from './FilterTypeButton.js';
+
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
   FULLMAP: 'FULLMAP',
@@ -480,8 +482,6 @@ function MainComponent(homeMode) {
     setFilterInfo(newFilterInfo)
   }
 
-
-
   const onTimeRangeChanged = (value) => {
     const gameId = filterInfo.currentGameId
     
@@ -742,7 +742,7 @@ function MainComponent(homeMode) {
     preview = <div className="topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
     if((showMapBeside || showChatBesideNextLine || showChatBeneath) && useLiveStream == true && !showVodsMode) {
       const chatHeight = showChatBeneath ? 140 : height
-      chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:showChatBeneath, updateChatPref, chatPref: filterInfo.chat})
+      chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:showChatBeneath, updateChatPref, chatPref: filterInfo.chat, showExpandMinim: showChatBeneath})
     }
   }
   var noData = null

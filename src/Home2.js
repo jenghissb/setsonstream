@@ -1,20 +1,42 @@
 import './Home2.css';
-  import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
-import { LeafMap } from './LeafMap.js'
+import React, { useState, useEffect, useMemo, memo, useRef, useCallback, useContext } from 'react';
+import { Helmet } from "react-helmet-async";
+import { LeafMap } from './LeafMapMin.js'
+// import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
-import { textMatches } from './Utilities.js'
-import { GameIds, getDefaultTimeRange, VideoGameInfoById } from './GameInfo.js'
+import { checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon } from './Utilities.js'
+import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
-import { SearchInputBar, SearchTerms } from "./SearchInputBar.js"
+import { SearchInputBar, SearchTerms, SearchInputBarWithIcon } from "./SearchInputBar.js"
 import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { getAnalytics } from "firebase/analytics";
 import pako from 'pako';
 import { DataRow } from './DataRow.js';
+import { DataRowHybrid } from './DataRowHybrid.js';
 import { FilterType } from './FilterTypeButton.js'
+import { PlayerPage } from './PlayerPage.js'
+import { NowPlaying } from './NowPlaying.js';
+import { SubEmbedControls, SubEmbeds } from './SubEmbedControls.js';
+import ThreePaneLayout from "./ThreePaneLayout";
+import { ThemeContext } from './ThemeContext';
+import { useParams, Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
+import Star from "./Star";
+import { HorizontalVirtualList, VirtualList, VideoDataGrid, AutoVideoGrid, VirtualVideoGrid, AdaptiveVirtualVideoGrid, AdaptiveVirtualVideoGrid2 } from './AutoVideoGrid.js';
+
+export const HomeTypes = Object.freeze({
+  HOME: 'HOME',
+  GAME: 'GAME',
+  CHARACTER: 'CHARACTER',
+  PLAYER: 'PLAYER',
+  TOURNAMENT: 'TOURNAMENT',
+  CHANNEL: 'CHANNEL',
+});
+
 export const HomeModes = Object.freeze({
   MAIN: 'MAIN',
   FULLMAP: 'FULLMAP',
@@ -49,6 +71,12 @@ function getInitialFilter() {
   if (filterInfo.filters[filterInfo.currentGameId].characters == undefined) {
     filterInfo.filters[filterInfo.currentGameId].characters = []
   }
+  Object.keys(filterInfo.filters).forEach(gameKey => {
+    const filtersForGame = filterInfo.filters[gameKey]
+    if (filtersForGame && filtersForGame.searches != null) {
+      filtersForGame.searches = filtersForGame.searches.filter(item => typeof item === 'object')
+    }
+  })
   return filterInfo
 }
 
@@ -130,13 +158,13 @@ function getUrlFilters(filterInfo) {
   return urlFilters
 }
 
-function itemMatchesFilter(item, filterInfo, urlFilters) {
+function itemMatchesFilter(item, filterInfo, urlFilters, favMap) {
   var matchesFilter = false
-  filterInfo?.filters[filterInfo.currentGameId]?.characters?.forEach(charName => {
-    if (hasCharacter(item, charName)) {
-      matchesFilter = true
-    }
-  })
+  // filterInfo?.filters[filterInfo.currentGameId]?.characters?.forEach(charName => {
+  //   if (hasCharacter(item, charName)) {
+  //     matchesFilter = true
+  //   }
+  // })
   if (textMatches(filterInfo, item.bracketInfo.tourneyName)) {
     matchesFilter = true
   }
@@ -163,17 +191,69 @@ function itemMatchesFilter(item, filterInfo, urlFilters) {
     matchesFilter = true
   }
   filterInfo?.filters[filterInfo.currentGameId]?.searches?.forEach(searchItem => {
-    if (typeof searchItem !== "string" && searchItem.userSlug != null){
-      if (searchItem?.userSlug == item?.player1Info?.userSlug) {
-        matchesFilter = true
-      }
-      if (searchItem?.userSlug == item?.player2Info?.userSlug) {
-        matchesFilter = true
+    if (typeof searchItem !== "string") {
+      if (searchItem.userSlug != null) {
+        var hasAdded = false
+        if (searchItem?.userSlug == item?.player1Info?.userSlug) {
+          matchesFilter = true
+          if (favMap != null) {
+            favMap.set(searchItem, favMap.get(searchItem)?? [])
+            favMap.get(searchItem).push(item)
+          }
+          // favMap && (favMap[searchItem] = (favMap[searchItem] ?? []).push(item))
+          hasAdded = true
+        }
+        if (searchItem?.userSlug == item?.player2Info?.userSlug) {
+          if (favMap != null) {
+            favMap.set(searchItem, favMap.get(searchItem)?? [])
+            favMap.get(searchItem).push(item)
+          }
+          matchesFilter = true
+        }
+      } else if (searchItem.tourneySlug != null) {
+        if (searchItem?.tourneySlug == getTourneySlug(item?.bracketInfo)) {
+          if (favMap != null) {
+            favMap.set(searchItem, favMap.get(searchItem)?? [])
+            favMap.get(searchItem).push(item)
+          }
+          matchesFilter = true
+        }
+      } else if (searchItem.channelName != null) {
+        if (searchItem?.channelName == getChannelSlug(item?.streamInfo)) {
+          if (favMap != null) {
+            favMap.set(searchItem, favMap.get(searchItem)?? [])
+            favMap.get(searchItem).push(item)
+          }
+          matchesFilter = true
+        }
+      } else if (searchItem?.charName != null) {
+        if (hasCharacter(item, searchItem?.charName)) {
+          if (favMap != null) {
+            favMap.set(searchItem, favMap.get(searchItem)?? [])
+            favMap.get(searchItem).push(item)
+          }
+          matchesFilter = true
+        }
       }
     }
   })
   return matchesFilter
 }
+
+function getChannelSlug(streamInfo) {
+  return getChannelName(streamInfo)
+  // if (streamInfo.streamSource == "YOUTUBE") {
+  //   returen streamInfo.channel
+  // }
+  // const url = bracketInfo?.url ?? "";
+  // const prefix = "https://www.start.gg/tournament/"
+  // if (url.startsWith(prefix))
+  //   return url.slice(prefix.length)
+  // return ""
+  // //"https://www.start.gg/tournament/versus-reborn-216"
+
+}
+
 
 function printNumberOfVods(data) {
   var vodCount = []
@@ -188,47 +268,155 @@ function printNumberOfVods(data) {
 
 function filterInfoHasFiltersForCurrentGame(filterInfo) {
   const gameFilterInfo = filterInfo.filters[filterInfo.currentGameId]
-  const hasCharFilters = (gameFilterInfo?.characters ?? []).length > 0
+  // const hasCharFilters = (gameFilterInfo?.characters ?? []).length > 0
   const hasSearchFilters = (gameFilterInfo?.searches ?? []).length > 0
-  return hasCharFilters || hasSearchFilters
+  return hasSearchFilters
 }
 
-function getDisplayData(data, filterInfo, showVodsMode) {
+function getRouteFilterInfo(homeType, params) {
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
+  var routeFilterInfo = null
+  switch (homeType) {
+    case HomeTypes.CHARACTER: {
+      const gameId = VideoGameInfoByGameSlug[gameParam].id
+      routeFilterInfo = {
+        currentGameId: gameId,
+        filters: {
+          [gameId]: {
+            searches: [{charName: charParam}]
+            // characters: [charParam]
+          }
+        }
+      }
+    }
+    break;
+    case HomeTypes.PLAYER: {
+      const gameId = VideoGameInfoByGameSlug[gameParam].id
+      routeFilterInfo = {
+        currentGameId: gameId,
+        filters: {
+          [gameId]: {
+            searches: [{userSlug: playerParam}]
+          }
+        }
+      }
+    }
+    break;
+    case HomeTypes.CHANNEL: {
+      const gameId = VideoGameInfoByGameSlug[gameParam].id
+      routeFilterInfo = {
+        currentGameId: gameId,
+        filters: {
+          [gameId]: {
+            searches: [{channelName: channelParam}]
+          }
+        }
+      }
+    }
+    break;
+    case HomeTypes.TOURNAMENT: {
+      const gameId = VideoGameInfoByGameSlug[gameParam].id
+      routeFilterInfo = {
+        currentGameId: gameId,
+        filters: {
+          [gameId]: {
+            searches: [{tourneySlug: tourneyParam}]
+          }
+        }
+      }
+    }
+    break;
+  }
+  return routeFilterInfo
+}
+
+function getFavoriteSuggestionFromRoute(homeType, params, filterInfo) {
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
+  var routeFilterInfo = null
+  const gameId = VideoGameInfoByGameSlug[gameParam]?.id
+  switch (homeType) {
+    case HomeTypes.CHARACTER:
+      return filterInfo.filters[gameId]?.searches?.find(item => item.charName == charParam)
+      // return filterInfo?.filters[gameId]?.characters.includes(charParam) ? true : undefined
+      // return suggestions.games.find(item => item.tourneySlug == tourneyParam)
+    case HomeTypes.GAME:
+      return filterInfo?.filters[gameId]?.fav == true ? true: undefined
+      // return suggestions.games.find(item => item.tourneySlug == tourneyParam)
+    case HomeTypes.PLAYER:
+      return filterInfo.filters[gameId]?.searches?.find(item => item.userSlug == playerParam)
+    case HomeTypes.TOURNAMENT:
+      return filterInfo?.filters[gameId]?.searches?.find(item => item.tourneySlug == tourneyParam)
+    case HomeTypes.CHANNEL:
+      return filterInfo?.filters[gameId]?.searches?.find(item => item.channelName == channelParam)
+    default:
+      return null
+  }
+}
+
+// function setFavoriteFromRoute(homeType, params, filterInfo) {
+//   return homeType, params, filterInfo
+// }
+
+function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
+
+  const gameId = filterInfo.currentGameId
+  const gameInfo = gameId ? VideoGameInfoById[gameId] : null
+  const gameSlug = gameInfo?.gameSlug
   var dataToStart = data[filterInfo.currentGameId].live
   const hasFilters = filterInfoHasFiltersForCurrentGame(filterInfo)
   if (showVodsMode) {
-    dataToStart = data[filterInfo.currentGameId].vods
-    const timeRange = filterInfo.filters[filterInfo.currentGameId]?.timeRange ?? getDefaultTimeRange(filterInfo.currentGameId)
-    if (timeRange != null) {
-      const timeStart = Date.now()/1000 + timeRange[0]*24*60*60
-      const timeEnd = Date.now()/1000 + timeRange[1]*24*60*60
-      const isTimePlus =  timeRange < -7.5
-      dataToStart = dataToStart.filter(item => ((isTimePlus || item.bracketInfo.startedAt > timeStart)
-         && item.bracketInfo.startedAt < timeEnd + 3500*1.5))
+    // dataToStart = data[filterInfo.currentGameId].vods
+    dataToStart = data[filterInfo.currentGameId].combined
+    if (homeType == HomeTypes.HOME || homeType == HomeTypes.GAME) {
+      const timeRange = filterInfo.filters[filterInfo.currentGameId]?.timeRange ?? getDefaultTimeRange(filterInfo.currentGameId)
+      if (timeRange != null) {
+        const timeStart = Date.now()/1000 + timeRange[0]*24*60*60
+        const timeEnd = Date.now()/1000 + timeRange[1]*24*60*60
+        const isTimePlus =  timeRange < -7.5
+        dataToStart = dataToStart.filter(item => ((isTimePlus || item.bracketInfo.startedAt > timeStart)
+          && item.bracketInfo.startedAt < timeEnd + 3500*1.5))
+      }
     }
   }
-  var sortedData = [...dataToStart].sort((a,b) => {
-    return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
-  })
-  if (showVodsMode) {
-    sortedData = [...dataToStart].sort((a,b) => {
-      return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
-    })
+  var sortedData = [...dataToStart]
+  // sorted after fetch now
+  // var sortedData = [...dataToStart].sort((a,b) => {
+  //   return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+  // })
+  // if (showVodsMode) {
+  //   sortedData = [...dataToStart].sort((a,b) => {
+  //     return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+  //   })
+  // }
+  const routeFilterInfo = getRouteFilterInfo(homeType, params)
+  const favMap = new Map()
+
+  if (routeFilterInfo != null ) {
+    const urlFilters = getUrlFilters(routeFilterInfo)
+    sortedData = sortedData.filter(item => itemMatchesFilter(item, routeFilterInfo, urlFilters))
   }
-  if (hasFilters) {
+  else if (hasFilters) {
     const urlFilters = getUrlFilters(filterInfo)
+    // Search reorder deprecated
     sortedData.forEach(item => {
-      item.matchesFilter = itemMatchesFilter(item, filterInfo, urlFilters)
+      const itemDoesMatch = itemMatchesFilter(item, filterInfo, urlFilters, favMap)
+      item.matchesFilter = itemDoesMatch
     })
-    sortedData = [...sortedData].sort((a,b) => {
-      return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
-    })
-    const filterType = (showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live) ?? FilterType.HIGHLIGHT
-    if (filterType == FilterType.FILTER) {
-      sortedData = sortedData.filter((it) => it.matchesFilter)
-    }
+    // Search reorder deprecated
+    // sortedData = [...sortedData].sort((a,b) => {
+    //   return (a.matchesFilter === b.matchesFilter) ? 0 : (a.matchesFilter ? -1 : 1);
+    // })
+    // const filterType = (showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live) ?? FilterType.HIGHLIGHT
+    // FilterType removal deprecated
+    // const filterType = FilterType.HIGHLIGHT;
+    // if (filterType == FilterType.FILTER) {
+    //   sortedData = sortedData.filter((it) => it.matchesFilter)
+    // }
   }
-  return sortedData
+  favMap.set({gameId, gameSlug}, sortedData)
+  const favkeysOrdered = Array.from(favMap.keys());
+  // const favkeysOrdered = Object.keys(favMap) ?? []
+  return {favMap, favkeysOrdered, displayData:sortedData}
 }
 
 function displayDataHasItemKey(displayData, itemKey) {
@@ -272,9 +460,37 @@ function getDropdownSuggestions(data, gameId) {
       usersMap[userSlug] = { userSlug, charInfo, nameWithRomaji }
     }
   })
+  const tourneysMap = {}
+  recentData.forEach(set => {
+    var {tourneyName, locationStrWithRomaji } = set.bracketInfo
+    const tourneySlug = getTourneySlug(set.bracketInfo)
+    const tourneyIcon = set.bracketInfo.images[0]?.url ?? null
+    if (tourneySlug != null) {
+      tourneysMap[tourneySlug] = { tourneyName, tourneySlug, locationStrWithRomaji, tourneyIcon }
+    }
+  })
+  const streamsMap = {}
+  recentData.forEach(set => {
+    var { streamIcon} = set.streamInfo
+    const streamName = getChannelName(set.streamInfo)
+    if (streamName != null) {
+      streamsMap[streamName] = { channelName: streamName, streamIcon }
+    }
+  })
+  const gamesMap = {}
+  VideoGameInfo.forEach(gameInfo => {
+    var {gameSlug, name, displayName, id, images} = gameInfo
+    if (id != null) {
+      gamesMap[id] = { gameSlug, gameName: name, gameDisplayName: displayName, gameId: id, gameImage: images.at(-1).url }
+    }
+  })
   
   return {
-    users: Object.values(usersMap)
+    users: Object.values(usersMap),
+    tourneys: Object.values(tourneysMap),
+    streams: Object.values(streamsMap),
+    games: Object.values(gamesMap),
+    characters: charactersAsSuggestionArr(gameId) ?? []
   }
 }
 
@@ -327,11 +543,71 @@ function getInitialShowVodsMode(currentGameId, data ) {
   }
 }
 
-function MainComponent(homeMode) {
+function getRouteName(homeType, params) {
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam } = params
+  switch(homeType) {
+    case HomeTypes.CHARACTER:
+      return charParam
+    case HomeTypes.GAME:
+      return gameParam
+    case HomeTypes.PLAYER:
+      return playerParam
+    case HomeTypes.TOURNAMENT:
+      return tourneyParam
+    case HomeTypes.CHANNEL:
+      return channelParam
+    default:
+      return "Home"
+  }
+}
+
+function overrideCurrentGame(homeType, params, filterInfo) {
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam } = params
+  switch(homeType) {
+    case HomeTypes.CHARACTER:
+    case HomeTypes.GAME:
+    case HomeTypes.PLAYER:
+    case HomeTypes.TOURNAMENT:
+    case HomeTypes.CHANNEL:
+      const gameId = VideoGameInfoByGameSlug[gameParam].id
+      filterInfo.currentGameId = gameId
+    default:
+  }
+}
+
+function getRouteInfoFromSuggestions(homeType, params, suggestions) {
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam } = params
+  const gameId = gameParam ? VideoGameInfoByGameSlug[gameParam].id : null
+  switch(homeType) {
+    case HomeTypes.CHARACTER:
+      return suggestions.characters.find(item => item.charName == charParam)
+      // return suggestions.games.find(item => item.tourneySlug == tourneyParam)
+      return null;
+    case HomeTypes.GAME:
+      return suggestions.games.find(item => item.gameId == gameId)
+    case HomeTypes.PLAYER:
+      return suggestions.users.find(item => item.userSlug == playerParam)
+    case HomeTypes.TOURNAMENT:
+      return suggestions.tourneys.find(item => item.tourneySlug == tourneyParam)
+    case HomeTypes.CHANNEL:
+      return suggestions.streams.find(item => item.channelName == channelParam)
+    default:
+      return null
+  }
+}
+
+function MainComponent({homeMode, homeType, darkMode}) {
+  const params = useParams()
   // localStorage.removeItem("filterInfo"))
   // return
   // const [showVodsMode, setShowVodsMode] = useState(false);
-  const [filterInfo, setFilterInfo] = useState(getInitialFilter());
+
+  const initialFilter = getInitialFilter();  
+  const [filterInfo, setFilterInfo] = useState(initialFilter);
+  overrideCurrentGame(homeType, params, filterInfo)
+  filterInfo.showVodsMode = true
+  console.log("filterInfo", filterInfo)
+  const showVodsMode = filterInfo.showVodsMode
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -344,10 +620,12 @@ function MainComponent(homeMode) {
   const [rewindRef, setRewindRef] = useState(null); 
   // const [currentTimest, setCurrentItemKey] = useState(null);
   const [controlsOn, setControlsOn] = useState(false); 
-
+  const [subEmbedToggle, setSubEmbedToggle] = useState(""); 
   const currentGameId = filterInfo.currentGameId
+  const currentGameIdRef = useRef(currentGameId);
+  currentGameIdRef.current = currentGameId
   // const showVodsMode = filterInfo.showVodsMode || false
-  const showVodsMode = filterInfo.showVodsMode ?? getInitialShowVodsMode(currentGameId, data)
+  // const showVodsMode = filterInfo.showVodsMode ?? getInitialShowVodsMode(currentGameId, data)
 
   const currentItemKeyRef = useRef(currentItemKey);
   const currentPlayerRef = useRef(currentPlayer);
@@ -367,7 +645,7 @@ function MainComponent(homeMode) {
     useVideoIn.panel = false
     useVideoIn.list = true
   }
-  const handleIndexChange = useCallback((newSetKey) => {
+  const handleIndexChange = useCallback((newSetKey, catInfo) => {
     if (currentItemKeyRef.current != newSetKey) {
       setStreamSubIndex(0)
       if (currentItemKeyRef.current != null) {
@@ -376,6 +654,9 @@ function MainComponent(homeMode) {
     }
     currentItemKeyRef.current = newSetKey
     setCurrentItemKey(newSetKey)
+    if (catInfo != null) {
+      navigate(getLinkFromSearch(catInfo, currentGameIdRef.current))
+    }
   }, []);
 
   const updateCurrentGame = (newGameId) => {
@@ -398,6 +679,8 @@ function MainComponent(homeMode) {
   }
 
   const toggleCharacter = (charName, gameId) => {
+    return
+    // Deprecated
     var newFilters = {...filterInfo.filters}
     if (newFilters[gameId] == undefined) {
       newFilters[gameId] = {}
@@ -509,11 +792,39 @@ function MainComponent(homeMode) {
 
 
   const onSearch = (searchTerm) => {
-    if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => 
-      searchTerm.userSlug != null && searchTerm.userSlug == searchItem.userSlug)) {
-      removeSearchTerm(searchTerm)
-    } else {
-      addSearchTerm(searchTerm)
+    const searches = filterInfo.filters[filterInfo.currentGameId]?.searches
+    if (searchTerm.userSlug != null) {
+      if (searches?.some(searchItem => 
+        searchTerm.userSlug == searchItem.userSlug)
+      ) {
+        removeSearchTerm(searchTerm)
+      } else {
+        addSearchTerm(searchTerm)
+      }
+    } else if (searchTerm.channelName != null) {
+      if (searches?.some(searchItem => 
+        searchTerm.channelName == searchItem.channelName)
+      ) {
+        removeSearchTerm(searchTerm)
+      } else {
+        addSearchTerm(searchTerm)
+      }
+    } else if (searchTerm.gameSlug != null) {
+      if (searches?.some(searchItem => 
+        searchTerm.gameSlug == searchItem.gameSlug)
+      ) {
+        removeSearchTerm(searchTerm)
+      } else {
+        addSearchTerm(searchTerm)
+      }
+    } else if (searchTerm.charName != null) {
+      if (searches?.some(searchItem => 
+        searchTerm.charName == searchItem.charName)
+      ) {
+        removeSearchTerm(searchTerm)
+      } else {
+        addSearchTerm(searchTerm)
+      }
     }
   }
 
@@ -521,6 +832,23 @@ function MainComponent(homeMode) {
     removeSearchTerm(searchTerm)
   }
 
+  const getSearchItemKey = (item) => {
+    if (typeof searchItem === "string") {
+      return `string_searchItem`
+    } else if (item?.userSlug) {
+      return `userSlug_${item?.userSlug}`
+    } else if (item?.channelName) {
+      return `channelName_${item?.channelName}`
+    } else if (item?.gameSlug) {
+      return `gameSlug_${item?.gameSlug}`
+    } else if (item?.charName) {
+      return `charName_${item?.charName}`
+    } else if (item?.tourneySlug) {
+      return `tourneySlug_${item?.tourneySlug}`
+    } else {
+      return
+    }
+  }
 
   const handleTimestampChange = useCallback((newSeconds, rewindAmount=0) => {
     // rewindAmount = -1.0/60
@@ -569,6 +897,13 @@ function MainComponent(homeMode) {
     height: window.innerHeight,
   });
 
+  const topRef = useRef(null);
+  const scrollUpRef = useRef(null);
+  const rightPane = useRef(null);
+  const centerPane = useRef(null);
+
+  const navigate = useNavigate();
+
   useEffect(() => {
     const handleResize = () => {
       setDimensions({
@@ -601,9 +936,31 @@ function MainComponent(homeMode) {
             })
           })
         })
+        //merge live and vod
+        const liveSet = {}
+        Object.keys(data).forEach((key1) => {
+          const combined = []
+          const gameVids = data[key1]
+          
+          gameVids.live.sort((a,b) => {
+            return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+          })
+          gameVids.live.forEach(item => {
+            liveSet[item.bracketInfo.setKey] = true
+            combined.push(item);
+          })
+          gameVids.vods.sort((a,b) => {
+            return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+          })
+          gameVids.vods.forEach(item => {
+            if (!(item.bracketInfo.setKey in liveSet)) {
+              combined.push(item);
+            }
+          })
+          gameVids.combined = combined
+        })
         setData(data);
         // printNumberOfVods(data)
-        // console.log(data)
       } catch (err) {
         setError(err);
       } finally {
@@ -618,9 +975,11 @@ function MainComponent(homeMode) {
   var loadingText = `Loading ${gameName} sets ...`
   var targetWidth = 854
   var targetHeight = 480
-  const chatWidth = Math.min(window.innerWidth, 400)
+  var chatWidth = Math.min(window.innerWidth, 400)
+  var sideChatWidth = 340 // 310
   // var width = Math.min(window.innerWidth, targetWidth)
-  var width = window.innerWidth - chatWidth; //Math.min(window.innerWidth, targetWidth)
+  var width = window.innerWidth - sideChatWidth; //Math.min(window.innerWidth, targetWidth)
+  if (width <= 600) width = window.innerWidth
   var height = Math.floor(width*9/16.0)
   if (height > 0.8 * window.innerHeight) {
     height = 0.8*window.innerHeight
@@ -628,9 +987,7 @@ function MainComponent(homeMode) {
   }
   var mainVideoDim = { width, height }
 
-
-  const topRef = useRef(null);
-  const scrollUpRef = useRef(null);
+  
   const headerHeight = 26
   const onChangeGame = (gameInfo) => {
     updateCurrentGame(gameInfo.id)
@@ -639,6 +996,11 @@ function MainComponent(homeMode) {
       window.scrollTo({top: -stickyPos+headerHeight})
     }
   }
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam } = params
+  useEffect(() => {
+    rightPane.current?.scrollTo({top:0})
+    centerPane.current?.scrollTo({top:0})
+  }, [homeType, gameParam, charParam, tourneyParam, channelParam, playerParam]);
 
   // if (loading) {
   //   if (useVideoIn.panel == true) {
@@ -676,10 +1038,31 @@ function MainComponent(homeMode) {
   //   }
   // }
 
-  if (loading) return <p>{loadingText}</p>;
-  if (error) return <p>Error: {error.message}</p>;
-  
-  var displayData = getDisplayData(data, filterInfo, showVodsMode)
+  // var displayData = getDisplayData(homeType, params, data, filterInfo, showVodsMode)
+
+  var displayDataInfo = useMemo(() => {
+    if (loading || error) return null
+    return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
+  }, [homeType, params, data, filterInfo, showVodsMode])
+
+  const displayData = displayDataInfo?.displayData || []
+  const favMap = displayDataInfo?.favMap || {}
+  const favkeysOrdered = displayDataInfo?.favkeysOrdered || []
+  // var displayDatas = useMemo(() => {
+  //   if (loading || error) return null
+  //   return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
+  // }, [homeType, params, data, filterInfo, showVodsMode])
+
+
+  if (loading) return <div className="home2LoadingSyle">{loadingText}</div  >;
+  if (error) return <div>Error: {error.message}</div>;
+
+  // const showUser = true
+  // const playerPageInfo = data["1386"]?.vods[0].player1Info 
+  // if (showUser  && data != null) {
+  //   return <PlayerPage playerInfo={playerPageInfo}/>
+  // }
+
   if (displayData == null) {
     displayData = []
   }
@@ -694,7 +1077,7 @@ function MainComponent(homeMode) {
     }
   }
   var dropdownSuggestions = getDropdownSuggestions(data, filterInfo.currentGameId)
-
+  var routeInfo = getRouteInfoFromSuggestions(homeType, params, dropdownSuggestions)
   var preview = null
   
   const handleReady = player => {
@@ -718,33 +1101,60 @@ function MainComponent(homeMode) {
   // if (!showMapBeside) {
   //   stickyPos -= height
   // }
+  const useHomeTypeLists = homeType === HomeTypes.HOME //homeType in [HomeTypes.HOME]
+  const useSingleList = !useHomeTypeLists
 
-  var showChatBeneath = width > window.innerWidth-2
-  var showChatBesideNextLine = false;
-  if (!showChatBeneath && !showMapBeside) {
-    if (width + chatWidth < window.innerWidth) {
-      showChatBesideNextLine = true
-      if (hasChat) {
-        mapWidth += chatWidth;
-      }
-    } else {
-      showChatBeneath = true
-    }
+
+  const notLowWidth = width > 600
+  const hasRightPane = notLowWidth && !useHomeTypeLists
+  const showSearchWithRoute = notLowWidth
+  const showSubEmbed = !notLowWidth && !useHomeTypeLists
+  // const hasRightPane = false
+  // if (hasRightPane) chatWidth = 310
+  if (!hasRightPane) {
+    chatWidth = "100%"
+  } else {
+    chatWidth = sideChatWidth
+
   }
+  const centerWidth = hasRightPane ? window.innerWidth - chatWidth : window.innerWidth
+
+  var showChatBeneath = !hasRightPane;
+  // var showChatBeneath = width > window.innerWidth-2
+  var showChatBesideNextLine = false;
+  // if (!showChatBeneath && !showMapBeside) {
+  //   if (width + chatWidth < window.innerWidth) {
+  //     showChatBesideNextLine = true
+  //     if (hasChat) {
+  //       mapWidth += chatWidth;
+  //     }
+  //   } else {
+  //     showChatBeneath = true
+  //   }
+  // }
   mapWidth = chatWidth
   mapHeight = "240px"
   var chat = null
+  var previewItem = null
   if (useVideoIn.panel == true) {
-    var previewItem = null
     if (displayData.length > 0) {
       previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
     }
-    const vidWidth = `${width}px`
-    const vidHeight = `${height}px`
-    preview = <div className="home2topContainer">{MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && !showVodsMode, currentVideoOffset, handleReady, onProgress})}</div>
-    if((showMapBeside || showChatBesideNextLine || showChatBeneath) && useLiveStream == true && !showVodsMode) {
-      const chatHeight = showChatBeneath ? 140 : height
-      chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:showChatBeneath, updateChatPref, chatPref: filterInfo.chat})
+    // const vidWidth = `${width}px`
+    // const vidHeight = `${height}px`
+    // const vidWidth = `100%-${310}px`
+    // const vidHeight = `${height}px`
+    // const vidHeight = `100vw`
+    const vidWidth = "100%"
+    const vidHeight = "100%"
+    const previewSupportsLive = previewItem?.bracketInfo?.endTimeDetected == null
+    preview = MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && previewSupportsLive, currentVideoOffset, handleReady, onProgress})
+    if((true || showMapBeside || showChatBesideNextLine || showChatBeneath) && useLiveStream == true && previewSupportsLive) {
+      // const chatHeight = showChatBeneath ? 140 : height
+      // const chatHeight = showChatBeneath ? 140 : 350;
+      const chatHeight = showChatBeneath ? 240 : 350;
+      // chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:true, updateChatPref, chatPref: filterInfo.chat, showExpandMinim: false})
+      chat = MediaChat({width: chatWidth, height: chatHeight, item: previewItem, streamSubIndex, useLiveStream, trimHeight:true, updateChatPref, chatPref: {expanded: true}, showExpandMinim: false})
     }
   }
   var noData = null
@@ -760,6 +1170,7 @@ function MainComponent(homeMode) {
       afterData = AfterData(showVodsMode, setShowVodsMode)
     }
   }
+  const itemStreamSubIndex = (previewItem != null && itemKey == previewItem.bracketInfo.setKey) ? streamSubIndex : 0
 
   // var showChatBeside = chatWidth+2*width <= window.innerWidth
   // var overallStyle = {}
@@ -767,16 +1178,177 @@ function MainComponent(homeMode) {
   //   overallStyle = {height: "100dvh"}
   // }
 
+  // return       <ThreePaneLayout />
+  // const previewStyle = hasRightPane ? {} : {position: "sticky", top: 0, zIndex:30000, alignSelf: "center"}
+  // const previewScale = window.scrollY
+  const previewStyle = notLowWidth ? 
+     {position: "sticky", top: useHomeTypeLists? "48px" : "0px", zIndex:30000, alignSelf: "center"}
+   : {position: "sticky", top: "78px", zIndex:30000, alignSelf: "center"}
+  if (useHomeTypeLists) {
+    // previewStyle.height = "38%"
+    // previewStyle.width = "min(max(30%, 180px), 500px)"
+    previewStyle.maxWidth = "min(max(30%, 180px), 500px)"
+  }
+
+  const titleStyle = hasRightPane ? {zIndex:30004} : {position: "sticky", top: 0, zIndex:30004, background: "var(--bg-main)"}
+
+
+  // const subEmbedToggle = SubEmbeds.MAP;
+  const subEmbedTypes = chat != null ? [SubEmbeds.CHAT, SubEmbeds.BRACKET, SubEmbeds.MAP] : [SubEmbeds.BRACKET, SubEmbeds.MAP]
+  const subEmbedsExpanded = Object.values(subEmbedTypes).includes(subEmbedToggle)
+  const subEmbedHeight = subEmbedsExpanded ? "240px" : "40px"
+  const routeName = getRouteName(homeType, params)
+
+
+  // return (
+  //   <div className="home2overallDiv">
+  //     {
+  //       // renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
+  //     }
+  //     {
+  //       // <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} />
+  //     }
+  //     {/* <ThreePaneLayout /> */}
+  //     <div className="home2threePanes">
+  //       <div className="home2centerPane">
+  //         { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
+  //         <div className="home2titleBar">
+  //           <RouteInfo {...{routeInfo, homeType, params}} />
+  //           {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
+  //         </div>
+  //       <div className="home2previewContainer" style={previewStyle}>
+  //         {
+  //           preview
+  //         }
+  //       </div>
+  //       {/* <div style={{width: "500px", height:"1px", backgroundColor:"#aaccff00"}} /> */}
+  //       {/* {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }         */}
+  //       {
+  //         previewItem && <NowPlaying {...{setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}} />
+  //       }
+
+  //     </div>
+  //   </div>
+  //   </div>
+  // )
+
+  return (
+    <div className="home2overallDiv">
+      {
+        // renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
+      }
+      {
+        // <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} />
+      }
+      {/* <ThreePaneLayout /> */}
+      <div className="home2threePanes">
+        <div className="home2centerPane" ref={centerPane}>
+          <div style={titleStyle}>
+            { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
+            <div className="home2titleBar">
+              <RouteInfo {...{routeInfo, homeType, params, filterInfo, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
+              {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
+              <div className="emptyDiv"/>
+              </div>
+            </div>
+          <div className="home2previewContainer" style={previewStyle}>
+          {
+            preview
+          }
+          </div>
+          {
+            previewItem && <NowPlaying {...{setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}} />
+
+          }
+          {
+            // renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
+          }
+          { 
+            noData
+          }
+          {
+          hasRightPane && previewItem && <BracketEmbed totalWidth={centerWidth} height={240} src={previewItem.bracketInfo.phaseGroupUrl}/>
+          }
+          {showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
+            <div className="home2SubEmbedChatContainer" style={subEmbedToggle==SubEmbeds.CHAT ? {} : {display: "none"}}>
+              {
+                chat
+              }
+            </div>
+            {
+              subEmbedToggle==SubEmbeds.MAP && <div className="home2SubEmbedControlsContainer">{Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, "100dvw", mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+              }</div>
+            }
+            {
+            subEmbedToggle==SubEmbeds.BRACKET && previewItem && <div className="home2SubEmbedControlsContainer">
+                <BracketEmbed totalWidth={centerWidth} height={240} src={previewItem.bracketInfo.phaseGroupUrl}/>
+              </div>
+            }
+            <div className="home2SubEmbedControlsContainer">
+              <SubEmbedControls selectedControlType={subEmbedToggle} onPressControlType={setSubEmbedToggle} controlTypes={subEmbedTypes} />
+            </div>
+          </div>}
+          { 
+            !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+            // !hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
+          }
+          { 
+            useHomeTypeLists && favkeysOrdered.length > 0 && favkeysOrdered.map((item, index) => {
+              return <div key={getSearchItemKey(item)}>
+                {HorizontalCatHeader({favSuggestion:item, onFavorite:onSearch, gameId: currentGameId})}
+                <DataHorizontal {...{catInfo: item, items:favMap.get(item), filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+              </div>
+            })
+            // useHomeTypeLists && <DataItems {...{jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          }
+
+        </div>
+        { hasRightPane && <div className="home2rightPane" ref={rightPane}>
+        {
+          hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+        }
+        {hasRightPane && chat}
+        {
+          hasRightPane && useSingleList && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          // hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
+        }
+        {
+          hasRightPane && useHomeTypeLists && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+        }
+        {
+          hasRightPane && afterData
+        }
+        </div>
+        }
+      </div>
+      <div className="home2bottomOffsetDiv"/>
+      { shouldShowNoDataOver && renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch)}
+      { 
+        // renderFooterButton(filterInfo, () => setShowFilterModal(true))
+      }
+      {
+        renderFooter(filterInfo, onChangeGame, () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+      }
+
+    </div>
+  )
+
+
   return (
     <div className="home2overallDiv">
       {
         renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode == HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
       }
-      <div className="home2stickyContainer" style={{top: stickyPos}}>
       <div className="home2threePanes">
+        <div className="home2stickyContainer" style={{top: stickyPos}}>
+
         <div className="home2centerPane" style={{top: stickyPos, position: "sticky"}}>
         {
           preview
+        }
+        {
+          previewItem && <NowPlaying  {...{setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}} />
+
         }
         {
           renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
@@ -784,25 +1356,38 @@ function MainComponent(homeMode) {
         { 
           noData
         }
+        {
+         previewItem && <BracketEmbed totalWidth={centerWidth} height={240} src={previewItem.bracketInfo.phaseGroupUrl}/>
+        }
+        {
+          !hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+        }
+        {!hasRightPane && chat}
+        {
+          // !hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
+        }
+      </div>
+
+
+        
         </div>
         <div className="home2rightPane">
         {
-          Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+          hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
         }
-        {chat}
+        {hasRightPane && chat}
         {
-          renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
+          // hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
         }
         {
-          afterData
+          hasRightPane && afterData
         }
         </div>
-      </div>
       </div>
       <div className="home2bottomOffsetDiv"/>
       { shouldShowNoDataOver && renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch)}
       { 
-        renderFooterButton(filterInfo, () => setShowFilterModal(true))
+        // renderFooterButton(filterInfo, () => setShowFilterModal(true))
       }
       {
         renderFooter(filterInfo, onChangeGame, () => setShowFilterModal(false), showFilterModal, toggleCharacter)
@@ -831,17 +1416,18 @@ function renderFooter(filterInfo, onGameClick, onClose, showFilterModal, toggleC
   if (!showFilterModal) {
     return
   }
+  const filterSetting = showFilterModal
   return (
     <div className="home2fullFooter">
       <div className="home2footerOutside" onClick={onClose}/>
       <div className="home2footerContent">
-      {FilterView(filterInfo, onGameClick, onClose, toggleCharacter)}
+      {FilterView(filterInfo, onGameClick, onClose, toggleCharacter, filterSetting)}
       </div>
     </div>
   )
 }
 
-function Home({homeMode=HomeModes.MAIN}) {
+function Home({homeMode=HomeModes.MAIN, homeType=HomeTypes.HOME, darkMode}) {
   return (
     <div className="home2App">
       <div className="home2App-header">
@@ -855,11 +1441,20 @@ function Home({homeMode=HomeModes.MAIN}) {
         {/* <script src="https://player.twitch.tv/js/embed/v1.js"></script> */}
         <script src="https://embed.twitch.tv/embed/v1.js"></script>
         {
-          MainComponent(homeMode)
+          MainComponent({homeMode, homeType, darkMode})
         }
       </div>
     </div>
   );
+}
+
+const SearchBar = ({navigate, _onSearch, toggleCharacter, dropdownSuggestions, filterInfo}) => {
+  const onSearch = (searchTerm) => {
+    navigate(getLinkFromSearch(searchTerm, filterInfo.currentGameId))
+  }
+  //onSearch = 
+  //onSearch()
+  return <SearchInputBarWithIcon onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter} suggestionsInfo={dropdownSuggestions} isFilterBar={false}/>
 }
 
 function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shouldShow, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions) {
@@ -868,7 +1463,8 @@ function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shou
   }
   const showBelow = window.innerWidth < 450
   const gameFilterInfo = filterInfo.filters[filterInfo.currentGameId]
-  const hasCharFilters = (gameFilterInfo?.characters ?? []).length > 0
+  // const hasCharFilters = (gameFilterInfo?.characters ?? []).length > 0
+  const hasCharFilters = false
   var filterType = undefined
   if (showVodsMode) {
     filterType = filterInfo.filterType?.vods
@@ -923,11 +1519,24 @@ function renderLink(jsonData, shouldShow) {
   return <a target="_blank" href={str} className="home2bigLinkHolder"><span className="home2bigLinkLabel" style={{marginRight: '2px'} }>TwitchTheater<br/><span style={{fontSize:"smaller"}}>{`🔗(${numVids})`}</span></span></a>
 }
 
-function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, width, height, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef) {
+const DataHorizontal = memo(({catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
+  return <HorizontalVirtualList
+    {...{catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
+  />
+})
+
+
+const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
-  
+
+  //parentRef
+  return <AdaptiveVirtualVideoGrid2
+    //parentWidth:340
+    {...{padding: isRightPane? "0px": "4px", parentRef, parentRefCurrent:parentRef.current, items:jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
+  />
+
   var stylename1 = "home2setRows-flex"
   var stylename2 = "home2set-row-3-flex"
   if (homeMode == HomeModes.ALLINLIST) {
@@ -940,30 +1549,277 @@ function renderData(jsonData, filterInfo, useVideoIn, handleIndexChange, streamS
       const itemStreamSubIndex = (itemKey == item.bracketInfo.setKey) ? streamSubIndex : 0
       //key={`maindata`}
       return <div key={`${item.bracketInfo.setKey}_dataRowItem`} className={stylename2} index={index}>
-        <DataRow {...{item, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
+        <DataRowHybrid {...{item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
       </div>
 
     })}
   </div>
+})
+
+// function BracketEmbed({width = 854, height = 480}) {
+//   var src = "https://www.start.gg/tournament/ualr-iliad-smash-65/event/ultimate-singles/brackets/2003530/2936329"
+
+//   return (
+//     <iframe
+//       sandbox="allow-scripts" 
+//       src={src+"/embed"}
+//       width={width}
+//       height={height}
+//       allowFullScreen={true}
+//       title={`BracketEmbed ${src}`}
+//     />
+//   );
+
+// }
+
+function RouteInfo({homeType, params, routeInfo, filterInfo, onFavorite, openGameFilter}) {
+  const routeName = getRouteName(homeType, params)
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
+  var iconClass = ""
+  var iconSrc = null
+  var routeText = ""
+  var supportsStar = false
+  const gameSlug = gameParam;
+  var gameInfo = gameSlug ? VideoGameInfoByGameSlug[gameSlug] : null
+  var gameId = null
+  if (homeType === HomeTypes.HOME) {
+    gameId = filterInfo.currentGameId
+    gameInfo = gameId ? VideoGameInfoById[gameId] : null
+  } else {
+    gameId = gameSlug ? gameInfo.id : null
+  }
+  const gameIcon = gameInfo?.images?.at(-1)?.url ?? null
+  const favSuggestion = getFavoriteSuggestionFromRoute(homeType, params, filterInfo);
+
+  // const isFavorite = favSuggestion != null;
+  const isFavorite = favSuggestion != null;
+  var title = ""
+  var description = ""
+  var showGameSelector = false
+  switch(homeType) {
+    case HomeTypes.CHARACTER:
+      routeText = charParam
+      iconClass = "home2RouteCharIcon"
+      if (routeInfo != null) {
+        iconSrc = charEmojiImagePath(routeInfo.charName, gameId)
+      } else {
+        routeText = charParam;
+      }
+      supportsStar = true
+      title = `${charParam} - Sets on Stream`
+      description = `Watch Live and Recent ${gameInfo?.name} ${charParam} Sets on Stream from Tournaments around the World`
+      break;
+    case HomeTypes.GAME:
+      routeText = gameInfo?.name
+      routeText = gameParam
+      supportsStar = false
+      title = `${gameInfo?.displayName} - Sets on Stream`
+      description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments around the World`
+      break;
+    case HomeTypes.PLAYER:
+      // iconClass = "home2RouteCharIcon"
+      iconSrc = routeInfo?.icon
+      routeText = routeInfo?.nameWithRomaji ?? playerParam
+      title = `${routeText} - Sets on Stream`
+      description = `Watch ${routeText}'s Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments`
+      supportsStar = true
+      break;
+    case HomeTypes.TOURNAMENT:
+      iconSrc = routeInfo?.tourneyIcon
+      iconClass = "home2RouteTourneyIcon"
+      routeText = routeInfo?.tourneyName ?? tourneyParam
+      title = `${routeText} - Sets on Stream`
+      description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${routeText}`
+      supportsStar = false
+      break;
+    case HomeTypes.CHANNEL:
+      iconSrc = routeInfo?.streamIcon
+      iconClass = "home2RouteChannelIcon"
+      routeText = channelParam
+      title = `${routeText} - Sets on Stream`
+      description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream streaming on ${routeText}`
+      supportsStar = true
+      break;
+    case HomeTypes.HOME:
+      routeText = "Home  "
+      title = `Home - Sets on Stream`
+      description = `Watch live and recent matches from fighting game tournaments: Smash Ultimate, SF6, Rivals 2, Tekken 8, and more.`
+      supportsStar = false
+      showGameSelector = true
+      break;
+    default:
+      return "Home"
+  }
+
+  return <div className="home2RouteRow">
+    <Helmet key={`${homeType}_${routeText}`}>
+      <title>{title}</title>
+      <meta name="description" content={description} key="description"/>
+      <meta name="twitter:title" content={title} key="twittertitle"/>
+      <meta name="twitter:description" content={description} key="twitterdescription"/>
+    </Helmet>
+    <Link className="home2RouteHomeIcon" to={`/`}>{renderHomeIcon({width:"100%", height: "100%"})}</Link>
+    {gameParam && gameId && <div className="home2DotStyle">•</div>}
+    {gameParam && gameId && <Link className="home2RouteGameIcon" to={`/game/${gameSlug}`}><img className="home2RouteGameIcon" src={gameIcon}/></Link>}
+    {gameParam && gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>}
+    {iconSrc && <img className={iconClass} src={iconSrc}/>}
+    <div className="home2RouteTitle">{routeText}</div>
+    {showGameSelector && <div className="home2RouteGameSelectContainer" onClick={openGameFilter}>
+      <div className="home2RouteGameSelectIcon"><img className="home2RouteGameSelectIcon" src={gameIcon}/></div>
+      <div className="home2RouteTitle">{`${gameInfo.displayName}`}</div>
+    </div>}
+    {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(routeInfo)} /></div>}
+  </div>
 }
 
-function BracketEmbed({width = 854, height = 480}) {
-  var src = "https://www.start.gg/tournament/ualr-iliad-smash-65/event/ultimate-singles/brackets/2003530/2936329"
+function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
+  // const routeName = getRouteName(homeType, params)
+  // const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
+  var iconClass = ""
+  var iconSrc = null
+  var routeText = ""
+  var supportsStar = false
+  // const gameSlug = gameParam;
+  // const gameInfo = gameSlug ? VideoGameInfoByGameSlug[gameSlug] : null
+  // const gameId = gameSlug ? gameInfo.id : null
+  const gameInfo = gameId ? VideoGameInfoById[gameId] : null
+  const gameSlug = gameInfo?.gameSlug
+  const gameIcon = gameInfo?.images?.at(-1)?.url ?? null
+  // const favSuggestion = getFavoriteSuggestionFromRoute(homeType, params, filterInfo);
+  var showGame = false
+  // const isFavorite = favSuggestion != null;
+  const isFavorite = favSuggestion != null;
+  if (favSuggestion.charName != null) {
+    const charName = favSuggestion.charName
+    routeText = charName
+    iconClass = "home2RouteCharIcon"
+    if (charName != null) {
+      iconSrc = charEmojiImagePath(charName, gameId)
+    }
+    supportsStar = true
+  } else if (favSuggestion.userSlug != null) {
+    // iconClass = "home2RouteCharIcon"
+    iconSrc = favSuggestion?.icon
+    routeText = favSuggestion?.nameWithRomaji ?? "player"
+    supportsStar = true
+  } else if (favSuggestion.tourneySlug != null) {
+    iconSrc = favSuggestion?.tourneyIcon
+    iconClass = "home2RouteTourneyIcon"
+    routeText = favSuggestion?.tourneyName ?? "tourney"
+    supportsStar = false
+  } else if (favSuggestion.channelName != null) {
+    iconSrc = favSuggestion?.streamIcon
+    iconClass = "home2RouteChannelIcon"
+    routeText = favSuggestion.channelName
+    supportsStar = true
+  } else if (favSuggestion.gameId != null) {
+    showGame = true
+    routeText = gameInfo?.name
+    supportsStar = false
+  } else {
+    
+  }
+  
+
+
+  return <div className="home2RouteRow" style={{marginLeft: "16px"}}>
+    {/* <Link className="home2RouteHomeIcon" to={`/`}>{renderHomeIcon({width:"100%", height: "100%"})}</Link> */}
+    {/* {gameId && <div className="home2DotStyle">•</div>} */}
+    {showGame && gameId && <Link className="home2RouteGameIcon" to={`/game/${gameSlug}`}><img className="home2RouteGameIcon" src={gameIcon}/></Link>}
+    {/* {gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>} */}
+    {iconSrc && <img className={iconClass} src={iconSrc}/>}
+    <Link className="home2RouteTitle home2RouteTitleCat" to={getLinkFromSearch(favSuggestion, gameId)}>{routeText}</Link>
+    {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(favSuggestion)} /></div>}
+  </div>
+}
+
+
+
+
+function BracketEmbed({totalWidth = 854, height = 480, src}) {
+  // var src = "https://www.start.gg/tournament/ualr-iliad-smash-65/event/ultimate-singles/brackets/2003530/2936329"
+  // src="https://www.start.gg/tournament/hit-115-in-maesuma-hit-115-in-hirakata/events/singles-tournament/brackets/2019687/2958078"
+  // src="https://www.start.gg/user/d85cd42c"
+  // src = "https://www.start.gg/tournament/kowloon-16/event/kowloon_sp/entrant/19638675"
+
+  const width = Math.min(totalWidth, 676)
+  const scale = 0.7
+  const scaledHeight = height / scale
+  const scaledWidth = width / scale
+  // const scaledWidth = 840
+  // const scaledWidth = `calc(${width} * ${scale})`
+  // return null
+  const { theme } = useContext(ThemeContext);
+  
+  const bracketClass = isThemeDark(theme) ? "home2Bracket home2BracketFilter" : "home2Bracket"
+
 
   return (
-    <iframe
-      sandbox="allow-scripts" 
-      src={src+"/embed"}
-      width={width}
-      height={height}
-      allowFullScreen={true}
-      title={`BracketEmbed ${src}`}
+    <div className="home2BracketContainer" style={{width:totalWidth, height: height}}>
+    <embed
+      id="brack"
+      className={bracketClass}
+      sandbox="allow-scripts allow-same-origin"
+      // sandbox="allow-scripts allow-same-origin"
+      // sandbox="allow-scripts" 
+      // src={src}
+      src={src+`/embed`}
+      width={scaledWidth}
+      height={scaledHeight+100}
+      // style={{transform: `scale: ${scale}`}}
+      // width={width}
+      // height={height+100}
     />
-  );
+    </div>
+  )
+
+  return (
+    <div className="home2BracketContainer" style={{width:totalWidth, height: height}}>
+    <iframe
+      id="brack"
+      className={bracketClass}
+      sandbox="allow-scripts allow-same-origin"
+      // sandbox="allow-scripts allow-same-origin"
+      // sandbox="allow-scripts" 
+      // src={src}
+      src={src+`/embed`}
+      width={scaledWidth}
+      height={scaledHeight+100}
+      // style={{transform: `scale: ${scale}`}}
+      // width={width}
+      // height={height+100}
+    />
+    </div>
+  )
 
 }
 
-function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady) {
+// function BracketEmbed({width = 854, height = 480}) {
+//   var src = "https://www.start.gg/tournament/ualr-iliad-smash-65/event/ultimate-singles/brackets/2003530/2936329"
+//   src="https://www.start.gg/tournament/hit-115-in-maesuma-hit-115-in-hirakata/events/singles-tournament/brackets/2019687/2958078"
+//   return (
+//     <div className="playerPageBracketContainer" style={{width:width, height: height}}>
+//     <iframe
+//       className="playerPageBracket"   
+//       theme={"dark"}
+//       parent={window.location.hostname}
+//       sandbox="allow-scripts allow-same-origin"
+//       // sandbox="allow-scripts allow-same-origin"
+//       // sandbox="allow-scripts" 
+//       // src={src}
+//       src={src+`/embed`}
+//       width={width}
+//       height={height+100}
+//     />
+//     </div>
+//   )
+
+// }
+
+
+
+
+function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady) {
   
   if (homeMode === HomeModes.ALLINLIST) {
     return
@@ -975,8 +1831,9 @@ function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsM
     topOffset = "100px"
   }
   const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
+  const showTimeScale = homeType === HomeTypes.Home || homeType === HomeTypes.GAME
   if (data != null)
-    return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady }}/>
+    return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, showTimeScale: showTimeScale, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady }}/>
 }
 
 function NoData(showVodsMode, setShowVodsMode, overMap, sayNoMatch) {

@@ -1,4 +1,5 @@
 import React, { useRef, useEffect } from 'react';
+import { VideoGameInfo, VideoGameInfoById } from './GameInfo.js';
 
 export function getStartggUserLink(userSlug) {
   return `https://start.gg/user/${userSlug}`;
@@ -167,13 +168,23 @@ export function getStreamUrl(streamInfo, index, preferTimestampedVod=false) {
 }
 
 export function getChannelName(streamInfo) {
-  if (streamInfo.streamSource == 'YOUTUBE') {
-    return streamInfo.streamName ?? " " //streamInfo.ytChannelId
-  } else if (streamInfo.streamSource == 'TWITCH') {
-    return streamInfo.forTheatre
+  if (streamInfo?.streamSource == 'YOUTUBE') {
+    return streamInfo?.streamName ?? " " //streamInfo.ytChannelId
+  } else if (streamInfo?.streamSource == 'TWITCH') {
+    return streamInfo?.forTheatre
   } else {
-    return streamInfo.channel
+    return streamInfo?.channel
   }
+}
+
+export function getTourneySlug(bracketInfo) {
+  const url = bracketInfo?.url ?? "";
+  const prefix = "https://www.start.gg/tournament/"
+  if (url.startsWith(prefix))
+    return url.slice(prefix.length)
+  return ""
+  //"https://www.start.gg/tournament/versus-reborn-216"
+
 }
 
 export function formatDisplayTimestamp(unixTimestamp) {
@@ -200,7 +211,7 @@ export function formatDisplayTimestamp(unixTimestamp) {
   }
 }
 
-function checkPropsAreEqual(prevProps, nextProps) {
+export function checkPropsAreEqual(prevProps, nextProps) {
   console.log("checkPropsAreEqual")
   Object.keys(nextProps).forEach((key) => {
     if (prevProps[key] == nextProps[key]) {
@@ -229,4 +240,65 @@ export const textMatches = (filterInfo, text) => {
     }
   })
   return matches
+}
+
+export function getCSSVariable(name, element = document.documentElement) {
+  return getComputedStyle(element).getPropertyValue(name).trim();
+}
+
+export function isDarkMode() {
+  return document.documentElement.getAttribute('data-theme') != "light"
+}
+
+export function isThemeDark(theme) {
+  return theme != "light"
+}
+
+export function getPlayerLink(userSlug, gameId) {
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/player/${userSlug}`
+}
+
+export function getGameLink(gameId) {
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "/"}`
+}
+export function getCharLink(charName, gameId) {
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/char/${charName}`
+}
+
+export function getTourneyLink(tourneySlug="unknown", gameId) {
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/tournament/${tourneySlug}`
+}
+
+export function getChannelLink(channelSlug="unknown", gameId) {
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/channel/${channelSlug}`
+}
+
+export function getLinkFromSearch(searchTerm, gameId) {
+  if (typeof searchTerm === "string") {
+    return "/"
+  } else if (searchTerm.userSlug != null) {
+    return getPlayerLink(searchTerm.userSlug, gameId)
+  } else if (searchTerm.tourneySlug != null) {
+    return getTourneyLink(searchTerm.tourneySlug, gameId)
+  } else if (searchTerm.channelName != null) {
+    return getChannelLink(searchTerm.channelName, gameId)
+  } else if (searchTerm.charName != null) {
+    return getCharLink(searchTerm.charName, gameId)
+  } else if (searchTerm.gameId != null) {
+    return getGameLink(searchTerm.gameId, gameId)
+  }
+  return "/"
+}
+
+export function renderHomeIcon({width, height}) {
+  return <svg version="1.1" id="homeIcon" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" 
+    viewBox="0 0 32 32" width={width} height={height}>
+    <polyline fill="none" stroke="var(--text-main-color-subdue-3" strokeWidth="2" strokeMiterlimit="10" points="3,17 16,4 29,17 "/>
+    <polyline fill="none" stroke="var(--text-main-color-subdue-3" strokeWidth="2" strokeMiterlimit="10" points="6,14 6,27 13,27 13,17 19,17 19,27 26,27 
+    26,14 "/>
+  </svg>
+}
+
+export function renderExpandIcon({width="24px", height="24px"}) {
+  return <svg xmlns="http://www.w3.org/2000/svg" height={height} viewBox="0 -960 960 960" width="width" fill="var(--text-main-color-subdue-3"><path d="M120-120v-320h80v184l504-504H520v-80h320v320h-80v-184L256-200h184v80H120Z"/></svg>
 }

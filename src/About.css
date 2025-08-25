@@ -1,12 +1,13 @@
 .about-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  background-color: var(--bg-main);
   min-height: calc(100vh - 50px);
   display: flex;
   flex-direction: column;
   align-items: start;
   justify-content: start;
   font-size: 20px;
-  color: white;
+  color: var(--text-main-color);
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 24px;
@@ -22,17 +23,19 @@
 .about-heading2 {
   font-size: 18px;
   line-height: 24px;
+  margin-top: 6px;
+  margin-bottom: 4px;
 }
 .about-body {
   font-size: 16px;
   line-height: 24px;
-  color: #FFF;
+  color: var(--text-main-color);
 }
 
 .about-exp {
   font-size: 14px;
   line-height: 14px;
-  color: #FFF;
+  color: var(--text-main-color);
   font-style: italic;
   padding-left: 30px;
   margin-bottom: 0px;
@@ -68,4 +71,32 @@
   padding-bottom: 0px;
   /* width:40; */
   /* aspect-ratio: preserve; */
+}
+
+.about-body-row-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+.about-feedback-holder {
+  flex-direction: row;
+  display: flex;
+  /* width: 100vw; */
+  height: 28px;
+  margin-left: 0px;
+  margin-right: 6px;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+}
+
+.about-RouteStarIcon {
+  height: 23px;
+  width: 23px;
+  margin-left: 4px;
+  display: flex;
+  align-self: center;
+  /* border-radius: 18px; */
+  flex-grow: 0;
 }

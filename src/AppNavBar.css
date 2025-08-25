@@ -14,20 +14,28 @@
   justify-content: flex-start;
   align-items: center;
   align-content: center;
-  background-color: rgb(24, 27, 27);
+  background-color: var(--title-bar-background);
 }
 
 .AppNavBarItem {
   font-size: medium;
-  margin-right: 10px;
+  margin-right: 2px;
   font-weight: 500;
   height: 100%;
-  color: rgb(211, 210, 210);
+  color: var(--text-main-color);
+  /* color: rgb(211, 210, 210); */
   text-decoration: none;
   padding-left: 4px;
   justify-self: center;
   align-content: center;
 }
+
+  /* color: rgb(211, 210, 210); */
+
+/* --text-color */
+/* .AppNavBarItem [data-theme='light'] {
+  color: rgb(14, 14, 14);
+} */
 
 .AppNavBarItem:hover {
   color: rgb(153, 160, 168);

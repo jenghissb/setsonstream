@@ -1,0 +1,21 @@
+
+.subEmbedControls {
+  height: 40px;
+  flex-direction: row;
+}
+
+.subEmbedControl {
+  background-color: #01010101;
+  height:fit-content;
+  width: fit-content;
+  display: inline-block;
+}
+
+.subEmbedControl :hover {
+  /* transform: scale(1.05); */
+  background-color: #ffffff22;
+}
+
+.subEmbedSelected {
+  /* transform: scale(1.05); */
+}

@@ -4,7 +4,21 @@ import { Characters } from './GameInfo.js'
 import { renderFilterTypeButton } from './FilterTypeButton'
 import { charEmojiImagePath, schuEmojiImagePath } from './Utilities.js'
 
-export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggestionsInfo }) {
+
+export function SearchInputBarWithIcon({ onSearch, filterInfo, toggleCharacter, suggestionsInfo}) {
+  return <div className="searchRowContainer">
+    <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter} suggestionsInfo={suggestionsInfo} isFilterBar={false} hasIcon={true}/>
+    <div className="searchIconContainer">
+      {renderSearchIcon()}
+    </div>
+  </div>
+}
+
+function renderSearchIcon() {
+  return <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="var(--text-main-color)"><path d="M784-120 532-372q-30 24-69 38t-83 14q-109 0-184.5-75.5T120-580q0-109 75.5-184.5T380-840q109 0 184.5 75.5T640-580q0 44-14 83t-38 69l252 252-56 56ZM380-400q75 0 127.5-52.5T560-580q0-75-52.5-127.5T380-760q-75 0-127.5 52.5T200-580q0 75 52.5 127.5T380-400Z"/></svg>
+}
+
+export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggestionsInfo, hasIcon=false}) {
   const [searchTerm, setSearchTerm] = useState('');
   const inputRef = useRef(null);
   const [filteredResults, setFilteredResults] = useState([]);
@@ -33,22 +47,39 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
     // Filter data based on searchTerm
     if (searchTerm) {
       const searchTermLower = searchTerm.toLowerCase()
-      var hasResults = false
-      const totalLimit = 6
+      const totalLimit = 8
       var currentAmount = 0
-      var charResults = charData.filter(item =>
-        item.toLowerCase().startsWith(searchTermLower)
-      ).slice(0, totalLimit - currentAmount)
+      // var charResults1 = charData.filter(item =>
+      //   item.toLowerCase().startsWith(searchTermLower)
+      // ).slice(0, totalLimit - currentAmount)
+      const charResults = (suggestionsInfo?.characters ?? []).filter(item => {
+        return item.charName.toLowerCase().indexOf(searchTermLower) > -1
+        // return item.charName.toLowerCase().startsWith(searchTermLower)
+      }).slice(0, totalLimit - currentAmount)
       currentAmount += charResults.length
-      hasResults = hasResults || charResults.length > 0
+      const gameResults = (suggestionsInfo?.games ?? []).filter(item => {
+        return item.gameName.toLowerCase().indexOf(searchTermLower) > -1
+      }).slice(0, totalLimit - currentAmount)
+      currentAmount += gameResults.length
       const userResults = (suggestionsInfo?.users ?? []).filter(item => {
         return item.nameWithRomaji.toLowerCase().indexOf(searchTermLower) > -1
       }).slice(0, totalLimit - currentAmount)
-      currentAmount += charResults.length
-      setFilteredResults({charResults, userResults, hasResults});
+      currentAmount += userResults.length
+      const tourneyResults = (suggestionsInfo?.tourneys ?? []).filter(item => {
+        return (item.tourneyName.toLowerCase().indexOf(searchTermLower) > -1 ||
+          item.locationStrWithRomaji.toLowerCase().indexOf(searchTermLower) > -1 ||
+          item.tourneySlug.toLowerCase().indexOf(searchTermLower) > -1
+        )
+      }).slice(0, totalLimit - currentAmount)
+      currentAmount += tourneyResults.length
+      const streamResults = (suggestionsInfo?.streams ?? []).filter(item => {
+        return item.channelName.toLowerCase().indexOf(searchTermLower) > -1
+      }).slice(0, totalLimit - currentAmount)
+      currentAmount += streamResults.length
+      setFilteredResults({charResults, userResults, tourneyResults, streamResults, gameResults, hasResults: currentAmount > 0});
       setShowDropdown(true);
     } else {
-      setFilteredResults({charResults: [], userResults: []});
+      setFilteredResults({charResults: [], userResults: [], tourneyResults: [], streamResults: [], gameResults: [] });
       setShowDropdown(false);
     }
   }, [searchTerm]);
@@ -60,7 +91,7 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
     setSearchTerm("");
     setShowDropdown(false);
     if (typeof item === "string") {
-      toggleCharacter(item, filterInfo.currentGameId)
+      // toggleCharacter(item, filterInfo.currentGameId)
     } else {
       onSearch(item)
     }
@@ -83,6 +114,7 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
     <div className="outerContainer" ref={dropdownRef}>
       <input
         className={"searchInputBar"}
+        style={hasIcon ? {"borderBottomRightRadius": "0px", "borderTopRightRadius": "0px"} : {}}
         ref={inputRef}
         type="text"
         placeholder="Search..."
@@ -96,9 +128,12 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
         <ul className='dropdownList'>
           {filteredResults.charResults.map((item, index) => {
             var charAlreadyFiltered = false;
-            if (filterInfo.filters[filterInfo.currentGameId]?.characters?.includes(item)) {
-              charAlreadyFiltered = true
-            }
+            //// if (filterInfo.filters[filterInfo.currentGameId]?.characters?.includes(item)) {
+            ////   charAlreadyFiltered = true
+            //// }
+            // if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => item.charName == searchItem.charName)) {
+            //   charAlreadyFiltered = true
+            // }
 
             return <li
               key={index}
@@ -106,17 +141,34 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
               className='dropdownItem'
             >
               <div className='charDropdownItem'>
-                <img className="searchCharEmoji" src={charEmojiImagePath(item, filterInfo.currentGameId)}/>
-                <span className='searchCharText'>{item}</span>
+                <img className="searchCharEmoji" src={charEmojiImagePath(item.charName, filterInfo.currentGameId)}/>
+                <span className='searchCharText'>{item.charName}</span>
                 {charAlreadyFiltered && <span className='searchCharTextX'>x</span>}
+              </div>
+            </li>
+          })}
+          {filteredResults.gameResults.map((item, index) => {
+            var alreadyFiltered = false;
+            // if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => item.userSlug == searchItem.userSlug)) {
+            //   alreadyFiltered = true
+            // }
+            return <li
+              key={`tourney_${index}`}
+              onClick={() => handleItemClick(item)}
+              className='dropdownItem'
+            >
+              <div className='charDropdownItem'>
+                <img className="searchGameIcon" src={item.gameImage} />
+                <span className='searchCharText'>{item.gameName}</span>
+                {alreadyFiltered && <span className='searchCharTextX'>x</span>}
               </div>
             </li>
           })}
           {filteredResults.userResults.map((item, index) => {
             var alreadyFiltered = false;
-            if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => item.userSlug == searchItem.userSlug)) {
-              alreadyFiltered = true
-            }
+            // if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => item.userSlug == searchItem.userSlug)) {
+            //   alreadyFiltered = true
+            // }
             return <li
               key={`user_${index}`}
               onClick={() => handleItemClick(item)}
@@ -128,7 +180,40 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
               </div>
             </li>
           })}
-
+          {filteredResults.tourneyResults.map((item, index) => {
+            var alreadyFiltered = false;
+            // if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => item.userSlug == searchItem.userSlug)) {
+            //   alreadyFiltered = true
+            // }
+            return <li
+              key={`tourney_${index}`}
+              onClick={() => handleItemClick(item)}
+              className='dropdownItem'
+            >
+              <div className='charDropdownItem'>
+                <img className="searchTourneyIcon" src={item.tourneyIcon} />
+                <span className='searchCharText'>{item.tourneyName}</span>
+                {alreadyFiltered && <span className='searchCharTextX'>x</span>}
+              </div>
+            </li>
+          })}
+          {filteredResults.streamResults.map((item, index) => {
+            var alreadyFiltered = false;
+            // if (filterInfo.filters[filterInfo.currentGameId]?.searches?.some(searchItem => item.userSlug == searchItem.userSlug)) {
+            //   alreadyFiltered = true
+            // }
+            return <li
+              key={`tourney_${index}`}
+              onClick={() => handleItemClick(item)}
+              className='dropdownItem'
+            >
+              <div className='charDropdownItem'>
+                <img className="searchChannelIcon" src={item.streamIcon} />
+                <span className='searchCharText'>{item.channelName}</span>
+                {alreadyFiltered && <span className='searchCharTextX'>x</span>}
+              </div>
+            </li>
+          })}
         </ul>
       )}
 

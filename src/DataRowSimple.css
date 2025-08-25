@@ -42,7 +42,7 @@
   width: 32px;
 }
 .drs-playerName {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:medium;
   line-height: 1.2;
   font-weight: bold;
@@ -53,19 +53,19 @@
 }
 .drs-playerName:hover {
   /* font-weight: 900; */
-  color: lightgray;
+  color: var(--text-color-hover);
   transform: scale(1.05);
 }
 
 .drs-vsText {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:small;
   line-height: 1.2;
   font-weight: bold;
 }
 
 .drs-tourneyText {
-  color: #FFF;
+  color: var(--text-main-color);
   /* font-size:x-small; */
   line-height: 1.0;
   font-weight: bold;
@@ -73,7 +73,7 @@
 }
 
 .drs-roundText {
-  color: #FFF;
+  color: var(--text-main-color);
   /* font-size:x-small; */
   line-height: 1.9;
   font-weight: bold;
@@ -82,7 +82,7 @@
 
 
 .drs-viewersText {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:medium;
   line-height: 1.0;
   font-weight: bold;
@@ -91,7 +91,7 @@
 
 
 .drs-tourneyTitle {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:medium;
   line-height: 1.4;
   font-weight: bold;
@@ -160,7 +160,7 @@
 }
 
 .drs-set-row-2 {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:small;
   line-height: 1.0;
   font-weight: bold;
@@ -203,7 +203,7 @@
 .drs-bracketLink {
   font-size:small;
   line-height: 1.2;
-  color: #FFF;
+  color: var(--text-main-color);
   text-wrap: wrap;
   word-break: break-all;
   display: inline-block;
@@ -211,14 +211,14 @@
 
 .drs-bracketLink:hover {
   /* font-weight: bolder; */
-  color: lightgray;
+  color: var(--text-main-color-subdue-2);
   transform: scale(1.05);
 }
 
 .drs-bracketLink:active {
   color: rgb(0, 49, 0);
   font-weight: bolder;
-  color: lightgray;
+  color: var(--text-main-color-subdue-2);
 }
 
 .drs-icons-row {

@@ -5,7 +5,7 @@
   width: fit-content;
   right: 0px;
   top: 0px;
-  background-color: rgb(34, 34, 34);
+  background-color: var(--bg-controls);
   padding-left: 4px;
   padding-right: 4px;
   border: 1px solid black;
@@ -15,7 +15,7 @@
 
 .expandChatText {
   font-size: small;
-  color: #eee;
+  color: var(--text-subdue-1);
   align-items: center;
   align-content: center;
   justify-content: center;

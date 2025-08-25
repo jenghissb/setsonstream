@@ -2,23 +2,27 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { getInternalImageUrl } from './Utilities';
+import { DarkModeToggleButton } from './DarkModeToggle';
+import { FeedbackButton } from './Feedback';
 import './AppNavBar.css'
-const AppNavBar = () => {
+const AppNavBar = ({toggleTheme, setFeedbackOpen}) => {
     return (
     <div className="AppNavBarHolder">
         <nav className="AppNavBar">
         <Link className="AppNavBarItem" to="/"><img className="AppNavBarLogo" src={getInternalImageUrl("logoOg3.png")} /></Link>
         <Link className="AppNavBarItem" to="/about">About</Link>
         </nav>
+        <DarkModeToggleButton toggleTheme={toggleTheme}/>
+        <FeedbackButton setFeedbackOpen={setFeedbackOpen}/>
         <ShareSvg/>
     </div>
     );
 };
-
-
+ 
 function ShareSvg() {
   const [copied, setCopied] = useState(false);
-  const shareText = "Watch live and recent sets on stream for Smash Ultimate, SF6, Melee, Rivals 2, and more.\nhttps://setsonstream.tv"
+  const pageTitle = document.title;
+  // const shareText = "Watch live and recent sets on stream for Smash Ultimate, SF6, Melee, Rivals 2, and more.\nhttps://setsonstream.tv"
   const shareData = {
     title: 'Sets on Stream',
     text: 'Watch live and recent sets on stream for Smash Ultimate, SF6, Melee, Rivals 2, and more.',
@@ -26,6 +30,9 @@ function ShareSvg() {
   };
 
   const onClick = async () => {
+    const metaDescription = document.querySelector('meta[name="description"]')?.content;
+    const pathname = window.location.pathname
+    const shareText = `${metaDescription}\n https://setsonstream.tv${pathname}`
     try {
         // console.log(navigator.share, navigator.canShare(shareData))
         // console.log("navigator.clipboard.writeText", navigator.clipboard.writeText)

@@ -18,7 +18,7 @@
   /* width: 20px; */
   border: 1.5px solid rgb(54, 54, 54);
   border-radius: 10px;
-  background-color: #000000aa;
+  background-color: var(--bg-controls);
   z-index: 4;
   padding: 10px;
   display: flex;
@@ -51,7 +51,7 @@
 }
 
 .refleafMinMaxSvg {
-  color:#f9f9f9ff;
+  color:var(--text-main-color-subdue-4);
   width: 32px;
   height: 32px;
   position:absolute;

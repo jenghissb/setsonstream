@@ -4,7 +4,7 @@ const EMBED_URL = 'https://embed.twitch.tv/embed/v1.js';
 export class TwitchPlayer1 extends React.Component {
   componentDidMount() {
     const scriptId = "scripty"
-    const embed = new window.Twitch.Player(this.props.targetId, { ...this.props });
+    const embed = new window.Twitch.Player(this.props.targetId, { ...this.props, width:"100%", height:"100%" } );
     // const embed = new window.Twitch.Embed(this.props.targetId, { ...this.props }); 
     // console.log("qualities? = ",embed.getQualities())
     // this.onLoadTimeout = setTimeout(() => {
@@ -48,10 +48,13 @@ export class TwitchPlayer1 extends React.Component {
 
   render() {
     return (
-      <div>
-        <div id={this.props.targetId}></div>
-      </div>
+      <div id={this.props.targetId} style={{backgroundColor: "var(--bg-main)", width: "100%", height: "100%"}} ></div>
     )
+    // return (
+    //   <div>
+    //     <div id={this.props.targetId}></div>
+    //   </div>
+    // )
   }
 }
 

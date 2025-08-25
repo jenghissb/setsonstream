@@ -29,6 +29,11 @@ export function MediaPreview({item, streamSubIndex=0, width = 426, height = 24, 
     if (targetId != null) {
       options.targetId = targetId
     }
+    // return (
+    //   <div
+    //     style={{backgroundColor: "purple", width, height}}
+    //   />
+    // );
     return <TwitchPlayer1 key={playerKey} {...options} initialOffset={initialOffset} onReady={handleReady} onProgress={onProgress}/>
     //return TwitchEmbedBefore({channel: item.streamInfo.forTheatre, width, height, useLiveStream, videoId:streamUrlInfo.videoId, offsetHms:streamUrlInfo.offsetHms, currentVideoOffset})
   } else if (item.streamInfo.streamSource === "YOUTUBE" && null != streamUrlInfo.videoId) {
@@ -126,7 +131,9 @@ export function getStreamTimeOffset(item, streamSubIndex=0) {
   // const source =
   const streamUrlInfo = streamInfo.streamUrls[streamSubIndex]
   var offset = 0
-  if (streamUrlInfo.offset != null) {
+  if (streamUrlInfo == null) {
+    offset = 0
+  } else if (streamUrlInfo.offset != null) {
     offset = streamUrlInfo.offset
   } else if (streamUrlInfo.offsetHms != null) {
     offset = hmsStringToSeconds(streamUrlInfo.offsetHms)

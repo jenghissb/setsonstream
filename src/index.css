@@ -1,3 +1,46 @@
+:root {
+  --bg-main: #0f0f0f;
+  --bg-abs: #000;
+  --bg-less: #111;
+  --bg-modal: #181818;
+  --bg-textinputbackground: #484848
+  --bg-more: #111;
+  --bg-over-image-walpha: #000000aa;
+  --bg-20: #202020;
+  --bg-hover: #282828;
+  --bg-controls: #222222;
+  --title-bar-background: #181b1b;
+  --text-main-color: #fff;
+  --text-main-color-shadow: #000;
+  --text-color-hover: lightgray;
+  --text-main-color-subdue-2: lightgray;
+  --text-main-color-subdue-1: #eee;
+--text-main-color-subdue-3  : #ddd;
+  --text-main-color-subdue-4: #f9f9f9;
+}
+
+[data-theme='light'] {
+  --bg-abs: white;
+  --bg-hoverff: #f7f8f9;
+  --bg-main: #f7f8f9;
+  --bg-less: #bbbbbb;
+  --bg-modal: #f6f2f2;
+  --bg-more: #eeeeee;
+  --bg-over-image-walpha: #ffffffbb;
+  --bg-20: #cccccc;
+  --bg-hover: #b5b5b5;
+  --bg-controls: #dcdfdf;
+  /* --title-bar-background: #dddddd; */
+  --title-bar-background: white;
+  --text-main-color: black;
+  --text-main-color-shadow: #ffffffbb;
+  --text-main-color-subdue-1: #181818;
+  --text-main-color-subdue-2: #282828;
+  --text-main-color-subdue-3: #444;
+  --text-main-color-subdue-4: #070707;
+  --text-color-hover: gray;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

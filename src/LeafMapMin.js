@@ -1,9 +1,9 @@
 import React, { useRef, useState, useEffect, memo } from "react";
 import { Link } from 'react-router-dom';
-import './LeafMap.css';
+import './LeafMapMin.css';
 import L from 'leaflet';
 
-import { MapContainer, TileLayer, Marker, Popup, useMapEvents, AttributionControl } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup, useMapEvents, useMap, AttributionControl } from "react-leaflet";
 import { divIcon , DivIcon} from 'leaflet';
 import "leaflet/dist/leaflet.css";
 import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr, getViewersTextFromItem, getStreamUrl } from './Utilities'
@@ -13,6 +13,7 @@ import { TimeRangeSlider } from './TimeRangeSlider'
 import { getDefaultTimeRange } from './GameInfo'
 import { FilterType, renderFilterTypeButton } from './FilterTypeButton'
 import { RewindAndLiveButtons } from './RewindSetButton'
+
 function renderMinMaxSvg(useFullView) {
   if (useFullView) {
     return <Link className="leafMinMaxSvg" to="/" style={{bottom: "128px", right: "34px"}}>{renderMinimizeSvg()}</Link>
@@ -85,7 +86,7 @@ function getSpreadMetersPerZoom(zoomLevel) {
   return spreadMeters
 }
 
-export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, topOffset, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, height=300, width=300, useFullView = false, streamSubIndex, setStreamSubIndex, vidWidth, vidHeight, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) => {
+export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, topOffset, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, height=300, width=300, useFullView = false, showTimeScale, streamSubIndex, setStreamSubIndex, vidWidth, vidHeight, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) => {
   var initialZoomLevel = 2
   if (width < 700) {
     initialZoomLevel = 0
@@ -103,18 +104,54 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
     setStreamSubIndex((streamSubIndex + 1) % numSubStreams);
   };
 
+  // const [mapRefReg, setMapRefReg] = useState(null);
+  // const [mapRefBig, setMapRefBig] = useState(null);
   const mapRefReg = useRef(null);
   const mapRefBig = useRef(null);
   var mapRef = mapRefReg
+  // var setMapRef = setMapRefReg
   var mapKey = "Reg"
   if (useFullView) {
     mapRef = mapRefBig
+    // setMapRef = setMapRefBig
     mapKey = "Big"
   }
+  // const map = useMap(mapRef)
+  // if (mapRef.current != null) {
+  //   const map = useMap(mapRef)
+  // }
+
 
   // const latitude = 51.505;
   const latitude = 31.505;
   const longitude = -0.09;
+
+  const selectedItem = data.find(it => it.bracketInfo.setKey == itemKey)
+  // const latitude = selectedItem?.bracketInfo.lat ?? 31.505;
+  // const longitude = selectedItem?.bracketInfo.lon ?? -0.09;
+  useEffect(() => {
+    const selectedItem = data.find(it => it.bracketInfo.setKey == itemKey)
+    const latitude = selectedItem?.bracketInfo.lat ?? 31.505;
+    const longitude = selectedItem?.bracketInfo.lon ?? -0.09;
+    if (mapRef?.current != null) mapRef.current.setView([latitude, longitude], zoomLevel)
+
+    // mapRef.pan(latitude,longitude)
+    // const handleResize = () => {
+    //   setDimensions({
+    //     width: window.innerWidth,
+    //     height: window.innerHeight,
+    //   });
+    // };
+
+    // window.addEventListener('resize', handleResize);
+
+    // // Clean up the event listener on component unmount
+    // return () => {
+    //   window.removeEventListener('resize', handleResize);
+    // };
+  }, [itemKey]); // Empty dependency array ensures the effect runs only once on mount
+  
+  // itemKey.
 
   const videoScale = 0.97
   const videoDim = {
@@ -159,6 +196,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
   
   // var A =         <AttributionControl position={"topright"} />
   // A.addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" >OpenStreetMap</a>') //addAttribution
+  // ref={mapRef}
   return (
     <div style={{backgroundColor: 'blue', justifyContent: "center", height: height, width: width, justifyContent: "center", alignSelf: "center",        display:"flex",
     flexDirection: "column",
@@ -168,7 +206,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
     zIndex: 20000,
     marginBottom,
   }}>
-    {showVodsMode && <TimeRangeSlider key={`${gameId}_slider}`}{...{height: height, width: width, onChange: onTimeRangeChanged, gameId, initialTimeRange: timeRange}}/>}
+    {showTimeScale && showVodsMode && <TimeRangeSlider key={`${gameId}_slider}`}{...{height: height, width: width, onChange: onTimeRangeChanged, gameId, initialTimeRange: timeRange}}/>}
     {false && renderFilterTypeButton()}
     {false && renderMinMaxSvg(useFullView)}
     <div className="attirbutionContainer">
@@ -180,7 +218,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
       </div>
     </div>
 
-    <MapContainer key={mapKey} center={[latitude, longitude]} zoom={initialZoomLevel} ref={mapRef} style={{height: "100%", width: "100%", justifyContent: "center"}} attributionControl={false}>
+    <MapContainer key={mapKey} center={[latitude, longitude]} ref={mapRef} zoom={initialZoomLevel} style={{height: "100%", width: "100%", justifyContent: "center", background: "#000000"}} attributionControl={false}>
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" >OpenStreetMap</a>'
         
@@ -197,6 +235,9 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
           var markerKey = showTourneysMode ? "t"+item[0].bracketInfo.setKey : item.bracketInfo.setKey
           return <MarkersForItem key={`markers${markerKey}`} {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
         }) 
+      }
+      {
+        
       }
     </MapContainer> 
     </div>
@@ -233,6 +274,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
   const handleClosePopup2 = () => setIsPopupOpen2(false);
   const handleClosePopup3 = () => setIsPopupOpen3(false);
 
+  var selected = item.bracketInfo.setKey == itemKey
 
   var icon = new L.Icon({
     iconUrl: iconUrl,
@@ -249,48 +291,51 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
 
   var icon3 = new L.DivIcon({
     iconSize: [3, 3],
-    html: renderMarkerText(item, zoomLevel, filterType)
+    html: renderMarkerText(item, selected, zoomLevel, filterType)
   })
 
   var lat = latLons[index].lat;
   var lon = latLons[index].lon;
   
   var maxWidth = useVideoInPopup ? videoWidth : (0.7*videoWidth)
-
+  const usePopups = false
   var marker1 = (
     <Marker key={setKey+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup1, popupclose: handleClosePopup1}} icon={
       icon
     }>
-      <Popup className="leafpopup"
+      {usePopups && <Popup className="leafpopup"
         maxWidth={maxWidth}
         width={maxWidth}
       >
         {isPopupOpen1 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 1, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
+      }
     </Marker>
   )
   var marker2 = (
     <Marker key={setKey+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup2, popupclose: handleClosePopup2}} icon={
       icon2
     }>
-      <Popup className="leafpopup"
+      {usePopups && <Popup className="leafpopup"
         maxWidth={maxWidth}
         width={maxWidth}
       >
         {isPopupOpen2 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 2, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
+      }
     </Marker>
   )
   var marker3 = (
     <Marker key={setKey} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup3, popupclose: handleClosePopup3}} icon={
       icon3
     }> 
-      <Popup className="leafpopup"
+      {usePopups && <Popup className="leafpopup"
         maxWidth={maxWidth}
         width={maxWidth}
       >
         {isPopupOpen3 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 3, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
+      }
     </Marker>
   )
   return <div>
@@ -317,6 +362,7 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
   const handleClosePopup1 = () => setIsPopupOpen1(false);
   const handleClosePopup2 = () => setIsPopupOpen2(false);
   const handleClosePopup3 = () => setIsPopupOpen3(false);
+  var selected = item.bracketInfo.setKey == itemKey
 
 
   var icon = new L.Icon({
@@ -334,48 +380,51 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
 
   var icon3 = new L.DivIcon({
     iconSize: [3, 3],
-    html: renderMarkerText(item, zoomLevel, filterType)
+    html: renderMarkerText(item, selected, zoomLevel, filterType)
   })
 
   var lat = latLons[index].lat;
   var lon = latLons[index].lon;
   var setKey = item.bracketInfo.setKey
   var maxWidth = useVideoInPopup ? videoWidth : (0.7*videoWidth)
-
+  const usePopups = false
   var marker1 = (
     <Marker key={setKey+"left"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup1, popupclose: handleClosePopup1}} icon={
       icon
     }>
-      <Popup className="leafpopup"
+      {usePopups && <Popup className="leafpopup"
         maxWidth={maxWidth}
         width={maxWidth}
       >
         {isPopupOpen1 && <PopupForSet key={setKey+"PopupForSet1"} {...{item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 1, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
+      }
     </Marker>
   )
   var marker2 = (
     <Marker key={setKey+"right"} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup2, popupclose: handleClosePopup2}} icon={
       icon2
     }>
-      <Popup className="leafpopup"
+      {usePopups && <Popup className="leafpopup"
         maxWidth={maxWidth}
         width={maxWidth}
       >
         {isPopupOpen2 && <PopupForSet key={setKey+"PopupForSet2"} {...{item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 2, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
+      }
     </Marker>
   )
   var marker3 = (
     <Marker key={setKey} position={[lat, lon]} eventHandlers={{click: onMarkerClick, popupopen: handleOpenPopup3, popupclose: handleClosePopup3}} icon={
       icon3
     }>
-      <Popup className="leafpopup"
+      {usePopups && <Popup className="leafpopup"
         maxWidth={maxWidth}
         width={maxWidth}
       >
         {isPopupOpen3 && <PopupForSet key={setKey+"PopupForSet3"} {...{item, handleStreamIndexButtonClick, streamSubIndex, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 3, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
+      }
     </Marker>
   )
   return <div>
@@ -524,30 +573,34 @@ const PopupForSet = ({item, handleStreamIndexButtonClick, streamSubIndex, itemKe
 }
 
 
-function renderMarkerText(item, zoomLevel, filterType) {
+function renderMarkerText(item, selected, zoomLevel, filterType) {
   var lumitier = item.bracketInfo.lumitier
   // var lumitier = "C+"
   var lumitierIconStr = getLumitierIconStr(lumitier)
   // var shadowColor = "#F9D84999";
-  var shadowColor = "#00ffff99";
-  var shadowText1 = (item.matchesFilter && filterType == FilterType.HIGHLIGHT) ? "box-shadow: 12px 0px 40px 20px "+shadowColor+"; " : ""
-  var shadowText2 = (item.matchesFilter && filterType == FilterType.HIGHLIGHT) ? "box-shadow: 0px -15px 40px 12px "+shadowColor+"; ": ""
+  var shadowColor = "#00ffff77";
+  var shadowText1 = (item.matchesFilter && filterType == FilterType.HIGHLIGHT) ? "box-shadow: 0px -5px 5px 5px "+shadowColor+"; " : ""
+  var shadowText2 = ""
+  // var shadowText2 = (item.matchesFilter && filterType == FilterType.HIGHLIGHT) ? "box-shadow: 0px -15px 40px 12px "+shadowColor+"; ": ""
+  var shadowColor = "#90ee9088";
+  var shadowText1 = (selected) ? "box-shadow: 0px -5px 5px 5px "+shadowColor+"; " : shadowText1
+  // var shadowText2 = (selected) ? "box-shadow: 0px -5px 5px 5px "+shadowColor+"; ": shadowText2
 
-  var txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px; flex; align-items: center; justify-content: center; position: relative;">
+  var txt = `<div style="color: var(--text-main-color); line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 10px; font-weight: bold; width:300px; flex; align-items: center; justify-content: center; position: relative;">
     <div style="z-index: 1; margin-bottom: -2px; position: relative; ">
-      <span style="font-size: 16px;font-weight: bolder; background: #fff; padding-top:1px; padding-left:2px; padding-right:2px; border-top-left-radius:4px; border-top-right-radius:4px; border: 1px solid gray; border-bottom: 0;">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</br>
+      <span style="font-size: 16px;font-weight: bolder; background: var(--bg-abs); padding-top:1px; padding-left:2px; padding-right:2px; border-top-left-radius:4px; border-top-right-radius:4px; border: 1px solid #414141; border-bottom: 0; ${shadowText1}">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</br>
     </div>
-    <div style=" background: white; width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid gray; ${shadowText2}">
+    <div style=" background: var(--bg-abs); width: fit-content; display: inline-block; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom:4px; border-radius:10px; border: 1px solid #414141; ${shadowText2}">
       <span >
-        <span style="background: white">${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
+        <span style="background: var(--bg-abs)">${item.bracketInfo.tourneyName}, ${item.bracketInfo.fullRoundText}</span>
         <br/>
         <span style="font-size: 12px;font-weight: bolder;">${item.player1Info.nameWithRomaji}</span> vs <span style="font-size: 12px;font-weight: bolder;">${item.player2Info.nameWithRomaji}</span><br/>
       </span>
     </div>
   </div>`
 
-  if (zoomLevel < 4) {
-    txt = `<div style="color: black; line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 16px; font-weight: bold; width:300px"><div><span style="font-size: 16px;font-weight: bolder; background: #ffffffff; padding-bottom:1px; padding-top:1px; padding-left:2px; padding-right:2px; border-radius:4px; border: 1px solid gray; ${shadowText1}">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</div></div>`
+  if (zoomLevel < 6) {
+    txt = `<div style="color: var(--text-main-color); line-height:1.2;margin-left: -150px; margin-top: -2px; font-size: 16px; font-weight: bold; width:300px"><div><span style="font-size: 16px;font-weight: bolder; background: var(--bg-abs); padding-bottom:1px; padding-top:1px; padding-left:2px; padding-right:2px; border-radius:4px; border: 1px solid #414141; ${shadowText1}">👤${item.bracketInfo.numEntrants}</span>${lumitierIconStr}</div></div>`
   }
   return txt
 }

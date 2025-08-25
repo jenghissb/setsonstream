@@ -31,6 +31,7 @@ export const VideoGameInfo = Object.freeze([
     "id": "1386",
     "name": "Super Smash Bros. Ultimate",
     "displayName": "Smash Ultimate",
+    "gameSlug": "super-smash-bros-ultimate",
     // "displayName": "Ultimate",
     "images": [
       {
@@ -45,6 +46,7 @@ export const VideoGameInfo = Object.freeze([
     "id": "53945",
     "name": "Rivals of Aether II",
     "displayName": "Rivals of Aether II",
+    "gameSlug": "rivals-of-aether-ii",
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/53945/image-51b85875cc3581106eb5986c02343438.png?ehk=9M208lBU1rR4A9Gxq2XobwvNaq5AwIio9exvntOrKOI%3D&ehkOptimized=TnKDP3iLZIJKAU4Zvf7CJ9yWRKM0F%2FbNtMtjVHAVfwY%3D"
@@ -55,6 +57,7 @@ export const VideoGameInfo = Object.freeze([
     "id": "43868",
     "name": "Street Fighter 6",
     "displayName": "Street Fighter 6",
+    "gameSlug": "street-fighter-6",
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/43868/image-e3e3c405db59bae213cb02dfee9ab9a0.jpg?ehk=ZtdBgarQyX4bTSuJWfPLdaFWXToJ3c2tx7DKUw7pN%2Fs%3D&ehkOptimized=jKLhJExgAx9csoAYGUD7hYyVdY1fPcbM1Cat8AekxtY%3D"
@@ -68,6 +71,7 @@ export const VideoGameInfo = Object.freeze([
     "id": "1",
     "name": "Super Smash Bros. Melee",
     "displayName": "Melee",
+    "gameSlug": "super-smash-bros-melee",
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/1/image-36450d5d1b6f2c693be2abfdbc159106.jpg?ehk=kHyxo9ZpitIjPcTdkRi6H4H8JkRXjeM5%2BousqjDV%2B%2FI%3D&ehkOptimized=CRpoBnGE8dtJkSIGcd2811UkurtlEPOKEay%2BqgCETlQ%3D"
@@ -81,6 +85,7 @@ export const VideoGameInfo = Object.freeze([
     "id": "49783",
     "name": "TEKKEN 8",
     "displayName": "TEKKEN 8",
+    "gameSlug": "tekken-8",
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/49783/image-acc13f09acce9819aa908ba77d621a05.jpg?ehk=jYogwhWRsoP38Mt7kbA5RLwuoFoH8y%2FBKabBOaDnmdg%3D&ehkOptimized=xnCM%2FeDWTNnEiVwwtXti50eZLgSc%2B6pb%2BTs2Do8O0Ks%3D"
@@ -94,6 +99,7 @@ export const VideoGameInfo = Object.freeze([
     "id": "33945",
     "name": "Guilty Gear: Strive",
     "displayName": "Guilty Gear: Strive",
+    "gameSlug": "guilty-gear-strive",
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/33945/image-baf58126feb19827670d6e88deac0d39.jpg?ehk=FXPTXzzOOO6%2BGgZFvIxiGkBMRyBPJlsWi3%2BSecHOOfU%3D&ehkOptimized=%2FSlM7PUdFRks7tJDVFTYaE1uV1MRIEI3Po0%2Br2geFZk%3D"
@@ -107,6 +113,7 @@ export const VideoGameInfo = Object.freeze([
     "id": "48548",
     "name": "Granblue Fantasy Versus: Rising",
     "displayName": "Granblue Fantasy Versus: Rising",
+    "gameSlug": "granblue-fantasy-versus",
     "images": [
       {
         "url": "https://images.start.gg/images/videogame/48548/image-671eaa79165e3a80d6f89b2c9a09ccec.png?ehk=zAEyeT%2FAaIjXbqDLrJGHdHaPbEZDJtF6zgewmNx4c4M%3D&ehkOptimized=YWQ5ZkLjjw5VIxh98wlX%2Bo%2FwX6xRmQpglqMY5vEcG2Y%3D"
@@ -117,6 +124,10 @@ export const VideoGameInfo = Object.freeze([
 
 export const VideoGameInfoById = Object.fromEntries(
   VideoGameInfo.map(item => [item.id, item])
+);
+
+export const VideoGameInfoByGameSlug = Object.fromEntries(
+  VideoGameInfo.map(item => [item.gameSlug, item])
 );
 
 
@@ -133,4 +144,8 @@ const TimeRanges = Object.freeze({
 export function getDefaultTimeRange(gameId) {
   const defaultRangeValue = [-6.5, 0]
   return TimeRanges[gameId] ?? defaultRangeValue
+}
+
+export function charactersAsSuggestionArr(gameId) {
+  return Characters[gameId]?.charList?.map(charName => { return {charName}})
 }

@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import Box from '@mui/material/Box';
 
 function renderSvg({width="40px", height="40px", color="#bbbbbb"}) {
-  return <svg width={width} height={height} viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke={color} fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
+  return <svg width={width} height={height} viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke={"var(--text-main-color-subdue-3)"} fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
 
   return <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -40,25 +40,25 @@ export function renderRewindSetButton(setUseLiveStream, fromMap) {
 
 export function renderRewindShortButton(rewindSet, fromMap) {
   const secondsToRewind = 5;
-  const color = fromMap ? "#444444" : "#dddddd"
+  // const color = fromMap ? "#444444" : "#dddddd"
   return <div onClick={() => rewindSet(5)} className="rewindShortButton">
-    {renderSvg({width: "32px", height: "32px", color})}
-    <div className='rewindShortText' style={{color: color}}>{secondsToRewind}</div>
+    {renderSvg({width: "32px", height: "32px"})}
+    <div className='rewindShortText' style={{color: "var(--text-main-color-subdue-3)"}}>{secondsToRewind}</div>
   </div>
 }
 
 export const RewindAndLiveButtons = ({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, handleTimestampChange, rewindReady, fromMap}) => {
-  useLiveStream = useLiveStream && !showVodsMode
+  // useLiveStream = useLiveStream && !showVodsMode
   if (!supportsRewindSet(item)) {
     return
   }
   if (!shouldShow) {
     return <div className="rewindSetButton" ></div>
   }
-  if (useLiveStream) {
+  if (useLiveStream && item.bracketInfo.endTimeDetected == null) {
     return renderRewindSetButton(setUseLiveStream, fromMap)
   } else {
-    return RewindControlRow({item, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, fromMap})
+    return RewindControlRow({item, setUseLiveStream, useLiveStream, handleTimestampChange, rewindReady, fromMap})
   }
 }
 
@@ -100,17 +100,17 @@ function renderLiveSvg({color}) {
   </svg>
 }
 
-const RewindControlRow = ({item, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, fromMap}) => {
+const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestampChange, rewindReady, fromMap}) => {
   var liveButton = null
-  if (!showVodsMode) {
-    liveButton = renderSetLiveButton(setUseLiveStream, fromMap)
-  }
   var streamUrls = item.streamInfo.streamUrls[0]
   var startedAt = item.bracketInfo.startedAt
-  var endedAt = item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
+  var endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
   var duration = Math.min(endedAt-startedAt, 60*60)
   var endedAt = startedAt + endedAt
-
+  
+  if (!useLiveStream && item.bracketInfo.endTimeDetected == null) {
+    liveButton = renderSetLiveButton(setUseLiveStream, fromMap)
+  }
   var streamOffset = getStreamTimeOffset(item, 0)
   
   const [currentProgress, setCurrentProgress] = useState(null);
@@ -154,14 +154,16 @@ const RewindControlRow = ({item, setUseLiveStream, showVodsMode, handleTimestamp
   var marks = [
     {
       value: 0,
-      label: <div className={markContainerClass}>start</div>,
+      label: <div/>
+      // label: <div className={markContainerClass}>0</div>,
     },
   ];
   if (item.bracketInfo.endTimeDetected != null) {
     marks.push(
       {
         value: duration,
-        label: <div className={markContainerClass}>{convertSecondstoTimeStr(duration)}</div>,
+        label: <div/>
+        // label: <div className={markContainerClass}>{convertSecondstoTimeStr(duration)}</div>,
       },
     )
   }
@@ -192,18 +194,18 @@ const RewindControlRow = ({item, setUseLiveStream, showVodsMode, handleTimestamp
 
 const StyledSlider = styled(Slider)({
   color: '#52af77',
-  height: 8,
+  height: 4,
   '& .MuiSlider-track': {
     border: 'none',
   },
   '& .MuiSlider-rail': {
     color: '#52af77',
     opacity: 0.7,
-    height: 5,
+    height: 3,
   },
   '& .MuiSlider-thumb': {
-    height: 26,
-    width: 18,
+    height: 4,
+    width: 2,
     borderRadius: 6,
     backgroundColor: '#ddd',
     border: '1.5px solid rgb(57, 121, 82)',

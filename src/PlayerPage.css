@@ -1,0 +1,29 @@
+.playerPageContainer {
+  margin-bottom: 8px;
+}
+
+.playerPageName {
+  font-size: large;
+  color: white;
+}
+
+.playerPageBracket{
+  overflow: hidden;
+}
+
+.playerPageBracketContainer{
+  filter: brightness(90%) invert(100%) hue-rotate(180deg);
+}
+
+/* iframe .img {
+  filter: brightness(90%) invert(100%) hue-rotate(180deg);
+} */
+
+
+/* #dark-mode-container iframe {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+#dark-mode-container iframe img {
+  filter: invert(1);
+} */

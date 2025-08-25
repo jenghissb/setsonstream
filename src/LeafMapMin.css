@@ -1,3 +1,24 @@
+/* :not(has(data-theme)),[data-theme='dark'] */
+
+[data-theme]:not([data-theme='light'])
+.leaflet-layer,
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out,
+.leaflet-tile,
+.leaflet-control-attribution {
+  /* filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%); */
+  filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+}
+
+/* .leaflet-control-attribution-light {
+
+} */
+
+.leaflet-container {
+  background: var(--bg-20) !important;
+  /* filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%); */
+}
+
 .leafcharemoji {
   height: 24px;
   width: 24px;
@@ -9,49 +30,49 @@
 .leafplayerName {
   font-weight: bold;
   font-size: smaller;
-  color: #000 !important;
+  color: var(--text-main-color) !important;
 }
 
 .leafplayerName:hover {
   font-weight: 900;
-  color: lightgray;
+  color: var(--text-color-hover);
 }
 
 .leafplayerName a {
   font-weight: 900;
-  color: black !important;
+  color: var(--bg-main) !important;
 }
 
 .leafplayerName2 {
   font-weight: bold;
   font-size: smaller;
-  color: #000;
+  color: var(--text-main-color);
 }
 
 .leafplayerNameMarker {
   font-weight: bolder;
   font-size: medium;
-  color: #000;
+  color: var(--text-main-color);
 }
 
 .leaftourneyName {
   font-weight: bold;
   /* font-size: large; */
-  color: #000 !important;
+  color: var(--text-main-color) !important;
   line-height: 1.8;
 }
 
 .leafEntrants {
   font-weight: bold;
   font-size: medium;
-  color: #000 !important;
+  color: var(--text-main-color) !important;
 }
 
 
 .leafbracketInfo {
   font-weight: bold;
   font-size: smaller;
-  color: #000;
+  color: var(--text-main-color);
 }
 
 .leafVertConstraint {
@@ -149,7 +170,7 @@
 
 .leafbracketLink {
   font-size:smaller;
-  color: #000 !important;
+  color: var(--text-main-color) !important;
   text-wrap: wrap;
   word-break: break-all;
 }
@@ -161,7 +182,7 @@
 }
 
 .leafMinMaxSvg {
-  color:var(--text-main-color-subdue-4);
+  color: var(--text-main-color-subdue-4);
   width: 32px;
   height: 32px;
   position:absolute;
@@ -211,7 +232,7 @@
 
 .attirbutionContainer {
   position:absolute;
-  right: 40px;
+  right: 132px;
   top: 0px;
   /* bottom:120px; */
   z-index: 3990;

@@ -14,14 +14,15 @@
 } */
 
 .home2App-header {
-  background-color: #282c34;
+  background-color: var(--bg-main);
   min-height: calc(100vh - 25px);
-  display: flex;
+  /* height: calc(100vh - 25px); */
+  /* display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: flex-start; */
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: var(--text-main-color);
 }
 
 .home2App-link {
@@ -57,6 +58,8 @@
 
 .home2overallDiv {
   width: vw;
+  overflow: hidden;
+  height: vh;
   /* over flow: hidden; */
 }
 .home2topContainer {
@@ -90,9 +93,9 @@
   z-index: 210;
 }
 
-.home2bottomOffsetDiv {
+/* .home2bottomOffsetDiv {
   height:64px;
-}
+} */
 
 
 .home2footerButtonContainer {
@@ -133,6 +136,18 @@
 }
 .home2set-row-3-flex {
   flex-grow: 1;
+  flex-shrink: 0;
+  min-width: 320px;
+  max-width: 400px;
+  flex-basis: 0;
+}
+
+.home2set-row-3-flex-small {
+  flex-grow: 1;
+  flex-shrink: 0;
+  min-width: 280px;
+  max-width: 300px;
+  flex-basis: 0;
 }
 
 
@@ -144,6 +159,11 @@
   display: flex;
   flex-wrap: wrap;
   overflow: hidden;
+}
+.home2setRows-flex::after {
+    /* content: "";
+    flex-grow: 1;
+  flex-basis: 0; */
 }
 
 .home2rowPreviewHolder {
@@ -172,12 +192,12 @@
   flex-wrap: wrap;
   max-lines: 30;
   max-width: 300px;
-  color: white;
+  color: var(--text-main-color);
   padding-top: 4px;
   padding-bottom: 4px;
 }
 .home2bigLinkLabel {
-  color: #FFF;
+  color: var(--text-main-color);
   font-size:small;
   text-wrap: wrap;
   text-decoration: none;
@@ -227,25 +247,26 @@
 .home2toggleLiveVod {
   font-weight:bold;
   font-size: large;
-  color: #fffa;
-  padding:12px;
+  color: var(--text-main-color);
+  opacity: 0.7;
+  padding: 12px;
 }
 
 .home2toggleLiveVodCurrent {
   font-size: large;
   font-weight:bold;
-  color: #fff;
+  color: var(--text-main-color);
   padding:12px;
 }
 
 .home2toggleLiveVod:active {
-  color: #fff;
+  color: var(--text-main-color);
   /* color: lightgray; */
   transform: scale(1.09);
 }
 
 .home2toggleLiveVod:hover {
-  color: lightgray;
+  color: var(--text-color-hover);
   transform: scale(1.09);
 }
 
@@ -259,6 +280,7 @@
 .home2app-inform {
   font-size:medium;
   line-height:1.2;
+  height: vh;
 }
 
 .home2app-inform-overMap {
@@ -272,9 +294,13 @@
 
 .home2stickyContainer {
   position: sticky;
-  background: #292C33;
+  background: var(--bg-main);
   z-index: 20;
 }
+/* 
+body {
+  overscroll-behavior-y: contain;
+} */
 
 .home2flexMapVid {
   display: flex;
@@ -288,23 +314,251 @@
 .home2threePanes {
   display: flex;
   flex-direction: row;
-  
+  /* height:1000px; */
+  height: 100vh;
+  width:100vw;
+  /* overflow-y: hidden; */
 }
 
 .home2rightPane {
-  display: flex;
+  flex: 1;
   flex-direction: column;
-  
+  /* padding: 1rem; */
+  overflow-y: auto;
+  max-width:340px;
 }
 
 .home2centerPane {
+  flex: 1;
+  /* padding: 1rem; */
+  overflow-y: auto;
+  /* width:300px; */
+  /* display: flex;
+  flex-direction: row;
+  height:100%; */
+}
+.home2previewContainer {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex: 1;
+  max-width: 100%;
+  max-height: calc(100% - 240px);
+  /* height:600px; */
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-self: center;
+  /* justify-self: center; */
+  margin-bottom: 4px;
+  transition: max-width 0.2s;
+  /* justify-content: stretch;
+  align-content: stretch;
+  align-items: stretch; */
   
 }
-
 
 
 .home2rawStyle {
   font-size: small
+}
+
+.home2Bracket{
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: scale(0.7); 
+  transform-origin: 0 0;
+  
+  /* filter: brightness(90%) invert(100%) hue-rotate(180deg); */
+  /* transform: scale(0.33333); */
+}
+.home2BracketFilter{
+  filter: brightness(90%) invert(100%) hue-rotate(180deg);
+}
+
+.home2BracketContainer{
+  position: relative;
+  /* display:block; */
+  /* flex-direction: column; */ 
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.home2SubEmbeds {
+  position: relative;
+  display: flex;
+  /* height: 240px; */
+  flex-direction: column; /* This helps define the height based on content */
+  /* background-color: #61dafb; */
+}
+.home2SubEmbedChatContainer {
+  position: absolute;
+  top:0;
+  display: contents;
+  height:fit-content;
+  width: fit-content;
+}
+.home2SubEmbedContainer {
+  position: absolute;
+  top:0;
+  display: contents;
+  height:fit-content;
+  width: fit-content;
+}
+.home2SubEmbedControlsContainer {
+  position: absolute;
+  height:fit-content;
+  width: fit-content;
+  right: 0px;
+  top: 0px;
+  background-color: var(--bg-controls);
+  /* padding-left: 4px;
+  padding-right: 4px; */
+  /* border: 1px solid black; */
+  z-index: 20050;
+}
+
+.home2RouteRow {
+  margin-left: 8px;
+  margin-right: 4px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  height: 32px;
+  /* height: 32px; */
+  display: flex;
+  flex-direction: row;
+  width:fit-content;
+  /* overflow-x:hidden; */
+  align-items: center;
+  align-content: center;
+  justify-content: flex-start;
+  justify-items: flex-start;
+}
+.home2RouteTitle {
+  margin-left: 6px;
+  /* width:fit-content; */
+  font-size: medium;
+  font-weight: 500;
+  overflow-x:scroll;
+  max-lines: 1;
+  text-align: start;
+  text-decoration: none;
+  color: var(--text-main-color)
+}
+.home2RouteTitleCat:hover{
+  transform: scale(1.03)
+}
+.home2RouteGameSelectTitle {
+  margin-left: 6px;
+  /* width:fit-content; */
+  font-size: medium;
+  font-weight: 500;
+  overflow-x:scroll;
+  max-lines: 1;
+  color: var(--text-main-color)
+}
+
+.home2RouteGameSelectIcon {
+  height: 24px;
+  width: 18px;
+  display:flex;
+  align-items: center;
+  align-self: center;
+  /* border-radius: 18px; */
+  flex-grow: 0;
+}
+.home2RouteGameSelectContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-self: center;
+  background: var(--bg-controls);
+  padding-top:4px;
+  padding-bottom:4px;
+  padding-left:6px;
+  padding-right:8px;
+  margin-left: 6px;
+  border-radius: 6px;
+}
+.home2RouteGameSelectContainer:hover{
+  transform: scale(1.02);
+}
+
+.home2RouteCharIcon {
+  height: 30px;
+  width: 30px;
+  border-radius: 4px;
+  flex-grow: 0;
+}
+
+.home2RouteTourneyIcon {
+  height: 30px;
+  width: 30px;
+  border-radius: 4px;
+  flex-grow: 0;
+}
+
+.home2RouteChannelIcon {
+  height: 30px;
+  width: 30px;
+  border-radius: 18px;
+  flex-grow: 0;
+}
+
+.home2RouteGameIcon {
+  height: 32px;
+  width: 24px;
+  align-self: center;
+  /* border-radius: 18px; */
+  flex-grow: 0;
+}
+.home2RouteGameIcon:hover{
+  transform: scale(1.03);
+}
+
+.home2RouteHomeIcon {
+  height: 28px;
+  width: 28px;
+  display: flex;
+  /* align-content:; */
+  /* margin-right: 6px; */
+  align-self: center;
+  /* border-radius: 18px; */
+  flex-grow: 0;
+}
+.home2RouteHomeIcon:hover{
+  transform: scale(1.07);
+}
+
+.home2RouteStarIcon {
+  height: 24px;
+  width: 24px;
+  margin-left: 4px;
+  display: flex;
+  align-self: center;
+  /* border-radius: 18px; */
+  flex-grow: 0;
+}
+
+.home2DotStyle {
+  font-size: 24px;
+  color: var(--text-main-color-subdue-2);
+  margin-left:4px;
+  margin-right:4px;
+}
+
+.home2titleBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.home2LoadingSyle {
+  background-color: var(--bg-main);
+}
+
+.home2ErrorSyle {
+  
 }
