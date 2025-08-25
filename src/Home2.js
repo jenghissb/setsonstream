@@ -367,7 +367,8 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
   if (showVodsMode) {
     // dataToStart = data[filterInfo.currentGameId].vods
     dataToStart = data[filterInfo.currentGameId].combined
-    if (homeType == HomeTypes.HOME || homeType == HomeTypes.GAME) {
+    // if (homeType == HomeTypes.HOME || homeType == HomeTypes.GAME) {
+    if (homeType == HomeTypes.GAME) {
       const timeRange = filterInfo.filters[filterInfo.currentGameId]?.timeRange ?? getDefaultTimeRange(filterInfo.currentGameId)
       if (timeRange != null) {
         const timeStart = Date.now()/1000 + timeRange[0]*24*60*60
