@@ -1253,7 +1253,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   if (useHomeTypeLists) {
     // previewStyle.height = "38%"
     // previewStyle.width = "min(max(30%, 180px), 500px)"
-    previewStyle.maxWidth = "min(max(30%, 180px), 500px)"
+    previewStyle.maxWidth = "min(max(30%, 300px), 500px)"
   }
 
   const titleStyle = hasRightPane ? {zIndex:30004} : {position: "sticky", top: 0, zIndex:30004, background: "var(--bg-main)"}
