@@ -2,11 +2,11 @@ import './DataRowHybrid.css';
 import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { MediaPreview } from "./VideoEmbeds.js"
-import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp, textMatches, getChannelName, getTourneySlug, getPlayerLink, getGameUrlStr, getCharLink, getTourneyLink, getChannelLink} from './Utilities.js'
+import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp, textMatches, tourneyMatches, getChannelName, getTourneySlug, getPlayerLink, getGameUrlStr, getCharLink, getTourneyLink, getChannelLink} from './Utilities.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
 import { IconStartGg, IconStream } from './BrandIcons.js'
 
-export const DataRowHybrid = memo(({catInfo, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
+export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
   var preview = null
   var divClass = "drh-set-row-1"
   if (selected) divClass = divClass + " drh-set-row-1-selected"
@@ -57,7 +57,7 @@ export const DataRowHybrid = memo(({catInfo, item, filterInfo, useVideoInList, h
 
   const textGlowClass="drh-textGlow"
   var tourneyTitleClass = "drh-tourneyTitle"
-  if (textMatches(filterInfo, item.bracketInfo.tourneyName)) {
+  if (false && tourneyMatches(filterInfo, item)) {
     tourneyTitleClass = `${tourneyTitleClass} ${textGlowClass}`
   }
   var player1NameClass = "drh-playerName"
@@ -196,8 +196,9 @@ function charEmojiImage(name, gameId, key = "", filterInfo) {
   const src = charEmojiImagePath(name, gameId)
   const charLink = getCharLink(name, gameId)
   var matchesFilter = false;
-  filterInfo?.filters[gameId]?.characters?.forEach(charName => {
-    if (charName == name) {
+  filterInfo?.filters[gameId]?.searches?.forEach(search => {
+  // filterInfo?.filters[gameId]?.characters?.forEach(charName => {
+    if (search.charName == name) {
       matchesFilter = true
     }
   })

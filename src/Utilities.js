@@ -242,6 +242,21 @@ export const textMatches = (filterInfo, text) => {
   return matches
 }
 
+export const tourneyMatches = (filterInfo, item) => {
+  var matches = false
+  const tourneySlug = getTourneySlug(item.bracketInfo)
+  filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
+    if (searchTerm.tourneySlug && searchTerm.tourneySlug == tourneySlug) {
+      matches = true
+    } else if (searchTerm.textSearch) {
+      if (item.bracketInfo.tourneyName.toLowerCase().indexOf(searchTerm.textSearch.toLowerCase()) >=0) {
+        matches = true
+      }
+    }
+  })
+  return matches
+}
+
 export function getCSSVariable(name, element = document.documentElement) {
   return getComputedStyle(element).getPropertyValue(name).trim();
 }

@@ -6,7 +6,7 @@ import "./Home2.css"
 
 
 export function HorizontalVirtualList({
-    catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef,
+    showItemMatches, catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef,
     itemWidth = 300, height = 300 }
 ) {
   const parentRef = useRef(null);
@@ -60,7 +60,7 @@ export function HorizontalVirtualList({
             }}
           >
             <div key={`${item.bracketInfo.setKey}_dataRowItem`} className={stylename2} index={index}>
-              <DataRowHybrid {...{catInfo, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
+              <DataRowHybrid {...{showItemMatches, catInfo, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
             </div>
           </div>
       })}
@@ -190,6 +190,7 @@ export function VirtualList({
 
 
 export const AdaptiveVirtualVideoGrid2 = ({
+  showItemMatches,
   parentRef,
   items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef,
   minItemWidth = 200,
@@ -313,7 +314,7 @@ export const AdaptiveVirtualVideoGrid2 = ({
                     // }}
                   >
                     <div key={`${item.bracketInfo.setKey}_dataRowItem`} className={stylename2} index={index}>
-                      <DataRowHybrid {...{item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
+                      <DataRowHybrid {...{showItemMatches, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
                     </div>
                   </div>
 

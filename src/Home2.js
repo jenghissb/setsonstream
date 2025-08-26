@@ -5,7 +5,7 @@ import { LeafMap } from './LeafMapMin.js'
 // import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
-import { checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon } from './Utilities.js'
+import { checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath } from './Utilities.js'
 import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
@@ -330,6 +330,66 @@ function getRouteFilterInfo(homeType, params) {
   return routeFilterInfo
 }
 
+function getCatFilterInfo(suggestion, gameId) {
+  var routeFilterInfo = null
+  if (suggestion?.charName != null) {
+    routeFilterInfo = {
+      currentGameId: gameId,
+      filters: {
+        [gameId]: {
+          searches: [{charName: suggestion.charName}]
+        }
+      }
+    }
+  } else if (suggestion?.userSlug != null) {
+    routeFilterInfo = {
+      currentGameId: gameId,
+      filters: {
+        [gameId]: {
+          searches: [{userSlug: suggestion.userSlug}]
+        }
+      }
+    }
+  } else if (suggestion?.channelName != null) {
+    routeFilterInfo = {
+      currentGameId: gameId,
+      filters: {
+        [gameId]: {
+          searches: [{channelName: suggestion.channelName}]
+        }
+      }
+    }
+  } else if (suggestion?.tourneySlug != null) {
+    routeFilterInfo = {
+      currentGameId: gameId,
+      filters: {
+        [gameId]: {
+          searches: [{tourneySlug: suggestion.tourneySlug}]
+        }
+      }
+    }
+  } else if (suggestion?.gameSlug != null) {
+    routeFilterInfo = {
+      currentGameId: gameId,
+      filters: {
+        [gameId]: {
+          searches: [{gameSlug: suggestion.gameSlug, gameId}]
+        }
+      }
+    }
+  } else {
+    routeFilterInfo = {
+      currentGameId: gameId,
+      filters: {
+        [gameId]: {
+          searches: []
+        }
+      }
+    }
+  }
+  return routeFilterInfo
+}
+
 function getFavoriteSuggestionFromRoute(homeType, params, filterInfo) {
   const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
   var routeFilterInfo = null
@@ -391,6 +451,7 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
   // }
   const routeFilterInfo = getRouteFilterInfo(homeType, params)
   const favMap = new Map()
+  const favFilterMap = new Map()
 
   if (routeFilterInfo != null ) {
     const urlFilters = getUrlFilters(routeFilterInfo)
@@ -401,7 +462,7 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
     // Search reorder deprecated
     sortedData.forEach(item => {
       const itemDoesMatch = itemMatchesFilter(item, filterInfo, urlFilters, favMap)
-      item.matchesFilter = itemDoesMatch
+      // item.matchesFilter = itemDoesMatch
     })
     // Search reorder deprecated
     // sortedData = [...sortedData].sort((a,b) => {
@@ -417,7 +478,10 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
   favMap.set({gameId, gameSlug}, sortedData)
   const favkeysOrdered = Array.from(favMap.keys());
   // const favkeysOrdered = Object.keys(favMap) ?? []
-  return {favMap, favkeysOrdered, displayData:sortedData}
+  favkeysOrdered.forEach(key => {
+    favFilterMap.set(key, getCatFilterInfo(key, gameId))
+  })
+  return {favMap, favkeysOrdered, favFilterMap, routeFilterInfo, displayData:sortedData}
 }
 
 function displayDataHasItemKey(displayData, itemKey) {
@@ -1048,6 +1112,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const displayData = displayDataInfo?.displayData || []
   const favMap = displayDataInfo?.favMap || {}
   const favkeysOrdered = displayDataInfo?.favkeysOrdered || []
+  const favFilterMap = displayDataInfo?.favFilterMap || {}
+  const routeFilterInfo = displayDataInfo?.routeFilterInfo
   // var displayDatas = useMemo(() => {
   //   if (loading || error) return null
   //   return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
@@ -1231,7 +1297,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   //   </div>
   //   </div>
   // )
-
+  const displayDataFilterInfo = routeFilterInfo || filterInfo
   return (
     <div className="home2overallDiv">
       {
@@ -1246,7 +1312,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           <div style={titleStyle}>
             { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
-              <RouteInfo {...{routeInfo, homeType, params, filterInfo, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
+              <RouteInfo {...{routeInfo, homeType, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
               {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
@@ -1289,14 +1355,14 @@ function MainComponent({homeMode, homeType, darkMode}) {
             </div>
           </div>}
           { 
-            !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+            !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
             // !hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
           }
           { 
             useHomeTypeLists && favkeysOrdered.length > 0 && favkeysOrdered.map((item, index) => {
               return <div key={getSearchItemKey(item)}>
                 {HorizontalCatHeader({favSuggestion:item, onFavorite:onSearch, gameId: currentGameId})}
-                <DataHorizontal {...{catInfo: item, items:favMap.get(item), filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+                <DataHorizontal {...{catInfo: item, items:favMap.get(item), filterInfo: favFilterMap.get(item), useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
               </div>
             })
             // useHomeTypeLists && <DataItems {...{jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
@@ -1309,11 +1375,11 @@ function MainComponent({homeMode, homeType, darkMode}) {
         }
         {hasRightPane && chat}
         {
-          hasRightPane && useSingleList && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          hasRightPane && useSingleList && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
           // hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
         }
         {
-          hasRightPane && useHomeTypeLists && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          hasRightPane && useHomeTypeLists && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
         }
         {
           hasRightPane && afterData
@@ -1520,8 +1586,9 @@ function renderLink(jsonData, shouldShow) {
 }
 
 const DataHorizontal = memo(({catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
+  const showItemMatches = catInfo.gameSlug != null
   return <HorizontalVirtualList
-    {...{catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
+    {...{showItemMatches, catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
   />
 })
 
@@ -1534,7 +1601,7 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
   //parentRef
   return <AdaptiveVirtualVideoGrid2
     //parentWidth:340
-    {...{padding: isRightPane? "0px": "4px", parentRef, parentRefCurrent:parentRef.current, items:jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
+    {...{showItemMatches: true, padding: isRightPane? "0px": "4px", parentRef, parentRefCurrent:parentRef.current, items:jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
   />
 
   var stylename1 = "home2setRows-flex"
@@ -1572,7 +1639,7 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
 
 // }
 
-function RouteInfo({homeType, params, routeInfo, filterInfo, onFavorite, openGameFilter}) {
+function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
   const routeName = getRouteName(homeType, params)
   const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
   var iconClass = ""
@@ -1596,6 +1663,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, onFavorite, openGam
   var title = ""
   var description = ""
   var showGameSelector = false
+  var supportsCharEmoji = false
   switch(homeType) {
     case HomeTypes.CHARACTER:
       routeText = charParam
@@ -1623,6 +1691,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, onFavorite, openGam
       title = `${routeText} - Sets on Stream`
       description = `Watch ${routeText}'s Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments`
       supportsStar = true
+      supportsCharEmoji = true
       break;
     case HomeTypes.TOURNAMENT:
       iconSrc = routeInfo?.tourneyIcon
@@ -1668,6 +1737,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, onFavorite, openGam
       <div className="home2RouteGameSelectIcon"><img className="home2RouteGameSelectIcon" src={gameIcon}/></div>
       <div className="home2RouteTitle">{`${gameInfo.displayName}`}</div>
     </div>}
+    {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && routeInfo && charEmojis(routeInfo.charInfo, gameId, "play1_")}
     {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(routeInfo)} /></div>}
   </div>
 }
@@ -1689,6 +1759,7 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
   var showGame = false
   // const isFavorite = favSuggestion != null;
   const isFavorite = favSuggestion != null;
+  var supportsCharEmoji = false
   if (favSuggestion.charName != null) {
     const charName = favSuggestion.charName
     routeText = charName
@@ -1702,6 +1773,7 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
     iconSrc = favSuggestion?.icon
     routeText = favSuggestion?.nameWithRomaji ?? "player"
     supportsStar = true
+    supportsCharEmoji = true
   } else if (favSuggestion.tourneySlug != null) {
     iconSrc = favSuggestion?.tourneyIcon
     iconClass = "home2RouteTourneyIcon"
@@ -1729,6 +1801,7 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
     {/* {gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>} */}
     {iconSrc && <img className={iconClass} src={iconSrc}/>}
     <Link className="home2RouteTitle home2RouteTitleCat" to={getLinkFromSearch(favSuggestion, gameId)}>{routeText}</Link>
+    {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && charEmojis(favSuggestion.charInfo, gameId, "play1_")}
     {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(favSuggestion)} /></div>}
   </div>
 }
@@ -1863,5 +1936,40 @@ function AfterData(showVodsMode, setShowVodsMode) {
     </div>
   }
 }
+
+function charEmojis(charInfo, gameId, prekey, filterInfo) {
+  var emojiArrs = []
+  charInfo?.forEach((item, index) => {
+    emojiArrs.push(charEmojiImage(item.name, gameId, prekey + index + "_", filterInfo))
+    if (item.schuEmojiName != null) {
+      emojiArrs.push(schuEmojiImage(item.schuEmojiName, prekey + "schu_" + index + "_"))
+    }
+  })
+  return emojiArrs.map((item, subindex) =>
+    item
+  )
+}
+function charEmojiImage(name, gameId, key = "", filterInfo) {
+  const src = charEmojiImagePath(name, gameId)
+  const charLink = getCharLink(name, gameId)
+  var matchesFilter = false;
+  filterInfo?.filters[gameId]?.searches?.forEach(search => {
+  // filterInfo?.filters[gameId]?.characters?.forEach(charName => {
+    if (search.charName == name) {
+      matchesFilter = true
+    }
+  })
+  var emojiClass = "home2-charemoji"
+  if (matchesFilter) {
+    emojiClass = "home2-charemojimatches"
+  }
+  // return <img className={emojiClass} key={key} src={charEmojiImagePath(name, gameId)}/>
+  return <Link key={key} to={charLink}><img className={emojiClass} src={charEmojiImagePath(name, gameId)}/></Link>
+}
+function schuEmojiImage(name, key = "") {
+  return <img className="home2-schuemoji" key={key} src={schuEmojiImagePath(name)}/>
+}
+
+
 
 export default Home;

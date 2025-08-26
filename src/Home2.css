@@ -562,3 +562,24 @@ body {
 .home2ErrorSyle {
   
 }
+
+.home2-charemoji {
+  height: 26px;
+  width: 26px;
+  margin-right: -6px;
+}
+
+.home2-charemojimatches {
+  height: 26px;
+  width: 26px;
+  /* margin-left: -6px; */
+  margin-right: -6px;
+  background-image: radial-gradient(#aaffff88, #aaffff00 200%);
+  box-shadow: 0px 0px 30px 2px rgb(170 255 255 / 0.8);
+}
+.home2-schuemoji {
+  height: 26px;
+  width: 26px;
+  /* margin-left: -6px; */
+  margin-right: -6px;
+}
