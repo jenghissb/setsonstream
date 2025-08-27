@@ -9,7 +9,7 @@ import { checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourne
 import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
-import { SearchInputBar, SearchTerms, SearchInputBarWithIcon } from "./SearchInputBar.js"
+import { SearchInputBar, SearchTerms, SearchInputBarWithIcon, renderSearchIcon } from "./SearchInputBar.js"
 import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
@@ -35,6 +35,7 @@ export const HomeTypes = Object.freeze({
   PLAYER: 'PLAYER',
   TOURNAMENT: 'TOURNAMENT',
   CHANNEL: 'CHANNEL',
+  SEARCH: 'SEARCH',
 });
 
 export const HomeModes = Object.freeze({
@@ -104,28 +105,40 @@ function charInfoHasCharacter(charInfo, charName) {
   return hasCharacter
 }
 
-function checkUrlMatches(urlFilters, item) {
+function checkUrlMatches(urlFilters, item, favMap) {
   var itemMatches = false
-  urlFilters.twitchMatch.forEach((twitchMatch) => {
+  urlFilters.twitchMatch.forEach(({twitchMatch, searchTerm}) => {
     item.streamInfo.streamUrls.forEach(streamUrlInfo => {
       const videoId = streamUrlInfo.videoId
       if (videoId != null && videoId.toLowerCase().indexOf(twitchMatch) >=0) {
         itemMatches = true
+        if (favMap != null && (favMap.get(searchTerm) == undefined || favMap.get(searchTerm).at(-1) != item)) {
+          favMap.set(searchTerm, favMap.get(searchTerm)?? [])
+          favMap.get(searchTerm).push(item)
+        }
       }
     })
   })
-  urlFilters.twitchMatchChannel.forEach((twitchMatchChannel) => {
+  urlFilters.twitchMatchChannel.forEach(({twitchMatchChannel, searchTerm}) => {
     item.streamInfo.streamUrls.forEach(streamUrlInfo => {
       if (streamUrlInfo.forTheatre.toLowerCase().indexOf(twitchMatchChannel) >=0) {
         itemMatches = true
+        if (favMap != null && (favMap.get(searchTerm) == undefined || favMap.get(searchTerm).at(-1) != item)) {
+          favMap.set(searchTerm, favMap.get(searchTerm)?? [])
+          favMap.get(searchTerm).push(item)
+        }
       }
     })
   })
-  urlFilters.youtubeMatch.forEach((youtubeMatch) => {
+  urlFilters.youtubeMatch.forEach(({youtubeMatch, searchTerm}) => {
     item.streamInfo.streamUrls.forEach(streamUrlInfo => {
       const videoId = streamUrlInfo.videoId
       if (videoId != null && videoId.toLowerCase().indexOf(youtubeMatch) >=0) {
         itemMatches = true
+        if (favMap != null && (favMap.get(searchTerm) == undefined || favMap.get(searchTerm).at(-1) != item)) {
+          favMap.set(searchTerm, favMap.get(searchTerm)?? [])
+          favMap.get(searchTerm).push(item)
+        }
       }
     })
   })
@@ -147,11 +160,11 @@ function getUrlFilters(filterInfo) {
       const twitchMatchChannel = searchTerm.match(twitchRegexChannel)?.[1]
       const youtubeMatch = searchTerm.match(youtubeRegex)?.[1]
       if (twitchMatch != null && twitchMatch.length > 0) {
-        urlFilters.twitchMatch.push(twitchMatch)
+        urlFilters.twitchMatch.push({twitchMatch, searchTerm})
       } else if (twitchMatchChannel != null && twitchMatchChannel.length > 0) {
-        urlFilters.twitchMatchChannel.push(twitchMatchChannel)
+        urlFilters.twitchMatchChannel.push({twitchMatchChannel, searchTerm})
       } else if (youtubeMatch != null && youtubeMatch.length > 0) {
-        urlFilters.youtubeMatch.push(youtubeMatch)
+        urlFilters.youtubeMatch.push({youtubeMatch, searchTerm})
       }
     }
   })
@@ -165,29 +178,29 @@ function itemMatchesFilter(item, filterInfo, urlFilters, favMap) {
   //     matchesFilter = true
   //   }
   // })
-  if (textMatches(filterInfo, item.bracketInfo.tourneyName)) {
+  if (textMatches(filterInfo, item.bracketInfo.tourneyName, item, favMap)) {
     matchesFilter = true
   }
-  if (textMatches(filterInfo, item.player1Info.nameWithRomaji)) {
+  if (textMatches(filterInfo, item.player1Info.nameWithRomaji), item, favMap) {
     matchesFilter = true
   }
-  if (textMatches(filterInfo, item.player2Info.nameWithRomaji)) {
+  if (textMatches(filterInfo, item.player2Info.nameWithRomaji, item, favMap)) {
     matchesFilter = true
   }
   if (item.streamInfo.streamSource == "TWITCH") {
-    if (textMatches(filterInfo, item.streamInfo.forTheatre)) {
+    if (textMatches(filterInfo, item.streamInfo.forTheatre, item, favMap)) {
       matchesFilter = true
     }
   }
   item.streamInfo.streamUrls.forEach(streamUrlInfo => {
-    if (textMatches(filterInfo, streamUrlInfo.videoId)) {
+    if (textMatches(filterInfo, streamUrlInfo.videoId, item, favMap)) {
       matchesFilter = true
     }
   })
-  if (checkUrlMatches(urlFilters, item)) {
+  if (checkUrlMatches(urlFilters, item, favMap)) {
       matchesFilter = true
   }
-  if (textMatches(filterInfo, item.bracketInfo.url)) {
+  if (textMatches(filterInfo, item.bracketInfo.url, item, favMap)) {
     matchesFilter = true
   }
   filterInfo?.filters[filterInfo.currentGameId]?.searches?.forEach(searchItem => {
@@ -274,7 +287,7 @@ function filterInfoHasFiltersForCurrentGame(filterInfo) {
 }
 
 function getRouteFilterInfo(homeType, params) {
-  const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam } = params
   var routeFilterInfo = null
   switch (homeType) {
     case HomeTypes.CHARACTER: {
@@ -321,6 +334,18 @@ function getRouteFilterInfo(homeType, params) {
         filters: {
           [gameId]: {
             searches: [{tourneySlug: tourneyParam}]
+          }
+        }
+      }
+    }
+    break;
+    case HomeTypes.SEARCH: {
+      const gameId = VideoGameInfoByGameSlug[gameParam].id
+      routeFilterInfo = {
+        currentGameId: gameId,
+        filters: {
+          [gameId]: {
+            searches: [{textSearch: searchParam}]
           }
         }
       }
@@ -391,7 +416,7 @@ function getCatFilterInfo(suggestion, gameId) {
 }
 
 function getFavoriteSuggestionFromRoute(homeType, params, filterInfo) {
-  const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam } = params
   var routeFilterInfo = null
   const gameId = VideoGameInfoByGameSlug[gameParam]?.id
   switch (homeType) {
@@ -408,6 +433,8 @@ function getFavoriteSuggestionFromRoute(homeType, params, filterInfo) {
       return filterInfo?.filters[gameId]?.searches?.find(item => item.tourneySlug == tourneyParam)
     case HomeTypes.CHANNEL:
       return filterInfo?.filters[gameId]?.searches?.find(item => item.channelName == channelParam)
+    case HomeTypes.SEARCH:
+      return filterInfo?.filters[gameId]?.searches?.find(item => item.textSearch == searchParam)      
     default:
       return null
   }
@@ -609,7 +636,7 @@ function getInitialShowVodsMode(currentGameId, data ) {
 }
 
 function getRouteName(homeType, params) {
-  const { gameParam, charParam, tourneyParam, channelParam, playerParam } = params
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam, searchParam } = params
   switch(homeType) {
     case HomeTypes.CHARACTER:
       return charParam
@@ -621,6 +648,8 @@ function getRouteName(homeType, params) {
       return tourneyParam
     case HomeTypes.CHANNEL:
       return channelParam
+    case HomeTypes.SEARCH:
+      return searchParam
     default:
       return "Home"
   }
@@ -634,6 +663,7 @@ function overrideCurrentGame(homeType, params, filterInfo) {
     case HomeTypes.PLAYER:
     case HomeTypes.TOURNAMENT:
     case HomeTypes.CHANNEL:
+    case HomeTypes.SEARCH:
       const gameId = VideoGameInfoByGameSlug[gameParam].id
       filterInfo.currentGameId = gameId
     default:
@@ -641,7 +671,7 @@ function overrideCurrentGame(homeType, params, filterInfo) {
 }
 
 function getRouteInfoFromSuggestions(homeType, params, suggestions) {
-  const { gameParam, charParam, tourneyParam, channelParam, playerParam } = params
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam, searchParam } = params
   const gameId = gameParam ? VideoGameInfoByGameSlug[gameParam].id : null
   switch(homeType) {
     case HomeTypes.CHARACTER:
@@ -656,6 +686,8 @@ function getRouteInfoFromSuggestions(homeType, params, suggestions) {
       return suggestions.tourneys.find(item => item.tourneySlug == tourneyParam)
     case HomeTypes.CHANNEL:
       return suggestions.streams.find(item => item.channelName == channelParam)
+    case HomeTypes.SEARCH:
+      return {textSearch: searchParam}
     default:
       return null
   }
@@ -884,6 +916,14 @@ function MainComponent({homeMode, homeType, darkMode}) {
     } else if (searchTerm.charName != null) {
       if (searches?.some(searchItem => 
         searchTerm.charName == searchItem.charName)
+      ) {
+        removeSearchTerm(searchTerm)
+      } else {
+        addSearchTerm(searchTerm)
+      }
+    } else if (searchTerm.textSearch != null) {
+      if (searches?.some(searchItem => 
+        searchTerm.textSearch == searchItem.textSearch)
       ) {
         removeSearchTerm(searchTerm)
       } else {
@@ -1641,7 +1681,7 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
 
 function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
   const routeName = getRouteName(homeType, params)
-  const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam } = params
   var iconClass = ""
   var iconSrc = null
   var routeText = ""
@@ -1709,6 +1749,13 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream streaming on ${routeText}`
       supportsStar = true
       break;
+    case HomeTypes.SEARCH:
+      iconClass = "home2RouteSearchIcon"
+      routeText = searchParam
+      title = `Search "${searchParam}" - Sets on Stream`
+      description = `Search Live and Recent ${gameInfo?.name} Sets on Stream`
+      supportsStar = true
+      break;
     case HomeTypes.HOME:
       routeText = "Home  "
       title = `Home - Sets on Stream`
@@ -1732,6 +1779,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
     {gameParam && gameId && <Link className="home2RouteGameIcon" to={`/game/${gameSlug}`}><img className="home2RouteGameIcon" src={gameIcon}/></Link>}
     {gameParam && gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>}
     {iconSrc && <img className={iconClass} src={iconSrc}/>}
+    {searchParam && <div className={iconClass}>{renderSearchIcon("28px")}</div>}
     <div className="home2RouteTitle">{routeText}</div>
     {showGameSelector && <div className="home2RouteGameSelectContainer" onClick={openGameFilter}>
       <div className="home2RouteGameSelectIcon"><img className="home2RouteGameSelectIcon" src={gameIcon}/></div>
@@ -1784,6 +1832,10 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
     iconClass = "home2RouteChannelIcon"
     routeText = favSuggestion.channelName
     supportsStar = true
+  } else if (favSuggestion.textSearch != null) {
+    iconClass = "home2RouteSearchIcon"
+    routeText = favSuggestion.textSearch
+    supportsStar = true
   } else if (favSuggestion.gameId != null) {
     showGame = true
     routeText = gameInfo?.name
@@ -1800,6 +1852,7 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
     {showGame && gameId && <Link className="home2RouteGameIcon" to={`/game/${gameSlug}`}><img className="home2RouteGameIcon" src={gameIcon}/></Link>}
     {/* {gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>} */}
     {iconSrc && <img className={iconClass} src={iconSrc}/>}
+    {favSuggestion.textSearch && <div className={iconClass}>{renderSearchIcon("28px")}</div>}
     <Link className="home2RouteTitle home2RouteTitleCat" to={getLinkFromSearch(favSuggestion, gameId)}>{routeText}</Link>
     {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && charEmojis(favSuggestion.charInfo, gameId, "play1_")}
     {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(favSuggestion)} /></div>}

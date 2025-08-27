@@ -226,16 +226,20 @@ export function checkPropsAreEqual(prevProps, nextProps) {
   return true
 }
 
-export const textMatches = (filterInfo, text) => {
+export const textMatches = (filterInfo, text, item, favMap) => {
   if (text == null || text.length == 9) {
     return false
   }
   var matches = false
   var Acheck = false
   filterInfo.filters[filterInfo.currentGameId]?.searches?.forEach((searchTerm) => {
-    if (typeof searchTerm === "string") {
-      if (text.toLowerCase().indexOf(searchTerm.toLowerCase()) >=0) {
+    if (searchTerm.textSearch != null) {
+      if (text.toLowerCase().indexOf(searchTerm.textSearch.toLowerCase()) >=0) {
         matches = true
+        if (favMap != null && (favMap.get(searchTerm) == undefined || favMap.get(searchTerm).at(-1) != item)) {
+          favMap.set(searchTerm, favMap.get(searchTerm)?? [])
+          favMap.get(searchTerm).push(item)
+        }
       }
     }
   })
@@ -288,6 +292,10 @@ export function getChannelLink(channelSlug="unknown", gameId) {
   return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/channel/${channelSlug}`
 }
 
+export function getSearchLink(textSearch, gameId) {
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/search/${encodeURIComponent(textSearch)}`
+}
+
 export function getLinkFromSearch(searchTerm, gameId) {
   if (typeof searchTerm === "string") {
     return "/"
@@ -299,6 +307,8 @@ export function getLinkFromSearch(searchTerm, gameId) {
     return getChannelLink(searchTerm.channelName, gameId)
   } else if (searchTerm.charName != null) {
     return getCharLink(searchTerm.charName, gameId)
+  } else if (searchTerm.textSearch != null) {
+    return getSearchLink(searchTerm.textSearch, gameId)
   } else if (searchTerm.gameId != null) {
     return getGameLink(searchTerm.gameId, gameId)
   }

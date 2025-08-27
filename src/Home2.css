@@ -507,6 +507,16 @@ body {
   flex-grow: 0;
 }
 
+.home2RouteSearchIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 28px;
+  width: 28px;
+  /* border-radius: 18px; */
+  flex-grow: 0;
+}
+
 .home2RouteGameIcon {
   height: 32px;
   width: 24px;

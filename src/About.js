@@ -28,6 +28,7 @@ function About() {
                     <span className="about-body">Favorite any Character, Player, or Channel to have it appear on your home page</span><br/>
                     <span className="about-body">Filters migrated to favorites</span><br/>
                     <h3 className="about-heading2">Navigation</h3>
+                    <span className="about-body">New: player pages, tourney pages, channel pages, character pages, and game pages!</span><br/>
                     <span className="about-body">Search for or click on any tourney title, char icon, stream icon, player name, to go to its page!  Favorite it to keep track of new sets in the future</span><br/>
                     <span className="about-body">New navigation system makes it easier to share SetsOnStream links to characters, tourneys, etc.</span><br/>
                     <h3 className="about-heading2 about-body-row-flex">Light/Dark mode toggle <div style={{paddingLeft:"4px", paddingRight:"6px"}}><LightModeSvg height={darkEmojiDim} width={darkEmojiDim}/> <DarkModeSvg height={darkEmojiDim} width={darkEmojiDim}/></div> in top bar</h3>

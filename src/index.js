@@ -29,6 +29,7 @@ root.render(
             <Route path="game/:gameParam/player/:playerParam" index element={<Home2 homeMode={HomeModes.MAIN} homeType={HomeTypes.PLAYER}/>} />
             <Route path="game/:gameParam/tournament/:tourneyParam" index element={<Home2 homeType={HomeTypes.TOURNAMENT}/>} />
             <Route path="game/:gameParam/channel/:channelParam" index element={<Home2 homeType={HomeTypes.CHANNEL}/>} />
+            <Route path="game/:gameParam/search/:searchParam" index element={<Home2 homeType={HomeTypes.SEARCH}/>} />
             <Route index element={<Home2 homeMode={HomeModes.MAIN}/>} />
             {/* <Route index element={<Home homeMode={HomeModes.MAIN}/>} /> */}
             <Route path="fullmap" element={<Home2 homeMode={HomeModes.FULLMAP}/>} />
