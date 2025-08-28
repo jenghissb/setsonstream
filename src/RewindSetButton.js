@@ -8,9 +8,9 @@ import debounce from 'lodash/debounce';
 import { getStreamTimeOffset } from './VideoEmbeds.js'
 import Slider, { SliderThumb, SliderValueLabelProps } from '@mui/material/Slider';
 import { styled } from '@mui/material/styles';
-import Typography from '@mui/material/Typography';
-import Tooltip from '@mui/material/Tooltip';
-import Box from '@mui/material/Box';
+// import Typography from '@mui/material/Typography';
+// import Tooltip from '@mui/material/Tooltip';
+// import Box from '@mui/material/Box';
 
 function renderSvg({width="40px", height="40px", color="#bbbbbb"}) {
   return <svg width={width} height={height} viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke={"var(--text-main-color-subdue-3)"} fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>

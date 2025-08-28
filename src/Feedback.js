@@ -57,6 +57,7 @@ export const FeedbackModal = ({ isOpen, onClose }) => {
           user_id: 'j9a4zG42Z4KNP8WKJ',
           template_params: {
             message,
+            replyEmail,
             // name: name,
           }
           // service_id: 'your_service_id',
