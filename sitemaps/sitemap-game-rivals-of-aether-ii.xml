@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap><loc>https://setsonstream.tv/sitemaps/sitemap-game-rivals-of-aether-ii-main.xml</loc></sitemap>
-<sitemap><loc>https://setsonstream.tv/sitemaps/sitemap-game-rivals-of-aether-ii-characters.xml</loc></sitemap>
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1</priority>
+</url>
+</urlset>
