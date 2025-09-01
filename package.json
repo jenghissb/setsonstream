@@ -31,11 +31,12 @@
     "postcss": "8.4.38"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && npm run generate && cp build/index.html build/404.html",
     "deploy": "gh-pages -d build --cname setsonstream.tv",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "postbuild": "cp build/index.html build/404.html",
+    "generate": "node scripts/generate-contents.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

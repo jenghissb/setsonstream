@@ -6,7 +6,7 @@ import { LeafMap } from './LeafMapMin.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
 import { checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath } from './Utilities.js'
-import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr } from './GameInfo.js'
+import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr, GameKeywords } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
 import { SearchInputBar, SearchTerms, SearchInputBarWithIcon, renderSearchIcon } from "./SearchInputBar.js"
@@ -1704,6 +1704,11 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
   var description = ""
   var showGameSelector = false
   var supportsCharEmoji = false
+  var keywords = GameKeywords["1386"]
+  if (gameId != null) {
+    keywords = GameKeywords[gameId] ?? ""
+  }
+
   switch(homeType) {
     case HomeTypes.CHARACTER:
       routeText = charParam
@@ -1716,6 +1721,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       supportsStar = true
       title = `${charParam} - Sets on Stream`
       description = `Watch Live and Recent ${gameInfo?.name} ${charParam} Sets on Stream from Tournaments around the World`
+      keywords = `${charParam}, ${keywords}`
       break;
     case HomeTypes.GAME:
       routeText = gameInfo?.name
@@ -1723,6 +1729,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       supportsStar = false
       title = `${gameInfo?.displayName} - Sets on Stream`
       description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments around the World`
+      keywords = `${keywords}`
       break;
     case HomeTypes.PLAYER:
       // iconClass = "home2RouteCharIcon"
@@ -1732,6 +1739,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       description = `Watch ${routeText}'s Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments`
       supportsStar = true
       supportsCharEmoji = true
+      keywords = `${routeInfo?.nameWithRomaji}, ${playerParam}, ${keywords}`
       break;
     case HomeTypes.TOURNAMENT:
       iconSrc = routeInfo?.tourneyIcon
@@ -1740,6 +1748,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       title = `${routeText} - Sets on Stream`
       description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${routeText}`
       supportsStar = false
+      keywords = `${routeInfo?.tourneyName}, ${tourneyParam}, ${routeInfo?.tourneySlug}, ${keywords}`
       break;
     case HomeTypes.CHANNEL:
       iconSrc = routeInfo?.streamIcon
@@ -1747,6 +1756,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       routeText = channelParam
       title = `${routeText} - Sets on Stream`
       description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream streaming on ${routeText}`
+      keywords = `${channelParam}, channel, ${keywords}`
       supportsStar = true
       break;
     case HomeTypes.SEARCH:
@@ -1754,6 +1764,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       routeText = searchParam
       title = `Search "${searchParam}" - Sets on Stream`
       description = `Search Live and Recent ${gameInfo?.name} Sets on Stream`
+      keywords = `search, ${keywords}`
       supportsStar = true
       break;
     case HomeTypes.HOME:
@@ -1773,6 +1784,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       <meta name="description" content={description} key="description"/>
       <meta name="twitter:title" content={title} key="twittertitle"/>
       <meta name="twitter:description" content={description} key="twitterdescription"/>
+      <meta name="keywords" content={keywords} key="keywords"/>
     </Helmet>
     <Link className="home2RouteHomeIcon" to={`/`}>{renderHomeIcon({width:"100%", height: "100%"})}</Link>
     {gameParam && gameId && <div className="home2DotStyle">•</div>}

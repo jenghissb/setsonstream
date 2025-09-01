@@ -25,6 +25,19 @@ export const Characters = Object.freeze({
   }
 });
 
+export const GameKeywords = Object.freeze({
+  "1386": "Smash Ultimate, SSBU, competitive Smash, Smash tournaments, fighting game streams, Smash sets, tournament matches, esports, characters, gameplay, live matches",
+  "1": "Smash Melee, Melee, competitive Melee, Melee tournaments, fighting game streams, Melee sets, tournament matches, esports, characters, gameplay, live matches",
+  "33945": "Guilty Gear Strive, GGST, competitive Guilty Gear, Guilty Gear tournaments, fighting game streams, GGST sets, tournament matches, esports, characters, gameplay, live matches",
+  "43868": "Street Fighter 6, SF6, competitive Street Fighter, SF6 tournaments, fighting game streams, SF6 sets, tournament matches, esports, characters, gameplay, live matches",
+  "49783": "Tekken 8, T8, competitive Tekken, Tekken tournaments, fighting game streams, Tekken sets, tournament matches, esports, characters, gameplay, live matches",
+  "53945": "Rivals of Aether 2, RoA2, competitive Rivals of Aether, Rivals tournaments, fighting game streams, RoA sets, tournament matches, esports, characters, gameplay, live matches",
+  "48548": "Granblue Fantasy Versus, GBVS, competitive Granblue Fantasy, GBVS tournaments, fighting game streams, GBVS sets, tournament matches, esports, characters, gameplay, live matches"
+  //"12345": "Fatal Fury City of the Wolves, Fatal Fury, competitive Fatal Fury, Fatal Fury tournaments, fighting game streams, Fatal Fury sets, tournament matches, esports, characters, gameplay, live matches"
+});
+
+
+
 // 264x352
 export const VideoGameInfo = Object.freeze([
   {
