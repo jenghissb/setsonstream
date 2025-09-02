@@ -64,9 +64,10 @@ export function generatePage({templatePath, title, description, keywords}) {
 function makeUrlEntry(loc, lastMod = null, changefreq = "daily", priority = 0.8) {
 
 if (lastMod != null) {
+    const lastModStr = new Date(unixSeconds * 1000).toISOString();
     return `<url>
   <loc>${loc}</loc>
-  <lastmod>${lastMod}</lastmod>
+  <lastmod>${lastModStr}</lastmod>
   <changefreq>${changefreq}</changefreq>
   <priority>${priority}</priority>
 </url>`;
