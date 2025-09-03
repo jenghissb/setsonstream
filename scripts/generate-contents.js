@@ -354,7 +354,7 @@ async function main() {
     generatePage({
       templatePath,
       title: `About - Sets on Stream`,
-      description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments around the World`,
+      description: `Watch live and recent matches from fighting game tournaments: Smash Ultimate, SF6, Rivals 2, Tekken 8, and more.`,
       keywords: keywords,
     })
   );
