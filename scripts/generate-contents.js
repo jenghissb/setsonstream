@@ -138,13 +138,13 @@ function generateMainSitemap(games, includeCharactersForGames) {
 
 // --- Leaf sitemaps
 function generateGameLeafSitemap(game) {
-  const urls = [makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}`, undefined, "hourly", 1.0)];
+  const urls = [makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/`, undefined, "hourly", 1.0)];
   return wrapUrlset(urls);
 }
 
 function generateGamesSitemap(games) {
   const urls = games.map(game => 
-    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}`, undefined, "hourly", 1.0)
+    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/`, undefined, "hourly", 1.0)
   )
   return wrapUrlset(urls);
 }
@@ -153,7 +153,7 @@ function generateGamesSitemap(games) {
 function generateCharacterSitemap(game) {
   const charList = Characters[game.id].charList
   const urls = charList.map((charName) =>
-    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/char/${charName}`, undefined, "hourly", 0.9)
+    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/char/${charName}/`, undefined, "hourly", 0.9)
   );
   return wrapUrlset(urls);
 }
@@ -162,21 +162,21 @@ function generateTourneySitemap(game, tourneyById, tourneyLastModById) {
   const urls = Object.keys(tourneyById).map((key) => {
     const item = tourneyById[key].length > 0 ? tourneyById[key][0] : null
     const tourneySlug = getTourneySlug(item.bracketInfo) ?? "unknown"
-    return makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/tournament/${tourneySlug}`, tourneyLastModById[key], "hourly", 1.0)
+    return makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/tournament/${tourneySlug}/`, tourneyLastModById[key], "hourly", 1.0)
   });
   return wrapUrlset(urls);
 }
 
 function generateChannelSitemap(game, channelById, channelLastModById) {
   const urls = Object.keys(channelById).map((key) =>
-    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/channel/${key}`, channelLastModById[key], "hourly", 1.0)
+    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/channel/${key}/`, channelLastModById[key], "hourly", 1.0)
   );
   return wrapUrlset(urls);
 }
 
 function generatePlayerSitemap(game, playerById, playerLastModById) {
   const urls = Object.keys(playerById).map((key) =>
-    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/player/${key}`, playerLastModById[key], "hourly", 0.8)
+    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/player/${key}/`, playerLastModById[key], "hourly", 0.8)
   );
   return wrapUrlset(urls);
 }
@@ -186,7 +186,7 @@ function generatePlayerSitemap(game, playerById, playerLastModById) {
 function generateTopPagesSitemap() {
   const urls = [
     makeUrlEntry(`${BASE_URL}/`, undefined, "hourly", 1.0),
-    makeUrlEntry(`${BASE_URL}/about`, undefined, "monthly", 0.3)
+    makeUrlEntry(`${BASE_URL}/about/`, undefined, "monthly", 0.3)
   ];
   return wrapUrlset(urls);
 }
@@ -348,6 +348,17 @@ async function main() {
   const templatePath = "build/index.html";
   const includeCharactersForGames = ["super-smash-bros-ultimate", "rivals-of-aether-ii", "guilty-gear-strive", "super-smash-bros-melee", "tekken-8"]
   const games = VideoGameInfo
+  var keywords = GameKeywords["1386"]
+  writeFile(
+    path.join(gameDir, "about"),
+    generatePage({
+      templatePath,
+      title: `About - Sets on Stream`,
+      description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments around the World`,
+      keywords: keywords,
+    })
+  );
+
   for (const gameInfo of games) {
     const gameDir = path.join(DIST_DIR, "game", gameInfo.gameSlug);
     const gameUrl = `/game/${gameInfo.gameSlug}`;
