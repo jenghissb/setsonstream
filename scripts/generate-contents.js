@@ -350,7 +350,7 @@ async function main() {
   const games = VideoGameInfo
   var keywords = GameKeywords["1386"]
   writeFile(
-    path.join(DIST_DIR, "about"),
+    path.join(DIST_DIR, "about", "index.html"),
     generatePage({
       templatePath,
       title: `About - Sets on Stream`,
