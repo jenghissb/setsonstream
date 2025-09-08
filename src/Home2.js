@@ -1731,10 +1731,10 @@ function RouteInfo({homeType, params, bootstrap, routeInfo, filterInfo, dropdown
       useBootstrap = playerParam && playerParam == bootstrapInfo?.userSlug
       break
     case HomeTypes.TOURNAMENT:
-      bootstrapInfo = tourneyParam && tourneyParam == bootstrapInfo?.tourneySlug
+      useBootstrap = tourneyParam && tourneyParam == bootstrapInfo?.tourneySlug
       break
     case HomeTypes.CHANNEL:
-      bootstrapInfo = channelParam && channelParam == bootstrapInfo?.channelName
+      useBootstrap = channelParam && channelParam == bootstrapInfo?.channelName
       break
     default:
   }
