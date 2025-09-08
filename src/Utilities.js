@@ -274,26 +274,26 @@ export function isThemeDark(theme) {
 }
 
 export function getPlayerLink(userSlug, gameId) {
-  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/player/${userSlug}`
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/player/${userSlug}/`
 }
 
 export function getGameLink(gameId) {
   return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "/"}`
 }
 export function getCharLink(charName, gameId) {
-  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/char/${charName}`
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/char/${charName}/`
 }
 
 export function getTourneyLink(tourneySlug="unknown", gameId) {
-  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/tournament/${tourneySlug}`
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/tournament/${tourneySlug}/`
 }
 
 export function getChannelLink(channelSlug="unknown", gameId) {
-  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/channel/${channelSlug}`
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/channel/${channelSlug}/`
 }
 
 export function getSearchLink(textSearch, gameId) {
-  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/search/${encodeURIComponent(textSearch)}`
+  return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/search/${encodeURIComponent(textSearch)}/`
 }
 
 export function getLinkFromSearch(searchTerm, gameId) {

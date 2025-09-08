@@ -364,7 +364,6 @@ async function main() {
 
   for (const gameInfo of games) {
     const gameDir = path.join(DIST_DIR, "game", gameInfo.gameSlug);
-    const gameUrl = `/game/${gameInfo.gameSlug}`;
     // Game page
     const hasCharPages = includeCharactersForGames.includes(gameInfo.gameSlug)
     var keywords = GameKeywords["1386"]
