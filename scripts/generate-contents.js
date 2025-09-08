@@ -40,7 +40,7 @@ function writeFile(filePath, content) {
   fs.writeFileSync(filePath, content);
 }
 
-export function generatePage({templatePath, title, description, keywords}) {
+export function generatePage({templatePath, title, description, keywords, bootstrap={}}) {
   let html = fs.readFileSync(templatePath, "utf-8");
 
   // 1️⃣ Update <title> only
@@ -56,7 +56,10 @@ export function generatePage({templatePath, title, description, keywords}) {
   updateMetaContent("keywords", keywords);
   updateMetaContent("twitter:title", title);
   updateMetaContent("twitter:description", description);
-
+  html = html.replace(
+    "</body>",
+    `<script id="route-data" type="application/json">${JSON.stringify(bootstrap)}</script></body>`
+  );
   return html;
 }
 
@@ -400,15 +403,22 @@ async function main() {
       const items = tourneyById[key]
       const item = items.length > 0 ? items[0] : null
       const lastMod = tourneyLastModById[key]
-      const tourneySlug = getTourneySlug(item.bracketInfo)
       if (item != null) {
+        const tourneySlug = getTourneySlug(item.bracketInfo)
+        const tourneyIcon = item.bracketInfo.images[0]?.url ?? null
+        const bootstrap = {routeInfo: {
+          tourneySlug,
+          tourneyIcon,
+          tourneyName: item.bracketInfo.tourneyName,
+        }}
         writeFile(
           path.join(gameDir, "tournament", tourneySlug, "index.html"),
           generatePage({
             templatePath,
             title: `${item.bracketInfo.tourneyName} - Sets on Stream`,
             description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${item.bracketInfo.tourneyName}`,
-            keywords: `${item.bracketInfo.tourneyName}, ${key}, ${tourneySlug}, ${keywords}`
+            keywords: `${item.bracketInfo.tourneyName}, ${key}, ${tourneySlug}, ${keywords}`,
+            bootstrap,
           })
         )
       }
@@ -418,13 +428,19 @@ async function main() {
       const item = items.length > 0 ? items[0] : null
       const lastMod = channelLastModById[key]
       if (item != null) {
+        const channelName = getChannelName(item.streamInfo)
+        const bootstrap = {routeInfo: {
+          streamIcon: item.streamInfo.streamIcon,
+          channelName,
+        }}
         writeFile(
           path.join(gameDir, "channel", key, "index.html"),
           generatePage({
             templatePath,
             title: `${key} - Sets on Stream`,
             description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream streaming on ${key}`,
-            keywords: `${key}, ${getTourneySlug(item?.bracketInfo)}, ${keywords}`
+            keywords: `${key}, ${getTourneySlug(item?.bracketInfo)}, ${keywords}`,
+            bootstrap,
           })
         )
       }
@@ -436,13 +452,19 @@ async function main() {
       if (item != null) {
         const playerInfo = (item.player1Info.userSlug == key) ? item.player1Info : item.player2Info
         const nameWithRomaji = playerInfo.nameWithRomaji
+        const bootstrap = {routeInfo: {
+          nameWithRomaji: playerInfo.nameWithRomaji,
+          charInfo: playerInfo.charInfo,
+          userSlug: playerInfo.userSlug,
+        }}
         writeFile(
           path.join(gameDir, "player", key, "index.html"),
           generatePage({
             templatePath,
             title: `${nameWithRomaji} - Sets on Stream`,
             description: `Watch ${nameWithRomaji}'s Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments`,
-            keywords: `${nameWithRomaji}, ${key}, ${keywords}`
+            keywords: `${nameWithRomaji}, ${key}, ${keywords}`,
+            bootstrap,
           })
         )
       }

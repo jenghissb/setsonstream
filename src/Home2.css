@@ -567,6 +567,7 @@ body {
 
 .home2LoadingSyle {
   background-color: var(--bg-main);
+  margin-top: 20px;
 }
 
 .home2ErrorSyle {

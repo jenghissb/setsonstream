@@ -53,6 +53,16 @@ var EmptyFilterInfo = {
   }
 }
 
+function getBootstrapData() {
+  const el = document.getElementById("route-data");
+  if (!el) return null;
+  try {
+    return JSON.parse(el.textContent);
+  } catch {
+    return null;
+  }
+}
+
 function getInitialFilter() {
   var filterInfo = JSON.parse(localStorage.getItem('filterInfo'))
   // filterInfo = null
@@ -537,7 +547,7 @@ function getDataByTourney(displayData) {
 }
 
 function getDropdownSuggestions(data, gameId) {
-  var recentData = data[gameId].vods
+  var recentData = (data != null) ? data[gameId].vods : []
   recentData = [...recentData].sort((a,b) => {
     return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
   })
@@ -1144,6 +1154,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
 
   // var displayData = getDisplayData(homeType, params, data, filterInfo, showVodsMode)
 
+  var bootstrap = useMemo(() => getBootstrapData(), [])
+
   var displayDataInfo = useMemo(() => {
     if (loading || error) return null
     return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
@@ -1159,21 +1171,9 @@ function MainComponent({homeMode, homeType, darkMode}) {
   //   return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
   // }, [homeType, params, data, filterInfo, showVodsMode])
 
-
-  if (loading) return <div className="home2LoadingSyle">{loadingText}</div  >;
-  if (error) return <div>Error: {error.message}</div>;
-
-  // const showUser = true
-  // const playerPageInfo = data["1386"]?.vods[0].player1Info 
-  // if (showUser  && data != null) {
-  //   return <PlayerPage playerInfo={playerPageInfo}/>
-  // }
-
   if (displayData == null) {
     displayData = []
   }
-  var tourneyById = getDataByTourney(displayData)
-  var wouldHaveData = hasDataForGame(data, filterInfo.currentGameId, showVodsMode)
   var itemKey = currentItemKey
   if (displayData.length > 0) {
     if (itemKey == null) {
@@ -1184,6 +1184,62 @@ function MainComponent({homeMode, homeType, darkMode}) {
   }
   var dropdownSuggestions = getDropdownSuggestions(data, filterInfo.currentGameId)
   var routeInfo = getRouteInfoFromSuggestions(homeType, params, dropdownSuggestions)
+  const useHomeTypeLists = homeType === HomeTypes.HOME //homeType in [HomeTypes.HOME]
+  const useSingleList = !useHomeTypeLists
+
+  const notLowWidth = width > 600
+  const hasRightPane = notLowWidth && !useHomeTypeLists
+  const showSearchWithRoute = notLowWidth
+  const showSubEmbed = !notLowWidth && !useHomeTypeLists
+  const titleStyle = hasRightPane ? {zIndex:30004} : {position: "sticky", top: 0, zIndex:30004, background: "var(--bg-main)"}
+  // const hasRightPane = false
+  // if (hasRightPane) chatWidth = 310
+  if (!hasRightPane) {
+    chatWidth = "100%"
+  } else {
+    chatWidth = sideChatWidth
+  }
+  const centerWidth = hasRightPane ? window.innerWidth - chatWidth : window.innerWidth
+
+  var showChatBeneath = !hasRightPane;
+  // var showChatBeneath = width > window.innerWidth-2
+  var showChatBesideNextLine = false;
+  // if (!showChatBeneath && !showMapBeside) {
+  //   if (width + chatWidth < window.innerWidth) {
+  //     showChatBesideNextLine = true
+  //     if (hasChat) {
+  //       mapWidth += chatWidth;
+  //     }
+  //   } else {
+  //     showChatBeneath = true
+  //   }
+  // }
+
+  // if (loading) return <div className="home2LoadingSyle">{loadingText}</div>;
+  if (loading) return <div className="home2threePanes">
+        <div className="home2centerPane" ref={centerPane}>
+          <div style={titleStyle}>
+            { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }
+            <div className="home2titleBar">
+              <RouteInfo {...{routeInfo, homeType, bootstrap, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
+              {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
+              <div className="emptyDiv"/>
+              </div>
+            </div>
+            <div className="home2LoadingSyle">{loadingText}</div>
+          </div>
+          { hasRightPane && <div className="home2rightPane" ref={rightPane}/>}
+        </div>
+
+
+  if (error) return <div>Error: {error.message}</div>;
+
+  // const showUser = true
+  // const playerPageInfo = data["1386"]?.vods[0].player1Info 
+  // if (showUser  && data != null) {
+  //   return <PlayerPage playerInfo={playerPageInfo}/>
+  // }
+
   var preview = null
   
   const handleReady = player => {
@@ -1207,37 +1263,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // if (!showMapBeside) {
   //   stickyPos -= height
   // }
-  const useHomeTypeLists = homeType === HomeTypes.HOME //homeType in [HomeTypes.HOME]
-  const useSingleList = !useHomeTypeLists
 
 
-  const notLowWidth = width > 600
-  const hasRightPane = notLowWidth && !useHomeTypeLists
-  const showSearchWithRoute = notLowWidth
-  const showSubEmbed = !notLowWidth && !useHomeTypeLists
-  // const hasRightPane = false
-  // if (hasRightPane) chatWidth = 310
-  if (!hasRightPane) {
-    chatWidth = "100%"
-  } else {
-    chatWidth = sideChatWidth
-
-  }
-  const centerWidth = hasRightPane ? window.innerWidth - chatWidth : window.innerWidth
-
-  var showChatBeneath = !hasRightPane;
-  // var showChatBeneath = width > window.innerWidth-2
-  var showChatBesideNextLine = false;
-  // if (!showChatBeneath && !showMapBeside) {
-  //   if (width + chatWidth < window.innerWidth) {
-  //     showChatBesideNextLine = true
-  //     if (hasChat) {
-  //       mapWidth += chatWidth;
-  //     }
-  //   } else {
-  //     showChatBeneath = true
-  //   }
-  // }
   mapWidth = chatWidth
   mapHeight = "240px"
   var chat = null
@@ -1266,6 +1293,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   var noData = null
   var afterData = null
 
+  var tourneyById = getDataByTourney(displayData)
+  var wouldHaveData = hasDataForGame(data, filterInfo.currentGameId, showVodsMode)
   const sayNoMatch = wouldHaveData
   const shouldShowNoData = displayData.length < 1
   const shouldShowNoDataOver = shouldShowNoData && homeMode == HomeModes.FULLMAP
@@ -1295,8 +1324,6 @@ function MainComponent({homeMode, homeType, darkMode}) {
     // previewStyle.width = "min(max(30%, 180px), 500px)"
     previewStyle.maxWidth = "min(max(30%, 300px), 500px)"
   }
-
-  const titleStyle = hasRightPane ? {zIndex:30004} : {position: "sticky", top: 0, zIndex:30004, background: "var(--bg-main)"}
 
 
   // const subEmbedToggle = SubEmbeds.MAP;
@@ -1410,20 +1437,20 @@ function MainComponent({homeMode, homeType, darkMode}) {
 
         </div>
         { hasRightPane && <div className="home2rightPane" ref={rightPane}>
-        {
-          hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
-        }
-        {hasRightPane && chat}
-        {
-          hasRightPane && useSingleList && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
-          // hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
-        }
-        {
-          hasRightPane && useHomeTypeLists && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
-        }
-        {
-          hasRightPane && afterData
-        }
+          {
+            hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+          }
+          {hasRightPane && chat}
+          {
+            hasRightPane && useSingleList && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+            // hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
+          }
+          {
+            hasRightPane && useHomeTypeLists && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          }
+          {
+            hasRightPane && afterData
+          }
         </div>
         }
       </div>
@@ -1679,7 +1706,7 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
 
 // }
 
-function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
+function RouteInfo({homeType, params, bootstrap, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
   const routeName = getRouteName(homeType, params)
   const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam } = params
   var iconClass = ""
@@ -1697,6 +1724,24 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
   }
   const gameIcon = gameInfo?.images?.at(-1)?.url ?? null
   const favSuggestion = getFavoriteSuggestionFromRoute(homeType, params, filterInfo);
+  var bootstrapInfo = bootstrap?.routeInfo
+  var useBootstrap = false
+  switch(homeType) {
+    case HomeTypes.PLAYER:
+      useBootstrap = playerParam && playerParam == bootstrapInfo?.userSlug
+      break
+    case HomeTypes.TOURNAMENT:
+      bootstrapInfo = tourneyParam && tourneyParam == bootstrapInfo?.tourneySlug
+      break
+    case HomeTypes.CHANNEL:
+      bootstrapInfo = channelParam && channelParam == bootstrapInfo?.channelName
+      break
+    default:
+  }
+  if (!useBootstrap) {
+    bootstrapInfo = null
+  }
+
 
   // const isFavorite = favSuggestion != null;
   const isFavorite = favSuggestion != null;
@@ -1708,6 +1753,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
   if (gameId != null) {
     keywords = GameKeywords[gameId] ?? ""
   }
+  var charInfo = null
 
   switch(homeType) {
     case HomeTypes.CHARACTER:
@@ -1734,7 +1780,8 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
     case HomeTypes.PLAYER:
       // iconClass = "home2RouteCharIcon"
       iconSrc = routeInfo?.icon
-      routeText = routeInfo?.nameWithRomaji ?? playerParam
+      charInfo = routeInfo?.charInfo || favSuggestion?.charInfo || bootstrapInfo?.charInfo
+      routeText = (routeInfo?.nameWithRomaji  || favSuggestion?.nameWithRomaji || bootstrapInfo?.nameWithRomaji) ?? playerParam
       title = `${routeText} - Sets on Stream`
       description = `Watch ${routeText}'s Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments`
       supportsStar = true
@@ -1742,16 +1789,16 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       keywords = `${routeInfo?.nameWithRomaji}, ${playerParam}, ${keywords}`
       break;
     case HomeTypes.TOURNAMENT:
-      iconSrc = routeInfo?.tourneyIcon
+      iconSrc = routeInfo?.tourneyIcon || favSuggestion?.tourneyIcon || bootstrapInfo?.tourneyIcon
       iconClass = "home2RouteTourneyIcon"
-      routeText = routeInfo?.tourneyName ?? tourneyParam
+      routeText = (routeInfo?.tourneyName || favSuggestion?.tourneyName || bootstrapInfo?.tourneyName) ?? tourneyParam
       title = `${routeText} - Sets on Stream`
       description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${routeText}`
       supportsStar = false
       keywords = `${routeInfo?.tourneyName}, ${tourneyParam}, ${routeInfo?.tourneySlug}, ${keywords}`
       break;
     case HomeTypes.CHANNEL:
-      iconSrc = routeInfo?.streamIcon
+      iconSrc = routeInfo?.streamIcon || favSuggestion?.streamIcon || bootstrapInfo?.streamIcon
       iconClass = "home2RouteChannelIcon"
       routeText = channelParam
       title = `${routeText} - Sets on Stream`
@@ -1797,7 +1844,7 @@ function RouteInfo({homeType, params, routeInfo, filterInfo, dropdownSuggestions
       <div className="home2RouteGameSelectIcon"><img className="home2RouteGameSelectIcon" src={gameIcon}/></div>
       <div className="home2RouteTitle">{`${gameInfo.displayName}`}</div>
     </div>}
-    {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && routeInfo && charEmojis(routeInfo.charInfo, gameId, "play1_")}
+    {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && charInfo && charEmojis(charInfo, gameId, "play1_")}
     {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(routeInfo)} /></div>}
   </div>
 }

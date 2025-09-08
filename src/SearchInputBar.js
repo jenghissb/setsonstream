@@ -119,6 +119,7 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
         className={"searchInputBar"}
         style={hasIcon ? {"borderBottomRightRadius": "0px", "borderTopRightRadius": "0px"} : {}}
         ref={inputRef}
+        disabled={suggestionsInfo == null}
         type="text"
         placeholder="Search..."
         value={searchTerm}
