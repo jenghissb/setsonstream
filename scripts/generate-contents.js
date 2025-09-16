@@ -502,8 +502,8 @@ async function main() {
           tourneyIcon,
           tourneyName: item.bracketInfo.tourneyName,
         }}
-        var url = `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/`
-        const jsonLd = generateJsonLdTournament({item, gameInfo, url})
+        // var url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/tournament/${tourneySlug}/`
+        // const jsonLd = generateJsonLdTournament({item, gameInfo, url})
         writeFile(
           path.join(gameDir, "tournament", tourneySlug, "index.html"),
           generatePage({
