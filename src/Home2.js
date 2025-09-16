@@ -715,7 +715,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // const { search } = useLocation();
   // const searchParams = useMemo(() => new URLSearchParams(search), [search]);
 
-  const prevParams = useRef(params)
+  const prevParams = useRef(null)
   // const prevSearchParams = useRef(searchParams)
 
   // localStorage.removeItem("filterInfo"))
