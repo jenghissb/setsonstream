@@ -445,7 +445,11 @@ body {
   max-lines: 1;
   text-align: start;
   text-decoration: none;
-  color: var(--text-main-color)
+  color: var(--text-main-color);
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;    /* IE 10 and IE 11 */
+  user-select: none;        /* Standard syntax */
 }
 .home2RouteTitleCat:hover{
   transform: scale(1.03)

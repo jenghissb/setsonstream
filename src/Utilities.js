@@ -296,6 +296,29 @@ export function getSearchLink(textSearch, gameId) {
   return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/search/${encodeURIComponent(textSearch)}/`
 }
 
+export function getItemLink({searchTerm, gameId, setKey}) {
+  let url;
+  if (searchTerm && gameId) {
+    url = getLinkFromSearch(searchTerm, gameId)
+  } else {
+    url = window.location.pathname
+  }
+  let cleanedUrl = url.replace(/\/set\/[^/]+\/?$/, '');
+  cleanedUrl = cleanedUrl.replace(/\/$/, '');
+  url = `${cleanedUrl}/set/${setKey}/`
+
+  if (!url.endsWith("/")) {
+    url = url + "/"
+  }
+  // // const searchParams = new URLSearchParams(window.location.search);
+  // if (setKey != null) {
+  //   const searchParams = new URLSearchParams()
+  //   searchParams.set("setId", setKey);
+  //   url = `${url}?${searchParams.toString()}`
+  // }
+  return url
+}
+
 export function getLinkFromSearch(searchTerm, gameId) {
   if (typeof searchTerm === "string") {
     return "/"

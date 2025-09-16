@@ -1,6 +1,7 @@
 import './About.css'
 import { Helmet } from "react-helmet-async";
 import { getInternalImageUrl } from "./Utilities"
+import { VideoGameInfo } from "./GameInfo"
 import { LightModeSvg, DarkModeSvg } from "./DarkModeToggle"
 import { FeedbackButton } from "./Feedback"
 import Star from "./Star";
@@ -19,6 +20,22 @@ function About() {
                         <meta name="twitter:title" content={title}/>
                         <meta name="twitter:description" content={description}/>
                     </Helmet>
+                    <h1 className="about-heading1">About SetsOnStream</h1><br/>
+                    <span className="about-body">SetsOnStream lets you watch live and recent competitive game sets for a character, tournament, channel, player, or game!</span><br/>
+                    <span className="about-body">To find them use the search bar autocomplete or by clicking them on a set</span><br/>
+                    <span className="about-body">Favorite the categories to have them show up on your homepage!</span><br/>
+                    <br/>
+                    <span className="about-body"><b>Q:</b> How does it work?</span><br/>
+                    <span className="about-body">SetsOnStream uses the official embeds for the Twitch and YouTube video content</span><br/>
+                    <span className="about-body">The start time and duration of the set in the embed is determined by the data from start.gg</span><br/>
+                    <span className="about-body">The vod will start playing at the start time of the set, or live if it is still live</span><br/>
+                    <span className="about-body">Data from start.gg is used to show the player, tournament, and channel data.</span><br/>
+                    <br/>
+
+                    <span className="about-body">SetsOnStream currently supports:</span><br/>
+                    <ul className="about-ul">{VideoGameInfo.map(item => <li className='about-body'>{item.name}</li>)}</ul>
+                    <br/>                    
+                    {/* <span className="about-body">{VideoGameInfo.map(item => item.displayName).join(", ")}</span><br/> */}
                     <h1 className="about-heading1">SetsOnStream: version 2.0.0 (08/24/2025) 🎉</h1><br/>
                     <span className="about-body">Sets on Stream 2.0 adds new navigation, favorites system, search system, bigger watching view</span><br/>
                     <h3 className="about-heading2 about-body-row-flex">New <div className="about-feedback-holder"><FeedbackButton setFeedbackOpen={() => {}}/></div> button in top bar!</h3>

@@ -404,8 +404,8 @@ function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex,
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
   try {
-    tourneyBackgroundUrl = item.bracketInfo.images[1].url
-    tourneyIconUrl = item.bracketInfo.images[0].url
+    tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+    tourneyIconUrl = item.bracketInfo.images[0]?.url
   }catch{}
   // setSectionStyle = "leafset-set-row"
   var lumitier = item.bracketInfo.lumitier
@@ -477,8 +477,8 @@ const PopupForSet = ({item, handleStreamIndexButtonClick, streamSubIndex, itemKe
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
   try {
-    tourneyBackgroundUrl = item.bracketInfo.images[1].url
-    tourneyIconUrl = item.bracketInfo.images[0].url
+    tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+    tourneyIconUrl = item.bracketInfo.images[0]?.url
   }catch{}
   var infoSectionStyle = "leafset-row-sub-with-vid"
   if (preview == null) {

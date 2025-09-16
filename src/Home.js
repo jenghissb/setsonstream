@@ -598,7 +598,7 @@ function MainComponent(homeMode) {
         Object.keys(data).forEach((key1) => {
           Object.keys(data[key1]).forEach((key2) => {
             data[key1][key2].forEach(item => {
-              item.bracketInfo.setKey = `${item.bracketInfo.setId}_${item.bracketInfo.tourneyId}`
+              item.bracketInfo.setKey = `${item.bracketInfo.setId}`
             })
           })
         })

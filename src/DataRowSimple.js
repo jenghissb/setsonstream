@@ -29,8 +29,8 @@ export const DataRowSimple = memo(({item, filterInfo, useVideoInList, handleInde
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
   try {
-    tourneyBackgroundUrl = item.bracketInfo.images[1].url
-    tourneyIconUrl = item.bracketInfo.images[0].url
+    tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+    tourneyIconUrl = item.bracketInfo.images[0]?.url
   }catch{}
   var viewersText=""
   viewersText = getViewersTextFromItem(item)

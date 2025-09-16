@@ -36,7 +36,7 @@ export const NowPlaying = memo(({setShowFilterModal, item, filterInfo, useVideoI
       const thumbHeight = 248;//Math.trunc(thumbWidth*9/16)
       tourneyBackgroundUrl = `https://static-cdn.jtvnw.net/previews-ttv/live_user_${item.streamInfo.forTheatre.toLowerCase().normalize()}-${thumbWidth}x${thumbHeight}.jpg`
     } else {
-      tourneyBackgroundUrl = item.bracketInfo.images[1].url
+      tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
     }
     tourneyIconUrl = item.bracketInfo.images[0].url
   }catch{}

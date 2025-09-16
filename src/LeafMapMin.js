@@ -1,12 +1,12 @@
 import React, { useRef, useState, useEffect, memo } from "react";
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import './LeafMapMin.css';
 import L from 'leaflet';
 
 import { MapContainer, TileLayer, Marker, Popup, useMapEvents, useMap, AttributionControl } from "react-leaflet";
 import { divIcon , DivIcon} from 'leaflet';
 import "leaflet/dist/leaflet.css";
-import { getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr, getViewersTextFromItem, getStreamUrl } from './Utilities'
+import { getItemLink, getStartggUserLink, getCharUrl, charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getLumitierIconStr, getViewersTextFromItem, getStreamUrl } from './Utilities'
 import { MediaPreview } from './VideoEmbeds'
 import { spreadPoints } from './SpaceLatLon'
 import { TimeRangeSlider } from './TimeRangeSlider'
@@ -86,7 +86,13 @@ function getSpreadMetersPerZoom(zoomLevel) {
   return spreadMeters
 }
 
-export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, topOffset, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, height=300, width=300, useFullView = false, showTimeScale, streamSubIndex, setStreamSubIndex, vidWidth, vidHeight, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) => {
+// function onPressItem({setKey, gameId}) {
+//   // const navigate = useNavigate()
+//   const itemLink = getItemLink({gameId, setKey})
+//   // navigate(itemLink)
+// }
+
+export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, topOffset, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoInPopup, height=300, width=300, useFullView = false, showTimeScale, streamSubIndex, setStreamSubIndex, vidWidth, vidHeight, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) => {
   var initialZoomLevel = 2
   if (width < 700) {
     initialZoomLevel = 0
@@ -197,6 +203,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
   // var A =         <AttributionControl position={"topright"} />
   // A.addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" >OpenStreetMap</a>') //addAttribution
   // ref={mapRef}
+  
   return (
     <div style={{backgroundColor: 'blue', justifyContent: "center", height: height, width: width, justifyContent: "center", alignSelf: "center",        display:"flex",
     flexDirection: "column",
@@ -233,7 +240,7 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
       {
         markerData.map( (item, index) => {
           var markerKey = showTourneysMode ? "t"+item[0].bracketInfo.setKey : item.bracketInfo.setKey
-          return <MarkersForItem key={`markers${markerKey}`} {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
+          return <MarkersForItem key={`markers${markerKey}`} {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
         }) 
       }
       {
@@ -244,23 +251,23 @@ export const LeafMap = memo(({data, tourneyById, gameId, filterType, timeRange, 
   );
 })
 
-const MarkersForItem = memo(({showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
-  // return <MarkersForSet {...{showTourneysMode, item: item[0], index, latLons, zoomLevel, handleIndexChange, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
+const MarkersForItem = memo(({showTourneysMode, item, index, latLons, zoomLevel, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
+  // return <MarkersForSet {...{showTourneysMode, item: item[0], index, latLons, zoomLevel, handleIndexChangeNav, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup}}/>
 
   if (showTourneysMode) {
-    return <MarkersForTourney {...{showTourneysMode, tourney: item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
+    return <MarkersForTourney {...{showTourneysMode, tourney: item, index, latLons, zoomLevel, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
   } else {
-    return <MarkersForSet {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
+    return <MarkersForSet {...{showTourneysMode, item, index, latLons, zoomLevel, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>
   }
 });
 
 
-const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
+const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
 
   var item = tourney[0]
   var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
   var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
-  var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
+  var onMarkerClick = () => handleIndexChangeNav({setKey: item.bracketInfo.setKey, gameId: item.bracketInfo.gameId})
   var setKey = item.bracketInfo.setKey
   const [isPopupOpen1, setIsPopupOpen1] = useState(false);
   const [isPopupOpen2, setIsPopupOpen2] = useState(false);
@@ -307,7 +314,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
         maxWidth={maxWidth}
         width={maxWidth}
       >
-        {isPopupOpen1 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 1, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
+        {isPopupOpen1 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 1, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
       }
     </Marker>
@@ -320,7 +327,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
         maxWidth={maxWidth}
         width={maxWidth}
       >
-        {isPopupOpen2 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 2, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
+        {isPopupOpen2 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 2, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
       }
     </Marker>
@@ -333,7 +340,7 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
         maxWidth={maxWidth}
         width={maxWidth}
       >
-        {isPopupOpen3 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 3, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
+        {isPopupOpen3 && <PopupForTourney {...{tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex: 3, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}}/>}
       </Popup>
       }
     </Marker>
@@ -346,10 +353,10 @@ const MarkersForTourney = memo(({tourney, index, latLons, zoomLevel, handleIndex
 
 });
 
-const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
+const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, filterType, handleStreamIndexButtonClick, videoWidth, videoHeight, streamSubIndex, useVideoInPopup, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) =>{
   var iconUrl = getCharUrl(item.player1Info.charInfo, item.bracketInfo.gameId)
   var iconUrl2 = getCharUrl(item.player2Info.charInfo, item.bracketInfo.gameId)
-  var onMarkerClick = () => handleIndexChange(item.bracketInfo.setKey)
+  var onMarkerClick = () => handleIndexChangeNav({setKey: item.bracketInfo.setKey, gameId: item.bracketInfo.gameId})
 
   const [isPopupOpen1, setIsPopupOpen1] = useState(false);
   const [isPopupOpen2, setIsPopupOpen2] = useState(false);
@@ -435,7 +442,7 @@ const MarkersForSet = memo(({item, index, latLons, zoomLevel, handleIndexChange,
 
 });
 
-function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChange, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) {
+function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex, handleIndexChangeNav, itemKey, useLiveStream, showVodsMode, useVideoInPopup, videoWidth, videoHeight, markerIndex, rewindReady, setUseLiveStream, handleTimestampChange, handleReady}) {
   var item = tourney[0]
   item = tourney.find(it => it.bracketInfo.setKey == itemKey) ?? item
   var streamButton = null
@@ -490,7 +497,7 @@ function PopupForTourney({tourney, handleStreamIndexButtonClick, streamSubIndex,
             backgroundSize: "cover",
             backgroundPosition: "center", 
             marginTop: "2px"
-          }} onClick={() => handleIndexChange(item.bracketInfo.setKey)}> 
+          }} onClick={() => handleIndexChangeNav({setKey: item.bracketInfo.setKey, gameId: item.bracketInfo.gameId})}> 
             <span className="leafplayerName">{item.bracketInfo.fullRoundText}</span><br/>
             {selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady, fromMap: true})}
             <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="leafbracketLink">{item.bracketInfo.url}</a><br/>
@@ -526,8 +533,8 @@ const PopupForSet = ({item, handleStreamIndexButtonClick, streamSubIndex, itemKe
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
   try {
-    tourneyBackgroundUrl = item.bracketInfo.images[1].url
-    tourneyIconUrl = item.bracketInfo.images[0].url
+    tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+    tourneyIconUrl = item.bracketInfo.images[0]?.url
   }catch{}
   var infoSectionStyle = "leafset-row-sub-with-vid"
   if (preview == null) {

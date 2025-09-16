@@ -2,7 +2,7 @@ import './DataRowHybrid.css';
 import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { MediaPreview } from "./VideoEmbeds.js"
-import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp, textMatches, tourneyMatches, getChannelName, getTourneySlug, getPlayerLink, getGameUrlStr, getCharLink, getTourneyLink, getChannelLink} from './Utilities.js'
+import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp, textMatches, tourneyMatches, getChannelName, getTourneySlug, getPlayerLink, getGameUrlStr, getCharLink, getTourneyLink, getChannelLink, getItemLink} from './Utilities.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
 import { IconStartGg, IconStream } from './BrandIcons.js'
 
@@ -30,7 +30,7 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, filterI
   var tourneyBackgroundUrl=null
   var tourneyIconUrl = null
   try {
-    tourneyBackgroundUrl = item.bracketInfo.images[1].url
+    tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
     if (item.bracketInfo.endTimeDetected == null) {
       if (item.streamInfo.streamSource == "TWITCH") {
         const thumbWidth = 440;
@@ -94,42 +94,52 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, filterI
   const streamIcon = item.streamInfo.streamIcon
   // console.log("streamIcon", item.streamInfo)
 
+  // searchParams.set("set", page);
+  // const newUrl = `${window.location.pathname}?${searchParams.toString()}`;
+  const itemLink = getItemLink({searchTerm: catInfo, gameId:item.bracketInfo.gameId, setKey: item.bracketInfo.setKey})
+  const linkElemProps = {
+    className: divClass,
+    to: itemLink,
+    style: {
+      backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl})`,
+      backgroundSize: "cover",
+      backgroundPosition: "center"
+      // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
+    }
+  }
+  const contentInside = <><div className="drh-tourney-icon" style={{backgroundImage: `url(${tourneyIconUrl})`, backgroundSize: "cover", backgroundPosition: "center",}} />
+      <div className="drh-tourney-timestamp"><span className='drh-t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
+      <div className="drh-set-row-2">
+      {
+        // selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})
+      }
+      {streamButton}
+      {selected && <div className="drh-set-row-2">
+        <div className="drh-icons-row">
+          <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="drh-bracketLink"><div className="drh-icons-row-icon"><IconStartGg width={18} height={18}/></div></a><br/>
+          {item.streamInfo.streamUrls.map((sItem, index) => {
+            const streamUrl = getStreamUrl(item.streamInfo, index)
+            const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false || showVodsMode)
+            return <div key={index}><a href={streamLink} target="_blank" className="drh-bracketLink"><div className="drh-icons-row-icon-stream"><IconStream streamSource={item.streamInfo.streamSource}/></div></a><br/></div>
+          })}
+        </div>
+      </div> }
+      </div>
+      <span className="drh-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span>
+      <span className="drh-locationText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+      <div className="drh-rowPreviewHolder" >
+      {
+        preview
+      } 
+      </div>
+    </>
+  
+  const linkElem = selected ? <div {...linkElemProps}>{contentInside}</div> : <Link {...linkElemProps}>{contentInside}</Link>
+
+
   return (
     <div className="drw-outer">
-      <div className={divClass} onClick={onClick} style={
-        {
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl})`,
-          backgroundSize: "cover",
-          backgroundPosition: "center"
-          // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
-        }
-      }>
-        <div className="drh-tourney-icon" style={{backgroundImage: `url(${tourneyIconUrl})`, backgroundSize: "cover", backgroundPosition: "center",}} />
-        <div className="drh-tourney-timestamp"><span className='drh-t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
-        <div className="drh-set-row-2">
-        {
-          // selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})
-        }
-        {streamButton}
-        {selected && <div className="drh-set-row-2">
-          <div className="drh-icons-row">
-            <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="drh-bracketLink"><div className="drh-icons-row-icon"><IconStartGg width={18} height={18}/></div></a><br/>
-            {item.streamInfo.streamUrls.map((sItem, index) => {
-              const streamUrl = getStreamUrl(item.streamInfo, index)
-              const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false || showVodsMode)
-              return <div key={index}><a href={streamLink} target="_blank" className="drh-bracketLink"><div className="drh-icons-row-icon-stream"><IconStream streamSource={item.streamInfo.streamSource}/></div></a><br/></div>
-            })}
-          </div>
-        </div> }
-        </div>
-        <span className="drh-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span>
-        <span className="drh-locationText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
-        <div className="drh-rowPreviewHolder" >
-        {
-          preview
-        } 
-        </div>
-      </div>
+      {linkElem}
       <div className="drh-under-1">
         <div className="drh-set-row-4">
           {player1LinkElem} {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='drh-vsText'> vs </span>{player2LinkElem} {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}

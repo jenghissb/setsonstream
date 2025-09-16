@@ -100,3 +100,8 @@
   /* border-radius: 18px; */
   flex-grow: 0;
 }
+
+.about-ul {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}

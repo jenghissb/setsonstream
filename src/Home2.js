@@ -5,7 +5,7 @@ import { LeafMap } from './LeafMapMin.js'
 // import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
-import { checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath } from './Utilities.js'
+import { getItemLink, checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath } from './Utilities.js'
 import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr, GameKeywords } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
@@ -23,7 +23,7 @@ import { NowPlaying } from './NowPlaying.js';
 import { SubEmbedControls, SubEmbeds } from './SubEmbedControls.js';
 import ThreePaneLayout from "./ThreePaneLayout";
 import { ThemeContext } from './ThemeContext';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, useLocation, Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import Star from "./Star";
 import { HorizontalVirtualList, VirtualList, VideoDataGrid, AutoVideoGrid, VirtualVideoGrid, AdaptiveVirtualVideoGrid, AdaptiveVirtualVideoGrid2 } from './AutoVideoGrid.js';
@@ -461,6 +461,7 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
   const gameSlug = gameInfo?.gameSlug
   var dataToStart = data[filterInfo.currentGameId].live
   const hasFilters = filterInfoHasFiltersForCurrentGame(filterInfo)
+  var setMatch = null;
   if (showVodsMode) {
     // dataToStart = data[filterInfo.currentGameId].vods
     dataToStart = data[filterInfo.currentGameId].combined
@@ -518,7 +519,10 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
   favkeysOrdered.forEach(key => {
     favFilterMap.set(key, getCatFilterInfo(key, gameId))
   })
-  return {favMap, favkeysOrdered, favFilterMap, routeFilterInfo, displayData:sortedData}
+  if (params?.setParam != null) {
+    setMatch = sortedData.find(item => item.bracketInfo.setKey == params?.setParam)
+  }
+  return {favMap, favkeysOrdered, favFilterMap, setMatch, routeFilterInfo, displayData:sortedData}
 }
 
 function displayDataHasItemKey(displayData, itemKey) {
@@ -681,7 +685,7 @@ function overrideCurrentGame(homeType, params, filterInfo) {
 }
 
 function getRouteInfoFromSuggestions(homeType, params, suggestions) {
-  const { gameParam, charParam, tourneyParam, channelParam, playerParam, searchParam } = params
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam, searchParam, setParam } = params
   const gameId = gameParam ? VideoGameInfoByGameSlug[gameParam].id : null
   switch(homeType) {
     case HomeTypes.CHARACTER:
@@ -705,12 +709,19 @@ function getRouteInfoFromSuggestions(homeType, params, suggestions) {
 
 function MainComponent({homeMode, homeType, darkMode}) {
   const params = useParams()
+  // const { search } = useLocation();
+  // const searchParams = useMemo(() => new URLSearchParams(search), [search]);
+
+  const prevParams = useRef(params)
+  // const prevSearchParams = useRef(searchParams)
+
   // localStorage.removeItem("filterInfo"))
   // return
   // const [showVodsMode, setShowVodsMode] = useState(false);
 
   const initialFilter = getInitialFilter();  
   const [filterInfo, setFilterInfo] = useState(initialFilter);
+  
   overrideCurrentGame(homeType, params, filterInfo)
   filterInfo.showVodsMode = true
   const showVodsMode = filterInfo.showVodsMode
@@ -751,19 +762,40 @@ function MainComponent({homeMode, homeType, darkMode}) {
     useVideoIn.panel = false
     useVideoIn.list = true
   }
-  const handleIndexChange = useCallback((newSetKey, catInfo) => {
-    if (currentItemKeyRef.current != newSetKey) {
-      setStreamSubIndex(0)
-      if (currentItemKeyRef.current != null) {
-        setUseLiveStream(true)
+  const handleIndexChange = () => {}
+  // const handleIndexChange = useCallback((newSetKey, catInfo) => {
+  //   if (currentItemKeyRef.current != newSetKey) {
+  //     setStreamSubIndex(0)
+  //     if (currentItemKeyRef.current != null) {
+  //       setUseLiveStream(true)
+  //     }
+  //   }
+  //   currentItemKeyRef.current = newSetKey
+  //   setCurrentItemKey(newSetKey)
+  //   if (catInfo != null) {
+  //     navigate(getLinkFromSearch(catInfo, currentGameIdRef.current))
+  //   }
+  // }, []);
+  // if (prevParams.current != params || prevSearchParams.current != searchParams) {
+  if (prevParams.current != params) {
+    // const handleIndexChange = useCallback((newSetKey, catInfo) => {
+      // const newSetKey = searchParams.get("setId")
+      const newSetKey = params.setParam
+      if (currentItemKeyRef.current != newSetKey) {
+        setStreamSubIndex(0)
+        if (currentItemKeyRef.current != null) {
+          setUseLiveStream(true)
+        }
       }
-    }
-    currentItemKeyRef.current = newSetKey
-    setCurrentItemKey(newSetKey)
-    if (catInfo != null) {
-      navigate(getLinkFromSearch(catInfo, currentGameIdRef.current))
-    }
-  }, []);
+      currentItemKeyRef.current = newSetKey
+      setCurrentItemKey(newSetKey)
+      // if (catInfo != null) {
+      //   navigate(getLinkFromSearch(catInfo, currentGameIdRef.current))
+      // }
+    // }, []);
+  }
+  prevParams.current = params
+  // prevSearchParams.current = searchParams
 
   const updateCurrentGame = (newGameId) => {
     var gameChanged = (newGameId != filterInfo.currentGameId)
@@ -1017,6 +1049,15 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const centerPane = useRef(null);
 
   const navigate = useNavigate();
+  const navigateRef = useRef(navigate)
+  if (navigateRef.current != navigate) {
+    navigateRef.current = navigate
+  }
+  var handleIndexChangeNav = useCallback(({setKey, gameId}) => {
+    const currentNavigate = navigateRef.current
+    const itemLink = getItemLink({gameId, setKey})
+    currentNavigate(itemLink)
+  }, [])
 
   useEffect(() => {
     const handleResize = () => {
@@ -1046,7 +1087,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
         Object.keys(data).forEach((key1) => {
           Object.keys(data[key1]).forEach((key2) => {
             data[key1][key2].forEach(item => {
-              item.bracketInfo.setKey = `${item.bracketInfo.setId}_${item.bracketInfo.tourneyId}`
+              item.bracketInfo.setKey = `${item.bracketInfo.setId}`
             })
           })
         })
@@ -1133,7 +1174,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   //             preview
   //           }
   //           {
-  //             Leafy([], {}, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, null)
+  //             Leafy([], {}, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, width, height, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, null)
   //           }
   //         </div>
   //         </div>
@@ -1166,6 +1207,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const favkeysOrdered = displayDataInfo?.favkeysOrdered || []
   const favFilterMap = displayDataInfo?.favFilterMap || {}
   const routeFilterInfo = displayDataInfo?.routeFilterInfo
+  const setMatch = displayDataInfo?.setMatch
   // var displayDatas = useMemo(() => {
   //   if (loading || error) return null
   //   return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
@@ -1221,7 +1263,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           <div style={titleStyle}>
             { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
-              <RouteInfo {...{routeInfo, homeType, bootstrap, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
+              <RouteInfo {...{routeInfo, homeType, setMatch, bootstrap, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
               {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
@@ -1379,7 +1421,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           <div style={titleStyle}>
             { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
-              <RouteInfo {...{routeInfo, homeType, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
+              <RouteInfo {...{routeInfo, homeType, setMatch, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
               {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
@@ -1409,7 +1451,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
               }
             </div>
             {
-              subEmbedToggle==SubEmbeds.MAP && <div className="home2SubEmbedControlsContainer">{Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, "100dvw", mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+              subEmbedToggle==SubEmbeds.MAP && <div className="home2SubEmbedControlsContainer">{Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, "100dvw", mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
               }</div>
             }
             {
@@ -1438,7 +1480,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
         </div>
         { hasRightPane && <div className="home2rightPane" ref={rightPane}>
           {
-            hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+            hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
           }
           {hasRightPane && chat}
           {
@@ -1493,7 +1535,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
          previewItem && <BracketEmbed totalWidth={centerWidth} height={240} src={previewItem.bracketInfo.phaseGroupUrl}/>
         }
         {
-          !hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+          !hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
         }
         {!hasRightPane && chat}
         {
@@ -1506,7 +1548,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
         </div>
         <div className="home2rightPane">
         {
-          hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChange, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+          hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, mapWidth, mapHeight, homeMode, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
         }
         {hasRightPane && chat}
         {
@@ -1706,9 +1748,9 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
 
 // }
 
-function RouteInfo({homeType, params, bootstrap, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
+function RouteInfo({homeType, params, setMatch, bootstrap, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
   const routeName = getRouteName(homeType, params)
-  const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam } = params
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam, setParam } = params
   var iconClass = ""
   var iconSrc = null
   var routeText = ""
@@ -1823,6 +1865,50 @@ function RouteInfo({homeType, params, bootstrap, routeInfo, filterInfo, dropdown
       break;
     default:
       return "Home"
+  }
+
+  if (setParam != null) {
+    const item = setMatch
+    useBootstrap = playerParam && playerParam == bootstrapInfo?.userSlug
+    if (item && item.bracketInfo.setKey == setParam) {
+      const setId = item.bracketInfo.setId
+      const tourneySlug = getTourneySlug(item.bracketInfo)
+      const tourneyIcon = item.bracketInfo.images[0]?.url ?? null
+      const player1Name = item.player1Info.nameWithRomaji
+      const player2Name = item.player2Info.nameWithRomaji
+      const player1Slug = item.player1Info.userSlug
+      const player2Slug = item.player2Info.userSlug
+      const fullRoundText = item.bracketInfo.fullRoundText
+      const tourneyName = item.bracketInfo.tourneyName
+      const channelName = getChannelName(item.streamInfo)
+      const charNames1 = item.player1Info.charInfo.map(item => item.name).filter(name => name.length > 0)
+      const charNames2 = item.player2Info.charInfo.map(item => item.name).filter(name => name.length > 0)
+      const charNames = charNames1.concat(charNames2)
+      var charKeywordStrs = charNames.join(", ").trim()
+      if (charKeywordStrs.length > 0) {
+        charKeywordStrs = charKeywordStrs + ", "
+      }
+      title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`
+      description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
+      keywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
+    } else if (bootstrapInfo && bootstrapInfo.setId == setParam) {
+      const setId = bootstrapInfo.setId
+      const tourneySlug = bootstrapInfo.tourneySlug
+      const player1Name = bootstrapInfo.player1Name
+      const player2Name = bootstrapInfo.player2Name
+      const player1Slug = bootstrapInfo.player1Slug
+      const player2Slug = bootstrapInfo.player2Slug
+      const fullRoundText = bootstrapInfo.fullRoundText
+      const tourneyName = bootstrapInfo.tourneyName
+      const channelName = bootstrapInfo.channelName
+      const setKeywords = bootstrapInfo.setKeywords
+      const charKeywordStrs = bootstrapInfo.charKeywordStrs
+      title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`
+      description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
+      keywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
+    }
+    // console.log("TEST23 favSuggestion = ", favSuggestion, "routeInfo", routeInfo)
+    // title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`    
   }
 
   return <div className="home2RouteRow">
@@ -2004,7 +2090,7 @@ function BracketEmbed({totalWidth = 854, height = 480, src}) {
 
 
 
-function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady) {
+function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsMode, handleIndexChangeNav, useVideoInPopup, width, height, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady) {
   
   if (homeMode === HomeModes.ALLINLIST) {
     return
@@ -2018,7 +2104,7 @@ function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsM
   const filterType = showVodsMode ? filterInfo.filterType?.vods : filterInfo.filterType?.live
   const showTimeScale = homeType === HomeTypes.Home || homeType === HomeTypes.GAME
   if (data != null)
-    return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChange, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, showTimeScale: showTimeScale, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady }}/>
+    return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, showTimeScale: showTimeScale, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady }}/>
 }
 
 function NoData(showVodsMode, setShowVodsMode, overMap, sayNoMatch) {

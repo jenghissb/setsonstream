@@ -13,6 +13,7 @@
   justify-content: end;
   position:relative;
   aspect-ratio: 16 / 9; /* Example: 16:9 aspect ratio */
+  text-decoration: none;
 }
 
 
@@ -291,6 +292,7 @@
 }
 
 .drh-tourney-timestamp {
+  color: var(--text-main-color);
   width: fit-content;
   font-size: small;
   position: absolute;
