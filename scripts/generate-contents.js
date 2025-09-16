@@ -585,6 +585,7 @@ async function main() {
       const description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
       const setKeywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
       const bootstrap = {routeInfo: {
+        set: item,
         tourneySlug,
         tourneyIcon,
         tourneyName,

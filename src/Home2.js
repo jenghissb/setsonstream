@@ -530,6 +530,9 @@ function displayDataHasItemKey(displayData, itemKey) {
 }
 
 function hasDataForGame(data, gameId, showVodsMode) {
+  if (data == null) {
+    return false
+  }
   if (showVodsMode) {
     return data[gameId]?.vods?.length ?? 0 > 0
   } else {
@@ -1151,7 +1154,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
       window.scrollTo({top: -stickyPos+headerHeight})
     }
   }
-  const { gameParam, charParam, tourneyParam, channelParam, playerParam } = params
+  const { gameParam, charParam, tourneyParam, channelParam, playerParam, setParam } = params
   useEffect(() => {
     rightPane.current?.scrollTo({top:0})
     centerPane.current?.scrollTo({top:0})
@@ -1196,6 +1199,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // var displayData = getDisplayData(homeType, params, data, filterInfo, showVodsMode)
 
   var bootstrap = useMemo(() => getBootstrapData(), [])
+  var bootstrapInfo = bootstrap?.routeInfo
 
   var displayDataInfo = useMemo(() => {
     if (loading || error) return null
@@ -1207,7 +1211,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const favkeysOrdered = displayDataInfo?.favkeysOrdered || []
   const favFilterMap = displayDataInfo?.favFilterMap || {}
   const routeFilterInfo = displayDataInfo?.routeFilterInfo
-  const setMatch = displayDataInfo?.setMatch
+  var setMatch = displayDataInfo?.setMatch
+  if (setMatch == null && setParam != null && setParam == bootstrapInfo?.setId) {
+    setMatch = bootstrapInfo.set
+  }
   // var displayDatas = useMemo(() => {
   //   if (loading || error) return null
   //   return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
@@ -1258,12 +1265,12 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // }
 
   // if (loading) return <div className="home2LoadingSyle">{loadingText}</div>;
-  if (loading) return <div className="home2threePanes">
+  if (loading && setMatch == null) return <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
             { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
-              <RouteInfo {...{routeInfo, homeType, setMatch, bootstrap, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
+              <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
               {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
@@ -1314,6 +1321,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   if (useVideoIn.panel == true) {
     if (displayData.length > 0) {
       previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
+    } else if (setMatch) {
+      previewItem = setMatch
     }
     // const vidWidth = `${width}px`
     // const vidHeight = `${height}px`
@@ -1337,8 +1346,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
 
   var tourneyById = getDataByTourney(displayData)
   var wouldHaveData = hasDataForGame(data, filterInfo.currentGameId, showVodsMode)
-  const sayNoMatch = wouldHaveData
-  const shouldShowNoData = displayData.length < 1
+  const sayNoMatch = wouldHaveData && setMatch == null
+  const shouldShowNoData = displayData.length < 1 && setMatch == null
   const shouldShowNoDataOver = shouldShowNoData && homeMode == HomeModes.FULLMAP
   if (homeMode != HomeModes.FULLMAP) {
     if (shouldShowNoData) {
@@ -1433,7 +1442,6 @@ function MainComponent({homeMode, homeType, darkMode}) {
           </div>
           {
             previewItem && <NowPlaying {...{setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}} />
-
           }
           {
             // renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)
@@ -1748,7 +1756,7 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
 
 // }
 
-function RouteInfo({homeType, params, setMatch, bootstrap, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
+function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
   const routeName = getRouteName(homeType, params)
   const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam, setParam } = params
   var iconClass = ""
@@ -1766,7 +1774,6 @@ function RouteInfo({homeType, params, setMatch, bootstrap, routeInfo, filterInfo
   }
   const gameIcon = gameInfo?.images?.at(-1)?.url ?? null
   const favSuggestion = getFavoriteSuggestionFromRoute(homeType, params, filterInfo);
-  var bootstrapInfo = bootstrap?.routeInfo
   var useBootstrap = false
   switch(homeType) {
     case HomeTypes.PLAYER:
