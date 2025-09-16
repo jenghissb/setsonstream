@@ -30,7 +30,7 @@ function getTourneySlug(bracketInfo) {
 
 }
 
-export function getStreamUrl(streamInfo, index, preferTimestampedVod=false) {
+function getStreamUrl(streamInfo, index, preferTimestampedVod=false) {
   const streamUrlInfo = streamInfo.streamUrls[index]
   if (streamInfo.streamSource == 'YOUTUBE') {
     const videoId = streamUrlInfo.videoId
@@ -126,7 +126,7 @@ function generatePage({templatePath, title, description, keywords, bootstrap={},
   if (canonical != null) {
     html = html.replace(
       "</body>",
-      `<link rel="canonical" href="${canonical}"/>`
+      `<link rel="canonical" href="${canonical}"/></body>`
     )
   }
   if (jsonLd != null) {
@@ -664,6 +664,7 @@ async function main() {
       }
       url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
       jsonLd = generateJsonLdSet({item, gameInfo, url})
+      console.log("Test89 jsonLd", jsonLd)
       writeFile(
         path.join(gameDir, "set", `${setId}`, "index.html"),
         generatePage({
@@ -770,6 +771,7 @@ function generateJsonLdSet({item, gameInfo, url}) {
   const player2Name = item.player2Info.nameWithRomaji
   const player1Slug = item.player1Info.userSlug
   const player2Slug = item.player2Info.userSlug
+  
   const fullRoundText = item.bracketInfo.fullRoundText
   const tourneyName = item.bracketInfo.tourneyName
   const channelName = getChannelName(item.streamInfo)
@@ -784,6 +786,7 @@ function generateJsonLdSet({item, gameInfo, url}) {
   const isoDuration = getIsoDuration(duration)
   const contentUrl = getStreamUrl(item.streamInfo, 0, true)
   const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+  let viewers = 0
   const charArr1 = (item.player1Info.charInfo?.length ?? 0) > 0 ? { 
     "character": item.player1Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
@@ -799,6 +802,22 @@ function generateJsonLdSet({item, gameInfo, url}) {
       }))}
     : {}
 
+  const streamUrls = item.streamInfo.streamUrls
+  if(streamUrls.length > 0 && streamUrls[0].viewerCount != null) {
+    viewers = streamUrls[0].viewerCount
+  }
+
+  const viewersInfo = (viewers > 5) ? {
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": {
+        "@type": "WatchAction"
+      },
+      "userInteractionCount": viewers,
+    }
+  } : {}
+  console.log("TEST24 viewers = ", viewers, viewers > 5, viewersInfo)
+
   return {
     "@context": "https://schema.org",
     "@type": "VideoObject",
@@ -813,6 +832,7 @@ function generateJsonLdSet({item, gameInfo, url}) {
     ...(endedAt && {"duration": isoDuration}),  
     "contentUrl": contentUrl,
     "embedUrl": embedUrl,
+    ...viewersInfo,
     "publisher": {
       "@type": "Organization",
       "name": `${channelName}`,
