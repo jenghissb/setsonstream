@@ -590,10 +590,10 @@ async function main() {
         tourneyIcon,
         tourneyName,
         channelName,
-        player1Name,
-        player2Name,
-        player1Slug,
-        player2Slug,
+        // player1Name,
+        // player2Name,
+        // player1Slug,
+        // player2Slug,
         setId,
         charKeywordStrs,
       }}
@@ -664,7 +664,6 @@ async function main() {
       }
       url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
       jsonLd = generateJsonLdSet({item, gameInfo, url})
-      console.log("Test89 jsonLd", jsonLd)
       writeFile(
         path.join(gameDir, "set", `${setId}`, "index.html"),
         generatePage({
@@ -816,7 +815,6 @@ function generateJsonLdSet({item, gameInfo, url}) {
       "userInteractionCount": viewers,
     }
   } : {}
-  console.log("TEST24 viewers = ", viewers, viewers > 5, viewersInfo)
 
   return {
     "@context": "https://schema.org",
@@ -844,11 +842,11 @@ function generateJsonLdSet({item, gameInfo, url}) {
       }})
     },
     // "inLanguage": "en",
-    "isPartOf": {
-      "@type": "SportsEvent",
-      "@id": `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/`,
-      "name": `${tourneyName}`
-    },
+    // "isPartOf": {
+    //   "@type": "SportsEvent",
+    //   "@id": `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/`,
+    //   "name": `${tourneyName}`
+    // },
     "competitor": [
       {
         "@type": "Person",
