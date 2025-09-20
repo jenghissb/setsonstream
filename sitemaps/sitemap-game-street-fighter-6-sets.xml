@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/super-aggro-warrior-arena/set/94097254/</loc>
+  <lastmod>2025-09-20T10:30:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816845/image-3a1d72efd77511d4b72690e9c0227959.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bocchi [XY] vs holotype, Super Aggro Warrior Arena - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bocchi [XY] vs holotype in Winners Quarter-Final of Super Aggro Warrior Arena, streamed by locus_crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571093894&t=0h24m14s&parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1159</video:duration>
+    <video:publication_date>2025-09-20T10:30:33.000Z</video:publication_date>
+    <video:uploader>locus_crew</video:uploader>
+    <video:expiration_date>2025-09-28T10:30:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/friday-fundies-7-1/set/94066758/</loc>
   <lastmod>2025-09-20T03:04:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-05T01:21:55.000Z</video:publication_date>
     <video:uploader>tol_gaming_lounge</video:uploader>
     <video:expiration_date>2025-09-13T01:21:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/level3-49-weekly-fighting-game-event/set/93471230/</loc>
-  <lastmod>2025-09-05T01:54:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824448/image-e933788b6e0f1373c8ba57591f4dfe63.png
-    </video:thumbnail_loc>
-    <video:title>
-      Geobraun vs Claudlines, Level3 #49 - Weekly Fighting Game Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Geobraun vs Claudlines in Winners Semi-Final of Level3 #49 - Weekly Fighting Game Event, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2558359148&t=1h1m0s&parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1986</video:duration>
-    <video:publication_date>2025-09-05T01:11:26.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2025-09-13T01:11:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
