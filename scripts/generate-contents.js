@@ -172,7 +172,7 @@ function makeUrlEntry(loc, lastMod = null, changefreq = "daily", priority = 0.8,
 
 function wrapUrlset(urls, showVideoTag=false) {
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9${showVideoTag ? ' xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"' : ""}>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"${showVideoTag ? ' xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"' : ""}>
 ${urls.join("\n")}
 </urlset>`;
 }
