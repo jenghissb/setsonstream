@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/plus-frames-3/set/94129923/</loc>
+  <lastmod>2025-09-20T20:04:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831186/image-1fdb94494a7d94ddf7e7b354bec506cd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ampersand vs Arepa, Plus Frames 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ampersand vs Arepa in Winners Quarter-Final of Plus Frames 3, streamed by TopBlastZoneNY
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571447884&amp;t=0h55m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1504</video:duration>
+    <video:publication_date>2025-09-20T20:04:32.000Z</video:publication_date>
+    <video:uploader>TopBlastZoneNY</video:uploader>
+    <video:expiration_date>2025-09-28T20:04:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/niner-esports-union-convention-september-2025-smash-rivals-2/set/94117582/</loc>
   <lastmod>2025-09-20T19:51:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-08-31T02:28:35.000Z</video:publication_date>
     <video:uploader>colorado_roa</video:uploader>
     <video:expiration_date>2025-09-08T02:28:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivalry-atop-the-mountain-colorado-s-roa2-arcadian/set/93321553/</loc>
-  <lastmod>2025-08-31T02:45:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/802784/image-f8ec72c0cd1876df04473e6476167758.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shoe vs CSG | SIke, Rivalry atop the Mountain: Colorado&apos;s RoA2 Arcadian - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shoe vs CSG | SIke in Winners Semi-Final of Rivalry atop the Mountain: Colorado&apos;s RoA2 Arcadian, streamed by colorado_roa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2553919689&amp;t=7h15m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>742</video:duration>
-    <video:publication_date>2025-08-31T02:16:28.000Z</video:publication_date>
-    <video:uploader>colorado_roa</video:uploader>
-    <video:expiration_date>2025-09-08T02:16:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
