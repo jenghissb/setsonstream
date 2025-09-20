@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smashuma-squirrel-squabble/set/94126066/</loc>
+  <lastmod>2025-09-20T19:53:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825771/image-d5f0ab16bcf9b549c0cb22f6e174e053.png
+    </video:thumbnail_loc>
+    <video:title>
+      PROD | funkyk0ng vs AUNTIE WOW | bleop, SmashUMA: Squirrel Squabble - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PROD | funkyk0ng vs AUNTIE WOW | bleop in Winners Final of SmashUMA: Squirrel Squabble, streamed by smashumamelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571444307&amp;t=0h48m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1281</video:duration>
+    <video:publication_date>2025-09-20T19:53:13.000Z</video:publication_date>
+    <video:uploader>smashumamelee</video:uploader>
+    <video:expiration_date>2025-09-28T19:53:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/treta-championship-2025/set/94107366/</loc>
   <lastmod>2025-09-20T18:11:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-08-30T22:26:13.000Z</video:publication_date>
     <video:uploader>SatelliteFighters</video:uploader>
     <video:expiration_date>2025-09-07T22:26:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/baby-fights-2025/set/93282245/</loc>
-  <lastmod>2025-08-30T22:43:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819407/image-6b6e8d8c632c6b233f6ccf8b80f3768c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Oshabetta vs TCB | myganonsmokescrack, Baby Fights 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Oshabetta vs TCB | myganonsmokescrack in Losers Final of Baby Fights 2025, streamed by aocesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2554064222&amp;t=0h2m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>824</video:duration>
-    <video:publication_date>2025-08-30T22:12:12.000Z</video:publication_date>
-    <video:uploader>aocesports</video:uploader>
-    <video:expiration_date>2025-09-07T22:12:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
