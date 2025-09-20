@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-53-fleeting-joy/set/94140467/</loc>
-  <lastmod>2025-09-20T22:24:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-53-fleeting-joy/set/94140641/</loc>
+  <lastmod>2025-09-20T23:02:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/819943/image-790338dd953b224666af552db9efea05.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Ember vs Karils | Conflict, Mass Madness 53 - Fleeting Joy - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ember vs Karils | Conflict in Winners Quarter-Final of Mass Madness 53 - Fleeting Joy, streamed by GameUnderground
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571388464&amp;t=5h0m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1065</video:duration>
+    <video:publication_date>2025-09-20T23:02:12.000Z</video:publication_date>
+    <video:uploader>GameUnderground</video:uploader>
+    <video:expiration_date>2025-09-28T23:02:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-53-fleeting-joy/set/94140467/</loc>
+  <lastmod>2025-09-20T23:14:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571388464&amp;t=4h22m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2942</video:duration>
+    <video:duration>1531</video:duration>
     <video:publication_date>2025-09-20T22:24:12.000Z</video:publication_date>
     <video:uploader>GameUnderground</video:uploader>
     <video:expiration_date>2025-09-28T22:24:12.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monthly-smashers-september-20th-2025/set/94134742/</loc>
-  <lastmod>2025-09-20T22:20:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-20T23:14:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571405236&amp;t=3h59m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3141</video:duration>
+    <video:duration>2261</video:duration>
     <video:publication_date>2025-09-20T22:20:53.000Z</video:publication_date>
     <video:uploader>olytrc</video:uploader>
     <video:expiration_date>2025-09-28T22:20:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smashuma-squirrel-squabble/set/94126067/</loc>
-  <lastmod>2025-09-20T20:49:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825771/image-d5f0ab16bcf9b549c0cb22f6e174e053.png
-    </video:thumbnail_loc>
-    <video:title>
-      PROD | funkyk0ng vs AUNTIE WOW | bleop, SmashUMA: Squirrel Squabble - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PROD | funkyk0ng vs AUNTIE WOW | bleop in Grand Final of SmashUMA: Squirrel Squabble, streamed by smashumamelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=smashumamelee&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-09-20T20:49:49.000Z</video:publication_date>
-    <video:uploader>smashumamelee</video:uploader>
-    <video:expiration_date>2025-09-28T20:49:49.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -214,6 +214,30 @@
     <video:publication_date>2025-09-20T20:57:21.000Z</video:publication_date>
     <video:uploader>olytrc</video:uploader>
     <video:expiration_date>2025-09-28T20:57:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smashuma-squirrel-squabble/set/94126067/</loc>
+  <lastmod>2025-09-20T23:14:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825771/image-d5f0ab16bcf9b549c0cb22f6e174e053.png
+    </video:thumbnail_loc>
+    <video:title>
+      PROD | funkyk0ng vs AUNTIE WOW | bleop, SmashUMA: Squirrel Squabble - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PROD | funkyk0ng vs AUNTIE WOW | bleop in Grand Final of SmashUMA: Squirrel Squabble, streamed by smashumamelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571444307&amp;t=1h45m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-09-20T20:49:49.000Z</video:publication_date>
+    <video:uploader>smashumamelee</video:uploader>
+    <video:expiration_date>2025-09-28T20:49:49.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-08-31T00:10:02.000Z</video:publication_date>
     <video:uploader>polaritygg</video:uploader>
     <video:expiration_date>2025-09-08T00:10:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sundown-saga-2025/set/93304148/</loc>
-  <lastmod>2025-08-31T02:13:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/798469/image-b685808f765784618f6d82b615bb6893.png
-    </video:thumbnail_loc>
-    <video:title>
-      EWA | ERGonomics vs Dr.DooM, Sundown Saga 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EWA | ERGonomics vs Dr.DooM in Grand Final Reset of Sundown Saga 2025, streamed by SatelliteFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2553889661&amp;t=5h37m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-08-31T00:04:56.000Z</video:publication_date>
-    <video:uploader>SatelliteFighters</video:uploader>
-    <video:expiration_date>2025-09-08T00:04:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

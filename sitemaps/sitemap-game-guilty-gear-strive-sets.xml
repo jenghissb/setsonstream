@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dino-rush-september-20-2025/set/94137606/</loc>
+  <lastmod>2025-09-20T23:09:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827684/image-4a33e7679fda82ce61ddd3173442d553.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nameless vs Djang-O&apos;, Dino Rush (September 20, 2025) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nameless vs Djang-O&apos; in Losers Quarter-Final of Dino Rush (September 20, 2025), streamed by stlfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571406344&amp;t=4h46m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>652</video:duration>
+    <video:publication_date>2025-09-20T23:09:05.000Z</video:publication_date>
+    <video:uploader>stlfgc</video:uploader>
+    <video:expiration_date>2025-09-28T23:09:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/saturday-trials-6-500-pot-bonuses/set/94123799/</loc>
   <lastmod>2025-09-20T22:51:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-06T06:32:07.000Z</video:publication_date>
     <video:uploader>ozhadou2nd</video:uploader>
     <video:expiration_date>2025-09-14T06:32:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ozhadou-nationals-19/set/93523463/</loc>
-  <lastmod>2025-09-06T06:40:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/783407/image-34b39cdc23e14fd29ce932e86d9ca843.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dags vs Sivis, OzHadou Nationals 19 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dags vs Sivis in Losers Round 4 of OzHadou Nationals 19, streamed by anteikuoceania
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559263398&amp;t=4h27m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1005</video:duration>
-    <video:publication_date>2025-09-06T06:10:06.000Z</video:publication_date>
-    <video:uploader>anteikuoceania</video:uploader>
-    <video:expiration_date>2025-09-14T06:10:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
