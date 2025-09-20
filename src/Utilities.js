@@ -167,6 +167,36 @@ export function getStreamUrl(streamInfo, index, preferTimestampedVod=false) {
   }
 }
 
+export function getStreamEmbedUrl(streamInfo, index, preferTimestampedVod=false) {
+  const streamUrlInfo = streamInfo.streamUrls[index]
+  if (streamInfo.streamSource == 'YOUTUBE') {
+    const videoId = streamUrlInfo.videoId
+    if (videoId != null) {
+      if (preferTimestampedVod && streamUrlInfo.offset != null) {
+        return `https://www.youtube.com/embed/${videoId}?start=${streamUrlInfo.offset}s`
+      } else {
+        return `https://www.youtube.com/embed/${videoId}`
+      }
+    } else if (streamUrlInfo.streamUrl != null) {
+      return streamUrlInfo.streamUrl
+    } else {
+      const channel = streamInfo.ytChannelId
+      return `https://www.youtube.com/${channel}`
+    }
+  } else if (streamInfo.streamSource == 'TWITCH') {
+    const videoId = streamUrlInfo.videoId
+    if (preferTimestampedVod && videoId != null) {
+      var offsetParamText = ""
+      if (streamUrlInfo.offsetHms) {
+        offsetParamText = `&t=${streamUrlInfo.offsetHms}`
+      }
+      return `https://player.twitch.tv/?video=${videoId}${offsetParamText}&parent=${window.location.hostname}`
+    } else {
+      return `https://player.twitch.tv/?channel=${streamInfo.forTheatre}&parent=${window.location.hostname}`
+    }
+  }
+}
+
 export function getChannelName(streamInfo) {
   if (streamInfo?.streamSource == 'YOUTUBE') {
     return streamInfo?.streamName ?? " " //streamInfo.ytChannelId

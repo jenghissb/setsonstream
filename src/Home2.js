@@ -5,7 +5,7 @@ import { LeafMap } from './LeafMapMin.js'
 // import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
-import { getItemLink, checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath } from './Utilities.js'
+import { getItemLink, checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath, getStreamEmbedUrl } from './Utilities.js'
 import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr, GameKeywords } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
@@ -27,6 +27,8 @@ import { useParams, useLocation, Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import Star from "./Star";
 import { HorizontalVirtualList, VirtualList, VideoDataGrid, AutoVideoGrid, VirtualVideoGrid, AdaptiveVirtualVideoGrid, AdaptiveVirtualVideoGrid2 } from './AutoVideoGrid.js';
+
+const OG_THUMB = "https://setsonstream.tv/logoOg.png"
 
 export const HomeTypes = Object.freeze({
   HOME: 'HOME',
@@ -1803,6 +1805,9 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
     keywords = GameKeywords[gameId] ?? ""
   }
   var charInfo = null
+  var useVideoTags = false
+  var ogVideoUrl = null
+  var ogVideoThumb = null
 
   switch(homeType) {
     case HomeTypes.CHARACTER:
@@ -1898,6 +1903,12 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`
       description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
       keywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
+      useVideoTags = true
+      ogVideoUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+      const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+      const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+      const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+      ogVideoThumb = setThumb
     } else if (bootstrapInfo && bootstrapInfo.setId == setParam) {
       const setId = bootstrapInfo.setId
       const tourneySlug = bootstrapInfo.tourneySlug
@@ -1917,7 +1928,6 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
     // console.log("TEST23 favSuggestion = ", favSuggestion, "routeInfo", routeInfo)
     // title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`    
   }
-
   return <div className="home2RouteRow">
     <Helmet key={`${homeType}_${routeText}`}>
       <title>{title}</title>
@@ -1925,6 +1935,14 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       <meta name="twitter:title" content={title} key="twittertitle"/>
       <meta name="twitter:description" content={description} key="twitterdescription"/>
       <meta name="keywords" content={keywords} key="keywords"/>
+      {useVideoTags && <meta property="og:video" content={ogVideoUrl} data-rh="true"/>}
+      {useVideoTags && <meta property="og:video:url" content={ogVideoUrl} data-rh="true"/>}
+      {useVideoTags && <meta property="og:video:type" content="text/html" data-rh="true"/>}
+      {useVideoTags && <meta property="og:video:width" content="1280" data-rh="true"/>}
+      {useVideoTags && <meta property="og:video:height" content="720" data-rh="true"/>}
+      {useVideoTags && <meta property="og:image" content={ogVideoThumb} data-rh="true"/>}
+      {!useVideoTags && <meta property="og:image" content={OG_THUMB} data-rh="true"/>}
+
     </Helmet>
     <Link className="home2RouteHomeIcon" to={`/`}>{renderHomeIcon({width:"100%", height: "100%"})}</Link>
     {gameParam && gameId && <div className="home2DotStyle">•</div>}

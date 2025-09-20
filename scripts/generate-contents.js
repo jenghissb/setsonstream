@@ -9,6 +9,9 @@ const BASE_URL = 'https://setsonstream.tv';
 const DIST_DIR = "build"
 const SITEMAP_DIR = path.join(DIST_DIR, "sitemaps");
 const NUM_SETS_PER = 10
+const EXPIRE_SECONDS = 8 * 24 * 60 * 60
+const PARENT = "setsonstream.tv"
+const OG_THUMB = "https://setsonstream.tv/logoOg.png"
 
 function getChannelName(streamInfo) {
   if (streamInfo?.streamSource == 'YOUTUBE') {
@@ -83,14 +86,12 @@ export function getStreamEmbedUrl(streamInfo, index, preferTimestampedVod=false)
       if (streamUrlInfo.offsetHms) {
         offsetParamText = `&t=${streamUrlInfo.offsetHms}`
       }
-      return `https://player.twitch.tv/?video=${videoId}${offsetParamText}`
+      return `https://player.twitch.tv/?video=v${videoId}${offsetParamText}&parent=${PARENT}`
     } else {
-      return `https://player.twitch.tv/?channel=${streamInfo.forTheatre}`
+      return `https://player.twitch.tv/?channel=${streamInfo.forTheatre}&parent=${PARENT}`
     }
   }
 }
-
-
 
 // Helpers
 function ensureDir(dir) {
@@ -103,7 +104,7 @@ function writeFile(filePath, content) {
   fs.writeFileSync(filePath, content);
 }
 
-function generatePage({templatePath, title, description, keywords, bootstrap={}, jsonLd, canonical}) {
+function generatePage({templatePath, title, description, keywords, bootstrap={}, jsonLd, canonical, ogVideoUrl, ogVideoThumb}) {
   let html = fs.readFileSync(templatePath, "utf-8");
 
   // 1️⃣ Update <title> only
@@ -119,6 +120,17 @@ function generatePage({templatePath, title, description, keywords, bootstrap={},
   updateMetaContent("keywords", keywords);
   updateMetaContent("twitter:title", title);
   updateMetaContent("twitter:description", description);
+  if (ogVideoThumb != null && ogVideoUrl != null) {
+    updateMetaContent("og:image", ogVideoThumb);
+    html = html.replace(
+      "</body>",
+      `<meta property="og:video" content="${ogVideoUrl}" data-rh="true"/>`+
+      `<meta property="og:video:url" content="${ogVideoUrl}" data-rh="true"/>`+
+      `<meta property="og:video:type" content="text/html" data-rh="true"/>`+
+      `<meta property="og:video:width" content="1280" data-rh="true"/>`+
+      `<meta property="og:video:height" content="720" data-rh="true"/></body>`
+    );
+  }
   html = html.replace(
     "</body>",
     `<script id="route-data" type="application/json">${JSON.stringify(bootstrap)}</script></body>`
@@ -502,8 +514,8 @@ async function main() {
           tourneyIcon,
           tourneyName: item.bracketInfo.tourneyName,
         }}
-        // var url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/tournament/${tourneySlug}/`
-        // const jsonLd = generateJsonLdTournament({item, gameInfo, url})
+        var url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/tournament/${tourneySlug}/`
+        const jsonLd = generateJsonLdTournament({item, gameInfo, url})
         writeFile(
           path.join(gameDir, "tournament", tourneySlug, "index.html"),
           generatePage({
@@ -512,6 +524,7 @@ async function main() {
             description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${item.bracketInfo.tourneyName}`,
             keywords: `${item.bracketInfo.tourneyName}, ${key}, ${tourneySlug}, ${keywords}`,
             bootstrap,
+            jsonLd,
           })
         )
       }
@@ -597,6 +610,14 @@ async function main() {
         setId,
         charKeywordStrs,
       }}
+      const contentUrl = getStreamUrl(item.streamInfo, 0, true)
+      const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+      const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+      const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+      const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+      const ogVideoThumb = setThumb
+      const ogVideoUrl = contentUrl
+
       // var url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
       // var jsonLd = generateJsonLdSet({item, gameInfo, url})
       // title: `${item.bracketInfo.tourneyName} - Sets on Stream`,
@@ -614,6 +635,8 @@ async function main() {
           bootstrap,
           jsonLd,
           canonical,
+          ogVideoUrl,
+          ogVideoThumb, 
         })
       )
       url = `https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${setId}/`
@@ -628,6 +651,8 @@ async function main() {
           bootstrap,
           jsonLd,
           canonical,
+          ogVideoUrl,
+          ogVideoThumb, 
         })
       )
       if (player1Slug != null) {
@@ -643,6 +668,8 @@ async function main() {
             bootstrap: {...bootstrap, userSlug: player1Slug},
             jsonLd,
             canonical,
+            ogVideoUrl,
+            ogVideoThumb, 
           })
         )
       }
@@ -659,6 +686,8 @@ async function main() {
             bootstrap: {...bootstrap, userSlug: player2Slug},
             jsonLd,
             canonical,
+            ogVideoUrl,
+            ogVideoThumb, 
           })
         )
       }
@@ -674,6 +703,8 @@ async function main() {
           bootstrap,
           jsonLd,
           canonical,
+          ogVideoUrl,
+          ogVideoThumb, 
         })
       )
     })
@@ -776,15 +807,31 @@ function generateJsonLdSet({item, gameInfo, url}) {
   const channelName = getChannelName(item.streamInfo)
   const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
   const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
-  const setIcon = tourneyIconUrl || tourneyBackgroundUrl
-  const setThumb = tourneyBackgroundUrl || tourneyIconUrl
+  const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+  const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
   const streamIcon = item.streamInfo.streamIcon
   const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
   const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
   const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
   const isoDuration = getIsoDuration(duration)
-  const contentUrl = getStreamUrl(item.streamInfo, 0, true)
+  var contentUrl = getStreamUrl(item.streamInfo, 0, true)
+  if (item.streamInfo.streamSource == 'TWITCH') {
+    contentUrl = null
+  }
   const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+  const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
+  const startAt = item.bracketInfo.startAt
+  const endAt = item.bracketInfo.endAt
+  const postalCode = item.bracketInfo.postalCode
+  const venueAddress = item.bracketInfo.venueAddress
+  const mapsPlaceId = item.bracketInfo.mapsPlaceId
+  const countryCode = item.bracketInfo.countryCode
+  const addrState = item.bracketInfo.addrState
+  const city = item.bracketInfo.city
+  const lat = item.bracketInfo.lat
+  const lon = item.bracketInfo.lon
+  const expires = getIsoStr(item.bracketInfo.startedAt + EXPIRE_SECONDS)
+
   let viewers = 0
   const charArr1 = (item.player1Info.charInfo?.length ?? 0) > 0 ? { 
     "character": item.player1Info.charInfo.map(charItem => ({
@@ -816,6 +863,62 @@ function generateJsonLdSet({item, gameInfo, url}) {
     }
   } : {}
 
+  var isPartOf = {}
+
+  if (![startAt, postalCode, venueAddress, countryCode, addrState, city].includes(undefined)) {
+    const startDate = getIsoStr(item.bracketInfo.startAt)
+    const optionalEndField = item.bracketInfo.endAt ? {"endDate": getIsoStr(item.bracketInfo.endAt)} : {}
+    const eventInfo = {
+      "@type": "SportsEvent",
+      "@id": `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/`,
+      "sport": {
+        "@type": "VideoGame",
+        "name": `${gameName}`,
+        "alternateName": [gameDisplayName, gameSlug],          
+      },
+      "name": `${tourneyName}`,
+      "startDate": startDate,
+      ...optionalEndField,
+      "location": [
+        {
+          "@type": "VirtualLocation",
+          "url": locStreamUrl,
+        },
+        {
+          "@type": "Place",
+          // "name": "San Jose Convention Center",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": venueAddress,
+            "addressLocality": city,
+            "addressRegion": addrState,
+            "postalCode": postalCode,
+            "addressCountry": countryCode,
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": lat,
+            "longitude": lon,
+          },
+          "sameAs": `https://www.google.com/maps/place/?q=place_id:${mapsPlaceId}`
+        },
+      ],
+      "organizer": {
+        "@type": "Organization",
+        "name": channelName,
+        "url": `https://setsonstream.tv/game/smashultimate/channel/${channelName}/`,
+        ...(streamIcon && {"logo": {
+          "@type": "ImageObject",
+          "url": streamIcon,
+          // "width": 600,
+          // "height": 60
+        }})
+      },
+    }
+    isPartOf = {"isPartOf": eventInfo}
+  }
+  
+
   return {
     "@context": "https://schema.org",
     "@type": "VideoObject",
@@ -828,8 +931,9 @@ function generateJsonLdSet({item, gameInfo, url}) {
     ],
     "uploadDate": `${startedAtIso}`,
     ...(endedAt && {"duration": isoDuration}),  
-    "contentUrl": contentUrl,
+    ...(contentUrl && {"contentUrl": contentUrl}),  
     "embedUrl": embedUrl,
+    "expires": expires,
     ...viewersInfo,
     "publisher": {
       "@type": "Organization",
@@ -842,11 +946,7 @@ function generateJsonLdSet({item, gameInfo, url}) {
       }})
     },
     // "inLanguage": "en",
-    // "isPartOf": {
-    //   "@type": "SportsEvent",
-    //   "@id": `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/`,
-    //   "name": `${tourneyName}`
-    // },
+    ...isPartOf,
     "competitor": [
       {
         "@type": "Person",
@@ -880,8 +980,8 @@ function generateJsonLdTournament({item, gameInfo, url}) {
   const channelName = getChannelName(item.streamInfo)
   const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
   const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
-  const setIcon = tourneyIconUrl || tourneyBackgroundUrl
-  const setThumb = tourneyBackgroundUrl || tourneyIconUrl
+  const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+  const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
   const streamIcon = item.streamInfo.streamIcon
   const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
   const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
@@ -889,10 +989,30 @@ function generateJsonLdTournament({item, gameInfo, url}) {
   const isoDuration = getIsoDuration(duration)
   const contentUrl = getStreamUrl(item.streamInfo, 0, true)
   const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+  const startAt = item.bracketInfo.startAt
+  const endAt = item.bracketInfo.endAt
+  const postalCode = item.bracketInfo.postalCode
+  const venueAddress = item.bracketInfo.venueAddress
+  const mapsPlaceId = item.bracketInfo.mapsPlaceId
+  const countryCode = item.bracketInfo.countryCode
+  const addrState = item.bracketInfo.addrState
+  const city = item.bracketInfo.city
+  const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
+  const lat = item.bracketInfo.lat
+  const lon = item.bracketInfo.lon
+
+  if ([startAt, postalCode, venueAddress, countryCode, addrState, city].includes(undefined)) {
+    return undefined
+  }
+    // console.log ("[startAt, postalCode, venueAddress, countryCode, addrState, city]", [startAt, postalCode, venueAddress, countryCode, addrState, city])
+
+  const startDate = getIsoStr(item.bracketInfo.startAt)
+  const optionalEndField = item.bracketInfo.endAt ? {"endDate": getIsoStr(item.bracketInfo.endAt)} : {}
+
   return {
     "@context": "https://schema.org",
-    "@graph": [
-      {
+    // "@graph": [
+    //   {
         "@type": "SportsEvent",
         "@id": `${url}`,
         "sport": {
@@ -902,64 +1022,84 @@ function generateJsonLdTournament({item, gameInfo, url}) {
         },
         "additionalType": "https://schema.org/EventSeries",
         "name": `${tourneyName}`,
-        "startDate": "2025-01-20T10:00:00-08:00",
-        // "endDate": "2025-01-22T22:00:00-08:00",
-        "eventStatus": "https://schema.org/EventCompleted",
-        "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+        "startDate": startDate,
+        ...optionalEndField,
+        // "eventStatus": "https://schema.org/EventCompleted",
+        // "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
         "url": `${url}`,
-        "location": {
-          "@type": "VirtualLocation",
-          "url": "https://www.twitch.tv/btssmash"
-        },
-        "performer": [
+        "location": [
           {
-            "@type": "Person",
-            "name": "MKLeo",
-            "url": "https://setsonstream.tv/game/smashultimate/player/mkleo"
+            "@type": "VirtualLocation",
+            "url": locStreamUrl,
           },
           {
-            "@type": "Person",
-            "name": "Sparg0",
-            "url": "https://setsonstream.tv/game/smashultimate/player/sparg0"
-          }
+            "@type": "Place",
+            // "name": "San Jose Convention Center",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": venueAddress,
+              "addressLocality": city,
+              "addressRegion": addrState,
+              "postalCode": postalCode,
+              "addressCountry": countryCode,
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": lat,
+              "longitude": lon,
+            },
+            "sameAs": `https://www.google.com/maps/place/?q=place_id:${mapsPlaceId}`
+            // "sameAs": "https://www.google.com/maps/place/?q=place_id:ChIJdQyNuLDMj4AR95YdatCk6F4"
+          },
         ],
+        // "performer": [
+        //   {
+        //     "@type": "Person",
+        //     "name": "MKLeo",
+        //     "url": "https://setsonstream.tv/game/smashultimate/player/mkleo"
+        //   },
+        //   {
+        //     "@type": "Person",
+        //     "name": "Sparg0",
+        //     "url": "https://setsonstream.tv/game/smashultimate/player/sparg0"
+        //   }
+        // ],
         "organizer": {
           "@type": "Organization",
-          "name": "BTSsmash",
-          "url": "https://setsonstream.tv/game/smashultimate/channel/btssmash"
-          // "name": `${channelName}`,
-          // ...(streamIcon && {"logo": {
-          //   "@type": "ImageObject",
-          //   "url": streamIcon,
-          //   // "width": 600,
-          //   // "height": 60
-          // }})
+          "name": channelName,
+          "url": `https://setsonstream.tv/game/smashultimate/channel/${channelName}/`,
+          ...(streamIcon && {"logo": {
+            "@type": "ImageObject",
+            "url": streamIcon,
+            // "width": 600,
+            // "height": 60
+          }})
           
         }
       },
-      {
-        "@type": "ItemList",
-        "name": "Genesis 9 Matches",
-        "itemListOrder": "https://schema.org/ItemListOrderAscending",
-        "numberOfItems": 3,
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "url": "https://setsonstream.tv/game/smashultimate/set/12345"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "url": "https://setsonstream.tv/game/smashultimate/set/12346"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "url": "https://setsonstream.tv/game/smashultimate/set/12347"
-          }
-        ]
-      }
+      // {
+      //   "@type": "ItemList",
+      //   "name": "Genesis 9 Matches",
+      //   "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      //   "numberOfItems": 3,
+      //   "itemListElement": [
+      //     {
+      //       "@type": "ListItem",
+      //       "position": 1,
+      //       "url": "https://setsonstream.tv/game/smashultimate/set/12345"
+      //     },
+      //     {
+      //       "@type": "ListItem",
+      //       "position": 2,
+      //       "url": "https://setsonstream.tv/game/smashultimate/set/12346"
+      //     },
+      //     {
+      //       "@type": "ListItem",
+      //       "position": 3,
+      //       "url": "https://setsonstream.tv/game/smashultimate/set/12347"
+      //     }
+      //   ]
+      // }
     ]
   }
 }
