@@ -1076,7 +1076,7 @@ function generateJsonLdTournament({item, gameInfo, url}) {
           }})
           
         }
-      },
+      }
       // {
       //   "@type": "ItemList",
       //   "name": "Genesis 9 Matches",
@@ -1100,8 +1100,8 @@ function generateJsonLdTournament({item, gameInfo, url}) {
       //     }
       //   ]
       // }
-    ]
-  }
+    // ]
+  // }
 }
 
 function generateJsonLdPlayer({item, gameInfo}) {
