@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/super-aggro-warrior-arena/set/94097818/</loc>
-  <lastmod>2025-09-20T12:16:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/super-aggro-warrior-arena/set/94097817/</loc>
+  <lastmod>2025-09-20T12:33:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816845/image-3a1d72efd77511d4b72690e9c0227959.png
+    </video:thumbnail_loc>
+    <video:title>
+      OGM | JFSL vs Rarn, Super Aggro Warrior Arena - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OGM | JFSL vs Rarn in Winners Semi-Final of Super Aggro Warrior Arena, streamed by locus_crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571093894&amp;t=2h26m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1564</video:duration>
+    <video:publication_date>2025-09-20T12:33:05.000Z</video:publication_date>
+    <video:uploader>locus_crew</video:uploader>
+    <video:expiration_date>2025-09-28T12:33:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/super-aggro-warrior-arena/set/94097818/</loc>
+  <lastmod>2025-09-20T12:42:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571093894&amp;t=2h10m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>658</video:duration>
+    <video:duration>880</video:duration>
     <video:publication_date>2025-09-20T12:16:38.000Z</video:publication_date>
     <video:uploader>locus_crew</video:uploader>
     <video:expiration_date>2025-09-28T12:16:38.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-06T03:09:41.000Z</video:publication_date>
     <video:uploader>ziggyboggy</video:uploader>
     <video:expiration_date>2025-09-14T03:09:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-177/set/93515211/</loc>
-  <lastmod>2025-09-06T03:31:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825183/image-d59c999207a49934a4cbbf0d497ac44b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      COBRA KAI- | Light vs Prophetnoata, Flynn&apos;s Arcade 177 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch COBRA KAI- | Light vs Prophetnoata in Grand Final of Flynn&apos;s Arcade 177, streamed by flynnsarcadefl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559240336&amp;t=1h54m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>986</video:duration>
-    <video:publication_date>2025-09-06T03:07:08.000Z</video:publication_date>
-    <video:uploader>flynnsarcadefl</video:uploader>
-    <video:expiration_date>2025-09-14T03:07:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
