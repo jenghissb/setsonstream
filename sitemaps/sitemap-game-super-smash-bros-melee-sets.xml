@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/treta-championship-2025/set/94107345/</loc>
+  <lastmod>2025-09-20T15:57:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/792568/image-6b5ab9696108acbb2d7e11ddc5a61dda.png
+    </video:thumbnail_loc>
+    <video:title>
+      $Boleto$ vs Kovac, Treta Championship 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch $Boleto$ vs Kovac in Winners Quarter-Final of Treta Championship 2025, streamed by tryhardsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571287808&amp;t=0h4m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1125</video:duration>
+    <video:publication_date>2025-09-20T15:57:28.000Z</video:publication_date>
+    <video:uploader>tryhardsmash</video:uploader>
+    <video:expiration_date>2025-09-28T15:57:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/zone-m/set/94104911/</loc>
   <lastmod>2025-09-20T15:21:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-08-30T21:42:27.000Z</video:publication_date>
     <video:uploader>aocesports</video:uploader>
     <video:expiration_date>2025-09-07T21:42:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/baby-fights-2025/set/93282242/</loc>
-  <lastmod>2025-08-30T21:53:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819407/image-6b6e8d8c632c6b233f6ccf8b80f3768c.png
-    </video:thumbnail_loc>
-    <video:title>
-      GCG | Slides vs Wavcrash, Baby Fights 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GCG | Slides vs Wavcrash in Losers Quarter-Final of Baby Fights 2025, streamed by aocesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2553935032&amp;t=2h2m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1245</video:duration>
-    <video:publication_date>2025-08-30T21:21:35.000Z</video:publication_date>
-    <video:uploader>aocesports</video:uploader>
-    <video:expiration_date>2025-09-07T21:21:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
