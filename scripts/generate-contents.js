@@ -549,6 +549,144 @@ async function main() {
     if (gameId != null) {
       keywords = GameKeywords[gameId] ?? ""
     }
+    const videoObjectSummaryCache = {}
+    const combined = data[gameInfo.id].combined
+    const {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById } = gameSubCats[gameInfo.id]
+
+    combined.forEach(item => {
+      const setId = item.bracketInfo.setId
+      const tourneySlug = getTourneySlug(item.bracketInfo)
+      const tourneyIcon = item.bracketInfo.images[0]?.url ?? null
+      const gameSlug = gameInfo.gameSlug
+      const player1Name = item.player1Info.nameWithRomaji
+      const player2Name = item.player2Info.nameWithRomaji
+      const player1Slug = item.player1Info.userSlug
+      const player2Slug = item.player2Info.userSlug
+      const fullRoundText = item.bracketInfo.fullRoundText
+      const tourneyName = item.bracketInfo.tourneyName
+      const channelName = getChannelName(item.streamInfo)
+      const charNames1 = item.player1Info.charInfo.map(item => item.name).filter(name => name.length > 0)
+      const charNames2 = item.player2Info.charInfo.map(item => item.name).filter(name => name.length > 0)
+      const charNames = charNames1.concat(charNames2)
+      var charKeywordStrs = charNames.join(", ").trim()
+      if (charKeywordStrs.length > 0) {
+        charKeywordStrs = charKeywordStrs + ", "
+      }
+      const title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`
+      const description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
+      const setKeywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
+      const bootstrap = {routeInfo: {
+        set: item,
+        tourneySlug,
+        tourneyIcon,
+        tourneyName,
+        channelName,
+        // player1Name,
+        // player2Name,
+        // player1Slug,
+        // player2Slug,
+        setId,
+        charKeywordStrs,
+      }}
+      const contentUrl = getStreamUrl(item.streamInfo, 0, true)
+      const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+      const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+      const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+      const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+      const ogVideoThumb = setThumb
+      const ogVideoUrl = contentUrl
+
+      // var url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
+      // var jsonLd = generateJsonLdSet({item, gameInfo, url})
+      // title: `${item.bracketInfo.tourneyName} - Sets on Stream`,
+      // description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${item.bracketInfo.tourneyName}`,
+      var url = `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/set/${setId}/`
+      var jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
+      const canonical = `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/set/${setId}/`
+      writeFile(
+        path.join(gameDir, "tournament", tourneySlug, "set", `${setId}`, "index.html"),
+        generatePage({
+          templatePath,
+          title, 
+          description,
+          keywords: setKeywords,
+          bootstrap,
+          jsonLd,
+          canonical,
+          ogVideoUrl,
+          ogVideoThumb, 
+        })
+      )
+      url = `https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${setId}/`
+      jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
+      writeFile(
+        path.join(gameDir, "channel", channelName, "set", `${setId}`, "index.html"),
+        generatePage({
+          templatePath,
+          title, 
+          description,
+          keywords: setKeywords,
+          bootstrap,
+          jsonLd,
+          canonical,
+          ogVideoUrl,
+          ogVideoThumb, 
+        })
+      )
+      if (player1Slug != null) {
+        url = `https://setsonstream.tv/game/${gameSlug}/player/${player1Slug}/set/${setId}/`
+        jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
+        writeFile(
+          path.join(gameDir, "player", player1Slug, "set", `${setId}`, "index.html"),
+          generatePage({
+            templatePath,
+            title, 
+            description,
+            keywords: setKeywords,
+            bootstrap: {...bootstrap, userSlug: player1Slug},
+            jsonLd,
+            canonical,
+            ogVideoUrl,
+            ogVideoThumb, 
+          })
+        )
+      }
+      if (player2Slug != null) {
+        url = `https://setsonstream.tv/game/${gameSlug}/player/${player2Slug}/set/${setId}/`
+        jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
+        writeFile(
+          path.join(gameDir, "player", player2Slug, "set", `${setId}`, "index.html"),
+          generatePage({
+            templatePath,
+            title, 
+            description,
+            keywords: setKeywords,
+            bootstrap: {...bootstrap, userSlug: player2Slug},
+            jsonLd,
+            canonical,
+            ogVideoUrl,
+            ogVideoThumb, 
+          })
+        )
+      }
+      url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
+      jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
+      writeFile(
+        path.join(gameDir, "set", `${setId}`, "index.html"),
+        generatePage({
+          templatePath,
+          title, 
+          description,
+          keywords: setKeywords,
+          bootstrap,
+          jsonLd,
+          canonical,
+          ogVideoUrl,
+          ogVideoThumb, 
+        })
+      )
+    })
+
 
     writeFile(
       path.join(gameDir, "index.html"),
@@ -576,8 +714,6 @@ async function main() {
       }
     }
     
-    const combined = data[gameInfo.id].combined
-    const {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById } = gameSubCats[gameInfo.id]
     Object.keys(tourneyById).forEach(key => {
       const items = tourneyById[key]
       const item = items.length > 0 ? items[0] : null
@@ -628,6 +764,7 @@ async function main() {
       }
     })
     Object.keys(playerById).forEach(key => {
+      const userSlug = key
       const items = playerById[key]
       const item = items.length > 0 ? items[0] : null
       const lastMod = playerLastModById[key]
@@ -639,6 +776,8 @@ async function main() {
           charInfo: playerInfo.charInfo,
           userSlug: playerInfo.userSlug,
         }}
+        var url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/player/${userSlug}/`
+        const jsonLd = generateJsonLdPlayer({item, items, playerInfo, url, gameInfo, url, videoObjectSummaryCache})
         writeFile(
           path.join(gameDir, "player", key, "index.html"),
           generatePage({
@@ -647,142 +786,10 @@ async function main() {
             description: `Watch ${nameWithRomaji}'s Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments`,
             keywords: `${nameWithRomaji}, ${key}, ${keywords}`,
             bootstrap,
+            jsonLd
           })
         )
       }
-    })
-    combined.forEach(item => {
-      const setId = item.bracketInfo.setId
-      const tourneySlug = getTourneySlug(item.bracketInfo)
-      const tourneyIcon = item.bracketInfo.images[0]?.url ?? null
-      const gameSlug = gameInfo.gameSlug
-      const player1Name = item.player1Info.nameWithRomaji
-      const player2Name = item.player2Info.nameWithRomaji
-      const player1Slug = item.player1Info.userSlug
-      const player2Slug = item.player2Info.userSlug
-      const fullRoundText = item.bracketInfo.fullRoundText
-      const tourneyName = item.bracketInfo.tourneyName
-      const channelName = getChannelName(item.streamInfo)
-      const charNames1 = item.player1Info.charInfo.map(item => item.name).filter(name => name.length > 0)
-      const charNames2 = item.player2Info.charInfo.map(item => item.name).filter(name => name.length > 0)
-      const charNames = charNames1.concat(charNames2)
-      var charKeywordStrs = charNames.join(", ").trim()
-      if (charKeywordStrs.length > 0) {
-        charKeywordStrs = charKeywordStrs + ", "
-      }
-      const title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`
-      const description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
-      const setKeywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
-      const bootstrap = {routeInfo: {
-        set: item,
-        tourneySlug,
-        tourneyIcon,
-        tourneyName,
-        channelName,
-        // player1Name,
-        // player2Name,
-        // player1Slug,
-        // player2Slug,
-        setId,
-        charKeywordStrs,
-      }}
-      const contentUrl = getStreamUrl(item.streamInfo, 0, true)
-      const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
-      const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
-      const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
-      const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
-      const ogVideoThumb = setThumb
-      const ogVideoUrl = contentUrl
-
-      // var url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
-      // var jsonLd = generateJsonLdSet({item, gameInfo, url})
-      // title: `${item.bracketInfo.tourneyName} - Sets on Stream`,
-      // description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${item.bracketInfo.tourneyName}`,
-      var url = `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/set/${setId}/`
-      var jsonLd = generateJsonLdSet({item, gameInfo, url})
-      const canonical = `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/set/${setId}/`
-      writeFile(
-        path.join(gameDir, "tournament", tourneySlug, "set", `${setId}`, "index.html"),
-        generatePage({
-          templatePath,
-          title, 
-          description,
-          keywords: setKeywords,
-          bootstrap,
-          jsonLd,
-          canonical,
-          ogVideoUrl,
-          ogVideoThumb, 
-        })
-      )
-      url = `https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${setId}/`
-      jsonLd = generateJsonLdSet({item, gameInfo, url})
-      writeFile(
-        path.join(gameDir, "channel", channelName, "set", `${setId}`, "index.html"),
-        generatePage({
-          templatePath,
-          title, 
-          description,
-          keywords: setKeywords,
-          bootstrap,
-          jsonLd,
-          canonical,
-          ogVideoUrl,
-          ogVideoThumb, 
-        })
-      )
-      if (player1Slug != null) {
-        url = `https://setsonstream.tv/game/${gameSlug}/player/${player1Slug}/set/${setId}/`
-        jsonLd = generateJsonLdSet({item, gameInfo, url})
-        writeFile(
-          path.join(gameDir, "player", player1Slug, "set", `${setId}`, "index.html"),
-          generatePage({
-            templatePath,
-            title, 
-            description,
-            keywords: setKeywords,
-            bootstrap: {...bootstrap, userSlug: player1Slug},
-            jsonLd,
-            canonical,
-            ogVideoUrl,
-            ogVideoThumb, 
-          })
-        )
-      }
-      if (player2Slug != null) {
-        url = `https://setsonstream.tv/game/${gameSlug}/player/${player2Slug}/set/${setId}/`
-        jsonLd = generateJsonLdSet({item, gameInfo, url})
-        writeFile(
-          path.join(gameDir, "player", player2Slug, "set", `${setId}`, "index.html"),
-          generatePage({
-            templatePath,
-            title, 
-            description,
-            keywords: setKeywords,
-            bootstrap: {...bootstrap, userSlug: player2Slug},
-            jsonLd,
-            canonical,
-            ogVideoUrl,
-            ogVideoThumb, 
-          })
-        )
-      }
-      url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
-      jsonLd = generateJsonLdSet({item, gameInfo, url})
-      writeFile(
-        path.join(gameDir, "set", `${setId}`, "index.html"),
-        generatePage({
-          templatePath,
-          title, 
-          description,
-          keywords: setKeywords,
-          bootstrap,
-          jsonLd,
-          canonical,
-          ogVideoUrl,
-          ogVideoThumb, 
-        })
-      )
     })
   }
 
@@ -867,7 +874,7 @@ async function main() {
   console.log("Generation complete.");
 }
 
-function generateJsonLdSet({item, gameInfo, url}) {
+function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
   const setId = item.bracketInfo.setId
   const tourneySlug = getTourneySlug(item.bracketInfo)
   const gameSlug = gameInfo.gameSlug
@@ -891,9 +898,10 @@ function generateJsonLdSet({item, gameInfo, url}) {
   const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
   const isoDuration = getIsoDuration(duration)
   var contentUrl = getStreamUrl(item.streamInfo, 0, true)
-  if (item.streamInfo.streamSource == 'TWITCH') {
-    contentUrl = null
-  }
+  contentUrl = null
+  // if (item.streamInfo.streamSource == 'TWITCH') {
+  //   contentUrl = null
+  // }
   const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
   const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
   const startAt = item.bracketInfo.startAt
@@ -913,14 +921,14 @@ function generateJsonLdSet({item, gameInfo, url}) {
     "character": item.player1Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/character/${charItem.name}`
+        "url": `https://setsonstream.tv/character/${charItem.name}/`
       }))}
     : {}
   const charArr2 = (item.player2Info.charInfo?.length ?? 0) > 0 ? { 
     "character": item.player2Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/character/${charItem.name}`
+        "url": `https://setsonstream.tv/character/${charItem.name}/`
       }))}
     : {}
 
@@ -938,6 +946,23 @@ function generateJsonLdSet({item, gameInfo, url}) {
       "userInteractionCount": viewers,
     }
   } : {}
+
+  if (videoObjectSummaryCache && videoObjectSummaryCache[url] == null) {
+    videoObjectSummaryCache[url] = {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "@id": url,
+      "url": url,
+      // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`,
+      "name": `${player1Name} vs ${player2Name} - ${tourneyName}, ${fullRoundText} (${gameDisplayName})`,
+      "description": `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}.`,
+      "thumbnailUrl": [
+        `${setThumb}`
+      ],
+      "uploadDate": `${startedAtIso}`,
+      ...(endedAt && {"duration": isoDuration}),  
+    }
+  }
 
   var isPartOf = {}
 
@@ -999,6 +1024,7 @@ function generateJsonLdSet({item, gameInfo, url}) {
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "@id": url,
+    "url": url,
     // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`,
     "name": `${player1Name} vs ${player2Name} - ${tourneyName}, ${fullRoundText} (${gameDisplayName})`,
     "description": `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}.`,
@@ -1026,13 +1052,13 @@ function generateJsonLdSet({item, gameInfo, url}) {
     "competitor": [
       {
         "@type": "Person",
-        "@id": `https://setsonstream.tv/game/${gameSlug}/player/${player1Slug}`,
+        "@id": `https://setsonstream.tv/game/${gameSlug}/player/${player1Slug}/`,
         "name": `${player1Name}`,
         ...charArr1,
       },
       {
         "@type": "Person",
-        "@id": `https://setsonstream.tv/game/${gameSlug}/player/${player2Slug}`,
+        "@id": `https://setsonstream.tv/game/${gameSlug}/player/${player2Slug}/`,
         "name": `${player2Name}`,
         ...charArr2,
       },
@@ -1180,40 +1206,117 @@ function generateJsonLdTournament({item, gameInfo, url}) {
   // }
 }
 
-function generateJsonLdPlayer({item, gameInfo}) {
+function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObjectSummaryCache}) {
+  const setId = item.bracketInfo.setId
+  const tourneySlug = getTourneySlug(item.bracketInfo)
+  const gameSlug = gameInfo.gameSlug
+  const gameName = gameInfo.name
+  const gameDisplayName = gameInfo.displayName
+  const playerName = playerInfo.nameWithRomaji
+  const userSlug = playerInfo.userSlug
+  const fullRoundText = item.bracketInfo.fullRoundText
+  const tourneyName = item.bracketInfo.tourneyName
+  const channelName = getChannelName(item.streamInfo)
+  const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+  const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+  const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+  const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+  const streamIcon = item.streamInfo.streamIcon
+  const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
+  const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
+  const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
+  const isoDuration = getIsoDuration(duration)
+  var contentUrl = getStreamUrl(item.streamInfo, 0, true)
+  if (item.streamInfo.streamSource == 'TWITCH') {
+    contentUrl = null
+  }
+  const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+  const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
+  const startAt = item.bracketInfo.startAt
+  const endAt = item.bracketInfo.endAt
+  const postalCode = item.bracketInfo.postalCode
+  const venueAddress = item.bracketInfo.venueAddress
+  const mapsPlaceId = item.bracketInfo.mapsPlaceId
+  const countryCode = item.bracketInfo.countryCode
+  const addrState = item.bracketInfo.addrState
+  const city = item.bracketInfo.city
+  const lat = item.bracketInfo.lat
+  const lon = item.bracketInfo.lon
+  const expires = getIsoStr(item.bracketInfo.startedAt + EXPIRE_SECONDS)
+  const charArr = (playerInfo.charInfo?.length ?? 0) > 0 ? { 
+    "knowsAbout": item.player1Info.charInfo.map(charItem => ({
+        "@type": "VideoGameCharacter",
+        "name": charItem.name,
+        "url": `https://setsonstream.tv/character/${charItem.name}/`
+      }))}
+    : {}
+
+  // const itemListElement = (playerInfo.charInfo?.length ?? 0) > 0 ? { 
+  //   "items": item.player1Info.charInfo.map(charItem => ({
+  //       "@type": "VideoGameCharacter",
+  //       "name": charItem.name,
+  //       "url": `https://setsonstream.tv/character/${charItem.name}`
+  //     }))}
+  //   : {}
+
+  // const itemList = items.map(it => ({
+  //     "@type": "VideoObject",
+  //     "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
+  //     // "position": 1,
+  //     // "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
+  //   }))
+  
+  const setItemList = Object.keys(items).map((key, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/player/${userSlug}/set/${items[key].bracketInfo.setKey}/`]),
+    "position": index,
+    // "@type": "VideoObject",
+    // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
+    // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
+    // "position": 1,
+    // "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
+  }))
+
+
   return {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://setsonstream.tv/game/smashultimate/player/mkleo",
-    "name": "MKLeo",
-    "url": "https://setsonstream.tv/game/smashultimate/player/mkleo",
-    "image": "https://setsonstream.tv/static/players/mkleo.jpg",
+    "@id": url,
+    "name": playerName,
+    "url": url,
+    // "image": "https://setsonstream.tv/static/players/mkleo.jpg",
+    ...charArr,
+    "sameAs": [
+      `https://start.gg/user/${userSlug}/`
+    ],
     "memberOf": {
       "@type": "Thing",
       "name": "Smash Ultimate",
-      "@id": "https://setsonstream.tv/game/smashultimate"
+      "@id": "https://setsonstream.tv/game/smashultimate/"
     },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://setsonstream.tv/game/smashultimate/player/mkleo"
-    },
-    "hasPart": {
+    // "mainEntityOfPage": {
+    //   "@type": "WebPage",
+    //   "@id": "https://setsonstream.tv/game/smashultimate/player/mkleo"
+    // },
+    // "hasPart": {
+    "subjectOf": {
       "@type": "ItemList",
-      "name": "Recent Sets featuring MKLeo",
-      "itemListElement": [
-        {
-          "@type": "VideoObject",
-          "@id": "https://setsonstream.tv/game/smashultimate/set/12345",
-          "position": 1,
-          "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
-        },
-        {
-          "@type": "VideoObject",
-          "@id": "https://setsonstream.tv/game/smashultimate/set/12346",
-          "position": 2,
-          "name": "MKLeo vs Tweek - Genesis 9 Grand Finals"
-        }
-      ]
+      "name": `Recent Sets featuring ${playerName}`,
+      "itemListOrder": "MostRecent",
+      "itemListElement": setItemList,
+      // "itemListElement": [
+      //   {
+      //     "@type": "VideoObject",
+      //     "@id": "https://setsonstream.tv/game/smashultimate/set/12345",
+      //     "position": 1,
+      //     "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
+      //   },
+      //   {
+      //     "@type": "VideoObject",
+      //     "@id": "https://setsonstream.tv/game/smashultimate/set/12346",
+      //     "position": 2,
+      //     "name": "MKLeo vs Tweek - Genesis 9 Grand Finals"
+      //   }
+      // ]
     }
   }
 }
