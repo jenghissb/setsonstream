@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9 xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-met-iv/set/94095171/</loc>
+  <lastmod>2025-09-20T08:07:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/820434/image-3ec33e1f9c7311297c3beb0a37aa3bc9.png
+    </video:thumbnail_loc>
+    <video:title>
+      alextorg vs SN | Gardex, The Met IV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch alextorg vs SN | Gardex in Winners Round 2 of The Met IV, streamed by lancelotssb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571049978&t=0h3m12s&parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>646</video:duration>
+    <video:publication_date>2025-09-20T08:07:20.000Z</video:publication_date>
+    <video:uploader>lancelotssb</video:uploader>
+    <video:expiration_date>2025-09-28T08:07:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/byog-ft-diego-del-fuego-wrath-and-jazzh0/set/94089296/</loc>
   <lastmod>2025-09-20T05:53:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -52774,30 +52798,6 @@
     <video:publication_date>2025-09-13T22:29:54.000Z</video:publication_date>
     <video:uploader>omnitournaments2</video:uploader>
     <video:expiration_date>2025-09-21T22:29:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/project-hood/set/93850844/</loc>
-  <lastmod>2025-09-13T22:45:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/804033/image-54791eb931269870fc15f619f4f573c1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Gogeta | WheeZy vs Sauce, Project Hood - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gogeta | WheeZy vs Sauce in Losers Semi-Final of Project Hood, streamed by SectorXGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565724008&t=2h1m14s&parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>777</video:duration>
-    <video:publication_date>2025-09-13T22:28:43.000Z</video:publication_date>
-    <video:uploader>SectorXGaming</video:uploader>
-    <video:expiration_date>2025-09-21T22:28:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
