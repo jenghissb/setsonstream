@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-met-iv/set/94095167/</loc>
-  <lastmod>2025-09-20T08:22:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-met-iv/set/94095174/</loc>
+  <lastmod>2025-09-20T08:41:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/820434/image-3ec33e1f9c7311297c3beb0a37aa3bc9.png
+    </video:thumbnail_loc>
+    <video:title>
+      DLT/CS3 | MKBigBoss vs Psyro, The Met IV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DLT/CS3 | MKBigBoss vs Psyro in Winners Quarter-Final of The Met IV, streamed by lancelotssb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571049978&t=0h37m30s&parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>585</video:duration>
+    <video:publication_date>2025-09-20T08:41:38.000Z</video:publication_date>
+    <video:uploader>lancelotssb</video:uploader>
+    <video:expiration_date>2025-09-28T08:41:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-met-iv/set/94095167/</loc>
+  <lastmod>2025-09-20T08:44:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571049978&t=0h18m16s&parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1341</video:duration>
+    <video:duration>1149</video:duration>
     <video:publication_date>2025-09-20T08:22:24.000Z</video:publication_date>
     <video:uploader>lancelotssb</video:uploader>
     <video:expiration_date>2025-09-28T08:22:24.000Z</video:expiration_date>
@@ -52774,30 +52798,6 @@
     <video:publication_date>2025-09-13T22:30:37.000Z</video:publication_date>
     <video:uploader>SATELLITESMASH</video:uploader>
     <video:expiration_date>2025-09-21T22:30:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/nola-smash-monthly-92/set/93856351/</loc>
-  <lastmod>2025-09-13T22:52:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800707/image-2b07462894bab5bc3368ce1f129a60e3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Maynnaise vs SEA | Marius, NOLA Smash Monthly #92 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Maynnaise vs SEA | Marius in Losers Quarter-Final of NOLA Smash Monthly #92, streamed by omnitournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565739478&t=1h41m12s&parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1140</video:duration>
-    <video:publication_date>2025-09-13T22:30:19.000Z</video:publication_date>
-    <video:uploader>omnitournaments</video:uploader>
-    <video:expiration_date>2025-09-21T22:30:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
