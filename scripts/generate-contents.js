@@ -13,6 +13,24 @@ const EXPIRE_SECONDS = 8 * 24 * 60 * 60
 const PARENT = "setsonstream.tv"
 const OG_THUMB = "https://setsonstream.tv/logoOg.png"
 
+
+function escapeXml(unsafe) {
+  return unsafe.replace(/[<>&'"]/g, function(c) {
+    switch (c) {
+      case '<':
+        return '&lt;';
+      case '>':
+        return '&gt;';
+      case '&':
+        return '&amp;';
+      case "'":
+        return '&apos;';
+      case '"':
+        return '&quot;';
+    }
+  });
+}
+
 function getChannelName(streamInfo) {
   if (streamInfo?.streamSource == 'YOUTUBE') {
     return streamInfo?.streamName ?? " " //streamInfo.ytChannelId
@@ -325,20 +343,20 @@ function generateSetSitemap(game, sets) {
     const videoInfo=`
   <video:video>
     <video:thumbnail_loc>
-      ${setThumb}
+      ${escapeXml(setThumb)}
     </video:thumbnail_loc>
     <video:title>
-      ${title}
+      ${escapeXml(title)}
     </video:title>
     <video:description>
-      ${description}
+      ${escapeXml(description)}
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      ${embedUrl}
+      ${escapeXml(embedUrl)}
     </video:player_loc>
     <video:duration>${Math.floor(duration)}</video:duration>
     <video:publication_date>${startedAtIso}</video:publication_date>
-    <video:uploader>${channelName}</video:uploader>
+    <video:uploader>${escapeXml(channelName)}</video:uploader>
     <video:expiration_date>${expires}</video:expiration_date>
   </video:video>`
     if (endTime != null) {
