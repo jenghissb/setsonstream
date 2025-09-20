@@ -86,7 +86,8 @@ export function getStreamEmbedUrl(streamInfo, index, preferTimestampedVod=false)
       if (streamUrlInfo.offsetHms) {
         offsetParamText = `&t=${streamUrlInfo.offsetHms}`
       }
-      return `https://player.twitch.tv/?video=v${videoId}${offsetParamText}&parent=${PARENT}`
+      return `https://player.twitch.tv/?video=${videoId}${offsetParamText}&parent=${PARENT}`
+      // return `https://player.twitch.tv/?video=v${videoId}${offsetParamText}&parent=${PARENT}`
     } else {
       return `https://player.twitch.tv/?channel=${streamInfo.forTheatre}&parent=${PARENT}`
     }
@@ -155,29 +156,23 @@ function getIsoStr(timeToUse) {
 }
 
 // --- Helpers for <url> and <sitemapindex>
-function makeUrlEntry(loc, lastMod = null, changefreq = "daily", priority = 0.8) {
-
-if (lastMod != null) {
-    const lastModStr = new Date(lastMod * 1000).toISOString();
-    return `<url>
-  <loc>${loc}</loc>
-  <lastmod>${lastModStr}</lastmod>
-  <changefreq>${changefreq}</changefreq>
-  <priority>${priority}</priority>
-</url>`;
-
-  } else {
-    return `<url>
-  <loc>${loc}</loc>
-  <changefreq>${changefreq}</changefreq>
-  <priority>${priority}</priority>
-</url>`;
+function makeUrlEntry(loc, lastMod = null, changefreq = "daily", priority = 0.8, videoInfo) {
+  var lastModTag = ""
+  if (lastMod != null) {
+      const lastModStr = getIsoStr(lastMod);
+      lastModTag = `
+  <lastmod>${lastModStr}</lastmod>`
   }
+  return `<url>
+  <loc>${loc}</loc>${lastModTag}
+  <changefreq>${changefreq}</changefreq>
+  <priority>${priority}</priority>${videoInfo}
+</url>`;
 }
 
-function wrapUrlset(urls) {
+function wrapUrlset(urls, showVideoTag=false) {
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9${showVideoTag ? ' xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"' : ""}>
 ${urls.join("\n")}
 </urlset>`;
 }
@@ -283,13 +278,76 @@ function generateSetSitemap(game, sets) {
     const endTime = item.bracketInfo.endTime
     const tourneySlug = getTourneySlug(item.bracketInfo)
     const lastMod = item.bracketInfo.lastMod
+    const gameSlug = game.gameSlug
+    const gameName = game.name
+    const gameDisplayName = game.displayName
+    const player1Name = item.player1Info.nameWithRomaji
+    const player2Name = item.player2Info.nameWithRomaji
+    const player1Slug = item.player1Info.userSlug
+    const player2Slug = item.player2Info.userSlug
+    
+    const fullRoundText = item.bracketInfo.fullRoundText
+    const tourneyName = item.bracketInfo.tourneyName
+    const channelName = getChannelName(item.streamInfo)
+    const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+    const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+    const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+    const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+    const streamIcon = item.streamInfo.streamIcon
+    const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
+    const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
+    const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
+    const isoDuration = getIsoDuration(duration)
+    var contentUrl = getStreamUrl(item.streamInfo, 0, true)
+    if (item.streamInfo.streamSource == 'TWITCH') {
+      contentUrl = null
+    }
+    const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+    const startAt = item.bracketInfo.startAt
+    const endAt = item.bracketInfo.endAt
+    const postalCode = item.bracketInfo.postalCode
+    const venueAddress = item.bracketInfo.venueAddress
+    const mapsPlaceId = item.bracketInfo.mapsPlaceId
+    const countryCode = item.bracketInfo.countryCode
+    const addrState = item.bracketInfo.addrState
+    const city = item.bracketInfo.city
+    const lat = item.bracketInfo.lat
+    const lon = item.bracketInfo.lon
+    const expires = getIsoStr(item.bracketInfo.startedAt + EXPIRE_SECONDS)
+    const title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`
+    const description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
+
+    // <video:content_loc>
+    //   ${contentUrl}
+    // </video:content_loc>
+
+
+    const videoInfo=`
+  <video:video>
+    <video:thumbnail_loc>
+      ${setThumb}
+    </video:thumbnail_loc>
+    <video:title>
+      ${title}
+    </video:title>
+    <video:description>
+      ${description}
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      ${embedUrl}
+    </video:player_loc>
+    <video:duration>${Math.floor(duration)}</video:duration>
+    <video:publication_date>${startedAtIso}</video:publication_date>
+    <video:uploader>${channelName}</video:uploader>
+    <video:expiration_date>${expires}</video:expiration_date>
+  </video:video>`
     if (endTime != null) {
-      urls.push(makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/tournament/${tourneySlug}/set/${setId}/`, lastMod, "daily", 0.8))
+      urls.push(makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/tournament/${tourneySlug}/set/${setId}/`, lastMod, "daily", 0.8, videoInfo))
     } else {
-      urls.push(makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/tournament/${tourneySlug}/set/${setId}/`, lastMod, "hourly", 0.8))
+      urls.push(makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/tournament/${tourneySlug}/set/${setId}/`, lastMod, "hourly", 0.8, videoInfo))
     }
   });
-  return wrapUrlset(urls);
+  return wrapUrlset(urls, true);
 }
 
 // --- Top pages leaf sitemap (combined)
