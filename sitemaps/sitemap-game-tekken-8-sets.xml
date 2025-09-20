@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9 xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-92/set/94091983/</loc>
+  <lastmod>2025-09-20T06:12:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826656/image-b2feea9f09e6ddfe268988d0c92b82fb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      EGP ST | Pots_n_panz vs UF | VonAwesome, SoCal Colosseum #92 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EGP ST | Pots_n_panz vs UF | VonAwesome in Losers Semi-Final of SoCal Colosseum #92, streamed by ziggyboggy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2570876179&t=3h50m55s&parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1944</video:duration>
+    <video:publication_date>2025-09-20T06:12:08.000Z</video:publication_date>
+    <video:uploader>ziggyboggy</video:uploader>
+    <video:expiration_date>2025-09-28T06:12:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-92/set/94091981/</loc>
   <lastmod>2025-09-20T05:58:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-06T02:20:50.000Z</video:publication_date>
     <video:uploader>flynnsarcadefl</video:uploader>
     <video:expiration_date>2025-09-14T02:20:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-177/set/93515237/</loc>
-  <lastmod>2025-09-06T02:25:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825183/image-d59c999207a49934a4cbbf0d497ac44b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Stray vs Island | butterpunch, Flynn's Arcade 177 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Stray vs Island | butterpunch in Losers Round 2 of Flynn's Arcade 177, streamed by flynnsarcadefl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559240336&t=0h40m18s&parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>518</video:duration>
-    <video:publication_date>2025-09-06T01:52:38.000Z</video:publication_date>
-    <video:uploader>flynnsarcadefl</video:uploader>
-    <video:expiration_date>2025-09-14T01:52:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
