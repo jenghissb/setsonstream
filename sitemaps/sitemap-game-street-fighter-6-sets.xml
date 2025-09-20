@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/treta-championship-2025/set/94143734/</loc>
-  <lastmod>2025-09-20T23:17:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tournament-of-thrones-61/set/94142444/</loc>
+  <lastmod>2025-09-20T23:33:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/820855/image-6ed208cd7b6df2d1761fa7f4f2d3588e.png
+    </video:thumbnail_loc>
+    <video:title>
+      UG | AceUnlimited vs STG | Ramsaur, Tournament of Thrones 61 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UG | AceUnlimited vs STG | Ramsaur in Losers Final of Tournament of Thrones 61, streamed by Oakcityesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571352505&amp;t=6h16m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>974</video:duration>
+    <video:publication_date>2025-09-20T23:33:38.000Z</video:publication_date>
+    <video:uploader>Oakcityesports</video:uploader>
+    <video:expiration_date>2025-09-28T23:33:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/treta-championship-2025/set/94143734/</loc>
+  <lastmod>2025-09-20T23:49:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571444844&amp;t=4h11m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1172</video:duration>
+    <video:duration>506</video:duration>
     <video:publication_date>2025-09-20T23:17:05.000Z</video:publication_date>
     <video:uploader>trtchamp</video:uploader>
     <video:expiration_date>2025-09-28T23:17:05.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-06T17:42:41.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2025-09-14T17:42:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/northern-battles-sept-6th-toronto-s-monthly-fgc-event/set/93546012/</loc>
-  <lastmod>2025-09-06T17:56:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/821112/image-c4105370ebe7b8effcab2f7a97912a80.png
-    </video:thumbnail_loc>
-    <video:title>
-      anchi. vs Zatarra, Northern Battles Sept. 6th - Toronto&apos;s Monthly FGC Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch anchi. vs Zatarra in Winners Semi-Final of Northern Battles Sept. 6th - Toronto&apos;s Monthly FGC Event, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559724890&amp;t=1h13m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>543</video:duration>
-    <video:publication_date>2025-09-06T17:33:35.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2025-09-14T17:33:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
