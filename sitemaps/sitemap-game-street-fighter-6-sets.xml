@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/super-aggro-warrior-arena/set/94115895/</loc>
+  <lastmod>2025-09-20T18:40:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816845/image-3a1d72efd77511d4b72690e9c0227959.png
+    </video:thumbnail_loc>
+    <video:title>
+      BFC | SANTOS vs Kee, Super Aggro Warrior Arena - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BFC | SANTOS vs Kee in Winners Final of Super Aggro Warrior Arena, streamed by locus_crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571093894&amp;t=8h33m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1817</video:duration>
+    <video:publication_date>2025-09-20T18:40:15.000Z</video:publication_date>
+    <video:uploader>locus_crew</video:uploader>
+    <video:expiration_date>2025-09-28T18:40:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/super-aggro-warrior-arena/set/94097256/</loc>
   <lastmod>2025-09-20T11:20:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-05T01:44:50.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2025-09-13T01:44:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tol-thursday-night-throwdown-67/set/93469011/</loc>
-  <lastmod>2025-09-05T02:17:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825477/image-06df8322afac502ae3a702f10791d728.png
-    </video:thumbnail_loc>
-    <video:title>
-      SF4EVA | Stanmanpan vs EMPR | TropicTrickster, TOL Thursday Night Throwdown #67 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SF4EVA | Stanmanpan vs EMPR | TropicTrickster in Grand Final of TOL Thursday Night Throwdown #67, streamed by tol_gaming_lounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2558353338&amp;t=1h25m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1523</video:duration>
-    <video:publication_date>2025-09-05T01:29:10.000Z</video:publication_date>
-    <video:uploader>tol_gaming_lounge</video:uploader>
-    <video:expiration_date>2025-09-13T01:29:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
