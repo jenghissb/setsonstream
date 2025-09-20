@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/treta-championship-2025/set/94143733/</loc>
-  <lastmod>2025-09-20T22:53:54.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/treta-championship-2025/set/94143734/</loc>
+  <lastmod>2025-09-20T23:17:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/792568/image-6b5ab9696108acbb2d7e11ddc5a61dda.png
+    </video:thumbnail_loc>
+    <video:title>
+      Vina autista vs Renatinha, Treta Championship 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vina autista vs Renatinha in Winners Semi-Final of Treta Championship 2025, streamed by trtchamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571444844&amp;t=4h11m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>584</video:duration>
+    <video:publication_date>2025-09-20T23:17:05.000Z</video:publication_date>
+    <video:uploader>trtchamp</video:uploader>
+    <video:expiration_date>2025-09-28T23:17:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/treta-championship-2025/set/94143733/</loc>
+  <lastmod>2025-09-20T23:22:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571444844&amp;t=3h48m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1563</video:duration>
+    <video:duration>340</video:duration>
     <video:publication_date>2025-09-20T22:53:54.000Z</video:publication_date>
     <video:uploader>trtchamp</video:uploader>
     <video:expiration_date>2025-09-28T22:53:54.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-06T17:33:35.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2025-09-14T17:33:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/frag-o-matic-26-1/set/93542105/</loc>
-  <lastmod>2025-09-06T17:56:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/792190/image-9406c61d94a9c6dc6cdc7d41968e9e37.png
-    </video:thumbnail_loc>
-    <video:title>
-      Uzuraka vs EvilVash, Frag-o-Matic 26.1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Uzuraka vs EvilVash in Winners Semi-Final of Frag-o-Matic 26.1, streamed by hadokamp_Evilvash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559586798&amp;t=4h44m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1069</video:duration>
-    <video:publication_date>2025-09-06T17:30:21.000Z</video:publication_date>
-    <video:uploader>hadokamp_Evilvash</video:uploader>
-    <video:expiration_date>2025-09-14T17:30:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
