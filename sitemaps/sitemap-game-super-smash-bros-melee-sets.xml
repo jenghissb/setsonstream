@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9 xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sc-melee-pleasure-pizza-x/set/94083578/</loc>
+  <lastmod>2025-09-20T05:49:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829438/image-219ebdc55213afede36ad34bcf9cbc4d.png
+    </video:thumbnail_loc>
+    <video:title>
+      WoodBeard vs Flako, SC Melee @ Pleasure Pizza X - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WoodBeard vs Flako in Grand Final Reset of SC Melee @ Pleasure Pizza X, streamed by cptwoodbeard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2570868568&t=3h19m15s&parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>714</video:duration>
+    <video:publication_date>2025-09-20T05:30:08.000Z</video:publication_date>
+    <video:uploader>cptwoodbeard</video:uploader>
+    <video:expiration_date>2025-09-28T05:30:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sc-melee-pleasure-pizza-x/set/94083640/</loc>
   <lastmod>2025-09-20T05:16:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-08-30T20:00:15.000Z</video:publication_date>
     <video:uploader>PSUSmashMelee</video:uploader>
     <video:expiration_date>2025-09-07T20:00:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/baby-fights-2025/set/93282223/</loc>
-  <lastmod>2025-08-30T20:11:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819407/image-6b6e8d8c632c6b233f6ccf8b80f3768c.png
-    </video:thumbnail_loc>
-    <video:title>
-      TCB | myganonsmokescrack vs Bandit, Baby Fights 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TCB | myganonsmokescrack vs Bandit in Winners Quarter-Final of Baby Fights 2025, streamed by aocesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2553935032&t=0h27m38s&parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>525</video:duration>
-    <video:publication_date>2025-08-30T19:46:18.000Z</video:publication_date>
-    <video:uploader>aocesports</video:uploader>
-    <video:expiration_date>2025-09-07T19:46:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
