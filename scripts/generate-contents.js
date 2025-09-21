@@ -1026,7 +1026,7 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
       "organizer": {
         "@type": "Organization",
         "name": channelName,
-        "url": `https://setsonstream.tv/game/smashultimate/channel/${channelName}/`,
+        "url": `https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/`,
         ...(streamIcon && {"logo": {
           "@type": "ImageObject",
           "url": streamIcon,
