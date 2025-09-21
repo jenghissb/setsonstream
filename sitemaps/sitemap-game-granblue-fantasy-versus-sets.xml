@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/umad-2025/set/94191121/</loc>
-  <lastmod>2025-09-21T21:11:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/umad-2025/set/94191120/</loc>
+  <lastmod>2025-09-21T21:21:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/760740/image-e3b73a6c7411b684eda96e63ee3a2ee1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Varis vs JM | BeG04T, UMAD 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Varis vs JM | BeG04T in Losers Round 1 of UMAD 2025, streamed by downtownrumble
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2572293336&amp;t=3h2m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>901</video:duration>
+    <video:publication_date>2025-09-21T21:21:31.000Z</video:publication_date>
+    <video:uploader>downtownrumble</video:uploader>
+    <video:expiration_date>2025-09-29T21:21:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/umad-2025/set/94191121/</loc>
+  <lastmod>2025-09-21T21:31:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2572293336&amp;t=2h52m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>907</video:duration>
+    <video:duration>581</video:duration>
     <video:publication_date>2025-09-21T21:11:30.000Z</video:publication_date>
     <video:uploader>downtownrumble</video:uploader>
     <video:expiration_date>2025-09-29T21:11:30.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-07-12T20:29:29.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-07-20T20:29:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-july-2025/set/91320351/</loc>
-  <lastmod>2025-07-12T20:35:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800501/image-89c444084acbbf220a5ebd36ba5cd4a3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nidhogg vs NB[C] | Deighta, Colorado Mile High Burst Monthly July 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nidhogg vs NB[C] | Deighta in Losers Final of Colorado Mile High Burst Monthly July 2025, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2510690889&amp;t=1h31m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>738</video:duration>
-    <video:publication_date>2025-07-12T20:16:43.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2025-07-20T20:16:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
