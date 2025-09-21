@@ -921,14 +921,14 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
     "character": item.player1Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/character/${charItem.name}/`
+        "url": `https://setsonstream.tv/game/${gameSlug}/character/${charItem.name}/`
       }))}
     : {}
   const charArr2 = (item.player2Info.charInfo?.length ?? 0) > 0 ? { 
     "character": item.player2Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/character/${charItem.name}/`
+        "url": `https://setsonstream.tv/game/${gameSlug}/character/${charItem.name}/`
       }))}
     : {}
 
@@ -953,6 +953,7 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
       "@type": "VideoObject",
       "@id": url,
       "url": url,
+      "embedUrl": embedUrl,
       // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`,
       "name": `${player1Name} vs ${player2Name} - ${tourneyName}, ${fullRoundText} (${gameDisplayName})`,
       "description": `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}.`,
@@ -1206,7 +1207,7 @@ function generateJsonLdTournament({item, gameInfo, url}) {
         "organizer": {
           "@type": "Organization",
           "name": channelName,
-          "url": `https://setsonstream.tv/game/smashultimate/channel/${channelName}/`,
+          "url": `https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/`,
           ...(streamIcon && {"logo": {
             "@type": "ImageObject",
             "url": streamIcon,
@@ -1284,7 +1285,7 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
     "knowsAbout": item.player1Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/character/${charItem.name}/`
+        "url": `https://setsonstream.tv/game/${gameSlug}/character/${charItem.name}/`
       }))}
     : {}
 
@@ -1313,23 +1314,31 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
     // "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
   }))
 
-
   return {
     "@context": "https://schema.org",
-    "@type": "Person",
+    "@type": "ProfilePage",
     "@id": url,
     "name": playerName,
     "url": url,
     // "image": "https://setsonstream.tv/static/players/mkleo.jpg",
-    ...charArr,
-    "sameAs": [
-      `https://start.gg/user/${userSlug}/`
-    ],
-    "memberOf": {
-      "@type": "Thing",
-      "name": "Smash Ultimate",
-      "@id": "https://setsonstream.tv/game/smashultimate/"
+    "mainEntity": {
+      "@type": "Person",
+      "name": playerName,
+      "url": url,
+      ...charArr,
+      "sameAs": [
+        `https://start.gg/user/${userSlug}/`
+      ],
+      "memberOf": {
+        "@type": "Thing",
+        "name": `${gameName}`,
+        "alternateName": [gameDisplayName, gameSlug],          
+        "name": "Smash Ultimate",
+        "@id": `https://setsonstream.tv/game/${gameSlug}`
+      },
     },
+
+
     // "mainEntityOfPage": {
     //   "@type": "WebPage",
     //   "@id": "https://setsonstream.tv/game/smashultimate/player/mkleo"
@@ -1356,6 +1365,50 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
       // ]
     }
   }
+
+
+  // return {
+  //   "@context": "https://schema.org",
+  //   "@type": "Person",
+  //   "@id": url,
+  //   "name": playerName,
+  //   "url": url,
+  //   // "image": "https://setsonstream.tv/static/players/mkleo.jpg",
+  //   ...charArr,
+  //   "sameAs": [
+  //     `https://start.gg/user/${userSlug}/`
+  //   ],
+  //   "memberOf": {
+  //     "@type": "Thing",
+  //     "name": "Smash Ultimate",
+  //     "@id": "https://setsonstream.tv/game/smashultimate/"
+  //   },
+  //   // "mainEntityOfPage": {
+  //   //   "@type": "WebPage",
+  //   //   "@id": "https://setsonstream.tv/game/smashultimate/player/mkleo"
+  //   // },
+  //   // "hasPart": {
+  //   "subjectOf": {
+  //     "@type": "ItemList",
+  //     "name": `Recent Sets featuring ${playerName}`,
+  //     "itemListOrder": "MostRecent",
+  //     "itemListElement": setItemList,
+  //     // "itemListElement": [
+  //     //   {
+  //     //     "@type": "VideoObject",
+  //     //     "@id": "https://setsonstream.tv/game/smashultimate/set/12345",
+  //     //     "position": 1,
+  //     //     "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
+  //     //   },
+  //     //   {
+  //     //     "@type": "VideoObject",
+  //     //     "@id": "https://setsonstream.tv/game/smashultimate/set/12346",
+  //     //     "position": 2,
+  //     //     "name": "MKLeo vs Tweek - Genesis 9 Grand Finals"
+  //     //   }
+  //     // ]
+  //   }
+  // }
 }
 
 function generateJsonLdChannel({item, gameInfo}) {
