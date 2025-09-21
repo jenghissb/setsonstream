@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94191318/</loc>
-  <lastmod>2025-09-21T21:37:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94191319/</loc>
+  <lastmod>2025-09-21T21:58:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/772481/image-813f22206d5a245f0620b2fd258ecd4e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Leemishima vs GHZ | Roynichi, Punishment 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Leemishima vs GHZ | Roynichi in Losers Final of Punishment 4, streamed by Tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2572202913&amp;t=5h30m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1971</video:duration>
+    <video:publication_date>2025-09-21T21:58:17.000Z</video:publication_date>
+    <video:uploader>Tekken</video:uploader>
+    <video:expiration_date>2025-09-29T21:58:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94191318/</loc>
+  <lastmod>2025-09-21T22:14:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2572202913&amp;t=5h9m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2138</video:duration>
+    <video:duration>1105</video:duration>
     <video:publication_date>2025-09-21T21:37:53.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-09-29T21:37:53.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-06T19:04:07.000Z</video:publication_date>
     <video:uploader>rdutekken</video:uploader>
     <video:expiration_date>2025-09-14T19:04:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-32/set/93549892/</loc>
-  <lastmod>2025-09-06T19:13:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820531/image-83086b3213c5d641539d06b07d41a58e.png
-    </video:thumbnail_loc>
-    <video:title>
-      f4rtmaster vs Fuzzy J5, RDU Tekken Monthly #32 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch f4rtmaster vs Fuzzy J5 in Winners Quarter-Final of RDU Tekken Monthly #32, streamed by rdutekken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559803826&amp;t=0h43m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>599</video:duration>
-    <video:publication_date>2025-09-06T18:45:36.000Z</video:publication_date>
-    <video:uploader>rdutekken</video:uploader>
-    <video:expiration_date>2025-09-14T18:45:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
