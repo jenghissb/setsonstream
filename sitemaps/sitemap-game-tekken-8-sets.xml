@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94181173/</loc>
-  <lastmod>2025-09-21T19:00:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94181174/</loc>
+  <lastmod>2025-09-21T19:11:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/772481/image-813f22206d5a245f0620b2fd258ecd4e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      HDG | | Pablito-HC vs Camaney, Punishment 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HDG | | Pablito-HC vs Camaney in Losers Round 3 of Punishment 4, streamed by Tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2572202913&amp;t=2h43m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>729</video:duration>
+    <video:publication_date>2025-09-21T19:11:06.000Z</video:publication_date>
+    <video:uploader>Tekken</video:uploader>
+    <video:expiration_date>2025-09-29T19:11:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94181173/</loc>
+  <lastmod>2025-09-21T19:21:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2572202913&amp;t=2h32m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>648</video:duration>
+    <video:duration>411</video:duration>
     <video:publication_date>2025-09-21T19:00:51.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-09-29T19:00:51.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-06T17:19:03.000Z</video:publication_date>
     <video:uploader>gamingloods</video:uploader>
     <video:expiration_date>2025-09-14T17:19:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/azure-2/set/93541044/</loc>
-  <lastmod>2025-09-06T17:30:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/803041/image-a73d8edf914b5ff0a4daa1e69b9f3f7d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      AJT | Spayk vs K.T.B | Tepest, Azure #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AJT | Spayk vs K.T.B | Tepest in Losers Semi-Final of Azure #2, streamed by zuuluu_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559598784&amp;t=4h4m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>665</video:duration>
-    <video:publication_date>2025-09-06T17:10:12.000Z</video:publication_date>
-    <video:uploader>zuuluu_</video:uploader>
-    <video:expiration_date>2025-09-14T17:10:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
