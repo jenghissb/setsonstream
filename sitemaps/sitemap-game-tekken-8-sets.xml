@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94181113/</loc>
+  <lastmod>2025-09-21T17:39:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/772481/image-813f22206d5a245f0620b2fd258ecd4e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ALL | Sergie Mazter vs qudans, Punishment 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ALL | Sergie Mazter vs qudans in Winners Quarter-Final of Punishment 4, streamed by Tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2572202913&amp;t=1h11m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>594</video:duration>
+    <video:publication_date>2025-09-21T17:39:33.000Z</video:publication_date>
+    <video:uploader>Tekken</video:uploader>
+    <video:expiration_date>2025-09-29T17:39:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/sidetown-skirmish/set/94166007/</loc>
   <lastmod>2025-09-21T05:15:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-06T16:39:28.000Z</video:publication_date>
     <video:uploader>zuuluu_</video:uploader>
     <video:expiration_date>2025-09-14T16:39:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-14/set/93539940/</loc>
-  <lastmod>2025-09-06T16:58:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815785/image-ad44873b9c4428f2e8cc99985e6c4edb.png
-    </video:thumbnail_loc>
-    <video:title>
-      NMY | Metabyte vs TDB | ArtofAce, GROUND CONTROL 14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NMY | Metabyte vs TDB | ArtofAce in Grand Final Reset of GROUND CONTROL 14, streamed by gamingloods
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559541809&amp;t=5h13m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1040</video:duration>
-    <video:publication_date>2025-09-06T16:29:13.000Z</video:publication_date>
-    <video:uploader>gamingloods</video:uploader>
-    <video:expiration_date>2025-09-14T16:29:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
