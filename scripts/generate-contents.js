@@ -270,10 +270,10 @@ function generateGamesSitemap(games) {
 }
 
 
-function generateCharacterSitemap(game) {
+function generateCharacterSitemap(game, characterLastModById) {
   const charList = Characters[game.id].charList
   const urls = charList.map((charName) =>
-    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/char/${charName}/`, undefined, "hourly", 0.9)
+    makeUrlEntry(`${BASE_URL}/game/${game.gameSlug}/char/${charName}/`, characterLastModById[charName], "hourly", 0.9)
   );
   return wrapUrlset(urls);
 }
@@ -471,9 +471,11 @@ async function main() {
     var tourneyById = {}
     var playerById = {}
     var channelById = {}
+    var characterById = {}
     var tourneyLastModById = {}
     var playerLastModById = {}
     var channelLastModById = {}
+    var characterLastModById = {}
     // var characterLastModById = {}
     gameVids.combined.forEach(item => {
       var key = item.bracketInfo.tourneyId
@@ -526,7 +528,33 @@ async function main() {
           channelLastModById[key] = item.bracketInfo.lastMod
         }
       }
-      gameSubCats[key1] = {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById }  
+
+
+      const charNames1 = item.player1Info.charInfo.map(item => item.name).filter(name => name.length > 0)
+      const charNames2 = item.player2Info.charInfo.map(item => item.name).filter(name => name.length > 0)
+      const charNamesCombined = [...charNames1]
+      charNames2.forEach(charName => {
+        if (!charNames1.includes(charName)) {
+          charNamesCombined.push(charNames2)
+        }
+      })
+
+      charNamesCombined.forEach(charName => {
+        var key = charName
+        if (key != null && key.length > 0) {
+          var arr = characterById[key]
+          if (arr == undefined) {
+            arr = []
+          }
+          arr.push(item)
+          characterById[key] = arr
+          if (item.bracketInfo.lastMod > (characterLastModById[key] ?? 0)) {
+            characterLastModById[key] = item.bracketInfo.lastMod
+          }
+        }
+      })
+
+      gameSubCats[key1] = {tourneyById, playerById, channelById, characterById, tourneyLastModById, playerLastModById, channelLastModById, characterLastModById }  
     })
   })
   
@@ -563,7 +591,7 @@ async function main() {
     }
     const videoObjectSummaryCache = {}
     const combined = data[gameInfo.id].combined
-    const {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById } = gameSubCats[gameInfo.id]
+    const {tourneyById, playerById, channelById, characterById, tourneyLastModById, playerLastModById, channelLastModById, characterLastModById } = gameSubCats[gameInfo.id]
 
     combined.forEach(item => {
       const setId = item.bracketInfo.setId
@@ -697,8 +725,25 @@ async function main() {
           ogVideoThumb, 
         })
       )
+      charNames.forEach(charName => {
+        url = `https://setsonstream.tv/game/${gameSlug}/char/${charName}/set/${setId}/`
+        jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
+        writeFile(
+          path.join(gameDir, "set", `${setId}`, "index.html"),
+          generatePage({
+            templatePath,
+            title, 
+            description,
+            keywords: setKeywords,
+            bootstrap,
+            jsonLd,
+            canonical,
+            ogVideoUrl,
+            ogVideoThumb, 
+          })
+        )
+      })
     })
-
 
     if(true) {
       const items = combined
@@ -721,13 +766,19 @@ async function main() {
     if (hasCharPages) {
       const charList = Characters[gameInfo.id].charList
       for (const charName of charList) {
+        const items = characterById[charName]
+        const item = (items && items.length > 0) ? items[0] : null
+        const url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/char/${charName}/`
+        const jsonLd = generateJsonLdCharacter({item, items, url, charName, gameInfo, videoObjectSummaryCache})
+        
         writeFile(
           path.join(gameDir, "char", charName, "index.html"),
           generatePage({
             templatePath,
             title: `${charName} - Sets on Stream`,
             description: `Watch Live and Recent ${gameInfo?.name} ${charName} Sets on Stream from Tournaments around the World`,
-            keywords: charName + ", " + GameKeywords[gameInfo.id]
+            keywords: charName + ", " + GameKeywords[gameInfo.id],
+            jsonLd,
           })
         )
       }
@@ -746,7 +797,7 @@ async function main() {
           tourneyName: item.bracketInfo.tourneyName,
         }}
         var url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/tournament/${tourneySlug}/`
-        const jsonLd = generateJsonLdTournament({item, gameInfo, url})
+        const jsonLd = generateJsonLdTournament({item, items, gameInfo, url, videoObjectSummaryCache})
         writeFile(
           path.join(gameDir, "tournament", tourneySlug, "index.html"),
           generatePage({
@@ -869,13 +920,13 @@ async function main() {
     //   path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}.xml`),
     //   generateGameLeafSitemap(game)
     // )
+    const {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById, characterLastModById } = gameSubCats[game.id]
     if (hasCharPages) {
       writeFile(
         path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-characters.xml`),
-        generateCharacterSitemap(game)
+        generateCharacterSitemap(game, characterLastModById)
       )
     }
-    const {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById } = gameSubCats[game.id]
     writeFile(
       path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-tournaments.xml`),
       generateTourneySitemap(game, tourneyById, tourneyLastModById)
@@ -943,14 +994,14 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
     "character": item.player1Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/game/${gameSlug}/character/${charItem.name}/`
+        "url": `https://setsonstream.tv/game/${gameSlug}/char/${charItem.name}/`
       }))}
     : {}
   const charArr2 = (item.player2Info.charInfo?.length ?? 0) > 0 ? { 
     "character": item.player2Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/game/${gameSlug}/character/${charItem.name}/`
+        "url": `https://setsonstream.tv/game/${gameSlug}/char/${charItem.name}/`
       }))}
     : {}
 
@@ -1109,7 +1160,7 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
 }
 
 
-function generateJsonLdTournament({item, gameInfo, url}) {
+function generateJsonLdTournament({item, items, gameInfo, url, videoObjectSummaryCache}) {
   const setId = item.bracketInfo.setId
   const tourneySlug = getTourneySlug(item.bracketInfo)
   const gameSlug = gameInfo.gameSlug
@@ -1152,6 +1203,21 @@ function generateJsonLdTournament({item, gameInfo, url}) {
 
   const startDate = getIsoStr(item.bracketInfo.startAt)
   const optionalEndField = item.bracketInfo.endAt ? {"endDate": getIsoStr(item.bracketInfo.endAt)} : {}
+
+  const setItemList = items && items.slice(0, NUM_SETS_PER).map((it, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/set/${it.bracketInfo.setKey}/`]),
+    "position": index,
+  }))
+
+  const itemList = (item != null) ? {
+      "hasPart": {
+        "@type": "ItemList",
+        "name": `${tourneyName} Matches`,
+        "itemListOrder": "MostRecent",
+        "itemListElement": setItemList,
+      }
+    } : {}
+
 
   return {
     "@context": "https://schema.org",
@@ -1237,8 +1303,8 @@ function generateJsonLdTournament({item, gameInfo, url}) {
             // "width": 600,
             // "height": 60
           }})
-          
-        }
+        },
+        ...itemList,
       }
       // {
       //   "@type": "ItemList",
@@ -1264,7 +1330,6 @@ function generateJsonLdTournament({item, gameInfo, url}) {
       //   ]
       // }
     // ]
-  // }
 }
 
 function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObjectSummaryCache}) {
@@ -1308,7 +1373,7 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
     "knowsAbout": item.player1Info.charInfo.map(charItem => ({
         "@type": "VideoGameCharacter",
         "name": charItem.name,
-        "url": `https://setsonstream.tv/game/${gameSlug}/character/${charItem.name}/`
+        "url": `https://setsonstream.tv/game/${gameSlug}/char/${charItem.name}/`
       }))}
     : {}
 
@@ -1316,7 +1381,7 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
   //   "items": item.player1Info.charInfo.map(charItem => ({
   //       "@type": "VideoGameCharacter",
   //       "name": charItem.name,
-  //       "url": `https://setsonstream.tv/character/${charItem.name}`
+  //       "url": `https://setsonstream.tv/char/${charItem.name}`
   //     }))}
   //   : {}
 
@@ -1327,8 +1392,8 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
   //     // "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
   //   }))
   
-  const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
-    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/player/${userSlug}/set/${items[key].bracketInfo.setKey}/`]),
+  const setItemList = items.slice(0, NUM_SETS_PER).map((it, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/player/${userSlug}/set/${it.bracketInfo.setKey}/`]),
     "position": index,
     // "@type": "VideoObject",
     // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
@@ -1465,8 +1530,12 @@ function generateJsonLdChannel({item, gameInfo, url, items, videoObjectSummaryCa
   const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
   const lat = item.bracketInfo.lat
   const lon = item.bracketInfo.lon
-  const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
-    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${items[key].bracketInfo.setKey}/`]),
+  // const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
+  //   ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${items[key].bracketInfo.setKey}/`]),
+  //   "position": index,
+  // }))
+  const setItemList = items.slice(0, NUM_SETS_PER).map((it, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${it.bracketInfo.setKey}/`]),
     "position": index,
   }))
 
@@ -1536,8 +1605,8 @@ function generateJsonLdGame({item, gameInfo, url, items, videoObjectSummaryCache
   const lat = item.bracketInfo.lat
   const lon = item.bracketInfo.lon
   const gameImage = gameInfo.images.at(-1).url
-  const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
-    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/set/${items[key].bracketInfo.setKey}/`]),
+  const setItemList = items.slice(0, NUM_SETS_PER).map((it, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`]),
     "position": index,
   }))
 
@@ -1568,51 +1637,24 @@ function generateJsonLdGame({item, gameInfo, url, items, videoObjectSummaryCache
   }
 }
 
-function generateJsonLdCharacter({item, gameInfo, url, items, videoObjectSummaryCache}) {
-  const setId = item.bracketInfo.setId
-  const tourneySlug = getTourneySlug(item.bracketInfo)
+function generateJsonLdCharacter({item, gameInfo, charName, url, items, videoObjectSummaryCache}) {
   const gameSlug = gameInfo.gameSlug
   const gameName = gameInfo.name
   const gameDisplayName = gameInfo.displayName
-  const player1Name = item.player1Info.nameWithRomaji
-  const player2Name = item.player2Info.nameWithRomaji
-  const player1Slug = item.player1Info.userSlug
-  const player2Slug = item.player2Info.userSlug
-  const fullRoundText = item.bracketInfo.fullRoundText
-  const tourneyName = item.bracketInfo.tourneyName
-  const channelName = getChannelName(item.streamInfo)
-  const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
-  const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
-  const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
-  const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
-  const streamIcon = item.streamInfo.streamIcon
-  const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
-  const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
-  const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
-  const isoDuration = getIsoDuration(duration)
-  const contentUrl = getStreamUrl(item.streamInfo, 0, true)
-  const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
-  const startAt = item.bracketInfo.startAt
-  const endAt = item.bracketInfo.endAt
-  const postalCode = item.bracketInfo.postalCode
-  const venueAddress = item.bracketInfo.venueAddress
-  const mapsPlaceId = item.bracketInfo.mapsPlaceId
-  const countryCode = item.bracketInfo.countryCode
-  const addrState = item.bracketInfo.addrState
-  const city = item.bracketInfo.city
-  const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
-  const lat = item.bracketInfo.lat
-  const lon = item.bracketInfo.lon
-  const gameImage = gameInfo.images.at(-1).url
-  const setItemList = Object.keys(items).slice(0, 0).map((key, index) => ({
-    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${items[key].bracketInfo.setKey}/`]),
+  // const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
+  //   ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/char/${charName}/set/${items[key].bracketInfo.setKey}/`]),
+  //   "position": index,
+  // }))
+  const setItemList = items && items.slice(0, NUM_SETS_PER).map((it, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/char/${charName}/set/${it.bracketInfo.setKey}/`]),
     "position": index,
   }))
 
-  itemList = (item != null) ? {
+
+  const itemList = (item != null) ? {
       "hasPart": {
         "@type": "ItemList",
-        "name": `Recent Sets in ${gameName}`,
+        "name": `Recent Sets for ${charName} in ${gameName}`,
         "itemListOrder": "MostRecent",
         "itemListElement": setItemList,
       }
@@ -1621,23 +1663,23 @@ function generateJsonLdCharacter({item, gameInfo, url, items, videoObjectSummary
   return {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "@id": "https://setsonstream.tv/game/super-smash-bros-ultimate/character/mario/",
-    "url": "https://setsonstream.tv/game/super-smash-bros-ultimate/character/mario/",
-    "name": "Super Smash Bros. Ultimate – Mario Character Page",
-    "description": "Watch competitive Super Smash Bros. Ultimate matches featuring Mario. Browse recent sets, players, and tournaments where Mario is played.",
+    "@id": url,
+    "url": url,
+    "name": `${gameDisplayName} - ${charName} Character Page`,
+    "description": `Watch competitive ${gameDisplayName} matches featuring ${charName}. Browse recent sets, players, and tournaments where ${charName} is played.`,
     "about": {
       "@type": "VideoGameCharacter",
-      "name": "Mario",
-      "url": "https://setsonstream.tv/game/super-smash-bros-ultimate/character/mario/",
+      "name": charName,
+      "url": url,
       "characterAttribute": {
         "@type": "Thing",
-        "name": "Super Smash Bros. Ultimate"
+        "name": gameDisplayName
       }
     },
     "isPartOf": {
       "@type": "VideoGame",
-      "name": "Super Smash Bros. Ultimate",
-      "url": "https://setsonstream.tv/game/super-smash-bros-ultimate/"
+      "name": gameDisplayName,
+      "url": `https://setsonstream.tv/game/${gameSlug}/`
     },
     ...itemList,
     // "hasPart": [
