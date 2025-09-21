@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-21-x-tekken-8-bi-weekly-37/set/94157759/</loc>
-  <lastmod>2025-09-21T03:18:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-21-x-tekken-8-bi-weekly-37/set/94157697/</loc>
+  <lastmod>2025-09-21T03:49:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830372/image-84ccaad1af3c1ad1f34d4b9f01b5c83f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Neon Dreams | Quizikcal vs IDK | Blank, Neon Dreams Soul Calibur 2 #21 x TEKKEN 8 Bi-Weekly #37 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Neon Dreams | Quizikcal vs IDK | Blank in Grand Final of Neon Dreams Soul Calibur 2 #21 x TEKKEN 8 Bi-Weekly #37, streamed by NeonDreamsArcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571758695&amp;t=1h35m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1705</video:duration>
+    <video:publication_date>2025-09-21T03:49:22.000Z</video:publication_date>
+    <video:uploader>NeonDreamsArcade</video:uploader>
+    <video:expiration_date>2025-09-29T03:49:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-21-x-tekken-8-bi-weekly-37/set/94157759/</loc>
+  <lastmod>2025-09-21T04:05:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571758695&amp;t=1h4m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2217</video:duration>
+    <video:duration>1839</video:duration>
     <video:publication_date>2025-09-21T03:18:34.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-09-29T03:18:34.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-06T15:52:13.000Z</video:publication_date>
     <video:uploader>zuuluu_</video:uploader>
     <video:expiration_date>2025-09-14T15:52:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-14/set/93539954/</loc>
-  <lastmod>2025-09-06T16:10:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815785/image-ad44873b9c4428f2e8cc99985e6c4edb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Lil Mayo vs NMY | Metabyte, GROUND CONTROL 14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lil Mayo vs NMY | Metabyte in Losers Final of GROUND CONTROL 14, streamed by gamingloods
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559541809&amp;t=4h33m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1264</video:duration>
-    <video:publication_date>2025-09-06T15:48:42.000Z</video:publication_date>
-    <video:uploader>gamingloods</video:uploader>
-    <video:expiration_date>2025-09-14T15:48:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
