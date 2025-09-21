@@ -36,6 +36,41 @@ export const GameKeywords = Object.freeze({
   //"12345": "Fatal Fury City of the Wolves, Fatal Fury, competitive Fatal Fury, Fatal Fury tournaments, fighting game streams, Fatal Fury sets, tournament matches, esports, characters, gameplay, live matches"
 });
 
+export const GamePublishers = Object.freeze({
+  "1386": {
+    "name": "Nintendo",
+    "url": "https://www.nintendo.com/"
+  },
+  "53945": {
+    "name": "Aether Studios",
+    "url": "https://rivalsofaether.com/"
+  },
+  "43868": {
+    "name": "Capcom",
+    "url": "https://www.capcom.com/"
+  },
+  "1": {
+    "name": "Nintendo",
+    "url": "https://www.nintendo.com/"
+  },
+  "49783": {
+    "name": "Bandai Namco Entertainment",
+    "url": "https://www.bandainamcoent.com/"
+  },
+  "33945": {
+    "name": "Arc System Works",
+    "url": "https://www.arcsystemworks.jp/"
+  },
+  "48548": {
+    "name": "Cygames",
+    "url": "https://www.cygames.co.jp/"
+  }
+  // "fatal-fury-city-of-the-wolves": {
+  //   "name": "SNK",
+  //   "url": "https://www.snk-corp.co.jp/"
+  // }
+})
+
 
 
 // 264x352

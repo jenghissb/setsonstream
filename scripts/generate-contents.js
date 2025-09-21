@@ -2,13 +2,14 @@
 import fs from "fs"
 import path from "path"
 import pako from 'pako';
-import { VideoGameInfo, VideoGameInfoByGameSlug, GameKeywords, Characters } from "../src/GameInfo.js"
+import { VideoGameInfo, VideoGameInfoByGameSlug, GameKeywords, Characters, GamePublishers } from "../src/GameInfo.js"
 const BASE_URL = 'https://setsonstream.tv';
 // const DIST_DIR = path.join(__dirname, "..", "dist-static");
 // const DIST_DIR = path.join(__dirname, "..", "build");
 const DIST_DIR = "build"
 const SITEMAP_DIR = path.join(DIST_DIR, "sitemaps");
-const NUM_SETS_PER = 10
+const NUM_SETS_PER = 30
+// const NUM_SETS_PER = 10
 const EXPIRE_SECONDS = 8 * 24 * 60 * 60
 const PARENT = "setsonstream.tv"
 const OG_THUMB = "https://setsonstream.tv/logoOg.png"
@@ -699,16 +700,23 @@ async function main() {
     })
 
 
-    writeFile(
-      path.join(gameDir, "index.html"),
-      generatePage({
-        templatePath,
-        title: `${gameInfo.displayName} - Sets on Stream`,
-        description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments around the World`,
-        keywords: GameKeywords[gameInfo.id],
-        // jsonLd: getJsonLd()
-      })
-    );
+    if(true) {
+      const items = combined
+      const item = items.length > 0 ? items[0] : null
+      const url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/`
+      const jsonLd = generateJsonLdGame({item, items, url, gameInfo, videoObjectSummaryCache})
+
+      writeFile(
+        path.join(gameDir, "index.html"),
+        generatePage({
+          templatePath,
+          title: `${gameInfo.displayName} - Sets on Stream`,
+          description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments around the World`,
+          keywords: GameKeywords[gameInfo.id],
+          jsonLd,
+        })
+      );
+    }
 
     if (hasCharPages) {
       const charList = Characters[gameInfo.id].charList
@@ -1319,7 +1327,7 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
   //     // "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
   //   }))
   
-  const setItemList = Object.keys(items).map((key, index) => ({
+  const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
     ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/player/${userSlug}/set/${items[key].bracketInfo.setKey}/`]),
     "position": index,
     // "@type": "VideoObject",
@@ -1457,14 +1465,9 @@ function generateJsonLdChannel({item, gameInfo, url, items, videoObjectSummaryCa
   const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
   const lat = item.bracketInfo.lat
   const lon = item.bracketInfo.lon
-  const setItemList = Object.keys(items).map((key, index) => ({
+  const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
     ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${items[key].bracketInfo.setKey}/`]),
     "position": index,
-    // "@type": "VideoObject",
-    // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
-    // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
-    // "position": 1,
-    // "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
   }))
 
 
@@ -1494,46 +1497,127 @@ function generateJsonLdChannel({item, gameInfo, url, items, videoObjectSummaryCa
   }
 }
 
-function generateJsonLdGame({item, gameInfo}) {
+function generateJsonLdGame({item, gameInfo, url, items, videoObjectSummaryCache}) {
+  const setId = item.bracketInfo.setId
+  const tourneySlug = getTourneySlug(item.bracketInfo)
+  const gameSlug = gameInfo.gameSlug
+  const gameName = gameInfo.name
+  const publisher = GamePublishers[gameInfo.id]
+  const publisherName = publisher.name
+  const publisherUrl = publisher.url
+  const gameDisplayName = gameInfo.displayName
+  const player1Name = item.player1Info.nameWithRomaji
+  const player2Name = item.player2Info.nameWithRomaji
+  const player1Slug = item.player1Info.userSlug
+  const player2Slug = item.player2Info.userSlug
+  const fullRoundText = item.bracketInfo.fullRoundText
+  const tourneyName = item.bracketInfo.tourneyName
+  const channelName = getChannelName(item.streamInfo)
+  const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+  const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+  const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+  const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+  const streamIcon = item.streamInfo.streamIcon
+  const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
+  const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
+  const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
+  const isoDuration = getIsoDuration(duration)
+  const contentUrl = getStreamUrl(item.streamInfo, 0, true)
+  const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+  const startAt = item.bracketInfo.startAt
+  const endAt = item.bracketInfo.endAt
+  const postalCode = item.bracketInfo.postalCode
+  const venueAddress = item.bracketInfo.venueAddress
+  const mapsPlaceId = item.bracketInfo.mapsPlaceId
+  const countryCode = item.bracketInfo.countryCode
+  const addrState = item.bracketInfo.addrState
+  const city = item.bracketInfo.city
+  const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
+  const lat = item.bracketInfo.lat
+  const lon = item.bracketInfo.lon
+  const gameImage = gameInfo.images.at(-1).url
+  const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/set/${items[key].bracketInfo.setKey}/`]),
+    "position": index,
+  }))
+
   return {
     "@context": "https://schema.org",
     "@type": "VideoGame",
-    "@id": "https://setsonstream.tv/game/smashultimate",
-    "name": "Super Smash Bros. Ultimate",
-    "url": "https://setsonstream.tv/game/smashultimate",
-    "image": "https://setsonstream.tv/static/games/smashultimate-cover.jpg",
+    "@id": url,
+    "name": `${gameName}`,
+    "alternateName": [gameDisplayName, gameSlug],          
+    "url": url,
+    "image": gameImage,
     "genre": "Fighting",
     "publisher": {
       "@type": "Organization",
-      "name": "Nintendo"
+      "name": publisherName,
+      "url": publisherUrl,
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://setsonstream.tv/game/smashultimate"
+      "@id": url
     },
     "hasPart": {
       "@type": "ItemList",
-      "name": "Recent Sets in Super Smash Bros. Ultimate",
-      "itemListOrder": "Descending",
-      "itemListElement": [
-        {
-          "@type": "VideoObject",
-          "@id": "https://setsonstream.tv/game/smashultimate/set/12345",
-          "position": 1,
-          "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
-        },
-        {
-          "@type": "VideoObject",
-          "@id": "https://setsonstream.tv/game/smashultimate/set/12346",
-          "position": 2,
-          "name": "Tweek vs Light - Genesis 9 Semifinals"
-        }
-      ]
+      "name": `Recent Sets in ${gameName}`,
+      "itemListOrder": "MostRecent",
+      "itemListElement": setItemList,
     }
   }
 }
 
-function generateJsonLdCharacter({item, gameInfo}) {
+function generateJsonLdCharacter({item, gameInfo, url, items, videoObjectSummaryCache}) {
+  const setId = item.bracketInfo.setId
+  const tourneySlug = getTourneySlug(item.bracketInfo)
+  const gameSlug = gameInfo.gameSlug
+  const gameName = gameInfo.name
+  const gameDisplayName = gameInfo.displayName
+  const player1Name = item.player1Info.nameWithRomaji
+  const player2Name = item.player2Info.nameWithRomaji
+  const player1Slug = item.player1Info.userSlug
+  const player2Slug = item.player2Info.userSlug
+  const fullRoundText = item.bracketInfo.fullRoundText
+  const tourneyName = item.bracketInfo.tourneyName
+  const channelName = getChannelName(item.streamInfo)
+  const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+  const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+  const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+  const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+  const streamIcon = item.streamInfo.streamIcon
+  const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
+  const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
+  const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
+  const isoDuration = getIsoDuration(duration)
+  const contentUrl = getStreamUrl(item.streamInfo, 0, true)
+  const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+  const startAt = item.bracketInfo.startAt
+  const endAt = item.bracketInfo.endAt
+  const postalCode = item.bracketInfo.postalCode
+  const venueAddress = item.bracketInfo.venueAddress
+  const mapsPlaceId = item.bracketInfo.mapsPlaceId
+  const countryCode = item.bracketInfo.countryCode
+  const addrState = item.bracketInfo.addrState
+  const city = item.bracketInfo.city
+  const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
+  const lat = item.bracketInfo.lat
+  const lon = item.bracketInfo.lon
+  const gameImage = gameInfo.images.at(-1).url
+  const setItemList = Object.keys(items).slice(0, 0).map((key, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${items[key].bracketInfo.setKey}/`]),
+    "position": index,
+  }))
+
+  itemList = (item != null) ? {
+      "hasPart": {
+        "@type": "ItemList",
+        "name": `Recent Sets in ${gameName}`,
+        "itemListOrder": "MostRecent",
+        "itemListElement": setItemList,
+      }
+    } : {}
+
   return {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -1555,19 +1639,20 @@ function generateJsonLdCharacter({item, gameInfo}) {
       "name": "Super Smash Bros. Ultimate",
       "url": "https://setsonstream.tv/game/super-smash-bros-ultimate/"
     },
-    "hasPart": [
-      {
-        "@type": "VideoObject",
-        "@id": "https://setsonstream.tv/game/super-smash-bros-ultimate/set/12345",
-        "name": "Player A vs Player B – Mario Match",
-        "thumbnailUrl": "https://img.youtube.com/vi/xxxx/hqdefault.jpg",
-        "uploadDate": "2025-09-13",
-        "description": "Competitive set featuring Mario in Super Smash Bros. Ultimate.",
-        "embedUrl": "https://www.youtube.com/embed/xxxx?start=1234",
-        // "inLanguage": "en"
-      }
+    ...itemList,
+    // "hasPart": [
+    //   {
+    //     "@type": "VideoObject",
+    //     "@id": "https://setsonstream.tv/game/super-smash-bros-ultimate/set/12345",
+    //     "name": "Player A vs Player B – Mario Match",
+    //     "thumbnailUrl": "https://img.youtube.com/vi/xxxx/hqdefault.jpg",
+    //     "uploadDate": "2025-09-13",
+    //     "description": "Competitive set featuring Mario in Super Smash Bros. Ultimate.",
+    //     "embedUrl": "https://www.youtube.com/embed/xxxx?start=1234",
+    //     // "inLanguage": "en"
+    //   }
       /* …more VideoObjects for other sets … */
-    ]
+    // ]
   }
 }
 
