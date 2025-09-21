@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/umad-2025/set/94191123/</loc>
-  <lastmod>2025-09-21T20:48:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/umad-2025/set/94191121/</loc>
+  <lastmod>2025-09-21T21:11:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/760740/image-e3b73a6c7411b684eda96e63ee3a2ee1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      4Ender | EDLN | AuVerity vs Saltcord.ca | SaltProphet, UMAD 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 4Ender | EDLN | AuVerity vs Saltcord.ca | SaltProphet in Losers Round 1 of UMAD 2025, streamed by downtownrumble
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2572293336&amp;t=2h52m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>907</video:duration>
+    <video:publication_date>2025-09-21T21:11:30.000Z</video:publication_date>
+    <video:uploader>downtownrumble</video:uploader>
+    <video:expiration_date>2025-09-29T21:11:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/umad-2025/set/94191123/</loc>
+  <lastmod>2025-09-21T21:13:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2572293336&amp;t=2h30m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1434</video:duration>
+    <video:duration>652</video:duration>
     <video:publication_date>2025-09-21T20:48:52.000Z</video:publication_date>
     <video:uploader>downtownrumble</video:uploader>
     <video:expiration_date>2025-09-29T20:48:52.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-07-12T20:16:43.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-07-20T20:16:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-july-2025/set/91320319/</loc>
-  <lastmod>2025-07-12T20:07:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800501/image-89c444084acbbf220a5ebd36ba5cd4a3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Redeemer vs Nidhogg, Colorado Mile High Burst Monthly July 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Redeemer vs Nidhogg in Winners Final of Colorado Mile High Burst Monthly July 2025, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2510690889&amp;t=1h7m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>423</video:duration>
-    <video:publication_date>2025-07-12T19:53:12.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2025-07-20T19:53:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
