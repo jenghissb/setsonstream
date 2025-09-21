@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94181174/</loc>
-  <lastmod>2025-09-21T19:11:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94181176/</loc>
+  <lastmod>2025-09-21T19:38:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/772481/image-813f22206d5a245f0620b2fd258ecd4e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Mrpato vs HDG | Noel, Punishment 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mrpato vs HDG | Noel in Losers Round 3 of Punishment 4, streamed by Tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2572202913&amp;t=3h10m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>656</video:duration>
+    <video:publication_date>2025-09-21T19:38:53.000Z</video:publication_date>
+    <video:uploader>Tekken</video:uploader>
+    <video:expiration_date>2025-09-29T19:38:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94181174/</loc>
+  <lastmod>2025-09-21T19:39:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2572202913&amp;t=2h43m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1520</video:duration>
+    <video:duration>620</video:duration>
     <video:publication_date>2025-09-21T19:11:06.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-09-29T19:11:06.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-06T17:21:59.000Z</video:publication_date>
     <video:uploader>zuuluu_</video:uploader>
     <video:expiration_date>2025-09-14T17:21:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-14/set/93545318/</loc>
-  <lastmod>2025-09-06T17:45:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815785/image-ad44873b9c4428f2e8cc99985e6c4edb.png
-    </video:thumbnail_loc>
-    <video:title>
-      ED | Brewey vs ML | | Lazy45, GROUND CONTROL 14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ED | Brewey vs ML | | Lazy45 in Semi-Final of GROUND CONTROL 14, streamed by gamingloods
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559747405&amp;t=0h26m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>624</video:duration>
-    <video:publication_date>2025-09-06T17:19:03.000Z</video:publication_date>
-    <video:uploader>gamingloods</video:uploader>
-    <video:expiration_date>2025-09-14T17:19:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
