@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/monthly-smashers-september-20th-2025/set/94152095/</loc>
+  <lastmod>2025-09-21T01:43:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823379/image-f084c2d3ab7755d79bfc2ebe80c305ad.png
+    </video:thumbnail_loc>
+    <video:title>
+      SFJavelin vs EC | TRC | Shweepy, Monthly Smashers: September 20th, 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SFJavelin vs EC | TRC | Shweepy in Losers Final of Monthly Smashers: September 20th, 2025, streamed by olytrc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2571405236&amp;t=6h46m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>978</video:duration>
+    <video:publication_date>2025-09-21T01:07:46.000Z</video:publication_date>
+    <video:uploader>olytrc</video:uploader>
+    <video:expiration_date>2025-09-29T01:07:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/back-to-pools/set/94157419/</loc>
-  <lastmod>2025-09-21T00:42:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-21T01:19:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571451182&amp;t=5h29m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1883</video:duration>
+    <video:duration>1032</video:duration>
     <video:publication_date>2025-09-21T00:42:25.000Z</video:publication_date>
     <video:uploader>rivalsbc</video:uploader>
     <video:expiration_date>2025-09-29T00:42:25.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breach-the-abyss-4/set/94135969/</loc>
-  <lastmod>2025-09-21T00:39:31.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-21T01:19:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2571531813&amp;t=3h43m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2057</video:duration>
+    <video:duration>1005</video:duration>
     <video:publication_date>2025-09-21T00:39:31.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-09-29T00:39:31.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-06T01:07:23.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2025-09-14T01:07:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-smash-weekly-196/set/93511880/</loc>
-  <lastmod>2025-09-06T01:15:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824924/image-ce47ccbeb891ca20b715e7d619ac3d50.png
-    </video:thumbnail_loc>
-    <video:title>
-      mr beast gaming vs hazelnut, Prodigy Smash Weekly #196 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch mr beast gaming vs hazelnut in Winners Final of Prodigy Smash Weekly #196, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559158341&amp;t=1h5m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1091</video:duration>
-    <video:publication_date>2025-09-06T00:36:17.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2025-09-14T00:36:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
