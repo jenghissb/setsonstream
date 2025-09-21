@@ -112,6 +112,17 @@ export function getStreamEmbedUrl(streamInfo, index, preferTimestampedVod=false)
   }
 }
 
+export function getChannelUrl(streamInfo) {
+  if (streamInfo.streamSource == 'YOUTUBE') {
+    const channel = streamInfo.ytChannelId
+    return `https://www.youtube.com/${channel}`
+  } else if (streamInfo.streamSource == 'TWITCH') {
+    return `https://www.twitch.tv/${streamInfo.forTheatre}`
+  }
+  return null
+}
+
+
 // Helpers
 function ensureDir(dir) {
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
@@ -751,6 +762,8 @@ async function main() {
           streamIcon: item.streamInfo.streamIcon,
           channelName,
         }}
+        var url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/channel/${channelName}/`
+        const jsonLd = generateJsonLdChannel({item, items, url, gameInfo, videoObjectSummaryCache})
         writeFile(
           path.join(gameDir, "channel", key, "index.html"),
           generatePage({
@@ -759,6 +772,7 @@ async function main() {
             description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream streaming on ${key}`,
             keywords: `${key}, ${getTourneySlug(item?.bracketInfo)}, ${keywords}`,
             bootstrap,
+            jsonLd,
           })
         )
       }
@@ -777,7 +791,7 @@ async function main() {
           userSlug: playerInfo.userSlug,
         }}
         var url = `https://setsonstream.tv/game/${gameInfo.gameSlug}/player/${userSlug}/`
-        const jsonLd = generateJsonLdPlayer({item, items, playerInfo, url, gameInfo, url, videoObjectSummaryCache})
+        const jsonLd = generateJsonLdPlayer({item, items, playerInfo, url, gameInfo, videoObjectSummaryCache})
         writeFile(
           path.join(gameDir, "player", key, "index.html"),
           generatePage({
@@ -786,7 +800,7 @@ async function main() {
             description: `Watch ${nameWithRomaji}'s Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments`,
             keywords: `${nameWithRomaji}, ${key}, ${keywords}`,
             bootstrap,
-            jsonLd
+            jsonLd,
           })
         )
       }
@@ -961,7 +975,8 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
         `${setThumb}`
       ],
       "uploadDate": `${startedAtIso}`,
-      ...(endedAt && {"duration": isoDuration}),  
+      ...(endedAt && {"duration": isoDuration}),
+      ...viewersInfo
     }
   }
 
@@ -1411,44 +1426,70 @@ function generateJsonLdPlayer({item, playerInfo, gameInfo, url, items, videoObje
   // }
 }
 
-function generateJsonLdChannel({item, gameInfo}) {
+function generateJsonLdChannel({item, gameInfo, url, items, videoObjectSummaryCache}) {
+  const setId = item.bracketInfo.setId
+  const tourneySlug = getTourneySlug(item.bracketInfo)
+  const gameSlug = gameInfo.gameSlug
+  const gameName = gameInfo.name
+  const gameDisplayName = gameInfo.displayName
+  const fullRoundText = item.bracketInfo.fullRoundText
+  const channelName = getChannelName(item.streamInfo)
+  const channelUrl = getChannelUrl(item.streamInfo)
+  const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
+  const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
+  const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
+  const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
+  const streamIcon = item.streamInfo.streamIcon
+  const startedAtIso = getIsoStr(item.bracketInfo.startedAt)
+  const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
+  const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
+  const isoDuration = getIsoDuration(duration)
+  const contentUrl = getStreamUrl(item.streamInfo, 0, true)
+  const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
+  const startAt = item.bracketInfo.startAt
+  const endAt = item.bracketInfo.endAt
+  const postalCode = item.bracketInfo.postalCode
+  const venueAddress = item.bracketInfo.venueAddress
+  const mapsPlaceId = item.bracketInfo.mapsPlaceId
+  const countryCode = item.bracketInfo.countryCode
+  const addrState = item.bracketInfo.addrState
+  const city = item.bracketInfo.city
+  const locStreamUrl = getStreamUrl(item.streamInfo, 0, false)
+  const lat = item.bracketInfo.lat
+  const lon = item.bracketInfo.lon
+  const setItemList = Object.keys(items).map((key, index) => ({
+    ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${items[key].bracketInfo.setKey}/`]),
+    "position": index,
+    // "@type": "VideoObject",
+    // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
+    // "@id": `https://setsonstream.tv/game/${gameSlug}/set/${it.bracketInfo.setKey}/`,
+    // "position": 1,
+    // "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
+  }))
+
+
   return {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "@id": "https://setsonstream.tv/game/smashultimate/channel/btssmash",
-    "name": "BTSsmash",
-    "url": "https://setsonstream.tv/game/smashultimate/channel/btssmash",
-    "logo": {
+    "@id": url,
+    "name": channelName,
+    "url": url,
+    ...(streamIcon? {"logo": {
       "@type": "ImageObject",
-      "url": "https://setsonstream.tv/static/channels/btssmash-logo.png",
-      "width": 600,
-      "height": 60
-    },
+      "url": streamIcon,
+    }} : {}),
     "sameAs": [
-      "https://www.youtube.com/@BTSsmash",
-      "https://twitter.com/BTSsmash"
+      channelUrl,
     ],
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://setsonstream.tv/game/smashultimate/channel/btssmash"
+      "@id": url
     },
     "hasPart": {
       "@type": "ItemList",
-      "name": "Recent Sets streamed by BTSsmash",
-      "itemListElement": [
-        {
-          "@type": "VideoObject",
-          "@id": "https://setsonstream.tv/game/smashultimate/set/12345",
-          "position": 1,
-          "name": "MKLeo vs Sparg0 - Genesis 9 Winners Finals"
-        },
-        {
-          "@type": "VideoObject",
-          "@id": "https://setsonstream.tv/game/smashultimate/set/12347",
-          "position": 2,
-          "name": "Sparg0 vs Light - Genesis 9 Losers Finals"
-        }
-      ]
+      "name": `Recent Sets streamed by ${channelName}`,
+      "itemListOrder": "MostRecent",
+      "itemListElement": setItemList,
     }
   }
 }
