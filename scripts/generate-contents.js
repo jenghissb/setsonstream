@@ -980,12 +980,7 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
       "name": `${tourneyName}`,
       "startDate": startDate,
       ...optionalEndField,
-      "location": [
-        {
-          "@type": "VirtualLocation",
-          "url": locStreamUrl,
-        },
-        {
+      "location": {
           "@type": "Place",
           // "name": "San Jose Convention Center",
           "address": {
@@ -1003,7 +998,30 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
           },
           "sameAs": `https://www.google.com/maps/place/?q=place_id:${mapsPlaceId}`
         },
-      ],
+      // "location": [
+      //   {
+      //     "@type": "VirtualLocation",
+      //     "url": locStreamUrl,
+      //   },
+      //   {
+      //     "@type": "Place",
+      //     // "name": "San Jose Convention Center",
+      //     "address": {
+      //       "@type": "PostalAddress",
+      //       "streetAddress": venueAddress,
+      //       "addressLocality": city,
+      //       "addressRegion": addrState,
+      //       "postalCode": postalCode,
+      //       "addressCountry": countryCode,
+      //     },
+      //     "geo": {
+      //       "@type": "GeoCoordinates",
+      //       "latitude": lat,
+      //       "longitude": lon,
+      //     },
+      //     "sameAs": `https://www.google.com/maps/place/?q=place_id:${mapsPlaceId}`
+      //   },
+      // ],
       "organizer": {
         "@type": "Organization",
         "name": channelName,
@@ -1129,12 +1147,7 @@ function generateJsonLdTournament({item, gameInfo, url}) {
         // "eventStatus": "https://schema.org/EventCompleted",
         // "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
         "url": `${url}`,
-        "location": [
-          {
-            "@type": "VirtualLocation",
-            "url": locStreamUrl,
-          },
-          {
+        "location": {
             "@type": "Place",
             // "name": "San Jose Convention Center",
             "address": {
@@ -1153,7 +1166,31 @@ function generateJsonLdTournament({item, gameInfo, url}) {
             "sameAs": `https://www.google.com/maps/place/?q=place_id:${mapsPlaceId}`
             // "sameAs": "https://www.google.com/maps/place/?q=place_id:ChIJdQyNuLDMj4AR95YdatCk6F4"
           },
-        ],
+        // "location": [
+        //   {
+        //     "@type": "VirtualLocation",
+        //     "url": locStreamUrl,
+        //   },
+        //   {
+        //     "@type": "Place",
+        //     // "name": "San Jose Convention Center",
+        //     "address": {
+        //       "@type": "PostalAddress",
+        //       "streetAddress": venueAddress,
+        //       "addressLocality": city,
+        //       "addressRegion": addrState,
+        //       "postalCode": postalCode,
+        //       "addressCountry": countryCode,
+        //     },
+        //     "geo": {
+        //       "@type": "GeoCoordinates",
+        //       "latitude": lat,
+        //       "longitude": lon,
+        //     },
+        //     "sameAs": `https://www.google.com/maps/place/?q=place_id:${mapsPlaceId}`
+        //     // "sameAs": "https://www.google.com/maps/place/?q=place_id:ChIJdQyNuLDMj4AR95YdatCk6F4"
+        //   },
+        // ],
         // "performer": [
         //   {
         //     "@type": "Person",
