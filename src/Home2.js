@@ -685,6 +685,12 @@ function overrideCurrentGame(homeType, params, filterInfo) {
     case HomeTypes.SEARCH:
       const gameId = VideoGameInfoByGameSlug[gameParam].id
       filterInfo.currentGameId = gameId
+      if (filterInfo.filters == null) {
+        filterInfo.filters = {}
+      }
+      if (filterInfo.filters[gameId] == null) {
+        filterInfo.filters[gameId] = {}
+      }
     default:
   }
 }
