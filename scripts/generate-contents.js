@@ -970,8 +970,8 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
   const endedAt = item.bracketInfo.endTime ?? item.bracketInfo.endTimeDetected ?? Math.floor(Date.now()/1000)
   const duration = Math.min(endedAt-item.bracketInfo.startedAt, 60*60)
   const isoDuration = getIsoDuration(duration)
-  var contentUrl = getStreamUrl(item.streamInfo, 0, true)
-  contentUrl = null
+  // var contentUrl = getStreamUrl(item.streamInfo, 0, true)
+  // contentUrl = null
   // if (item.streamInfo.streamSource == 'TWITCH') {
   //   contentUrl = null
   // }
@@ -1126,7 +1126,7 @@ function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
     ],
     "uploadDate": `${startedAtIso}`,
     ...(endedAt && {"duration": isoDuration}),  
-    ...(contentUrl && {"contentUrl": contentUrl}),  
+    // ...(contentUrl && {"contentUrl": contentUrl}),  
     "embedUrl": embedUrl,
     "expires": expires,
     ...viewersInfo,
