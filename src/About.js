@@ -13,13 +13,13 @@ function About() {
         <div>
             <div className="about-header">
                 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+                <Helmet>
+                    <title>{title}</title>
+                    <meta name="description" content={description} />
+                    <meta name="twitter:title" content={title}/>
+                    <meta name="twitter:description" content={description}/>
+                </Helmet>
                 <div>
-                    <Helmet>
-                        <title>{title}</title>
-                        <meta name="description" content={description} />
-                        <meta name="twitter:title" content={title}/>
-                        <meta name="twitter:description" content={description}/>
-                    </Helmet>
                     <h1 className="about-heading1">About SetsOnStream</h1><br/>
                     <span className="about-body">SetsOnStream lets you watch live and recent competitive game sets for a character, tournament, channel, player, or game!</span><br/>
                     <span className="about-body">To find them use the search bar autocomplete or by clicking them on a set</span><br/>

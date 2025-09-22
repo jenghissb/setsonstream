@@ -15,7 +15,7 @@
 
 .home2App-header {
   background-color: var(--bg-main);
-  min-height: calc(100vh - 25px);
+  min-height: calc(100dvh - 25px);
   /* height: calc(100vh - 25px); */
   /* display: flex;
   flex-direction: column;
@@ -59,7 +59,10 @@
 .home2overallDiv {
   width: vw;
   overflow: hidden;
-  height: vh;
+  height: calc(100dvh - 28px);
+  overscroll-behavior-y: none;
+
+  /* height: calc(100vh); */
   /* over flow: hidden; */
 }
 .home2topContainer {
@@ -72,7 +75,7 @@
   bottom: 0;
   right: 0;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   z-index: 210;
   display: flex;
   flex-direction: column;
@@ -315,7 +318,7 @@ body {
   display: flex;
   flex-direction: row;
   /* height:1000px; */
-  height: 100vh;
+  height: calc(100dvh - 28px);
   width:100vw;
   /* overflow-y: hidden; */
 }
@@ -373,6 +376,14 @@ body {
 }
 .home2BracketFilter{
   filter: brightness(90%) invert(100%) hue-rotate(180deg);
+}
+
+.home2BracketContainerAbs{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  z-index: 30000;
+  overflow-y:hidden;
 }
 
 .home2BracketContainer{

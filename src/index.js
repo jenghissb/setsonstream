@@ -14,7 +14,7 @@ import { FeedbackModal } from "./Feedback";
 import { ThemeContext, ThemeProvider } from './ThemeContext';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-
+document.body.style.overflow = "hidden"
 root.render(
   <React.StrictMode>
     <ThemeProvider>

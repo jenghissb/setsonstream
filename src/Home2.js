@@ -1417,6 +1417,9 @@ function MainComponent({homeMode, homeType, darkMode}) {
   //   </div>
   //   </div>
   // )
+  if (hasRightPane) {
+    window.scrollTo({top: 0})
+  }
   const displayDataFilterInfo = routeFilterInfo || filterInfo
   return (
     <div className="home2overallDiv">
@@ -1452,7 +1455,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
             noData
           }
           {
-          hasRightPane && previewItem && <BracketEmbed totalWidth={centerWidth} height={240} src={previewItem.bracketInfo.phaseGroupUrl}/>
+            // TODO: add X and connect to bracket button
+            // hasRightPane && previewItem && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth}/>
           }
           {showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
             <div className="home2SubEmbedChatContainer" style={subEmbedToggle==SubEmbeds.CHAT ? {} : {display: "none"}}>
@@ -2030,7 +2034,11 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
 }
 
 
-
+function BracketEmbedAbs({src, centerWidth, sideChatWidth}) {
+  return <div className="home2BracketContainerAbs" style={{width: Math.min(centerWidth, 676), height: `400px`, right: sideChatWidth}}>
+    <BracketEmbed totalWidth={Math.min(centerWidth, 676)} height={400} src={src}/>
+  </div>
+}
 
 function BracketEmbed({totalWidth = 854, height = 480, src}) {
   // var src = "https://www.start.gg/tournament/ualr-iliad-smash-65/event/ultimate-singles/brackets/2003530/2936329"
@@ -2060,8 +2068,10 @@ function BracketEmbed({totalWidth = 854, height = 480, src}) {
       // sandbox="allow-scripts" 
       // src={src}
       src={src+`/embed`}
-      width={scaledWidth}
       height={scaledHeight+100}
+      // style={{marginTop: "-40px"}}
+      // height={scaledHeight+140}
+      width={scaledWidth}
       // style={{transform: `scale: ${scale}`}}
       // width={width}
       // height={height+100}
