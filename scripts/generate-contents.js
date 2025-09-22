@@ -628,13 +628,14 @@ async function main() {
         setId,
         charKeywordStrs,
       }}
+      const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
       const contentUrl = getStreamUrl(item.streamInfo, 0, true)
       const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
       const tourneyIconUrl = item.bracketInfo.images[0]?.url ?? null
       const setIcon = tourneyIconUrl || tourneyBackgroundUrl || OG_THUMB
       const setThumb = tourneyBackgroundUrl || tourneyIconUrl || OG_THUMB
       const ogVideoThumb = setThumb
-      const ogVideoUrl = contentUrl
+      const ogVideoUrl = embedUrl
 
       // var url = `https://setsonstream.tv/game/${gameSlug}/set/${setId}/`
       // var jsonLd = generateJsonLdSet({item, gameInfo, url})
