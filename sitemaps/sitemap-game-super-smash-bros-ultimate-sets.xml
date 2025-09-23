@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-44/set/94235414/</loc>
-  <lastmod>2025-09-23T16:43:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-44/set/94235419/</loc>
+  <lastmod>2025-09-23T17:00:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827810/image-ed6653057e7ce8d654cdcb7afeaf2e22.png
+    </video:thumbnail_loc>
+    <video:title>
+      OMS | Glitchy vs Joekel | MacVanish, BORDERLINE SMASH #44 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OMS | Glitchy vs Joekel | MacVanish in Round 2 of BORDERLINE SMASH #44, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2573821262&amp;t=0h19m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>672</video:duration>
+    <video:publication_date>2025-09-23T17:00:46.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2025-10-01T17:00:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-44/set/94235414/</loc>
+  <lastmod>2025-09-23T17:03:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2573821262&amp;t=0h2m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>655</video:duration>
+    <video:duration>963</video:duration>
     <video:publication_date>2025-09-23T16:43:35.000Z</video:publication_date>
     <video:uploader>EnviSSB</video:uploader>
     <video:expiration_date>2025-10-01T16:43:35.000Z</video:expiration_date>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-19T00:57:25.000Z</video:publication_date>
     <video:uploader>gamersgrovegg</video:uploader>
     <video:expiration_date>2025-09-27T00:57:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/black-rose-regulars-42/set/94029284/</loc>
-  <lastmod>2025-09-19T01:10:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830191/image-29db1a5a73bc88f6a10851db8accd923.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sirpo | Spin vs NaCl, Black Rose Regulars #42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sirpo | Spin vs NaCl in Winners Semi-Final of Black Rose Regulars #42, streamed by ctx_smash_bros
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569940569&amp;t=0h26m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>527</video:duration>
-    <video:publication_date>2025-09-19T00:57:07.000Z</video:publication_date>
-    <video:uploader>ctx_smash_bros</video:uploader>
-    <video:expiration_date>2025-09-27T00:57:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
