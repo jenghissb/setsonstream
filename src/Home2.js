@@ -515,6 +515,8 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
     //   sortedData = sortedData.filter((it) => it.matchesFilter)
     // }
   }
+  const {tourneyById, tourneyIds} = getDataByTourney(sortedData || [])
+  favMap.set({gameId, gameSlug, "type": "tourneys"}, tourneyIds)
   favMap.set({gameId, gameSlug}, sortedData)
   const favkeysOrdered = Array.from(favMap.keys());
   // const favkeysOrdered = Object.keys(favMap) ?? []
@@ -524,7 +526,7 @@ function getDisplayData(homeType, params, data, filterInfo, showVodsMode) {
   if (params?.setParam != null) {
     setMatch = sortedData.find(item => item.bracketInfo.setKey == params?.setParam)
   }
-  return {favMap, favkeysOrdered, favFilterMap, setMatch, routeFilterInfo, displayData:sortedData}
+  return {favMap, favkeysOrdered, favFilterMap, setMatch, routeFilterInfo, displayData:sortedData, tourneyById, tourneyIds}
 }
 
 function displayDataHasItemKey(displayData, itemKey) {
@@ -544,15 +546,18 @@ function hasDataForGame(data, gameId, showVodsMode) {
 
 function getDataByTourney(displayData) {
   var tourneyById = {}
+  var keys = new Set()
   displayData.forEach(item => {
     var arr = tourneyById[item.bracketInfo.tourneyId]
     if (arr == undefined) {
       arr = []
     }
     arr.push(item)
+    keys.add(item.bracketInfo.tourneyId)
     tourneyById[item.bracketInfo.tourneyId] = arr
   })
-  return tourneyById
+  const tourneyIds = [...keys]
+  return {tourneyById, tourneyIds}
 }
 
 function getDropdownSuggestions(data, gameId) {
@@ -996,6 +1001,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
       return `userSlug_${item?.userSlug}`
     } else if (item?.channelName) {
       return `channelName_${item?.channelName}`
+    } else if (item?.gameSlug && item?.type == "tourneys") {
+      return `gameSlug_${item?.gameSlug}_tourneys`
     } else if (item?.gameSlug) {
       return `gameSlug_${item?.gameSlug}`
     } else if (item?.charName) {
@@ -1223,6 +1230,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   if (setMatch == null && setParam != null && setParam == bootstrapInfo?.setId) {
     setMatch = bootstrapInfo.set
   }
+  const tourneyById = displayDataInfo?.tourneyById || {}
+  const tourneyIds = displayDataInfo?.tourneyIds || []
   // var displayDatas = useMemo(() => {
   //   if (loading || error) return null
   //   return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
@@ -1352,7 +1361,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   var noData = null
   var afterData = null
 
-  var tourneyById = getDataByTourney(displayData)
+  // var tourneyById = getDataByTourney(displayData)
   var wouldHaveData = hasDataForGame(data, filterInfo.currentGameId, showVodsMode)
   const sayNoMatch = wouldHaveData && setMatch == null
   const shouldShowNoData = displayData.length < 1 && setMatch == null
@@ -1491,7 +1500,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
             useHomeTypeLists && favkeysOrdered.length > 0 && favkeysOrdered.map((item, index) => {
               return <div key={getSearchItemKey(item)}>
                 {HorizontalCatHeader({favSuggestion:item, onFavorite:onSearch, gameId: currentGameId})}
-                <DataHorizontal {...{catInfo: item, items:favMap.get(item), filterInfo: favFilterMap.get(item), useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+                <DataHorizontal {...{catInfo: item, items:favMap.get(item), tourneyById, filterInfo: favFilterMap.get(item), useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
               </div>
             })
             // useHomeTypeLists && <DataItems {...{jsonData:displayData, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
@@ -1714,10 +1723,10 @@ function renderLink(jsonData, shouldShow) {
   return <a target="_blank" href={str} className="home2bigLinkHolder"><span className="home2bigLinkLabel" style={{marginRight: '2px'} }>TwitchTheater<br/><span style={{fontSize:"smaller"}}>{`🔗(${numVids})`}</span></span></a>
 }
 
-const DataHorizontal = memo(({catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
+const DataHorizontal = memo(({catInfo, items, tourneyById, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
   const showItemMatches = catInfo.gameSlug != null
   return <HorizontalVirtualList
-    {...{showItemMatches, catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
+    {...{showItemMatches, catInfo, items, tourneyById, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
   />
 })
 
@@ -2018,7 +2027,12 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
     supportsStar = true
   } else if (favSuggestion.gameId != null) {
     showGame = true
-    routeText = gameInfo?.name
+    if (favSuggestion.type == "tourneys") {
+      routeText = `${gameInfo?.displayName} - Recent Tournaments`
+    } else {
+      routeText = `${gameInfo?.displayName} - Recent Sets`
+    }
+    // routeText = gameInfo?.name
     supportsStar = false
   } else {
     

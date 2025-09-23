@@ -178,6 +178,27 @@
   word-break: break-all;
 }
 
+.drh-playlistText {
+  color: var(--text-main-color);
+  width: fit-content;
+  font-size: small;
+  position: absolute;
+  justify-self: start;
+  right: 4px;
+  top: 23px;
+  padding: 6px;
+  border-radius: 4px;
+  background:var(--bg-over-image-walpha);
+  z-index: 2;
+  text-align: center;
+  vertical-align: center;
+  justify-content: center;
+  justify-items: center;
+  display:flex;
+  flex-direction: row; 
+  align-self: flex-end;
+}
+
 
 /* .drh-viewersText {
   color: var(--text-main-color);

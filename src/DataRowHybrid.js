@@ -2,11 +2,11 @@ import './DataRowHybrid.css';
 import React, { useState, useEffect, memo, useRef, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { MediaPreview } from "./VideoEmbeds.js"
-import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp, textMatches, tourneyMatches, getChannelName, getTourneySlug, getPlayerLink, getGameUrlStr, getCharLink, getTourneyLink, getChannelLink, getItemLink} from './Utilities.js'
+import { charEmojiImagePath, schuEmojiImagePath, getLumitierIcon, getViewersTextFromItem, getStreamUrl, formatDisplayTimestamp, textMatches, tourneyMatches, getChannelName, getTourneySlug, getPlayerLink, getGameUrlStr, getCharLink, getTourneyLink, getChannelLink, getItemLink, renderPlaylistIcon} from './Utilities.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
 import { IconStartGg, IconStream } from './BrandIcons.js'
 
-export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
+export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourneySets, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
   var preview = null
   var divClass = "drh-set-row-1"
   if (selected) divClass = divClass + " drh-set-row-1-selected"
@@ -89,14 +89,17 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, filterI
   const player2Link = getPlayerLink(item.player2Info.userSlug, item.bracketInfo.gameId)
   const player1LinkElem = <Link to={player1Link} className={player1NameClass}>{item.player1Info.nameWithRomaji}</Link>
   const player2LinkElem = <Link to={player2Link} className={player2NameClass}>{item.player2Info.nameWithRomaji}</Link>
-  const tourneyLink = getTourneyLink(getTourneySlug(item.bracketInfo), item.bracketInfo.gameId)
+  const tourneySlug = getTourneySlug(item.bracketInfo)
+  const tourneyLink = getTourneyLink(tourneySlug, item.bracketInfo.gameId)
   const channelLink = getChannelLink(streamName, item.bracketInfo.gameId)
   const streamIcon = item.streamInfo.streamIcon
+  const numSets = tourneySets && tourneySets.length
+  const showNumSets = numSets && numSets > 0
   // console.log("streamIcon", item.streamInfo)
 
   // searchParams.set("set", page);
   // const newUrl = `${window.location.pathname}?${searchParams.toString()}`;
-  const itemLink = getItemLink({searchTerm: catInfo, gameId:item.bracketInfo.gameId, setKey: item.bracketInfo.setKey})
+  const itemLink = getItemLink({searchTerm: catInfo, gameId:item.bracketInfo.gameId, setKey: showNumSets? null : item.bracketInfo.setKey, tourneySlug: showNumSets? tourneySlug : null})
   const linkElemProps = {
     className: divClass,
     to: itemLink,
@@ -109,6 +112,10 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, filterI
   }
   const contentInside = <><div className="drh-tourney-icon" style={{backgroundImage: `url(${tourneyIconUrl})`, backgroundSize: "cover", backgroundPosition: "center",}} />
       <div className="drh-tourney-timestamp"><span className='drh-t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
+      {
+        // showNumSets && <div className="drh-tourney-timestamp"><span className='drh-t1-stamp'>{numSets}</span>{liveTextSpan}</div>
+        showNumSets && <span className="drh-playlistText">{renderPlaylistIcon({})}<span style={{marginLeft: "4px"}}>{numSets}</span></span>
+      }
       <div className="drh-set-row-2">
       {
         // selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})

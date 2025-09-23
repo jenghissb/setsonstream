@@ -326,17 +326,18 @@ export function getSearchLink(textSearch, gameId) {
   return `/game/${VideoGameInfoById[gameId]?.gameSlug ?? "unknown"}/search/${encodeURIComponent(textSearch)}/`
 }
 
-export function getItemLink({searchTerm, gameId, setKey}) {
+export function getItemLink({searchTerm, gameId, setKey, tourneySlug=null}) {
   let url;
   if (searchTerm && gameId) {
-    url = getLinkFromSearch(searchTerm, gameId)
+    url = getLinkFromSearch(searchTerm, gameId, tourneySlug)
   } else {
     url = window.location.pathname
   }
-  let cleanedUrl = url.replace(/\/set\/[^/]+\/?$/, '');
-  cleanedUrl = cleanedUrl.replace(/\/$/, '');
-  url = `${cleanedUrl}/set/${setKey}/`
-
+  if (setKey != null) {
+    let cleanedUrl = url.replace(/\/set\/[^/]+\/?$/, '');
+    cleanedUrl = cleanedUrl.replace(/\/$/, '');
+    url = `${cleanedUrl}/set/${setKey}/`
+  }
   if (!url.endsWith("/")) {
     url = url + "/"
   }
@@ -349,13 +350,13 @@ export function getItemLink({searchTerm, gameId, setKey}) {
   return url
 }
 
-export function getLinkFromSearch(searchTerm, gameId) {
+export function getLinkFromSearch(searchTerm, gameId, tourneySlug=null) {
   if (typeof searchTerm === "string") {
     return "/"
   } else if (searchTerm.userSlug != null) {
     return getPlayerLink(searchTerm.userSlug, gameId)
-  } else if (searchTerm.tourneySlug != null) {
-    return getTourneyLink(searchTerm.tourneySlug, gameId)
+  } else if ((searchTerm.tourneySlug || tourneySlug) != null) {
+    return getTourneyLink(searchTerm.tourneySlug || tourneySlug, gameId)
   } else if (searchTerm.channelName != null) {
     return getChannelLink(searchTerm.channelName, gameId)
   } else if (searchTerm.charName != null) {
@@ -379,4 +380,18 @@ export function renderHomeIcon({width, height}) {
 
 export function renderExpandIcon({width="24px", height="24px"}) {
   return <svg xmlns="http://www.w3.org/2000/svg" height={height} viewBox="0 -960 960 960" width="width" fill="var(--text-main-color-subdue-3"><path d="M120-120v-320h80v184l504-504H520v-80h320v320h-80v-184L256-200h184v80H120Z"/></svg>
+}
+
+export function renderPlaylistIcon({width="14px", height="14px"}) {
+  const color = "var(--text-main-color-subdue-3"
+  return <svg width={width} height={height} viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
+    <path fill={color} d="M0 0.7h4v2.6h-4v-3z"></path>
+    <path fill={color} d="M0 4.7h4v2.6h-4v-3z"></path>
+    <path fill={color} d="M0 12.7h4v2.6h-4v-3z"></path>
+    <path fill={color} d="M0 8.7h4v2.6h-4v-3z"></path>
+    <path fill={color} d="M5 0.7h11v2.6h-11v-3z"></path>
+    <path fill={color} d="M5 4.7h11v2.6h-11v-3z"></path>
+    <path fill={color} d="M5 12.7h11v2.6h-11v-3z"></path>
+    <path fill={color} d="M5 8.7h11v2.6h-11v-3z"></path>
+  </svg>
 }

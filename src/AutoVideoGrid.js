@@ -6,7 +6,7 @@ import "./Home2.css"
 
 
 export function HorizontalVirtualList({
-    showItemMatches, catInfo, items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef,
+    showItemMatches, catInfo, items, tourneyById, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef,
     itemWidth = 300, height = 300 }
 ) {
   const parentRef = useRef(null);
@@ -19,6 +19,7 @@ export function HorizontalVirtualList({
     overscan: 3,
   });
   var stylename2 = "home2set-row-3-flex-small"
+
 
   return (
     <div
@@ -40,7 +41,14 @@ export function HorizontalVirtualList({
       >
         {virtualizer.getVirtualItems().map((virtualItem) => {
           const index = virtualItem.index
-          const item = items[index]
+          var item = items[index]
+          var tourneySets = null
+          if (catInfo.type == "tourneys") {
+            const tourneyKey = items[index]
+            tourneySets = tourneyById[tourneyKey]
+            item = tourneySets[0]
+          }
+
           const itemStreamSubIndex = (itemKey == item.bracketInfo.setKey) ? streamSubIndex : 0
           return <div
             key={virtualItem.index}
@@ -60,7 +68,7 @@ export function HorizontalVirtualList({
             }}
           >
             <div key={`${item.bracketInfo.setKey}_dataRowItem`} className={stylename2} index={index}>
-              <DataRowHybrid {...{showItemMatches, catInfo, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
+              <DataRowHybrid {...{showItemMatches, catInfo, item, tourneySets, filterInfo, useVideoInList, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == item.bracketInfo.setKey, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}}/>
             </div>
           </div>
       })}
@@ -68,7 +76,6 @@ export function HorizontalVirtualList({
     </div>
   );
 }
-
 
 export function HorizontalVirtualList3({ 
     items, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef,
