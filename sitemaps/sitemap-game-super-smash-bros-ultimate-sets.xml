@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/landmark-7-maesuma-landmark-7/set/94232043/</loc>
-  <lastmod>2025-09-23T08:14:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/landmark-7-maesuma-landmark-7/set/94232044/</loc>
+  <lastmod>2025-09-23T08:27:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828029/image-71ccf2983caab86a38f2eff046652508.png
+    </video:thumbnail_loc>
+    <video:title>
+      MarK vs saboten, マエスマ&apos;LANDMARK#7 / Maesuma&apos;LANDMARK#7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MarK vs saboten in Losers Final of マエスマ&apos;LANDMARK#7 / Maesuma&apos;LANDMARK#7, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/O5fewLOMErI?start=20058s
+    </video:player_loc>
+    <video:duration>1037</video:duration>
+    <video:publication_date>2025-09-23T08:27:52.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-10-01T08:27:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/landmark-7-maesuma-landmark-7/set/94232043/</loc>
+  <lastmod>2025-09-23T08:29:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/O5fewLOMErI?start=19237s
     </video:player_loc>
-    <video:duration>373</video:duration>
+    <video:duration>816</video:duration>
     <video:publication_date>2025-09-23T08:14:11.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-10-01T08:14:11.000Z</video:expiration_date>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-19T00:54:18.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-09-27T00:54:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sigad-weekly-90-celebraci-n-de-cumplea-os/set/94030066/</loc>
-  <lastmod>2025-09-19T01:23:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830027/image-56320b4c883bb94c178636d8e7d09739.png
-    </video:thumbnail_loc>
-    <video:title>
-      ErU vs Pato, Sigad Weekly #90: Celebración de cumpleaños - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ErU vs Pato in Losers Round 1 of Sigad Weekly #90: Celebración de cumpleaños, streamed by DavoRaibu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569883356&amp;t=1h34m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1507</video:duration>
-    <video:publication_date>2025-09-19T00:52:42.000Z</video:publication_date>
-    <video:uploader>DavoRaibu</video:uploader>
-    <video:expiration_date>2025-09-27T00:52:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
