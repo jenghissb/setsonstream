@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/landmark-7-maesuma-landmark-7/set/94232044/</loc>
-  <lastmod>2025-09-23T08:27:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/landmark-7-maesuma-landmark-7/set/94232037/</loc>
+  <lastmod>2025-09-23T08:47:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828029/image-71ccf2983caab86a38f2eff046652508.png
+    </video:thumbnail_loc>
+    <video:title>
+      SOL | らき(SOL | raki) vs saboten, マエスマ&apos;LANDMARK#7 / Maesuma&apos;LANDMARK#7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SOL | らき(SOL | raki) vs saboten in Grand Final of マエスマ&apos;LANDMARK#7 / Maesuma&apos;LANDMARK#7, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/O5fewLOMErI?start=21254s
+    </video:player_loc>
+    <video:duration>487</video:duration>
+    <video:publication_date>2025-09-23T08:47:48.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-10-01T08:47:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/landmark-7-maesuma-landmark-7/set/94232044/</loc>
+  <lastmod>2025-09-23T08:51:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/O5fewLOMErI?start=20058s
     </video:player_loc>
-    <video:duration>1037</video:duration>
+    <video:duration>1191</video:duration>
     <video:publication_date>2025-09-23T08:27:52.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-10-01T08:27:52.000Z</video:expiration_date>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-19T00:55:28.000Z</video:publication_date>
     <video:uploader>Magik4FGC</video:uploader>
     <video:expiration_date>2025-09-27T00:55:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/esg-smash-ultimate-weekly-217/set/94026779/</loc>
-  <lastmod>2025-09-19T01:10:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828051/image-4e2903c78d1385f95c883cafe469a5f6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aries vs ZeldaPlayer, ESG Smash Ultimate Weekly #217 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aries vs ZeldaPlayer in Winners Semi-Final of ESG Smash Ultimate Weekly #217, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569848726&amp;t=2h21m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>610</video:duration>
-    <video:publication_date>2025-09-19T00:54:18.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2025-09-27T00:54:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
