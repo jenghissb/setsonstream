@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cmpg-210/set/94243572/</loc>
+  <lastmod>2025-09-23T22:44:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831909/image-b333130994d2cba4bdccde75071282f4.png
+    </video:thumbnail_loc>
+    <video:title>
+      luna! vs thescungman, CMPG #210 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch luna! vs thescungman in Winners Round 1 of CMPG #210, streamed by CMICH Esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/KB9HwEAIrFw?start=384s
+    </video:player_loc>
+    <video:duration>665</video:duration>
+    <video:publication_date>2025-09-23T22:32:20.000Z</video:publication_date>
+    <video:uploader>CMICH Esports</video:uploader>
+    <video:expiration_date>2025-10-01T22:32:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-198/set/94241638/</loc>
   <lastmod>2025-09-23T22:26:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-19T01:42:06.000Z</video:publication_date>
     <video:uploader>Boone_Smashes</video:uploader>
     <video:expiration_date>2025-09-27T01:42:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/training-room-thursdays-185/set/94033721/</loc>
-  <lastmod>2025-09-19T02:03:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830368/image-fd5d28ce2dcfb7a982cdad25baddca59.png
-    </video:thumbnail_loc>
-    <video:title>
-      KennyGstring vs Donnie_C, Training Room Thursdays #185 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KennyGstring vs Donnie_C in Winners Quarter-Final of Training Room Thursdays #185, streamed by Smash_NM
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569993931&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>902</video:duration>
-    <video:publication_date>2025-09-19T01:41:46.000Z</video:publication_date>
-    <video:uploader>Smash_NM</video:uploader>
-    <video:expiration_date>2025-09-27T01:41:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
