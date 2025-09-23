@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-the-elm-22/set/94220183/</loc>
-  <lastmod>2025-09-23T03:21:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/go4-melee-mondays-14-the-runback/set/94229635/</loc>
+  <lastmod>2025-09-23T03:54:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827309/image-4335ef60bded28ec20cb7cb00619349f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Phorox vs NathanSandwich, Go4 Melee Mondays #14 (THE RUNBACK) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Phorox vs NathanSandwich in Winners Quarter-Final of Go4 Melee Mondays #14 (THE RUNBACK), streamed by aigoshiro
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2573378000&amp;t=2h43m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1397</video:duration>
+    <video:publication_date>2025-09-23T03:54:50.000Z</video:publication_date>
+    <video:uploader>aigoshiro</video:uploader>
+    <video:expiration_date>2025-10-01T03:54:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-the-elm-22/set/94220183/</loc>
+  <lastmod>2025-09-23T03:53:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2573223034&amp;t=5h37m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1482</video:duration>
+    <video:duration>746</video:duration>
     <video:publication_date>2025-09-23T03:21:22.000Z</video:publication_date>
     <video:uploader>22Kteam</video:uploader>
     <video:expiration_date>2025-10-01T03:21:22.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-25/set/94229256/</loc>
-  <lastmod>2025-09-23T03:20:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-23T03:53:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2573425218&amp;t=1h3m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1556</video:duration>
+    <video:duration>1116</video:duration>
     <video:publication_date>2025-09-23T03:20:08.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2025-10-01T03:20:08.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-08-31T21:42:35.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-09-08T21:42:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/it-s-not-you-it-s-melee-29/set/93347452/</loc>
-  <lastmod>2025-08-31T22:11:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818777/image-b7c0d8835c0b4d724b4c5553cc144944.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nouns | Junebug vs GLC BUS | Juicebox, It&apos;s Not You, It&apos;s Melee #29 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nouns | Junebug vs GLC BUS | Juicebox in Winners Semi-Final of It&apos;s Not You, It&apos;s Melee #29, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2554721313&amp;t=3h58m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3073</video:duration>
-    <video:publication_date>2025-08-31T21:16:09.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2025-09-08T21:16:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
