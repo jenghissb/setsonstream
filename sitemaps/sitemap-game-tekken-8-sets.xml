@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-119/set/94253704/</loc>
-  <lastmod>2025-09-24T02:59:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-73-tekken-8/set/94258536/</loc>
+  <lastmod>2025-09-24T03:35:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831077/image-dfd739c3206d7f329815abceef1cd832.png
+    </video:thumbnail_loc>
+    <video:title>
+      MADHouse | Tundra vs Cenizen, Guildhouse Tuesday 73 - Tekken 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MADHouse | Tundra vs Cenizen in Winners Semi-Final of Guildhouse Tuesday 73 - Tekken 8, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2574295555&amp;t=0h27m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>667</video:duration>
+    <video:publication_date>2025-09-24T03:35:37.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-02T03:35:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-119/set/94253704/</loc>
+  <lastmod>2025-09-24T03:23:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2574123479&amp;t=3h36m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1380</video:duration>
+    <video:duration>618</video:duration>
     <video:publication_date>2025-09-24T02:59:05.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-02T02:59:05.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-07T00:03:22.000Z</video:publication_date>
     <video:uploader>thegdex</video:uploader>
     <video:expiration_date>2025-09-15T00:03:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/colorado-mile-high-burst-monthly-september-2025/set/93580284/</loc>
-  <lastmod>2025-09-07T00:35:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/821809/image-e49dbaad80262ca5fe3d9ab3bb8d0271.png
-    </video:thumbnail_loc>
-    <video:title>
-      Malik vs Hando, Colorado Mile High Burst Monthly September 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Malik vs Hando in Winners Quarter-Final of Colorado Mile High Burst Monthly September 2025, streamed by akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559842241&amp;t=5h12m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>580</video:duration>
-    <video:publication_date>2025-09-07T00:01:55.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade</video:uploader>
-    <video:expiration_date>2025-09-15T00:01:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
