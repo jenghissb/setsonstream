@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-207-donsharknado-207-enough-said/set/94251319/</loc>
+  <lastmod>2025-09-24T03:13:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831993/image-7c62c30217205ca3c2f16c3a52c65929.png
+    </video:thumbnail_loc>
+    <video:title>
+      QUIZNOS | Zeal vs The Star Fox | phauzie, CFG Tuesday Trials 207: Donsharknado 207, Enough Said! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch QUIZNOS | Zeal vs The Star Fox | phauzie in Losers Quarter-Final of CFG Tuesday Trials 207: Donsharknado 207, Enough Said!, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2574082106&amp;t=4h12m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>853</video:duration>
+    <video:publication_date>2025-09-24T02:41:53.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2025-10-02T02:41:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-207-donsharknado-207-enough-said/set/94251289/</loc>
-  <lastmod>2025-09-24T02:33:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-24T02:54:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2574082106&amp;t=4h3m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>341</video:duration>
+    <video:duration>505</video:duration>
     <video:publication_date>2025-09-24T02:33:22.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-10-02T02:33:22.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-06T19:17:19.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-09-14T19:17:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tlf-birthday-bash/set/93552819/</loc>
-  <lastmod>2025-09-06T19:22:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Severity vs Woof | Daderr, TLF Birthday Bash - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Severity vs Woof | Daderr in Winners Quarter-Final of TLF Birthday Bash, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559830601&amp;t=0h20m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>629</video:duration>
-    <video:publication_date>2025-09-06T18:55:30.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2025-09-14T18:55:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
