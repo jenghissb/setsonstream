@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-7/set/94266979/</loc>
+  <lastmod>2025-09-24T21:36:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      SP | Red vs Aporeo, VantagePoint 7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SP | Red vs Aporeo in Grand Final of VantagePoint 7, streamed by smashpointseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2574699123&amp;t=3h51m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>366</video:duration>
+    <video:publication_date>2025-09-24T21:27:17.000Z</video:publication_date>
+    <video:uploader>smashpointseries</video:uploader>
+    <video:expiration_date>2025-10-02T21:27:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-109/set/94265745/</loc>
-  <lastmod>2025-09-24T21:11:07.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-24T21:36:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2574765478&amp;t=2h12m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1037</video:duration>
+    <video:duration>1428</video:duration>
     <video:publication_date>2025-09-24T21:11:07.000Z</video:publication_date>
     <video:uploader>asso_grab</video:uploader>
     <video:expiration_date>2025-10-02T21:11:07.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-rave-99-3-guess-we-doin-green-now/set/94267601/</loc>
-  <lastmod>2025-09-24T21:07:00.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-24T21:28:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2574862164&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1284</video:duration>
+    <video:duration>1110</video:duration>
     <video:publication_date>2025-09-24T21:07:00.000Z</video:publication_date>
     <video:uploader>tu_gameroom</video:uploader>
     <video:expiration_date>2025-10-02T21:07:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-7/set/94266979/</loc>
-  <lastmod>2025-09-24T21:26:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      SP | Red vs Aporeo, VantagePoint 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SP | Red vs Aporeo in Grand Final of VantagePoint 7, streamed by smashpointseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574699123&amp;t=3h42m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>441</video:duration>
-    <video:publication_date>2025-09-24T21:18:48.000Z</video:publication_date>
-    <video:uploader>smashpointseries</video:uploader>
-    <video:expiration_date>2025-10-02T21:18:48.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
