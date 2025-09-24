@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-71/set/94259607/</loc>
+  <lastmod>2025-09-24T08:05:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832020/image-1d5f975495a68f1fd158813dda663ff3.png
+    </video:thumbnail_loc>
+    <video:title>
+      SNEED | THE RAT vs nzk | nzk, Pincadia Pummel 71 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SNEED | THE RAT vs nzk | nzk in Winners Round 1 of Pincadia Pummel 71, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/j9e84PVqNPI?start=439s
+    </video:player_loc>
+    <video:duration>945</video:duration>
+    <video:publication_date>2025-09-24T08:05:14.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2025-10-02T08:05:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-162-sharks-sweaters/set/94259261/</loc>
   <lastmod>2025-09-24T07:08:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-19T19:20:59.000Z</video:publication_date>
     <video:uploader>rocalys_esport</video:uploader>
     <video:expiration_date>2025-09-27T19:20:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/newgate-33/set/94048246/</loc>
-  <lastmod>2025-09-19T19:36:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829133/image-3405696945a4b6fa250f8f3601d22b1d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      EDC | Astral vs SBF | Petit CON irrespectueux, NewGate #33 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDC | Astral vs SBF | Petit CON irrespectueux in Winners Semi-Final of NewGate #33, streamed by asso_grab
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570490411&amp;t=1h18m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>877</video:duration>
-    <video:publication_date>2025-09-19T19:19:54.000Z</video:publication_date>
-    <video:uploader>asso_grab</video:uploader>
-    <video:expiration_date>2025-09-27T19:19:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
