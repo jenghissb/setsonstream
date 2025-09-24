@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-71/set/94260355/</loc>
+  <lastmod>2025-09-24T10:01:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832020/image-1d5f975495a68f1fd158813dda663ff3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Metalotl vs blorph, Pincadia Pummel 71 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Metalotl vs blorph in Losers Quarter-Final of Pincadia Pummel 71, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/HTx-qUIodEs?start=0s
+    </video:player_loc>
+    <video:duration>631</video:duration>
+    <video:publication_date>2025-09-24T09:48:19.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2025-10-02T09:48:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-71/set/94259632/</loc>
   <lastmod>2025-09-24T09:03:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-19T19:27:35.000Z</video:publication_date>
     <video:uploader>murcielago_ssbu</video:uploader>
     <video:expiration_date>2025-09-27T19:27:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/minish-x-1/set/94047601/</loc>
-  <lastmod>2025-09-19T19:46:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828568/image-73e3ca7c2ca602d174a20690617ea73b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Mister Pepouz vs ADC | Cibowg, MINISH X-1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mister Pepouz vs ADC | Cibowg in Winners Round 2 of MINISH X-1, streamed by supervachebros
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570480232&amp;t=1h35m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>828</video:duration>
-    <video:publication_date>2025-09-19T19:25:55.000Z</video:publication_date>
-    <video:uploader>supervachebros</video:uploader>
-    <video:expiration_date>2025-09-27T19:25:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
