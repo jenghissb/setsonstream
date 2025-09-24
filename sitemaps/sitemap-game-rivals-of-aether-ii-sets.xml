@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-232/set/94271472/</loc>
+  <lastmod>2025-09-24T23:15:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831582/image-a42dcf6b8ec03de20285b3b11786bd60.png
+    </video:thumbnail_loc>
+    <video:title>
+      JewChainz vs WF | CursiveShark, Wonderfly Weekly #232 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JewChainz vs WF | CursiveShark in Winners Round 1 of Wonderfly Weekly #232, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2574946742&amp;t=0h7m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>768</video:duration>
+    <video:publication_date>2025-09-24T23:15:31.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2025-10-02T23:15:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-tree-house-86/set/94226231/</loc>
   <lastmod>2025-09-23T03:07:51.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-07T17:44:20.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2025-09-15T17:44:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/riptide-2025-4/set/93617721/</loc>
-  <lastmod>2025-09-07T17:49:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/744261/image-af9a0b5d9355aa1dcbea5654cf106e2a.jpg?ehk=UigPL5kmpXUE6j20nDzSuTeS9VKatCy%2By1VkguRRz8s%3D&amp;ehkOptimized=AVsIYCgRlefVEkIv%2FgaDR4Iu7MKUb45zeQmuTKqaj40%3D
-    </video:thumbnail_loc>
-    <video:title>
-      CakeAssault vs BOIKO | Stango, Riptide 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CakeAssault vs BOIKO | Stango in Losers Semi-Final of Riptide 2025, streamed by btssmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560563862&amp;t=2h21m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1002</video:duration>
-    <video:publication_date>2025-09-07T17:24:25.000Z</video:publication_date>
-    <video:uploader>btssmash</video:uploader>
-    <video:expiration_date>2025-09-15T17:24:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
