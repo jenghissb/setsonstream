@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286447/</loc>
-  <lastmod>2025-09-25T04:20:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286449/</loc>
+  <lastmod>2025-09-25T04:47:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831078/image-c7069451e3d9ecc83a7b2f1e13726f39.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Aubfox vs FROG | Squid!, Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aubfox vs FROG | Squid! in Losers Final of Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2575116200&amp;t=1h58m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>238</video:duration>
+    <video:publication_date>2025-09-25T04:47:30.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-03T04:47:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286447/</loc>
+  <lastmod>2025-09-25T04:49:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2575116200&amp;t=1h31m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1302</video:duration>
+    <video:duration>752</video:duration>
     <video:publication_date>2025-09-25T04:20:34.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-03T04:20:34.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-06T23:21:13.000Z</video:publication_date>
     <video:uploader>tentaaaa_</video:uploader>
     <video:expiration_date>2025-09-14T23:21:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/colorado-mile-high-burst-monthly-september-2025/set/93567712/</loc>
-  <lastmod>2025-09-06T23:11:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/821809/image-e49dbaad80262ca5fe3d9ab3bb8d0271.png
-    </video:thumbnail_loc>
-    <video:title>
-      PEMDAS | Hatsu vs Re: | willy_wikerson, Colorado Mile High Burst Monthly September 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PEMDAS | Hatsu vs Re: | willy_wikerson in Winners Semi-Final of Colorado Mile High Burst Monthly September 2025, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559839101&amp;t=3h53m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>658</video:duration>
-    <video:publication_date>2025-09-06T22:38:49.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2025-09-14T22:38:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
