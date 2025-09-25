@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-2-soup-time/set/94273243/</loc>
+  <lastmod>2025-09-25T03:09:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831875/image-b98b784448ff0b0c9e0a242ea5ccddc6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      zoist | Ampp vs Andy Chung, UW Melee Weekly (Fall &apos;25) #2 - soup time - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch zoist | Ampp vs Andy Chung in Grand Final Reset of UW Melee Weekly (Fall &apos;25) #2 - soup time, streamed by uwsmashclub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2574924817&amp;t=3h54m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>972</video:duration>
+    <video:publication_date>2025-09-25T02:35:31.000Z</video:publication_date>
+    <video:uploader>uwsmashclub</video:uploader>
+    <video:expiration_date>2025-10-03T02:35:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-2-soup-time/set/94273305/</loc>
-  <lastmod>2025-09-25T02:06:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-25T02:45:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2574924817&amp;t=3h25m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2053</video:duration>
+    <video:duration>1037</video:duration>
     <video:publication_date>2025-09-25T02:06:28.000Z</video:publication_date>
     <video:uploader>uwsmashclub</video:uploader>
     <video:expiration_date>2025-10-03T02:06:28.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-9-24-25/set/94273321/</loc>
-  <lastmod>2025-09-25T01:59:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-25T02:45:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2574956735&amp;t=2h38m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2451</video:duration>
+    <video:duration>1718</video:duration>
     <video:publication_date>2025-09-25T01:59:50.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2025-10-03T01:59:50.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-03T03:26:19.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-09-11T03:26:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-109/set/93417068/</loc>
-  <lastmod>2025-09-03T03:12:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822919/image-407978b00c591a0cda18dde3b2281324.png
-    </video:thumbnail_loc>
-    <video:title>
-      HOLE | LarsBars vs Rex, Melee @ Abbey Tavern #109 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HOLE | LarsBars vs Rex in Winners Round 1 of Melee @ Abbey Tavern #109, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2556820419&amp;t=0h10m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>760</video:duration>
-    <video:publication_date>2025-09-03T02:42:27.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-09-11T02:42:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

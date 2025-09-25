@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286413/</loc>
+  <lastmod>2025-09-25T03:08:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831078/image-c7069451e3d9ecc83a7b2f1e13726f39.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FROG | Squid! vs ikushisu, Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FROG | Squid! vs ikushisu in Winners Quarter-Final of Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2575116200&amp;t=0h19m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>989</video:duration>
+    <video:publication_date>2025-09-25T03:08:19.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-03T03:08:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showdown-66/set/94279252/</loc>
   <lastmod>2025-09-25T02:23:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-06T20:26:06.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-09-14T20:26:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tlf-birthday-bash/set/93552854/</loc>
-  <lastmod>2025-09-06T20:35:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gamegenie222 vs Severity, TLF Birthday Bash - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gamegenie222 vs Severity in Losers Semi-Final of TLF Birthday Bash, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559830601&amp;t=1h34m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>392</video:duration>
-    <video:publication_date>2025-09-06T20:09:31.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2025-09-14T20:09:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
