@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-351-1/set/94299600/</loc>
+  <lastmod>2025-09-25T23:15:09.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833505/image-1da281c7300a66feb0e254372b010091.png
+    </video:thumbnail_loc>
+    <video:title>
+      SC | Solanum vs Nuss, Salt Water Smash 351 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SC | Solanum vs Nuss in Winners Semi-Final of Salt Water Smash 351, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2575704360&amp;t=1h34m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>782</video:duration>
+    <video:publication_date>2025-09-25T23:15:09.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2025-10-03T23:15:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-351-1/set/94299757/</loc>
   <lastmod>2025-09-25T23:03:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-03T05:29:38.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-09-11T05:29:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-109/set/93418621/</loc>
-  <lastmod>2025-09-03T05:35:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822919/image-407978b00c591a0cda18dde3b2281324.png
-    </video:thumbnail_loc>
-    <video:title>
-      Iron vs Snap, Melee @ Abbey Tavern #109 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Iron vs Snap in Winners Semi-Final of Melee @ Abbey Tavern #109, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2556820419&amp;t=2h44m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>518</video:duration>
-    <video:publication_date>2025-09-03T05:16:34.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-09-11T05:16:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
