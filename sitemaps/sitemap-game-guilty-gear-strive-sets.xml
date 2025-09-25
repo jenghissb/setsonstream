@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286413/</loc>
-  <lastmod>2025-09-25T03:08:19.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286414/</loc>
+  <lastmod>2025-09-25T03:26:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831078/image-c7069451e3d9ecc83a7b2f1e13726f39.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PPL2 | Phisheyy vs Aubfox, Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PPL2 | Phisheyy vs Aubfox in Winners Quarter-Final of Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2575116200&amp;t=0h37m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1326</video:duration>
+    <video:publication_date>2025-09-25T03:26:10.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-03T03:26:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286413/</loc>
+  <lastmod>2025-09-25T03:34:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2575116200&amp;t=0h19m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>989</video:duration>
+    <video:duration>615</video:duration>
     <video:publication_date>2025-09-25T03:08:19.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-03T03:08:19.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-06T22:12:02.000Z</video:publication_date>
     <video:uploader>thegdex</video:uploader>
     <video:expiration_date>2025-09-14T22:12:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tlf-birthday-bash/set/93552824/</loc>
-  <lastmod>2025-09-06T20:54:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      SwimCheesy vs Gamegenie222, TLF Birthday Bash - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SwimCheesy vs Gamegenie222 in Grand Final of TLF Birthday Bash, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559830601&amp;t=1h51m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>670</video:duration>
-    <video:publication_date>2025-09-06T20:26:06.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2025-09-14T20:26:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
