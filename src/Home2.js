@@ -581,8 +581,9 @@ function getDropdownSuggestions(data, gameId) {
     var {tourneyName, locationStrWithRomaji } = set.bracketInfo
     const tourneySlug = getTourneySlug(set.bracketInfo)
     const tourneyIcon = set.bracketInfo.images[0]?.url ?? null
+    const shortSlug = set.bracketInfo.shortSlug
     if (tourneySlug != null) {
-      tourneysMap[tourneySlug] = { tourneyName, tourneySlug, locationStrWithRomaji, tourneyIcon }
+      tourneysMap[tourneySlug] = { tourneyName, tourneySlug, shortSlug, locationStrWithRomaji, tourneyIcon }
     }
   })
   const streamsMap = {}
@@ -958,6 +959,14 @@ function MainComponent({homeMode, homeType, darkMode}) {
     } else if (searchTerm.channelName != null) {
       if (searches?.some(searchItem => 
         searchTerm.channelName == searchItem.channelName)
+      ) {
+        removeSearchTerm(searchTerm)
+      } else {
+        addSearchTerm(searchTerm)
+      }
+    } else if (searchTerm.shortSlug != null) {
+      if (searches?.some(searchItem => 
+        searchTerm.shortSlug == searchItem.shortSlug)
       ) {
         removeSearchTerm(searchTerm)
       } else {
@@ -1360,7 +1369,6 @@ function MainComponent({homeMode, homeType, darkMode}) {
   }
   var noData = null
   var afterData = null
-
   // var tourneyById = getDataByTourney(displayData)
   var wouldHaveData = hasDataForGame(data, filterInfo.currentGameId, showVodsMode)
   const sayNoMatch = wouldHaveData && setMatch == null
@@ -1867,7 +1875,8 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       routeText = (routeInfo?.tourneyName || favSuggestion?.tourneyName || bootstrapInfo?.tourneyName) ?? tourneyParam
       title = `${routeText} - Sets on Stream`
       description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${routeText}`
-      supportsStar = false
+      const shortSlug = routeInfo?.shortSlug || favSuggestion?.shortSlug || bootstrapInfo?.shortSlug
+      supportsStar = shortSlug != null && shortSlug.length > 0
       keywords = `${routeInfo?.tourneyName}, ${tourneyParam}, ${routeInfo?.tourneySlug}, ${keywords}`
       break;
     case HomeTypes.CHANNEL:
@@ -2015,7 +2024,8 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
     iconSrc = favSuggestion?.tourneyIcon
     iconClass = "home2RouteTourneyIcon"
     routeText = favSuggestion?.tourneyName ?? "tourney"
-    supportsStar = false
+    const shortSlug = favSuggestion?.shortSlug
+    supportsStar = shortSlug != null && shortSlug.length > 0
   } else if (favSuggestion.channelName != null) {
     iconSrc = favSuggestion?.streamIcon
     iconClass = "home2RouteChannelIcon"
