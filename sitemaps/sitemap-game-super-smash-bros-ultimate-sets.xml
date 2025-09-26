@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-the-vault-xii/set/94320168/</loc>
-  <lastmod>2025-09-26T05:55:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-26T06:42:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,36 +16,12 @@
       Watch ShiNe vs Yikes! | BYS | DNG in Winners Semi-Final of Smash @ The Vault XII, streamed by jelesport
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=jelesport&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2576031951&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1617</video:duration>
+    <video:duration>2689</video:duration>
     <video:publication_date>2025-09-26T05:55:51.000Z</video:publication_date>
     <video:uploader>jelesport</video:uploader>
     <video:expiration_date>2025-10-04T05:55:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/darkst0rm-saga-summer-fox-fall-off-3-double-xp/set/94317066/</loc>
-  <lastmod>2025-09-26T04:34:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831574/image-94678c55574f6b3cf737fd6c320958d3.png
-    </video:thumbnail_loc>
-    <video:title>
-      MWA | umanz vs TNP | SirajBP, Darkst0rm Saga | Summer Fox Fall-Off 🥀 #3 (Double XP) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MWA | umanz vs TNP | SirajBP in Grand Final of Darkst0rm Saga | Summer Fox Fall-Off 🥀 #3 (Double XP), streamed by MNCSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=MNCSmash&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-09-26T04:34:03.000Z</video:publication_date>
-    <video:uploader>MNCSmash</video:uploader>
-    <video:expiration_date>2025-10-04T04:34:03.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -430,6 +406,30 @@
     <video:publication_date>2025-09-26T04:37:06.000Z</video:publication_date>
     <video:uploader>MindPlayMP</video:uploader>
     <video:expiration_date>2025-10-04T04:37:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/darkst0rm-saga-summer-fox-fall-off-3-double-xp/set/94317066/</loc>
+  <lastmod>2025-09-26T06:34:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831574/image-94678c55574f6b3cf737fd6c320958d3.png
+    </video:thumbnail_loc>
+    <video:title>
+      MWA | umanz vs TNP | SirajBP, Darkst0rm Saga | Summer Fox Fall-Off 🥀 #3 (Double XP) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MWA | umanz vs TNP | SirajBP in Grand Final of Darkst0rm Saga | Summer Fox Fall-Off 🥀 #3 (Double XP), streamed by MNCSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2575923414&amp;t=2h2m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-09-26T04:34:03.000Z</video:publication_date>
+    <video:uploader>MNCSmash</video:uploader>
+    <video:expiration_date>2025-10-04T04:34:03.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
