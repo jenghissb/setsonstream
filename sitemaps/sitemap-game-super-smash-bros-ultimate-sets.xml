@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320634/</loc>
-  <lastmod>2025-09-26T11:01:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320679/</loc>
+  <lastmod>2025-09-26T11:13:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825358/image-42d1faec3fc9ecb4b74671aef8d8bce4.png
+    </video:thumbnail_loc>
+    <video:title>
+      ロッキー(rokkii) vs ぬこすけ(nukosuke), Smash薬院#105 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ロッキー(rokkii) vs ぬこすけ(nukosuke) in Winners Semi-Final of Smash薬院#105, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/xqs0Iplfcvc?start=2260s
+    </video:player_loc>
+    <video:duration>826</video:duration>
+    <video:publication_date>2025-09-26T11:13:12.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-10-04T11:13:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320634/</loc>
+  <lastmod>2025-09-26T11:14:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/xqs0Iplfcvc?start=1543s
     </video:player_loc>
-    <video:duration>701</video:duration>
+    <video:duration>700</video:duration>
     <video:publication_date>2025-09-26T11:01:15.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2025-10-04T11:01:15.000Z</video:expiration_date>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-20T19:21:17.000Z</video:publication_date>
     <video:uploader>mason_esports</video:uploader>
     <video:expiration_date>2025-09-28T19:21:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/freeze-frame-5-2/set/94123445/</loc>
-  <lastmod>2025-09-20T19:28:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/812206/image-bb20e72355916b58eaefa1a0d9ffaf6e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Octavia vs EWA | Nerminator, Freeze Frame #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Octavia vs EWA | Nerminator in Winners Quarter-Final of Freeze Frame #5, streamed by LilacCitySmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571395333&amp;t=1h7m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>576</video:duration>
-    <video:publication_date>2025-09-20T19:16:34.000Z</video:publication_date>
-    <video:uploader>LilacCitySmash</video:uploader>
-    <video:expiration_date>2025-09-28T19:16:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
