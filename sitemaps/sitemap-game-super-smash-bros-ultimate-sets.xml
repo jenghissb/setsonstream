@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320681/</loc>
-  <lastmod>2025-09-26T11:47:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320696/</loc>
+  <lastmod>2025-09-26T12:16:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825358/image-42d1faec3fc9ecb4b74671aef8d8bce4.png
+    </video:thumbnail_loc>
+    <video:title>
+      たに(tani) vs Peric, Smash薬院#105 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch たに(tani) vs Peric in Losers Semi-Final of Smash薬院#105, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/xqs0Iplfcvc?start=6034s
+    </video:player_loc>
+    <video:duration>886</video:duration>
+    <video:publication_date>2025-09-26T12:16:06.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-10-04T12:16:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320681/</loc>
+  <lastmod>2025-09-26T12:04:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/xqs0Iplfcvc?start=4343s
     </video:player_loc>
-    <video:duration>120</video:duration>
+    <video:duration>893</video:duration>
     <video:publication_date>2025-09-26T11:47:55.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2025-10-04T11:47:55.000Z</video:expiration_date>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-20T19:26:31.000Z</video:publication_date>
     <video:uploader>LilacCitySmash</video:uploader>
     <video:expiration_date>2025-09-28T19:26:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/blue-devil-smash-mil-lan-ium/set/94121178/</loc>
-  <lastmod>2025-09-20T19:46:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827665/image-8a845987a865b5e6a9fbfd643f2ec75e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Quiz vs FAHS | Biggy Stretch, Blue Devil Smash @ Mil-LAN-ium - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Quiz vs FAHS | Biggy Stretch in Losers Round 2 of Blue Devil Smash @ Mil-LAN-ium, streamed by bluedevilsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571387925&amp;t=1h24m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>691</video:duration>
-    <video:publication_date>2025-09-20T19:25:16.000Z</video:publication_date>
-    <video:uploader>bluedevilsmash</video:uploader>
-    <video:expiration_date>2025-09-28T19:25:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
