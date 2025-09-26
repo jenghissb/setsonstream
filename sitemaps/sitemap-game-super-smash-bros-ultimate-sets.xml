@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320679/</loc>
-  <lastmod>2025-09-26T11:13:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320680/</loc>
+  <lastmod>2025-09-26T11:30:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825358/image-42d1faec3fc9ecb4b74671aef8d8bce4.png
+    </video:thumbnail_loc>
+    <video:title>
+      たに(tani) vs ゆとり(yutori), Smash薬院#105 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch たに(tani) vs ゆとり(yutori) in Winners Semi-Final of Smash薬院#105, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/xqs0Iplfcvc?start=3315s
+    </video:player_loc>
+    <video:duration>389</video:duration>
+    <video:publication_date>2025-09-26T11:30:47.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-10-04T11:30:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-105-1/set/94320679/</loc>
+  <lastmod>2025-09-26T11:34:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/xqs0Iplfcvc?start=2260s
     </video:player_loc>
-    <video:duration>826</video:duration>
+    <video:duration>1047</video:duration>
     <video:publication_date>2025-09-26T11:13:12.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2025-10-04T11:13:12.000Z</video:expiration_date>
@@ -47974,30 +47998,6 @@
     <video:publication_date>2025-09-20T19:21:20.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2025-09-28T19:21:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bring-more-setups-gamemason/set/94112000/</loc>
-  <lastmod>2025-09-20T19:46:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827941/image-95019efbd5904fc0404b412985f195e1.png
-    </video:thumbnail_loc>
-    <video:title>
-      GMU//SMFN | Trile &amp; Error vs Willy, Bring More Setups @ Gamemason - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GMU//SMFN | Trile &amp; Error vs Willy in Winners Semi-Final of Bring More Setups @ Gamemason, streamed by mason_esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571320423&amp;t=2h44m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>883</video:duration>
-    <video:publication_date>2025-09-20T19:21:17.000Z</video:publication_date>
-    <video:uploader>mason_esports</video:uploader>
-    <video:expiration_date>2025-09-28T19:21:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
