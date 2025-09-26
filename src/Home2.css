@@ -345,7 +345,7 @@ body {
   flex-direction: row;
   flex: 1;
   max-width: 100%;
-  max-height: calc(100% - 240px);
+  max-height: max(calc(100% - 212px), 200px);
   /* height:600px; */
   aspect-ratio: 16 / 9;
   display: flex;

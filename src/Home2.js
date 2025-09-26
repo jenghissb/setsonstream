@@ -779,6 +779,18 @@ function MainComponent({homeMode, homeType, darkMode}) {
     useVideoIn.panel = false
     useVideoIn.list = true
   }
+  var displayConfig = {
+    // noRightPane: false,
+    noDisplayData: false,
+    // noMap: false,
+  }
+  if (params.setParam != null && currentGameId === "43868") {
+    displayConfig = {
+      // noRightPane: true,
+      noDisplayData: true,
+      // noMap: true,
+    }
+  }
   const handleIndexChange = () => {}
   // const handleIndexChange = useCallback((newSetKey, catInfo) => {
   //   if (currentItemKeyRef.current != newSetKey) {
@@ -1267,6 +1279,9 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const showSearchWithRoute = notLowWidth
   const showSubEmbed = !notLowWidth && !useHomeTypeLists
   const titleStyle = hasRightPane ? {zIndex:30004} : {position: "sticky", top: 0, zIndex:30004, background: "var(--bg-main)"}
+  if (!showSearchWithRoute) {
+    titleStyle.paddingTop = "8px"
+  }
   // const hasRightPane = false
   // if (hasRightPane) chatWidth = 310
   if (!hasRightPane) {
@@ -1394,7 +1409,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // const previewScale = window.scrollY
   const previewStyle = notLowWidth ? 
      {position: "sticky", top: useHomeTypeLists? "48px" : "0px", zIndex:30000, alignSelf: "center"}
-   : {position: "sticky", top: "78px", zIndex:30000, alignSelf: "center"}
+   : {position: "sticky", top: "86px", zIndex:30000, alignSelf: "center"}
   if (useHomeTypeLists) {
     // previewStyle.height = "38%"
     // previewStyle.width = "min(max(30%, 180px), 500px)"
@@ -1481,7 +1496,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
             // TODO: add X and connect to bracket button
             // hasRightPane && previewItem && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth}/>
           }
-          {showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
+          {!displayConfig.noDisplayData && showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
             <div className="home2SubEmbedChatContainer" style={subEmbedToggle==SubEmbeds.CHAT ? {} : {display: "none"}}>
               {
                 chat
@@ -1501,7 +1516,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
             </div>
           </div>}
           { 
-            !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+            !displayConfig.noDisplayData && !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
             // !hasRightPane && renderData(displayData, filterInfo, useVideoIn, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef)
           }
           { 
@@ -1515,7 +1530,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
 
         </div>
-        { hasRightPane && <div className="home2rightPane" ref={rightPane}>
+        { !displayConfig.noDisplayData && hasRightPane && <div className="home2rightPane" ref={rightPane}>
           {
             hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
           }
