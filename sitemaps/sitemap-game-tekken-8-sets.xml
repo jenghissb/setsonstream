@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/roundhouse-2025/set/94380993/</loc>
+  <lastmod>2025-09-27T17:12:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/787163/image-c36303b3dba31903a6ee1b7fee35fe11.png
+    </video:thumbnail_loc>
+    <video:title>
+      Echo vs AQUA | Disciple, Roundhouse 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Echo vs AQUA | Disciple in Winners Semi-Final of Roundhouse 2025, streamed by lowkickesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577169757&amp;t=1h23m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>875</video:duration>
+    <video:publication_date>2025-09-27T17:12:34.000Z</video:publication_date>
+    <video:uploader>lowkickesports</video:uploader>
+    <video:expiration_date>2025-10-05T17:12:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/roundhouse-2025/set/94380985/</loc>
   <lastmod>2025-09-27T16:54:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-07T02:39:04.000Z</video:publication_date>
     <video:uploader>game_realms</video:uploader>
     <video:expiration_date>2025-09-15T02:39:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-marvel-tokon-beta-tournament-1-x-tekken-8-saturday-bi-weekly-36/set/93587375/</loc>
-  <lastmod>2025-09-07T02:58:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825193/image-fe4fff083a4e402fa5c9abab031d56f1.png
-    </video:thumbnail_loc>
-    <video:title>
-      IDK | Blank vs Neon Dreams | Quizikcal, Neon Dreams Marvel TOKON Beta Tournament #1 x TEKKEN 8 Saturday Bi-Weekly #36 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch IDK | Blank vs Neon Dreams | Quizikcal in Losers Quarter-Final of Neon Dreams Marvel TOKON Beta Tournament #1 x TEKKEN 8 Saturday Bi-Weekly #36, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560096681&amp;t=2h13m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>471</video:duration>
-    <video:publication_date>2025-09-07T02:32:28.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-09-15T02:32:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
