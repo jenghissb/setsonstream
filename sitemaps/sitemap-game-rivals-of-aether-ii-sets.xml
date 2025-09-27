@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/for-the-community-beta-test/set/94399558/</loc>
-  <lastmod>2025-09-27T20:15:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-4-regional-event/set/94403584/</loc>
+  <lastmod>2025-09-27T20:54:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813780/image-3f1f6f7c12e3190b7edb7e6e9b3f438e.png
+    </video:thumbnail_loc>
+    <video:title>
+      .wav | Arcos vs Christopher Rodriguez, Rivals Uncaged #4 - Regional Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch .wav | Arcos vs Christopher Rodriguez in Round 6 of Rivals Uncaged #4 - Regional Event, streamed by bros_calamity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577318057&amp;t=2h19m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1107</video:duration>
+    <video:publication_date>2025-09-27T20:54:14.000Z</video:publication_date>
+    <video:uploader>bros_calamity</video:uploader>
+    <video:expiration_date>2025-10-05T20:54:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/for-the-community-beta-test/set/94399593/</loc>
+  <lastmod>2025-09-27T21:04:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +34,24 @@
       https://images.start.gg/images/tournament/829977/image-17b7a432d27222b2fa7503bc80554753.jpg
     </video:thumbnail_loc>
     <video:title>
-      Ziggy vs X-Raven, For The Community - Beta Test - Sets on Stream
+      Red Roc | Penjib vs MAYA | Toddly Enough, For The Community - Beta Test - Sets on Stream
     </video:title>
     <video:description>
-      Watch Ziggy vs X-Raven in Round 3 of For The Community - Beta Test, streamed by seatac_rivals
+      Watch Red Roc | Penjib vs MAYA | Toddly Enough in Round 3 of For The Community - Beta Test, streamed by seatac_rivals
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577350258&amp;t=1h6m24s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2577350258&amp;t=1h54m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2037</video:duration>
-    <video:publication_date>2025-09-27T20:15:49.000Z</video:publication_date>
+    <video:duration>521</video:duration>
+    <video:publication_date>2025-09-27T21:04:00.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
-    <video:expiration_date>2025-10-05T20:15:49.000Z</video:expiration_date>
+    <video:expiration_date>2025-10-05T21:04:00.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ring-of-valor-9-a-new-school-year/set/94395987/</loc>
-  <lastmod>2025-09-27T20:34:39.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-27T21:05:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577336814&amp;t=1h38m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>907</video:duration>
+    <video:duration>509</video:duration>
     <video:publication_date>2025-09-27T20:34:39.000Z</video:publication_date>
     <video:uploader>dunkdojogaming</video:uploader>
     <video:expiration_date>2025-10-05T20:34:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/for-the-community-beta-test/set/94399558/</loc>
+  <lastmod>2025-09-27T21:05:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829977/image-17b7a432d27222b2fa7503bc80554753.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Ziggy vs X-Raven, For The Community - Beta Test - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ziggy vs X-Raven in Round 3 of For The Community - Beta Test, streamed by seatac_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577350258&amp;t=1h6m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1373</video:duration>
+    <video:publication_date>2025-09-27T20:15:49.000Z</video:publication_date>
+    <video:uploader>seatac_rivals</video:uploader>
+    <video:expiration_date>2025-10-05T20:15:49.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4750,54 +4798,6 @@
     <video:publication_date>2025-09-12T02:02:39.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2025-09-20T02:02:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/solarpowered-8-1/set/93758753/</loc>
-  <lastmod>2025-09-12T02:31:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827588/image-2d6a9ce32c36505fa56cef91a55a1d3b.png
-    </video:thumbnail_loc>
-    <video:title>
-      nines vs BUM | Shnoopy, SOLARPOWERED #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch nines vs BUM | Shnoopy in Losers Semi-Final of SOLARPOWERED #8, streamed by solarpoweredntx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2564215842&amp;t=0h50m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1342</video:duration>
-    <video:publication_date>2025-09-12T01:55:11.000Z</video:publication_date>
-    <video:uploader>solarpoweredntx</video:uploader>
-    <video:expiration_date>2025-09-20T01:55:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-39/set/93760246/</loc>
-  <lastmod>2025-09-12T02:31:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828005/image-569520fb5a74603026028598f0ab06f9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Eyeris vs The Cheat, Wasteland Warriors #39 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Eyeris vs The Cheat in Winners Round 1 of Wasteland Warriors #39, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2564237197&amp;t=0h20m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>803</video:duration>
-    <video:publication_date>2025-09-12T01:54:42.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-09-20T01:54:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
