@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/salty-soiree-2025-the-prelude/set/94392017/</loc>
+  <lastmod>2025-09-27T18:41:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825687/image-fc9b2ad879c1824792423e031a6c7c5e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jim_Nasium vs Dojo De Plucky | Seaphoamm, Salty Soiree 2025 - The Prelude - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jim_Nasium vs Dojo De Plucky | Seaphoamm in Winners Round 1 of Salty Soiree 2025 - The Prelude, streamed by misspatriciaa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577297176&amp;t=0h31m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>573</video:duration>
+    <video:publication_date>2025-09-27T18:41:54.000Z</video:publication_date>
+    <video:uploader>misspatriciaa</video:uploader>
+    <video:expiration_date>2025-10-05T18:41:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/river-city-rushdown-primeval-0/set/94387155/</loc>
   <lastmod>2025-09-27T18:25:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-07T23:48:57.000Z</video:publication_date>
     <video:uploader>BracketDemons</video:uploader>
     <video:expiration_date>2025-09-15T23:48:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/chop-chop-throwdown-11/set/93634186/</loc>
-  <lastmod>2025-09-07T23:35:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822750/image-70eb69bfa0c4102bdca1b197a52a7f43.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bracket Demons | Exia vs Fightprovoker, Chop Chop Throwdown #11 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bracket Demons | Exia vs Fightprovoker in Winners Round 3 of Chop Chop Throwdown #11, streamed by BracketDemons
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560883837&amp;t=1h4m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>395</video:duration>
-    <video:publication_date>2025-09-07T23:15:00.000Z</video:publication_date>
-    <video:uploader>BracketDemons</video:uploader>
-    <video:expiration_date>2025-09-15T23:15:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
