@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/pennsylvania-vs-new-jersey-2025/set/94398036/</loc>
-  <lastmod>2025-09-27T21:56:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-war-room-season-2-4/set/94422143/</loc>
+  <lastmod>2025-09-27T22:21:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829175/image-097be60a900840db6a111d977a15d1a2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Gaming GuruTT vs Karnak, The War Room: Season 2 #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gaming GuruTT vs Karnak in Losers Round 1 of The War Room: Season 2 #4, streamed by trini_lawman
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577439238&amp;t=1h18m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1157</video:duration>
+    <video:publication_date>2025-09-27T22:21:09.000Z</video:publication_date>
+    <video:uploader>trini_lawman</video:uploader>
+    <video:expiration_date>2025-10-05T22:21:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/pennsylvania-vs-new-jersey-2025/set/94398036/</loc>
+  <lastmod>2025-09-27T22:35:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577411078&amp;t=1h30m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2027</video:duration>
+    <video:duration>528</video:duration>
     <video:publication_date>2025-09-27T21:56:07.000Z</video:publication_date>
     <video:uploader>shadowroyaltylive</video:uploader>
     <video:expiration_date>2025-10-05T21:56:07.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-07T03:46:38.000Z</video:publication_date>
     <video:uploader>sidestepsaturday</video:uploader>
     <video:expiration_date>2025-09-15T03:46:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/drive-rush-hour-9-6-saturday/set/93593356/</loc>
-  <lastmod>2025-09-07T04:00:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823405/image-85f1e52544e3c02620a731aa779819cd.png
-    </video:thumbnail_loc>
-    <video:title>
-      PullUp vs Prism | Graboholic, Drive Rush Hour 9/6 (Saturday) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PullUp vs Prism | Graboholic in Winners Final of Drive Rush Hour 9/6 (Saturday), streamed by game_realms
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560154845&amp;t=2h6m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>912</video:duration>
-    <video:publication_date>2025-09-07T03:41:59.000Z</video:publication_date>
-    <video:uploader>game_realms</video:uploader>
-    <video:expiration_date>2025-09-15T03:41:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

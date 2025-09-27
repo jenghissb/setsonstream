@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/roundhouse-2025/set/94420500/</loc>
+  <lastmod>2025-09-27T22:18:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/787163/image-c36303b3dba31903a6ee1b7fee35fe11.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ryazo vs PAR | BEPaw, Roundhouse 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ryazo vs PAR | BEPaw in Winners Semi-Final of Roundhouse 2025, streamed by Tampaneversleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577165088&amp;t=6h36m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1332</video:duration>
+    <video:publication_date>2025-09-27T22:18:14.000Z</video:publication_date>
+    <video:uploader>Tampaneversleeps</video:uploader>
+    <video:expiration_date>2025-10-05T22:18:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/norwich-knockout/set/94380854/</loc>
   <lastmod>2025-09-27T18:29:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-02T16:05:44.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-08-10T16:05:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-2/set/92201398/</loc>
-  <lastmod>2025-08-02T16:11:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/807278/image-dda35b6ec8a81a43b4cf1faa03722e4a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ryori vs Melliodama, Arca-Sys #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ryori vs Melliodama in Winners Final of Arca-Sys #2, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2529046592&amp;t=4h4m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>712</video:duration>
-    <video:publication_date>2025-08-02T15:53:42.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2025-08-10T15:53:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
