@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/taverna-do-smash-setembro-2025/set/94384069/</loc>
-  <lastmod>2025-09-27T18:11:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/vallis-nepa-s-debut-regional-1500-in-pot-bonuses/set/94384521/</loc>
+  <lastmod>2025-09-27T18:30:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/781818/image-24e1ba205c2908cba934366acaa08ade.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jbhmax vs shoobopper, Vallis - NEPA&apos;s Debut Regional - $1500 IN POT BONUSES - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jbhmax vs shoobopper in Round 7 of Vallis - NEPA&apos;s Debut Regional - $1500 IN POT BONUSES, streamed by brotherlylovephl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577258207&amp;t=0h55m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>763</video:duration>
+    <video:publication_date>2025-09-27T18:30:26.000Z</video:publication_date>
+    <video:uploader>brotherlylovephl</video:uploader>
+    <video:expiration_date>2025-10-05T18:30:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/taverna-do-smash-setembro-2025/set/94384069/</loc>
+  <lastmod>2025-09-27T18:41:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577257273&amp;t=0h38m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>433</video:duration>
+    <video:duration>719</video:duration>
     <video:publication_date>2025-09-27T18:11:47.000Z</video:publication_date>
     <video:uploader>teamdashbr</video:uploader>
     <video:expiration_date>2025-10-05T18:11:47.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-06T01:11:33.000Z</video:publication_date>
     <video:uploader>rutgers_melee</video:uploader>
     <video:expiration_date>2025-09-14T01:11:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-prowling-grounds-108/set/93504149/</loc>
-  <lastmod>2025-09-06T01:44:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824567/image-1864eb079dd830c34d4f97f93d864875.png
-    </video:thumbnail_loc>
-    <video:title>
-      Clay vs Dougie Jones, The Prowling Grounds 108 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Clay vs Dougie Jones in Losers Round 5 of The Prowling Grounds 108, streamed by RochesterSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559177386&amp;t=1h15m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>593</video:duration>
-    <video:publication_date>2025-09-06T01:11:20.000Z</video:publication_date>
-    <video:uploader>RochesterSmash</video:uploader>
-    <video:expiration_date>2025-09-14T01:11:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
