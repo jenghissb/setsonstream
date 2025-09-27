@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/metrosmash-16-autumn-2025/set/94374132/</loc>
+  <lastmod>2025-09-27T14:43:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/824875/image-34c5d3ac5ca888ae68f02e6e59b914e0.png
+    </video:thumbnail_loc>
+    <video:title>
+      PigglyJeff vs $carlet, MetroSmash #16 - Autumn 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PigglyJeff vs $carlet in Winners Quarter-Final of MetroSmash #16 - Autumn 2025, streamed by SmashRogaland2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577120956&amp;t=0h7m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>351</video:duration>
+    <video:publication_date>2025-09-27T14:43:33.000Z</video:publication_date>
+    <video:uploader>SmashRogaland2</video:uploader>
+    <video:expiration_date>2025-10-05T14:43:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rutgers-melee-fall-25-4-ru-screw/set/94349158/</loc>
   <lastmod>2025-09-27T02:54:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-06T00:39:14.000Z</video:publication_date>
     <video:uploader>slte_nj</video:uploader>
     <video:expiration_date>2025-09-14T00:39:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-prowling-grounds-108/set/93504141/</loc>
-  <lastmod>2025-09-06T00:53:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824567/image-1864eb079dd830c34d4f97f93d864875.png
-    </video:thumbnail_loc>
-    <video:title>
-      FERN | Jboss vs SU | Swoggles, The Prowling Grounds 108 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FERN | Jboss vs SU | Swoggles in Losers Round 3 of The Prowling Grounds 108, streamed by RochesterSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559177386&amp;t=0h29m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>508</video:duration>
-    <video:publication_date>2025-09-06T00:25:20.000Z</video:publication_date>
-    <video:uploader>RochesterSmash</video:uploader>
-    <video:expiration_date>2025-09-14T00:25:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
