@@ -14,8 +14,7 @@ import { renderFilterButton } from './FilterButton.js'
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { getAnalytics } from "firebase/analytics";
-import pako from 'pako';
-import { DataRow } from './DataRow.js';
+import brotliModulePromise from 'brotli-dec-wasm';
 import { DataRowHybrid } from './DataRowHybrid.js';
 import { FilterType } from './FilterTypeButton.js'
 import { PlayerPage } from './PlayerPage.js'
@@ -625,8 +624,8 @@ const firebaseApp = initializeApp(firebaseConfig);
 const firebaseDb = getFirestore(firebaseApp);
 const analytics = getAnalytics(firebaseApp);
 
-async function fetchBotData(gameId) {
-  const docRef = doc(firebaseDb, "data1", "allInfo");
+async function fetchBotData(docName="allInfo2") {
+  const docRef = doc(firebaseDb, "data1", docName);
   const docSnap = await getDoc(docRef);
 
   if (docSnap.exists()) {
@@ -636,20 +635,18 @@ async function fetchBotData(gameId) {
   }
 }
 
-function decompressDataFromFetch(compressedDataBase64) {
-    const binaryString = atob(compressedDataBase64);
-    const len = binaryString.length;
-    const bytes = new Uint8Array(len);
-    for (let i = 0; i < len; i++) {
-      bytes[i] = binaryString.charCodeAt(i);
-    }
+async function decompressDataFromFetch(blob) {
+  const brotli = await brotliModulePromise; // load wasm
 
-    // 2. Decompress the Uint8Array using pako
-    const decompressedBytes = pako.inflate(bytes);
+  // Firestore Blob → Uint8Array
+  const bytes = blob.toUint8Array();
 
-    // 3. Convert the decompressed bytes back to a UTF-8 string
-    const decompressedText = new TextDecoder('utf-8').decode(decompressedBytes);
-    return decompressedText
+  // Decompress with brotli-wasm
+  const decompressedBytes = brotli.decompress(bytes);
+
+  // Convert back to string
+  const decompressedText = new TextDecoder("utf-8").decode(decompressedBytes);
+  return decompressedText
 }
 
 function getInitialShowVodsMode(currentGameId, data ) {
@@ -1118,8 +1115,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const result = await fetchBotData(filterInfo.currentGameId);
-        var data = JSON.parse(decompressDataFromFetch(result.info))
+        const result = await fetchBotData();
+        var data = JSON.parse(await decompressDataFromFetch(result.info))
         if (data == null) {
           data = {}
         }
