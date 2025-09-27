@@ -1,7 +1,7 @@
 // scripts/generate-content.js
 import fs from "fs"
 import path from "path"
-import pako from 'pako';
+import { brotliDecompressSync } from "zlib";
 import { VideoGameInfo, VideoGameInfoByGameSlug, GameKeywords, Characters, GamePublishers } from "../src/GameInfo.js"
 const BASE_URL = 'https://setsonstream.tv';
 // const DIST_DIR = path.join(__dirname, "..", "dist-static");
@@ -389,20 +389,10 @@ function generateTopPagesSitemap() {
   return wrapUrlset(urls);
 }
 
-function decompressDataFromFetch(compressedDataBase64) {
-    const binaryString = atob(compressedDataBase64);
-    const len = binaryString.length;
-    const bytes = new Uint8Array(len);
-    for (let i = 0; i < len; i++) {
-      bytes[i] = binaryString.charCodeAt(i);
-    }
-
-    // 2. Decompress the Uint8Array using pako
-    const decompressedBytes = pako.inflate(bytes);
-
-    // 3. Convert the decompressed bytes back to a UTF-8 string
-    const decompressedText = new TextDecoder('utf-8').decode(decompressedBytes);
-    return decompressedText
+function decompressDataFromFetch(base64String) {
+  const compressedBuffer = Buffer.from(base64String, "base64"); // still needed
+  const decompressedBuffer = brotliDecompressSync(compressedBuffer);
+  return decompressedBuffer.toString("utf-8");
 }
 
 function compareIntegers(a, b) {
@@ -428,10 +418,10 @@ async function main() {
   console.log("Fetching Firebase data...");
   // Replace with your Firebase export endpoint or bot output
   // const res = await fetch("https://your-firebase-url/data.json");
-  const res = await fetch("https://firestore.googleapis.com/v1/projects/setsonstream1/databases/\(default\)/documents/data1/allInfo")
+  const res = await fetch("https://firestore.googleapis.com/v1/projects/setsonstream1/databases/\(default\)/documents/data1/allInfo2")
   const result = await res.json()
   
-  var data = JSON.parse(decompressDataFromFetch(result.fields.info.stringValue))
+  const data = JSON.parse(decompressDataFromFetch(result.fields.info.bytesValue));
   if (data == null) {
     data = {}
   }
