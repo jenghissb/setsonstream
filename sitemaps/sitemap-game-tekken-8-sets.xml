@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/cape-town-showdown-2025/set/94367431/</loc>
+  <lastmod>2025-09-27T12:14:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/774580/image-ec9591a001b3c38836e06a2c1eed40b7.png
+    </video:thumbnail_loc>
+    <video:title>
+      BAP | Iggy vs TUG | Y2K, Cape Town Showdown 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BAP | Iggy vs TUG | Y2K in Losers Round 3 of Cape Town Showdown 2025, streamed by randomselectevents
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2576998667&amp;t=1h16m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>743</video:duration>
+    <video:publication_date>2025-09-27T12:14:14.000Z</video:publication_date>
+    <video:uploader>randomselectevents</video:uploader>
+    <video:expiration_date>2025-10-05T12:14:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/showdown-66/set/94278736/</loc>
   <lastmod>2025-09-25T03:02:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-07T02:15:16.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2025-09-15T02:15:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/drive-rush-hour-9-6-saturday/set/93591396/</loc>
-  <lastmod>2025-09-07T02:40:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823405/image-85f1e52544e3c02620a731aa779819cd.png
-    </video:thumbnail_loc>
-    <video:title>
-      FGC@UCLA | Elio vs Prism | Graboholic, Drive Rush Hour 9/6 (Saturday) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FGC@UCLA | Elio vs Prism | Graboholic in Winners Quarter-Final of Drive Rush Hour 9/6 (Saturday), streamed by game_realms
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560154845&amp;t=0h34m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>800</video:duration>
-    <video:publication_date>2025-09-07T02:10:13.000Z</video:publication_date>
-    <video:uploader>game_realms</video:uploader>
-    <video:expiration_date>2025-09-15T02:10:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
