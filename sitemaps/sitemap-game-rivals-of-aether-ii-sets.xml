@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smashmania-2025/set/94379115/</loc>
+  <lastmod>2025-09-27T16:47:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/787681/image-4f76827495603da778762472768be59d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      2F | Longo vs Malliaz, SmashMania 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 2F | Longo vs Malliaz in Winners Round 3 of SmashMania 2025, streamed by 5Dcaster
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577176334&amp;t=0h50m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1433</video:duration>
+    <video:publication_date>2025-09-27T16:47:58.000Z</video:publication_date>
+    <video:uploader>5Dcaster</video:uploader>
+    <video:expiration_date>2025-10-05T16:47:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-41/set/94316268/</loc>
   <lastmod>2025-09-26T04:00:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-11T00:08:56.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-09-19T00:08:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-230/set/93716182/</loc>
-  <lastmod>2025-09-11T00:14:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826341/image-39391b12949f7fc6ce8b7f72606c5a7d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jubilo vs Bucketfullabiscuits, Wonderfly Weekly #230 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jubilo vs Bucketfullabiscuits in Winners Semi-Final of Wonderfly Weekly #230, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2563339620&amp;t=0h21m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>928</video:duration>
-    <video:publication_date>2025-09-10T23:47:39.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-09-18T23:47:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
