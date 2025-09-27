@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/roundhouse-2025/set/94387318/</loc>
-  <lastmod>2025-09-27T19:40:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/pennsylvania-vs-new-jersey-2025/set/94397904/</loc>
+  <lastmod>2025-09-27T20:00:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797015/image-ce44399587096d3f5f81a43a6eb27350.png
+    </video:thumbnail_loc>
+    <video:title>
+      hyperion$ vs FYR | Slacker, Pennsylvania vs New Jersey 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hyperion$ vs FYR | Slacker in Winners Round 3 of Pennsylvania vs New Jersey 2025, streamed by shadowroyaltylive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=shadowroyaltylive&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>901</video:duration>
+    <video:publication_date>2025-09-27T20:00:10.000Z</video:publication_date>
+    <video:uploader>shadowroyaltylive</video:uploader>
+    <video:expiration_date>2025-10-05T20:00:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/roundhouse-2025/set/94387318/</loc>
+  <lastmod>2025-09-27T20:08:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577169757&amp;t=3h51m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>528</video:duration>
+    <video:duration>446</video:duration>
     <video:publication_date>2025-09-27T19:40:44.000Z</video:publication_date>
     <video:uploader>lowkickesports</video:uploader>
     <video:expiration_date>2025-10-05T19:40:44.000Z</video:expiration_date>
