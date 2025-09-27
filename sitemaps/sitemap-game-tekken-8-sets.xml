@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-war-room-season-2-4/set/94422132/</loc>
-  <lastmod>2025-09-27T22:58:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-war-room-season-2-4/set/94422148/</loc>
+  <lastmod>2025-09-27T23:33:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829175/image-097be60a900840db6a111d977a15d1a2.png
+    </video:thumbnail_loc>
+    <video:title>
+      TnT_ChriZ vs ENI | AresX, The War Room: Season 2 #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TnT_ChriZ vs ENI | AresX in Losers Final of The War Room: Season 2 #4, streamed by trini_lawman
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577439238&amp;t=2h30m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>215</video:duration>
+    <video:publication_date>2025-09-27T23:33:29.000Z</video:publication_date>
+    <video:uploader>trini_lawman</video:uploader>
+    <video:expiration_date>2025-10-05T23:33:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-war-room-season-2-4/set/94422132/</loc>
+  <lastmod>2025-09-27T23:36:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577439238&amp;t=1h55m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1738</video:duration>
+    <video:duration>559</video:duration>
     <video:publication_date>2025-09-27T22:58:04.000Z</video:publication_date>
     <video:uploader>trini_lawman</video:uploader>
     <video:expiration_date>2025-10-05T22:58:04.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-07T04:13:20.000Z</video:publication_date>
     <video:uploader>sidestepsaturday</video:uploader>
     <video:expiration_date>2025-09-15T04:13:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/drive-rush-hour-9-6-saturday/set/93593357/</loc>
-  <lastmod>2025-09-07T04:42:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823405/image-85f1e52544e3c02620a731aa779819cd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Prism | Graboholic vs PullUp, Drive Rush Hour 9/6 (Saturday) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Prism | Graboholic vs PullUp in Grand Final of Drive Rush Hour 9/6 (Saturday), streamed by game_realms
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560264935&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1114</video:duration>
-    <video:publication_date>2025-09-07T04:11:54.000Z</video:publication_date>
-    <video:uploader>game_realms</video:uploader>
-    <video:expiration_date>2025-09-15T04:11:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
