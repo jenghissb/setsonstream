@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-farming-market-3-brewed-brawl/set/94444394/</loc>
-  <lastmod>2025-09-28T05:16:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-farming-market-3-brewed-brawl/set/94444396/</loc>
+  <lastmod>2025-09-28T05:43:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/818413/image-b2f7abae2d25ccaa3d688b1b4607e721.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      b2w. | ShroomyD vs GodlyEffect, The Farming Market 3: Brewed Brawl - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch b2w. | ShroomyD vs GodlyEffect in Losers Semi-Final of The Farming Market 3: Brewed Brawl, streamed by iLainey
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577722952&amp;t=1h55m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>409</video:duration>
+    <video:publication_date>2025-09-28T05:43:05.000Z</video:publication_date>
+    <video:uploader>iLainey</video:uploader>
+    <video:expiration_date>2025-10-06T05:43:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-farming-market-3-brewed-brawl/set/94444394/</loc>
+  <lastmod>2025-09-28T05:45:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577722952&amp;t=1h28m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>888</video:duration>
+    <video:duration>1111</video:duration>
     <video:publication_date>2025-09-28T05:16:48.000Z</video:publication_date>
     <video:uploader>iLainey</video:uploader>
     <video:expiration_date>2025-10-06T05:16:48.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-13T10:48:57.000Z</video:publication_date>
     <video:uploader>kenbogard</video:uploader>
     <video:expiration_date>2025-09-21T10:48:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-fighting-arena-2025-3/set/93818653/</loc>
-  <lastmod>2025-09-13T11:05:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Takamura vs Reason | Incognitus, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Takamura vs Reason | Incognitus in Winners Quarter-Final of ULTIMATE FIGHTING ARENA 2025, streamed by kenbogard
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565269543&amp;t=2h49m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>659</video:duration>
-    <video:publication_date>2025-09-13T10:42:36.000Z</video:publication_date>
-    <video:uploader>kenbogard</video:uploader>
-    <video:expiration_date>2025-09-21T10:42:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
