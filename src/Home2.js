@@ -779,12 +779,16 @@ function MainComponent({homeMode, homeType, darkMode}) {
   var displayConfig = {
     // noRightPane: false,
     noDisplayData: false,
+    noRouteInfo: false,
+    onlyTextVideoTitle: false,
     // noMap: false,
   }
   if (params.setParam != null && currentGameId === "43868") {
     displayConfig = {
       // noRightPane: true,
       noDisplayData: true,
+      noRouteInfo: true,
+      onlyTextVideoTitle: true
       // noMap: true,
     }
   }
@@ -1451,10 +1455,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
   if (loading && setMatch == null) return <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
-            { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }
+            {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
-              <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
-              {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
+              {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />}
+              {!displayConfig.noRouteInfo && showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
             </div>
@@ -1613,10 +1617,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
       <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
-            { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
+            {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
-              <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
-              {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
+              {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />}
+              {!displayConfig.noRouteInfo && showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
             </div>
