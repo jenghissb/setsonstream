@@ -15,16 +15,21 @@ import { styled } from '@mui/material/styles';
 function renderSvg({width="40px", height="40px", color="#bbbbbb"}) {
   return <svg width={width} height={height} viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke={"var(--text-main-color-subdue-3)"} fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
 
-  return <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-        <path d="M 0 0 L 10 5 L 0 10 z" fill="black" />
-      </marker>
-    </defs>
+  // return <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  //   <defs>
+  //     <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+  //       <path d="M 0 0 L 10 5 L 0 10 z" fill="black" />
+  //     </marker>
+  //   </defs>
 
-    <path d="M 50 10 A 40 40 0 1 0 10 50" fill="none" stroke="black" strokeWidth="4" marker-end="url(#arrow)" />
-  </svg>
+  //   <path d="M 50 10 A 40 40 0 1 0 10 50" fill="none" stroke="black" strokeWidth="4" marker-end="url(#arrow)" />
+  // </svg>
 }
+
+function renderSvgReverse({width="40px", height="40px", color="#bbbbbb"}) {
+  return <svg transform="scale(-1, 1)" width={width} height={height} viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" strokeWidth="4" stroke={"var(--text-main-color-subdue-3)"} fill="none"><path d="M34.46,53.91A21.91,21.91,0,1,0,12.55,31.78"/><polyline points="4.65 22.33 12.52 32.62 22.81 24.75"/></svg>
+}
+
 
 export function renderRewindSetButton(setUseLiveStream, fromMap) {
   // NOTE: setTimeout is needed so the map popup doesn't close itself.
@@ -42,12 +47,43 @@ export function renderRewindShortButton(rewindSet, fromMap) {
   const secondsToRewind = 5;
   // const color = fromMap ? "#444444" : "#dddddd"
   return <div onClick={() => rewindSet(5)} className="rewindShortButton">
-    {renderSvg({width: "32px", height: "32px"})}
+    {renderSvg({width: "36px", height: "36px"})}
     <div className='rewindShortText' style={{color: "var(--text-main-color-subdue-3)"}}>{secondsToRewind}</div>
   </div>
 }
 
-export const RewindAndLiveButtons = ({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, handleTimestampChange, rewindReady, fromMap}) => {
+export function renderRewindFrameButton(rewindSet, fromMap) {
+  const secondsToRewind = 5;
+  // const color = fromMap ? "#444444" : "#dddddd"
+  return <div onClick={() => rewindSet(1/60)} className="rewindShortButton" style={{marginRight: "10px"}}>
+    {renderSvg({width: "36px", height: "36px"})}
+    <div className='rewindShortText' style={{left: 0, color: "var(--text-main-color-subdue-3)"}}><span>1&frasl;60</span></div>
+  </div>
+}
+
+export function renderForwardFrameButton(rewindSet, fromMap) {
+  const secondsToRewind = 5;
+  // const color = fromMap ? "#444444" : "#dddddd"
+  return <div onClick={() => rewindSet(-1/60)} className="rewindShortButton">
+    {renderSvgReverse({width: "36px", height: "36px"})}
+    <div className='forwardShortText' style={{right: 0, color: "var(--text-main-color-subdue-3)"}}><span>1&frasl;60</span></div>
+  </div>
+}
+export function renderForwardShortButton(rewindSet, fromMap) {
+  const secondsToRewind = 5;
+  // const color = fromMap ? "#444444" : "#dddddd"
+  return <div onClick={() => rewindSet(-5)} className="rewindShortButton">
+    {renderSvgReverse({width: "36px", height: "36px"})}
+    <div className='forwardShortText' style={{right: 6, color: "var(--text-main-color-subdue-3)"}}>{"5"}</div>
+  </div>
+}
+
+export function renderPlayPause(handlePlayPause) {
+  return <div onClick={() => (handlePlayPause && handlePlayPause())} className="rewindShortButton" style={{marginLeft: "4px"}}>
+    <svg xmlns="http://www.w3.org/2000/svg" width="36px" height="36px" viewBox="100 -860 760 760" fill="var(--text-main-color-subdue-3)"><path d="M200-312v-336l240 168-240 168Zm320-8v-320h80v320h-80Zm160 0v-320h80v320h-80Z"/></svg>
+  </div>
+}
+export const RewindAndLiveButtons = ({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow, handleTimestampChange, handlePlayPause, rewindReady, fromMap}) => {
   // useLiveStream = useLiveStream && !showVodsMode
   if (!supportsRewindSet(item)) {
     return
@@ -58,7 +94,7 @@ export const RewindAndLiveButtons = ({item, useLiveStream, setUseLiveStream, sho
   if (useLiveStream && item.bracketInfo.endTimeDetected == null) {
     return renderRewindSetButton(setUseLiveStream, fromMap)
   } else {
-    return RewindControlRow({item, setUseLiveStream, useLiveStream, handleTimestampChange, rewindReady, fromMap})
+    return RewindControlRow({item, setUseLiveStream, useLiveStream, handleTimestampChange, handlePlayPause, rewindReady, fromMap})
   }
 }
 
@@ -95,12 +131,12 @@ export function renderSetLiveButton(setUseLiveStream, fromMap) {
 }
 
 function renderLiveSvg({color}) {
-  return <svg width="40px" height="40px" viewBox="0 0 76 76" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" enableBackground="new 0 0 76.00 76.00" space="preserve">
+  return <svg width="36px" height="36px" viewBox="10 10 60 60" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" enableBackground="new 0 0 76.00 76.00" space="preserve">
     <path fill={color} fillOpacity="1" strokeWidth="0.3" strokeLinejoin="round" d="M 30.0833,20.5833L 50.6665,36.021L 50.6665,37.2084L 30.0833,52.25L 30.0833,20.5833 Z M 26.9166,57L 28.5,57L 28.5,63.3333L 31.6666,63.3333L 31.6666,64.9167L 28.5,64.9167L 26.9166,64.9167L 26.9166,57 Z M 33.25,64.9167L 33.25,57L 34.8333,57L 34.8333,64.9167L 33.25,64.9167 Z M 36.8124,57L 38.7916,57L 40.375,62.2779L 41.9583,57L 43.9375,57L 41.1666,64.9167L 39.5833,64.9167L 36.8124,57 Z M 45.9166,57L 47.5,57L 50.6666,57L 50.6666,58.5833L 47.5,58.5833L 47.5,60.1667L 50.6667,60.1667L 50.6667,61.75L 47.5,61.75L 47.5,63.3333L 50.6667,63.3333L 50.6667,64.9167L 47.5,64.9167L 45.9166,64.9167L 45.9166,57 Z "/>
   </svg>
 }
 
-const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestampChange, rewindReady, fromMap}) => {
+const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestampChange, handlePlayPause, rewindReady, fromMap}) => {
   var liveButton = null
   var streamUrls = item.streamInfo.streamUrls[0]
   var startedAt = item.bracketInfo.startedAt
@@ -173,6 +209,9 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
     {
       renderRewindShortButton(rewindShort, fromMap)
     }
+    {
+      renderRewindFrameButton(rewindShort, fromMap)
+    }
     <StyledSlider
       size="medium"
       defaultValue={0}
@@ -185,6 +224,15 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
       aria-label="Small"
       valueLabelDisplay="auto"
     />
+    {
+      renderPlayPause(handlePlayPause)
+    }    
+    {
+      renderForwardFrameButton(rewindShort, fromMap)
+    }    
+    {
+      renderForwardShortButton(rewindShort, fromMap)
+    }    
     {
       liveButton
     }

@@ -43,6 +43,7 @@
 }
 
 .nowPlaying-under-row {
+  width: min(100%, 500px);
   padding: 8px;
   padding-top: 2px;
   display:flex;
@@ -54,7 +55,9 @@
 }
 
 .nowPlaying-under-info {
+  width:100%;
   padding: 8px;
+  padding-right: 0px;
   padding-left: 6px;
   display:flex;
   flex-direction: column;
@@ -363,6 +366,7 @@
   align-content: end;
   height:fit-content;
   margin-top: 2px;
+  margin-bottom: 4px;
   min-height: 22px;
   /* margin-bottom: 2px; */
   /* margin-bottom: 8px; */

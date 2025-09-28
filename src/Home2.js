@@ -1627,7 +1627,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
           </div>
           {
-            previewItem && <NowPlaying {...{setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady,}} />
+            previewItem && <NowPlaying {...{setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
           }
           {
             // renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)

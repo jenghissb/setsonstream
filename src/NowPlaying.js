@@ -7,7 +7,7 @@ import { IconStartGg, IconStream } from './BrandIcons.js'
 import { renderFilterButton } from './FilterButton.js'
 import { Link } from 'react-router-dom';
 
-export const NowPlaying = memo(({setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady}) => {
+export const NowPlaying = memo(({setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
   var preview = null
   var divClass = "nowPlaying-set-row-1"
   if (selected) divClass = divClass + " nowPlaying-set-row-1-selected"
@@ -97,7 +97,7 @@ export const NowPlaying = memo(({setShowFilterModal, item, filterInfo, useVideoI
         <div className="nowPlaying-set-row-4">
           {player1LinkElem} {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span>{player2LinkElem} {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
         </div>
-        {RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})}
+        {RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, handlePlayPause, rewindReady})}
         <div className="nowPlaying-other-under-row">
           <Link className="nowPlaying-under-icon-link" to={channelLink}>{streamIcon && streamIcon.length > 0 && <img className="nowPlaying-under-icon" src={streamIcon}/>}</Link>
           <div className="nowPlaying-other-under-info">

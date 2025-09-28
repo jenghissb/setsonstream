@@ -72,36 +72,39 @@
 
 
 .rewindShortButton {
-  width: 34px;
-  height: 34px;
+  width: 40px;
+  height: 40px;
   justify-self: center;
   position: relative;
-  padding-right: 10px;
+  margin-right: 4px;
 }
 
 .rewindShortButton:active {
   transform: scale(1.15);
 }
 
-.rewindShortButton:hover {
-  transform: scale(1.15);
+@media (hover: hover) and (pointer: fine) {
+  .rewindShortButton:hover {
+    transform: scale(1.12);
+  }
 }
 
+
 .rewindShortText {
-  top: 16px;
+  top: 18px;
   left: 6px;
   position: absolute;
   font-size: small;
   color: #bbbbbb;
 }
 
-
-
-
-
-
-
-
+.forwardShortText {
+  top: 18px;
+  right: 6px;
+  position: absolute;
+  font-size: small;
+  color: #bbbbbb;
+}
 
 .rc-slider [data-slider-tooltip]::before,
 .rc-slider [data-slider-tooltip]::after {
