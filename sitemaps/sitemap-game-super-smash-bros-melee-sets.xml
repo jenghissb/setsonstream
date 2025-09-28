@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-5th-was-invitational/set/94458547/</loc>
-  <lastmod>2025-09-28T16:10:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/805551/image-e1f5dc2fb7526d74f5f2f398d7166158.png
-    </video:thumbnail_loc>
-    <video:title>
-      N0va | hc | Coolslice vs KevinM, The 5th WAS Invitational - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch N0va | hc | Coolslice vs KevinM in Round 2 of The 5th WAS Invitational, streamed by 22Kteam
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2578045567&amp;t=1h6m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1460</video:duration>
-    <video:publication_date>2025-09-28T16:10:12.000Z</video:publication_date>
-    <video:uploader>22Kteam</video:uploader>
-    <video:expiration_date>2025-10-06T16:10:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-5th-was-invitational/set/94458627/</loc>
   <lastmod>2025-09-28T16:23:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2578045567&amp;t=1h19m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>687</video:duration>
+    <video:duration>1602</video:duration>
     <video:publication_date>2025-09-28T16:23:05.000Z</video:publication_date>
     <video:uploader>22Kteam</video:uploader>
     <video:expiration_date>2025-10-06T16:23:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-5th-was-invitational/set/94458547/</loc>
+  <lastmod>2025-09-28T16:41:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/805551/image-e1f5dc2fb7526d74f5f2f398d7166158.png
+    </video:thumbnail_loc>
+    <video:title>
+      N0va | hc | Coolslice vs KevinM, The 5th WAS Invitational - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch N0va | hc | Coolslice vs KevinM in Round 2 of The 5th WAS Invitational, streamed by 22Kteam
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578045567&amp;t=1h6m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1201</video:duration>
+    <video:publication_date>2025-09-28T16:10:12.000Z</video:publication_date>
+    <video:uploader>22Kteam</video:uploader>
+    <video:expiration_date>2025-10-06T16:10:12.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
