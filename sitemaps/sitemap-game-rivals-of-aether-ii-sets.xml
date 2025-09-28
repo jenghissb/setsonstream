@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/shield-breaker-24-2/set/94482667/</loc>
+  <lastmod>2025-09-28T23:34:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      vooni vs Team Rocket | Ross, Shield Breaker #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch vooni vs Team Rocket | Ross in Round 1 of Shield Breaker #24, streamed by imtorna
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578423299&amp;t=0h4m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>930</video:duration>
+    <video:publication_date>2025-09-28T23:34:27.000Z</video:publication_date>
+    <video:uploader>imtorna</video:uploader>
+    <video:expiration_date>2025-10-06T23:34:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-8-1/set/94433284/</loc>
   <lastmod>2025-09-28T02:41:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T19:10:53.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2025-09-21T19:10:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/duke-it-out-3-1/set/93816847/</loc>
-  <lastmod>2025-09-13T19:44:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/787602/image-feea3e8ac3749db0f053f3e3519f97cc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Morley vs Difference, Duke It Out 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Morley vs Difference in Losers Round 2 of Duke It Out 3, streamed by Kmltournaments2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565574676&amp;t=1h45m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>911</video:duration>
-    <video:publication_date>2025-09-13T19:09:53.000Z</video:publication_date>
-    <video:uploader>Kmltournaments2</video:uploader>
-    <video:expiration_date>2025-09-21T19:09:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
