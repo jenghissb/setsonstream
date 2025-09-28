@@ -1450,6 +1450,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // }
 
   // if (loading) return <div className="home2LoadingSyle">{loadingText}</div>;
+  console.log("loading", loading, "showLoading", loading && setMatch == null)
   if (loading && setMatch == null) return <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
@@ -1967,6 +1968,7 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
   switch(homeType) {
     case HomeTypes.PLAYER:
       useBootstrap = playerParam && playerParam == bootstrapInfo?.userSlug
+      console.log("UseBootstrap bootstrapInfo", bootstrapInfo)
       console.log("UseBootstrap", useBootstrap, playerParam, bootstrapInfo?.userSlug, bootstrapInfo?.nameWithRomaji)
       break
     case HomeTypes.TOURNAMENT:
