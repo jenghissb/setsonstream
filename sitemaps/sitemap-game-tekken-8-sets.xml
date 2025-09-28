@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/replay-rumble-27/set/94437858/</loc>
-  <lastmod>2025-09-28T04:07:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/replay-rumble-27/set/94437918/</loc>
+  <lastmod>2025-09-28T04:20:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825629/image-fdd7d1e0b982e3a70559587627557904.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      :( vs Cloudian OG, Replay Rumble 27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch :( vs Cloudian OG in Losers Round 5 of Replay Rumble 27, streamed by arcade_replay
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577724836&amp;t=0h29m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1207</video:duration>
+    <video:publication_date>2025-09-28T04:20:52.000Z</video:publication_date>
+    <video:uploader>arcade_replay</video:uploader>
+    <video:expiration_date>2025-10-06T04:20:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/replay-rumble-27/set/94437858/</loc>
+  <lastmod>2025-09-28T04:28:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577724836&amp;t=0h16m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>602</video:duration>
+    <video:duration>773</video:duration>
     <video:publication_date>2025-09-28T04:07:51.000Z</video:publication_date>
     <video:uploader>arcade_replay</video:uploader>
     <video:expiration_date>2025-10-06T04:07:51.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-07T22:52:45.000Z</video:publication_date>
     <video:uploader>BellinghamBeatdown</video:uploader>
     <video:expiration_date>2025-09-15T22:52:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/bellingham-beatdown-39/set/93631868/</loc>
-  <lastmod>2025-09-07T23:07:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824500/image-e0c8bd59f12878744ef0dad007dc002b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Beatdown | Raiden vs Dubby | Donut Lord, Bellingham Beatdown #39 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Beatdown | Raiden vs Dubby | Donut Lord in Losers Semi-Final of Bellingham Beatdown #39, streamed by BellinghamBeatdown
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560785991&amp;t=2h35m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1282</video:duration>
-    <video:publication_date>2025-09-07T22:31:11.000Z</video:publication_date>
-    <video:uploader>BellinghamBeatdown</video:uploader>
-    <video:expiration_date>2025-09-15T22:31:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

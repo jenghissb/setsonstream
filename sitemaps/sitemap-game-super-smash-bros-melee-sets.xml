@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94439323/</loc>
-  <lastmod>2025-09-28T03:49:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94444094/</loc>
+  <lastmod>2025-09-28T04:32:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809013/image-a36af7b8f27cf316cb4032c9e18a7ad7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Steech | cliché vs ABG|netplayge | salami, The Big Abbey 2: Getting Bigger - $350 Pot Bonus - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Steech | cliché vs ABG|netplayge | salami in Losers Round 1 of The Big Abbey 2: Getting Bigger - $350 Pot Bonus, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577714658&amp;t=0h59m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>487</video:duration>
+    <video:publication_date>2025-09-28T04:32:52.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-10-06T04:32:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94439323/</loc>
+  <lastmod>2025-09-28T04:17:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577714658&amp;t=0h15m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1722</video:duration>
+    <video:duration>751</video:duration>
     <video:publication_date>2025-09-28T03:49:11.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-06T03:49:11.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-06T23:03:04.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2025-09-14T23:03:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/riptide-2025-4/set/93572948/</loc>
-  <lastmod>2025-09-06T23:29:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/744261/image-af9a0b5d9355aa1dcbea5654cf106e2a.jpg?ehk=UigPL5kmpXUE6j20nDzSuTeS9VKatCy%2By1VkguRRz8s%3D&amp;ehkOptimized=AVsIYCgRlefVEkIv%2FgaDR4Iu7MKUb45zeQmuTKqaj40%3D
-    </video:thumbnail_loc>
-    <video:title>
-      MEOW | skrat | Spark vs Balloon Day, Riptide 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MEOW | skrat | Spark vs Balloon Day in Losers Round 3 of Riptide 2025, streamed by btssmash2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559687229&amp;t=7h16m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1858</video:duration>
-    <video:publication_date>2025-09-06T22:43:50.000Z</video:publication_date>
-    <video:uploader>btssmash2</video:uploader>
-    <video:expiration_date>2025-09-14T22:43:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
