@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94439322/</loc>
-  <lastmod>2025-09-28T03:39:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94439323/</loc>
+  <lastmod>2025-09-28T03:49:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809013/image-a36af7b8f27cf316cb4032c9e18a7ad7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Muscoman vs Iron, The Big Abbey 2: Getting Bigger - $350 Pot Bonus - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Muscoman vs Iron in Winners Quarter-Final of The Big Abbey 2: Getting Bigger - $350 Pot Bonus, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577714658&amp;t=0h15m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1722</video:duration>
+    <video:publication_date>2025-09-28T03:49:11.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-10-06T03:49:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94439322/</loc>
+  <lastmod>2025-09-28T04:00:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577714658&amp;t=0h5m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>955</video:duration>
+    <video:duration>576</video:duration>
     <video:publication_date>2025-09-28T03:39:23.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-06T03:39:23.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-06T22:43:50.000Z</video:publication_date>
     <video:uploader>btssmash2</video:uploader>
     <video:expiration_date>2025-09-14T22:43:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/riptide-2025-4/set/93572890/</loc>
-  <lastmod>2025-09-06T23:07:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/744261/image-af9a0b5d9355aa1dcbea5654cf106e2a.jpg?ehk=UigPL5kmpXUE6j20nDzSuTeS9VKatCy%2By1VkguRRz8s%3D&amp;ehkOptimized=AVsIYCgRlefVEkIv%2FgaDR4Iu7MKUb45zeQmuTKqaj40%3D
-    </video:thumbnail_loc>
-    <video:title>
-      Ginger vs Preeminent, Riptide 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ginger vs Preeminent in Winners Quarter-Final of Riptide 2025, streamed by btssmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559687624&amp;t=7h9m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1067</video:duration>
-    <video:publication_date>2025-09-06T22:37:23.000Z</video:publication_date>
-    <video:uploader>btssmash</video:uploader>
-    <video:expiration_date>2025-09-14T22:37:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
