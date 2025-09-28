@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/roundhouse-2025/set/94471390/</loc>
+  <lastmod>2025-09-28T22:19:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/787163/image-c36303b3dba31903a6ee1b7fee35fe11.png
+    </video:thumbnail_loc>
+    <video:title>
+      PCH | Earl vs TNS | Ramsey, Roundhouse 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PCH | Earl vs TNS | Ramsey in Losers Round 4 of Roundhouse 2025, streamed by lowkickesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578074081&amp;t=6h33m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>661</video:duration>
+    <video:publication_date>2025-09-28T22:19:46.000Z</video:publication_date>
+    <video:uploader>lowkickesports</video:uploader>
+    <video:expiration_date>2025-10-06T22:19:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/roundhouse-2025/set/94471330/</loc>
   <lastmod>2025-09-28T21:40:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-13T15:32:00.000Z</video:publication_date>
     <video:uploader>CapcomFighters</video:uploader>
     <video:expiration_date>2025-09-21T15:32:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-fighting-arena-2025-3/set/93829025/</loc>
-  <lastmod>2025-09-13T15:49:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Tachikawa vs Bryzee, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tachikawa vs Bryzee in Winners Semi-Final of ULTIMATE FIGHTING ARENA 2025, streamed by CapcomFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565267195&amp;t=7h24m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1869</video:duration>
-    <video:publication_date>2025-09-13T15:10:38.000Z</video:publication_date>
-    <video:uploader>CapcomFighters</video:uploader>
-    <video:expiration_date>2025-09-21T15:10:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
