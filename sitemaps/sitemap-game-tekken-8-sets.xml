@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/roundhouse-2025/set/94462619/</loc>
-  <lastmod>2025-09-28T18:03:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/roundhouse-2025/set/94462617/</loc>
+  <lastmod>2025-09-28T18:28:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/787163/image-c36303b3dba31903a6ee1b7fee35fe11.png
+    </video:thumbnail_loc>
+    <video:title>
+      NoelStryfe vs KNR, Roundhouse 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NoelStryfe vs KNR in Losers Round 1 of Roundhouse 2025, streamed by lowkickesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578074081&amp;t=2h41m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>863</video:duration>
+    <video:publication_date>2025-09-28T18:28:03.000Z</video:publication_date>
+    <video:uploader>lowkickesports</video:uploader>
+    <video:expiration_date>2025-10-06T18:28:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/roundhouse-2025/set/94462619/</loc>
+  <lastmod>2025-09-28T18:34:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2578074081&amp;t=2h16m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>915</video:duration>
+    <video:duration>762</video:duration>
     <video:publication_date>2025-09-28T18:03:29.000Z</video:publication_date>
     <video:uploader>lowkickesports</video:uploader>
     <video:expiration_date>2025-10-06T18:03:29.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-10T01:59:36.000Z</video:publication_date>
     <video:uploader>FrankieG7Chi</video:uploader>
     <video:expiration_date>2025-09-18T01:59:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/d-b-tuesday-s-16/set/93696843/</loc>
-  <lastmod>2025-09-10T02:01:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825535/image-e7bbf6f8521cec852d15a358ea85ca90.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tektomic vs ZiyaBeast, D&amp;B Tuesday&apos;s #16 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tektomic vs ZiyaBeast in Losers Round 3 of D&amp;B Tuesday&apos;s #16, streamed by FrankieG7Chi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2562563666&amp;t=1h21m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>486</video:duration>
-    <video:publication_date>2025-09-10T01:38:41.000Z</video:publication_date>
-    <video:uploader>FrankieG7Chi</video:uploader>
-    <video:expiration_date>2025-09-18T01:38:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-con-1/set/94457086/</loc>
-  <lastmod>2025-09-28T18:06:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-con-1/set/94464046/</loc>
+  <lastmod>2025-09-28T18:19:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/811563/image-3054b88a11a68c83791884ea9b065542.png
+    </video:thumbnail_loc>
+    <video:title>
+      JIMMY_DR vs TK | Shang, Ultimate Con - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JIMMY_DR vs TK | Shang in Grand Final of Ultimate Con, streamed by BlizzStars
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/54-SZXq3Dt8?start=7582s
+    </video:player_loc>
+    <video:duration>1368</video:duration>
+    <video:publication_date>2025-09-28T18:19:38.000Z</video:publication_date>
+    <video:uploader>BlizzStars</video:uploader>
+    <video:expiration_date>2025-10-06T18:19:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-con-1/set/94457086/</loc>
+  <lastmod>2025-09-28T18:27:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/54-SZXq3Dt8?start=6799s
     </video:player_loc>
-    <video:duration>729</video:duration>
+    <video:duration>305</video:duration>
     <video:publication_date>2025-09-28T18:06:35.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2025-10-06T18:06:35.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-13T15:04:44.000Z</video:publication_date>
     <video:uploader>CapcomFighters</video:uploader>
     <video:expiration_date>2025-09-21T15:04:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-fighting-arena-2025-3/set/93825784/</loc>
-  <lastmod>2025-09-13T15:15:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Riddles vs Anunnaki, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Riddles vs Anunnaki in Winners Semi-Final of ULTIMATE FIGHTING ARENA 2025, streamed by CapcomFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565267195&amp;t=7h4m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>920</video:duration>
-    <video:publication_date>2025-09-13T14:50:16.000Z</video:publication_date>
-    <video:uploader>CapcomFighters</video:uploader>
-    <video:expiration_date>2025-09-21T14:50:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
