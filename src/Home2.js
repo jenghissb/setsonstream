@@ -2361,7 +2361,8 @@ function AfterData(showVodsMode, setShowVodsMode) {
 
 function charEmojis(charInfo, gameId, prekey, filterInfo) {
   var emojiArrs = []
-  charInfo?.forEach((item, index) => {
+  console.log("CHAREMOJI", charInfo)
+  charInfo?.forEach && charInfo?.forEach((item, index) => {
     emojiArrs.push(charEmojiImage(item.name, gameId, prekey + index + "_", filterInfo))
     if (item.schuEmojiName != null) {
       emojiArrs.push(schuEmojiImage(item.schuEmojiName, prekey + "schu_" + index + "_"))
