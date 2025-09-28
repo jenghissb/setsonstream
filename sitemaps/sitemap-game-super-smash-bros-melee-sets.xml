@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-5th-was-invitational/set/94455972/</loc>
+  <lastmod>2025-09-28T15:17:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/805551/image-e1f5dc2fb7526d74f5f2f398d7166158.png
+    </video:thumbnail_loc>
+    <video:title>
+      WAS | Sock vs Dude Mountain | Richardson, The 5th WAS Invitational - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WAS | Sock vs Dude Mountain | Richardson in Round 1 of The 5th WAS Invitational, streamed by 22Kteam
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578045567&amp;t=0h13m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>605</video:duration>
+    <video:publication_date>2025-09-28T15:17:07.000Z</video:publication_date>
+    <video:uploader>22Kteam</video:uploader>
+    <video:expiration_date>2025-10-06T15:17:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94444083/</loc>
   <lastmod>2025-09-28T06:44:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-07T00:51:31.000Z</video:publication_date>
     <video:uploader>kalvarr</video:uploader>
     <video:expiration_date>2025-09-15T00:51:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/abq-barfights-26-champions-league/set/93557004/</loc>
-  <lastmod>2025-09-07T02:46:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819707/image-0d78d7fe3f0506d58bf9011360745a0e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Light vs LVB | Afroman, ABQ Barfights #26 - Champions League - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Light vs LVB | Afroman in Grand Final of ABQ Barfights #26 - Champions League, streamed by NMmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559875898&amp;t=5h11m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-09-07T00:38:34.000Z</video:publication_date>
-    <video:uploader>NMmelee</video:uploader>
-    <video:expiration_date>2025-09-15T00:38:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
