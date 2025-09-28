@@ -1379,7 +1379,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
 
   var bootstrap = useMemo(() => getBootstrapData(), [])
   var bootstrapInfo = bootstrap?.routeInfo
-
+  console.log("bootstrap", bootstrap)
+  console.log("bootstrapInfo", bootstrapInfo)
   var displayDataInfo = useMemo(() => {
     if (loading || error) return null
     return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
@@ -1949,6 +1950,7 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
   var iconClass = ""
   var iconSrc = null
   var routeText = ""
+  var titleMarginLeft = "6px"
   var supportsStar = false
   const gameSlug = gameParam;
   var gameInfo = gameSlug ? VideoGameInfoByGameSlug[gameSlug] : null
@@ -2011,14 +2013,14 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       break;
     case HomeTypes.GAME:
       routeText = gameInfo?.name
-      routeText = gameParam
+      routeText = gameInfo?.displayName || gameParam
       supportsStar = false
       title = `${gameInfo?.displayName} - Sets on Stream`
       description = `Watch Live and Recent ${gameInfo?.name} Sets on Stream from Tournaments around the World`
       keywords = `${keywords}`
       break;
     case HomeTypes.PLAYER:
-      // iconClass = "home2RouteCharIcon"
+      titleMarginLeft = "0px"
       iconSrc = routeInfo?.icon
       charInfo = routeInfo?.charInfo || favSuggestion?.charInfo || bootstrapInfo?.charInfo
       routeText = (routeInfo?.nameWithRomaji  || favSuggestion?.nameWithRomaji || bootstrapInfo?.nameWithRomaji) ?? playerParam
@@ -2136,7 +2138,7 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
     {gameParam && gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>}
     {iconSrc && <img className={iconClass} src={iconSrc}/>}
     {searchParam && <div className={iconClass}>{renderSearchIcon("28px")}</div>}
-    <div className="home2RouteTitle">{routeText}</div>
+    <div className="home2RouteTitle" style={{marginLeft: titleMarginLeft}}>{routeText}</div>
     {showGameSelector && <div className="home2RouteGameSelectContainer" onClick={openGameFilter}>
       <div className="home2RouteGameSelectIcon"><img className="home2RouteGameSelectIcon" src={gameIcon}/></div>
       <div className="home2RouteTitle">{`${gameInfo.displayName}`}</div>
@@ -2151,6 +2153,7 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
   // const { gameParam, charParam, playerParam, tourneyParam, channelParam } = params
   var iconClass = ""
   var iconSrc = null
+  var titleMarginLeft = "6px"
   var routeText = ""
   var supportsStar = false
   // const gameSlug = gameParam;
@@ -2175,6 +2178,7 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
   } else if (favSuggestion.userSlug != null) {
     // iconClass = "home2RouteCharIcon"
     iconSrc = favSuggestion?.icon
+    titleMarginLeft = "2px"
     routeText = favSuggestion?.nameWithRomaji ?? "player"
     supportsStar = true
     supportsCharEmoji = true
@@ -2215,7 +2219,7 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
     {/* {gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>} */}
     {iconSrc && <img className={iconClass} src={iconSrc}/>}
     {favSuggestion.textSearch && <div className={iconClass}>{renderSearchIcon("28px")}</div>}
-    <Link className="home2RouteTitle home2RouteTitleCat" to={getLinkFromSearch(favSuggestion, gameId)}>{routeText}</Link>
+    <Link className="home2RouteTitle home2RouteTitleCat" to={getLinkFromSearch(favSuggestion, gameId)} style={{marginLeft: titleMarginLeft}}>{routeText}</Link>
     {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && charEmojis(favSuggestion.charInfo, gameId, "play1_")}
     {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(favSuggestion)} /></div>}
   </div>
