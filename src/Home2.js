@@ -1965,6 +1965,7 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
   switch(homeType) {
     case HomeTypes.PLAYER:
       useBootstrap = playerParam && playerParam == bootstrapInfo?.userSlug
+      console.log("UseBootstrap", useBootstrap, playerParam, bootstrapInfo?.userSlug, bootstrapInfo?.nameWithRomaji)
       break
     case HomeTypes.TOURNAMENT:
       useBootstrap = tourneyParam && tourneyParam == bootstrapInfo?.tourneySlug
