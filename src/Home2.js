@@ -1379,8 +1379,6 @@ function MainComponent({homeMode, homeType, darkMode}) {
 
   var bootstrap = useMemo(() => getBootstrapData(), [])
   var bootstrapInfo = bootstrap?.routeInfo
-  console.log("bootstrap", bootstrap)
-  console.log("bootstrapInfo", bootstrapInfo)
   var displayDataInfo = useMemo(() => {
     if (loading || error) return null
     return getDisplayData(homeType, params, data, filterInfo, showVodsMode)
@@ -1450,7 +1448,6 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // }
 
   // if (loading) return <div className="home2LoadingSyle">{loadingText}</div>;
-  console.log("loading", loading, "showLoading", loading && setMatch == null)
   if (loading && setMatch == null) return <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
@@ -1618,7 +1615,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           <div style={titleStyle}>
             { !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
-              <RouteInfo {...{routeInfo, homeType, setMatch, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
+              <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />
               {showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
@@ -1968,8 +1965,6 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
   switch(homeType) {
     case HomeTypes.PLAYER:
       useBootstrap = playerParam && playerParam == bootstrapInfo?.userSlug
-      console.log("UseBootstrap bootstrapInfo", bootstrapInfo)
-      console.log("UseBootstrap", useBootstrap, playerParam, bootstrapInfo?.userSlug, bootstrapInfo?.nameWithRomaji)
       break
     case HomeTypes.TOURNAMENT:
       useBootstrap = tourneyParam && tourneyParam == bootstrapInfo?.tourneySlug
