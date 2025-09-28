@@ -586,7 +586,9 @@ async function main() {
     combined.forEach(item => {
       const setId = item.bracketInfo.setId
       const tourneySlug = getTourneySlug(item.bracketInfo)
+      const shortSlug = item.bracketInfo
       const tourneyIcon = item.bracketInfo.images[0]?.url ?? null
+      const streamIcon = item.streamInfo.streamIcon
       const gameSlug = gameInfo.gameSlug
       const player1Name = item.player1Info.nameWithRomaji
       const player2Name = item.player2Info.nameWithRomaji
@@ -605,19 +607,21 @@ async function main() {
       const title = `${player1Name} vs ${player2Name}, ${tourneyName} - Sets on Stream`
       const description = `Watch ${player1Name} vs ${player2Name} in ${fullRoundText} of ${tourneyName}, streamed by ${channelName}`
       const setKeywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
-      const bootstrap = {routeInfo: {
+      const bootstrapRouteInfo = {
         set: item,
         tourneySlug,
+        shortSlug,
         tourneyIcon,
         tourneyName,
         channelName,
+        streamIcon,
         // player1Name,
         // player2Name,
         // player1Slug,
         // player2Slug,
         setId,
         charKeywordStrs,
-      }}
+      }
       const embedUrl = getStreamEmbedUrl(item.streamInfo, 0, true)
       const contentUrl = getStreamUrl(item.streamInfo, 0, true)
       const tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
@@ -641,7 +645,7 @@ async function main() {
           title, 
           description,
           keywords: setKeywords,
-          bootstrap,
+          bootstrap: {routeInfo: bootstrapRouteInfo},
           jsonLd,
           canonical,
           ogVideoUrl,
@@ -657,7 +661,7 @@ async function main() {
           title, 
           description,
           keywords: setKeywords,
-          bootstrap,
+          bootstrap: {routeInfo: bootstrapRouteInfo},
           jsonLd,
           canonical,
           ogVideoUrl,
@@ -674,7 +678,7 @@ async function main() {
             title, 
             description,
             keywords: setKeywords,
-            bootstrap: {...bootstrap, userSlug: player1Slug},
+            bootstrap: {routeInfo: {...bootstrapRouteInfo, userSlug: player1Slug, charInfo: item.player1Info, nameWithRomaji: player2Name}},
             jsonLd,
             canonical,
             ogVideoUrl,
@@ -692,7 +696,7 @@ async function main() {
             title, 
             description,
             keywords: setKeywords,
-            bootstrap: {...bootstrap, userSlug: player2Slug},
+            bootstrap: {routeInfo: {...bootstrapRouteInfo, userSlug: player2Slug, charInfo: item.player2Info, nameWithRomaji: player2Name}},
             jsonLd,
             canonical,
             ogVideoUrl,
@@ -709,7 +713,7 @@ async function main() {
           title, 
           description,
           keywords: setKeywords,
-          bootstrap,
+          bootstrap: {routeInfo: bootstrapRouteInfo},
           jsonLd,
           canonical,
           ogVideoUrl,
@@ -726,7 +730,7 @@ async function main() {
             title, 
             description,
             keywords: setKeywords,
-            bootstrap,
+            bootstrap: {routeInfo: bootstrapRouteInfo},
             jsonLd,
             canonical,
             ogVideoUrl,

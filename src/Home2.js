@@ -2067,7 +2067,6 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
 
   if (setParam != null) {
     const item = setMatch
-    useBootstrap = playerParam && playerParam == bootstrapInfo?.userSlug
     if (item && item.bracketInfo.setKey == setParam) {
       const setId = item.bracketInfo.setId
       const tourneySlug = getTourneySlug(item.bracketInfo)
