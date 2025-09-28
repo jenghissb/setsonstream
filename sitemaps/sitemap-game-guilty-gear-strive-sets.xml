@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-block-2025/set/94466328/</loc>
+  <lastmod>2025-09-28T19:53:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/785140/image-46b17722598b11513823687ef363f655.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nom vs Bad Moon | Ticklememour, Just Block 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nom vs Bad Moon | Ticklememour in Losers Final of Just Block 2025, streamed by tabbynickel
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578153363&amp;t=2h25m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1316</video:duration>
+    <video:publication_date>2025-09-28T19:53:14.000Z</video:publication_date>
+    <video:uploader>tabbynickel</video:uploader>
+    <video:expiration_date>2025-10-06T19:53:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-block-2025/set/94466325/</loc>
   <lastmod>2025-09-28T19:47:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-11T03:16:36.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-09-19T03:16:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-192-ssbu-ggst-gbvsr/set/93730794/</loc>
-  <lastmod>2025-09-11T03:23:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827303/image-3ae336e60cf5b250bd4fabe8ddda8936.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ikushisu vs Grindr | BeanBagels, Guildhouse Weekly 192 - SSBU, GGST, GBVSR! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ikushisu vs Grindr | BeanBagels in Winners Round 2 of Guildhouse Weekly 192 - SSBU, GGST, GBVSR!, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2563496923&amp;t=0h2m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>924</video:duration>
-    <video:publication_date>2025-09-11T03:01:06.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-09-19T03:01:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
