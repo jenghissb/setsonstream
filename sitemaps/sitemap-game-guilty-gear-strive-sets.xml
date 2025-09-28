@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-47-s-ndag-f-ndag-iv/set/94453629/</loc>
-  <lastmod>2025-09-28T13:13:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-47-s-ndag-f-ndag-iv/set/94453631/</loc>
+  <lastmod>2025-09-28T13:32:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832178/image-2fe607aa2976a2029e967684ea382ecd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Floor 4 | Zero Blod vs Mango king, RogaFight #47 — Søndag Føndag IV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Floor 4 | Zero Blod vs Mango king in Winners Semi-Final of RogaFight #47 — Søndag Føndag IV, streamed by fgcrogaland
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2577973707&amp;t=0h20m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1009</video:duration>
+    <video:publication_date>2025-09-28T13:32:30.000Z</video:publication_date>
+    <video:uploader>fgcrogaland</video:uploader>
+    <video:expiration_date>2025-10-06T13:32:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-47-s-ndag-f-ndag-iv/set/94453629/</loc>
+  <lastmod>2025-09-28T13:37:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2577973707&amp;t=0h1m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1434</video:duration>
+    <video:duration>448</video:duration>
     <video:publication_date>2025-09-28T13:13:25.000Z</video:publication_date>
     <video:uploader>fgcrogaland</video:uploader>
     <video:expiration_date>2025-10-06T13:13:25.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-09T01:31:51.000Z</video:publication_date>
     <video:uploader>jsaavaage</video:uploader>
     <video:expiration_date>2025-09-17T01:31:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rise-strive-37/set/93659227/</loc>
-  <lastmod>2025-09-09T01:38:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824396/image-50943fd0780bded6b271d44c238c180c.png
-    </video:thumbnail_loc>
-    <video:title>
-      ANGL | Freeetsa vs dig, Rise &amp; Strive #37 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ANGL | Freeetsa vs dig in Winners Final of Rise &amp; Strive #37, streamed by jsaavaage
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2561703658&amp;t=2h3m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>508</video:duration>
-    <video:publication_date>2025-09-09T01:15:26.000Z</video:publication_date>
-    <video:uploader>jsaavaage</video:uploader>
-    <video:expiration_date>2025-09-17T01:15:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
