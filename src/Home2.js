@@ -1043,7 +1043,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
       } else {
           p?.seekTo(newSeconds)
       }
-    } else {
+    } else if (currentPlayerRef.current != null) {
       // twitch
       const p = currentPlayerRef.current
       if (newSeconds == null && rewindAmount != null) {
@@ -1055,6 +1055,107 @@ function MainComponent({homeMode, homeType, darkMode}) {
     }
   }, [currentPlayerRef])
 
+  const handlePlayPause = useCallback(() => {
+    if (currentPlayerRef.current?.player?.player?.getPlayerState != null) {
+      // youtube
+      const player = currentPlayerRef.current?.player?.player
+      const playerState = player.getPlayerState()
+      if (playerState == 1 || playerState == 3) {
+        player.pauseVideo()
+      } else if (playerState == 2 ) {
+        player.playVideo()
+      }
+    } else if (currentPlayerRef.current != null) {
+      // twitch
+      const player = currentPlayerRef.current
+      if (player.isPaused()) {
+        player.play()
+      } else {
+        player.pause()
+      }
+    }
+  }, [currentPlayerRef])
+
+  const handleMuteToggle = useCallback(() => {
+    if (currentPlayerRef.current?.player?.player?.getPlayerState != null) {
+      // youtube
+      const player = currentPlayerRef.current?.player?.player
+      if (player.isMuted()) {
+        player.unMute()
+      } else {
+        player.mute()
+      }
+    } else if (currentPlayerRef.current != null) {
+      // twitch
+      const player = currentPlayerRef.current
+      const muted = player.getMuted()
+      player.setMuted(!muted)
+    }
+  }, [currentPlayerRef])
+
+  const handleVolumeUp = useCallback(() => {
+    if (currentPlayerRef.current?.player?.player?.getPlayerState != null) {
+      // youtube
+      const player = currentPlayerRef.current?.player?.player
+      const currentVolume = player.getVolume() || 0
+      const newVolume = Math.min(currentVolume + 5, 100)
+      player.setVolume(newVolume)
+    } else if (currentPlayerRef.current != null) {
+      // twitch
+      const player = currentPlayerRef.current
+      const currentVolume = player.getVolume() || 0
+      const newVolume = Math.min(currentVolume + 0.05, 1)
+      player.setVolume(newVolume)
+    }
+  }, [currentPlayerRef])
+
+  const handleVolumeDown = useCallback(() => {
+    if (currentPlayerRef.current?.player?.player?.getPlayerState != null) {
+      // youtube
+      const player = currentPlayerRef.current?.player?.player
+      const currentVolume = player.getVolume() || 0
+      const newVolume = Math.max(currentVolume - 5, 0)
+      player.setVolume(newVolume)
+    } else if (currentPlayerRef.current != null) {
+      // twitch
+      const player = currentPlayerRef.current
+      const currentVolume = player.getVolume() || 0
+      const newVolume = Math.max(currentVolume - 0.05, 0)
+      player.setVolume(newVolume)
+    }
+  }, [currentPlayerRef])
+
+  // const handlePlaybackSpeedIncrease = useCallback(() => {
+  //   if (currentPlayerRef.current?.player?.player?.getPlayerState != null) {
+  //     // youtube
+  //     const player = currentPlayerRef.current?.player?.player
+  //     const currentVolume = player.getVolume() || 0
+  //     const newVolume = Math.min(currentVolume + 5, 100)
+  //     player.setVolume(newVolume)
+  //   } else if (currentPlayerRef.current != null) {
+  //     // twitch
+  //     const player = currentPlayerRef.current
+  //     const currentVolume = player.getVolume() || 0
+  //     const newVolume = Math.min(currentVolume + 0.05, 1)
+  //     player.setVolume(newVolume)
+  //   }
+  // }, [currentPlayerRef])
+
+  const handleQualitySet = useCallback(() => {
+    if (currentPlayerRef.current?.player?.player?.getPlayerState != null) {
+      // youtube
+      // not supported
+    } else if (currentPlayerRef.current != null) {
+      // twitch
+      const player = currentPlayerRef.current
+      const qualities = player.getQualities()
+      if (qualities) {
+        const hqQuality = qualities.find(quality => quality.isDefault)
+        hqQuality && player.setQuality(hqQuality.group)
+      }
+    }
+  }, [currentPlayerRef])
+  
   const rewindReady = useCallback((newRewindRef) => {
     rewindRefRef.current = newRewindRef
     // setRewindRef(newRewindRef)
@@ -1161,6 +1262,51 @@ function MainComponent({homeMode, homeType, darkMode}) {
     fetchData();
   }, []);
   // }, [filterInfo.currentGameId]);
+
+
+  useEffect(() => {
+    const ignoreElemTypes = ["text", "textarea", "email"]
+    const ignorePress = () => {
+      const activeElemType = document.activeElement.type
+      if (activeElemType && ignoreElemTypes.includes(activeElemType)) {
+        return true
+      }
+      return false
+    }
+    const rewindAmount = 5
+    const fastForwardAmount = 5
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'ArrowLeft' && !ignorePress()) {
+        e.preventDefault();
+        handleTimestampChange(null, rewindAmount)
+      } else if (e.key === 'ArrowRight' && !ignorePress()) {
+        e.preventDefault();
+        handleTimestampChange(null, -fastForwardAmount)
+      } else if (e.key === ',' && !ignorePress()) {
+        e.preventDefault();
+        handleTimestampChange(null, 1/60)
+      } else if (e.key === '.' && !ignorePress()) {
+        e.preventDefault();
+        handleTimestampChange(null, -1/60)
+      } else if (e.key === ' ' && !ignorePress()) {
+        e.preventDefault();
+        handlePlayPause()
+      } else if (e.key === 'm' && !ignorePress()) {
+        e.preventDefault();
+        handleMuteToggle()
+      } else if (e.key === 'ArrowUp' && !ignorePress()) {
+        e.preventDefault();
+        handleVolumeUp()
+      } else if (e.key === 'ArrowDown' && !ignorePress()) {
+        e.preventDefault();
+        handleVolumeDown()
+      } else if (e.key === 'h' && !ignorePress()) {
+        e.preventDefault();
+        handleQualitySet()
+      }
+    });
+  }, []);
+
 
   var gameName = VideoGameInfoById[filterInfo.currentGameId].displayName
   var loadingText = `Loading ${gameName} sets ...`

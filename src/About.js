@@ -34,7 +34,10 @@ function About() {
 
                     <span className="about-body">SetsOnStream currently supports:</span><br/>
                     <ul className="about-ul">{VideoGameInfo.map(item => <li className='about-body'>{item.name}</li>)}</ul>
-                    <br/>                    
+                    <br/>
+                    <h1 className="about-heading2">New: keyboard shortcuts (when player not focused)</h1>
+                    <span className="about-body">Rewind 5 sec, Forward 5 sec: arrowLeft arrowRight, pseudo-frameByFrame: "," "." Play/pause: space, Volume: up down, </span><br/>
+                    <span className="about-body">More mobile playback navigation options soon</span><br/><br/>
                     {/* <span className="about-body">{VideoGameInfo.map(item => item.displayName).join(", ")}</span><br/> */}
                     <h1 className="about-heading1">SetsOnStream: version 2.0.0 (08/24/2025) 🎉</h1><br/>
                     <span className="about-body">Sets on Stream 2.0 adds new navigation, favorites system, search system, bigger watching view</span><br/>
