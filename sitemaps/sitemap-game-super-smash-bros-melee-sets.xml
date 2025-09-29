@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-79/set/94492514/</loc>
-  <lastmod>2025-09-29T19:37:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-79/set/94492499/</loc>
+  <lastmod>2025-09-29T19:49:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833356/image-0851831d0ab0fd726aefa8a3aa97534f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Graham vs PSG | NMUP | Busard, KnockOut Zone #79 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Graham vs PSG | NMUP | Busard in Grand Final of KnockOut Zone #79, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578943574&amp;t=2h18m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1567</video:duration>
+    <video:publication_date>2025-09-29T19:49:40.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-10-07T19:49:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-79/set/94492514/</loc>
+  <lastmod>2025-09-29T20:01:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2578943574&amp;t=2h6m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>701</video:duration>
+    <video:duration>699</video:duration>
     <video:publication_date>2025-09-29T19:37:51.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-10-07T19:37:51.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-07T16:12:49.000Z</video:publication_date>
     <video:uploader>btssmash3</video:uploader>
     <video:expiration_date>2025-09-15T16:12:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/riptide-2025-4/set/93615626/</loc>
-  <lastmod>2025-09-07T16:32:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/744261/image-af9a0b5d9355aa1dcbea5654cf106e2a.jpg?ehk=UigPL5kmpXUE6j20nDzSuTeS9VKatCy%2By1VkguRRz8s%3D&amp;ehkOptimized=AVsIYCgRlefVEkIv%2FgaDR4Iu7MKUb45zeQmuTKqaj40%3D
-    </video:thumbnail_loc>
-    <video:title>
-      Nouns | Aklo vs Ginger, Riptide 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nouns | Aklo vs Ginger in Losers Round 1 of Riptide 2025, streamed by btssmash3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560579481&amp;t=0h45m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>220</video:duration>
-    <video:publication_date>2025-09-07T16:12:45.000Z</video:publication_date>
-    <video:uploader>btssmash3</video:uploader>
-    <video:expiration_date>2025-09-15T16:12:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
