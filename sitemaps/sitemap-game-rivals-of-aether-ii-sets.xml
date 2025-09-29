@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-209/set/94495719/</loc>
+  <lastmod>2025-09-29T23:12:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834179/image-14c3d9a9c3ae80f69ded4cfbd4961553.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tano vs NP | jaymo, ContenderHV Smash #209 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tano vs NP | jaymo in Winners Quarter-Final of ContenderHV Smash #209, streamed by ContenderHudsonValley
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579172147&amp;t=0h1m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>391</video:duration>
+    <video:publication_date>2025-09-29T22:54:10.000Z</video:publication_date>
+    <video:uploader>ContenderHudsonValley</video:uploader>
+    <video:expiration_date>2025-10-07T22:54:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/leeds-legacy-smash-pixel-196/set/94491620/</loc>
   <lastmod>2025-09-29T19:40:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T20:28:37.000Z</video:publication_date>
     <video:uploader>Kmltournaments2</video:uploader>
     <video:expiration_date>2025-09-21T20:28:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vi/set/93846497/</loc>
-  <lastmod>2025-09-13T20:57:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/814948/image-9ecdb5026cc2f4e67147da388224760e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kipper vs WDR | Triforce!, Prodigy Classic VI - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kipper vs WDR | Triforce! in Losers Semi-Final of Prodigy Classic VI, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565562241&amp;t=3h14m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1000</video:duration>
-    <video:publication_date>2025-09-13T20:21:31.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2025-09-21T20:21:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
