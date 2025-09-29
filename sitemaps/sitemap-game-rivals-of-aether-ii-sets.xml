@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/leeds-legacy-smash-pixel-196/set/94491632/</loc>
+  <lastmod>2025-09-29T18:41:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833908/image-a712ab3cd0ce8417997bd63295db3ce9.png
+    </video:thumbnail_loc>
+    <video:title>
+      LeedsLegacy | SMNOF vs YABOIPICCOLO, Leeds Legacy Smash @ Pixel #196 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LeedsLegacy | SMNOF vs YABOIPICCOLO in Losers Round 1 of Leeds Legacy Smash @ Pixel #196, streamed by LeedsLegacySmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578943997&amp;t=1h9m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>361</video:duration>
+    <video:publication_date>2025-09-29T18:41:27.000Z</video:publication_date>
+    <video:uploader>LeedsLegacySmash</video:uploader>
+    <video:expiration_date>2025-10-07T18:41:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/get-reel-take-5/set/94480255/</loc>
   <lastmod>2025-09-29T02:38:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T20:15:59.000Z</video:publication_date>
     <video:uploader>zDamascus</video:uploader>
     <video:expiration_date>2025-09-21T20:15:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ultimate-fighting-arena-2025-3/set/93837775/</loc>
-  <lastmod>2025-09-13T20:32:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      LS99 | Forskeren vs 10QuidShoes, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LS99 | Forskeren vs 10QuidShoes in Losers Final of ULTIMATE FIGHTING ARENA 2025, streamed by zDamascus
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565419730&amp;t=6h16m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1272</video:duration>
-    <video:publication_date>2025-09-13T19:54:32.000Z</video:publication_date>
-    <video:uploader>zDamascus</video:uploader>
-    <video:expiration_date>2025-09-21T19:54:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
