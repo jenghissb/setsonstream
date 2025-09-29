@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-132-in-maesuma-hit-132-in-hirakata/set/94489362/</loc>
-  <lastmod>2025-09-29T11:06:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-132-in-maesuma-hit-132-in-hirakata/set/94489363/</loc>
+  <lastmod>2025-09-29T11:27:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833737/image-6c8ab2ddb20a756fd151f4d177e08e4b.png
+    </video:thumbnail_loc>
+    <video:title>
+      ふぇんてす(fentesu) vs でんこた/DenKOTA(denkota /DenKOTA), マエスマ&apos;HIT#132 in 枚方 / Maesuma&apos;HIT#132 in Hirakata - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ふぇんてす(fentesu) vs でんこた/DenKOTA(denkota /DenKOTA) in Winners Semi-Final of マエスマ&apos;HIT#132 in 枚方 / Maesuma&apos;HIT#132 in Hirakata, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/LZZJ5daemB4?start=5045s
+    </video:player_loc>
+    <video:duration>682</video:duration>
+    <video:publication_date>2025-09-29T11:27:39.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-10-07T11:27:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-132-in-maesuma-hit-132-in-hirakata/set/94489362/</loc>
+  <lastmod>2025-09-29T11:30:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/LZZJ5daemB4?start=3769s
     </video:player_loc>
-    <video:duration>1296</video:duration>
+    <video:duration>1287</video:duration>
     <video:publication_date>2025-09-29T11:06:23.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-10-07T11:06:23.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-21T19:34:28.000Z</video:publication_date>
     <video:uploader>ttvMadison</video:uploader>
     <video:expiration_date>2025-09-29T19:34:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/throughout-the-stands-11/set/94186859/</loc>
-  <lastmod>2025-09-21T19:54:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823702/image-a058dab7147b533b490afcfc9626e647.png
-    </video:thumbnail_loc>
-    <video:title>
-      131 | xavier vs FOA | Tarnished, Throughout The Stands 11 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 131 | xavier vs FOA | Tarnished in Winners Semi-Final of Throughout The Stands 11, streamed by sectorxgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572325393&amp;t=0h35m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1080</video:duration>
-    <video:publication_date>2025-09-21T19:32:50.000Z</video:publication_date>
-    <video:uploader>sectorxgaming</video:uploader>
-    <video:expiration_date>2025-09-29T19:32:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
