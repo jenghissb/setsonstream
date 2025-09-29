@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-79/set/94492068/</loc>
-  <lastmod>2025-09-29T21:46:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833356/image-0851831d0ab0fd726aefa8a3aa97534f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ASC | SOLO vs GL | Oryon, KnockOut Zone #79 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ASC | SOLO vs GL | Oryon in Grand Final of KnockOut Zone #79, streamed by orbitalsheep
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2578950561&amp;t=4h5m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>245</video:duration>
-    <video:publication_date>2025-09-29T21:46:19.000Z</video:publication_date>
-    <video:uploader>orbitalsheep</video:uploader>
-    <video:expiration_date>2025-10-07T21:46:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-8-saison-2/set/94493282/</loc>
   <lastmod>2025-09-29T21:39:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -40,12 +16,84 @@
       Watch ECR BLS | Slacker vs BLS / SP | River in Grand Final of Bloom #8 - Saison 2, streamed by blossom_ssb
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2578940627&amp;t=4h12m51s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?channel=blossom_ssb&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>632</video:duration>
+    <video:duration>2021</video:duration>
     <video:publication_date>2025-09-29T21:39:52.000Z</video:publication_date>
     <video:uploader>blossom_ssb</video:uploader>
     <video:expiration_date>2025-10-07T21:39:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/coliseo-smash-training-center-3-pre-mystery-gift/set/94494423/</loc>
+  <lastmod>2025-09-29T22:03:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832700/image-d515546ff5598c2421c232d9e0eb25df.png
+    </video:thumbnail_loc>
+    <video:title>
+      AXB | Neitor vs U-Smash | Oreee, Coliseo Smash: Training Center #3 - Pre Mystery Gift - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AXB | Neitor vs U-Smash | Oreee in Winners Round 2 of Coliseo Smash: Training Center #3 - Pre Mystery Gift, streamed by coliseosmashcos
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579127032&amp;t=0h16m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>575</video:duration>
+    <video:publication_date>2025-09-29T22:03:58.000Z</video:publication_date>
+    <video:uploader>coliseosmashcos</video:uploader>
+    <video:expiration_date>2025-10-07T22:03:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/coliseo-smash-training-center-3-pre-mystery-gift/set/94494419/</loc>
+  <lastmod>2025-09-29T22:08:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832700/image-d515546ff5598c2421c232d9e0eb25df.png
+    </video:thumbnail_loc>
+    <video:title>
+      GH | SyC~Venharcore vs LaFa | kerpunk, Coliseo Smash: Training Center #3 - Pre Mystery Gift - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GH | SyC~Venharcore vs LaFa | kerpunk in Winners Round 1 of Coliseo Smash: Training Center #3 - Pre Mystery Gift, streamed by coliseosmashcos
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579127032&amp;t=0h5m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>668</video:duration>
+    <video:publication_date>2025-09-29T21:53:08.000Z</video:publication_date>
+    <video:uploader>coliseosmashcos</video:uploader>
+    <video:expiration_date>2025-10-07T21:53:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-79/set/94492068/</loc>
+  <lastmod>2025-09-29T22:02:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833356/image-0851831d0ab0fd726aefa8a3aa97534f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ASC | SOLO vs GL | Oryon, KnockOut Zone #79 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ASC | SOLO vs GL | Oryon in Grand Final of KnockOut Zone #79, streamed by orbitalsheep
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578950561&amp;t=4h5m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>884</video:duration>
+    <video:publication_date>2025-09-29T21:46:19.000Z</video:publication_date>
+    <video:uploader>orbitalsheep</video:uploader>
+    <video:expiration_date>2025-10-07T21:46:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-09-21T23:14:34.000Z</video:publication_date>
     <video:uploader>ProjectSmashstorm</video:uploader>
     <video:expiration_date>2025-09-29T23:14:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/npsc-presents-unity-s-stellar-starstorm/set/94191675/</loc>
-  <lastmod>2025-09-21T23:34:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815618/image-a2c6eded0829192936f3418f2763452f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Desimus vs Sh-Awe, NPSC Presents: UniTy&apos;s Stellar Starstorm - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Desimus vs Sh-Awe in Losers Quarter-Final of NPSC Presents: UniTy&apos;s Stellar Starstorm, streamed by npsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572476275&amp;t=0h45m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1099</video:duration>
-    <video:publication_date>2025-09-21T23:13:12.000Z</video:publication_date>
-    <video:uploader>npsmashclub</video:uploader>
-    <video:expiration_date>2025-09-29T23:13:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/recharged-x-246-prince-of-pain/set/94195619/</loc>
-  <lastmod>2025-09-21T23:37:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831144/image-ad70d748286e8c6b53a4dd742fc36fce.png
-    </video:thumbnail_loc>
-    <video:title>
-      BONK! vs Slasher, Recharged X #246 - Prince of Pain - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BONK! vs Slasher in Winners Final of Recharged X #246 - Prince of Pain, streamed by BONKfrys
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572444910&amp;t=1h31m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1244</video:duration>
-    <video:publication_date>2025-09-21T23:11:43.000Z</video:publication_date>
-    <video:uploader>BONKfrys</video:uploader>
-    <video:expiration_date>2025-09-29T23:11:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
