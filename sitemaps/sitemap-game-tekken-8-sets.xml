@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/squabble-up-sundays-6-squabble-up-until-september-ends/set/94487432/</loc>
-  <lastmod>2025-09-29T03:19:43.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/squabble-up-sundays-6-squabble-up-until-september-ends/set/94487445/</loc>
+  <lastmod>2025-09-29T03:40:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825028/image-07944bc6bb1dd8d74ccc498475666bef.png
+    </video:thumbnail_loc>
+    <video:title>
+      SR | The Yuubster vs FGC@UCLA | Elio, Squabble Up Sundays #6 - Squabble Up Until September Ends - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SR | The Yuubster vs FGC@UCLA | Elio in Losers Round 1 of Squabble Up Sundays #6 - Squabble Up Until September Ends, streamed by POWgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2578485330&amp;t=2h41m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>686</video:duration>
+    <video:publication_date>2025-09-29T03:40:22.000Z</video:publication_date>
+    <video:uploader>POWgaming</video:uploader>
+    <video:expiration_date>2025-10-07T03:40:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/squabble-up-sundays-6-squabble-up-until-september-ends/set/94487432/</loc>
+  <lastmod>2025-09-29T03:44:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2578485330&amp;t=2h20m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>556</video:duration>
+    <video:duration>660</video:duration>
     <video:publication_date>2025-09-29T03:19:43.000Z</video:publication_date>
     <video:uploader>POWgaming</video:uploader>
     <video:expiration_date>2025-10-07T03:19:43.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-11T00:32:07.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-09-19T00:32:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/donatos-fight-night-9-10-25/set/93717579/</loc>
-  <lastmod>2025-09-11T00:58:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826437/image-55e3b46a89a9af31f9c85ee8d3ac2776.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dragonlaw | Dragonlaw2235 vs Cobb, Donatos Fight Night - 9/10/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dragonlaw | Dragonlaw2235 vs Cobb in Winners Final of Donatos Fight Night - 9/10/25, streamed by matchstickmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2563338605&amp;t=1h4m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>834</video:duration>
-    <video:publication_date>2025-09-11T00:30:00.000Z</video:publication_date>
-    <video:uploader>matchstickmelee</video:uploader>
-    <video:expiration_date>2025-09-19T00:30:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
