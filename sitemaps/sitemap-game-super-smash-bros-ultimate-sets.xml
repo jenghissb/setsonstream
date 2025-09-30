@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-211/set/94513361/</loc>
+  <lastmod>2025-09-30T17:58:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834656/image-087c0620842c2094a63931057b13836e.png
+    </video:thumbnail_loc>
+    <video:title>
+      ARK | 3QI | Piwix vs GCR | so62lion, Magna Arena #211 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ARK | 3QI | Piwix vs GCR | so62lion in Winners Quarter-Final of Magna Arena #211, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579700140&amp;t=1h34m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1364</video:duration>
+    <video:publication_date>2025-09-30T17:58:05.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-10-08T17:58:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-211/set/94513353/</loc>
   <lastmod>2025-09-30T17:48:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-22T20:59:04.000Z</video:publication_date>
     <video:uploader>orbitalsheep</video:uploader>
     <video:expiration_date>2025-09-30T20:59:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tls-mad-ness-65/set/94212728/</loc>
-  <lastmod>2025-09-22T21:17:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830831/image-2e71ff3e8632e6c135079814c6941546.png
-    </video:thumbnail_loc>
-    <video:title>
-      TLSE | TCO | TaLinEsh vs ECR TCO | IbanTF, TLS MAD&apos;Ness #65 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TLSE | TCO | TaLinEsh vs ECR TCO | IbanTF in Grand Final of TLS MAD&apos;Ness #65, streamed by toulouselaststock
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573032485&amp;t=3h40m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1136</video:duration>
-    <video:publication_date>2025-09-22T20:56:37.000Z</video:publication_date>
-    <video:uploader>toulouselaststock</video:uploader>
-    <video:expiration_date>2025-09-30T20:56:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
