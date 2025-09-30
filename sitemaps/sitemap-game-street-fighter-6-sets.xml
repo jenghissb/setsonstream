@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/esg-fight-night-219/set/94507770/</loc>
+  <lastmod>2025-09-30T02:01:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828066/image-960752e05d14cc27a6b01a7c16305e3c.png
+    </video:thumbnail_loc>
+    <video:title>
+      B1oom vs ESG | HOJU, ESG Fight Night #219 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch B1oom vs ESG | HOJU in Round 2 of ESG Fight Night #219, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579204441&amp;t=2h6m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>606</video:duration>
+    <video:publication_date>2025-09-30T01:41:03.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2025-10-08T01:41:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/round-pour-55/set/94505354/</loc>
-  <lastmod>2025-09-30T00:52:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-30T01:21:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2579197266&amp;t=1h27m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>966</video:duration>
+    <video:duration>371</video:duration>
     <video:publication_date>2025-09-30T00:52:59.000Z</video:publication_date>
     <video:uploader>SwissWriter</video:uploader>
     <video:expiration_date>2025-10-08T00:52:59.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-13T19:25:53.000Z</video:publication_date>
     <video:uploader>soflodojo</video:uploader>
     <video:expiration_date>2025-09-21T19:25:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/flower-city-fight-fest/set/93846415/</loc>
-  <lastmod>2025-09-13T19:33:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815778/image-e7f7946bee000a8548d155d13abfec2d.png
-    </video:thumbnail_loc>
-    <video:title>
-      585Z | HecticION vs Josh, Flower City Fight Fest - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 585Z | HecticION vs Josh in Winners Round 1 of Flower City Fight Fest, streamed by 585fighterz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565480788&amp;t=3h55m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>241</video:duration>
-    <video:publication_date>2025-09-13T19:10:38.000Z</video:publication_date>
-    <video:uploader>585fighterz</video:uploader>
-    <video:expiration_date>2025-09-21T19:10:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
