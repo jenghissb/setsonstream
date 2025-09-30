@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-199/set/94516666/</loc>
+  <lastmod>2025-09-30T22:02:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833618/image-bc0663a982bf9db14b1181b05dc02e73.png
+    </video:thumbnail_loc>
+    <video:title>
+      BBC | ShaaawnCena vs BBC | Grizz, Le Hub 199 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BBC | ShaaawnCena vs BBC | Grizz in Winners Round 2 of Le Hub 199, streamed by Smash New Brunswick
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Gs1ACQwppgk?start=0s
+    </video:player_loc>
+    <video:duration>358</video:duration>
+    <video:publication_date>2025-09-30T21:54:23.000Z</video:publication_date>
+    <video:uploader>Smash New Brunswick</video:uploader>
+    <video:expiration_date>2025-10-08T21:54:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-199/set/94516649/</loc>
-  <lastmod>2025-09-30T21:35:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-30T21:52:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/70NGGBFmpAQ?start=5498s
     </video:player_loc>
-    <video:duration>847</video:duration>
+    <video:duration>846</video:duration>
     <video:publication_date>2025-09-30T21:35:36.000Z</video:publication_date>
     <video:uploader>Smash New Brunswick</video:uploader>
     <video:expiration_date>2025-10-08T21:35:36.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-22T23:36:47.000Z</video:publication_date>
     <video:uploader>one_up_games</video:uploader>
     <video:expiration_date>2025-09-30T23:36:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tap-smash-rebooted-53-2/set/94217654/</loc>
-  <lastmod>2025-09-22T23:53:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829655/image-d7f9f9552f48d7285cf75f31bacf1e30.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      YVL | Come To Novel Knockout vs Drexel | Charms, TAP Smash Rebooted #53 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch YVL | Come To Novel Knockout vs Drexel | Charms in Winners Semi-Final of TAP Smash Rebooted #53, streamed by tapesportscenter
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573248648&amp;t=1h15m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>797</video:duration>
-    <video:publication_date>2025-09-22T23:36:44.000Z</video:publication_date>
-    <video:uploader>tapesportscenter</video:uploader>
-    <video:expiration_date>2025-09-30T23:36:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
