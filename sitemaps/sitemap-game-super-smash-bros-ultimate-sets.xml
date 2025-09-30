@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-199/set/94516649/</loc>
+  <lastmod>2025-09-30T21:35:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833618/image-bc0663a982bf9db14b1181b05dc02e73.png
+    </video:thumbnail_loc>
+    <video:title>
+      lafo vs MoonShot, Le Hub 199 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch lafo vs MoonShot in Winners Round 1 of Le Hub 199, streamed by Smash New Brunswick
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/70NGGBFmpAQ?start=5498s
+    </video:player_loc>
+    <video:duration>177</video:duration>
+    <video:publication_date>2025-09-30T21:35:36.000Z</video:publication_date>
+    <video:uploader>Smash New Brunswick</video:uploader>
+    <video:expiration_date>2025-10-08T21:35:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-132-september-30th/set/94515348/</loc>
   <lastmod>2025-09-30T21:06:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-22T23:36:44.000Z</video:publication_date>
     <video:uploader>tapesportscenter</video:uploader>
     <video:expiration_date>2025-09-30T23:36:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hog-shock-15-12/set/94219174/</loc>
-  <lastmod>2025-09-22T23:57:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832014/image-e7555c07e3d94cb785f3592f159f3e23.png
-    </video:thumbnail_loc>
-    <video:title>
-      R-TruthStep vs Godenmon, HoG: Shock 15.12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch R-TruthStep vs Godenmon in Winners Round 1 of HoG: Shock 15.12, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573292274&amp;t=0h15m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>941</video:duration>
-    <video:publication_date>2025-09-22T23:35:59.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-09-30T23:35:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
