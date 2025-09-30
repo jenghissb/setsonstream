@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-243/set/94511836/</loc>
+  <lastmod>2025-09-30T09:45:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      nayf vs KAN | THE LASH, WeeklyVac #243 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch nayf vs KAN | THE LASH in Winners Round 1 of WeeklyVac #243, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579496931&amp;t=0h17m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>352</video:duration>
+    <video:publication_date>2025-09-30T09:36:24.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-10-08T09:36:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-66-powered-by-gamer-latam/set/94510827/</loc>
   <lastmod>2025-09-30T05:49:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-22T20:55:14.000Z</video:publication_date>
     <video:uploader>vgbootcamp</video:uploader>
     <video:expiration_date>2025-09-30T20:55:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dat-monday-meltdown-362/set/94213411/</loc>
-  <lastmod>2025-09-22T21:02:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830816/image-109c0ce0bbcb1686a674c2d228bce11f.png
-    </video:thumbnail_loc>
-    <video:title>
-      RK vs DAT RES ELS | ETB, DAT Monday Meltdown 362 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RK vs DAT RES ELS | ETB in Losers Round 2 of DAT Monday Meltdown 362, streamed by datteamlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573063308&amp;t=2h47m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>824</video:duration>
-    <video:publication_date>2025-09-22T20:45:25.000Z</video:publication_date>
-    <video:uploader>datteamlive</video:uploader>
-    <video:expiration_date>2025-09-30T20:45:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
