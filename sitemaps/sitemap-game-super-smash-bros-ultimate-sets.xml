@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-132-september-30th/set/94515345/</loc>
-  <lastmod>2025-09-30T19:05:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-132-september-30th/set/94515359/</loc>
+  <lastmod>2025-09-30T19:13:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833748/image-36550bf5301a3b91623fe811646d2394.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sassypriest vs Rosacrantz and Lumastern, FightHouse Weeklies #132 - September 30th - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sassypriest vs Rosacrantz and Lumastern in Losers Round 1 of FightHouse Weeklies #132 - September 30th, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579784689&amp;t=0h54m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>696</video:duration>
+    <video:publication_date>2025-09-30T19:13:50.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-10-08T19:13:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-132-september-30th/set/94515345/</loc>
+  <lastmod>2025-09-30T19:15:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2579784689&amp;t=0h46m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>411</video:duration>
+    <video:duration>415</video:duration>
     <video:publication_date>2025-09-30T19:05:33.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-10-08T19:05:33.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-22T22:42:23.000Z</video:publication_date>
     <video:uploader>716esports</video:uploader>
     <video:expiration_date>2025-09-30T22:42:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-133-heart-of-the-game-1/set/94215403/</loc>
-  <lastmod>2025-09-22T22:58:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830877/image-279a0c5891df7e62033ab6fc6e724d36.png
-    </video:thumbnail_loc>
-    <video:title>
-      Humza vs 716 | winters, Monday Night SmashBall 133 @ Heart Of The Game - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Humza vs 716 | winters in Winners Round 2 of Monday Night SmashBall 133 @ Heart Of The Game, streamed by 716esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573236128&amp;t=0h39m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>763</video:duration>
-    <video:publication_date>2025-09-22T22:42:11.000Z</video:publication_date>
-    <video:uploader>716esports</video:uploader>
-    <video:expiration_date>2025-09-30T22:42:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
