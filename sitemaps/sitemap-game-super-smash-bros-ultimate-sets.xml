@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-211/set/94513365/</loc>
-  <lastmod>2025-09-30T20:01:39.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-132-september-30th/set/94515362/</loc>
+  <lastmod>2025-09-30T20:36:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833748/image-36550bf5301a3b91623fe811646d2394.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Bloop! vs Sassypriest, FightHouse Weeklies #132 - September 30th - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bloop! vs Sassypriest in Losers Semi-Final of FightHouse Weeklies #132 - September 30th, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579784689&amp;t=2h7m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>429</video:duration>
+    <video:publication_date>2025-09-30T20:26:22.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-10-08T20:26:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-211/set/94513366/</loc>
+  <lastmod>2025-09-30T20:31:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/834656/image-087c0620842c2094a63931057b13836e.png
     </video:thumbnail_loc>
     <video:title>
-      GCR | Fendeavor vs ARK | 3QI | Piwix, Magna Arena #211 - Sets on Stream
+      ARK | 3QI | Piwix vs GCR | Fendeavor, Magna Arena #211 - Sets on Stream
     </video:title>
     <video:description>
-      Watch GCR | Fendeavor vs ARK | 3QI | Piwix in Grand Final of Magna Arena #211, streamed by SmashStrasbourg
+      Watch ARK | 3QI | Piwix vs GCR | Fendeavor in Grand Final Reset of Magna Arena #211, streamed by SmashStrasbourg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2579700140&amp;t=3h38m15s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2579700140&amp;t=3h50m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>902</video:duration>
-    <video:publication_date>2025-09-30T20:01:39.000Z</video:publication_date>
+    <video:duration>957</video:duration>
+    <video:publication_date>2025-09-30T20:14:05.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2025-10-08T20:01:39.000Z</video:expiration_date>
+    <video:expiration_date>2025-10-08T20:14:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-132-september-30th/set/94515347/</loc>
-  <lastmod>2025-09-30T20:10:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-09-30T20:19:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2579784689&amp;t=1h51m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>378</video:duration>
+    <video:duration>332</video:duration>
     <video:publication_date>2025-09-30T20:10:23.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-10-08T20:10:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-211/set/94513365/</loc>
+  <lastmod>2025-09-30T20:16:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834656/image-087c0620842c2094a63931057b13836e.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCR | Fendeavor vs ARK | 3QI | Piwix, Magna Arena #211 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCR | Fendeavor vs ARK | 3QI | Piwix in Grand Final of Magna Arena #211, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2579700140&amp;t=3h38m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>742</video:duration>
+    <video:publication_date>2025-09-30T20:01:39.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-10-08T20:01:39.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-09-22T23:33:51.000Z</video:publication_date>
     <video:uploader>tol_gaming_lounge</video:uploader>
     <video:expiration_date>2025-09-30T23:33:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/revel-roll-west-214/set/94218778/</loc>
-  <lastmod>2025-09-22T23:49:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831034/image-1f394f94462ae1a7234b3ede938832df.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kaypo vs Kel, Revel &amp; Roll West #214! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kaypo vs Kel in Winners Quarter-Final of Revel &amp; Roll West #214!, streamed by Lylak_SSB
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573296970&amp;t=0h6m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>722</video:duration>
-    <video:publication_date>2025-09-22T23:32:51.000Z</video:publication_date>
-    <video:uploader>Lylak_SSB</video:uploader>
-    <video:expiration_date>2025-09-30T23:32:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-open-weekly-36/set/94217261/</loc>
-  <lastmod>2025-09-22T23:49:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830227/image-de0bb6eaf303b01e4e6b58317abae31d.png
-    </video:thumbnail_loc>
-    <video:title>
-      DBQ | SoloJones vs HRT | justDave, Smash Open Weekly 36 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DBQ | SoloJones vs HRT | justDave in Winners Quarter-Final of Smash Open Weekly 36, streamed by mryamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573292071&amp;t=0h9m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1038</video:duration>
-    <video:publication_date>2025-09-22T23:29:02.000Z</video:publication_date>
-    <video:uploader>mryamp</video:uploader>
-    <video:expiration_date>2025-09-30T23:29:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
