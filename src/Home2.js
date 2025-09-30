@@ -781,6 +781,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
     noDisplayData: false,
     noRouteInfo: false,
     onlyTextVideoTitle: false,
+    noControls: false,
     // noMap: false,
   }
   if (params.setParam != null && currentGameId === "43868") {
@@ -788,7 +789,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
       // noRightPane: true,
       noDisplayData: true,
       noRouteInfo: true,
-      onlyTextVideoTitle: true
+      onlyTextVideoTitle: true,
+      noControls: true,
       // noMap: true,
     }
   }
@@ -1458,7 +1460,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
             {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }
             <div className="home2titleBar">
               {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />}
-              {!displayConfig.noRouteInfo && showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
+              {!displayConfig.noRouteInfo &&  showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
               <div className="emptyDiv"/>
               </div>
             </div>
@@ -1555,7 +1557,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // const previewScale = window.scrollY
   const previewStyle = notLowWidth ? 
      {position: "sticky", top: useHomeTypeLists? "48px" : "0px", zIndex:30000, alignSelf: "center"}
-   : {position: "sticky", top: "86px", zIndex:30000, alignSelf: "center"}
+   : {position: "sticky", top: displayConfig.noRouteInfo ? "0px" : "86px", zIndex:30000, alignSelf: "center"}
   if (useHomeTypeLists) {
     // previewStyle.height = "38%"
     // previewStyle.width = "min(max(30%, 180px), 500px)"
@@ -1630,7 +1632,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
           </div>
           {
-            previewItem && <NowPlaying {...{setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
+            previewItem && <NowPlaying {...{minimal: displayConfig.noControls, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
           }
           {
             // renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)

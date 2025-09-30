@@ -7,7 +7,7 @@ import { IconStartGg, IconStream } from './BrandIcons.js'
 import { renderFilterButton } from './FilterButton.js'
 import { Link } from 'react-router-dom';
 
-export const NowPlaying = memo(({setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
+export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
   var preview = null
   var divClass = "nowPlaying-set-row-1"
   if (selected) divClass = divClass + " nowPlaying-set-row-1-selected"
@@ -90,6 +90,21 @@ export const NowPlaying = memo(({setShowFilterModal, item, filterInfo, useVideoI
   const streamIcon = item.streamInfo.streamIcon
   //          <a href={item.player1Info.entrantUrl} target="_blank" className={player1NameClass}>{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className={player2NameClass}>{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
 
+  if (minimal) {
+    return (
+      <div className="nowPlayingRow">
+      <div className="nowPlaying-under-row">
+        <div className="nowPlaying-under-info">
+          <div className="nowPlaying-set-row-4">
+            <div className={player1NameClass}>{item.player1Info.nameWithRomaji}</div><span className='nowPlaying-vsText'> vs </span><div className={player2NameClass}>{item.player2Info.nameWithRomaji}</div>
+          </div>
+          {/* {RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, handlePlayPause, rewindReady})} */}
+        </div>
+      </div>
+      </div>   
+    ) 
+  }
+  
   return (
     <div className="nowPlayingRow">
     <div className="nowPlaying-under-row">
