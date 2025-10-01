@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-113/set/94530688/</loc>
-  <lastmod>2025-10-01T03:26:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-113/set/94530809/</loc>
+  <lastmod>2025-10-01T03:41:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,18 @@
       https://images.start.gg/images/tournament/834841/image-e4d80656ae39cee4150824f9424c8bfa.png
     </video:thumbnail_loc>
     <video:title>
-      Aerius vs smus, Melee @ Abbey Tavern #113 - Sets on Stream
+      Deepstate | Kegstand Jesus vs HairyDemon, Melee @ Abbey Tavern #113 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Aerius vs smus in Winners Quarter-Final of Melee @ Abbey Tavern #113, streamed by SFMelee
+      Watch Deepstate | Kegstand Jesus vs HairyDemon in Losers Round 4 of Melee @ Abbey Tavern #113, streamed by SFMelee
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580108657&amp;t=1h47m42s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2580108657&amp;t=2h2m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>820</video:duration>
-    <video:publication_date>2025-10-01T03:26:58.000Z</video:publication_date>
+    <video:duration>974</video:duration>
+    <video:publication_date>2025-10-01T03:41:51.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-09T03:26:58.000Z</video:expiration_date>
+    <video:expiration_date>2025-10-09T03:41:51.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -42,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=sidestream&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>842</video:duration>
+    <video:duration>1889</video:duration>
     <video:publication_date>2025-10-01T03:26:36.000Z</video:publication_date>
     <video:uploader>sidestream</video:uploader>
     <video:expiration_date>2025-10-09T03:26:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-113/set/94530688/</loc>
+  <lastmod>2025-10-01T03:44:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834841/image-e4d80656ae39cee4150824f9424c8bfa.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aerius vs smus, Melee @ Abbey Tavern #113 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aerius vs smus in Winners Quarter-Final of Melee @ Abbey Tavern #113, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2580108657&amp;t=1h47m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>407</video:duration>
+    <video:publication_date>2025-10-01T03:26:58.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-10-09T03:26:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14398,30 +14422,6 @@
     <video:publication_date>2025-09-08T00:58:33.000Z</video:publication_date>
     <video:uploader>vgbootcamp4</video:uploader>
     <video:expiration_date>2025-09-16T00:58:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kings-of-hali-8-infinite/set/93624888/</loc>
-  <lastmod>2025-09-08T01:08:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/794223/image-b2ad04e5808c4bf3d018bae7c1e34115.png
-    </video:thumbnail_loc>
-    <video:title>
-      KELLZ vs Rick, Kings of Hali 8: Infinite - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KELLZ vs Rick in Losers Semi-Final of Kings of Hali 8: Infinite, streamed by vgbootcamp4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2560865517&amp;t=2h47m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1564</video:duration>
-    <video:publication_date>2025-09-08T00:32:15.000Z</video:publication_date>
-    <video:uploader>vgbootcamp4</video:uploader>
-    <video:expiration_date>2025-09-16T00:32:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
