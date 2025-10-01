@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-205/set/94533067/</loc>
-  <lastmod>2025-10-01T11:23:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-205/set/94533069/</loc>
+  <lastmod>2025-10-01T11:34:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832551/image-59a31bbb6400bbe09ece6c0b6d4022ae.png
+    </video:thumbnail_loc>
+    <video:title>
+      tameigo#OKPG vs まいぱん(maipan), Weekly Smash Party ～スマパ～ #205 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tameigo#OKPG vs まいぱん(maipan) in Winners Quarter-Final of Weekly Smash Party ～スマパ～ #205, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/_rm0Jk6seSk?start=4755s
+    </video:player_loc>
+    <video:duration>276</video:duration>
+    <video:publication_date>2025-10-01T11:34:36.000Z</video:publication_date>
+    <video:uploader>East Geek Smash</video:uploader>
+    <video:expiration_date>2025-10-09T11:34:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-205/set/94533067/</loc>
+  <lastmod>2025-10-01T11:35:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/_rm0Jk6seSk?start=4098s
     </video:player_loc>
-    <video:duration>305</video:duration>
+    <video:duration>593</video:duration>
     <video:publication_date>2025-10-01T11:23:39.000Z</video:publication_date>
     <video:uploader>East Geek Smash</video:uploader>
     <video:expiration_date>2025-10-09T11:23:39.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-23T03:09:28.000Z</video:publication_date>
     <video:uploader>thereplayrunback</video:uploader>
     <video:expiration_date>2025-10-01T03:09:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-237/set/94225809/</loc>
-  <lastmod>2025-09-23T03:17:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831797/image-146d118da4609fc65eef2c0c26c47005.png
-    </video:thumbnail_loc>
-    <video:title>
-      EMU | Symphonies vs DanteLatte, Movement Smash # 237 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EMU | Symphonies vs DanteLatte in Losers Semi-Final of Movement Smash # 237, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573360603&amp;t=2h12m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>591</video:duration>
-    <video:publication_date>2025-09-23T03:02:11.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2025-10-01T03:02:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
