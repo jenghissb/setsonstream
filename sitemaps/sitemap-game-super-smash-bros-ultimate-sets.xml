@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-rave-99-4-orange-you-glad-i-didn-t-chose-yellow/set/94540948/</loc>
-  <lastmod>2025-10-01T21:31:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-rave-99-4-orange-you-glad-i-didn-t-chose-yellow/set/94540958/</loc>
+  <lastmod>2025-10-01T21:46:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833535/image-9891cb93a4c91de3647bb185a92c7c6d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Luminosity | Maxwell vs Fish, The Rave 99.4 - Orange you glad i didn&apos;t chose yellow? - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Luminosity | Maxwell vs Fish in Winners Quarter-Final of The Rave 99.4 - Orange you glad i didn&apos;t chose yellow?, streamed by tu_gameroom
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2580725691&amp;t=0h38m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>193</video:duration>
+    <video:publication_date>2025-10-01T21:46:21.000Z</video:publication_date>
+    <video:uploader>tu_gameroom</video:uploader>
+    <video:expiration_date>2025-10-09T21:46:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-rave-99-4-orange-you-glad-i-didn-t-chose-yellow/set/94540948/</loc>
+  <lastmod>2025-10-01T21:42:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2580725691&amp;t=0h24m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>384</video:duration>
+    <video:duration>483</video:duration>
     <video:publication_date>2025-10-01T21:31:51.000Z</video:publication_date>
     <video:uploader>tu_gameroom</video:uploader>
     <video:expiration_date>2025-10-09T21:31:51.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-23T18:57:20.000Z</video:publication_date>
     <video:uploader>blossom_ssb</video:uploader>
     <video:expiration_date>2025-10-01T18:57:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-131-september-23rd/set/94238614/</loc>
-  <lastmod>2025-09-23T19:04:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831263/image-5951ea4dbcffff59b7a8b762a10cfa12.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Cornaith vs FH | EmaT, FightHouse Weeklies #131 - September 23rd - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cornaith vs FH | EmaT in Winners Round 1 of FightHouse Weeklies #131 - September 23rd, streamed by FightHouseTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573912248&amp;t=0h19m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>554</video:duration>
-    <video:publication_date>2025-09-23T18:51:52.000Z</video:publication_date>
-    <video:uploader>FightHouseTV</video:uploader>
-    <video:expiration_date>2025-10-01T18:51:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
