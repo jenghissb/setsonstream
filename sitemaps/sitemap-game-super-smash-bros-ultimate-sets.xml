@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-163-smash-bite-chew/set/94531986/</loc>
-  <lastmod>2025-10-01T06:18:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-163-smash-bite-chew/set/94531971/</loc>
+  <lastmod>2025-10-01T06:43:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833232/image-a01ba252c211a13120ffb93767fb19ce.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CF | Monte vs Yikes! ebs | FD, Shark Tank #163: Smash, Bite, Chew - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CF | Monte vs Yikes! ebs | FD in Grand Final of Shark Tank #163: Smash, Bite, Chew, streamed by ClubSmashTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2580191831&amp;t=2h56m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>268</video:duration>
+    <video:publication_date>2025-10-01T06:43:57.000Z</video:publication_date>
+    <video:uploader>ClubSmashTV</video:uploader>
+    <video:expiration_date>2025-10-09T06:43:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-163-smash-bite-chew/set/94531986/</loc>
+  <lastmod>2025-10-01T06:37:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2580191831&amp;t=2h30m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>305</video:duration>
+    <video:duration>1121</video:duration>
     <video:publication_date>2025-10-01T06:18:07.000Z</video:publication_date>
     <video:uploader>ClubSmashTV</video:uploader>
     <video:expiration_date>2025-10-09T06:18:07.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-23T02:45:30.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-01T02:45:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-237/set/94225746/</loc>
-  <lastmod>2025-09-23T03:00:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831797/image-146d118da4609fc65eef2c0c26c47005.png
-    </video:thumbnail_loc>
-    <video:title>
-      CTG | AnthonyIsntCool vs HMC | Arkdee, Movement Smash # 237 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CTG | AnthonyIsntCool vs HMC | Arkdee in Winners Final of Movement Smash # 237, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573360603&amp;t=1h52m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>722</video:duration>
-    <video:publication_date>2025-09-23T02:42:20.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2025-10-01T02:42:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
