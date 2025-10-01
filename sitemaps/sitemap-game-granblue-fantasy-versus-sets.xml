@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/hog-dragon-120/set/94527076/</loc>
+  <lastmod>2025-10-01T01:42:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835359/image-441eac61d9ac60c58037227085df45e3.png
+    </video:thumbnail_loc>
+    <video:title>
+      EVIL | KyokuReset vs Wyrmidon, HoG: Dragon #120 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EVIL | KyokuReset vs Wyrmidon in Losers Quarter-Final of HoG: Dragon #120, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2580002734&amp;t=1h43m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>760</video:duration>
+    <video:publication_date>2025-10-01T01:10:10.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-10-09T01:10:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-farming-market-3-brewed-brawl/set/94444250/</loc>
   <lastmod>2025-09-28T05:31:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-09T16:17:51.000Z</video:publication_date>
     <video:uploader>burntofightglasgow</video:uploader>
     <video:expiration_date>2025-08-17T16:17:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/maximum-impact-glasgow-summer-2025/set/92469242/</loc>
-  <lastmod>2025-08-09T16:22:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/789279/image-599a633b939008338c4f5b3867a61bc9.png
-    </video:thumbnail_loc>
-    <video:title>
-      RDE | SoupDeWoop vs OAP | SamuraiPizzaKen, Maximum Impact Glasgow - Summer 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RDE | SoupDeWoop vs OAP | SamuraiPizzaKen in Losers Quarter-Final of Maximum Impact Glasgow - Summer 2025, streamed by burntofightglasgow
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2535367081&amp;t=4h13m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>477</video:duration>
-    <video:publication_date>2025-08-09T16:09:50.000Z</video:publication_date>
-    <video:uploader>burntofightglasgow</video:uploader>
-    <video:expiration_date>2025-08-17T16:09:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
