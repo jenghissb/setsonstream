@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-120/set/94527627/</loc>
-  <lastmod>2025-10-01T02:39:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-74-2xko-tekken-8/set/94530927/</loc>
+  <lastmod>2025-10-01T03:24:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833664/image-d6b614d48e82a44bd0b9c8af117bcb7c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cenizen vs MADHouse | Enenra, Guildhouse Tuesday 74 - 2XKO &amp; Tekken 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cenizen vs MADHouse | Enenra in Winners Quarter-Final of Guildhouse Tuesday 74 - 2XKO &amp; Tekken 8, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2580162293&amp;t=0h27m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>985</video:duration>
+    <video:publication_date>2025-10-01T03:24:13.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-09T03:24:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-120/set/94527627/</loc>
+  <lastmod>2025-10-01T03:05:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2580134518&amp;t=0h25m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>684</video:duration>
+    <video:duration>1044</video:duration>
     <video:publication_date>2025-10-01T02:39:36.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-09T02:39:36.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-13T10:37:20.000Z</video:publication_date>
     <video:uploader>Reversalgg</video:uploader>
     <video:expiration_date>2025-09-21T10:37:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ultimate-fighting-arena-2025-3/set/93819324/</loc>
-  <lastmod>2025-09-13T10:39:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Just LeSym vs Kayane, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Just LeSym vs Kayane in Winners Quarter-Final of ULTIMATE FIGHTING ARENA 2025, streamed by Reversalgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565308314&amp;t=0h34m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1009</video:duration>
-    <video:publication_date>2025-09-13T10:20:09.000Z</video:publication_date>
-    <video:uploader>Reversalgg</video:uploader>
-    <video:expiration_date>2025-09-21T10:20:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
