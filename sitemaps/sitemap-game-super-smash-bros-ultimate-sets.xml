@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581458312&amp;t=0h32m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>548</video:duration>
+    <video:duration>1190</video:duration>
     <video:publication_date>2025-10-02T19:03:11.000Z</video:publication_date>
     <video:uploader>smashgrenoble</video:uploader>
     <video:expiration_date>2025-10-10T19:03:11.000Z</video:expiration_date>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581411691&amp;t=1h14m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1259</video:duration>
+    <video:duration>1901</video:duration>
     <video:publication_date>2025-10-02T18:51:20.000Z</video:publication_date>
     <video:uploader>smashalezmtp</video:uploader>
     <video:expiration_date>2025-10-10T18:51:20.000Z</video:expiration_date>
@@ -66,16 +66,88 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=lacheckpoint_tv&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>494</video:duration>
+    <video:duration>1136</video:duration>
     <video:publication_date>2025-10-02T19:04:05.000Z</video:publication_date>
     <video:uploader>lacheckpoint_tv</video:uploader>
     <video:expiration_date>2025-10-10T19:04:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fragsmash-weekly-139/set/94567914/</loc>
-  <lastmod>2025-10-02T19:03:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-181-last-chance-qualifier/set/94567529/</loc>
+  <lastmod>2025-10-02T19:11:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825641/image-7e48741c882f05ac15fadaead71a57aa.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TJay vs 3-13 | UrQte, Weekly L #181 - LAST CHANCE QUALIFIER - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TJay vs 3-13 | UrQte in Winners Round 2 of Weekly L #181 - LAST CHANCE QUALIFIER, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581453479&amp;t=0h45m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>703</video:duration>
+    <video:publication_date>2025-10-02T19:11:18.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2025-10-10T19:11:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fragsmash-weekly-139/set/94567923/</loc>
+  <lastmod>2025-10-02T19:12:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834158/image-ebffcaba9ffbbe26e197d316dc9edf3e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Vapo vs MB | Nikita Komagreneda, FragSmash Weekly #139 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vapo vs MB | Nikita Komagreneda in Winners Quarter-Final of FragSmash Weekly #139, streamed by fragsoc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581421756&amp;t=1h23m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>608</video:duration>
+    <video:publication_date>2025-10-02T19:12:53.000Z</video:publication_date>
+    <video:uploader>fragsoc</video:uploader>
+    <video:expiration_date>2025-10-10T19:12:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/get-ready-s2-34/set/94566162/</loc>
+  <lastmod>2025-10-02T19:09:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835309/image-2f5940a0329a227af1f111e51d9806a6.png
+    </video:thumbnail_loc>
+    <video:title>
+      AUEC | Kogo vs BNK GM | Baqueux en string, get ready! S2 #34 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AUEC | Kogo vs BNK GM | Baqueux en string in Losers Quarter-Final of get ready! S2 #34, streamed by ReadyAvignon
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581402981&amp;t=1h42m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>828</video:duration>
+    <video:publication_date>2025-10-02T19:09:13.000Z</video:publication_date>
+    <video:uploader>ReadyAvignon</video:uploader>
+    <video:expiration_date>2025-10-10T19:09:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fragsmash-weekly-139/set/94567914/</loc>
+  <lastmod>2025-10-02T19:14:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -90,34 +162,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581421756&amp;t=1h13m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>541</video:duration>
+    <video:duration>514</video:duration>
     <video:publication_date>2025-10-02T19:03:18.000Z</video:publication_date>
     <video:uploader>fragsoc</video:uploader>
     <video:expiration_date>2025-10-10T19:03:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/jokoa-153/set/94562904/</loc>
-  <lastmod>2025-10-02T19:04:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834721/image-9876c3f9ff08d6f5506c6085b84ffc53.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      JTM | | Dasher vs TEAM PEPS | Gazogen, JOKOA #153 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JTM | | Dasher vs TEAM PEPS | Gazogen in Grand Final of JOKOA #153, streamed by smashcotebasque
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=smashcotebasque&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>477</video:duration>
-    <video:publication_date>2025-10-02T19:04:22.000Z</video:publication_date>
-    <video:uploader>smashcotebasque</video:uploader>
-    <video:expiration_date>2025-10-10T19:04:22.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,78 +72022,6 @@
     <video:publication_date>2025-09-24T20:13:33.000Z</video:publication_date>
     <video:uploader>asso_grab</video:uploader>
     <video:expiration_date>2025-10-02T20:13:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-7/set/94266977/</loc>
-  <lastmod>2025-09-24T20:19:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      GloomDW vs Aporeo, VantagePoint 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GloomDW vs Aporeo in Winners Semi-Final of VantagePoint 7, streamed by smashpointseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574699123&amp;t=2h25m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>990</video:duration>
-    <video:publication_date>2025-09-24T20:01:27.000Z</video:publication_date>
-    <video:uploader>smashpointseries</video:uploader>
-    <video:expiration_date>2025-10-02T20:01:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-109/set/94265742/</loc>
-  <lastmod>2025-09-24T20:14:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829131/image-fa964d2861ae4ef3853497c48cfd36c0.png
-    </video:thumbnail_loc>
-    <video:title>
-      EDC | Pratys vs SBF | Félix, D-LAY #109 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDC | Pratys vs SBF | Félix in Winners Semi-Final of D-LAY #109, streamed by asso_grab
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574765478&amp;t=0h47m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1616</video:duration>
-    <video:publication_date>2025-09-24T19:46:26.000Z</video:publication_date>
-    <video:uploader>asso_grab</video:uploader>
-    <video:expiration_date>2025-10-02T19:46:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-7/set/94266989/</loc>
-  <lastmod>2025-09-24T20:01:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      POYO | EnterMidnight vs PSylvestris | NØHR(PSylvestris | N O HR), VantagePoint 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch POYO | EnterMidnight vs PSylvestris | NØHR(PSylvestris | N O HR) in Losers Round 1 of VantagePoint 7, streamed by smashpointseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574699123&amp;t=2h0m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1381</video:duration>
-    <video:publication_date>2025-09-24T19:36:30.000Z</video:publication_date>
-    <video:uploader>smashpointseries</video:uploader>
-    <video:expiration_date>2025-10-02T19:36:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
