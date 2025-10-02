@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-weekly-1/set/94563709/</loc>
-  <lastmod>2025-10-02T21:45:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/boiling-point-41/set/94570344/</loc>
+  <lastmod>2025-10-02T22:19:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827401/image-fe405b78c665ce475a936f83f465ba57.png
+      https://images.start.gg/images/tournament/835342/image-9bd3624654dfa9ce67bdbf32c20e0a24.png
     </video:thumbnail_loc>
     <video:title>
-      ATC True | Bizaute vs HsR | LTH | 12dreams, MUC Weekly #1 - Sets on Stream
+      The Great | Gatsby vs Ocellwiz, Boiling Point 41 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ATC True | Bizaute vs HsR | LTH | 12dreams in Grand Final of MUC Weekly #1, streamed by smashalezmtp
+      Watch The Great | Gatsby vs Ocellwiz in Winners Round 2 of Boiling Point 41, streamed by jeffdaboss42
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=smashalezmtp&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2581614882&amp;t=0h20m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1739</video:duration>
-    <video:publication_date>2025-10-02T21:45:08.000Z</video:publication_date>
-    <video:uploader>smashalezmtp</video:uploader>
-    <video:expiration_date>2025-10-10T21:45:08.000Z</video:expiration_date>
+    <video:duration>708</video:duration>
+    <video:publication_date>2025-10-02T22:19:20.000Z</video:publication_date>
+    <video:uploader>jeffdaboss42</video:uploader>
+    <video:expiration_date>2025-10-10T22:19:20.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-181-last-chance-qualifier/set/94567542/</loc>
-  <lastmod>2025-10-02T22:08:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-02T22:29:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581453479&amp;t=3h43m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>327</video:duration>
+    <video:duration>1057</video:duration>
     <video:publication_date>2025-10-02T22:08:40.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2025-10-10T22:08:40.000Z</video:expiration_date>
@@ -50,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/boiling-point-41/set/94570343/</loc>
-  <lastmod>2025-10-02T22:00:44.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-02T22:20:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581614882&amp;t=0h2m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>803</video:duration>
+    <video:duration>1067</video:duration>
     <video:publication_date>2025-10-02T22:00:44.000Z</video:publication_date>
     <video:uploader>jeffdaboss42</video:uploader>
     <video:expiration_date>2025-10-10T22:00:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-weekly-1/set/94563709/</loc>
+  <lastmod>2025-10-02T22:15:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827401/image-fe405b78c665ce475a936f83f465ba57.png
+    </video:thumbnail_loc>
+    <video:title>
+      ATC True | Bizaute vs HsR | LTH | 12dreams, MUC Weekly #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ATC True | Bizaute vs HsR | LTH | 12dreams in Grand Final of MUC Weekly #1, streamed by smashalezmtp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581578580&amp;t=0h37m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1577</video:duration>
+    <video:publication_date>2025-10-02T21:45:08.000Z</video:publication_date>
+    <video:uploader>smashalezmtp</video:uploader>
+    <video:expiration_date>2025-10-10T21:45:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-24T22:57:14.000Z</video:publication_date>
     <video:uploader>zkayani</video:uploader>
     <video:expiration_date>2025-10-02T22:57:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-rave-99-3-guess-we-doin-green-now/set/94267675/</loc>
-  <lastmod>2025-09-24T23:21:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831784/image-d7716bb60ee6f6c7083856f821accc8f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Drexel | Zeya vs UMD | King, The Rave 99.3 - Guess we doin green now - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Drexel | Zeya vs UMD | King in Losers Quarter-Final of The Rave 99.3 - Guess we doin green now, streamed by tu_gameroom
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574862164&amp;t=1h43m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1417</video:duration>
-    <video:publication_date>2025-09-24T22:54:03.000Z</video:publication_date>
-    <video:uploader>tu_gameroom</video:uploader>
-    <video:expiration_date>2025-10-02T22:54:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
