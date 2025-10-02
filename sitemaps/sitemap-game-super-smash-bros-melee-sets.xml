@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-162-ics-ice-isis-i-m-seeing-a-pattern/set/94558135/</loc>
+  <lastmod>2025-10-02T03:38:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834996/image-3cc91165874ea720faaa76539f355a0e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Naxy vs Jizzard, Adam&apos;s Smash Series #162 : ICs...ICE...ISIS... I&apos;m seeing a pattern... - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Naxy vs Jizzard in Losers Round 4 of Adam&apos;s Smash Series #162 : ICs...ICE...ISIS... I&apos;m seeing a pattern..., streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2580953138&amp;t=1h29m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>419</video:duration>
+    <video:publication_date>2025-10-02T03:38:19.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2025-10-10T03:38:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-10-1-25/set/94545269/</loc>
   <lastmod>2025-10-02T02:39:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-10T01:03:53.000Z</video:publication_date>
     <video:uploader>meleeboston</video:uploader>
     <video:expiration_date>2025-09-18T01:03:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/d20-melee-25/set/93695871/</loc>
-  <lastmod>2025-09-10T01:12:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826941/image-ed79a5a5655438fc3327e1bbb847ddb2.png
-    </video:thumbnail_loc>
-    <video:title>
-      OG Swaglord vs BudLiteEsports | Schnurb, D20 Melee 25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OG Swaglord vs BudLiteEsports | Schnurb in Winners Semi-Final of D20 Melee 25, streamed by dinksterlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2562535906&amp;t=1h2m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>555</video:duration>
-    <video:publication_date>2025-09-10T00:47:16.000Z</video:publication_date>
-    <video:uploader>dinksterlive</video:uploader>
-    <video:expiration_date>2025-09-18T00:47:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
