@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581578580&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>396</video:duration>
+    <video:duration>1232</video:duration>
     <video:publication_date>2025-10-02T21:06:33.000Z</video:publication_date>
     <video:uploader>smashalezmtp</video:uploader>
     <video:expiration_date>2025-10-10T21:06:33.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-181-last-chance-qualifier/set/94567602/</loc>
-  <lastmod>2025-10-02T20:57:16.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-181-last-chance-qualifier/set/94567604/</loc>
+  <lastmod>2025-10-02T21:18:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825641/image-7e48741c882f05ac15fadaead71a57aa.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RODA | João Duarte vs IST/WLPR | Big G, Weekly L #181 - LAST CHANCE QUALIFIER - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RODA | João Duarte vs IST/WLPR | Big G in Losers Semi-Final of Weekly L #181 - LAST CHANCE QUALIFIER, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581453479&amp;t=2h52m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>538</video:duration>
+    <video:publication_date>2025-10-02T21:18:07.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2025-10-10T21:18:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-181-last-chance-qualifier/set/94567602/</loc>
+  <lastmod>2025-10-02T21:13:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581453479&amp;t=2h31m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>953</video:duration>
+    <video:duration>805</video:duration>
     <video:publication_date>2025-10-02T20:57:16.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2025-10-10T20:57:16.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-24T22:39:21.000Z</video:publication_date>
     <video:uploader>nostyleesports</video:uploader>
     <video:expiration_date>2025-10-02T22:39:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-172-ssb-u/set/94269097/</loc>
-  <lastmod>2025-09-24T22:49:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832844/image-b90382b7759a5bcc647e36f1cda40d23.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      U-Smash | P24 vs SF | WLC | Poilopo-X, Not DM#172: SSB. U - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch U-Smash | P24 vs SF | WLC | Poilopo-X in Winners Round 1 of Not DM#172: SSB. U, streamed by walito_10
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574904673&amp;t=0h24m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>681</video:duration>
-    <video:publication_date>2025-09-24T22:36:25.000Z</video:publication_date>
-    <video:uploader>walito_10</video:uploader>
-    <video:expiration_date>2025-10-02T22:36:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
