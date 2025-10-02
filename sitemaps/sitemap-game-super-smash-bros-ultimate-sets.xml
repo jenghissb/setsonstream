@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-weekly-1/set/94563707/</loc>
-  <lastmod>2025-10-02T20:22:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/get-ready-s2-34/set/94566134/</loc>
+  <lastmod>2025-10-02T20:38:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827401/image-fe405b78c665ce475a936f83f465ba57.png
+      https://images.start.gg/images/tournament/835309/image-2f5940a0329a227af1f111e51d9806a6.png
     </video:thumbnail_loc>
     <video:title>
-      IVDR | Lord vs HsR | LTH | 12dreams, MUC Weekly #1 - Sets on Stream
+      AUEC | Kogo vs Nuno, get ready! S2 #34 - Sets on Stream
     </video:title>
     <video:description>
-      Watch IVDR | Lord vs HsR | LTH | 12dreams in Winners Semi-Final of MUC Weekly #1, streamed by smashalezmtp
+      Watch AUEC | Kogo vs Nuno in Grand Final Reset of get ready! S2 #34, streamed by ReadyAvignon
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2581411691&amp;t=2h45m30s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2581402981&amp;t=3h12m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>989</video:duration>
-    <video:publication_date>2025-10-02T20:22:37.000Z</video:publication_date>
-    <video:uploader>smashalezmtp</video:uploader>
-    <video:expiration_date>2025-10-10T20:22:37.000Z</video:expiration_date>
+    <video:duration>680</video:duration>
+    <video:publication_date>2025-10-02T20:38:29.000Z</video:publication_date>
+    <video:uploader>ReadyAvignon</video:uploader>
+    <video:expiration_date>2025-10-10T20:38:29.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-181-last-chance-qualifier/set/94567539/</loc>
-  <lastmod>2025-10-02T20:27:27.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-02T20:45:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581453479&amp;t=2h2m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>699</video:duration>
+    <video:duration>832</video:duration>
     <video:publication_date>2025-10-02T20:27:27.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2025-10-10T20:27:27.000Z</video:expiration_date>
@@ -50,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/get-ready-s2-34/set/94566133/</loc>
-  <lastmod>2025-10-02T20:23:00.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-02T20:40:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2581402981&amp;t=2h56m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>966</video:duration>
+    <video:duration>881</video:duration>
     <video:publication_date>2025-10-02T20:23:00.000Z</video:publication_date>
     <video:uploader>ReadyAvignon</video:uploader>
     <video:expiration_date>2025-10-10T20:23:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-weekly-1/set/94563707/</loc>
+  <lastmod>2025-10-02T20:47:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827401/image-fe405b78c665ce475a936f83f465ba57.png
+    </video:thumbnail_loc>
+    <video:title>
+      IVDR | Lord vs HsR | LTH | 12dreams, MUC Weekly #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IVDR | Lord vs HsR | LTH | 12dreams in Winners Semi-Final of MUC Weekly #1, streamed by smashalezmtp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581411691&amp;t=2h45m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1410</video:duration>
+    <video:publication_date>2025-10-02T20:22:37.000Z</video:publication_date>
+    <video:uploader>smashalezmtp</video:uploader>
+    <video:expiration_date>2025-10-10T20:22:37.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-24T22:19:39.000Z</video:publication_date>
     <video:uploader>nostyleesports</video:uploader>
     <video:expiration_date>2025-10-02T22:19:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-172-ssb-u/set/94269093/</loc>
-  <lastmod>2025-09-24T22:41:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832844/image-b90382b7759a5bcc647e36f1cda40d23.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TEW | | U-Smash Zeyer vs WLB | Tind3us, Not DM#172: SSB. U - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TEW | | U-Smash Zeyer vs WLB | Tind3us in Winners Round 1 of Not DM#172: SSB. U, streamed by walito_10
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574904673&amp;t=0h3m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1284</video:duration>
-    <video:publication_date>2025-09-24T22:15:41.000Z</video:publication_date>
-    <video:uploader>walito_10</video:uploader>
-    <video:expiration_date>2025-10-02T22:15:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
