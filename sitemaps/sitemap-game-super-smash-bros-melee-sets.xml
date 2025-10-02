@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-8-24/set/94574498/</loc>
+  <lastmod>2025-10-02T23:32:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836202/image-42e4496b4df9105880ee59c385839c24.png
+    </video:thumbnail_loc>
+    <video:title>
+      the pebble vs BGT | Okami, HoG: Phoenix 8.24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch the pebble vs BGT | Okami in Winners Round 1 of HoG: Phoenix 8.24, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581673497&amp;t=0h17m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>989</video:duration>
+    <video:publication_date>2025-10-02T23:32:54.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-10-10T23:32:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-162-ics-ice-isis-i-m-seeing-a-pattern/set/94558150/</loc>
   <lastmod>2025-10-02T05:32:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-10T01:41:07.000Z</video:publication_date>
     <video:uploader>dinksterlive</video:uploader>
     <video:expiration_date>2025-09-18T01:41:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tienda-s-tournament-series-48/set/93699724/</loc>
-  <lastmod>2025-09-10T02:07:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827424/image-405a2a6f4cea2d492b85cc9709223482.png
-    </video:thumbnail_loc>
-    <video:title>
-      ΘΔ | W_NDI(Theta Delta | W_NDI) vs NRB | Boigan, Tienda&apos;s Tournament Series #48 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ΘΔ | W_NDI(Theta Delta | W_NDI) vs NRB | Boigan in Winners Quarter-Final of Tienda&apos;s Tournament Series #48, streamed by IowaCitySmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2562581089&amp;t=0h54m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1353</video:duration>
-    <video:publication_date>2025-09-10T01:34:38.000Z</video:publication_date>
-    <video:uploader>IowaCitySmash</video:uploader>
-    <video:expiration_date>2025-09-18T01:34:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
