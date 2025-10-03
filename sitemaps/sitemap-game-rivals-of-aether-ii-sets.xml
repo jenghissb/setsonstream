@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/solarpowered-11/set/94585994/</loc>
+  <lastmod>2025-10-03T02:30:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834908/image-e43c31051be424bad13425a9c6eb7fdd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fox vs C.R.M, SOLARPOWERED #11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fox vs C.R.M in Winners Semi-Final of SOLARPOWERED #11, streamed by solarpoweredntx
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581732633&amp;t=1h33m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>510</video:duration>
+    <video:publication_date>2025-10-03T01:59:58.000Z</video:publication_date>
+    <video:uploader>solarpoweredntx</video:uploader>
+    <video:expiration_date>2025-10-11T01:59:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-10-1-25/set/94547289/</loc>
   <lastmod>2025-10-02T02:14:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-15T00:02:10.000Z</video:publication_date>
     <video:uploader>imtorna</video:uploader>
     <video:expiration_date>2025-09-23T00:02:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/shield-breaker-22-valhallan-esports/set/93921790/</loc>
-  <lastmod>2025-09-15T00:07:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Team Rocket | Ross vs pango, Shield Breaker #22 @ Valhallan eSports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Team Rocket | Ross vs pango in Winners Quarter-Final of Shield Breaker #22 @ Valhallan eSports, streamed by imtorna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566696110&amp;t=0h20m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>242</video:duration>
-    <video:publication_date>2025-09-14T23:46:47.000Z</video:publication_date>
-    <video:uploader>imtorna</video:uploader>
-    <video:expiration_date>2025-09-22T23:46:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
