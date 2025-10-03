@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mhm-the-mini-mayhem-112/set/94575680/</loc>
-  <lastmod>2025-10-03T00:48:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-186-street-fighter-6-and-melee-ladder/set/94589951/</loc>
+  <lastmod>2025-10-03T02:57:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835587/image-45987b8340eed42e4fce29ee54ddea25.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | Super_Yan vs FitS | TrawMuh, Guildhouse Fighters 186 - Street Fighter 6 and Melee Ladder - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | Super_Yan vs FitS | TrawMuh in Winners Round 2 of Guildhouse Fighters 186 - Street Fighter 6 and Melee Ladder, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2581837182&amp;t=0h14m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1308</video:duration>
+    <video:publication_date>2025-10-03T02:57:25.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2025-10-11T02:57:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mhm-the-mini-mayhem-112/set/94575680/</loc>
+  <lastmod>2025-10-03T03:02:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-14T01:08:28.000Z</video:publication_date>
     <video:uploader>FrankieG7Chi</video:uploader>
     <video:expiration_date>2025-09-22T01:08:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/calculated-34/set/93871490/</loc>
-  <lastmod>2025-09-14T01:38:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826700/image-6690369f246d1c43277d5ed13e17105e.png
-    </video:thumbnail_loc>
-    <video:title>
-      ZeroReaperX vs A$Ap R1CKY, Calculated #34 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZeroReaperX vs A$Ap R1CKY in Winners Final of Calculated #34, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565783045&amp;t=3h16m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>534</video:duration>
-    <video:publication_date>2025-09-14T01:07:42.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2025-09-22T01:07:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
