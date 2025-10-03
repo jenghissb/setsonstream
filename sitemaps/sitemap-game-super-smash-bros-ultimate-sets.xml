@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-zur-herbstzeit/set/94594324/</loc>
+  <lastmod>2025-10-03T14:09:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816265/image-7ca6e74e2e8cfc9d96643b90afb32d9a.png
+    </video:thumbnail_loc>
+    <video:title>
+      SG | Linotox vs BJAYS | RobinGG, Smash zur Herbstzeit - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SG | Linotox vs BJAYS | RobinGG in Winners Semi-Final of Smash zur Herbstzeit, streamed by wffln
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582033647&amp;t=3h15m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>303</video:duration>
+    <video:publication_date>2025-10-03T14:09:48.000Z</video:publication_date>
+    <video:uploader>wffln</video:uploader>
+    <video:expiration_date>2025-10-11T14:09:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-zur-herbstzeit/set/94594321/</loc>
   <lastmod>2025-10-03T13:33:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-25T17:16:39.000Z</video:publication_date>
     <video:uploader>Voltar_11</video:uploader>
     <video:expiration_date>2025-10-03T17:16:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-open-world-3/set/94295407/</loc>
-  <lastmod>2025-09-25T17:24:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832196/image-64ca5f7393c463f5d19ce5a8ddce1988.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Budokai vs L-TAKER | Mondai, Smash @ Open World #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Budokai vs L-TAKER | Mondai in Winners Round 1 of Smash @ Open World #3, streamed by openworldvienna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2575501322&amp;t=0h6m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>925</video:duration>
-    <video:publication_date>2025-09-25T17:06:08.000Z</video:publication_date>
-    <video:uploader>openworldvienna</video:uploader>
-    <video:expiration_date>2025-10-03T17:06:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
