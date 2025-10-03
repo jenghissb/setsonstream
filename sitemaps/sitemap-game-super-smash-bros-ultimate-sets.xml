@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-zur-herbstzeit/set/94594326/</loc>
-  <lastmod>2025-10-03T15:28:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-3-10-2025/set/94595115/</loc>
+  <lastmod>2025-10-03T15:28:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      XURRAS | Daikiro vs RKS | houndhoundhoundhoundhoun, CitiSmash 3/10/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch XURRAS | Daikiro vs RKS | houndhoundhoundhoundhoun in Winners Round 2 of CitiSmash 3/10/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582161412&amp;t=0h32m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1249</video:duration>
+    <video:publication_date>2025-10-03T15:28:59.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-10-11T15:28:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-zur-herbstzeit/set/94594326/</loc>
+  <lastmod>2025-10-03T15:46:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582033647&amp;t=4h34m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>205</video:duration>
+    <video:duration>1080</video:duration>
     <video:publication_date>2025-10-03T15:28:26.000Z</video:publication_date>
     <video:uploader>wffln</video:uploader>
     <video:expiration_date>2025-10-11T15:28:26.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-25T17:38:39.000Z</video:publication_date>
     <video:uploader>openworldvienna</video:uploader>
     <video:expiration_date>2025-10-03T17:38:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/saucismash-ng-232-ultimate-weekly-lyon/set/94293788/</loc>
-  <lastmod>2025-09-25T17:45:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831031/image-75b92744b325c7c9de085c9c63850ef6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tap Tap Tap | Kensi1313 vs Deer | MPT | Clemclou, Saucismash[NG+] #232 - Ultimate Weekly Lyon - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tap Tap Tap | Kensi1313 vs Deer | MPT | Clemclou in Winners Round 2 of Saucismash[NG+] #232 - Ultimate Weekly Lyon, streamed by Voltar_11
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2575500686&amp;t=0h30m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>782</video:duration>
-    <video:publication_date>2025-09-25T17:29:06.000Z</video:publication_date>
-    <video:uploader>Voltar_11</video:uploader>
-    <video:expiration_date>2025-10-03T17:29:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
