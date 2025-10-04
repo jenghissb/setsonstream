@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hardread-herofest-2025/set/94643814/</loc>
-  <lastmod>2025-10-04T14:24:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hardread-herofest-2025/set/94643842/</loc>
+  <lastmod>2025-10-04T14:39:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
+    </video:thumbnail_loc>
+    <video:title>
+      KB | Vardek vs DT | Geno, HardRead @ HeroFest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KB | Vardek vs DT | Geno in Losers Round 3 of HardRead @ HeroFest 2025, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582914711&amp;t=4h39m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>606</video:duration>
+    <video:publication_date>2025-10-04T14:39:36.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-10-12T14:39:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hardread-herofest-2025/set/94643814/</loc>
+  <lastmod>2025-10-04T14:45:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582914711&amp;t=4h24m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>878</video:duration>
+    <video:duration>932</video:duration>
     <video:publication_date>2025-10-04T14:24:02.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-12T14:24:02.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-14T10:35:07.000Z</video:publication_date>
     <video:uploader>CapcomFighters</video:uploader>
     <video:expiration_date>2025-09-22T10:35:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-fighting-arena-2025-3/set/93891450/</loc>
-  <lastmod>2025-09-14T10:57:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      2Game | Blaz vs Kusanagi, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 2Game | Blaz vs Kusanagi in Winners Quarter-Final of ULTIMATE FIGHTING ARENA 2025, streamed by CapcomFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566163377&amp;t=0h46m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1675</video:duration>
-    <video:publication_date>2025-09-14T10:28:56.000Z</video:publication_date>
-    <video:uploader>CapcomFighters</video:uploader>
-    <video:expiration_date>2025-09-22T10:28:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
