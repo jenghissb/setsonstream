@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/playthrough-2025/set/94649615/</loc>
+  <lastmod>2025-10-04T16:38:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/812835/image-77c62f8b01779828b110a0883b2d16d9.png
+    </video:thumbnail_loc>
+    <video:title>
+      Scrappy Sensei vs 5olidsnak3, Playthrough 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Scrappy Sensei vs 5olidsnak3 in Winners Quarter-Final of Playthrough 2025, streamed by OakCityEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583096661&amp;t=1h8m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>702</video:duration>
+    <video:publication_date>2025-10-04T16:38:03.000Z</video:publication_date>
+    <video:uploader>OakCityEsports</video:uploader>
+    <video:expiration_date>2025-10-12T16:38:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-4/set/94641924/</loc>
   <lastmod>2025-10-04T13:30:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T14:16:01.000Z</video:publication_date>
     <video:uploader>ArcSystemWorksU</video:uploader>
     <video:expiration_date>2025-09-21T14:16:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bundes-battle-2025-castlegames-ggst-qualifier-3/set/93822180/</loc>
-  <lastmod>2025-09-13T14:21:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818115/image-a08cc2a0b222112f1fe724d61afea48b.png
-    </video:thumbnail_loc>
-    <video:title>
-      presmunch vs Ume | NoRaven, Bundes Battle 2025 - CastleGames GGST Qualifier 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch presmunch vs Ume | NoRaven in Winners Final of Bundes Battle 2025 - CastleGames GGST Qualifier 3, streamed by CastleGamesCH
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565393792&amp;t=1h4m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2025-09-13T13:58:35.000Z</video:publication_date>
-    <video:uploader>CastleGamesCH</video:uploader>
-    <video:expiration_date>2025-09-21T13:58:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
