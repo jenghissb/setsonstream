@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94634894/</loc>
+  <lastmod>2025-10-04T03:53:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831755/image-309bbf6d81416fc37c1f64bd84bb181f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Axel vs Bracket Demons | Exia, SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Axel vs Bracket Demons | Exia in Winners Semi-Final of SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit!, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582700962&amp;t=1h26m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1399</video:duration>
+    <video:publication_date>2025-10-04T03:53:46.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2025-10-12T03:53:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-99/set/94620911/</loc>
   <lastmod>2025-10-04T03:04:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-14T02:52:41.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2025-09-22T02:52:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-25/set/93878076/</loc>
-  <lastmod>2025-09-14T02:58:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/817061/image-824c85e4e3c4275d256f6c3597ccbb1d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Axel vs Bracket Demons | Charlie, SoCal Colosseum Clash #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Axel vs Bracket Demons | Charlie in Losers Semi-Final of SoCal Colosseum Clash #25, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565880435&amp;t=2h25m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>414</video:duration>
-    <video:publication_date>2025-09-14T02:36:52.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-09-22T02:36:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
