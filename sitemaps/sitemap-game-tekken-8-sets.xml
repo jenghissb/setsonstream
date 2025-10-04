@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94648564/</loc>
-  <lastmod>2025-10-04T17:07:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/enigmatic-smash-clash-event-91/set/94647158/</loc>
+  <lastmod>2025-10-04T17:29:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833796/image-f772f5b538183712f74deec8716de6a8.png
+    </video:thumbnail_loc>
+    <video:title>
+      H4rrysp94 vs Glacie, Enigmatic Smash Clash - Event 91 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch H4rrysp94 vs Glacie in Losers Quarter-Final of Enigmatic Smash Clash - Event 91, streamed by The129_UK
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583106552&amp;t=1h45m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>403</video:duration>
+    <video:publication_date>2025-10-04T17:29:44.000Z</video:publication_date>
+    <video:uploader>The129_UK</video:uploader>
+    <video:expiration_date>2025-10-12T17:29:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94648564/</loc>
+  <lastmod>2025-10-04T17:32:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583132382&amp;t=0h50m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1121</video:duration>
+    <video:duration>460</video:duration>
     <video:publication_date>2025-10-04T17:07:52.000Z</video:publication_date>
     <video:uploader>lagema</video:uploader>
     <video:expiration_date>2025-10-12T17:07:52.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-14T13:37:34.000Z</video:publication_date>
     <video:uploader>CenciuNC</video:uploader>
     <video:expiration_date>2025-09-22T13:37:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sidequest-showdown-22-tekken-8-tournament/set/93895418/</loc>
-  <lastmod>2025-09-14T13:45:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813289/image-bfacc5dd88a773012be86a6ef2f88ea7.png
-    </video:thumbnail_loc>
-    <video:title>
-      DBK vs Kokujin, SideQuest Showdown 22 (Tekken 8 Tournament) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DBK vs Kokujin in Winners Round 2 of SideQuest Showdown 22 (Tekken 8 Tournament), streamed by SideQuestHub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566208437&amp;t=1h55m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>916</video:duration>
-    <video:publication_date>2025-09-14T13:28:25.000Z</video:publication_date>
-    <video:uploader>SideQuestHub</video:uploader>
-    <video:expiration_date>2025-09-22T13:28:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
