@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-243-50-pot-bonus/set/94627284/</loc>
+  <lastmod>2025-10-04T02:52:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834467/image-bf54d68ed8b9ea7f86d5f358cb037d90.png
+    </video:thumbnail_loc>
+    <video:title>
+      SPWM vs Majesty | Shoe, Elite Smash Fridays #243 [$50 POT BONUS] - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SPWM vs Majesty | Shoe in Winners Semi-Final of Elite Smash Fridays #243 [$50 POT BONUS], streamed by Colorado_ROA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582643841&amp;t=0h49m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1573</video:duration>
+    <video:publication_date>2025-10-04T02:05:22.000Z</video:publication_date>
+    <video:uploader>Colorado_ROA</video:uploader>
+    <video:expiration_date>2025-10-12T02:05:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-smash-weekly-199/set/94625063/</loc>
-  <lastmod>2025-10-04T01:47:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-04T02:27:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582565078&amp;t=2h2m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2063</video:duration>
+    <video:duration>1132</video:duration>
     <video:publication_date>2025-10-04T01:47:24.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2025-10-12T01:47:24.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-15T00:51:39.000Z</video:publication_date>
     <video:uploader>imtorna</video:uploader>
     <video:expiration_date>2025-09-23T00:51:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/shield-breaker-22-valhallan-esports/set/93921795/</loc>
-  <lastmod>2025-09-15T00:56:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Torna vs FizzyBrax | Mr.Watch&amp;Learn, Shield Breaker #22 @ Valhallan eSports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Torna vs FizzyBrax | Mr.Watch&amp;Learn in Winners Final of Shield Breaker #22 @ Valhallan eSports, streamed by imtorna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566696110&amp;t=1h7m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>757</video:duration>
-    <video:publication_date>2025-09-15T00:34:07.000Z</video:publication_date>
-    <video:uploader>imtorna</video:uploader>
-    <video:expiration_date>2025-09-23T00:34:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
