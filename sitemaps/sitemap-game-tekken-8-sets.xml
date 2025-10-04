@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-33/set/94663485/</loc>
-  <lastmod>2025-10-04T20:03:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-33/set/94663498/</loc>
+  <lastmod>2025-10-04T20:25:34.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829309/image-1ce729834e4116afc740d7deb0cb4fb1.png
+    </video:thumbnail_loc>
+    <video:title>
+      DRP | Verus vs TOT | | Trueinstincts_, RDU Tekken Monthly #33 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DRP | Verus vs TOT | | Trueinstincts_ in Losers Round 1 of RDU Tekken Monthly #33, streamed by rdutekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583203930&amp;t=2h35m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>930</video:duration>
+    <video:publication_date>2025-10-04T20:25:34.000Z</video:publication_date>
+    <video:uploader>rdutekken</video:uploader>
+    <video:expiration_date>2025-10-12T20:25:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-33/set/94663485/</loc>
+  <lastmod>2025-10-04T20:30:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583203930&amp;t=2h12m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1652</video:duration>
+    <video:duration>806</video:duration>
     <video:publication_date>2025-10-04T20:03:00.000Z</video:publication_date>
     <video:uploader>rdutekken</video:uploader>
     <video:expiration_date>2025-10-12T20:03:00.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tkr-31-the-pumpking-returns/set/94659034/</loc>
-  <lastmod>2025-10-04T19:56:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-04T20:30:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583310452&amp;t=0h2m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2015</video:duration>
+    <video:duration>511</video:duration>
     <video:publication_date>2025-10-04T19:56:57.000Z</video:publication_date>
     <video:uploader>araragi298</video:uploader>
     <video:expiration_date>2025-10-12T19:56:57.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-14T15:02:23.000Z</video:publication_date>
     <video:uploader>SideQuestHub</video:uploader>
     <video:expiration_date>2025-09-22T15:02:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-4/set/93839423/</loc>
-  <lastmod>2025-09-14T15:21:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813679/image-d6677cc58e49db2451b6ea0637dd0994.png
-    </video:thumbnail_loc>
-    <video:title>
-      TTV | JustJ0k3r vs VecchiaSerpe, Sea Dogs 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TTV | JustJ0k3r vs VecchiaSerpe in Winners Quarter-Final of Sea Dogs 4, streamed by CenciuNC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566254844&amp;t=2h1m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>875</video:duration>
-    <video:publication_date>2025-09-14T14:59:37.000Z</video:publication_date>
-    <video:uploader>CenciuNC</video:uploader>
-    <video:expiration_date>2025-09-22T14:59:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
