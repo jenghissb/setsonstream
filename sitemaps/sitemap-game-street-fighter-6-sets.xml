@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-22/set/94636767/</loc>
+  <lastmod>2025-10-04T06:57:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828134/image-7cc45d71b97f4e35978dce4aba1c2167.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aimm vs chill, Drive Theory 22 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aimm vs chill in Losers Quarter-Final of Drive Theory 22, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582780645&amp;t=2h30m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>960</video:duration>
+    <video:publication_date>2025-10-04T06:57:34.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2025-10-12T06:57:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-22/set/94636766/</loc>
   <lastmod>2025-10-04T06:45:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-14T10:03:46.000Z</video:publication_date>
     <video:uploader>CapcomFighters</video:uploader>
     <video:expiration_date>2025-09-22T10:03:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-fighting-arena-2025-3/set/93891448/</loc>
-  <lastmod>2025-09-14T10:27:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Juicyjoe vs KR_Wrestlingman, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Juicyjoe vs KR_Wrestlingman in Winners Quarter-Final of ULTIMATE FIGHTING ARENA 2025, streamed by CapcomFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566163377&amp;t=0h17m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1549</video:duration>
-    <video:publication_date>2025-09-14T09:59:42.000Z</video:publication_date>
-    <video:uploader>CapcomFighters</video:uploader>
-    <video:expiration_date>2025-09-22T09:59:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
