@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94657528/</loc>
+  <lastmod>2025-10-04T19:13:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/798250/image-5337d3e223d7c50ea1cdd4b5db90106a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Crumbling vs KELLZ, Québecup 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Crumbling vs KELLZ in Winners Semi-Final of Québecup 2025, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583249480&amp;t=0h31m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1330</video:duration>
+    <video:publication_date>2025-10-04T19:13:47.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2025-10-12T19:13:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/herbstpause-2/set/94650993/</loc>
   <lastmod>2025-10-04T17:59:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-11T02:30:34.000Z</video:publication_date>
     <video:uploader>rainydayproductions</video:uploader>
     <video:expiration_date>2025-09-19T02:30:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-9-10-25/set/93716919/</loc>
-  <lastmod>2025-09-11T03:02:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823655/image-f029e15eceea91d90d766377eb273f84.png
-    </video:thumbnail_loc>
-    <video:title>
-      UML | Blip Blip You Dip vs Future Shock, One Up Melee 9.10.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UML | Blip Blip You Dip vs Future Shock in Grand Final of One Up Melee 9.10.25, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2563341931&amp;t=2h52m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1990</video:duration>
-    <video:publication_date>2025-09-11T02:21:30.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2025-09-19T02:21:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
