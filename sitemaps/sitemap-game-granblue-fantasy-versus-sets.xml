@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94632047/</loc>
-  <lastmod>2025-10-04T03:17:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94632049/</loc>
+  <lastmod>2025-10-04T03:36:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831755/image-309bbf6d81416fc37c1f64bd84bb181f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PAR | Zane vs IRONGOD, SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PAR | Zane vs IRONGOD in Winners Final of SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit!, streamed by kondo3
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582703642&amp;t=1h5m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>826</video:duration>
+    <video:publication_date>2025-10-04T03:36:03.000Z</video:publication_date>
+    <video:uploader>kondo3</video:uploader>
+    <video:expiration_date>2025-10-12T03:36:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94632047/</loc>
+  <lastmod>2025-10-04T03:48:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582703642&amp;t=0h47m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1027</video:duration>
+    <video:duration>497</video:duration>
     <video:publication_date>2025-10-04T03:17:50.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-10-12T03:17:50.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-09T19:20:23.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-08-17T19:20:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/crossover-2025/set/92469835/</loc>
-  <lastmod>2025-08-09T17:07:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/718479/image-c621e50f515fa6d3ff5420f59511eb6a.jpg?ehk=I2d0qZttFyjJSzck%2B%2FpJcGeXT5UdeXF4Ht2xC%2BcrDME%3D&amp;ehkOptimized=ErNnc%2FAt3nBJfnL0b9ww5kb7UNjCYFxg8FbG1ZAi21I%3D
-    </video:thumbnail_loc>
-    <video:title>
-      S1 vs Owndby_BGaming, CROSSOVER 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch S1 vs Owndby_BGaming in Winners Semi-Final of CROSSOVER 2025, streamed by CROSSOVER_2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2535316703&amp;t=6h58m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>500</video:duration>
-    <video:publication_date>2025-08-09T16:56:12.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_2</video:uploader>
-    <video:expiration_date>2025-08-17T16:56:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
