@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-smash-weekly-199/set/94615487/</loc>
-  <lastmod>2025-10-04T00:53:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-smash-weekly-199/set/94625063/</loc>
+  <lastmod>2025-10-04T01:47:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834934/image-07998b96443a9273e4df22bee0ed85cb.png
+    </video:thumbnail_loc>
+    <video:title>
+      hazelnut vs Tiki, Prodigy Smash Weekly #199 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hazelnut vs Tiki in Losers Final of Prodigy Smash Weekly #199, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582565078&amp;t=2h2m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2063</video:duration>
+    <video:publication_date>2025-10-04T01:47:24.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2025-10-12T01:47:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-smash-weekly-199/set/94615487/</loc>
+  <lastmod>2025-10-04T01:28:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582565078&amp;t=1h8m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>657</video:duration>
+    <video:duration>463</video:duration>
     <video:publication_date>2025-10-04T00:53:13.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2025-10-12T00:53:13.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-15T00:34:07.000Z</video:publication_date>
     <video:uploader>imtorna</video:uploader>
     <video:expiration_date>2025-09-23T00:34:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/shield-breaker-22-valhallan-esports/set/93921809/</loc>
-  <lastmod>2025-09-15T00:39:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Team Rocket | Ross vs july | hobby, Shield Breaker #22 @ Valhallan eSports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Team Rocket | Ross vs july | hobby in Losers Quarter-Final of Shield Breaker #22 @ Valhallan eSports, streamed by imtorna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566696110&amp;t=0h48m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1118</video:duration>
-    <video:publication_date>2025-09-15T00:15:25.000Z</video:publication_date>
-    <video:uploader>imtorna</video:uploader>
-    <video:expiration_date>2025-09-23T00:15:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
