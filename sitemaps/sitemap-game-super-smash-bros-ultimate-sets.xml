@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/to-get-off/set/94636429/</loc>
-  <lastmod>2025-10-04T07:17:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/to-get-off/set/94636555/</loc>
+  <lastmod>2025-10-04T07:42:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826882/image-ff3d260ce23cc9904fb9f0724dce08b4.png
+    </video:thumbnail_loc>
+    <video:title>
+      LemozonA vs 夕星(yuu hoshi), to get off - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LemozonA vs 夕星(yuu hoshi) in Losers Round 5 of to get off, streamed by LIVING【配信クルー】
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/r-4EwLfKaIA?start=9913s
+    </video:player_loc>
+    <video:duration>419</video:duration>
+    <video:publication_date>2025-10-04T07:42:53.000Z</video:publication_date>
+    <video:uploader>LIVING【配信クルー】</video:uploader>
+    <video:expiration_date>2025-10-12T07:42:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/to-get-off/set/94636429/</loc>
+  <lastmod>2025-10-04T07:41:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/r-4EwLfKaIA?start=8399s
     </video:player_loc>
-    <video:duration>1084</video:duration>
+    <video:duration>1291</video:duration>
     <video:publication_date>2025-10-04T07:17:39.000Z</video:publication_date>
     <video:uploader>LIVING【配信クルー】</video:uploader>
     <video:expiration_date>2025-10-12T07:17:39.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-26T23:01:23.000Z</video:publication_date>
     <video:uploader>CGCUIC</video:uploader>
     <video:expiration_date>2025-10-04T23:01:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quityourfriendlies-53/set/94335577/</loc>
-  <lastmod>2025-09-26T23:14:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832117/image-46cbe783e520dd1a762aef4a6f7a30f3.png
-    </video:thumbnail_loc>
-    <video:title>
-      COBRA KAI | flowerboy vs Gamb0, QuitYourFriendlies 53 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch COBRA KAI | flowerboy vs Gamb0 in Winners Round 1 of QuitYourFriendlies 53, streamed by SmashAtVCU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2576585143&amp;t=0h22m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>604</video:duration>
-    <video:publication_date>2025-09-26T22:59:51.000Z</video:publication_date>
-    <video:uploader>SmashAtVCU</video:uploader>
-    <video:expiration_date>2025-10-04T22:59:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
