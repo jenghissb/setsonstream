@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94658482/</loc>
-  <lastmod>2025-10-04T19:42:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94664207/</loc>
+  <lastmod>2025-10-04T20:09:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/798250/image-5337d3e223d7c50ea1cdd4b5db90106a.png
+    </video:thumbnail_loc>
+    <video:title>
+      stealthhack vs pigin, Québecup 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch stealthhack vs pigin in Winners Round 1 of Québecup 2025, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583249480&amp;t=1h27m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>328</video:duration>
+    <video:publication_date>2025-10-04T20:09:36.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2025-10-12T20:09:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94658482/</loc>
+  <lastmod>2025-10-04T20:13:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583249480&amp;t=1h0m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>422</video:duration>
+    <video:duration>638</video:duration>
     <video:publication_date>2025-10-04T19:42:47.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2025-10-12T19:42:47.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-11T04:03:05.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2025-09-19T04:03:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-159-is-it-teamspeak-time/set/93728590/</loc>
-  <lastmod>2025-09-11T03:37:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827250/image-3cf622d77e364e55190ae0e3e2d1b4e2.png
-    </video:thumbnail_loc>
-    <video:title>
-      Pbag | Lop vs decoste, Adam&apos;s Smash Series #159 : Is it TeamSpeak Time? - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Pbag | Lop vs decoste in Winners Round 3 of Adam&apos;s Smash Series #159 : Is it TeamSpeak Time?, streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2563449501&amp;t=1h21m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>827</video:duration>
-    <video:publication_date>2025-09-11T03:09:11.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2025-09-19T03:09:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
