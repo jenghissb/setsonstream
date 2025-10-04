@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640390/</loc>
+  <lastmod>2025-10-04T10:12:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
+    </video:thumbnail_loc>
+    <video:title>
+      SOS | BTS | Rush vs mmfh, HardRead @ HeroFest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SOS | BTS | Rush vs mmfh in Winners Round 1 of HardRead @ HeroFest 2025, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582914711&amp;t=0h13m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1149</video:duration>
+    <video:publication_date>2025-10-04T10:12:52.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-10-12T10:12:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94632160/</loc>
   <lastmod>2025-10-04T05:49:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T10:57:20.000Z</video:publication_date>
     <video:uploader>ArcSystemWorksU</video:uploader>
     <video:expiration_date>2025-09-21T10:57:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ultimate-fighting-arena-2025-3/set/93815881/</loc>
-  <lastmod>2025-09-13T10:47:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ONi | Tiger_Pop vs Terrarc, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ONi | Tiger_Pop vs Terrarc in Winners Quarter-Final of ULTIMATE FIGHTING ARENA 2025, streamed by ArcSystemWorksU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565305517&amp;t=0h51m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>432</video:duration>
-    <video:publication_date>2025-09-13T10:29:07.000Z</video:publication_date>
-    <video:uploader>ArcSystemWorksU</video:uploader>
-    <video:expiration_date>2025-09-21T10:29:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
