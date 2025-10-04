@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582880600&amp;t=4h38m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1886</video:duration>
+    <video:duration>2681</video:duration>
     <video:publication_date>2025-10-04T13:05:06.000Z</video:publication_date>
     <video:uploader>mysticsquad_tv</video:uploader>
     <video:expiration_date>2025-10-12T13:05:06.000Z</video:expiration_date>
@@ -66,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583002859&amp;t=0h23m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>692</video:duration>
+    <video:duration>1487</video:duration>
     <video:publication_date>2025-10-04T13:25:00.000Z</video:publication_date>
     <video:uploader>austrianforce</video:uploader>
     <video:expiration_date>2025-10-12T13:25:00.000Z</video:expiration_date>
@@ -90,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582899918&amp;t=4h11m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>268</video:duration>
+    <video:duration>1063</video:duration>
     <video:publication_date>2025-10-04T13:32:04.000Z</video:publication_date>
     <video:uploader>smashultimatebe</video:uploader>
     <video:expiration_date>2025-10-12T13:32:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/abrest-game-fest/set/94642428/</loc>
+  <lastmod>2025-10-04T13:39:57.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830420/image-f1e0e34ef6196c026b0364731dce61f9.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nolan vs Lunk, Abrest Game Fest - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nolan vs Lunk in Winners Final of Abrest Game Fest, streamed by besalty_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582878684&amp;t=5h19m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>590</video:duration>
+    <video:publication_date>2025-10-04T13:39:57.000Z</video:publication_date>
+    <video:uploader>besalty_</video:uploader>
+    <video:expiration_date>2025-10-12T13:39:57.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-26T23:50:38.000Z</video:publication_date>
     <video:uploader>jacqinora</video:uploader>
     <video:expiration_date>2025-10-04T23:50:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-the-cave-remix-etsu-19/set/94340982/</loc>
-  <lastmod>2025-09-27T00:09:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831641/image-191f12f597860c34947251f5bced9e1a.png
-    </video:thumbnail_loc>
-    <video:title>
-      BRAVO | myriad vs SNIZ | TheRevival, Smash the Cave REMIX @ ETSU #19 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BRAVO | myriad vs SNIZ | TheRevival in Winners Round 3 of Smash the Cave REMIX @ ETSU #19, streamed by tricotsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2576581603&amp;t=1h17m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>590</video:duration>
-    <video:publication_date>2025-09-26T23:50:21.000Z</video:publication_date>
-    <video:uploader>tricotsmash</video:uploader>
-    <video:expiration_date>2025-10-04T23:50:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
