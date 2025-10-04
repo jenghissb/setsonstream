@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-22/set/94636028/</loc>
+  <lastmod>2025-10-04T04:36:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828134/image-7cc45d71b97f4e35978dce4aba1c2167.png
+    </video:thumbnail_loc>
+    <video:title>
+      chill vs BBragi, Drive Theory 22 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch chill vs BBragi in Winners Quarter-Final of Drive Theory 22, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582780645&amp;t=0h9m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>779</video:duration>
+    <video:publication_date>2025-10-04T04:36:41.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2025-10-12T04:36:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94634894/</loc>
   <lastmod>2025-10-04T04:24:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-14T02:54:06.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-09-22T02:54:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/iron-grid-xxxvii-x-mknj/set/93884243/</loc>
-  <lastmod>2025-09-14T03:16:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819592/image-a180d2f903e6c0e16d30c79e3d4f4366.png
-    </video:thumbnail_loc>
-    <video:title>
-      TCNJ | Bjr vs RnV, Iron Grid XXXVII x MKNJ - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TCNJ | Bjr vs RnV in Losers Quarter-Final of Iron Grid XXXVII x MKNJ, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565614771&amp;t=8h39m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>578</video:duration>
-    <video:publication_date>2025-09-14T02:52:41.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2025-09-22T02:52:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
