@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94657528/</loc>
-  <lastmod>2025-10-04T19:13:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94658482/</loc>
+  <lastmod>2025-10-04T19:42:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/798250/image-5337d3e223d7c50ea1cdd4b5db90106a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Timbo&apos;s | Nick vs FalcoB*****d55, Québecup 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Timbo&apos;s | Nick vs FalcoB*****d55 in Losers Quarter-Final of Québecup 2025, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583249480&amp;t=1h0m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>422</video:duration>
+    <video:publication_date>2025-10-04T19:42:47.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2025-10-12T19:42:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94657528/</loc>
+  <lastmod>2025-10-04T19:48:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583249480&amp;t=0h31m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1330</video:duration>
+    <video:duration>901</video:duration>
     <video:publication_date>2025-10-04T19:13:47.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2025-10-12T19:13:47.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-11T03:09:11.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2025-09-19T03:09:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smashcade-the-standard-13/set/93723095/</loc>
-  <lastmod>2025-09-11T03:02:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827191/image-66cf5a73f223de7c7c8c8db71cd63a35.png
-    </video:thumbnail_loc>
-    <video:title>
-      CTX | Umbr vs Exotic, Smashcade @ The Standard #13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CTX | Umbr vs Exotic in Grand Final of Smashcade @ The Standard #13, streamed by rainydayproductions
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2563372490&amp;t=2h23m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>595</video:duration>
-    <video:publication_date>2025-09-11T02:30:34.000Z</video:publication_date>
-    <video:uploader>rainydayproductions</video:uploader>
-    <video:expiration_date>2025-09-19T02:30:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
