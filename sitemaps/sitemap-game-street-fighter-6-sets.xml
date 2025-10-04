@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-22/set/94636734/</loc>
+  <lastmod>2025-10-04T06:11:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828134/image-7cc45d71b97f4e35978dce4aba1c2167.png
+    </video:thumbnail_loc>
+    <video:title>
+      Peepachu vs Aimm, Drive Theory 22 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Peepachu vs Aimm in Winners Quarter-Final of Drive Theory 22, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582780645&amp;t=1h22m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>317</video:duration>
+    <video:publication_date>2025-10-04T05:49:34.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2025-10-12T05:49:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-22/set/94636292/</loc>
   <lastmod>2025-10-04T05:35:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-14T03:26:52.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2025-09-22T03:26:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-25/set/93877950/</loc>
-  <lastmod>2025-09-14T03:33:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/817061/image-824c85e4e3c4275d256f6c3597ccbb1d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MOTHMAN vs Axel, SoCal Colosseum Clash #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MOTHMAN vs Axel in Grand Final of SoCal Colosseum Clash #25, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565880435&amp;t=2h50m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1217</video:duration>
-    <video:publication_date>2025-09-14T03:01:18.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-09-22T03:01:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
