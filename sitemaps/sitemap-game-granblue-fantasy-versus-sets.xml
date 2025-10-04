@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-4/set/94643252/</loc>
-  <lastmod>2025-10-04T15:38:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-4/set/94643283/</loc>
+  <lastmod>2025-10-04T15:55:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827141/image-ffd77b49c817442501b6bdda4a9bc887.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VSTAR | Bribrisan vs Ryori, Arca-Sys #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VSTAR | Bribrisan vs Ryori in Losers Semi-Final of Arca-Sys #4, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582959070&amp;t=4h9m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1286</video:duration>
+    <video:publication_date>2025-10-04T15:55:03.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2025-10-12T15:55:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-4/set/94643252/</loc>
+  <lastmod>2025-10-04T16:06:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582959070&amp;t=3h53m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>664</video:duration>
+    <video:duration>963</video:duration>
     <video:publication_date>2025-10-04T15:38:46.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-10-12T15:38:46.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-09T20:12:32.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-08-17T20:12:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-august-2025/set/92488413/</loc>
-  <lastmod>2025-08-09T20:04:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/811016/image-fa3e82761f496e1f0b737d328476e14e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Redeemer vs Blue Thunder, Colorado Mile High Burst Monthly August 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Redeemer vs Blue Thunder in Winners Quarter-Final of Colorado Mile High Burst Monthly August 2025, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2535668217&amp;t=0h46m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>785</video:duration>
-    <video:publication_date>2025-08-09T19:47:36.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2025-08-17T19:47:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
