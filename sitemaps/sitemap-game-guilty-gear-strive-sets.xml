@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pgx-2025/set/94650464/</loc>
-  <lastmod>2025-10-04T17:19:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/playthrough-2025/set/94649634/</loc>
+  <lastmod>2025-10-04T17:39:35.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/812835/image-77c62f8b01779828b110a0883b2d16d9.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lazerquest vs Scrappy Sensei, Playthrough 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lazerquest vs Scrappy Sensei in Losers Final of Playthrough 2025, streamed by OakCityEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583096661&amp;t=2h10m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>618</video:duration>
+    <video:publication_date>2025-10-04T17:39:35.000Z</video:publication_date>
+    <video:uploader>OakCityEsports</video:uploader>
+    <video:expiration_date>2025-10-12T17:39:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pgx-2025/set/94650464/</loc>
+  <lastmod>2025-10-04T17:42:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583148365&amp;t=0h40m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1018</video:duration>
+    <video:duration>350</video:duration>
     <video:publication_date>2025-10-04T17:19:29.000Z</video:publication_date>
     <video:uploader>buddy_fgc</video:uploader>
     <video:expiration_date>2025-10-12T17:19:29.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/playthrough-2025/set/94649631/</loc>
-  <lastmod>2025-10-04T17:18:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-04T17:42:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583096661&amp;t=1h49m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1071</video:duration>
+    <video:duration>363</video:duration>
     <video:publication_date>2025-10-04T17:18:36.000Z</video:publication_date>
     <video:uploader>OakCityEsports</video:uploader>
     <video:expiration_date>2025-10-12T17:18:36.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T15:18:07.000Z</video:publication_date>
     <video:uploader>ArcSystemWorksU</video:uploader>
     <video:expiration_date>2025-09-21T15:18:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ultimate-fighting-arena-2025-3/set/93826109/</loc>
-  <lastmod>2025-09-13T15:30:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VICE | Revill vs NSxC | CrashTF, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VICE | Revill vs NSxC | CrashTF in Losers Round 2 of ULTIMATE FIGHTING ARENA 2025, streamed by ArcSystemWorksU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565305517&amp;t=5h24m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>967</video:duration>
-    <video:publication_date>2025-09-13T15:01:52.000Z</video:publication_date>
-    <video:uploader>ArcSystemWorksU</video:uploader>
-    <video:expiration_date>2025-09-21T15:01:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
