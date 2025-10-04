@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/enigmatic-smash-clash-event-91/set/94647124/</loc>
-  <lastmod>2025-10-04T15:57:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94648528/</loc>
+  <lastmod>2025-10-04T16:17:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/774738/image-2c6eb420c74cecb65a5966243b241277.png
+    </video:thumbnail_loc>
+    <video:title>
+      ARLES GORE vs SENSHIN | FerBaker, Thunderstruck 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ARLES GORE vs SENSHIN | FerBaker in Winners Round 1 of Thunderstruck 2025, streamed by lagema
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583132382&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1374</video:duration>
+    <video:publication_date>2025-10-04T16:17:52.000Z</video:publication_date>
+    <video:uploader>lagema</video:uploader>
+    <video:expiration_date>2025-10-12T16:17:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/enigmatic-smash-clash-event-91/set/94647124/</loc>
+  <lastmod>2025-10-04T16:30:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583106552&amp;t=0h13m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1155</video:duration>
+    <video:duration>771</video:duration>
     <video:publication_date>2025-10-04T15:57:14.000Z</video:publication_date>
     <video:uploader>The129_UK</video:uploader>
     <video:expiration_date>2025-10-12T15:57:14.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-14T12:32:32.000Z</video:publication_date>
     <video:uploader>mba_gaming</video:uploader>
     <video:expiration_date>2025-09-22T12:32:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ultimate-fighting-arena-2025-3/set/93891012/</loc>
-  <lastmod>2025-09-14T11:58:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DRX | LowHigh vs VIT JeonDDing, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DRX | LowHigh vs VIT JeonDDing in Grand Final of ULTIMATE FIGHTING ARENA 2025, streamed by Reversalgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566144635&amp;t=2h48m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1156</video:duration>
-    <video:publication_date>2025-09-14T11:38:13.000Z</video:publication_date>
-    <video:uploader>Reversalgg</video:uploader>
-    <video:expiration_date>2025-09-22T11:38:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
