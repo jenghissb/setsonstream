@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640390/</loc>
-  <lastmod>2025-10-04T10:12:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640396/</loc>
+  <lastmod>2025-10-04T10:33:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
+    </video:thumbnail_loc>
+    <video:title>
+      HR | Valiser vs Kotova, HardRead @ HeroFest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HR | Valiser vs Kotova in Winners Quarter-Final of HardRead @ HeroFest 2025, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582914711&amp;t=0h33m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>989</video:duration>
+    <video:publication_date>2025-10-04T10:33:19.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-10-12T10:33:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640390/</loc>
+  <lastmod>2025-10-04T10:37:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2582914711&amp;t=0h13m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1149</video:duration>
+    <video:duration>843</video:duration>
     <video:publication_date>2025-10-04T10:12:52.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-12T10:12:52.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T11:11:48.000Z</video:publication_date>
     <video:uploader>ArcSystemWorksU</video:uploader>
     <video:expiration_date>2025-09-21T11:11:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ultimate-fighting-arena-2025-3/set/93815933/</loc>
-  <lastmod>2025-09-13T11:18:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Afàneia vs Scarfed, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Afàneia vs Scarfed in Winners Semi-Final of ULTIMATE FIGHTING ARENA 2025, streamed by ArcSystemWorksU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565305517&amp;t=1h20m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>761</video:duration>
-    <video:publication_date>2025-09-13T10:57:20.000Z</video:publication_date>
-    <video:uploader>ArcSystemWorksU</video:uploader>
-    <video:expiration_date>2025-09-21T10:57:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
