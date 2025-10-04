@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-october-2025/set/94661080/</loc>
-  <lastmod>2025-10-04T20:21:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-october-2025/set/94661082/</loc>
+  <lastmod>2025-10-04T20:45:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831897/image-56717d1959632a29d083e38695bfdf05.png
+    </video:thumbnail_loc>
+    <video:title>
+      Hakke vs JRT | Icythot69, Colorado Mile High Burst Monthly October 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Hakke vs JRT | Icythot69 in Losers Final of Colorado Mile High Burst Monthly October 2025, streamed by akihabaraarcade2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583276125&amp;t=1h34m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1591</video:duration>
+    <video:publication_date>2025-10-04T20:45:50.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade2</video:uploader>
+    <video:expiration_date>2025-10-12T20:45:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-october-2025/set/94661080/</loc>
+  <lastmod>2025-10-04T20:52:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583276125&amp;t=1h10m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1703</video:duration>
+    <video:duration>480</video:duration>
     <video:publication_date>2025-10-04T20:21:34.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-10-12T20:21:34.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-09T21:14:04.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-08-17T21:14:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-august-2025/set/92488483/</loc>
-  <lastmod>2025-08-09T21:16:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/811016/image-fa3e82761f496e1f0b737d328476e14e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nidhogg vs Redeemer, Colorado Mile High Burst Monthly August 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nidhogg vs Redeemer in Losers Final of Colorado Mile High Burst Monthly August 2025, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2535668217&amp;t=1h58m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>824</video:duration>
-    <video:publication_date>2025-08-09T21:00:10.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2025-08-17T21:00:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
