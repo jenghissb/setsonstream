@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640401/</loc>
+  <lastmod>2025-10-04T11:19:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
+    </video:thumbnail_loc>
+    <video:title>
+      NoRaven vs SOS | Joule, HardRead @ HeroFest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NoRaven vs SOS | Joule in Winners Semi-Final of HardRead @ HeroFest 2025, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582914711&amp;t=1h19m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1010</video:duration>
+    <video:publication_date>2025-10-04T11:19:48.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-10-12T11:19:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640396/</loc>
   <lastmod>2025-10-04T10:53:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-13T11:23:07.000Z</video:publication_date>
     <video:uploader>ArcSystemWorksU</video:uploader>
     <video:expiration_date>2025-09-21T11:23:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ultimate-fighting-arena-2025-3/set/93815887/</loc>
-  <lastmod>2025-09-13T11:35:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ONi | Tiger_Pop vs PHT | Abbysairaf, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ONi | Tiger_Pop vs PHT | Abbysairaf in Winners Final of ULTIMATE FIGHTING ARENA 2025, streamed by ArcSystemWorksU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565305517&amp;t=1h34m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>663</video:duration>
-    <video:publication_date>2025-09-13T11:11:48.000Z</video:publication_date>
-    <video:uploader>ArcSystemWorksU</video:uploader>
-    <video:expiration_date>2025-09-21T11:11:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
