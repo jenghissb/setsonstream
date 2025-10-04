@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-15/set/94567632/</loc>
+  <lastmod>2025-10-04T13:11:38.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827806/image-2af6e4e6c10dc48fcbaf70e43489a8b0.png
+    </video:thumbnail_loc>
+    <video:title>
+      TDB | ArtofAce vs faccboi, GROUND CONTROL 15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TDB | ArtofAce vs faccboi in Winners Quarter-Final of GROUND CONTROL 15, streamed by gamingloods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2582974339&amp;t=1h0m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1494</video:duration>
+    <video:publication_date>2025-10-04T13:11:38.000Z</video:publication_date>
+    <video:uploader>gamingloods</video:uploader>
+    <video:expiration_date>2025-10-12T13:11:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-15/set/94567629/</loc>
   <lastmod>2025-10-04T13:04:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-14T09:37:54.000Z</video:publication_date>
     <video:uploader>Reversalgg</video:uploader>
     <video:expiration_date>2025-09-22T09:37:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ultimate-fighting-arena-2025-3/set/93891010/</loc>
-  <lastmod>2025-09-14T09:48:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      QAD | Yagami vs DRX | LowHigh, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch QAD | Yagami vs DRX | LowHigh in Winners Semi-Final of ULTIMATE FIGHTING ARENA 2025, streamed by Reversalgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566144635&amp;t=0h16m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2443</video:duration>
-    <video:publication_date>2025-09-14T09:05:55.000Z</video:publication_date>
-    <video:uploader>Reversalgg</video:uploader>
-    <video:expiration_date>2025-09-22T09:05:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
