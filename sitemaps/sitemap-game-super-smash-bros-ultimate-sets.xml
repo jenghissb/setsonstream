@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/obilan-2025/set/94703873/</loc>
-  <lastmod>2025-10-05T10:04:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/obilan-2025/set/94703889/</loc>
+  <lastmod>2025-10-05T10:22:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,18 @@
       https://images.start.gg/images/tournament/827986/image-3e94fa0540934b7c7ed30bdbde66179e.png
     </video:thumbnail_loc>
     <video:title>
-      KGD | Jill vs VIE | OG | Faaith, Obilan 2025 - Sets on Stream
+      Bdenneu vs ODM | Iluya, Obilan 2025 - Sets on Stream
     </video:title>
     <video:description>
-      Watch KGD | Jill vs VIE | OG | Faaith in Winners Round 2 of Obilan 2025, streamed by ottar_berg
+      Watch Bdenneu vs ODM | Iluya in Winners Round 3 of Obilan 2025, streamed by ottar_berg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583777074&amp;t=1h14m33s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2583777074&amp;t=1h31m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>579</video:duration>
-    <video:publication_date>2025-10-05T10:04:44.000Z</video:publication_date>
+    <video:duration>600</video:duration>
+    <video:publication_date>2025-10-05T10:22:06.000Z</video:publication_date>
     <video:uploader>ottar_berg</video:uploader>
-    <video:expiration_date>2025-10-13T10:04:44.000Z</video:expiration_date>
+    <video:expiration_date>2025-10-13T10:22:06.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -42,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583762824&amp;t=1h58m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>367</video:duration>
+    <video:duration>1430</video:duration>
     <video:publication_date>2025-10-05T10:08:16.000Z</video:publication_date>
     <video:uploader>krogad_twitch</video:uploader>
     <video:expiration_date>2025-10-13T10:08:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/obilan-2025/set/94703873/</loc>
+  <lastmod>2025-10-05T10:23:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827986/image-3e94fa0540934b7c7ed30bdbde66179e.png
+    </video:thumbnail_loc>
+    <video:title>
+      KGD | Jill vs VIE | OG | Faaith, Obilan 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KGD | Jill vs VIE | OG | Faaith in Winners Round 2 of Obilan 2025, streamed by ottar_berg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583777074&amp;t=1h14m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1013</video:duration>
+    <video:publication_date>2025-10-05T10:04:44.000Z</video:publication_date>
+    <video:uploader>ottar_berg</video:uploader>
+    <video:expiration_date>2025-10-13T10:04:44.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-27T15:00:49.000Z</video:publication_date>
     <video:uploader>5Dcaster</video:uploader>
     <video:expiration_date>2025-10-05T15:00:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ducato-falchion/set/94266094/</loc>
-  <lastmod>2025-09-27T15:36:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/806413/image-f23597fecfc827ea7632c30a03730f94.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MonkArc | Shad vs Bosco, Ducato: Falchion - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MonkArc | Shad vs Bosco in Losers Round 4 of Ducato: Falchion, streamed by sbit2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2576935823&amp;t=6h48m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2149</video:duration>
-    <video:publication_date>2025-09-27T14:57:23.000Z</video:publication_date>
-    <video:uploader>sbit2</video:uploader>
-    <video:expiration_date>2025-10-05T14:57:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
