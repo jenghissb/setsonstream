@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-5/set/94713971/</loc>
-  <lastmod>2025-10-05T19:08:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-5/set/94713967/</loc>
+  <lastmod>2025-10-05T19:14:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830218/image-525395f320e5e6884b8be3c62d703001.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cheesepuff vs DEI bi-con | spudita, Tapped In #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cheesepuff vs DEI bi-con | spudita in Losers Round 3 of Tapped In #5, streamed by mdva_melee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584005598&amp;t=3h14m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2131</video:duration>
+    <video:publication_date>2025-10-05T19:14:25.000Z</video:publication_date>
+    <video:uploader>mdva_melee</video:uploader>
+    <video:expiration_date>2025-10-13T19:14:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-5/set/94713971/</loc>
+  <lastmod>2025-10-05T19:36:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2584005598&amp;t=3h8m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1631</video:duration>
+    <video:duration>530</video:duration>
     <video:publication_date>2025-10-05T19:08:51.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-10-13T19:08:51.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-13T00:25:40.000Z</video:publication_date>
     <video:uploader>rutgers_melee</video:uploader>
     <video:expiration_date>2025-09-21T00:25:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tripoint-295/set/93793445/</loc>
-  <lastmod>2025-09-13T00:37:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827533/image-03cb9d51f96465251e76d18c1bbd2ec5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kangaroo vs Mr | Nicolol, Tripoint 295 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kangaroo vs Mr | Nicolol in Winners Quarter-Final of Tripoint 295, streamed by ugsgaming2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2564993466&amp;t=0h4m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>656</video:duration>
-    <video:publication_date>2025-09-13T00:04:56.000Z</video:publication_date>
-    <video:uploader>ugsgaming2</video:uploader>
-    <video:expiration_date>2025-09-21T00:04:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
