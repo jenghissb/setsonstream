@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/thunderstruck-2025/set/94714615/</loc>
+  <lastmod>2025-10-05T18:34:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/774738/image-2c6eb420c74cecb65a5966243b241277.png
+    </video:thumbnail_loc>
+    <video:title>
+      Arwin vs Neku, Thunderstruck 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Arwin vs Neku in Losers Round 1 of Thunderstruck 2025, streamed by lagema
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584097491&amp;t=0h38m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>519</video:duration>
+    <video:publication_date>2025-10-05T18:34:27.000Z</video:publication_date>
+    <video:uploader>lagema</video:uploader>
+    <video:expiration_date>2025-10-13T18:34:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/anime-monthly-october/set/94685383/</loc>
   <lastmod>2025-10-05T02:33:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-14T02:54:12.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-09-22T02:54:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-clash-25/set/93877627/</loc>
-  <lastmod>2025-09-14T01:54:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/817061/image-824c85e4e3c4275d256f6c3597ccbb1d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ditto | RedDitto vs YoKai | Aloa, SoCal Colosseum Clash #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ditto | RedDitto vs YoKai | Aloa in Winners Quarter-Final of SoCal Colosseum Clash #25, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565869261&amp;t=1h33m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>563</video:duration>
-    <video:publication_date>2025-09-14T01:30:19.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2025-09-22T01:30:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
