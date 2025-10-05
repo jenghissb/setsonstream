@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/thunderstruck-2025/set/94690162/</loc>
-  <lastmod>2025-10-05T03:35:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/thunderstruck-2025/set/94690163/</loc>
+  <lastmod>2025-10-05T03:51:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/774738/image-2c6eb420c74cecb65a5966243b241277.png
+    </video:thumbnail_loc>
+    <video:title>
+      Valdo vs Dream, Thunderstruck 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Valdo vs Dream in Losers Final of Thunderstruck 2025, streamed by flow_spot
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583358134&amp;t=6h55m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1535</video:duration>
+    <video:publication_date>2025-10-05T03:51:48.000Z</video:publication_date>
+    <video:uploader>flow_spot</video:uploader>
+    <video:expiration_date>2025-10-13T03:51:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/thunderstruck-2025/set/94690162/</loc>
+  <lastmod>2025-10-05T04:08:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583358134&amp;t=6h38m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1052</video:duration>
+    <video:duration>1001</video:duration>
     <video:publication_date>2025-10-05T03:35:03.000Z</video:publication_date>
     <video:uploader>flow_spot</video:uploader>
     <video:expiration_date>2025-10-13T03:35:03.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-12T03:58:07.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-09-20T03:58:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guildhouse-fighters-183-street-fighter-6-and-melee/set/93763377/</loc>
-  <lastmod>2025-09-12T04:25:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827305/image-e20da6913e4422436fa66f3f96500847.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      darkwizard123 vs ScrapMonster, Guildhouse Fighters 183 - Street Fighter 6 and Melee - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch darkwizard123 vs ScrapMonster in Winners Semi-Final of Guildhouse Fighters 183 - Street Fighter 6 and Melee, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2564302120&amp;t=0h40m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1077</video:duration>
-    <video:publication_date>2025-09-12T03:55:19.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-09-20T03:55:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
