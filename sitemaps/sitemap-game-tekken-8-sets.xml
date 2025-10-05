@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94720857/</loc>
-  <lastmod>2025-10-05T21:46:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94720844/</loc>
+  <lastmod>2025-10-05T21:55:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/774738/image-2c6eb420c74cecb65a5966243b241277.png
+    </video:thumbnail_loc>
+    <video:title>
+      DEER | RV Cris vs PCF | DivineExorcist4, Thunderstruck 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DEER | RV Cris vs PCF | DivineExorcist4 in Winners Final of Thunderstruck 2025, streamed by lagema
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584225406&amp;t=1h21m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1104</video:duration>
+    <video:publication_date>2025-10-05T21:55:11.000Z</video:publication_date>
+    <video:uploader>lagema</video:uploader>
+    <video:expiration_date>2025-10-13T21:55:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94720857/</loc>
+  <lastmod>2025-10-05T22:08:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2584225406&amp;t=1h13m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>144</video:duration>
+    <video:duration>421</video:duration>
     <video:publication_date>2025-10-05T21:46:49.000Z</video:publication_date>
     <video:uploader>lagema</video:uploader>
     <video:expiration_date>2025-10-13T21:46:49.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-18T02:26:12.000Z</video:publication_date>
     <video:uploader>NrettG</video:uploader>
     <video:expiration_date>2025-09-26T02:26:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-66/set/93997501/</loc>
-  <lastmod>2025-09-18T02:42:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825784/image-3dd818ae1c1628a3693e719c46c37db5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ghost | NOMAR vs BOLT | KhalRhaego, 4o4 by Sh33rZ: Tekken 8 #66 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ghost | NOMAR vs BOLT | KhalRhaego in Winners Final of 4o4 by Sh33rZ: Tekken 8 #66, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569079401&amp;t=2h29m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>905</video:duration>
-    <video:publication_date>2025-09-18T02:07:09.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-09-26T02:07:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
