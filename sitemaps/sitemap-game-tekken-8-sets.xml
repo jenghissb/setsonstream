@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704229/</loc>
-  <lastmod>2025-10-05T11:34:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704292/</loc>
+  <lastmod>2025-10-05T12:12:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Addicted | Carrulo vs VTX | CHARDY-SAN, HardRead @ HeroFest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Addicted | Carrulo vs VTX | CHARDY-SAN in Losers Quarter-Final of HardRead @ HeroFest 2025, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583803177&amp;t=2h12m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>885</video:duration>
+    <video:publication_date>2025-10-05T12:12:29.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-10-13T12:12:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704229/</loc>
+  <lastmod>2025-10-05T11:57:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583803177&amp;t=1h34m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>949</video:duration>
+    <video:duration>562</video:duration>
     <video:publication_date>2025-10-05T11:34:07.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-13T11:34:07.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-17T10:08:04.000Z</video:publication_date>
     <video:uploader>troubleinparradise</video:uploader>
     <video:expiration_date>2025-09-25T10:08:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/trouble-in-parradise-35/set/93976588/</loc>
-  <lastmod>2025-09-17T10:13:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829084/image-68e97643addf4a268319d5b0537ecda2.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      deo vs ALX, Trouble in Parradise #35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch deo vs ALX in Winners Quarter-Final of Trouble in Parradise #35, streamed by troubleinparradise
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568558607&amp;t=0h59m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>684</video:duration>
-    <video:publication_date>2025-09-17T09:56:30.000Z</video:publication_date>
-    <video:uploader>troubleinparradise</video:uploader>
-    <video:expiration_date>2025-09-25T09:56:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
