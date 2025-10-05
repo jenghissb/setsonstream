@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fukuoka-2-2/set/94702822/</loc>
-  <lastmod>2025-10-05T08:26:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fukuoka-2-2/set/94702823/</loc>
+  <lastmod>2025-10-05T08:41:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823990/image-9a742644ef0f4ba44835152d199e0137.png
+    </video:thumbnail_loc>
+    <video:title>
+      SFS/しき(SFS/ shiki) vs ハカタコ(hakatako), くすブラFukuoka 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SFS/しき(SFS/ shiki) vs ハカタコ(hakatako) in Losers Final of くすブラFukuoka 2, streamed by くすブラ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Qtjs47lE0u8?start=19066s
+    </video:player_loc>
+    <video:duration>479</video:duration>
+    <video:publication_date>2025-10-05T08:41:29.000Z</video:publication_date>
+    <video:uploader>くすブラ</video:uploader>
+    <video:expiration_date>2025-10-13T08:41:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fukuoka-2-2/set/94702822/</loc>
+  <lastmod>2025-10-05T08:42:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/Qtjs47lE0u8?start=18167s
     </video:player_loc>
-    <video:duration>822</video:duration>
+    <video:duration>844</video:duration>
     <video:publication_date>2025-10-05T08:26:30.000Z</video:publication_date>
     <video:uploader>くすブラ</video:uploader>
     <video:expiration_date>2025-10-13T08:26:30.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-27T14:39:51.000Z</video:publication_date>
     <video:uploader>TeamWolfPackUK</video:uploader>
     <video:expiration_date>2025-10-05T14:39:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smashmania-2025/set/94233353/</loc>
-  <lastmod>2025-09-27T15:01:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/787681/image-4f76827495603da778762472768be59d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CLD | Zassio vs TonyClackos, SmashMania 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CLD | Zassio vs TonyClackos in Losers Quarter-Final of SmashMania 2025, streamed by sakor_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577107112&amp;t=0h25m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1093</video:duration>
-    <video:publication_date>2025-09-27T14:38:32.000Z</video:publication_date>
-    <video:uploader>sakor_</video:uploader>
-    <video:expiration_date>2025-10-05T14:38:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
