@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/highground-arena/set/94703595/</loc>
+  <lastmod>2025-10-05T11:42:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823148/image-bfdc093a8fa5dd1e354843ffbb06bde6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ragon vs DC | Sapinos, Highground arena - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ragon vs DC | Sapinos in Winners Round 2 of Highground arena, streamed by Le_Pugilat_des_Etoiles
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583837981&amp;t=0h19m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>447</video:duration>
+    <video:publication_date>2025-10-05T11:42:29.000Z</video:publication_date>
+    <video:uploader>Le_Pugilat_des_Etoiles</video:uploader>
+    <video:expiration_date>2025-10-13T11:42:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/obilan-2025/set/94704006/</loc>
   <lastmod>2025-10-05T11:12:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-27T15:11:13.000Z</video:publication_date>
     <video:uploader>SmashBrosItalia</video:uploader>
     <video:expiration_date>2025-10-05T15:11:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/black-country-showdown-3/set/94330547/</loc>
-  <lastmod>2025-09-27T15:33:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/810753/image-805aec3fe2735b04e9b7a895c24182e3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Adivian vs TSOO | Primo, Black Country Showdown 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Adivian vs TSOO | Primo in Losers Round 3 of Black Country Showdown 3, streamed by TeamWolfPackUK
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577052973&amp;t=2h23m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1270</video:duration>
-    <video:publication_date>2025-09-27T15:08:53.000Z</video:publication_date>
-    <video:uploader>TeamWolfPackUK</video:uploader>
-    <video:expiration_date>2025-10-05T15:08:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
