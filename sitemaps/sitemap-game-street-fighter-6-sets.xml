@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tension-x-shift-25/set/94714970/</loc>
+  <lastmod>2025-10-05T19:16:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825548/image-d096d078a3baefdf2ec60de5c2a63c40.png
+    </video:thumbnail_loc>
+    <video:title>
+      Street Demons | Ichi vs Truly | GalaxyBrAn, Tension x Shift 25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Street Demons | Ichi vs Truly | GalaxyBrAn in Round 6 of Tension x Shift 25, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584109633&amp;t=1h8m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1201</video:duration>
+    <video:publication_date>2025-10-05T19:16:01.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2025-10-13T19:16:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/anime-fiesta-sunday-edition-2025/set/94715077/</loc>
   <lastmod>2025-10-05T19:05:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-14T19:38:36.000Z</video:publication_date>
     <video:uploader>CapcomFighters</video:uploader>
     <video:expiration_date>2025-09-22T19:38:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ultimate-fighting-arena-2025-3/set/93906735/</loc>
-  <lastmod>2025-09-14T19:55:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777409/image-ed092e1e965565bf06a31d938aa37046.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NoahTheProdigy vs Void | broski, ULTIMATE FIGHTING ARENA 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NoahTheProdigy vs Void | broski in Losers Round 1 of ULTIMATE FIGHTING ARENA 2025, streamed by CapcomFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566163377&amp;t=9h46m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1246</video:duration>
-    <video:publication_date>2025-09-14T19:29:00.000Z</video:publication_date>
-    <video:uploader>CapcomFighters</video:uploader>
-    <video:expiration_date>2025-09-22T19:29:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
