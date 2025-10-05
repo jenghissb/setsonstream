@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94720844/</loc>
-  <lastmod>2025-10-05T21:55:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94720859/</loc>
+  <lastmod>2025-10-05T22:12:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/774738/image-2c6eb420c74cecb65a5966243b241277.png
+    </video:thumbnail_loc>
+    <video:title>
+      FT | J8A vs PCF | LemusAlexander, Thunderstruck 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FT | J8A vs PCF | LemusAlexander in Losers Semi-Final of Thunderstruck 2025, streamed by lagema
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584225406&amp;t=1h39m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1075</video:duration>
+    <video:publication_date>2025-10-05T22:12:33.000Z</video:publication_date>
+    <video:uploader>lagema</video:uploader>
+    <video:expiration_date>2025-10-13T22:12:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94720844/</loc>
+  <lastmod>2025-10-05T22:28:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2584225406&amp;t=1h21m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1104</video:duration>
+    <video:duration>1037</video:duration>
     <video:publication_date>2025-10-05T21:55:11.000Z</video:publication_date>
     <video:uploader>lagema</video:uploader>
     <video:expiration_date>2025-10-13T21:55:11.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-18T02:37:31.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-09-26T02:37:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/showdown-65/set/93997392/</loc>
-  <lastmod>2025-09-18T03:03:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828184/image-1df4d07c5d7154f12b7aa0d2e8b68709.png
-    </video:thumbnail_loc>
-    <video:title>
-      starr vs The Moonsmith, Showdown #65 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch starr vs The Moonsmith in Winners Final of Showdown #65, streamed by NrettG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569106722&amp;t=2h16m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1036</video:duration>
-    <video:publication_date>2025-09-18T02:26:12.000Z</video:publication_date>
-    <video:uploader>NrettG</video:uploader>
-    <video:expiration_date>2025-09-26T02:26:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
