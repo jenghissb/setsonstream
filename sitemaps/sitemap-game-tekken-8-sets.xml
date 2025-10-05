@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/side-step-saturday-39/set/94700871/</loc>
-  <lastmod>2025-10-05T05:06:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/side-step-saturday-39/set/94700872/</loc>
+  <lastmod>2025-10-05T05:21:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831647/image-e32d969b9d6404a5a33a68e558072cbf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ONi | Dr.theJAKEMAN, M.D vs Shy, Side Step Saturday #39 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ONi | Dr.theJAKEMAN, M.D vs Shy in Losers Final of Side Step Saturday #39, streamed by sidestepsaturday
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583682189&amp;t=0h30m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1166</video:duration>
+    <video:publication_date>2025-10-05T05:21:38.000Z</video:publication_date>
+    <video:uploader>sidestepsaturday</video:uploader>
+    <video:expiration_date>2025-10-13T05:21:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/side-step-saturday-39/set/94700871/</loc>
+  <lastmod>2025-10-05T05:31:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583682189&amp;t=0h15m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1421</video:duration>
+    <video:duration>890</video:duration>
     <video:publication_date>2025-10-05T05:06:39.000Z</video:publication_date>
     <video:uploader>sidestepsaturday</video:uploader>
     <video:expiration_date>2025-10-13T05:06:39.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-17T01:56:09.000Z</video:publication_date>
     <video:uploader>FrankieG7Chi</video:uploader>
     <video:expiration_date>2025-09-25T01:56:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/d-b-tuesday-s-17/set/93968845/</loc>
-  <lastmod>2025-09-17T01:58:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827877/image-d7eb373f21354018ce4283b0f141598e.png
-    </video:thumbnail_loc>
-    <video:title>
-      The Mayor vs #FitFGC | Kizzercrate, D&amp;B Tuesday’s #17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch The Mayor vs #FitFGC | Kizzercrate in Winners Semi-Final of D&amp;B Tuesday’s #17, streamed by FrankieG7Chi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568312969&amp;t=1h3m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>517</video:duration>
-    <video:publication_date>2025-09-17T01:32:08.000Z</video:publication_date>
-    <video:uploader>FrankieG7Chi</video:uploader>
-    <video:expiration_date>2025-09-25T01:32:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
