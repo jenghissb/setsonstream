@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fukuoka-2-2/set/94702808/</loc>
-  <lastmod>2025-10-05T08:56:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/obilan-2025/set/94703859/</loc>
+  <lastmod>2025-10-05T09:22:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823990/image-9a742644ef0f4ba44835152d199e0137.png
+      https://images.start.gg/images/tournament/827986/image-3e94fa0540934b7c7ed30bdbde66179e.png
     </video:thumbnail_loc>
     <video:title>
-      ロッキー(rokkii) vs ハカタコ(hakatako), くすブラFukuoka 2 - Sets on Stream
+      OG | MamaDj vs F8 | OttarBerg, Obilan 2025 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ロッキー(rokkii) vs ハカタコ(hakatako) in Grand Final of くすブラFukuoka 2, streamed by くすブラ
+      Watch OG | MamaDj vs F8 | OttarBerg in Winners Round 1 of Obilan 2025, streamed by ottar_berg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/Qtjs47lE0u8?start=19949s
+      https://player.twitch.tv/?video=2583777074&amp;t=0h26m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1057</video:duration>
-    <video:publication_date>2025-10-05T08:56:12.000Z</video:publication_date>
-    <video:uploader>くすブラ</video:uploader>
-    <video:expiration_date>2025-10-13T08:56:12.000Z</video:expiration_date>
+    <video:duration>235</video:duration>
+    <video:publication_date>2025-10-05T09:16:59.000Z</video:publication_date>
+    <video:uploader>ottar_berg</video:uploader>
+    <video:expiration_date>2025-10-13T09:16:59.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +70,30 @@
     <video:publication_date>2025-10-05T09:03:26.000Z</video:publication_date>
     <video:uploader>krogad_twitch</video:uploader>
     <video:expiration_date>2025-10-13T09:03:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fukuoka-2-2/set/94702808/</loc>
+  <lastmod>2025-10-05T09:14:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823990/image-9a742644ef0f4ba44835152d199e0137.png
+    </video:thumbnail_loc>
+    <video:title>
+      ロッキー(rokkii) vs ハカタコ(hakatako), くすブラFukuoka 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ロッキー(rokkii) vs ハカタコ(hakatako) in Grand Final of くすブラFukuoka 2, streamed by くすブラ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Qtjs47lE0u8?start=19949s
+    </video:player_loc>
+    <video:duration>927</video:duration>
+    <video:publication_date>2025-10-05T08:56:12.000Z</video:publication_date>
+    <video:uploader>くすブラ</video:uploader>
+    <video:expiration_date>2025-10-13T08:56:12.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-27T14:50:16.000Z</video:publication_date>
     <video:uploader>Dex_tv</video:uploader>
     <video:expiration_date>2025-10-05T14:50:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smashmania-2025/set/94233542/</loc>
-  <lastmod>2025-09-27T15:15:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/787681/image-4f76827495603da778762472768be59d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      WAR | Skaws vs NauBody, SmashMania 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WAR | Skaws vs NauBody in Losers Quarter-Final of SmashMania 2025, streamed by NaetorUSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577104619&amp;t=0h40m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1337</video:duration>
-    <video:publication_date>2025-09-27T14:49:32.000Z</video:publication_date>
-    <video:uploader>NaetorUSmash</video:uploader>
-    <video:expiration_date>2025-10-05T14:49:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
