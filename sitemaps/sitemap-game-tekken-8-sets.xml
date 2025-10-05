@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704212/</loc>
-  <lastmod>2025-10-05T10:25:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704221/</loc>
+  <lastmod>2025-10-05T10:40:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Addicted | mind_hunt3r vs VTX-C | JinFury, HardRead @ HeroFest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Addicted | mind_hunt3r vs VTX-C | JinFury in Winners Round 2 of HardRead @ HeroFest 2025, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583803177&amp;t=0h40m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>561</video:duration>
+    <video:publication_date>2025-10-05T10:40:24.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-10-13T10:40:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704212/</loc>
+  <lastmod>2025-10-05T10:42:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583803177&amp;t=0h25m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>426</video:duration>
+    <video:duration>454</video:duration>
     <video:publication_date>2025-10-05T10:25:00.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-13T10:25:00.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-17T02:59:10.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-09-25T02:59:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/d-b-tuesday-s-17/set/93968848/</loc>
-  <lastmod>2025-09-17T05:01:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827877/image-d7eb373f21354018ce4283b0f141598e.png
-    </video:thumbnail_loc>
-    <video:title>
-      #FitFGC | Kizzercrate vs The Mayor, D&amp;B Tuesday’s #17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch #FitFGC | Kizzercrate vs The Mayor in Grand Final of D&amp;B Tuesday’s #17, streamed by FrankieG7Chi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568312969&amp;t=2h19m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-09-17T02:47:32.000Z</video:publication_date>
-    <video:uploader>FrankieG7Chi</video:uploader>
-    <video:expiration_date>2025-09-25T02:47:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
