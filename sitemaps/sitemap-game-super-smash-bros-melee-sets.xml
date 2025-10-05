@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-5/set/94713967/</loc>
-  <lastmod>2025-10-05T19:14:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-5/set/94713970/</loc>
+  <lastmod>2025-10-05T19:48:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830218/image-525395f320e5e6884b8be3c62d703001.png
+    </video:thumbnail_loc>
+    <video:title>
+      shoelegend vs DEI bi-con | spudita, Tapped In #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch shoelegend vs DEI bi-con | spudita in Losers Round 4 of Tapped In #5, streamed by mdva_melee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584005598&amp;t=3h48m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1599</video:duration>
+    <video:publication_date>2025-10-05T19:48:16.000Z</video:publication_date>
+    <video:uploader>mdva_melee</video:uploader>
+    <video:expiration_date>2025-10-13T19:48:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-5/set/94713967/</loc>
+  <lastmod>2025-10-05T19:56:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2584005598&amp;t=3h14m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2131</video:duration>
+    <video:duration>1848</video:duration>
     <video:publication_date>2025-10-05T19:14:25.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-10-13T19:14:25.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-13T00:59:30.000Z</video:publication_date>
     <video:uploader>ugsgaming2</video:uploader>
     <video:expiration_date>2025-09-21T00:59:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rutgers-melee-fall-25-2/set/93794149/</loc>
-  <lastmod>2025-09-13T01:09:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827274/image-3d110f9577ac909220ad5a4ca99c51da.png
-    </video:thumbnail_loc>
-    <video:title>
-      The Milkman vs foo1, Rutgers Melee Fall &apos;25 #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch The Milkman vs foo1 in Winners Round 1 of Rutgers Melee Fall &apos;25 #2, streamed by rutgers_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2564997828&amp;t=0h19m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>768</video:duration>
-    <video:publication_date>2025-09-13T00:25:40.000Z</video:publication_date>
-    <video:uploader>rutgers_melee</video:uploader>
-    <video:expiration_date>2025-09-21T00:25:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
