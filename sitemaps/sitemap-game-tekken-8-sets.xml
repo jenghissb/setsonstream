@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704225/</loc>
-  <lastmod>2025-10-05T11:10:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704227/</loc>
+  <lastmod>2025-10-05T11:24:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Addicted | mind_hunt3r vs Addicted | Carrulo, HardRead @ HeroFest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Addicted | mind_hunt3r vs Addicted | Carrulo in Winners Quarter-Final of HardRead @ HeroFest 2025, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583803177&amp;t=1h24m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>739</video:duration>
+    <video:publication_date>2025-10-05T11:24:10.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-10-13T11:24:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704225/</loc>
+  <lastmod>2025-10-05T11:27:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583803177&amp;t=1h10m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>789</video:duration>
+    <video:duration>424</video:duration>
     <video:publication_date>2025-10-05T11:10:25.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-13T11:10:25.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-17T09:42:43.000Z</video:publication_date>
     <video:uploader>troubleinparradise</video:uploader>
     <video:expiration_date>2025-09-25T09:42:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/trouble-in-parradise-35/set/93976570/</loc>
-  <lastmod>2025-09-17T09:35:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829084/image-68e97643addf4a268319d5b0537ecda2.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      lleon9287 vs Juwude_, Trouble in Parradise #35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch lleon9287 vs Juwude_ in Winners Round 1 of Trouble in Parradise #35, streamed by troubleinparradise
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568558607&amp;t=0h17m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1034</video:duration>
-    <video:publication_date>2025-09-17T09:15:08.000Z</video:publication_date>
-    <video:uploader>troubleinparradise</video:uploader>
-    <video:expiration_date>2025-09-25T09:15:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
