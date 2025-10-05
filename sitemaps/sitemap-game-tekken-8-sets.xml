@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/playthrough-2025/set/94708361/</loc>
-  <lastmod>2025-10-05T17:00:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/playthrough-2025/set/94708363/</loc>
+  <lastmod>2025-10-05T17:15:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/812835/image-77c62f8b01779828b110a0883b2d16d9.png
+    </video:thumbnail_loc>
+    <video:title>
+      NewWaveCoffee | thatbguy vs Xx When xX, Playthrough 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NewWaveCoffee | thatbguy vs Xx When xX in Losers Quarter-Final of Playthrough 2025, streamed by OakCityEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2583988263&amp;t=1h39m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>701</video:duration>
+    <video:publication_date>2025-10-05T17:15:37.000Z</video:publication_date>
+    <video:uploader>OakCityEsports</video:uploader>
+    <video:expiration_date>2025-10-13T17:15:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/playthrough-2025/set/94708361/</loc>
+  <lastmod>2025-10-05T17:24:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2583988263&amp;t=1h24m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>666</video:duration>
+    <video:duration>519</video:duration>
     <video:publication_date>2025-10-05T17:00:44.000Z</video:publication_date>
     <video:uploader>OakCityEsports</video:uploader>
     <video:expiration_date>2025-10-13T17:00:44.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-18T01:09:04.000Z</video:publication_date>
     <video:uploader>matchstickmelee</video:uploader>
     <video:expiration_date>2025-09-26T01:09:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-136/set/93997840/</loc>
-  <lastmod>2025-09-18T01:35:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828505/image-475fa1a3f21cfe263563bb77322667fd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Plum vs LS | lil Empathy, Juicy Game Night #136 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Plum vs LS | lil Empathy in Winners Semi-Final of Juicy Game Night #136, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569107524&amp;t=0h57m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>202</video:duration>
-    <video:publication_date>2025-09-18T01:08:22.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2025-09-26T01:08:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
