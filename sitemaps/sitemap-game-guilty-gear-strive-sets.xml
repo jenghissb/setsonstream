@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-25/set/94717933/</loc>
-  <lastmod>2025-10-05T19:50:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-25/set/94717925/</loc>
+  <lastmod>2025-10-05T20:13:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825548/image-d096d078a3baefdf2ec60de5c2a63c40.png
+    </video:thumbnail_loc>
+    <video:title>
+      WhiteMonster | RevantTillywink vs Truly | Mangocopter, Tension x Shift 25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WhiteMonster | RevantTillywink vs Truly | Mangocopter in Round 2 of Tension x Shift 25, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584109633&amp;t=2h6m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1033</video:duration>
+    <video:publication_date>2025-10-05T20:13:50.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2025-10-13T20:13:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-25/set/94717933/</loc>
+  <lastmod>2025-10-05T20:19:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2584109633&amp;t=1h43m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1437</video:duration>
+    <video:duration>1218</video:duration>
     <video:publication_date>2025-10-05T19:50:58.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-10-13T19:50:58.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-14T03:04:39.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-09-22T03:04:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-frame-2025/set/93886550/</loc>
-  <lastmod>2025-09-14T03:30:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/656070/image-f2ee83dbe25e6fc3ccd2449931748230.png
-    </video:thumbnail_loc>
-    <video:title>
-      LOA/BT | Johnny Tatsumi vs TNS | KingJobber, JUST FRAME 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LOA/BT | Johnny Tatsumi vs TNS | KingJobber in Losers Round 2 of JUST FRAME 2025, streamed by LigaAceEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565614242&amp;t=8h51m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>632</video:duration>
-    <video:publication_date>2025-09-14T03:03:12.000Z</video:publication_date>
-    <video:uploader>LigaAceEsports</video:uploader>
-    <video:expiration_date>2025-09-22T03:03:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
