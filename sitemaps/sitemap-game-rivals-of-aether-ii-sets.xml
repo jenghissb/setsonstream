@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-210/set/94744600/</loc>
+  <lastmod>2025-10-06T23:03:30.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837718/image-9d103e28662292961841dc058b86e6fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      天 | Drewsephix(ten | Drewsephix) vs Timber, ContenderHV Smash #210 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 天 | Drewsephix(ten | Drewsephix) vs Timber in Round 2 of ContenderHV Smash #210, streamed by ContenderHudsonValley
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585089736&amp;t=0h23m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>641</video:duration>
+    <video:publication_date>2025-10-06T23:03:30.000Z</video:publication_date>
+    <video:uploader>ContenderHudsonValley</video:uploader>
+    <video:expiration_date>2025-10-14T23:03:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hitfall-4/set/94721322/</loc>
   <lastmod>2025-10-06T01:02:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T02:13:19.000Z</video:publication_date>
     <video:uploader>RivalsBC</video:uploader>
     <video:expiration_date>2025-09-28T02:13:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-smash-weekly-197/set/94064059/</loc>
-  <lastmod>2025-09-20T00:53:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827189/image-af5a6577519adc46997d1cf2ab611313.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tiki vs Ham Sandwich, Prodigy Smash Weekly #197 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tiki vs Ham Sandwich in Winners Semi-Final of Prodigy Smash Weekly #197, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570740211&amp;t=0h37m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>822</video:duration>
-    <video:publication_date>2025-09-20T00:08:20.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2025-09-28T00:08:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
