@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-210/set/94744600/</loc>
-  <lastmod>2025-10-06T23:03:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-210/set/94744598/</loc>
+  <lastmod>2025-10-06T23:22:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837718/image-9d103e28662292961841dc058b86e6fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Timber vs NP | UniTy, ContenderHV Smash #210 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Timber vs NP | UniTy in Round 1 of ContenderHV Smash #210, streamed by ContenderHudsonValley
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585089736&amp;t=0h42m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>944</video:duration>
+    <video:publication_date>2025-10-06T23:22:06.000Z</video:publication_date>
+    <video:uploader>ContenderHudsonValley</video:uploader>
+    <video:expiration_date>2025-10-14T23:22:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-210/set/94744600/</loc>
+  <lastmod>2025-10-06T23:30:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2585089736&amp;t=0h23m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1476</video:duration>
+    <video:duration>1061</video:duration>
     <video:publication_date>2025-10-06T23:03:30.000Z</video:publication_date>
     <video:uploader>ContenderHudsonValley</video:uploader>
     <video:expiration_date>2025-10-14T23:03:30.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T02:41:59.000Z</video:publication_date>
     <video:uploader>RivalsBC</video:uploader>
     <video:expiration_date>2025-09-28T02:41:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-town-show-down-don-t-splash-me-ft-elkiies-ceramic-maya-and-more/set/94082906/</loc>
-  <lastmod>2025-09-20T02:50:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825910/image-0bb478c0d2b806f7170d2db6247115da.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      maya vs Oneoutkast, Port Town Show Down: Don&apos;t Splash Me! ft. elkiies, ceramic, maya, and more! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch maya vs Oneoutkast in Round 2 of Port Town Show Down: Don&apos;t Splash Me! ft. elkiies, ceramic, maya, and more!, streamed by RivalsBC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570833899&amp;t=0h45m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>562</video:duration>
-    <video:publication_date>2025-09-20T02:13:19.000Z</video:publication_date>
-    <video:uploader>RivalsBC</video:uploader>
-    <video:expiration_date>2025-09-28T02:13:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
