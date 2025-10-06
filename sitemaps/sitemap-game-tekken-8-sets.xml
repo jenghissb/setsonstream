@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-220/set/94746487/</loc>
+  <lastmod>2025-10-06T23:25:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835013/image-70892d438c57772fbe7c7a3071e7cfea.png
+    </video:thumbnail_loc>
+    <video:title>
+      ESG | HOJU vs duckie, ESG Fight Night #220 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ESG | HOJU vs duckie in Round 1 of ESG Fight Night #220, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585106028&amp;t=0h25m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>142</video:duration>
+    <video:publication_date>2025-10-06T23:25:45.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2025-10-14T23:25:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/thunderstruck-2025/set/94720845/</loc>
   <lastmod>2025-10-05T23:08:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-18T03:00:52.000Z</video:publication_date>
     <video:uploader>NrettG</video:uploader>
     <video:expiration_date>2025-09-26T03:00:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-66/set/93997502/</loc>
-  <lastmod>2025-09-18T03:23:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825784/image-3dd818ae1c1628a3693e719c46c37db5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ghost | NOMAR vs JJBREEZE, 4o4 by Sh33rZ: Tekken 8 #66 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ghost | NOMAR vs JJBREEZE in Grand Final of 4o4 by Sh33rZ: Tekken 8 #66, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569079401&amp;t=3h12m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>832</video:duration>
-    <video:publication_date>2025-09-18T02:49:15.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-09-26T02:49:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
