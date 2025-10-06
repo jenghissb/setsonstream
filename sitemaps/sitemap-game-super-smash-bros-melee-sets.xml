@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-80/set/94739292/</loc>
+  <lastmod>2025-10-06T19:34:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836385/image-23f94f17ca8406c43bbe8c3eaf42d614.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | NMUP | Busard vs PSG | vlad, KnockOut Zone #80 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | NMUP | Busard vs PSG | vlad in Grand Final of KnockOut Zone #80, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584854302&amp;t=2h22m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>922</video:duration>
+    <video:publication_date>2025-10-06T19:34:32.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-10-14T19:34:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-80/set/94739290/</loc>
   <lastmod>2025-10-06T18:58:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-13T22:21:25.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2025-09-21T22:21:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/prodigy-classic-vi/set/93860936/</loc>
-  <lastmod>2025-09-13T22:33:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/814948/image-9ecdb5026cc2f4e67147da388224760e.png
-    </video:thumbnail_loc>
-    <video:title>
-      PROD | funkyk0ng vs Kezzup, Prodigy Classic VI - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PROD | funkyk0ng vs Kezzup in Winners Round 2 of Prodigy Classic VI, streamed by cg_conduitgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565670785&amp;t=2h47m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>958</video:duration>
-    <video:publication_date>2025-09-13T22:05:22.000Z</video:publication_date>
-    <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2025-09-21T22:05:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
