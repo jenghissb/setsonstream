@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-smash-circuit-monthly-9/set/94732336/</loc>
-  <lastmod>2025-10-06T05:19:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-smash-circuit-monthly-9/set/94732337/</loc>
+  <lastmod>2025-10-06T05:41:41.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836266/image-b67a3de72f46e3b76c9e9a294a4868be.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shoghis Child | Niko4 vs Tempo Avenue | Shoghi, Tempo Smash Circuit Monthly #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shoghis Child | Niko4 vs Tempo Avenue | Shoghi in Losers Final of Tempo Smash Circuit Monthly #9, streamed by tempoavenue
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584458547&amp;t=3h29m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>472</video:duration>
+    <video:publication_date>2025-10-06T05:41:41.000Z</video:publication_date>
+    <video:uploader>tempoavenue</video:uploader>
+    <video:expiration_date>2025-10-14T05:41:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-smash-circuit-monthly-9/set/94732336/</loc>
+  <lastmod>2025-10-06T05:45:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2584458547&amp;t=3h7m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>802</video:duration>
+    <video:duration>1326</video:duration>
     <video:publication_date>2025-10-06T05:19:32.000Z</video:publication_date>
     <video:uploader>tempoavenue</video:uploader>
     <video:expiration_date>2025-10-14T05:19:32.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-27T22:14:09.000Z</video:publication_date>
     <video:uploader>ProjectSmashstorm</video:uploader>
     <video:expiration_date>2025-10-05T22:14:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lra-start-23-ba-start-arcade-and-taproom/set/94418628/</loc>
-  <lastmod>2025-09-27T22:28:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830348/image-9ab071c64cde7dbd04fc898b6ef99743.png
-    </video:thumbnail_loc>
-    <video:title>
-      REAL | WasianGiant vs dub, LRA Start #23 @ BA Start Arcade and Taproom - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch REAL | WasianGiant vs dub in Winners Round 1 of LRA Start #23 @ BA Start Arcade and Taproom, streamed by slosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577492169&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>308</video:duration>
-    <video:publication_date>2025-09-27T22:14:06.000Z</video:publication_date>
-    <video:uploader>slosmash</video:uploader>
-    <video:expiration_date>2025-10-05T22:14:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
