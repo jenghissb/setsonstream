@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-smash-circuit-monthly-9/set/94732261/</loc>
-  <lastmod>2025-10-06T04:57:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-smash-circuit-monthly-9/set/94732336/</loc>
+  <lastmod>2025-10-06T05:19:32.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836266/image-b67a3de72f46e3b76c9e9a294a4868be.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tempo Avenue | Shoghi vs Tempo Avenue | IrisZ, Tempo Smash Circuit Monthly #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tempo Avenue | Shoghi vs Tempo Avenue | IrisZ in Losers Semi-Final of Tempo Smash Circuit Monthly #9, streamed by tempoavenue
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2584458547&amp;t=3h7m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>802</video:duration>
+    <video:publication_date>2025-10-06T05:19:32.000Z</video:publication_date>
+    <video:uploader>tempoavenue</video:uploader>
+    <video:expiration_date>2025-10-14T05:19:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-smash-circuit-monthly-9/set/94732261/</loc>
+  <lastmod>2025-10-06T05:22:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2584458547&amp;t=2h45m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1047</video:duration>
+    <video:duration>1291</video:duration>
     <video:publication_date>2025-10-06T04:57:57.000Z</video:publication_date>
     <video:uploader>tempoavenue</video:uploader>
     <video:expiration_date>2025-10-14T04:57:57.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-27T22:14:06.000Z</video:publication_date>
     <video:uploader>slosmash</video:uploader>
     <video:expiration_date>2025-10-05T22:14:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muravi-games-house-of-salt-weeklies-128/set/94410896/</loc>
-  <lastmod>2025-09-27T22:34:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831686/image-cf1aa690d04ea4b9f6142c4db62e4a5b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MR | JinTek vs CA | Tripleta, Muravi Games: House of Salt Weeklies #128! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MR | JinTek vs CA | Tripleta in Losers Semi-Final of Muravi Games: House of Salt Weeklies #128!, streamed by Muravi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577424179&amp;t=1h30m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>764</video:duration>
-    <video:publication_date>2025-09-27T22:13:42.000Z</video:publication_date>
-    <video:uploader>Muravi</video:uploader>
-    <video:expiration_date>2025-10-05T22:13:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
