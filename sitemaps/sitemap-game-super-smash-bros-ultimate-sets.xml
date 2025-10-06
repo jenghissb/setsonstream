@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/6-298/set/94734730/</loc>
+  <lastmod>2025-10-06T11:36:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833702/image-3c7f3be6126eeba90e74463bbb184f91.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LG3 | ジャイロでいきます(LG3 | jairo deikimasu) vs Okuu, 6(月)上野スマコミ#298(無制限) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LG3 | ジャイロでいきます(LG3 | jairo deikimasu) vs Okuu in Winners Semi-Final of 6(月)上野スマコミ#298(無制限), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/s4KQOG0i6YY?start=3629s
+    </video:player_loc>
+    <video:duration>793</video:duration>
+    <video:publication_date>2025-10-06T11:36:25.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-10-14T11:36:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/6-298/set/94734728/</loc>
   <lastmod>2025-10-06T11:27:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-27T22:16:21.000Z</video:publication_date>
     <video:uploader>WilkesEsports</video:uploader>
     <video:expiration_date>2025-10-05T22:16:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-train-2/set/94416806/</loc>
-  <lastmod>2025-09-27T22:28:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/795024/image-c4664ada4530d698d99b6a7e4868ff0c.png
-    </video:thumbnail_loc>
-    <video:title>
-      ??? | PSK | AlanDiss vs Jaretto, Smash Train #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ??? | PSK | AlanDiss vs Jaretto in Winners Round 2 of Smash Train #2, streamed by JEsportsGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577380402&amp;t=2h29m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>347</video:duration>
-    <video:publication_date>2025-09-27T22:16:12.000Z</video:publication_date>
-    <video:uploader>JEsportsGaming</video:uploader>
-    <video:expiration_date>2025-10-05T22:16:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
