@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/barro-s-beatdown-4/set/94758052/</loc>
+  <lastmod>2025-10-07T03:11:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834623/image-56f7c4050976577775cde0a8c2beeaf2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      zackrob vs KingBui555, Barro&apos;s Beatdown #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch zackrob vs KingBui555 in Winners Quarter-Final of Barro&apos;s Beatdown #4, streamed by barrosbeatdown
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585233185&amp;t=1h27m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>592</video:duration>
+    <video:publication_date>2025-10-07T03:11:19.000Z</video:publication_date>
+    <video:uploader>barrosbeatdown</video:uploader>
+    <video:expiration_date>2025-10-15T03:11:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/thunderstruck-2025/set/94732196/</loc>
   <lastmod>2025-10-06T04:31:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-15T23:50:03.000Z</video:publication_date>
     <video:uploader>SwissWriter</video:uploader>
     <video:expiration_date>2025-09-23T23:50:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/just-frame-2025/set/93914458/</loc>
-  <lastmod>2025-09-14T23:58:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/656070/image-f2ee83dbe25e6fc3ccd2449931748230.png
-    </video:thumbnail_loc>
-    <video:title>
-      AxL- vs Jazdero, JUST FRAME 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AxL- vs Jazdero in Losers Final of JUST FRAME 2025, streamed by LigaAceEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566465007&amp;t=5h29m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>672</video:duration>
-    <video:publication_date>2025-09-14T23:31:16.000Z</video:publication_date>
-    <video:uploader>LigaAceEsports</video:uploader>
-    <video:expiration_date>2025-09-22T23:31:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
