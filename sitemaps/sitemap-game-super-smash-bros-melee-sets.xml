@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763000/</loc>
-  <lastmod>2025-10-07T18:03:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763024/</loc>
+  <lastmod>2025-10-07T18:26:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835295/image-4745f2cb3268931bf3a4c0b51e617d29.png
+    </video:thumbnail_loc>
+    <video:title>
+      Walsall Gaming | Tom? vs LSB | Pjon, Fowl Play! - 1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Walsall Gaming | Tom? vs LSB | Pjon in Winners Quarter-Final of Fowl Play! - 1, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585708843&amp;t=0h16m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1277</video:duration>
+    <video:publication_date>2025-10-07T18:26:56.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2025-10-15T18:26:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763000/</loc>
+  <lastmod>2025-10-07T18:31:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2585705617&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1166</video:duration>
+    <video:duration>1356</video:duration>
     <video:publication_date>2025-10-07T18:03:04.000Z</video:publication_date>
     <video:uploader>Jaysotee</video:uploader>
     <video:expiration_date>2025-10-15T18:03:04.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-14T18:42:32.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-09-22T18:42:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-4/set/93905907/</loc>
-  <lastmod>2025-09-14T19:08:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818331/image-5a308d4e685aa97a19c8607376b4f030.png
-    </video:thumbnail_loc>
-    <video:title>
-      PicanteThought vs Muteki (無敵)(Muteki ( muteki )), Tapped In #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PicanteThought vs Muteki (無敵)(Muteki ( muteki )) in Winners Round 3 of Tapped In #4, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566368948&amp;t=2h42m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>505</video:duration>
-    <video:publication_date>2025-09-14T18:40:15.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2025-09-22T18:40:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
