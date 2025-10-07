@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763029/</loc>
+  <lastmod>2025-10-07T20:14:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835295/image-4745f2cb3268931bf3a4c0b51e617d29.png
+    </video:thumbnail_loc>
+    <video:title>
+      Matt Masterman vs Walsall Gaming | Useth, Fowl Play! - 1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Matt Masterman vs Walsall Gaming | Useth in Winners Final of Fowl Play! - 1, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585739299&amp;t=1h0m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>679</video:duration>
+    <video:publication_date>2025-10-07T19:49:18.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2025-10-15T19:49:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763090/</loc>
-  <lastmod>2025-10-07T19:23:06.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-07T19:57:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2585739299&amp;t=0h34m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1615</video:duration>
+    <video:duration>1691</video:duration>
     <video:publication_date>2025-10-07T19:23:06.000Z</video:publication_date>
     <video:uploader>Jaysotee</video:uploader>
     <video:expiration_date>2025-10-15T19:23:06.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-14T19:26:05.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-09-22T19:26:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-4/set/93905912/</loc>
-  <lastmod>2025-09-14T19:49:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818331/image-5a308d4e685aa97a19c8607376b4f030.png
-    </video:thumbnail_loc>
-    <video:title>
-      Melen vs PicanteThought, Tapped In #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Melen vs PicanteThought in Winners Quarter-Final of Tapped In #4, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566368948&amp;t=3h14m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1291</video:duration>
-    <video:publication_date>2025-09-14T19:12:22.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2025-09-22T19:12:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
