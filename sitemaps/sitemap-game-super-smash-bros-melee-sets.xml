@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-27/set/94758180/</loc>
-  <lastmod>2025-10-07T05:05:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-27/set/94758179/</loc>
+  <lastmod>2025-10-07T05:18:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836904/image-452f67a3015a1e039df69a4b60de06c7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Glasper vs VL! | Kevon, McCloud&apos;s Melee Co. #27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Glasper vs VL! | Kevon in Losers Round 5 of McCloud&apos;s Melee Co. #27, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585247154&amp;t=3h15m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>889</video:duration>
+    <video:publication_date>2025-10-07T05:18:20.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-10-15T05:18:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-27/set/94758180/</loc>
+  <lastmod>2025-10-07T05:25:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2585247154&amp;t=3h3m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>587</video:duration>
+    <video:duration>760</video:duration>
     <video:publication_date>2025-10-07T05:05:24.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2025-10-15T05:05:24.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-14T18:03:17.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-09-22T18:03:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/new-horizon-2-24/set/93886483/</loc>
-  <lastmod>2025-09-14T04:28:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828991/image-3b58b9ddacb7d89eba80a74d25e64deb.png
-    </video:thumbnail_loc>
-    <video:title>
-      John vs Uncle JJ, New Horizon 2.24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch John vs Uncle JJ in Losers Semi-Final of New Horizon 2.24, streamed by Okayp_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565930989&amp;t=2h49m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>608</video:duration>
-    <video:publication_date>2025-09-14T04:11:55.000Z</video:publication_date>
-    <video:uploader>Okayp_</video:uploader>
-    <video:expiration_date>2025-09-22T04:11:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
