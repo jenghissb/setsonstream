@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-45-second-anniversary/set/94761535/</loc>
+  <lastmod>2025-10-07T16:50:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832834/image-d77898550e358ab4659ac8242ce40638.png
+    </video:thumbnail_loc>
+    <video:title>
+      Envi vs sas, BORDERLINE SMASH #45 - SECOND ANNIVERSARY - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Envi vs sas in Round 1 of BORDERLINE SMASH #45 - SECOND ANNIVERSARY, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585643255&amp;t=0h2m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>255</video:duration>
+    <video:publication_date>2025-10-07T16:50:58.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2025-10-15T16:50:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kavana-game-night-5/set/94758008/</loc>
   <lastmod>2025-10-07T06:08:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-09-28T15:48:33.000Z</video:publication_date>
     <video:uploader>shieldbreakers</video:uploader>
     <video:expiration_date>2025-10-06T15:48:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smashmania-2025/set/94453768/</loc>
-  <lastmod>2025-09-28T15:55:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/787681/image-4f76827495603da778762472768be59d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Solary | Glutonny vs BMS | crêpe salée, SmashMania 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Solary | Glutonny vs BMS | crêpe salée in Losers Quarter-Final of SmashMania 2025, streamed by TeamAskalonn
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577853291&amp;t=6h37m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1353</video:duration>
-    <video:publication_date>2025-09-28T15:29:47.000Z</video:publication_date>
-    <video:uploader>TeamAskalonn</video:uploader>
-    <video:expiration_date>2025-10-06T15:29:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
