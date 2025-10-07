@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763027/</loc>
-  <lastmod>2025-10-07T18:50:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763028/</loc>
+  <lastmod>2025-10-07T19:02:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835295/image-4745f2cb3268931bf3a4c0b51e617d29.png
+    </video:thumbnail_loc>
+    <video:title>
+      febdeb vs Walsall Gaming | Useth, Fowl Play! - 1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch febdeb vs Walsall Gaming | Useth in Winners Semi-Final of Fowl Play! - 1, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585739299&amp;t=0h13m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1344</video:duration>
+    <video:publication_date>2025-10-07T19:02:50.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2025-10-15T19:02:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-1-1/set/94763027/</loc>
+  <lastmod>2025-10-07T19:19:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2585739299&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1337</video:duration>
+    <video:duration>753</video:duration>
     <video:publication_date>2025-10-07T18:50:09.000Z</video:publication_date>
     <video:uploader>Jaysotee</video:uploader>
     <video:expiration_date>2025-10-15T18:50:09.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-14T19:05:28.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-09-22T19:05:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-4/set/93905910/</loc>
-  <lastmod>2025-09-14T19:28:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818331/image-5a308d4e685aa97a19c8607376b4f030.png
-    </video:thumbnail_loc>
-    <video:title>
-      RLE | mvlvchi vs EddieTheKid, Tapped In #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RLE | mvlvchi vs EddieTheKid in Winners Quarter-Final of Tapped In #4, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566368948&amp;t=3h6m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>685</video:duration>
-    <video:publication_date>2025-09-14T19:04:18.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2025-09-22T19:04:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
