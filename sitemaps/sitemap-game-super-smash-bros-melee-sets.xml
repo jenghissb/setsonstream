@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-27/set/94758183/</loc>
+  <lastmod>2025-10-07T06:08:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836904/image-452f67a3015a1e039df69a4b60de06c7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Glasper vs System of a Downsmash, McCloud&apos;s Melee Co. #27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Glasper vs System of a Downsmash in Losers Semi-Final of McCloud&apos;s Melee Co. #27, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585247154&amp;t=4h5m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>869</video:duration>
+    <video:publication_date>2025-10-07T06:08:20.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-10-15T06:08:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-27/set/94758179/</loc>
   <lastmod>2025-10-07T05:42:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-14T18:15:31.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-09-22T18:15:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-4/set/93905859/</loc>
-  <lastmod>2025-09-14T18:28:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818331/image-5a308d4e685aa97a19c8607376b4f030.png
-    </video:thumbnail_loc>
-    <video:title>
-      nor vs mr.slothrop, Tapped In #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch nor vs mr.slothrop in Winners Round 1 of Tapped In #4, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566368948&amp;t=2h5m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>426</video:duration>
-    <video:publication_date>2025-09-14T18:03:17.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2025-09-22T18:03:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
