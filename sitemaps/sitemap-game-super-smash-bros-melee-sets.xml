@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/triple-threat-tuesdays-100-the-peak-1/set/94776783/</loc>
+  <lastmod>2025-10-08T02:02:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837042/image-259c119d8002c65d93d2d345cd9e488e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Mot$ vs L7 | Freezus, Triple Threat Tuesdays #100 @ The Peak - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mot$ vs L7 | Freezus in Grand Final of Triple Threat Tuesdays #100 @ The Peak, streamed by thepeakmos
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=thepeakmos&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2100</video:duration>
+    <video:publication_date>2025-10-08T02:02:19.000Z</video:publication_date>
+    <video:uploader>thepeakmos</video:uploader>
+    <video:expiration_date>2025-10-16T02:02:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/new-game-plus-revival-8-25/set/94774090/</loc>
+  <lastmod>2025-10-08T02:04:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836160/image-73b8e83a674cd4904c23a050624cef8f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Hysteric vs saucymain, New Game Plus Revival 8.25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Hysteric vs saucymain in Losers Semi-Final of New Game Plus Revival 8.25, streamed by meleeboston
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585899610&amp;t=3h0m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>764</video:duration>
+    <video:publication_date>2025-10-08T01:28:40.000Z</video:publication_date>
+    <video:uploader>meleeboston</video:uploader>
+    <video:expiration_date>2025-10-16T01:28:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/new-game-plus-revival-8-25/set/94774023/</loc>
   <lastmod>2025-10-08T00:54:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14422,6 @@
     <video:publication_date>2025-09-14T19:53:01.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-09-22T19:53:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-local-6x01-back-to-school/set/93909895/</loc>
-  <lastmod>2025-09-14T20:09:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825547/image-c81f33c26c2b4a409ca3edda2e0d47f0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tranimal vs Zeeker, The Local 6x01: Back To School! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tranimal vs Zeeker in Winners Quarter-Final of The Local 6x01: Back To School!, streamed by toronto_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2566542680&amp;t=0h7m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>875</video:duration>
-    <video:publication_date>2025-09-14T19:47:04.000Z</video:publication_date>
-    <video:uploader>toronto_melee</video:uploader>
-    <video:expiration_date>2025-09-22T19:47:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
