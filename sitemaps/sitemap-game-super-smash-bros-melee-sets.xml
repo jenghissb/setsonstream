@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-114/set/94784485/</loc>
+  <lastmod>2025-10-08T06:16:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835780/image-303f0f9188acc4050e2086539069ba31.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aerius vs TJGE | Megaman, Melee @ Abbey Tavern #114 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aerius vs TJGE | Megaman in Grand Final of Melee @ Abbey Tavern #114, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2586030477&amp;t=4h42m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>998</video:duration>
+    <video:publication_date>2025-10-08T05:51:53.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-10-16T05:51:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-114/set/94784500/</loc>
-  <lastmod>2025-10-08T05:34:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-08T06:02:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2586030477&amp;t=4h24m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>932</video:duration>
+    <video:duration>1003</video:duration>
     <video:publication_date>2025-10-08T05:34:26.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-16T05:34:26.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-15T19:29:57.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-09-23T19:29:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-77/set/93932566/</loc>
-  <lastmod>2025-09-15T19:31:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828182/image-a5604ac8f22d8a61bd6a40e71248764d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sabreur vs PSG | NMUP | Busard, KnockOut Zone #77 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sabreur vs PSG | NMUP | Busard in Losers Semi-Final of KnockOut Zone #77, streamed by orbitalgoats
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2567191851&amp;t=2h9m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1111</video:duration>
-    <video:publication_date>2025-09-15T19:11:12.000Z</video:publication_date>
-    <video:uploader>orbitalgoats</video:uploader>
-    <video:expiration_date>2025-09-23T19:11:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
