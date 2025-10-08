@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-111/set/94795880/</loc>
+  <lastmod>2025-10-08T23:08:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837700/image-1f61ee0b13f6135166656c31bdf82230.png
+    </video:thumbnail_loc>
+    <video:title>
+      Xabith vs Rayn, Raptor Boost 111 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Xabith vs Rayn in Winners Quarter-Final of Raptor Boost 111, streamed by GameGroveWV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2586772147&amp;t=0h1m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1147</video:duration>
+    <video:publication_date>2025-10-08T23:08:59.000Z</video:publication_date>
+    <video:uploader>GameGroveWV</video:uploader>
+    <video:expiration_date>2025-10-16T23:08:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-114/set/94784485/</loc>
   <lastmod>2025-10-08T06:16:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-15T20:01:51.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-09-23T20:01:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-77/set/93932567/</loc>
-  <lastmod>2025-09-15T20:04:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828182/image-a5604ac8f22d8a61bd6a40e71248764d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Graham vs Sabreur, KnockOut Zone #77 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Graham vs Sabreur in Losers Final of KnockOut Zone #77, streamed by orbitalgoats
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2567191851&amp;t=2h28m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1100</video:duration>
-    <video:publication_date>2025-09-15T19:29:57.000Z</video:publication_date>
-    <video:uploader>orbitalgoats</video:uploader>
-    <video:expiration_date>2025-09-23T19:29:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
