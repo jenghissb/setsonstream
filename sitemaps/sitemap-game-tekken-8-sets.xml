@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tuesday-s-at-d-b-20/set/94778347/</loc>
+  <lastmod>2025-10-08T00:36:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836687/image-efefc4756b81481e360aea3f46fdfdb2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Saiche vs Lilmac | LittleMac, Tuesday&apos;s at D&amp;B #20 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Saiche vs Lilmac | LittleMac in Winners Round 2 of Tuesday&apos;s at D&amp;B #20, streamed by FrankieG7Chi
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2585989552&amp;t=0h16m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1822</video:duration>
+    <video:publication_date>2025-10-08T00:36:52.000Z</video:publication_date>
+    <video:uploader>FrankieG7Chi</video:uploader>
+    <video:expiration_date>2025-10-16T00:36:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/block-string-wonderfly-78/set/94753448/</loc>
   <lastmod>2025-10-07T02:39:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-18T19:25:18.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2025-09-26T19:25:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-19/set/94014438/</loc>
-  <lastmod>2025-09-18T19:32:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823494/image-5e5140c7c52972c22356777e8b136f93.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jimalmightyy vs Real Lee, Black Country Foundry #19 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jimalmightyy vs Real Lee in Winners Quarter-Final of Black Country Foundry #19, streamed by bc_foundry
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569647763&amp;t=1h16m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>709</video:duration>
-    <video:publication_date>2025-09-18T19:11:37.000Z</video:publication_date>
-    <video:uploader>bc_foundry</video:uploader>
-    <video:expiration_date>2025-09-26T19:11:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
