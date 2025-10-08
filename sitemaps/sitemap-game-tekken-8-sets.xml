@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-74-norcal-2xko-tekken-8-weekly/set/94782829/</loc>
-  <lastmod>2025-10-08T03:38:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-74-norcal-2xko-tekken-8-weekly/set/94782831/</loc>
+  <lastmod>2025-10-08T03:57:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837738/image-5f0ef0e8efaae021a39bcedd74394799.png
+    </video:thumbnail_loc>
+    <video:title>
+      Frag | NanditoTheBandito vs MADHouse | Tundra, Guildhouse Tuesday 74 - Norcal 2XKO &amp; Tekken 8 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Frag | NanditoTheBandito vs MADHouse | Tundra in Winners Final of Guildhouse Tuesday 74 - Norcal 2XKO &amp; Tekken 8 weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2586117353&amp;t=0h45m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1241</video:duration>
+    <video:publication_date>2025-10-08T03:57:45.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-16T03:57:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-74-norcal-2xko-tekken-8-weekly/set/94782829/</loc>
+  <lastmod>2025-10-08T04:03:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2586117353&amp;t=0h26m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>435</video:duration>
+    <video:duration>590</video:duration>
     <video:publication_date>2025-10-08T03:38:53.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-16T03:38:53.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-19T06:01:21.000Z</video:publication_date>
     <video:uploader>fh4life1</video:uploader>
     <video:expiration_date>2025-09-27T06:01:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/techtrap-thursday-tekken-8-tournament-11-7/set/94036709/</loc>
-  <lastmod>2025-09-19T05:52:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825166/image-1fbb919515dda3b6ef1feeece863211d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FT | Blissfulmacc vs FT | Shmunky, Techtrap Thursday Tekken 8 Tournament 11.7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FT | Blissfulmacc vs FT | Shmunky in Losers Round 6 of Techtrap Thursday Tekken 8 Tournament 11.7, streamed by fh4life1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570056100&amp;t=2h25m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>450</video:duration>
-    <video:publication_date>2025-09-19T05:38:25.000Z</video:publication_date>
-    <video:uploader>fh4life1</video:uploader>
-    <video:expiration_date>2025-09-27T05:38:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
