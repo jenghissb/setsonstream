@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-196-norcal-ssbu-ggst-gbvsr/set/94811168/</loc>
-  <lastmod>2025-10-09T05:24:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-196-norcal-ssbu-ggst-gbvsr/set/94811137/</loc>
+  <lastmod>2025-10-09T05:35:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837744/image-e5f63ed0c2d972ac01c07cadec09723b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TILIN POLLO | Iago Garaitz vs Nyantic, Guildhouse Weekly 196 - Norcal SSBU, GGST, GBVSR! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TILIN POLLO | Iago Garaitz vs Nyantic in Grand Final of Guildhouse Weekly 196 - Norcal SSBU, GGST, GBVSR!, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2586940695&amp;t=2h49m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>840</video:duration>
+    <video:publication_date>2025-10-09T05:35:22.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-17T05:35:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-196-norcal-ssbu-ggst-gbvsr/set/94811168/</loc>
+  <lastmod>2025-10-09T05:47:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2586940695&amp;t=2h38m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>601</video:duration>
+    <video:duration>663</video:duration>
     <video:publication_date>2025-10-09T05:24:06.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-17T05:24:06.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-10T01:39:07.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-08-18T01:39:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-24/set/92519498/</loc>
-  <lastmod>2025-08-10T01:37:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/808549/image-574113bb64791760e7a38702b1096c38.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TunnelVision vs Pinky, SoCal Colosseum Clash #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TunnelVision vs Pinky in Winners Round 2 of SoCal Colosseum Clash #24, streamed by kondo3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2535962517&amp;t=0h15m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>290</video:duration>
-    <video:publication_date>2025-08-10T01:24:04.000Z</video:publication_date>
-    <video:uploader>kondo3</video:uploader>
-    <video:expiration_date>2025-08-18T01:24:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
