@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-133-in-maesuma-hit-133-in-umeda/set/94813958/</loc>
+  <lastmod>2025-10-09T10:07:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837015/image-804d4379ac442fa3a0d55e751d28a107.png
+    </video:thumbnail_loc>
+    <video:title>
+      ノム(nomu) vs SP | S2M | Ryse, マエスマ&apos;HIT#133 in 梅田 / Maesuma&apos;HIT#133 in Umeda - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ノム(nomu) vs SP | S2M | Ryse in Winners Round 1 of マエスマ&apos;HIT#133 in 梅田 / Maesuma&apos;HIT#133 in Umeda, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/8NSpwgKpcWY?start=220s
+    </video:player_loc>
+    <video:duration>586</video:duration>
+    <video:publication_date>2025-10-09T10:07:14.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-10-17T10:07:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-196-norcal-ssbu-ggst-gbvsr/set/94810689/</loc>
   <lastmod>2025-10-09T06:25:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-01T01:19:12.000Z</video:publication_date>
     <video:uploader>WaypointCafeNYC</video:uploader>
     <video:expiration_date>2025-10-09T01:19:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/undiscovered-smash-369/set/94525922/</loc>
-  <lastmod>2025-10-01T01:28:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834831/image-3d0f228982e17126e0e9bb78ac173c6f.png
-    </video:thumbnail_loc>
-    <video:title>
-      NiP vs MOB | Infernape, Undiscovered Smash 369 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NiP vs MOB | Infernape in Winners Round 3 of Undiscovered Smash 369, streamed by smashchester
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580009233&amp;t=1h38m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>717</video:duration>
-    <video:publication_date>2025-10-01T01:13:52.000Z</video:publication_date>
-    <video:uploader>smashchester</video:uploader>
-    <video:expiration_date>2025-10-09T01:13:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
