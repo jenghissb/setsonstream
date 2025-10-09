@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-196-norcal-ssbu-ggst-gbvsr/set/94811168/</loc>
+  <lastmod>2025-10-09T05:24:06.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837744/image-e5f63ed0c2d972ac01c07cadec09723b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TILIN | yolksoup vs Nyantic, Guildhouse Weekly 196 - Norcal SSBU, GGST, GBVSR! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TILIN | yolksoup vs Nyantic in Losers Final of Guildhouse Weekly 196 - Norcal SSBU, GGST, GBVSR!, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2586940695&amp;t=2h38m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>601</video:duration>
+    <video:publication_date>2025-10-09T05:24:06.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-17T05:24:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-196-norcal-ssbu-ggst-gbvsr/set/94811167/</loc>
   <lastmod>2025-10-09T05:13:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-10T01:24:04.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-08-18T01:24:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-24/set/92519480/</loc>
-  <lastmod>2025-08-10T01:29:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/808549/image-574113bb64791760e7a38702b1096c38.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Shii vs PL | Taron, SoCal Colosseum Clash #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shii vs PL | Taron in Winners Round 1 of SoCal Colosseum Clash #24, streamed by kondo3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2535962517&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1007</video:duration>
-    <video:publication_date>2025-08-10T01:05:01.000Z</video:publication_date>
-    <video:uploader>kondo3</video:uploader>
-    <video:expiration_date>2025-08-18T01:05:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
