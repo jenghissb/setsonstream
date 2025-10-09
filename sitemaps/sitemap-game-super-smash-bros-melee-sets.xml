@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-353/set/94825183/</loc>
+  <lastmod>2025-10-09T22:59:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838439/image-ea3dd07cab81f18051e690ba09b3cf51.png
+    </video:thumbnail_loc>
+    <video:title>
+      LilFrogurt vs Koil, Salt Water Smash 353 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LilFrogurt vs Koil in Round 7 of Salt Water Smash 353, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587570221&amp;t=0h51m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>858</video:duration>
+    <video:publication_date>2025-10-09T22:59:41.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2025-10-17T22:59:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-353/set/94825170/</loc>
   <lastmod>2025-10-09T22:43:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-17T01:53:52.000Z</video:publication_date>
     <video:uploader>SpiralMedia</video:uploader>
     <video:expiration_date>2025-09-25T01:53:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-the-scene-133-novel-tea-in-oviedo/set/93970434/</loc>
-  <lastmod>2025-09-17T02:04:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829554/image-181423a85d139d0323560299c62e0e5a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Komodo vs RC 20GX | Gahtzu, Smash the Scene #133 @ Novel Tea in Oviedo - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Komodo vs RC 20GX | Gahtzu in Winners Semi-Final of Smash the Scene #133 @ Novel Tea in Oviedo, streamed by SpiralMedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568269346&amp;t=2h1m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1004</video:duration>
-    <video:publication_date>2025-09-17T01:37:00.000Z</video:publication_date>
-    <video:uploader>SpiralMedia</video:uploader>
-    <video:expiration_date>2025-09-25T01:37:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
