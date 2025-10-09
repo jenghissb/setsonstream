@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ascend-the-spire-61/set/94824030/</loc>
-  <lastmod>2025-10-09T21:32:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/boiling-point-42/set/94825014/</loc>
+  <lastmod>2025-10-09T22:00:23.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838184/image-c79c636b97f539eed4dff9f0070213d1.png
+    </video:thumbnail_loc>
+    <video:title>
+      DEW | Emperdew vs PU | Kruel, Boiling Point 42 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DEW | Emperdew vs PU | Kruel in Winners Round 1 of Boiling Point 42, streamed by jeffdaboss42
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587562673&amp;t=0h2m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>820</video:duration>
+    <video:publication_date>2025-10-09T22:00:23.000Z</video:publication_date>
+    <video:uploader>jeffdaboss42</video:uploader>
+    <video:expiration_date>2025-10-17T22:00:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bar-fight-at-howard-station-157/set/94824633/</loc>
+  <lastmod>2025-10-09T22:02:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837356/image-91db83ba90c4e0015dc3ba57beabc7b5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nanoir vs Samtheman, Bar Fight! at Howard Station #157 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nanoir vs Samtheman in Winners Semi-Final of Bar Fight! at Howard Station #157, streamed by Boone_Smashes
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587536976&amp;t=0h43m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>673</video:duration>
+    <video:publication_date>2025-10-09T22:02:50.000Z</video:publication_date>
+    <video:uploader>Boone_Smashes</video:uploader>
+    <video:expiration_date>2025-10-17T22:02:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ascend-the-spire-61/set/94824031/</loc>
+  <lastmod>2025-10-09T21:53:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +58,18 @@
       https://images.start.gg/images/tournament/838647/image-b06006f288af0d39fe1fc161019f7a98.png
     </video:thumbnail_loc>
     <video:title>
-      D. Cider vs USM | Dracodith, Ascend the Spire #61 - Sets on Stream
+      USM | Shield Void vs D. Cider, Ascend the Spire #61 - Sets on Stream
     </video:title>
     <video:description>
-      Watch D. Cider vs USM | Dracodith in Winners Semi-Final of Ascend the Spire #61, streamed by usmspiresesports
+      Watch USM | Shield Void vs D. Cider in Winners Final of Ascend the Spire #61, streamed by usmspiresesports
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2587522117&amp;t=0h32m9s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2587522117&amp;t=0h53m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1076</video:duration>
-    <video:publication_date>2025-10-09T21:32:07.000Z</video:publication_date>
+    <video:duration>1234</video:duration>
+    <video:publication_date>2025-10-09T21:53:29.000Z</video:publication_date>
     <video:uploader>usmspiresesports</video:uploader>
-    <video:expiration_date>2025-10-17T21:32:07.000Z</video:expiration_date>
+    <video:expiration_date>2025-10-17T21:53:29.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -46,6 +94,30 @@
     <video:publication_date>2025-10-09T21:33:42.000Z</video:publication_date>
     <video:uploader>Boone_Smashes</video:uploader>
     <video:expiration_date>2025-10-17T21:33:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ascend-the-spire-61/set/94824030/</loc>
+  <lastmod>2025-10-09T21:55:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838647/image-b06006f288af0d39fe1fc161019f7a98.png
+    </video:thumbnail_loc>
+    <video:title>
+      D. Cider vs USM | Dracodith, Ascend the Spire #61 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch D. Cider vs USM | Dracodith in Winners Semi-Final of Ascend the Spire #61, streamed by usmspiresesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587522117&amp;t=0h32m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1275</video:duration>
+    <video:publication_date>2025-10-09T21:32:07.000Z</video:publication_date>
+    <video:uploader>usmspiresesports</video:uploader>
+    <video:expiration_date>2025-10-17T21:32:07.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71926,78 +71998,6 @@
     <video:publication_date>2025-10-01T15:59:53.000Z</video:publication_date>
     <video:uploader>xupapapaa</video:uploader>
     <video:expiration_date>2025-10-09T15:59:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-especial-pre-mystery-gift/set/94535494/</loc>
-  <lastmod>2025-10-01T16:01:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833963/image-72ac453fd9ea0bb7da335173327d937e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Extra | TurtleKing vs U-Smash | Cazuxs, Torneo especial: Pre Mystery Gift - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Extra | TurtleKing vs U-Smash | Cazuxs in Winners Round 1 of Torneo especial: Pre Mystery Gift, streamed by xupapapaa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580479489&amp;t=0h23m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>971</video:duration>
-    <video:publication_date>2025-10-01T15:43:29.000Z</video:publication_date>
-    <video:uploader>xupapapaa</video:uploader>
-    <video:expiration_date>2025-10-09T15:43:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-especial-pre-mystery-gift/set/94535501/</loc>
-  <lastmod>2025-10-01T15:46:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833963/image-72ac453fd9ea0bb7da335173327d937e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      U-Smash | Spac vs IceKingPenguin, Torneo especial: Pre Mystery Gift - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch U-Smash | Spac vs IceKingPenguin in Winners Round 1 of Torneo especial: Pre Mystery Gift, streamed by xupapapaa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580479489&amp;t=0h19m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>259</video:duration>
-    <video:publication_date>2025-10-01T15:38:57.000Z</video:publication_date>
-    <video:uploader>xupapapaa</video:uploader>
-    <video:expiration_date>2025-10-09T15:38:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-especial-pre-mystery-gift/set/94535490/</loc>
-  <lastmod>2025-10-01T15:34:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833963/image-72ac453fd9ea0bb7da335173327d937e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GH | SyC~Venharcore vs U-Smash | Pozo, Torneo especial: Pre Mystery Gift - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GH | SyC~Venharcore vs U-Smash | Pozo in Winners Round 1 of Torneo especial: Pre Mystery Gift, streamed by xupapapaa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580479489&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>913</video:duration>
-    <video:publication_date>2025-10-01T15:16:29.000Z</video:publication_date>
-    <video:uploader>xupapapaa</video:uploader>
-    <video:expiration_date>2025-10-09T15:16:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
