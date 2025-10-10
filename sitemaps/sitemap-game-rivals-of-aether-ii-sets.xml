@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876461/</loc>
-  <lastmod>2025-10-10T22:01:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876465/</loc>
+  <lastmod>2025-10-10T22:18:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838033/image-81c411885a49baa94bafab7ba2806c1c.png
+    </video:thumbnail_loc>
+    <video:title>
+      !DUNK | DunkDaddy vs SoupcanSam, That Ain&apos;t Charlie #196 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch !DUNK | DunkDaddy vs SoupcanSam in Winners Quarter-Final of That Ain&apos;t Charlie #196, streamed by dunkdojogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588449400&amp;t=0h21m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1875</video:duration>
+    <video:publication_date>2025-10-10T22:18:38.000Z</video:publication_date>
+    <video:uploader>dunkdojogaming</video:uploader>
+    <video:expiration_date>2025-10-18T22:18:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876461/</loc>
+  <lastmod>2025-10-10T22:33:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588449400&amp;t=0h4m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1776</video:duration>
+    <video:duration>949</video:duration>
     <video:publication_date>2025-10-10T22:01:50.000Z</video:publication_date>
     <video:uploader>dunkdojogaming</video:uploader>
     <video:expiration_date>2025-10-18T22:01:50.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T22:08:31.000Z</video:publication_date>
     <video:uploader>IsthmianGaming</video:uploader>
     <video:expiration_date>2025-09-28T22:08:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/honeypot-7-fireside-tales/set/94135240/</loc>
-  <lastmod>2025-09-20T22:42:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/737853/image-409f9d9157e026c070f4299668e808fe.png
-    </video:thumbnail_loc>
-    <video:title>
-      MwM | KilogramHours vs Slowking, Honeypot 7: Fireside Tales - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MwM | KilogramHours vs Slowking in Winners Quarter-Final of Honeypot 7: Fireside Tales, streamed by spotlightkc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571522903&amp;t=1h22m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>662</video:duration>
-    <video:publication_date>2025-09-20T22:07:04.000Z</video:publication_date>
-    <video:uploader>spotlightkc</video:uploader>
-    <video:expiration_date>2025-09-28T22:07:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
