@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-187-norcal-sf6-and-melee/set/94844810/</loc>
-  <lastmod>2025-10-10T04:10:41.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-187-norcal-sf6-and-melee/set/94844748/</loc>
+  <lastmod>2025-10-10T04:26:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837751/image-745ad5297d97af6719bf7b03fa8f2c40.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | chumpslayer vs FitS | TreeWiz, Guildhouse Fighters 187 - Norcal SF6 and Melee - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | chumpslayer vs FitS | TreeWiz in Grand Final of Guildhouse Fighters 187 - Norcal SF6 and Melee, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587773078&amp;t=1h47m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>898</video:duration>
+    <video:publication_date>2025-10-10T04:26:50.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2025-10-18T04:26:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-187-norcal-sf6-and-melee/set/94844810/</loc>
+  <lastmod>2025-10-10T04:32:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2587773078&amp;t=1h30m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>458</video:duration>
+    <video:duration>487</video:duration>
     <video:publication_date>2025-10-10T04:10:41.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-10-18T04:10:41.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-19T03:49:30.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-09-27T03:49:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-184-street-fighter-6-and-melee-ladder/set/94035807/</loc>
-  <lastmod>2025-09-19T03:50:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829817/image-a194a57382fd1dcfeb43e12f7c8c615a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      aki guy vs FitS | Snack, Guildhouse Fighters 184 - Street Fighter 6 and Melee Ladder - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch aki guy vs FitS | Snack in Winners Round 2 of Guildhouse Fighters 184 - Street Fighter 6 and Melee Ladder, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570041978&amp;t=0h36m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>410</video:duration>
-    <video:publication_date>2025-09-19T03:27:03.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2025-09-27T03:27:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
