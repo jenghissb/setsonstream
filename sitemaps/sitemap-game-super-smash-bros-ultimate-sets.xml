@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-10-10-2025/set/94861689/</loc>
-  <lastmod>2025-10-10T14:46:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-10-10-2025/set/94861695/</loc>
+  <lastmod>2025-10-10T15:07:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      RKS | houndhoundhoundhoundhoun vs M&amp;Ms/KYC | chinito, CitiSmash 10/10/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RKS | houndhoundhoundhoundhoun vs M&amp;Ms/KYC | chinito in Winners Round 1 of CitiSmash 10/10/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588086846&amp;t=0h20m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>484</video:duration>
+    <video:publication_date>2025-10-10T15:07:07.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-10-18T15:07:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-10-10-2025/set/94861689/</loc>
+  <lastmod>2025-10-10T15:07:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588086846&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>264</video:duration>
+    <video:duration>1117</video:duration>
     <video:publication_date>2025-10-10T14:46:31.000Z</video:publication_date>
     <video:uploader>citismash</video:uploader>
     <video:expiration_date>2025-10-18T14:46:31.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-02T04:15:39.000Z</video:publication_date>
     <video:uploader>nopausetournaments</video:uploader>
     <video:expiration_date>2025-10-10T04:15:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fight-club-la-perla-8/set/94559370/</loc>
-  <lastmod>2025-10-02T04:27:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835108/image-cb15eb8d47cd97b210c16995fe14f91a.png
-    </video:thumbnail_loc>
-    <video:title>
-      ??? | PSK | AlanDiss vs JEsports | el samurai, Fight Club @ La Perla #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ??? | PSK | AlanDiss vs JEsports | el samurai in Winners Quarter-Final of Fight Club @ La Perla #8, streamed by JEsportsGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580981817&amp;t=1h20m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>892</video:duration>
-    <video:publication_date>2025-10-02T04:12:09.000Z</video:publication_date>
-    <video:uploader>JEsportsGaming</video:uploader>
-    <video:expiration_date>2025-10-10T04:12:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
