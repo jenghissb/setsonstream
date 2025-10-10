@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-43/set/94842284/</loc>
-  <lastmod>2025-10-10T03:22:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-43/set/94842285/</loc>
+  <lastmod>2025-10-10T04:05:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838599/image-8937f859c4d7a22b4eeb84c5ed688432.png
+    </video:thumbnail_loc>
+    <video:title>
+      IamFrogg vs AZ | Mozzarella, Wasteland Warriors #43 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IamFrogg vs AZ | Mozzarella in Losers Semi-Final of Wasteland Warriors #43, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587724448&amp;t=2h35m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>786</video:duration>
+    <video:publication_date>2025-10-10T04:05:13.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2025-10-18T04:05:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-43/set/94842284/</loc>
+  <lastmod>2025-10-10T03:47:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2587724448&amp;t=1h52m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1448</video:duration>
+    <video:duration>812</video:duration>
     <video:publication_date>2025-10-10T03:22:56.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-10-18T03:22:56.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T22:00:33.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-09-28T22:00:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/treta-championship-2025/set/94107441/</loc>
-  <lastmod>2025-09-20T22:42:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/792568/image-6b5ab9696108acbb2d7e11ddc5a61dda.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sinner vs ManyTheGuy, Treta Championship 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sinner vs ManyTheGuy in Losers Final of Treta Championship 2025, streamed by tryhardsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571467938&amp;t=2h21m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1192</video:duration>
-    <video:publication_date>2025-09-20T21:55:09.000Z</video:publication_date>
-    <video:uploader>tryhardsmash</video:uploader>
-    <video:expiration_date>2025-09-28T21:55:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
