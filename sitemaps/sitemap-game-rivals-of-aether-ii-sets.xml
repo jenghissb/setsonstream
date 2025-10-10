@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876461/</loc>
+  <lastmod>2025-10-10T22:01:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838033/image-81c411885a49baa94bafab7ba2806c1c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Battlesoul vs BanBan | TheHonoredOne, That Ain&apos;t Charlie #196 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Battlesoul vs BanBan | TheHonoredOne in Winners Round 1 of That Ain&apos;t Charlie #196, streamed by dunkdojogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588449400&amp;t=0h4m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>730</video:duration>
+    <video:publication_date>2025-10-10T22:01:50.000Z</video:publication_date>
+    <video:uploader>dunkdojogaming</video:uploader>
+    <video:expiration_date>2025-10-18T22:01:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-43/set/94842285/</loc>
   <lastmod>2025-10-10T04:24:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T22:07:04.000Z</video:publication_date>
     <video:uploader>spotlightkc</video:uploader>
     <video:expiration_date>2025-09-28T22:07:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breach-the-abyss-4/set/94135963/</loc>
-  <lastmod>2025-09-20T22:42:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828006/image-94cee007bea83a9cec81a45da0747f77.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dox vs F4keNotR3al, Breach The Abyss #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dox vs F4keNotR3al in Winners Quarter-Final of Breach The Abyss #4, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571531813&amp;t=1h4m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1160</video:duration>
-    <video:publication_date>2025-09-20T22:00:33.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-09-28T22:00:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
