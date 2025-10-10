@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876492/</loc>
-  <lastmod>2025-10-10T22:47:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876468/</loc>
+  <lastmod>2025-10-10T23:00:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838033/image-81c411885a49baa94bafab7ba2806c1c.png
+    </video:thumbnail_loc>
+    <video:title>
+      !DUNK | DunkDaddy vs Battlesoul, That Ain&apos;t Charlie #196 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch !DUNK | DunkDaddy vs Battlesoul in Winners Semi-Final of That Ain&apos;t Charlie #196, streamed by dunkdojogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588449400&amp;t=1h2m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1626</video:duration>
+    <video:publication_date>2025-10-10T23:00:04.000Z</video:publication_date>
+    <video:uploader>dunkdojogaming</video:uploader>
+    <video:expiration_date>2025-10-18T23:00:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876492/</loc>
+  <lastmod>2025-10-10T23:17:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588449400&amp;t=0h49m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1578</video:duration>
+    <video:duration>731</video:duration>
     <video:publication_date>2025-10-10T22:47:25.000Z</video:publication_date>
     <video:uploader>dunkdojogaming</video:uploader>
     <video:expiration_date>2025-10-18T22:47:25.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/put-up-your-dukes-87-rival-2-players-blackmailed-me/set/94878237/</loc>
-  <lastmod>2025-10-10T22:45:32.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-10T23:17:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588477953&amp;t=0h10m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1691</video:duration>
+    <video:duration>1512</video:duration>
     <video:publication_date>2025-10-10T22:45:32.000Z</video:publication_date>
     <video:uploader>JMUFGC</video:uploader>
     <video:expiration_date>2025-10-18T22:45:32.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T22:38:29.000Z</video:publication_date>
     <video:uploader>spotlightkc</video:uploader>
     <video:expiration_date>2025-09-28T22:38:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/king-of-the-ville-2025-1/set/94132000/</loc>
-  <lastmod>2025-09-20T23:09:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/783515/image-87746682dd55e87f40c70a0131361e4a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Lucius vs Archangel, King of the Ville 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lucius vs Archangel in Losers Quarter-Final of King of the Ville 2025, streamed by kmltournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571598649&amp;t=0h6m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>779</video:duration>
-    <video:publication_date>2025-09-20T22:37:40.000Z</video:publication_date>
-    <video:uploader>kmltournaments</video:uploader>
-    <video:expiration_date>2025-09-28T22:37:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
