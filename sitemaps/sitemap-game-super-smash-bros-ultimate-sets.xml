@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/believe-it-2/set/94844509/</loc>
-  <lastmod>2025-10-10T05:03:54.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/believe-it-2/set/94844447/</loc>
+  <lastmod>2025-10-10T05:38:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837603/image-084c8fdaba6e76d41994d64113baf1a2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aura | Double D vs Rena, Believe it #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aura | Double D vs Rena in Grand Final of Believe it #2, streamed by Jmar2704
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587840403&amp;t=0h56m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>701</video:duration>
+    <video:publication_date>2025-10-10T05:38:12.000Z</video:publication_date>
+    <video:uploader>Jmar2704</video:uploader>
+    <video:expiration_date>2025-10-18T05:38:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/believe-it-2/set/94844509/</loc>
+  <lastmod>2025-10-10T05:41:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2587840403&amp;t=0h21m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1821</video:duration>
+    <video:duration>2019</video:duration>
     <video:publication_date>2025-10-10T05:03:54.000Z</video:publication_date>
     <video:uploader>Jmar2704</video:uploader>
     <video:expiration_date>2025-10-18T05:03:54.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-02T02:50:54.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-10-10T02:50:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fight-club-la-perla-8/set/94559355/</loc>
-  <lastmod>2025-10-02T03:13:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835108/image-cb15eb8d47cd97b210c16995fe14f91a.png
-    </video:thumbnail_loc>
-    <video:title>
-      TRUST/PH | Br1 vs Phz | Animus, Fight Club @ La Perla #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TRUST/PH | Br1 vs Phz | Animus in Winners Round 2 of Fight Club @ La Perla #8, streamed by JEsportsGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580981817&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1260</video:duration>
-    <video:publication_date>2025-10-02T02:48:54.000Z</video:publication_date>
-    <video:uploader>JEsportsGaming</video:uploader>
-    <video:expiration_date>2025-10-10T02:48:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
