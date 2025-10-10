@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-43/set/94842284/</loc>
+  <lastmod>2025-10-10T03:22:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838599/image-8937f859c4d7a22b4eeb84c5ed688432.png
+    </video:thumbnail_loc>
+    <video:title>
+      AZ | Mozzarella vs Dox, Wasteland Warriors #43 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AZ | Mozzarella vs Dox in Losers Quarter-Final of Wasteland Warriors #43, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587724448&amp;t=1h52m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1448</video:duration>
+    <video:publication_date>2025-10-10T03:22:56.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2025-10-18T03:22:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-43/set/94842251/</loc>
   <lastmod>2025-10-10T03:02:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T21:55:09.000Z</video:publication_date>
     <video:uploader>tryhardsmash</video:uploader>
     <video:expiration_date>2025-09-28T21:55:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breach-the-abyss-4/set/94135965/</loc>
-  <lastmod>2025-09-20T22:15:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828006/image-94cee007bea83a9cec81a45da0747f77.png
-    </video:thumbnail_loc>
-    <video:title>
-      GRL | Plastic Dinos vs IamFrogg, Breach The Abyss #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GRL | Plastic Dinos vs IamFrogg in Winners Quarter-Final of Breach The Abyss #4, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571531813&amp;t=0h50m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>802</video:duration>
-    <video:publication_date>2025-09-20T21:46:39.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-09-28T21:46:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

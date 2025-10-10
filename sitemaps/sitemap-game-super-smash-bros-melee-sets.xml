@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-118/set/94843583/</loc>
-  <lastmod>2025-10-10T02:59:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-118/set/94843585/</loc>
+  <lastmod>2025-10-10T03:17:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837830/image-316c3976135afd74b8e5d18be6f79a77.png
+    </video:thumbnail_loc>
+    <video:title>
+      MF | KoDoRiN vs OBE | chopped snake, Rage Against the CRT #118 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MF | KoDoRiN vs OBE | chopped snake in Winners Semi-Final of Rage Against the CRT #118, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2587742839&amp;t=1h21m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1757</video:duration>
+    <video:publication_date>2025-10-10T03:17:47.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2025-10-18T03:17:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-118/set/94843583/</loc>
+  <lastmod>2025-10-10T03:28:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2587742839&amp;t=1h2m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1479</video:duration>
+    <video:duration>704</video:duration>
     <video:publication_date>2025-10-10T02:59:10.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-10-18T02:59:10.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-17T06:34:08.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-09-25T06:34:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-111/set/93975949/</loc>
-  <lastmod>2025-09-17T06:29:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829250/image-babbdeb9807b77d91b6f3ce4c0f91f91.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aerius vs netplayge | rainy, Melee @ Abbey Tavern #111 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aerius vs netplayge | rainy in Grand Final of Melee @ Abbey Tavern #111, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568351239&amp;t=4h53m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1263</video:duration>
-    <video:publication_date>2025-09-17T06:08:21.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-09-25T06:08:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
