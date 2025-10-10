@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-10-10-2025/set/94861695/</loc>
-  <lastmod>2025-10-10T15:07:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-10-10-2025/set/94861697/</loc>
+  <lastmod>2025-10-10T15:26:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Caldo vs Uryu, CitiSmash 10/10/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Caldo vs Uryu in Winners Round 2 of CitiSmash 10/10/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588086846&amp;t=0h40m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>303</video:duration>
+    <video:publication_date>2025-10-10T15:26:53.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-10-18T15:26:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-10-10-2025/set/94861695/</loc>
+  <lastmod>2025-10-10T15:28:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588086846&amp;t=0h20m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>484</video:duration>
+    <video:duration>1151</video:duration>
     <video:publication_date>2025-10-10T15:07:07.000Z</video:publication_date>
     <video:uploader>citismash</video:uploader>
     <video:expiration_date>2025-10-18T15:07:07.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-02T04:21:20.000Z</video:publication_date>
     <video:uploader>powgaming</video:uploader>
     <video:expiration_date>2025-10-10T04:21:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/no-dice-amazing-discoveries-173-a-smash-ultimate-rivals-2-weekly/set/94557406/</loc>
-  <lastmod>2025-10-02T04:35:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835555/image-771a06fdf7de71ea8ee28103df5ce174.png
-    </video:thumbnail_loc>
-    <video:title>
-      CesarSalad vs Eki, No Dice @ Amazing Discoveries #173 - a Smash Ultimate &amp; Rivals 2 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CesarSalad vs Eki in Grand Final of No Dice @ Amazing Discoveries #173 - a Smash Ultimate &amp; Rivals 2 weekly, streamed by nopausetournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580887475&amp;t=3h30m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>969</video:duration>
-    <video:publication_date>2025-10-02T04:15:39.000Z</video:publication_date>
-    <video:uploader>nopausetournaments</video:uploader>
-    <video:expiration_date>2025-10-10T04:15:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
