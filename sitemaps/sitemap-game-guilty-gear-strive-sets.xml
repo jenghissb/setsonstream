@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94914273/</loc>
+  <lastmod>2025-10-11T14:19:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Onesixfive vs NSxC | WaKLyST, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Onesixfive vs NSxC | WaKLyST in Losers Round 1 of Evo France 2025, streamed by EVO_France4
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588831590&amp;t=6h47m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>504</video:duration>
+    <video:publication_date>2025-10-11T14:19:45.000Z</video:publication_date>
+    <video:uploader>EVO_France4</video:uploader>
+    <video:expiration_date>2025-10-19T14:19:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94913894/</loc>
   <lastmod>2025-10-11T13:48:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-17T02:03:52.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-09-25T02:03:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-75/set/93963068/</loc>
-  <lastmod>2025-09-17T02:25:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828732/image-08a896aa6c325c1333eb5c87ec81408a.png
-    </video:thumbnail_loc>
-    <video:title>
-      StitchFace vs Forced2EatCement, Block String @ Wonderfly #75 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch StitchFace vs Forced2EatCement in Grand Final of Block String @ Wonderfly #75, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568253701&amp;t=2h44m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>790</video:duration>
-    <video:publication_date>2025-09-17T01:59:02.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-09-25T01:59:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
