@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94927041/</loc>
-  <lastmod>2025-10-11T22:13:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ssf-saturday-october-11th-2025/set/94939718/</loc>
+  <lastmod>2025-10-11T22:31:34.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833646/image-0fd8374f650ed6267c4c7e988721d6d2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nagi vs Colwan, SSF Saturday | October 11th, 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nagi vs Colwan in Losers Final of SSF Saturday | October 11th, 2025, streamed by SalemFighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=SalemFighters&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1063</video:duration>
+    <video:publication_date>2025-10-11T22:31:34.000Z</video:publication_date>
+    <video:uploader>SalemFighters</video:uploader>
+    <video:expiration_date>2025-10-19T22:31:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94927041/</loc>
+  <lastmod>2025-10-11T22:42:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589162155&amp;t=4h55m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1650</video:duration>
+    <video:duration>598</video:duration>
     <video:publication_date>2025-10-11T22:13:08.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2025-10-19T22:13:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ssf-saturday-october-11th-2025/set/94939686/</loc>
-  <lastmod>2025-10-11T22:10:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833646/image-0fd8374f650ed6267c4c7e988721d6d2.png
-    </video:thumbnail_loc>
-    <video:title>
-      SSF | Jaxas vs Nagi, SSF Saturday | October 11th, 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SSF | Jaxas vs Nagi in Winners Final of SSF Saturday | October 11th, 2025, streamed by SalemFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=SalemFighters&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1788</video:duration>
-    <video:publication_date>2025-10-11T22:10:50.000Z</video:publication_date>
-    <video:uploader>SalemFighters</video:uploader>
-    <video:expiration_date>2025-10-19T22:10:50.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
