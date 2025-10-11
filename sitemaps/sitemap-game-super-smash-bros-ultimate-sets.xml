@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-mid-autumn-special-2025/set/94905107/</loc>
-  <lastmod>2025-10-11T07:08:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-mid-autumn-special-2025/set/94905109/</loc>
+  <lastmod>2025-10-11T07:30:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834319/image-b0cc39cd68f1fb08ea4e8000b83f8efd.png
+    </video:thumbnail_loc>
+    <video:title>
+      CDO | Flying Raccoon vs HKSBC | Bomboozler, HKSBC Mid-Autumn Special 中秋亂鬥祭 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CDO | Flying Raccoon vs HKSBC | Bomboozler in Winners Semi-Final of HKSBC Mid-Autumn Special 中秋亂鬥祭 2025, streamed by 香港大亂鬥同好會 - HKSBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/-Vpqm7Y0DzI?start=9277s
+    </video:player_loc>
+    <video:duration>369</video:duration>
+    <video:publication_date>2025-10-11T07:30:18.000Z</video:publication_date>
+    <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
+    <video:expiration_date>2025-10-19T07:30:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-mid-autumn-special-2025/set/94905107/</loc>
+  <lastmod>2025-10-11T07:27:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/-Vpqm7Y0DzI?start=7977s
     </video:player_loc>
-    <video:duration>1070</video:duration>
+    <video:duration>971</video:duration>
     <video:publication_date>2025-10-11T07:08:38.000Z</video:publication_date>
     <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
     <video:expiration_date>2025-10-19T07:08:38.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-03T22:48:21.000Z</video:publication_date>
     <video:uploader>Rocky_thepetrock</video:uploader>
     <video:expiration_date>2025-10-11T22:48:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gilmer-247-smash-uva-fall-25-5/set/94607441/</loc>
-  <lastmod>2025-10-03T23:15:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836042/image-c127b90053edcf672e3f93a534f9f3ff.png
-    </video:thumbnail_loc>
-    <video:title>
-      JL | Zoruya vs Negationist, GILMER 247 - Smash@UVA Fall &apos;25 #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JL | Zoruya vs Negationist in Winners Quarter-Final of GILMER 247 - Smash@UVA Fall &apos;25 #5, streamed by smashatcville
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582468468&amp;t=1h5m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1445</video:duration>
-    <video:publication_date>2025-10-03T22:47:41.000Z</video:publication_date>
-    <video:uploader>smashatcville</video:uploader>
-    <video:expiration_date>2025-10-11T22:47:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
