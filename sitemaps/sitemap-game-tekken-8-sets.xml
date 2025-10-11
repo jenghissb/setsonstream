@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94917329/</loc>
-  <lastmod>2025-10-11T16:10:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94917330/</loc>
+  <lastmod>2025-10-11T16:20:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kaneandtrench vs DNF | CBM, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaneandtrench vs DNF | CBM in Winners Quarter-Final of Evo France 2025, streamed by EVO_France2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588831459&amp;t=8h47m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1174</video:duration>
+    <video:publication_date>2025-10-11T16:20:04.000Z</video:publication_date>
+    <video:uploader>EVO_France2</video:uploader>
+    <video:expiration_date>2025-10-19T16:20:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94917329/</loc>
+  <lastmod>2025-10-11T16:31:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588831459&amp;t=8h37m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>360</video:duration>
+    <video:duration>453</video:duration>
     <video:publication_date>2025-10-11T16:10:17.000Z</video:publication_date>
     <video:uploader>EVO_France2</video:uploader>
     <video:expiration_date>2025-10-19T16:10:17.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-20T18:41:58.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-09-28T18:41:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94080646/</loc>
-  <lastmod>2025-09-20T19:04:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/772481/image-813f22206d5a245f0620b2fd258ecd4e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GHZ | Roynichi vs AEG Chaoz, Punishment 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GHZ | Roynichi vs AEG Chaoz in Winners Final of Punishment 4, streamed by Tekken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571329969&amp;t=1h46m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2025-09-20T18:36:22.000Z</video:publication_date>
-    <video:uploader>Tekken</video:uploader>
-    <video:expiration_date>2025-09-28T18:36:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
