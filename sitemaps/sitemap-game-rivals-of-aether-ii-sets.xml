@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-3/set/94910996/</loc>
+  <lastmod>2025-10-11T10:48:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/822286/image-f5d73a07fc974f42cf9b4c43c6c5d9c4.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ukelele vs Mineamigo, Floorhug Pucelano #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ukelele vs Mineamigo in Round 1 of Floorhug Pucelano #3, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588905024&amp;t=0h2m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1408</video:duration>
+    <video:publication_date>2025-10-11T10:48:02.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2025-10-19T10:48:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-244/set/94896265/</loc>
   <lastmod>2025-10-11T04:38:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T23:32:31.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-09-28T23:32:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/monthly-smashers-september-20th-2025/set/94152074/</loc>
-  <lastmod>2025-09-21T00:01:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823379/image-f084c2d3ab7755d79bfc2ebe80c305ad.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jarbo vs EC | TRC | Shweepy, Monthly Smashers: September 20th, 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jarbo vs EC | TRC | Shweepy in Winners Quarter-Final of Monthly Smashers: September 20th, 2025, streamed by olytrc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571405236&amp;t=5h8m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>355</video:duration>
-    <video:publication_date>2025-09-20T23:29:55.000Z</video:publication_date>
-    <video:uploader>olytrc</video:uploader>
-    <video:expiration_date>2025-09-28T23:29:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
