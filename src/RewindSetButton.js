@@ -91,11 +91,8 @@ export const RewindAndLiveButtons = ({item, useLiveStream, setUseLiveStream, sho
   if (!shouldShow) {
     return <div className="rewindSetButton" ></div>
   }
-  if (useLiveStream && item.bracketInfo.endTimeDetected == null) {
-    return renderRewindSetButton(setUseLiveStream, fromMap)
-  } else {
-    return RewindControlRow({item, setUseLiveStream, useLiveStream, handleTimestampChange, handlePlayPause, rewindReady, fromMap})
-  }
+  const showRewindStart = useLiveStream && item.bracketInfo.endTimeDetected == null
+  return RewindControlRow({item, setUseLiveStream, useLiveStream, handleTimestampChange, handlePlayPause, rewindReady, fromMap, showRewindStart})
 }
 
 function convertSecondstoTimeStr(given_seconds) {
@@ -136,7 +133,7 @@ function renderLiveSvg({color}) {
   </svg>
 }
 
-const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestampChange, handlePlayPause, rewindReady, fromMap}) => {
+const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestampChange, handlePlayPause, rewindReady, fromMap, showRewindStart}) => {
   var liveButton = null
   var streamUrls = item.streamInfo.streamUrls[0]
   var startedAt = item.bracketInfo.startedAt
@@ -210,7 +207,7 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
       renderRewindShortButton(rewindShort, fromMap)
     }
     {
-      renderRewindFrameButton(rewindShort, fromMap)
+      !false && renderRewindFrameButton(rewindShort, fromMap)
     }
     <StyledSlider
       size="medium"
@@ -235,6 +232,11 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
     }    
     {
       liveButton
+    }
+    {
+      showRewindStart && <div className="rewindStartHolder">
+        {renderRewindSetButton(setUseLiveStream, fromMap)}
+      </div>
     }
   </div>
 }

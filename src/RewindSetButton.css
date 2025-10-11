@@ -32,6 +32,12 @@
   align-content:flex-start;
 }
 
+.rewindStartHolder {
+  position: absolute;
+  width:100%;
+  height:40px;
+  background-color: rgb(from var(--bg-main) r g b / 0.64);
+}
 .progressBar {
   flex-grow: 1;
   justify-self:stretch;
