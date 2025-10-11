@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-244/set/94896265/</loc>
+  <lastmod>2025-10-11T04:38:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838948/image-13618996f10a1ff6e43bb62fda6db004.png
+    </video:thumbnail_loc>
+    <video:title>
+      Groj vs Ninjy, Elite Smash Fridays #244 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Groj vs Ninjy in Grand Final of Elite Smash Fridays #244, streamed by Colorado_ROA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588569698&amp;t=3h52m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1008</video:duration>
+    <video:publication_date>2025-10-11T04:17:37.000Z</video:publication_date>
+    <video:uploader>Colorado_ROA</video:uploader>
+    <video:expiration_date>2025-10-19T04:17:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/that-ain-t-charlie-196/set/94876470/</loc>
   <lastmod>2025-10-11T01:48:20.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T23:29:55.000Z</video:publication_date>
     <video:uploader>olytrc</video:uploader>
     <video:expiration_date>2025-09-28T23:29:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-7-isthmian-gaming/set/94134969/</loc>
-  <lastmod>2025-09-21T00:01:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829206/image-5e9f0ca1a4ad2d80893f1c958463674d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Watermint vs Air | Juno, Triple Dunk #7 @ Isthmian Gaming - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Watermint vs Air | Juno in Losers Semi-Final of Triple Dunk #7 @ Isthmian Gaming, streamed by IsthmianGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571525987&amp;t=2h37m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>917</video:duration>
-    <video:publication_date>2025-09-20T23:26:09.000Z</video:publication_date>
-    <video:uploader>IsthmianGaming</video:uploader>
-    <video:expiration_date>2025-09-28T23:26:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
