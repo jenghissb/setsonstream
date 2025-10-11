@@ -1,57 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94932053/</loc>
-  <lastmod>2025-10-11T21:30:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823620/image-203f1eb92fd499fe7000712df3fec19b.png
-    </video:thumbnail_loc>
-    <video:title>
-      THG | Ludovic vs THG | | UncleWreck, Iron Grid x Go For Broke: Fight for Good - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch THG | Ludovic vs THG | | UncleWreck in Losers Final of Iron Grid x Go For Broke: Fight for Good, streamed by nerdstreet
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=nerdstreet&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1168</video:duration>
-    <video:publication_date>2025-10-11T21:30:24.000Z</video:publication_date>
-    <video:uploader>nerdstreet</video:uploader>
-    <video:expiration_date>2025-10-19T21:30:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/nerds-cup-13-road-to-isekai-2026/set/94938555/</loc>
-  <lastmod>2025-10-11T21:23:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813112/image-9bff92c7c665dfff052340a9ce9ad1d5.png
-    </video:thumbnail_loc>
-    <video:title>
-      BlazingFox vs Evernight, Nerds Cup 13 - Road to Isekai 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BlazingFox vs Evernight in Winners Round 1 of Nerds Cup 13 - Road to Isekai 2026, streamed by Rebootretrocadegaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589313921&amp;t=1h10m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1593</video:duration>
-    <video:publication_date>2025-10-11T21:23:19.000Z</video:publication_date>
-    <video:uploader>Rebootretrocadegaming</video:uploader>
-    <video:expiration_date>2025-10-19T21:23:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/autumns-edge/set/94935735/</loc>
-  <lastmod>2025-10-11T21:30:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-11T21:55:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589198464&amp;t=3h30m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1163</video:duration>
+    <video:duration>1023</video:duration>
     <video:publication_date>2025-10-11T21:30:29.000Z</video:publication_date>
     <video:uploader>edgegamerslounge</video:uploader>
     <video:expiration_date>2025-10-19T21:30:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/nerds-cup-13-road-to-isekai-2026/set/94938555/</loc>
+  <lastmod>2025-10-11T21:55:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813112/image-9bff92c7c665dfff052340a9ce9ad1d5.png
+    </video:thumbnail_loc>
+    <video:title>
+      BlazingFox vs Evernight, Nerds Cup 13 - Road to Isekai 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BlazingFox vs Evernight in Winners Round 1 of Nerds Cup 13 - Road to Isekai 2026, streamed by Rebootretrocadegaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589313921&amp;t=1h10m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>629</video:duration>
+    <video:publication_date>2025-10-11T21:23:19.000Z</video:publication_date>
+    <video:uploader>Rebootretrocadegaming</video:uploader>
+    <video:expiration_date>2025-10-19T21:23:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>

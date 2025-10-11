@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/blazing-battlefield-5/set/94936491/</loc>
-  <lastmod>2025-10-11T21:36:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/blazing-battlefield-5/set/94936495/</loc>
+  <lastmod>2025-10-11T22:04:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/821918/image-3513df0354774b78826d471ede401d1b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Gengur vs Ziggy, Blazing Battlefield #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gengur vs Ziggy in Winners Semi-Final of Blazing Battlefield #5, streamed by SatelliteSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589260807&amp;t=2h56m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>496</video:duration>
+    <video:publication_date>2025-10-11T22:04:53.000Z</video:publication_date>
+    <video:uploader>SatelliteSmash</video:uploader>
+    <video:expiration_date>2025-10-19T22:04:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/blazing-battlefield-5/set/94936491/</loc>
+  <lastmod>2025-10-11T22:07:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589260807&amp;t=2h27m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>799</video:duration>
+    <video:duration>809</video:duration>
     <video:publication_date>2025-10-11T21:36:33.000Z</video:publication_date>
     <video:uploader>SatelliteSmash</video:uploader>
     <video:expiration_date>2025-10-19T21:36:33.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-21T00:42:25.000Z</video:publication_date>
     <video:uploader>rivalsbc</video:uploader>
     <video:expiration_date>2025-09-29T00:42:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breach-the-abyss-4/set/94135969/</loc>
-  <lastmod>2025-09-21T01:19:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828006/image-94cee007bea83a9cec81a45da0747f77.png
-    </video:thumbnail_loc>
-    <video:title>
-      Stro vs GRL | Plastic Dinos, Breach The Abyss #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Stro vs GRL | Plastic Dinos in Grand Final of Breach The Abyss #4, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571531813&amp;t=3h43m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1005</video:duration>
-    <video:publication_date>2025-09-21T00:39:31.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-09-29T00:39:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

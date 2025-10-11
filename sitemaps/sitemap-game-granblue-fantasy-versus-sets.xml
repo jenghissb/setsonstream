@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-october-2025/set/94941061/</loc>
+  <lastmod>2025-10-11T21:56:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829368/image-c78799c7f4e9a669fdd60855f7395db3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kyro vs Sean, Astral Beatdown October 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kyro vs Sean in Winners Round 1 of Astral Beatdown October 2025, streamed by norcalgranblue
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589376369&amp;t=0h22m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>976</video:duration>
+    <video:publication_date>2025-10-11T21:56:53.000Z</video:publication_date>
+    <video:uploader>norcalgranblue</video:uploader>
+    <video:expiration_date>2025-10-19T21:56:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/evo-france-2025/set/94913800/</loc>
   <lastmod>2025-10-11T13:35:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-10T02:48:45.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-08-18T02:48:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-24/set/92519568/</loc>
-  <lastmod>2025-08-10T02:55:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/808549/image-574113bb64791760e7a38702b1096c38.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SpheneTheSphere vs Virgoux, SoCal Colosseum Clash #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SpheneTheSphere vs Virgoux in Losers Round 4 of SoCal Colosseum Clash #24, streamed by kondo3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2535962517&amp;t=1h28m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>600</video:duration>
-    <video:publication_date>2025-08-10T02:37:47.000Z</video:publication_date>
-    <video:uploader>kondo3</video:uploader>
-    <video:expiration_date>2025-08-18T02:37:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
