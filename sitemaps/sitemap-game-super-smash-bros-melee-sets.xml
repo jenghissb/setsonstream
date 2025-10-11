@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sc-melee-pleasure-pizza-11/set/94898356/</loc>
+  <lastmod>2025-10-11T05:30:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839047/image-d6f1b0c50df2bfecbe044d1c6214afb3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Wildo vs DOOM, SC Melee @ Pleasure Pizza 11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Wildo vs DOOM in Grand Final of SC Melee @ Pleasure Pizza 11, streamed by cptwoodbeard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588738120&amp;t=0h58m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>597</video:duration>
+    <video:publication_date>2025-10-11T05:03:59.000Z</video:publication_date>
+    <video:uploader>cptwoodbeard</video:uploader>
+    <video:expiration_date>2025-10-19T05:03:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sc-melee-pleasure-pizza-11/set/94898386/</loc>
   <lastmod>2025-10-11T04:57:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-18T01:50:35.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2025-09-26T01:50:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-1-welcome-back/set/93992920/</loc>
-  <lastmod>2025-09-18T02:04:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825340/image-3cd11ac2dc7595967da23cba5da1f160.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Markokop vs MWFW | Mickey, 🍂 UW Melee Weekly (Fall &apos;25) #1 - Welcome Back! 🍂 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Markokop vs MWFW | Mickey in Losers Quarter-Final of 🍂 UW Melee Weekly (Fall &apos;25) #1 - Welcome Back! 🍂, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569019027&amp;t=3h23m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>999</video:duration>
-    <video:publication_date>2025-09-18T01:37:59.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2025-09-26T01:37:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
