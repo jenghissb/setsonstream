@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94913837/</loc>
+  <lastmod>2025-10-11T12:50:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FREE | Andross_11 vs Neøs(Ne o s), Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FREE | Andross_11 vs Neøs(Ne o s) in Winners Quarter-Final of Evo France 2025, streamed by EVO_France4
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588831590&amp;t=4h52m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>619</video:duration>
+    <video:publication_date>2025-10-11T12:25:32.000Z</video:publication_date>
+    <video:uploader>EVO_France4</video:uploader>
+    <video:expiration_date>2025-10-19T12:25:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgca-monthly-october-1/set/94911523/</loc>
-  <lastmod>2025-10-11T11:48:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-11T12:32:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588911889&amp;t=0h48m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2354</video:duration>
+    <video:duration>744</video:duration>
     <video:publication_date>2025-10-11T11:48:01.000Z</video:publication_date>
     <video:uploader>FGCAARHUS</video:uploader>
     <video:expiration_date>2025-10-19T11:48:01.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-17T01:16:50.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2025-09-25T01:16:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/smash-mizzou-163/set/93962451/</loc>
-  <lastmod>2025-09-17T01:31:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829782/image-cfdb77ce4b311791da7bb276b04441b4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Env3lop vs GanonDegenerate, Smash @ Mizzou 163 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Env3lop vs GanonDegenerate in Winners Final of Smash @ Mizzou 163, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568268761&amp;t=1h31m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>627</video:duration>
-    <video:publication_date>2025-09-17T01:06:10.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2025-09-25T01:06:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
