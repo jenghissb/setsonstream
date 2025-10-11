@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931425/</loc>
-  <lastmod>2025-10-11T19:58:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931427/</loc>
+  <lastmod>2025-10-11T20:29:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
+    </video:thumbnail_loc>
+    <video:title>
+      Magi vs MOF, Luminosity Makes Moves Miami 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Magi vs MOF in Winners Round 1 of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589086999&amp;t=4h44m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1220</video:duration>
+    <video:publication_date>2025-10-11T20:29:30.000Z</video:publication_date>
+    <video:uploader>vgbootcamp2</video:uploader>
+    <video:expiration_date>2025-10-19T20:29:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931425/</loc>
+  <lastmod>2025-10-11T20:42:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589086999&amp;t=4h13m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2494</video:duration>
+    <video:duration>1876</video:duration>
     <video:publication_date>2025-10-11T19:58:11.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2025-10-19T19:58:11.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-19T00:52:38.000Z</video:publication_date>
     <video:uploader>dinksterlive</video:uploader>
     <video:expiration_date>2025-09-27T00:52:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-8-22/set/94022751/</loc>
-  <lastmod>2025-09-19T01:28:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830856/image-d4906828ad0356c31c6a3ce9183ddd9e.png
-    </video:thumbnail_loc>
-    <video:title>
-      SloX vs HoG | Brub, HoG: Phoenix 8.22 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SloX vs HoG | Brub in Winners Semi-Final of HoG: Phoenix 8.22, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569882828&amp;t=1h32m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>941</video:duration>
-    <video:publication_date>2025-09-19T00:50:05.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-09-27T00:50:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

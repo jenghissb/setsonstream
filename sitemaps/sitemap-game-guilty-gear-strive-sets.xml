@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/autumns-edge/set/94925951/</loc>
-  <lastmod>2025-10-11T20:03:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94926975/</loc>
+  <lastmod>2025-10-11T20:32:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823620/image-203f1eb92fd499fe7000712df3fec19b.png
+    </video:thumbnail_loc>
+    <video:title>
+      YoKai | Joe Brownie vs temple | sea_otter_h, Iron Grid x Go For Broke: Fight for Good - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YoKai | Joe Brownie vs temple | sea_otter_h in Winners Semi-Final of Iron Grid x Go For Broke: Fight for Good, streamed by IronGridFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589162155&amp;t=3h14m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1059</video:duration>
+    <video:publication_date>2025-10-11T20:32:11.000Z</video:publication_date>
+    <video:uploader>IronGridFGC</video:uploader>
+    <video:expiration_date>2025-10-19T20:32:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/autumns-edge/set/94925951/</loc>
+  <lastmod>2025-10-11T20:46:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589198464&amp;t=2h3m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2149</video:duration>
+    <video:duration>1973</video:duration>
     <video:publication_date>2025-10-11T20:03:56.000Z</video:publication_date>
     <video:uploader>edgegamerslounge</video:uploader>
     <video:expiration_date>2025-10-19T20:03:56.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-19T23:32:31.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-09-27T23:32:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-193-ssbu-ggst/set/94006879/</loc>
-  <lastmod>2025-09-18T04:52:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829813/image-bfd87fd227df832e05f8bde4b1c4c424.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FROG | Squid! vs Sycophantam, Guildhouse Weekly 193 - SSBU &amp; GGST - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FROG | Squid! vs Sycophantam in Losers Final of Guildhouse Weekly 193 - SSBU &amp; GGST, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569231911&amp;t=1h32m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>899</video:duration>
-    <video:publication_date>2025-09-18T04:34:09.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-09-26T04:34:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
