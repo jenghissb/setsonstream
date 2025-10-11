@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94915142/</loc>
+  <lastmod>2025-10-11T15:23:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MBA | Bati vs BDS | Kirakira, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MBA | Bati vs BDS | Kirakira in Losers Round 2 of Evo France 2025, streamed by EVO_France2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588831459&amp;t=7h51m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>788</video:duration>
+    <video:publication_date>2025-10-11T15:23:59.000Z</video:publication_date>
+    <video:uploader>EVO_France2</video:uploader>
+    <video:expiration_date>2025-10-19T15:23:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94915085/</loc>
   <lastmod>2025-10-11T14:33:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-20T18:34:33.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-09-28T18:34:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tournament-of-thrones-61/set/94115512/</loc>
-  <lastmod>2025-09-20T19:04:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820855/image-6ed208cd7b6df2d1761fa7f4f2d3588e.png
-    </video:thumbnail_loc>
-    <video:title>
-      TOT | | Trueinstincts_ vs Fuzzy J5, Tournament of Thrones 61 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TOT | | Trueinstincts_ vs Fuzzy J5 in Losers Final of Tournament of Thrones 61, streamed by Oakcityesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571352505&amp;t=1h15m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1190</video:duration>
-    <video:publication_date>2025-09-20T18:33:02.000Z</video:publication_date>
-    <video:uploader>Oakcityesports</video:uploader>
-    <video:expiration_date>2025-09-28T18:33:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
