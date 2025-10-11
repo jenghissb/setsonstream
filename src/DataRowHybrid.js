@@ -69,6 +69,10 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourney
     player2NameClass = `${player2NameClass} ${textGlowClass}`
   }
   const startedAtText = formatDisplayTimestamp(item.bracketInfo.startedAt)
+  const score = item.bracketInfo.score
+  const hasScore = score && score.length == 2 && score[0] != null && score[1] != null
+  const score1Class = score && score[0] > score[1] ? "drh-scoreText-green" : "drh-scoreText-normal"
+  var score2Class = score && score[1] > score[0] ? "drh-scoreText-green drh-scoreLast" : "drh-scoreText-normal drh-scoreLast"
   var timestampText = `${startedAtText}`
   var liveTextSpan = null
   if (item.bracketInfo.endTimeDetected == null) {
@@ -132,8 +136,12 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourney
         </div>
       </div> }
       </div>
-      <span className="drh-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span>
-      <span className="drh-locationText">{item.bracketInfo.locationStrWithRomaji}</span><br/>
+      <span className="drh-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}
+      <span className="drh-locationText-2">{item.bracketInfo.locationStrWithRomaji}</span></span>
+      {hasScore && <span className="drh-scoreText">
+        <span className={score1Class}>{score[0]}</span>
+        <span className={score2Class}>{score[1]}</span>
+      </span>}
       <div className="drh-rowPreviewHolder" >
       {
         preview

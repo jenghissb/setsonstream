@@ -239,27 +239,50 @@
   align-self: flex-start;
 }
 
-.drh-locationText {
+.drh-locationText-2 {
   color: var(--text-main-color);
   width: fit-content;
   font-size: 12px;
+  text-align: center;
+  padding-left: 6px;
+  vertical-align: center;
+  align-self:center;
+  z-index: 2;
+}
+
+.drh-scoreText {
+  color: var(--text-main-color);
+  width: fit-content;
+  font-size: 16px;
   position: absolute;
   bottom: 0px;
   right: 0px;
-  padding-bottom: 1px;
-  padding-right: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
   border-bottom-right-radius: 6px;
   background:var(--bg-over-image-walpha);
-  padding: 2px;
   align-self: flex-end;
   justify-self: end;
-  /* -webkit-text-stroke-width: 1.5px;
-  -webkit-text-stroke-color: var(--text-main-color-shadow);
-  paint-order: stroke fill;
-  text-shadow: 1.2px 1.2px 1.2px var(--text-main-color-shadow); */
-  /* margin-right: -8px;
-  margin-top: -12px; */
   z-index: 2;
+}
+
+.drh-scoreText-green {
+  background-color: #90ee907d;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+
+}
+.drh-scoreText-normal {
+  /* background-color: #90ee907d; */
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
+.drh-scoreLast {
+  border-bottom-right-radius: 6px;
 }
 
 .drh-tourneyTitle {

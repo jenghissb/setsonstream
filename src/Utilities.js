@@ -395,3 +395,21 @@ export function renderPlaylistIcon({width="14px", height="14px"}) {
     <path fill={color} d="M5 8.7h11v2.6h-11v-3z"></path>
   </svg>
 }
+
+function getLastModified(item) {
+  var lastMod = item.bracketInfo.startedAt
+  if (item.bracketInfo.endTimeDetected) {
+    lastMod = item.bracketInfo.endTimeDetected
+  }
+  if (item.bracketInfo.endTime != null) {
+    lastMod = + item.bracketInfo.endTimeDetected + 1
+  }
+  if (item.bracketInfo.lastMod != null) {
+    lastMod = item.bracketInfo.lastMod + 1
+  }
+  return lastMod
+}
+
+export function itemHasUpdated(prevSet, newSet) {
+  return (getLastModified(newSet) > getLastModified(prevSet))
+}

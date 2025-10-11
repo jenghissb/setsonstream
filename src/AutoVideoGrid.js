@@ -205,6 +205,8 @@ export const AdaptiveVirtualVideoGrid2 = ({
   textHeightGuess = 124,
   padding = "4px"
 }) => {
+  // console.log(" Rendering AdaptiveVirtualVideoGrid2")
+
   // const items = jsonData
   var stylename1 = "home2setRows-flex"
   var stylename2 = "home2set-row-3-flex"

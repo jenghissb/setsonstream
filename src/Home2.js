@@ -5,7 +5,7 @@ import { LeafMap } from './LeafMapMin.js'
 // import { LeafMap } from './LeafMap.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
-import { getItemLink, checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath, getStreamEmbedUrl } from './Utilities.js'
+import { itemHasUpdated, getItemLink, checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath, getStreamEmbedUrl } from './Utilities.js'
 import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr, GameKeywords } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { RewindAndLiveButtons } from './RewindSetButton.js'
@@ -649,6 +649,91 @@ async function decompressDataFromFetch(blob) {
   return decompressedText
 }
 
+async function decompressUpdatesFromFetch(response) {
+
+  const brotli = await brotliModulePromise; // load wasm
+
+  const arrayBuffer = await response.arrayBuffer();
+
+  // Convert ArrayBuffer to Uint8Array for your decompression
+  const bytes = new Uint8Array(arrayBuffer);
+
+  // Decompress with brotli-wasm
+  const decompressedBytes = brotli.decompress(bytes);
+
+  // Convert back to string
+  const decompressedText = new TextDecoder("utf-8").decode(decompressedBytes);
+  return decompressedText
+}
+
+
+// let pollInterval;
+// const POLL_INTERVAL_MS = 60000; // 1 minute
+
+// function startPolling() {
+//   if (document.visibilityState === 'visible' && !pollInterval) {
+//     pollInterval = setInterval(fetchData, POLL_INTERVAL_MS);
+//   }
+// }
+
+// function stopPolling() {
+//   if (pollInterval) {
+//     clearInterval(pollInterval);
+//     pollInterval = null;
+//   }
+// }
+
+// function fetchData() {
+//   console.log('Fetching new data...');
+//   // Your fetch() or XHR code here
+// }
+
+// // Listen for visibility changes
+// document.addEventListener('visibilitychange', () => {
+//   if (document.visibilityState === 'hidden') {
+//     stopPolling();
+//   } else {
+//     startPolling();
+//   }
+// });
+
+// // Start polling when the page is first loaded
+// startPolling();
+
+
+
+
+const UPDATES_URL = 'https://r2prox.jenghissb.workers.dev/updates.json';
+const POLL_INTERVAL = 30000; // 30 seconds
+
+async function fetchUpdates() {
+  try {
+    const response = await fetch(UPDATES_URL, {cache: 'no-store'});
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const textData = await decompressUpdatesFromFetch(response)
+    const data = JSON.parse(textData)
+    console.log('Updates received:', data);
+
+    // Process your updates here
+    // handleUpdates(data);
+    return data
+
+  } catch (error) {
+    console.error('Error fetching updates:', error);
+  }
+}
+
+// Sort only first N elements in place
+function partialSort(arr, n, compareFn) {
+  const sorted = arr.slice(0, n).sort(compareFn);
+  arr.splice(0, n, ...sorted);
+  return arr;
+}
+
 function getInitialShowVodsMode(currentGameId, data ) {
   if (data == null) {
     return false
@@ -763,6 +848,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // const rewindRefRef = useRef(rewindRef);
   const rewindRefRef = useRef(null);
   const rewindRefRefMap = useRef(null);
+  const prevPreviewInfoRef = useRef(null)
 
   var useVideoIn = {
     popup: false,
@@ -1266,6 +1352,105 @@ function MainComponent({homeMode, homeType, darkMode}) {
       }
     };
     fetchData();
+    
+    let intervalId;
+    async function getUpdates() {
+      const updates = await fetchUpdates()
+      setData(prevData => {
+        var didDataChange = false
+        let revisedFullData = {...prevData}
+        // Merge or replace based on your logic
+        Object.keys(updates).forEach((gameId) => {
+          var gameDataDidChange = false
+
+          const prevGameCombined = prevData[gameId]["combined"]
+          const prevCombinedSmall = prevGameCombined.slice(0, 100)
+          const updatesForGame = updates[gameId]
+            console.log("updatesForGame, ", updatesForGame)
+          const revisedForGame = [...prevGameCombined]
+          const newItems = []
+          
+          updatesForGame.forEach((newSet) => {
+            // console.log("updatesForGame set, ", newSet)
+            newSet.bracketInfo.setKey = `${newSet.bracketInfo.setId}`
+            const prevIndex = prevCombinedSmall.findIndex(item => item?.bracketInfo?.setKey == newSet?.bracketInfo?.setKey)
+            const prevItem = prevIndex >= 0 ? prevGameCombined[prevIndex] : null
+            // console.log("prevItem, ", prevItem)
+            if (prevItem != null) {
+              if (itemHasUpdated(prevItem, newSet)) {
+                console.log("set updated: newSet", newSet, "prevSet", prevItem)
+                gameDataDidChange = true
+                revisedForGame[prevIndex] = newSet
+              } else {
+                console.log("set exists: newSet", newSet, "prevSet", prevItem)
+              }
+            } else {
+              gameDataDidChange = true
+              newItems.push(newSet);
+              console.log("newSet found: ", newSet)
+            }
+          })
+          if (true ||gameDataDidChange) {
+            const revised = [...newItems, ...revisedForGame]
+            console.log("isPartialSorting")
+            partialSort(revised, 100 + newItems.length, (a,b) => {
+              const isLiveComp = a.bracketInfo.endTimeDetected != null ? (b.bracketInfo.endTimeDetected != null ? 0 : 1) : (b.bracketInfo.endTimeDetected != null ? -1 : 0)
+
+              if (isLiveComp != 0) {
+                return isLiveComp
+              }
+              // const numEntrantComp = compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+              // return numEntrantComp
+
+              if (a.bracketInfo.endTimeDetected == null) {
+                const numEntrantComp = compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+                return numEntrantComp
+              } else {
+                const startedAtComp = compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+                return startedAtComp
+              }
+              // console.log("isLiveComp", isLiveComp)
+              return isLiveComp
+              // const numEntrantComp = compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+              // const startedAtComp = compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+              // return 
+            })
+            if (gameId == "1386") {
+              console.log("sortDir1a", revised.slice(0,20).map(item => item.bracketInfo.numEntrants))
+              console.log("sortDir1b", revised.slice(0,20).map(item => item.bracketInfo.endTimeDetected))
+              console.log("sortDir1c", revised.slice(0,20).map(item => item.bracketInfo.setKey))
+            }
+            // partialSort(revised, 100 + newItems.length, (a,b) => {
+            //   const isLiveComp = a.bracketInfo.endTimeDetected != null ? (b.bracketInfo.endTimeDetected != null ? 0 : 1) : (b.bracketInfo.endTimeDetected != null ? -1 : 0)
+
+            //   // console.log("isLiveComp", isLiveComp)
+            //   return isLiveComp
+            //   // const numEntrantComp = compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+            //   // const startedAtComp = compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+            //   // return 
+            // })
+            // console.log("sortDir2", revised.slice(0,20).map(item => item.bracketInfo.endTimeDetected))
+            revisedFullData[gameId] = {...revisedFullData[gameId], combined: revised}
+            didDataChange = true
+          }
+        })
+        if (!didDataChange) {
+          // console.log("didDataChange false")
+          revisedFullData = prevData
+        } else {
+          // console.log("didDataChange true")
+        }
+        // intervalId = setInterval(getUpdates, 20000);
+        // setTimeout(getUpdates, 8000)
+        return revisedFullData;
+      });
+    }
+    // Then poll every 30 seconds
+    // setInterval(fetchUpdates, POLL_INTERVAL);
+    return () => {
+      intervalId && clearInterval(intervalId);
+    };
+
   }, []);
   // }, [filterInfo.currentGameId]);
 
@@ -1513,6 +1698,9 @@ function MainComponent({homeMode, homeType, darkMode}) {
     } else if (setMatch) {
       previewItem = setMatch
     }
+    const prevPreviewInfo = prevPreviewInfoRef.current
+    const prevPreviewItem = prevPreviewInfo?.previewItem
+    
     // const vidWidth = `${width}px`
     // const vidHeight = `${height}px`
     // const vidWidth = `100%-${310}px`
@@ -1521,8 +1709,19 @@ function MainComponent({homeMode, homeType, darkMode}) {
     const vidWidth = "100%"
     const vidHeight = "100%"
     const previewSupportsLive = previewItem?.bracketInfo?.endTimeDetected == null
-    preview = MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: useLiveStream && previewSupportsLive, currentVideoOffset, handleReady, onProgress})
-    if((true || showMapBeside || showChatBesideNextLine || showChatBeneath) && useLiveStream == true && previewSupportsLive) {
+    const isSameKey = previewItem != null && previewItem?.bracketInfo?.setKey === prevPreviewItem?.bracketInfo?.setKey
+    const wasUsingLive = isSameKey && prevPreviewInfo?.usingLive == true
+    let shouldUseLive = useLiveStream && (previewSupportsLive || wasUsingLive)
+    prevPreviewInfoRef.current = {
+      previewItem,
+      usingLive: useLiveStream && shouldUseLive,
+      // usingLive: useLiveStream && previewSupportsLive,
+      // supportsLive,
+      // key,
+      // useLiveStream,
+    }
+    preview = MediaPreview({item: previewItem, streamSubIndex, width:vidWidth, height:vidHeight, useLiveStream: shouldUseLive, currentVideoOffset, handleReady, onProgress})
+    if((true || showMapBeside || showChatBesideNextLine || showChatBeneath) && shouldUseLive) {
       // const chatHeight = showChatBeneath ? 140 : height
       // const chatHeight = showChatBeneath ? 140 : 350;
       const chatHeight = showChatBeneath ? 240 : 350;
@@ -1907,6 +2106,7 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
     return
   }
 
+  // console.log("TEST5 Rendering DataItems")
   //parentRef
   return <AdaptiveVirtualVideoGrid2
     //parentWidth:340
