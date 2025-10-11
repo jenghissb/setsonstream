@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94917248/</loc>
+  <lastmod>2025-10-11T16:34:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kazam vs VICE | PataChu, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kazam vs VICE | PataChu in Winners Quarter-Final of Evo France 2025, streamed by EVO_France4
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588831590&amp;t=9h1m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>941</video:duration>
+    <video:publication_date>2025-10-11T16:34:04.000Z</video:publication_date>
+    <video:uploader>EVO_France4</video:uploader>
+    <video:expiration_date>2025-10-19T16:34:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94914224/</loc>
   <lastmod>2025-10-11T16:01:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-17T03:12:05.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-09-25T03:12:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-206-galaxybran-an-essential-part-of-this-complete-breakfast/set/93967116/</loc>
-  <lastmod>2025-09-17T03:01:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829595/image-17e4431667b940a3ac4176dbec8d40ba.png
-    </video:thumbnail_loc>
-    <video:title>
-      193 | Yemma vs QUIZNOS | Zeal, CFG Tuesday Trials 206: GalaxyBrAn, An Essential Part of This Complete Breakfast - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 193 | Yemma vs QUIZNOS | Zeal in Losers Quarter-Final of CFG Tuesday Trials 206: GalaxyBrAn, An Essential Part of This Complete Breakfast, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568219859&amp;t=4h7m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>583</video:duration>
-    <video:publication_date>2025-09-17T02:37:25.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-09-25T02:37:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
