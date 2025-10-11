@@ -142,6 +142,7 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourney
         <span className={score1Class}>{score[0]}</span>
         <span className={score2Class}>{score[1]}</span>
       </span>}
+      <br/>
       <div className="drh-rowPreviewHolder" >
       {
         preview
