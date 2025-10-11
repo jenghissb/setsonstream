@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94926975/</loc>
-  <lastmod>2025-10-11T20:32:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94927036/</loc>
+  <lastmod>2025-10-11T21:04:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823620/image-203f1eb92fd499fe7000712df3fec19b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Logahan vs Bombshell, Iron Grid x Go For Broke: Fight for Good - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Logahan vs Bombshell in Losers Round 5 of Iron Grid x Go For Broke: Fight for Good, streamed by IronGridFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589162155&amp;t=3h46m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>455</video:duration>
+    <video:publication_date>2025-10-11T21:04:53.000Z</video:publication_date>
+    <video:uploader>IronGridFGC</video:uploader>
+    <video:expiration_date>2025-10-19T21:04:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94926975/</loc>
+  <lastmod>2025-10-11T21:08:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589162155&amp;t=3h14m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1059</video:duration>
+    <video:duration>1449</video:duration>
     <video:publication_date>2025-10-11T20:32:11.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2025-10-19T20:32:11.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-19T23:56:22.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-09-27T23:56:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-124/set/94064244/</loc>
-  <lastmod>2025-09-20T00:03:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830213/image-abfab21629bea084019bd8853d7818f1.png
-    </video:thumbnail_loc>
-    <video:title>
-      SLG | Yokai | Tyler vs SLG | Jiggywiggy, HoG: Moonlight #124 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SLG | Yokai | Tyler vs SLG | Jiggywiggy in Winners Quarter-Final of HoG: Moonlight #124, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570732018&amp;t=0h12m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>504</video:duration>
-    <video:publication_date>2025-09-19T23:32:31.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-09-27T23:32:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

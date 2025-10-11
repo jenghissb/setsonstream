@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931427/</loc>
-  <lastmod>2025-10-11T20:29:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931433/</loc>
+  <lastmod>2025-10-11T21:00:43.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tempo | Axe vs Krudo, Luminosity Makes Moves Miami 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tempo | Axe vs Krudo in Winners Quarter-Final of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589086999&amp;t=5h16m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>705</video:duration>
+    <video:publication_date>2025-10-11T21:00:43.000Z</video:publication_date>
+    <video:uploader>vgbootcamp2</video:uploader>
+    <video:expiration_date>2025-10-19T21:00:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931427/</loc>
+  <lastmod>2025-10-11T21:04:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589086999&amp;t=4h44m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1220</video:duration>
+    <video:duration>759</video:duration>
     <video:publication_date>2025-10-11T20:29:30.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2025-10-19T20:29:30.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-19T00:58:02.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2025-09-27T00:58:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/yeti-weekly-448/set/94030610/</loc>
-  <lastmod>2025-09-19T01:28:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829389/image-57369420defdad9ed975e670c9d68f5b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Bagels vs Wytch, Yeti Weekly 448 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bagels vs Wytch in Winners Quarter-Final of Yeti Weekly 448, streamed by dinksterlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569931882&amp;t=0h32m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>578</video:duration>
-    <video:publication_date>2025-09-19T00:52:38.000Z</video:publication_date>
-    <video:uploader>dinksterlive</video:uploader>
-    <video:expiration_date>2025-09-27T00:52:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
