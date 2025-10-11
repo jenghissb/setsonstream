@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94930861/</loc>
+  <lastmod>2025-10-11T20:30:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826613/image-8e77ab1ab3750cd8a472bf1eef3509c3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Coach Zeke vs Jackie Peanuts, Fusion+ #1 - The Fusion Supermajor - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Coach Zeke vs Jackie Peanuts in Winners Round 2 of Fusion+ #1 - The Fusion Supermajor, streamed by CollisionSeriesTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589246840&amp;t=1h35m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>581</video:duration>
+    <video:publication_date>2025-10-11T20:30:04.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV</video:uploader>
+    <video:expiration_date>2025-10-19T20:30:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94925372/</loc>
   <lastmod>2025-10-11T20:18:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T23:58:16.000Z</video:publication_date>
     <video:uploader>olytrc</video:uploader>
     <video:expiration_date>2025-09-28T23:58:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breach-the-abyss-4/set/94135999/</loc>
-  <lastmod>2025-09-21T00:25:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828006/image-94cee007bea83a9cec81a45da0747f77.png
-    </video:thumbnail_loc>
-    <video:title>
-      F4keNotR3al vs CF | CPU0, Breach The Abyss #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch F4keNotR3al vs CF | CPU0 in Losers Semi-Final of Breach The Abyss #4, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571531813&amp;t=2h58m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>968</video:duration>
-    <video:publication_date>2025-09-20T23:55:28.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-09-28T23:55:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
