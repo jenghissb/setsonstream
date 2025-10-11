@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94925375/</loc>
-  <lastmod>2025-10-11T19:14:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94925376/</loc>
+  <lastmod>2025-10-11T19:34:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826613/image-8e77ab1ab3750cd8a472bf1eef3509c3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ant vs KoF | Reaper, Fusion+ #1 - The Fusion Supermajor - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ant vs KoF | Reaper in Winners Round 3 of Fusion+ #1 - The Fusion Supermajor, streamed by CollisionSeriesTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589246840&amp;t=0h39m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>917</video:duration>
+    <video:publication_date>2025-10-11T19:34:12.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV</video:uploader>
+    <video:expiration_date>2025-10-19T19:34:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94925375/</loc>
+  <lastmod>2025-10-11T19:37:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589246840&amp;t=0h20m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1282</video:duration>
+    <video:duration>1177</video:duration>
     <video:publication_date>2025-10-11T19:14:50.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV</video:uploader>
     <video:expiration_date>2025-10-19T19:14:50.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T23:53:50.000Z</video:publication_date>
     <video:uploader>spotlightkc</video:uploader>
     <video:expiration_date>2025-09-28T23:53:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-7-isthmian-gaming/set/94134970/</loc>
-  <lastmod>2025-09-21T00:25:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829206/image-5e9f0ca1a4ad2d80893f1c958463674d.png
-    </video:thumbnail_loc>
-    <video:title>
-      RFDP | Kendrick vs Air | Juno, Triple Dunk #7 @ Isthmian Gaming - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RFDP | Kendrick vs Air | Juno in Losers Final of Triple Dunk #7 @ Isthmian Gaming, streamed by IsthmianGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571525987&amp;t=3h5m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>535</video:duration>
-    <video:publication_date>2025-09-20T23:53:36.000Z</video:publication_date>
-    <video:uploader>IsthmianGaming</video:uploader>
-    <video:expiration_date>2025-09-28T23:53:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
