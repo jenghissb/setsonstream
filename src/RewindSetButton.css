@@ -18,6 +18,7 @@
 
 .rewindSetRow {
   height: 40px;
+  position: relative;
   justify-self:stretch;
   align-self: stretch;
   flex-grow: 1;

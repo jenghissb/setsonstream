@@ -26,6 +26,7 @@ import { useParams, useLocation, Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import Star from "./Star";
 import { HorizontalVirtualList, VirtualList, VideoDataGrid, AutoVideoGrid, VirtualVideoGrid, AdaptiveVirtualVideoGrid, AdaptiveVirtualVideoGrid2 } from './AutoVideoGrid.js';
+import { renderXButtonTopRight } from './MiscButtons.js'
 
 const OG_THUMB = "https://setsonstream.tv/logoOg.png"
 
@@ -837,6 +838,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // const [currentTimest, setCurrentItemKey] = useState(null);
   const [controlsOn, setControlsOn] = useState(false); 
   const [subEmbedToggle, setSubEmbedToggle] = useState(""); 
+  const [showLargeBracket, setShowLargeBracket] = useState(false); 
   const currentGameId = filterInfo.currentGameId
   const currentGameIdRef = useRef(currentGameId);
   currentGameIdRef.current = currentGameId
@@ -1841,7 +1843,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
           {
             // TODO: add X and connect to bracket button
-            // hasRightPane && previewItem && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth}/>
+            hasRightPane && previewItem && showLargeBracket && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth} onClose={() => setShowLargeBracket(false)}/>
           }
           {!displayConfig.noDisplayData && showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
             <div className="home2SubEmbedChatContainer" style={subEmbedToggle==SubEmbeds.CHAT ? {} : {display: "none"}}>
@@ -2429,9 +2431,10 @@ function HorizontalCatHeader({favSuggestion, onFavorite, gameId}) {
 }
 
 
-function BracketEmbedAbs({src, centerWidth, sideChatWidth}) {
+function BracketEmbedAbs({src, centerWidth, sideChatWidth, onClose}) {
   return <div className="home2BracketContainerAbs" style={{width: Math.min(centerWidth, 676), height: `400px`, right: sideChatWidth}}>
     <BracketEmbed totalWidth={Math.min(centerWidth, 676)} height={400} src={src}/>
+    {renderXButtonTopRight(onClose, {backgroundColor: "var(--bg-controls)", margin: "2px", borderRadius: "10px"})}
   </div>
 }
 

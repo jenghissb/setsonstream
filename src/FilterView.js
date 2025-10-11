@@ -1,9 +1,10 @@
 import './FilterView.css'
 import React, { useRef, useState, useEffect } from "react";
+import { renderXButtonTopRight } from './MiscButtons.js';
 import { GameIds, Characters, VideoGameInfoById } from './GameInfo.js'
 import { charEmojiImagePath, useOnClickOutside } from './Utilities.js'
 import { renderGameList } from './GameList.js'
-function renderXButton(onCloseClick) {
+export function renderXButton(onCloseClick) {
   return <div className="xButton" onClick={onCloseClick}>
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
       <line x1="18" y1="6" x2="6" y2="18"></line>
@@ -51,7 +52,7 @@ export const FilterView = (filterInfo, onChangeGame, onCloseClick, toggleCharact
         renderGameList(filterInfo.currentGameId, onGameClick)
       }
       {
-        renderXButton(onCloseClick)
+        renderXButtonTopRight(onCloseClick, {}, "white")
       }
     </div>
     // </div>

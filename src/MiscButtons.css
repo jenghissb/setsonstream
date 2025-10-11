@@ -1,0 +1,23 @@
+.xButton {
+  position: absolute;
+  top:0;
+  right:0;
+  /* right:100vw; */
+  width: 40px;
+  height: 40px;
+  /* background-color: #007700; */
+  display: flex; /* Make the container a flex container */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.xButton:active {
+  opacity: 0.9;
+  transform: scale(1.02);
+}
+
+.xButton:hover {
+  opacity: 0.9;
+  transform: scale(1.02);
+}
+

@@ -22,7 +22,8 @@
 [data-theme='light'] {
   --bg-abs: white;
   --bg-hoverff: #f7f8f9;
-  --bg-main: #f7f8f9;
+  /* --bg-main: #f7f8f9; */
+  --bg-main: #ffffff;
   --bg-less: #bbbbbb;
   --bg-modal: #f6f2f2;
   --bg-more: #eeeeee;
@@ -31,7 +32,8 @@
   --bg-hover: #b5b5b5;
   --bg-controls: #dcdfdf;
   /* --title-bar-background: #dddddd; */
-  --title-bar-background: white;
+  /* --title-bar-background: white; */
+  --title-bar-background: #eaebec;
   --text-main-color: black;
   --text-main-color-shadow: #ffffffbb;
   --text-main-color-subdue-1: #181818;
