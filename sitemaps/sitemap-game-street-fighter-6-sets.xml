@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94919310/</loc>
-  <lastmod>2025-10-11T16:59:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94919312/</loc>
+  <lastmod>2025-10-11T17:14:58.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      G8S/HitBox | Kawano vs Liquid | Nephew, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch G8S/HitBox | Kawano vs Liquid | Nephew in Losers Round 1 of Evo France 2025, streamed by EVO_France
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588824331&amp;t=10h2m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>685</video:duration>
+    <video:publication_date>2025-10-11T17:14:58.000Z</video:publication_date>
+    <video:uploader>EVO_France</video:uploader>
+    <video:expiration_date>2025-10-19T17:14:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94919310/</loc>
+  <lastmod>2025-10-11T17:24:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588824331&amp;t=9h47m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>722</video:duration>
+    <video:duration>419</video:duration>
     <video:publication_date>2025-10-11T16:59:28.000Z</video:publication_date>
     <video:uploader>EVO_France</video:uploader>
     <video:expiration_date>2025-10-19T16:59:28.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-20T10:30:33.000Z</video:publication_date>
     <video:uploader>locus_crew</video:uploader>
     <video:expiration_date>2025-09-28T10:30:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/friday-fundies-7-1/set/94066758/</loc>
-  <lastmod>2025-09-20T03:04:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829367/image-ee49d397e53877064f4c9155eb04c669.png
-    </video:thumbnail_loc>
-    <video:title>
-      SMN/BB | samba_migo vs DeAnthrax, Friday Fundies #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SMN/BB | samba_migo vs DeAnthrax in Losers Final of Friday Fundies #7, streamed by attackfromallsides
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570706515&amp;t=3h30m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>964</video:duration>
-    <video:publication_date>2025-09-20T02:18:22.000Z</video:publication_date>
-    <video:uploader>attackfromallsides</video:uploader>
-    <video:expiration_date>2025-09-28T02:18:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
