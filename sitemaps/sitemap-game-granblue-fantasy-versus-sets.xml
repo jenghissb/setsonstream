@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-october-2025/set/94941077/</loc>
-  <lastmod>2025-10-11T22:16:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-october-2025/set/94941086/</loc>
+  <lastmod>2025-10-11T22:42:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829368/image-c78799c7f4e9a669fdd60855f7395db3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nyantic vs TBN | Sibyl, Astral Beatdown October 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nyantic vs TBN | Sibyl in Winners Quarter-Final of Astral Beatdown October 2025, streamed by norcalgranblue
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589376369&amp;t=1h8m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1843</video:duration>
+    <video:publication_date>2025-10-11T22:42:24.000Z</video:publication_date>
+    <video:uploader>norcalgranblue</video:uploader>
+    <video:expiration_date>2025-10-19T22:42:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-october-2025/set/94941077/</loc>
+  <lastmod>2025-10-11T22:49:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589376369&amp;t=0h42m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1965</video:duration>
+    <video:duration>563</video:duration>
     <video:publication_date>2025-10-11T22:16:32.000Z</video:publication_date>
     <video:uploader>norcalgranblue</video:uploader>
     <video:expiration_date>2025-10-19T22:16:32.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-50/set/94934947/</loc>
-  <lastmod>2025-10-11T22:11:17.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-11T22:49:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589330999&amp;t=1h36m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2280</video:duration>
+    <video:duration>1062</video:duration>
     <video:publication_date>2025-10-11T22:11:17.000Z</video:publication_date>
     <video:uploader>lunarphaselive</video:uploader>
     <video:expiration_date>2025-10-19T22:11:17.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-14T03:31:19.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-08-22T03:31:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/juicy-game-night-131/set/92640341/</loc>
-  <lastmod>2025-08-14T02:31:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/817158/image-2b328b70110a27a7e2f13dbcb1c7e5d9.png
-    </video:thumbnail_loc>
-    <video:title>
-      SE Uni | Andre Robo Cop vs Nelso64, Juicy Game Night #131 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SE Uni | Andre Robo Cop vs Nelso64 in Losers Semi-Final of Juicy Game Night #131, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2539454703&amp;t=0h44m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>709</video:duration>
-    <video:publication_date>2025-08-14T02:01:37.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2025-08-22T02:01:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
