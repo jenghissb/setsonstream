@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94925202/</loc>
-  <lastmod>2025-10-11T19:40:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931425/</loc>
+  <lastmod>2025-10-11T19:58:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nouns | Aklo vs JChu, Luminosity Makes Moves Miami 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nouns | Aklo vs JChu in Winners Round 1 of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589086999&amp;t=4h13m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>987</video:duration>
+    <video:publication_date>2025-10-11T19:58:11.000Z</video:publication_date>
+    <video:uploader>vgbootcamp2</video:uploader>
+    <video:expiration_date>2025-10-19T19:58:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94925202/</loc>
+  <lastmod>2025-10-11T20:01:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589086999&amp;t=3h56m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>525</video:duration>
+    <video:duration>739</video:duration>
     <video:publication_date>2025-10-11T19:40:44.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2025-10-19T19:40:44.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-19T00:50:05.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-09-27T00:50:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-282/set/94028242/</loc>
-  <lastmod>2025-09-19T01:28:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830352/image-5719d8e90110fe5f33726fc98e6c4f46.png
-    </video:thumbnail_loc>
-    <video:title>
-      BT | KBuff vs yeatfan446, Illinois State Smash Weekly #282 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BT | KBuff vs yeatfan446 in Losers Round 2 of Illinois State Smash Weekly #282, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569876414&amp;t=1h39m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1137</video:duration>
-    <video:publication_date>2025-09-19T00:48:31.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2025-09-27T00:48:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
