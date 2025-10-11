@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94925139/</loc>
-  <lastmod>2025-10-11T18:52:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94925236/</loc>
+  <lastmod>2025-10-11T19:13:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
+    </video:thumbnail_loc>
+    <video:title>
+      JChu vs Paladin, Luminosity Makes Moves Miami 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JChu vs Paladin in Winners Quarter-Final of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589086999&amp;t=3h28m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>533</video:duration>
+    <video:publication_date>2025-10-11T19:13:12.000Z</video:publication_date>
+    <video:uploader>vgbootcamp2</video:uploader>
+    <video:expiration_date>2025-10-19T19:13:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94925139/</loc>
+  <lastmod>2025-10-11T19:19:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589086999&amp;t=3h7m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1137</video:duration>
+    <video:duration>1024</video:duration>
     <video:publication_date>2025-10-11T18:52:02.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2025-10-19T18:52:02.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-19T00:29:33.000Z</video:publication_date>
     <video:uploader>isu_smash</video:uploader>
     <video:expiration_date>2025-09-27T00:29:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-350/set/94017973/</loc>
-  <lastmod>2025-09-19T01:02:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830049/image-db7a000feaca4d93e6ac973ba4429327.png
-    </video:thumbnail_loc>
-    <video:title>
-      SC | Solanum vs Kip, Salt Water Smash 350 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SC | Solanum vs Kip in Winners Semi-Final of Salt Water Smash 350, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569887871&amp;t=1h1m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>696</video:duration>
-    <video:publication_date>2025-09-19T00:26:15.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2025-09-27T00:26:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
