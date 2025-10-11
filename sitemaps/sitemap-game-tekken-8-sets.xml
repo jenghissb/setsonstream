@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94917391/</loc>
+  <lastmod>2025-10-11T18:10:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FOX | Sin vs Jodd, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FOX | Sin vs Jodd in Losers Round 3 of Evo France 2025, streamed by EVO_France2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588831459&amp;t=10h15m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>466</video:duration>
+    <video:publication_date>2025-10-11T17:47:58.000Z</video:publication_date>
+    <video:uploader>EVO_France2</video:uploader>
+    <video:expiration_date>2025-10-19T17:47:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94917389/</loc>
-  <lastmod>2025-10-11T17:22:45.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-11T17:50:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588831459&amp;t=9h50m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1603</video:duration>
+    <video:duration>612</video:duration>
     <video:publication_date>2025-10-11T17:22:45.000Z</video:publication_date>
     <video:uploader>EVO_France2</video:uploader>
     <video:expiration_date>2025-10-19T17:22:45.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-20T19:12:16.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-09-28T19:12:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/punishment-4/set/94080602/</loc>
-  <lastmod>2025-09-20T19:26:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/772481/image-813f22206d5a245f0620b2fd258ecd4e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      HDG | Dante vs HDG|Kid_Toño, Punishment 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HDG | Dante vs HDG|Kid_Toño in Losers Semi-Final of Punishment 4, streamed by Tekken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571329969&amp;t=2h10m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>927</video:duration>
-    <video:publication_date>2025-09-20T19:00:28.000Z</video:publication_date>
-    <video:uploader>Tekken</video:uploader>
-    <video:expiration_date>2025-09-28T19:00:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

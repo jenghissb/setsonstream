@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94919314/</loc>
-  <lastmod>2025-10-11T17:41:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94919316/</loc>
+  <lastmod>2025-10-11T17:59:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Lexx vs FLY | Punk, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lexx vs FLY | Punk in Losers Round 2 of Evo France 2025, streamed by EVO_France
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588824331&amp;t=10h46m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1121</video:duration>
+    <video:publication_date>2025-10-11T17:59:19.000Z</video:publication_date>
+    <video:uploader>EVO_France</video:uploader>
+    <video:expiration_date>2025-10-19T17:59:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94919314/</loc>
+  <lastmod>2025-10-11T18:04:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588824331&amp;t=10h28m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>500</video:duration>
+    <video:duration>343</video:duration>
     <video:publication_date>2025-10-11T17:41:08.000Z</video:publication_date>
     <video:uploader>EVO_France</video:uploader>
     <video:expiration_date>2025-10-19T17:41:08.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-20T18:40:15.000Z</video:publication_date>
     <video:uploader>locus_crew</video:uploader>
     <video:expiration_date>2025-09-28T18:40:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/super-aggro-warrior-arena/set/94097256/</loc>
-  <lastmod>2025-09-20T11:20:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816845/image-3a1d72efd77511d4b72690e9c0227959.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hee_HO vs holotype, Super Aggro Warrior Arena - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hee_HO vs holotype in Winners Semi-Final of Super Aggro Warrior Arena, streamed by locus_crew
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571093894&amp;t=0h48m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>649</video:duration>
-    <video:publication_date>2025-09-20T10:54:42.000Z</video:publication_date>
-    <video:uploader>locus_crew</video:uploader>
-    <video:expiration_date>2025-09-28T10:54:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

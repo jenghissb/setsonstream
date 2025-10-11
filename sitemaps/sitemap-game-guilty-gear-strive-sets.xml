@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94917309/</loc>
-  <lastmod>2025-10-11T17:37:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94917307/</loc>
+  <lastmod>2025-10-11T17:50:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LAGLESS | 御傍 GOBOU(LAGLESS | o bou GOBOU) vs MDL | Kelvin, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LAGLESS | 御傍 GOBOU(LAGLESS | o bou GOBOU) vs MDL | Kelvin in Losers Round 3 of Evo France 2025, streamed by EVO_France4
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588831590&amp;t=10h17m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1659</video:duration>
+    <video:publication_date>2025-10-11T17:50:22.000Z</video:publication_date>
+    <video:uploader>EVO_France4</video:uploader>
+    <video:expiration_date>2025-10-19T17:50:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/evo-france-2025/set/94917309/</loc>
+  <lastmod>2025-10-11T18:01:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2588831590&amp;t=10h4m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>722</video:duration>
+    <video:duration>698</video:duration>
     <video:publication_date>2025-10-11T17:37:26.000Z</video:publication_date>
     <video:uploader>EVO_France4</video:uploader>
     <video:expiration_date>2025-10-19T17:37:26.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-18T03:04:21.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-09-26T03:04:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showdown-65/set/93997439/</loc>
-  <lastmod>2025-09-18T02:31:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828184/image-1df4d07c5d7154f12b7aa0d2e8b68709.png
-    </video:thumbnail_loc>
-    <video:title>
-      YDD | SZND vs [LHS] | TopGunn4Hire, Showdown #65 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch YDD | SZND vs [LHS] | TopGunn4Hire in Grand Final of Showdown #65, streamed by NrettG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2569106722&amp;t=1h55m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>628</video:duration>
-    <video:publication_date>2025-09-18T02:05:36.000Z</video:publication_date>
-    <video:uploader>NrettG</video:uploader>
-    <video:expiration_date>2025-09-26T02:05:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
