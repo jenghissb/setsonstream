@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgca-monthly-october-1/set/94911523/</loc>
+  <lastmod>2025-10-11T11:48:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834453/image-d9db33b3b41afe525917da90a65b3252.png
+    </video:thumbnail_loc>
+    <video:title>
+      ASG | Daugion vs DPU | Afro Fred, FGCA Monthly - October - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ASG | Daugion vs DPU | Afro Fred in Winners Final of FGCA Monthly - October, streamed by FGCAARHUS
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2588911889&amp;t=0h48m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2354</video:duration>
+    <video:publication_date>2025-10-11T11:48:01.000Z</video:publication_date>
+    <video:uploader>FGCAARHUS</video:uploader>
+    <video:expiration_date>2025-10-19T11:48:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgca-monthly-october-1/set/94911518/</loc>
   <lastmod>2025-10-11T11:39:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-17T01:06:10.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2025-09-25T01:06:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/smash-mizzou-163/set/93962450/</loc>
-  <lastmod>2025-09-17T00:38:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829782/image-cfdb77ce4b311791da7bb276b04441b4.png
-    </video:thumbnail_loc>
-    <video:title>
-      GanonDegenerate vs HMQ | Fuzzy_Snugs, Smash @ Mizzou 163 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GanonDegenerate vs HMQ | Fuzzy_Snugs in Winners Semi-Final of Smash @ Mizzou 163, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2568268761&amp;t=0h36m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>754</video:duration>
-    <video:publication_date>2025-09-17T00:11:06.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2025-09-25T00:11:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
