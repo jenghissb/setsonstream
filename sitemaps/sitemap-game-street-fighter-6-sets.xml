@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968373/</loc>
-  <lastmod>2025-10-12T17:27:43.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968375/</loc>
+  <lastmod>2025-10-12T18:04:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      2Game | Blaz vs AEGIS | Mister Crimson, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 2Game | Blaz vs AEGIS | Mister Crimson in Losers Semi-Final of Evo France 2025, streamed by EVO_France
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589752876&amp;t=10h23m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>861</video:duration>
+    <video:publication_date>2025-10-12T18:04:48.000Z</video:publication_date>
+    <video:uploader>EVO_France</video:uploader>
+    <video:expiration_date>2025-10-20T18:04:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968373/</loc>
+  <lastmod>2025-10-12T17:51:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589752876&amp;t=9h46m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1309</video:duration>
+    <video:duration>646</video:duration>
     <video:publication_date>2025-10-12T17:27:43.000Z</video:publication_date>
     <video:uploader>EVO_France</video:uploader>
     <video:expiration_date>2025-10-20T17:27:43.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-21T20:37:46.000Z</video:publication_date>
     <video:uploader>MNCSmash</video:uploader>
     <video:expiration_date>2025-09-29T20:37:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/saturday-trials-6-500-pot-bonuses/set/94189625/</loc>
-  <lastmod>2025-09-21T20:50:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819011/image-2296202d7765826387cfd923d6517a90.png
-    </video:thumbnail_loc>
-    <video:title>
-      UltimateVitality vs Truly | Mangocopter, Saturday Trials 6 ($500+ Pot Bonuses) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UltimateVitality vs Truly | Mangocopter in Winners Quarter-Final of Saturday Trials 6 ($500+ Pot Bonuses), streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572263622&amp;t=2h39m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>836</video:duration>
-    <video:publication_date>2025-09-21T20:24:25.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-09-29T20:24:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
