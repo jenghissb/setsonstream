@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94971929/</loc>
-  <lastmod>2025-10-12T16:58:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94971944/</loc>
+  <lastmod>2025-10-12T17:14:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tempo | Axe vs Wizzrobe, Luminosity Makes Moves Miami 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tempo | Axe vs Wizzrobe in Losers Quarter-Final of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2590011107&amp;t=1h25m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1360</video:duration>
+    <video:publication_date>2025-10-12T17:14:39.000Z</video:publication_date>
+    <video:uploader>vgbootcamp</video:uploader>
+    <video:expiration_date>2025-10-20T17:14:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94971929/</loc>
+  <lastmod>2025-10-12T17:27:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2590011107&amp;t=1h9m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1763</video:duration>
+    <video:duration>954</video:duration>
     <video:publication_date>2025-10-12T16:58:26.000Z</video:publication_date>
     <video:uploader>vgbootcamp</video:uploader>
     <video:expiration_date>2025-10-20T16:58:26.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-20T00:57:29.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2025-09-28T00:57:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tripoint-296/set/94069208/</loc>
-  <lastmod>2025-09-20T01:33:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829701/image-bb72c0cc671045ca5ece22a60d217a13.png
-    </video:thumbnail_loc>
-    <video:title>
-      dz vs Raymond Reddington, Tripoint 296 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch dz vs Raymond Reddington in Winners Final of Tripoint 296, streamed by ugsgaming2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570769126&amp;t=0h46m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1215</video:duration>
-    <video:publication_date>2025-09-20T00:52:42.000Z</video:publication_date>
-    <video:uploader>ugsgaming2</video:uploader>
-    <video:expiration_date>2025-09-28T00:52:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

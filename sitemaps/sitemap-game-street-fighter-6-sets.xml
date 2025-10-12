@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968373/</loc>
+  <lastmod>2025-10-12T17:27:43.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      REJECT ROHTOZ! | Tokido vs 2Game | Blaz, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch REJECT ROHTOZ! | Tokido vs 2Game | Blaz in Losers Quarter-Final of Evo France 2025, streamed by EVO_France
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589752876&amp;t=9h46m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>576</video:duration>
+    <video:publication_date>2025-10-12T17:27:43.000Z</video:publication_date>
+    <video:uploader>EVO_France</video:uploader>
+    <video:expiration_date>2025-10-20T17:27:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968359/</loc>
   <lastmod>2025-10-12T16:43:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-21T20:24:25.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-09-29T20:24:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-19-fgc-monthly/set/94191700/</loc>
-  <lastmod>2025-09-21T20:50:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826471/image-f5205bfefeb317a8d632fa21234ef587.png
-    </video:thumbnail_loc>
-    <video:title>
-      Retired | Nephatiti vs BG | nerdpres419, Summer Fox Smackdown 19! - FGC Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Retired | Nephatiti vs BG | nerdpres419 in Winners Round 2 of Summer Fox Smackdown 19! - FGC Monthly, streamed by MNCSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572387230&amp;t=0h7m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>687</video:duration>
-    <video:publication_date>2025-09-21T20:24:01.000Z</video:publication_date>
-    <video:uploader>MNCSmash</video:uploader>
-    <video:expiration_date>2025-09-29T20:24:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
