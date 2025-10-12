@@ -121,7 +121,7 @@ function convertSecondstoTimeStr(given_seconds) {
 }
 
 export function renderSetLiveButton(setUseLiveStream, fromMap) {
-  const color = fromMap ? "#444444" : "#bbbbbb"
+  const color = fromMap ? "#444444" : "var(--text-main-color-subdue-3)"
   return <div onClick={() => setTimeout(() => setUseLiveStream(true))} className="rewindSetButton">
     {renderLiveSvg({color})}
   </div>
@@ -204,10 +204,10 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
   const valueToUse = Math.floor(currentProgress)
   return <div className="rewindSetRow">
     {
-      renderRewindShortButton(rewindShort, fromMap)
+      !showRewindStart && renderRewindShortButton(rewindShort, fromMap)
     }
     {
-      !false && renderRewindFrameButton(rewindShort, fromMap)
+      !showRewindStart && renderRewindFrameButton(rewindShort, fromMap)
     }
     <StyledSlider
       size="medium"
@@ -225,10 +225,10 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
       renderPlayPause(handlePlayPause)
     }    
     {
-      renderForwardFrameButton(rewindShort, fromMap)
+      !showRewindStart && renderForwardFrameButton(rewindShort, fromMap)
     }    
     {
-      renderForwardShortButton(rewindShort, fromMap)
+      !showRewindStart && renderForwardShortButton(rewindShort, fromMap)
     }    
     {
       liveButton
