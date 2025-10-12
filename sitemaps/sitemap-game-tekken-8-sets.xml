@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94986595/</loc>
+  <lastmod>2025-10-12T22:24:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823620/image-203f1eb92fd499fe7000712df3fec19b.png
+    </video:thumbnail_loc>
+    <video:title>
+      NCN | BarlosB vs iron grid | Gary, Iron Grid x Go For Broke: Fight for Good - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NCN | BarlosB vs iron grid | Gary in Losers Quarter-Final of Iron Grid x Go For Broke: Fight for Good, streamed by IronGridFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2590077907&amp;t=5h14m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>994</video:duration>
+    <video:publication_date>2025-10-12T22:24:52.000Z</video:publication_date>
+    <video:uploader>IronGridFGC</video:uploader>
+    <video:expiration_date>2025-10-20T22:24:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94986592/</loc>
   <lastmod>2025-10-12T22:13:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-21T00:19:06.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2025-09-29T00:19:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-65/set/94149975/</loc>
-  <lastmod>2025-09-21T00:47:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825080/image-7ba1fae278be4e2739dcccc604776d46.png
-    </video:thumbnail_loc>
-    <video:title>
-      CoExist | Casual_NY vs O,Rb,I,Ta,Al, NYC Tekken Monthly #65 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CoExist | Casual_NY vs O,Rb,I,Ta,Al in Losers Semi-Final of NYC Tekken Monthly #65, streamed by nyctekken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571529827&amp;t=3h24m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>920</video:duration>
-    <video:publication_date>2025-09-21T00:18:48.000Z</video:publication_date>
-    <video:uploader>nyctekken</video:uploader>
-    <video:expiration_date>2025-09-29T00:18:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
