@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-clash-26/set/94962044/</loc>
+  <lastmod>2025-10-12T03:43:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829426/image-9ea75d1df9d8d5bf21535bd96c41556e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PFaB | AutisticDuck vs YoKai | Aloa, SoCal Colosseum Clash #26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PFaB | AutisticDuck vs YoKai | Aloa in Losers Quarter-Final of SoCal Colosseum Clash #26, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589480179&amp;t=3h17m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>935</video:duration>
+    <video:publication_date>2025-10-12T03:15:13.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-10-20T03:15:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-clash-26/set/94962041/</loc>
-  <lastmod>2025-10-12T02:58:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-12T03:25:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589480179&amp;t=3h1m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1617</video:duration>
+    <video:duration>1071</video:duration>
     <video:publication_date>2025-10-12T02:58:28.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-10-20T02:58:28.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T02:53:35.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-09-28T02:53:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/flynn-s-arcade-178/set/94079059/</loc>
-  <lastmod>2025-09-20T03:26:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829626/image-92a681253aca1ed66f68c51551597665.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Terb vs BeefyManatee, Flynn&apos;s Arcade 178 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Terb vs BeefyManatee in Losers Semi-Final of Flynn&apos;s Arcade 178, streamed by flynnsgamingfl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570834039&amp;t=1h24m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>651</video:duration>
-    <video:publication_date>2025-09-20T02:52:22.000Z</video:publication_date>
-    <video:uploader>flynnsgamingfl</video:uploader>
-    <video:expiration_date>2025-09-28T02:52:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

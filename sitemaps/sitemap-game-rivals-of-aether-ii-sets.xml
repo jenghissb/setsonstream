@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94952227/</loc>
-  <lastmod>2025-10-12T03:16:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94952228/</loc>
+  <lastmod>2025-10-12T03:29:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826613/image-8e77ab1ab3750cd8a472bf1eef3509c3.png
+    </video:thumbnail_loc>
+    <video:title>
+      CakeAssault vs Ant, Fusion+ #1 - The Fusion Supermajor - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CakeAssault vs Ant in Grand Final Reset of Fusion+ #1 - The Fusion Supermajor, streamed by CollisionSeriesTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589395104&amp;t=5h29m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1064</video:duration>
+    <video:publication_date>2025-10-12T03:29:38.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV</video:uploader>
+    <video:expiration_date>2025-10-20T03:29:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/luminosity-makes-moves-miami-2025-1/set/94959362/</loc>
+  <lastmod>2025-10-12T03:27:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
+    </video:thumbnail_loc>
+    <video:title>
+      AoC | Acorn vs GotE | Rusy, Luminosity Makes Moves Miami 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AoC | Acorn vs GotE | Rusy in Winners Final of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=vgbootcamp2&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1169</video:duration>
+    <video:publication_date>2025-10-12T03:27:53.000Z</video:publication_date>
+    <video:uploader>vgbootcamp2</video:uploader>
+    <video:expiration_date>2025-10-20T03:27:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94952227/</loc>
+  <lastmod>2025-10-12T03:36:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589395104&amp;t=5h16m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>545</video:duration>
+    <video:duration>795</video:duration>
     <video:publication_date>2025-10-12T03:16:20.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV</video:uploader>
     <video:expiration_date>2025-10-20T03:16:20.000Z</video:expiration_date>
@@ -4774,30 +4822,6 @@
     <video:publication_date>2025-09-23T01:22:11.000Z</video:publication_date>
     <video:uploader>southsuburbanesports</video:uploader>
     <video:expiration_date>2025-10-01T01:22:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-267/set/94221638/</loc>
-  <lastmod>2025-09-23T01:54:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831024/image-fa138afdc7cd90c13a0649ae883aa706.png
-    </video:thumbnail_loc>
-    <video:title>
-      Animal House | Animal vs sleet.gg | CheesyPotato, Fusion #267 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Animal House | Animal vs sleet.gg | CheesyPotato in Winners Final of Fusion #267, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573324570&amp;t=1h18m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>799</video:duration>
-    <video:publication_date>2025-09-23T01:20:02.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2025-10-01T01:20:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
