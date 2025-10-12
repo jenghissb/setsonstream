@@ -83,7 +83,8 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourney
   const iconPaddingVert = "16px";
   const iconPaddingHorz = "8px";
   const iconStyle = {paddingLeft: iconPaddingHorz, paddingRigth: iconPaddingHorz, paddingTop: iconPaddingVert, paddingBottom: iconPaddingVert}
-  const opacityStr = selected ? "0.7" : "0.15"
+  // const opacityStr = selected ? "0.7" : "0.15"
+  const opacityStr = selected ? "0.15" : "0.15"
   const streamName = getChannelName(item.streamInfo)
   // const player1Link = item.player1Info.entrantUrl;
   // const player2Link = item.player2Info.entrantUrl;
@@ -124,7 +125,7 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourney
       {
         // selected && RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, rewindReady})
       }
-      {streamButton}
+      {/* {streamButton}
       {selected && <div className="drh-set-row-2">
         <div className="drh-icons-row">
           <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="drh-bracketLink"><div className="drh-icons-row-icon"><IconStartGg width={18} height={18}/></div></a><br/>
@@ -134,7 +135,7 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourney
             return <div key={index}><a href={streamLink} target="_blank" className="drh-bracketLink"><div className="drh-icons-row-icon-stream"><IconStream streamSource={item.streamInfo.streamSource}/></div></a><br/></div>
           })}
         </div>
-      </div> }
+      </div> } */}
       </div>
       <span className="drh-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}
       <span className="drh-locationText-2">{item.bracketInfo.locationStrWithRomaji}</span></span>

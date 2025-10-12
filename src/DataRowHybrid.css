@@ -30,8 +30,10 @@
 }
 
 .drh-set-row-1-selected {
-  background-color: #1d1d1d;
-  border: 3px solid  lightgreen;
+  /* background-color: #1d1d1d; */
+  /* background-color: #1d1d1d; */
+  /* border: 3px solid  lightgreen; */
+  border: 3px solid  #90ee90aa;
 }
 
 .drh-under-icon-link {

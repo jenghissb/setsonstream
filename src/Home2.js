@@ -906,6 +906,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
         if (currentItemKeyRef.current != null) {
           setUseLiveStream(true)
         }
+        setShowLargeBracket(false)
       }
       currentItemKeyRef.current = newSetKey
       setCurrentItemKey(newSetKey)
@@ -1833,7 +1834,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
           </div>
           {
-            previewItem && <NowPlaying {...{minimal: displayConfig.noControls, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
+            previewItem && <NowPlaying {...{minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
           }
           {
             // renderLinkRow(displayData, filterInfo, showVodsMode, setShowVodsMode, homeMode != HomeModes.FULLMAP, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions)

@@ -6,8 +6,10 @@ import { RewindAndLiveButtons } from './RewindSetButton.js'
 import { IconStartGg, IconStream } from './BrandIcons.js'
 import { renderFilterButton } from './FilterButton.js'
 import { Link } from 'react-router-dom';
+import { BracketIcon } from './SubEmbedControls.js'
 
-export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
+export const NowPlaying = memo(({minimal, extraOnSide, setShowBracket, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
+  const extraInCol = !extraOnSide
   var preview = null
   var divClass = "nowPlaying-set-row-1"
   if (selected) divClass = divClass + " nowPlaying-set-row-1-selected"
@@ -26,9 +28,10 @@ export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, 
   var streamButton = null
   var numSubStreams = item.streamInfo.streamUrls.length
   if (numSubStreams > 1 && selected) {
-    streamButton = <button onClick={() => handleStreamIndexButtonClick(numSubStreams)}><span>switch stream</span></button>
+    streamButton = <div className="nowPlaying-streamButton" style={{backgroundColor: extraInCol ? "var(--bg-controls)" : "var(--bg-main)"}} onClick={() => handleStreamIndexButtonClick(numSubStreams)}><span>switch stream</span></div>
   }
   var tourneyBackgroundUrl=null
+  var tourneyBackgroundUrl2=null
   var tourneyIconUrl = null
   try {
     if (item.bracketInfo.endTimeDetected == null && item.streamInfo.streamSource != "YOUTUBE") {
@@ -38,6 +41,7 @@ export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, 
     } else {
       tourneyBackgroundUrl = item.bracketInfo.images[1]?.url
     }
+    tourneyBackgroundUrl2 = item.bracketInfo.images[1]?.url
     tourneyIconUrl = item.bracketInfo.images[0].url
   }catch{}
   var viewersText=""
@@ -64,6 +68,10 @@ export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, 
     player2NameClass = `${player2NameClass} ${textGlowClass}`
   }
   const startedAtText = formatDisplayTimestamp(item.bracketInfo.startedAt)
+  const score = item.bracketInfo.score
+  const hasScore = score && score.length == 2 && score[0] != null && score[1] != null
+  const score1Class = score && score[0] > score[1] ? "nowPlaying-scoreText-green" : "nowPlaying-scoreText-normal"
+  var score2Class = score && score[1] > score[0] ? "nowPlaying-scoreText-green nowPlaying-scoreLast" : "nowPlaying-scoreText-normal nowPlaying-scoreLast"
   var timestampText = `${startedAtText}`
   var liveTextSpan = null
   if (item.bracketInfo.endTimeDetected == null) {
@@ -90,6 +98,13 @@ export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, 
   const streamIcon = item.streamInfo.streamIcon
   //          <a href={item.player1Info.entrantUrl} target="_blank" className={player1NameClass}>{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className={player2NameClass}>{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
 
+  const backgroundImageStyle = extraInCol ? {
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl2})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          // filter: "blur(8px)",
+          // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
+        } : {}
   if (minimal) {
     return (
       <div className="nowPlayingRow">
@@ -106,7 +121,7 @@ export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, 
   }
   
   return (
-    <div className="nowPlayingRow">
+    <div className="nowPlayingRow" style={backgroundImageStyle}>
     <div className="nowPlaying-under-row">
       <div className="nowPlaying-under-info">
         <div className="nowPlaying-set-row-4">
@@ -126,8 +141,69 @@ export const NowPlaying = memo(({minimal, setShowFilterModal, item, filterInfo, 
           </div>
           {/* {renderFilterButton(filterInfo, () => setShowFilterModal(true))} */}
         </div>
+        {  extraInCol &&
+            <div className="nowPlaying-segment2-row1">
+              <span className="nowPlaying-segment2-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span>
+              <div className="nowPlaying-segment2-tourney-timestamp"><span className='nowPlaying-t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
+              <span className="nowPlaying-segment2-locationText">{item.bracketInfo.locationStrWithRomaji}</span>
+            </div>
+          
+        }
+        {extraInCol && streamButton}
+        {extraInCol &&
+          <div className="nowPlaying-set-row-2">
+            <div className="nowPlaying-icons-row">
+              <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="nowPlaying-bracketLink"><div className="nowPlaying-icons-row-icon"><IconStartGg width={18} height={18}/></div></a>
+              {item.streamInfo.streamUrls.map((sItem, index) => {
+                const streamUrl = getStreamUrl(item.streamInfo, index)
+                const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false || showVodsMode)
+                return <div key={index}><a href={streamLink} target="_blank" className="nowPlaying-bracketLink"><div className="nowPlaying-icons-row-icon-stream"><IconStream streamSource={item.streamInfo.streamSource}/></div></a></div>
+              })}
+            </div>
+          </div>
+        }
+        { extraInCol && hasScore && <span className="nowPlaying-scoreText">
+            <span className={score1Class}>{score[0]}</span>
+            <span className={score2Class}>{score[1]}</span>
+          </span>
+        }        
       </div>
     </div>
+    {extraOnSide &&
+      <div className="nowPlaying-segment2"  style={{
+      backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl2})`,
+      backgroundSize: "cover",
+      backgroundPosition: "center"
+      // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
+    }}>
+        <div className="nowPlaying-segment2-row1">
+          <span className="nowPlaying-segment2-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span>
+          <div className="nowPlaying-segment2-tourney-timestamp"><span className='nowPlaying-t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
+          <span className="nowPlaying-segment2-locationText">{item.bracketInfo.locationStrWithRomaji}</span>
+        </div>
+        {streamButton}
+        <div className="nowPlaying-set-row-2-a">
+          <div className="nowPlaying-icons-row">
+            <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="nowPlaying-bracketLink"><div className="nowPlaying-icons-row-icon"><IconStartGg width={18} height={18}/></div></a>
+            {item.streamInfo.streamUrls.map((sItem, index) => {
+              const streamUrl = getStreamUrl(item.streamInfo, index)
+              const streamLink = getStreamUrl(item.streamInfo, index, useLiveStream == false || showVodsMode)
+              return <div key={index}><a href={streamLink} target="_blank" className="nowPlaying-bracketLink"><div className="nowPlaying-icons-row-icon-stream"><IconStream streamSource={item.streamInfo.streamSource}/></div></a></div>
+            })}
+          </div>
+        </div>
+        {
+          <div class="nowPlaying-bracketButton" onClick={() => setShowBracket(true)}>
+            <BracketIcon width={"42px"} height={"42px"} color={"var(--text-main-color-subdue-3"}/>
+          </div>
+        }
+        {hasScore && <span className="nowPlaying-scoreText">
+          <span className={score1Class}>{score[0]}</span>
+          <span className={score2Class}>{score[1]}</span>
+        </span>}
+
+      </div>
+    }
     </div>
   )
 

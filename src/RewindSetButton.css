@@ -38,7 +38,8 @@
   left: 0px;
   width: calc(100% - 40px);
   height:40px;
-  background-color: rgb(from var(--bg-main) r g b / 0.64);
+  /* background-color: rgb(from var(--bg-main) r g b / 0.64); */
+  background-color: #00000001
 }
 .progressBar {
   flex-grow: 1;
