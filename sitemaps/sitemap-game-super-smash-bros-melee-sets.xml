@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94971931/</loc>
-  <lastmod>2025-10-12T17:54:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94971947/</loc>
+  <lastmod>2025-10-12T18:40:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
+    </video:thumbnail_loc>
+    <video:title>
+      SR | moky vs Nouns | Aklo, Luminosity Makes Moves Miami 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SR | moky vs Nouns | Aklo in Losers Final of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2590011107&amp;t=2h52m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>128</video:duration>
+    <video:publication_date>2025-10-12T18:40:52.000Z</video:publication_date>
+    <video:uploader>vgbootcamp</video:uploader>
+    <video:expiration_date>2025-10-20T18:40:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94971931/</loc>
+  <lastmod>2025-10-12T18:21:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2590011107&amp;t=2h5m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1497</video:duration>
+    <video:duration>1607</video:duration>
     <video:publication_date>2025-10-12T17:54:12.000Z</video:publication_date>
     <video:uploader>vgbootcamp</video:uploader>
     <video:expiration_date>2025-10-20T17:54:12.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-20T02:15:58.000Z</video:publication_date>
     <video:uploader>cptwoodbeard</video:uploader>
     <video:expiration_date>2025-09-28T02:15:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tripoint-296/set/94069240/</loc>
-  <lastmod>2025-09-20T02:24:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829701/image-bb72c0cc671045ca5ece22a60d217a13.png
-    </video:thumbnail_loc>
-    <video:title>
-      Raymond Reddington vs Anwarrior, Tripoint 296 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Raymond Reddington vs Anwarrior in Losers Final of Tripoint 296, streamed by ugsgaming2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570769126&amp;t=1h24m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>690</video:duration>
-    <video:publication_date>2025-09-20T01:31:23.000Z</video:publication_date>
-    <video:uploader>ugsgaming2</video:uploader>
-    <video:expiration_date>2025-09-28T01:31:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
