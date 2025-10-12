@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bussy-esport-vibes-2025/set/94965091/</loc>
-  <lastmod>2025-10-12T10:08:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-12T10:30:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589778249&amp;t=1h19m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>368</video:duration>
+    <video:duration>1146</video:duration>
     <video:publication_date>2025-10-12T10:08:01.000Z</video:publication_date>
     <video:uploader>5DCaster</video:uploader>
     <video:expiration_date>2025-10-20T10:08:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/-2513/set/94964977/</loc>
-  <lastmod>2025-10-12T08:28:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/773104/image-871442dbba5f84ee236103437a1da13d.png
-    </video:thumbnail_loc>
-    <video:title>
-      黒船(kurofune) vs M0tsunabE, こしスマガチファイナル - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 黒船(kurofune) vs M0tsunabE in Grand Final of こしスマガチファイナル, streamed by 無明遊者【イベント配信団体】
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/channel/UC6_rMQX2Djt8PKHmh6qCCog
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-10-12T08:28:37.000Z</video:publication_date>
-    <video:uploader>無明遊者【イベント配信団体】</video:uploader>
-    <video:expiration_date>2025-10-20T08:28:37.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -118,6 +94,30 @@
     <video:publication_date>2025-10-12T09:08:04.000Z</video:publication_date>
     <video:uploader>5DCaster</video:uploader>
     <video:expiration_date>2025-10-20T09:08:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/-2513/set/94964977/</loc>
+  <lastmod>2025-10-12T10:30:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/773104/image-871442dbba5f84ee236103437a1da13d.png
+    </video:thumbnail_loc>
+    <video:title>
+      黒船(kurofune) vs M0tsunabE, こしスマガチファイナル - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 黒船(kurofune) vs M0tsunabE in Grand Final of こしスマガチファイナル, streamed by 無明遊者【イベント配信団体】
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/k1m-OJcME6Y?start=23165s
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-10-12T08:28:37.000Z</video:publication_date>
+    <video:uploader>無明遊者【イベント配信団体】</video:uploader>
+    <video:expiration_date>2025-10-20T08:28:37.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
