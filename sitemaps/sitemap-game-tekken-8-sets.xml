@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94966477/</loc>
+  <lastmod>2025-10-12T13:30:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VIT | KingReyJr vs DRX | LowHigh, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VIT | KingReyJr vs DRX | LowHigh in Losers Quarter-Final of Evo France 2025, streamed by EVO_France
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589752876&amp;t=5h49m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>399</video:duration>
+    <video:publication_date>2025-10-12T13:30:50.000Z</video:publication_date>
+    <video:uploader>EVO_France</video:uploader>
+    <video:expiration_date>2025-10-20T13:30:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94966462/</loc>
   <lastmod>2025-10-12T12:43:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-20T23:24:18.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-09-28T23:24:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-65/set/94149971/</loc>
-  <lastmod>2025-09-20T23:57:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825080/image-7ba1fae278be4e2739dcccc604776d46.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sultan vs SHOGUN, NYC Tekken Monthly #65 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sultan vs SHOGUN in Losers Round 1 of NYC Tekken Monthly #65, streamed by nyctekken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571529827&amp;t=2h28m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>577</video:duration>
-    <video:publication_date>2025-09-20T23:22:23.000Z</video:publication_date>
-    <video:uploader>nyctekken</video:uploader>
-    <video:expiration_date>2025-09-28T23:22:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
