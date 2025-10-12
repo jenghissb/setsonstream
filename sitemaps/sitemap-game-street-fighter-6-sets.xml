@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968376/</loc>
-  <lastmod>2025-10-12T18:22:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968361/</loc>
+  <lastmod>2025-10-12T18:40:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      DRX | Leshar vs 2Game | Blaz, Evo France 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DRX | Leshar vs 2Game | Blaz in Grand Final of Evo France 2025, streamed by EVO_France
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2589752876&amp;t=10h59m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>665</video:duration>
+    <video:publication_date>2025-10-12T18:40:42.000Z</video:publication_date>
+    <video:uploader>EVO_France</video:uploader>
+    <video:expiration_date>2025-10-20T18:40:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968376/</loc>
+  <lastmod>2025-10-12T18:48:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2589752876&amp;t=10h41m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1258</video:duration>
+    <video:duration>1068</video:duration>
     <video:publication_date>2025-10-12T18:22:02.000Z</video:publication_date>
     <video:uploader>EVO_France</video:uploader>
     <video:expiration_date>2025-10-20T18:22:02.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-21T21:00:34.000Z</video:publication_date>
     <video:uploader>MNCSmash</video:uploader>
     <video:expiration_date>2025-09-29T21:00:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/saturday-trials-6-500-pot-bonuses/set/94189654/</loc>
-  <lastmod>2025-09-21T21:10:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819011/image-2296202d7765826387cfd923d6517a90.png
-    </video:thumbnail_loc>
-    <video:title>
-      HwB | Insanity vs woozy, Saturday Trials 6 ($500+ Pot Bonuses) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HwB | Insanity vs woozy in Losers Round 2 of Saturday Trials 6 ($500+ Pot Bonuses), streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572263622&amp;t=3h2m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>684</video:duration>
-    <video:publication_date>2025-09-21T20:47:42.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-09-29T20:47:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
