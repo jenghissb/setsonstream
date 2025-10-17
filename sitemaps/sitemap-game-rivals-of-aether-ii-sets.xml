@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-44/set/95101343/</loc>
+  <lastmod>2025-10-17T05:11:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841279/image-2c23d8500f63d930d7931b3d402e9c6a.png
+    </video:thumbnail_loc>
+    <video:title>
+      CF | CPU0 vs GRL | Plastic Dinos, Wasteland Warriors #44 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CF | CPU0 vs GRL | Plastic Dinos in Grand Final of Wasteland Warriors #44, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2593803397&amp;t=3h6m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1095</video:duration>
+    <video:publication_date>2025-10-17T04:38:37.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2025-10-25T04:38:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-44/set/95101374/</loc>
-  <lastmod>2025-10-17T04:14:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-17T04:54:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2593803397&amp;t=2h42m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2204</video:duration>
+    <video:duration>1500</video:duration>
     <video:publication_date>2025-10-17T04:14:10.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-10-25T04:14:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-9-1/set/95097497/</loc>
-  <lastmod>2025-10-17T02:49:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840708/image-bd4defb5506c2c3045a7a7b7d9e29392.png
-    </video:thumbnail_loc>
-    <video:title>
-      Glacien vs DolphinBrick, SFU RIVALS THURSDAYS #9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Glacien vs DolphinBrick in Losers Semi-Final of SFU RIVALS THURSDAYS #9, streamed by PenguinosBC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=PenguinosBC&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-10-17T02:49:42.000Z</video:publication_date>
-    <video:uploader>PenguinosBC</video:uploader>
-    <video:expiration_date>2025-10-25T02:49:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +70,30 @@
     <video:publication_date>2025-10-17T03:44:35.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-10-25T03:44:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-9-1/set/95097497/</loc>
+  <lastmod>2025-10-17T04:54:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840708/image-bd4defb5506c2c3045a7a7b7d9e29392.png
+    </video:thumbnail_loc>
+    <video:title>
+      Glacien vs DolphinBrick, SFU RIVALS THURSDAYS #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Glacien vs DolphinBrick in Losers Semi-Final of SFU RIVALS THURSDAYS #9, streamed by PenguinosBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2593877303&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-10-17T02:49:42.000Z</video:publication_date>
+    <video:uploader>PenguinosBC</video:uploader>
+    <video:expiration_date>2025-10-25T02:49:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-25T01:20:16.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-10-03T01:20:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-9-24-25/set/94274114/</loc>
-  <lastmod>2025-09-25T01:50:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832581/image-8e86595d107b0997329f820a1fb56bea.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rusy vs GoTE | BACKPACK?, GoTE Rivals 2 and more (9/24/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rusy vs GoTE | BACKPACK? in Winners Final of GoTE Rivals 2 and more (9/24/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574968456&amp;t=1h39m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1925</video:duration>
-    <video:publication_date>2025-09-25T01:16:14.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-10-03T01:16:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
