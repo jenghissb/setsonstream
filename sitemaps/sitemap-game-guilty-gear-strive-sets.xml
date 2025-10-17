@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-128/set/95128012/</loc>
+  <lastmod>2025-10-17T23:36:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841822/image-2decac5e7e31e61361b4d6d36feaeeea.png
+    </video:thumbnail_loc>
+    <video:title>
+      HZ vs SLG | ksmc., HoG: Moonlight #128 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HZ vs SLG | ksmc. in Winners Round 1 of HoG: Moonlight #128, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594561448&amp;t=0h8m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>777</video:duration>
+    <video:publication_date>2025-10-17T23:36:58.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-10-25T23:36:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-49-guilty-gear-strive/set/95087439/</loc>
   <lastmod>2025-10-17T01:01:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T04:05:39.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-09-28T04:05:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-92/set/94085280/</loc>
-  <lastmod>2025-09-20T04:10:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826656/image-b2feea9f09e6ddfe268988d0c92b82fb.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PFaB | AutisticDuck vs Leshige, SoCal Colosseum #92 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PFaB | AutisticDuck vs Leshige in Winners Quarter-Final of SoCal Colosseum #92, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2570875233&amp;t=1h28m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>451</video:duration>
-    <video:publication_date>2025-09-20T03:48:21.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2025-09-28T03:48:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
