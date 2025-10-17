@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mhm-the-mini-mayhem-114/set/95094418/</loc>
+  <lastmod>2025-10-17T00:38:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841027/image-8fd1d2cf1c6f9ad7e5b34003d49e5394.png
+    </video:thumbnail_loc>
+    <video:title>
+      Muhbeans vs Spins | Unshorn, MHM: The Mini Mayhem #114 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Muhbeans vs Spins | Unshorn in Winners Semi-Final of MHM: The Mini Mayhem #114, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2593727356&amp;t=0h10m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>433</video:duration>
+    <video:publication_date>2025-10-17T00:07:09.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2025-10-25T00:07:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968361/</loc>
   <lastmod>2025-10-12T19:08:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-21T21:06:18.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-09-29T21:06:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-19-fgc-monthly/set/94191705/</loc>
-  <lastmod>2025-09-21T21:28:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826471/image-f5205bfefeb317a8d632fa21234ef587.png
-    </video:thumbnail_loc>
-    <video:title>
-      MIKEYLE vs Retired | Nephatiti, Summer Fox Smackdown 19! - FGC Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MIKEYLE vs Retired | Nephatiti in Winners Quarter-Final of Summer Fox Smackdown 19! - FGC Monthly, streamed by MNCSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572417985&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>766</video:duration>
-    <video:publication_date>2025-09-21T21:00:34.000Z</video:publication_date>
-    <video:uploader>MNCSmash</video:uploader>
-    <video:expiration_date>2025-09-29T21:00:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
