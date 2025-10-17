@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-21/set/95113291/</loc>
+  <lastmod>2025-10-17T17:07:35.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840248/image-ef05eb882e8e0961727c214395400227.png
+    </video:thumbnail_loc>
+    <video:title>
+      rats | TroZ vs Teddy, Kappa Clash #21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch rats | TroZ vs Teddy in Winners Round 1 of Kappa Clash #21, streamed by saftisblandis
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594256693&amp;t=0h5m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>367</video:duration>
+    <video:publication_date>2025-10-17T17:07:35.000Z</video:publication_date>
+    <video:uploader>saftisblandis</video:uploader>
+    <video:expiration_date>2025-10-25T17:07:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-119/set/95102895/</loc>
   <lastmod>2025-10-17T05:14:20.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-22T19:23:18.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-09-30T19:23:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-78/set/94211807/</loc>
-  <lastmod>2025-09-22T19:30:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830783/image-1eedf3be4294b2b2d6a1e0812056185f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GGAPP | EricG vs Graham, KnockOut Zone #78 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GGAPP | EricG vs Graham in Winners Semi-Final of KnockOut Zone #78, streamed by orbitalgoats
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573027760&amp;t=1h42m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1127</video:duration>
-    <video:publication_date>2025-09-22T18:52:06.000Z</video:publication_date>
-    <video:uploader>orbitalgoats</video:uploader>
-    <video:expiration_date>2025-09-30T18:52:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
