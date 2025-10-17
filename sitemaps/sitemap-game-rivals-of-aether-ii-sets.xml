@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-201/set/95125795/</loc>
+  <lastmod>2025-10-17T23:19:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840316/image-9d68e7b9adbec147d4bc465f4b4920fa.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ham Sandwich vs Gumpy, Smash Night at Prodigy #201 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ham Sandwich vs Gumpy in Winners Quarter-Final of Smash Night at Prodigy #201, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594554181&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1056</video:duration>
+    <video:publication_date>2025-10-17T23:19:53.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2025-10-25T23:19:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-44/set/95101343/</loc>
   <lastmod>2025-10-17T05:11:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-25T01:37:41.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-03T01:37:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-232/set/94271486/</loc>
-  <lastmod>2025-09-25T01:50:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831582/image-a42dcf6b8ec03de20285b3b11786bd60.png
-    </video:thumbnail_loc>
-    <video:title>
-      Searing Arrow vs GeekyDave, Wonderfly Weekly #232 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Searing Arrow vs GeekyDave in Grand Final of Wonderfly Weekly #232, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574946742&amp;t=2h12m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1300</video:duration>
-    <video:publication_date>2025-09-25T01:20:16.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-10-03T01:20:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
