@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-3/set/95118118/</loc>
-  <lastmod>2025-10-17T22:28:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-3/set/95118150/</loc>
+  <lastmod>2025-10-17T22:49:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841058/image-148966dd5990d087240765d6884bd4eb.png
+    </video:thumbnail_loc>
+    <video:title>
+      TVO | Epoqua vs oscarwildefan69, Rider Esports Resort #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TVO | Epoqua vs oscarwildefan69 in Losers Quarter-Final of Rider Esports Resort #3, streamed by rideruniversity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594474196&amp;t=1h17m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1461</video:duration>
+    <video:publication_date>2025-10-17T22:49:20.000Z</video:publication_date>
+    <video:uploader>rideruniversity</video:uploader>
+    <video:expiration_date>2025-10-25T22:49:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-3/set/95118118/</loc>
+  <lastmod>2025-10-17T22:54:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2594474196&amp;t=0h55m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1294</video:duration>
+    <video:duration>604</video:duration>
     <video:publication_date>2025-10-17T22:28:09.000Z</video:publication_date>
     <video:uploader>rideruniversity</video:uploader>
     <video:expiration_date>2025-10-25T22:28:09.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-23T23:54:34.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-10-01T23:54:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-119/set/94247757/</loc>
-  <lastmod>2025-09-24T00:03:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832634/image-fa06e9bb83ed887652ef2638f2c68e4e.png
-    </video:thumbnail_loc>
-    <video:title>
-      VashTS vs Rozay, HoG: Dragon #119 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VashTS vs Rozay in Winners Round 1 of HoG: Dragon #119, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574123479&amp;t=0h11m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>898</video:duration>
-    <video:publication_date>2025-09-23T23:34:09.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-10-01T23:34:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
