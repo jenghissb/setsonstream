@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-188-norcal-sf6-and-melee-ladder/set/95104324/</loc>
+  <lastmod>2025-10-17T04:40:09.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840292/image-56f1e51685e861f01d1938aa63cd7265.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | BAD_MAN vs FitS | Lucas, Guildhouse Fighters 188 - Norcal SF6 and Melee Ladder - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | BAD_MAN vs FitS | Lucas in Losers Semi-Final of Guildhouse Fighters 188 - Norcal SF6 and Melee Ladder, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2593867395&amp;t=1h33m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>645</video:duration>
+    <video:publication_date>2025-10-17T04:40:09.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2025-10-25T04:40:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-188-norcal-sf6-and-melee-ladder/set/95104323/</loc>
   <lastmod>2025-10-17T04:25:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-21T22:12:35.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-09-29T22:12:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/saturday-trials-6-500-pot-bonuses/set/94189658/</loc>
-  <lastmod>2025-09-21T22:27:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819011/image-2296202d7765826387cfd923d6517a90.png
-    </video:thumbnail_loc>
-    <video:title>
-      MUOH | Avaris vs MUOH | nekro, Saturday Trials 6 ($500+ Pot Bonuses) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MUOH | Avaris vs MUOH | nekro in Losers Quarter-Final of Saturday Trials 6 ($500+ Pot Bonuses), streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572458138&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>680</video:duration>
-    <video:publication_date>2025-09-21T22:00:59.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-09-29T22:00:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
