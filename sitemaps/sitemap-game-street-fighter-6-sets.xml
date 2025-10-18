@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgc-meetups-107/set/95145394/</loc>
-  <lastmod>2025-10-18T03:29:41.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838027/image-576f814fc774f538d22887811922c7d1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PCH | Earl vs YARUCREW | ZachInABox, FGC Meetups 107 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PCH | Earl vs YARUCREW | ZachInABox in Losers Quarter-Final of FGC Meetups 107, streamed by unrivaledtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594637106&amp;t=2h30m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1408</video:duration>
-    <video:publication_date>2025-10-18T03:29:41.000Z</video:publication_date>
-    <video:uploader>unrivaledtournaments</video:uploader>
-    <video:expiration_date>2025-10-26T03:29:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-95/set/95144784/</loc>
-  <lastmod>2025-10-18T03:35:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-18T03:59:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2594707643&amp;t=1h8m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1039</video:duration>
+    <video:duration>506</video:duration>
     <video:publication_date>2025-10-18T03:35:50.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-10-26T03:35:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgc-meetups-107/set/95145394/</loc>
+  <lastmod>2025-10-18T03:59:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838027/image-576f814fc774f538d22887811922c7d1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PCH | Earl vs YARUCREW | ZachInABox, FGC Meetups 107 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PCH | Earl vs YARUCREW | ZachInABox in Losers Quarter-Final of FGC Meetups 107, streamed by unrivaledtournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594637106&amp;t=2h30m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>700</video:duration>
+    <video:publication_date>2025-10-18T03:29:41.000Z</video:publication_date>
+    <video:uploader>unrivaledtournaments</video:uploader>
+    <video:expiration_date>2025-10-26T03:29:41.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
