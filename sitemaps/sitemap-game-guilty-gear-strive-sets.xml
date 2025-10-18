@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-force-1/set/95190892/</loc>
-  <lastmod>2025-10-18T21:48:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-force-1/set/95190879/</loc>
+  <lastmod>2025-10-18T22:18:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839458/image-6ab236ac60acd12756aa4d33f8e88664.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      COMO | Env3lop vs GanonDegenerate, Fight Force 1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch COMO | Env3lop vs GanonDegenerate in Grand Final Reset of Fight Force 1, streamed by iR3mmy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595121909&amp;t=6h25m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>726</video:duration>
+    <video:publication_date>2025-10-18T22:18:28.000Z</video:publication_date>
+    <video:uploader>iR3mmy</video:uploader>
+    <video:expiration_date>2025-10-26T22:18:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-force-1/set/95190892/</loc>
+  <lastmod>2025-10-18T22:21:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595121909&amp;t=5h55m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1495</video:duration>
+    <video:duration>742</video:duration>
     <video:publication_date>2025-10-18T21:48:30.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2025-10-26T21:48:30.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-21T15:20:16.000Z</video:publication_date>
     <video:uploader>northofgalaxy</video:uploader>
     <video:expiration_date>2025-09-29T15:20:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/orbital-monthly-16-saison-1-road-to-mercury/set/94175335/</loc>
-  <lastmod>2025-09-21T15:12:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828233/image-96a740f9b525ff49798fe28850256bc1.png
-    </video:thumbnail_loc>
-    <video:title>
-      NTSC | Kisald vs MIDZ, Orbital Monthly #16 | Saison 1 : Road to Mercury - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NTSC | Kisald vs MIDZ in Losers Semi-Final of Orbital Monthly #16 | Saison 1 : Road to Mercury, streamed by northofgalaxy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572125748&amp;t=0h9m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1280</video:duration>
-    <video:publication_date>2025-09-21T14:48:43.000Z</video:publication_date>
-    <video:uploader>northofgalaxy</video:uploader>
-    <video:expiration_date>2025-09-29T14:48:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
