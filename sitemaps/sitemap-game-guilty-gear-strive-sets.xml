@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-10-18-25/set/95171707/</loc>
-  <lastmod>2025-10-18T18:01:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-10-18-25/set/95171678/</loc>
+  <lastmod>2025-10-18T18:18:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835452/image-be71298c370e84702f95a923a779644c.png
+    </video:thumbnail_loc>
+    <video:title>
+      SwimCheesy vs Severity, The Infinite Oasis 10/18/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SwimCheesy vs Severity in Winners Semi-Final of The Infinite Oasis 10/18/25, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595157244&amp;t=1h39m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1470</video:duration>
+    <video:publication_date>2025-10-18T18:18:56.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2025-10-26T18:18:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-10-18-25/set/95171707/</loc>
+  <lastmod>2025-10-18T18:30:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595157244&amp;t=1h22m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1083</video:duration>
+    <video:duration>502</video:duration>
     <video:publication_date>2025-10-18T18:01:27.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-10-26T18:01:27.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T21:05:21.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-09-28T21:05:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tournament-of-thrones-61/set/94132118/</loc>
-  <lastmod>2025-09-20T21:10:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820855/image-6ed208cd7b6df2d1761fa7f4f2d3588e.png
-    </video:thumbnail_loc>
-    <video:title>
-      NBP | RoseHashira vs NM, Tournament of Thrones 61 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NBP | RoseHashira vs NM in Winners Round 2 of Tournament of Thrones 61, streamed by Oakcityesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571352505&amp;t=3h26m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>651</video:duration>
-    <video:publication_date>2025-09-20T20:44:15.000Z</video:publication_date>
-    <video:uploader>Oakcityesports</video:uploader>
-    <video:expiration_date>2025-09-28T20:44:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
