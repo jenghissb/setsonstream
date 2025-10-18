@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-95/set/95149026/</loc>
-  <lastmod>2025-10-18T05:04:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-friday-october-17th-2025/set/95147904/</loc>
+  <lastmod>2025-10-18T05:42:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839294/image-74e98797f1f96c19653ddec01e5bdfcf.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cinco Sweets vs Kenmin, Colorado Mile High Burst Friday October 17th 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cinco Sweets vs Kenmin in Losers Final of Colorado Mile High Burst Friday October 17th 2025, streamed by akihabaraarcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594691950&amp;t=3h36m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>447</video:duration>
+    <video:publication_date>2025-10-18T05:42:19.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade</video:uploader>
+    <video:expiration_date>2025-10-26T05:42:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-95/set/95149026/</loc>
+  <lastmod>2025-10-18T05:45:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2594707643&amp;t=2h37m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1655</video:duration>
+    <video:duration>1719</video:duration>
     <video:publication_date>2025-10-18T05:04:37.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-10-26T05:04:37.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-24T02:33:55.000Z</video:publication_date>
     <video:uploader>FrankieG7Chi</video:uploader>
     <video:expiration_date>2025-10-02T02:33:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-68/set/94252081/</loc>
-  <lastmod>2025-09-24T02:57:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830340/image-283dbdd8873a0c517e9ab5d529851c98.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4 | chrisymandias vs Stachington, 4o4 by Sh33rZ: Street Fighter &amp; 2xKO #68 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4 | chrisymandias vs Stachington in Losers Quarter-Final of 4o4 by Sh33rZ: Street Fighter &amp; 2xKO #68, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574111690&amp;t=3h23m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>686</video:duration>
-    <video:publication_date>2025-09-24T02:31:07.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-10-02T02:31:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
