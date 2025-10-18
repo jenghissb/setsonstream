@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-201/set/95125795/</loc>
-  <lastmod>2025-10-17T23:19:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-201/set/95125799/</loc>
+  <lastmod>2025-10-18T00:29:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840316/image-9d68e7b9adbec147d4bc465f4b4920fa.png
+    </video:thumbnail_loc>
+    <video:title>
+      hazelnut vs Tiki, Smash Night at Prodigy #201 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hazelnut vs Tiki in Winners Semi-Final of Smash Night at Prodigy #201, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=hazelnutroa&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2175</video:duration>
+    <video:publication_date>2025-10-18T00:29:24.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2025-10-26T00:29:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-201/set/95125795/</loc>
+  <lastmod>2025-10-17T23:59:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2594554181&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1802</video:duration>
+    <video:duration>1108</video:duration>
     <video:publication_date>2025-10-17T23:19:53.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2025-10-25T23:19:53.000Z</video:expiration_date>
