@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sc-melee-pleasure-pizza-12/set/95143843/</loc>
+  <lastmod>2025-10-18T03:21:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841290/image-7cedc3572886325299774563a3d042f6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Wildo vs Flako, SC Melee @ Pleasure Pizza 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Wildo vs Flako in Winners Semi-Final of SC Melee @ Pleasure Pizza 12, streamed by cptwoodbeard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594692770&amp;t=1h13m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1401</video:duration>
+    <video:publication_date>2025-10-18T03:21:04.000Z</video:publication_date>
+    <video:uploader>cptwoodbeard</video:uploader>
+    <video:expiration_date>2025-10-26T03:21:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sdi-v-the-fall-of-rome/set/95133282/</loc>
   <lastmod>2025-10-18T03:05:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-23T03:07:08.000Z</video:publication_date>
     <video:uploader>aigoshiro</video:uploader>
     <video:expiration_date>2025-10-01T03:07:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-the-elm-22/set/94220181/</loc>
-  <lastmod>2025-09-23T03:11:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823067/image-7a7dd1a0469c80ec931487721b9f37e8.png
-    </video:thumbnail_loc>
-    <video:title>
-      22K vs HoG | BINGHI, Melee At The Elm #22 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 22K vs HoG | BINGHI in Losers Quarter-Final of Melee At The Elm #22, streamed by 22Kteam
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573223034&amp;t=5h4m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1341</video:duration>
-    <video:publication_date>2025-09-23T02:48:04.000Z</video:publication_date>
-    <video:uploader>22Kteam</video:uploader>
-    <video:expiration_date>2025-10-01T02:48:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
