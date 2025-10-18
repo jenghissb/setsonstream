@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-54-you-will-know-the-truth/set/95196431/</loc>
-  <lastmod>2025-10-18T22:02:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-54-you-will-know-the-truth/set/95202878/</loc>
+  <lastmod>2025-10-18T22:40:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831333/image-e8f1fb5d257601e1abf0fc961580a4f3.png
+    </video:thumbnail_loc>
+    <video:title>
+      bonfire10 vs THE BOIS | Arn255, Mass Madness 54 - You Will Know The Truth - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch bonfire10 vs THE BOIS | Arn255 in Winners Quarter-Final of Mass Madness 54 - You Will Know The Truth, streamed by GameUnderground
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595333142&amp;t=2h35m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>611</video:duration>
+    <video:publication_date>2025-10-18T22:40:01.000Z</video:publication_date>
+    <video:uploader>GameUnderground</video:uploader>
+    <video:expiration_date>2025-10-26T22:40:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-54-you-will-know-the-truth/set/95196431/</loc>
+  <lastmod>2025-10-18T22:42:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595333142&amp;t=1h57m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2363</video:duration>
+    <video:duration>1130</video:duration>
     <video:publication_date>2025-10-18T22:02:14.000Z</video:publication_date>
     <video:uploader>GameUnderground</video:uploader>
     <video:expiration_date>2025-10-26T22:02:14.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-25T01:50:33.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2025-10-03T01:50:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-9-24-25/set/94273352/</loc>
-  <lastmod>2025-09-25T02:19:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823661/image-042957b1c4eb4bbb1e86e83dd9cbb65e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Visual Cortex | w/ how I got 2 corny yuh vs Evil Watch, One Up Melee 9.24.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Visual Cortex | w/ how I got 2 corny yuh vs Evil Watch in Losers Final of One Up Melee 9.24.25, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574956735&amp;t=2h19m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1101</video:duration>
-    <video:publication_date>2025-09-25T01:41:22.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2025-10-03T01:41:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
