@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kowloon-17/set/95153333/</loc>
-  <lastmod>2025-10-18T07:26:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cheese-league-october-2025-1/set/95153084/</loc>
+  <lastmod>2025-10-18T07:40:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837976/image-76a91408fed5add18ed0da0e55f9451c.png
+    </video:thumbnail_loc>
+    <video:title>
+      JamieBayo vs yellow, Cheese League October 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JamieBayo vs yellow in Winners Final of Cheese League October 2025, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594771056&amp;t=3h41m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>567</video:duration>
+    <video:publication_date>2025-10-18T07:40:26.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-10-26T07:40:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kowloon-17/set/95153333/</loc>
+  <lastmod>2025-10-18T07:44:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/DNmoTFVdzKo?start=21369s
     </video:player_loc>
-    <video:duration>680</video:duration>
+    <video:duration>852</video:duration>
     <video:publication_date>2025-10-18T07:26:02.000Z</video:publication_date>
     <video:uploader>Westerlies Gaming(旧スマブラオフ大会配信チャンネル)</video:uploader>
     <video:expiration_date>2025-10-26T07:26:02.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-08T01:08:24.000Z</video:publication_date>
     <video:uploader>aka_ingmar</video:uploader>
     <video:expiration_date>2025-10-16T01:08:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cfg-tuesday-trials-209-i-m-so-ichi/set/94769396/</loc>
-  <lastmod>2025-10-08T01:47:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837455/image-abf19ada9ec91bb49ac0acf5ee731569.png
-    </video:thumbnail_loc>
-    <video:title>
-      Phirb&apos;s Friend | Lombardi vs ScR | SpaceMiner, CFG Tuesday Trials 209: I&apos;m So Ichi! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Phirb&apos;s Friend | Lombardi vs ScR | SpaceMiner in Winners Final of CFG Tuesday Trials 209: I&apos;m So Ichi!, streamed by quagglesz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585915350&amp;t=2h17m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2134</video:duration>
-    <video:publication_date>2025-10-08T01:07:21.000Z</video:publication_date>
-    <video:uploader>quagglesz</video:uploader>
-    <video:expiration_date>2025-10-16T01:07:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
