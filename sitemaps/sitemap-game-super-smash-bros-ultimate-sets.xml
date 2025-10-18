@@ -18,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/HBtKHfKio58?start=23091s
     </video:player_loc>
-    <video:duration>890</video:duration>
+    <video:duration>1768</video:duration>
     <video:publication_date>2025-10-18T08:59:53.000Z</video:publication_date>
     <video:uploader>九龍-KOWLOON-</video:uploader>
     <video:expiration_date>2025-10-26T08:59:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-palmanyola-4/set/95108008/</loc>
+  <lastmod>2025-10-18T09:10:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832547/image-fa0eb72730c5f41c285525991f0314ca.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      WT | Linnayru vs Wise Team | Zennos, Smash Palmanyola #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WT | Linnayru vs Wise Team | Zennos in Winners Round 1 of Smash Palmanyola #4, streamed by smashbrosmallorca
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594904046&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1103</video:duration>
+    <video:publication_date>2025-10-18T09:10:58.000Z</video:publication_date>
+    <video:uploader>smashbrosmallorca</video:uploader>
+    <video:expiration_date>2025-10-26T09:10:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-08T01:23:50.000Z</video:publication_date>
     <video:uploader>SFUSMASH</video:uploader>
     <video:expiration_date>2025-10-16T01:23:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/zouffle-vortex-1/set/94779358/</loc>
-  <lastmod>2025-10-08T01:40:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834168/image-d11723edbfedea87a8d760a7cb31faf6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jeckup vs Tam, Zouffle Vortex #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jeckup vs Tam in Winners Quarter-Final of Zouffle Vortex #1, streamed by zouffle
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585951330&amp;t=1h46m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>788</video:duration>
-    <video:publication_date>2025-10-08T01:21:20.000Z</video:publication_date>
-    <video:uploader>zouffle</video:uploader>
-    <video:expiration_date>2025-10-16T01:21:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
