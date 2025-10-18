@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-6-the-last-one-of-the-year/set/95159212/</loc>
-  <lastmod>2025-10-18T12:37:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-6-the-last-one-of-the-year/set/95159601/</loc>
+  <lastmod>2025-10-18T13:01:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827890/image-cc0b1212b432cba7eeb47beeb575e947.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rose vs Kennocide, SLAM 6 - The Last One (of the year) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rose vs Kennocide in Round 5 of SLAM 6 - The Last One (of the year), streamed by TheSuperSamCraft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594966931&amp;t=1h12m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1499</video:duration>
+    <video:publication_date>2025-10-18T13:01:45.000Z</video:publication_date>
+    <video:uploader>TheSuperSamCraft</video:uploader>
+    <video:expiration_date>2025-10-26T13:01:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-6-the-last-one-of-the-year/set/95159212/</loc>
+  <lastmod>2025-10-18T13:09:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2594966931&amp;t=0h48m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1355</video:duration>
+    <video:duration>678</video:duration>
     <video:publication_date>2025-10-18T12:37:26.000Z</video:publication_date>
     <video:uploader>TheSuperSamCraft</video:uploader>
     <video:expiration_date>2025-10-26T12:37:26.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-23T18:58:48.000Z</video:publication_date>
     <video:uploader>Jaysotee</video:uploader>
     <video:expiration_date>2025-10-01T18:58:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/provisional-the-fighting-cocks-melee-biweekly/set/94237384/</loc>
-  <lastmod>2025-09-23T18:48:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830092/image-da89430d2ed5d7931f32ba16d48d8c75.png
-    </video:thumbnail_loc>
-    <video:title>
-      Matt Masterman vs Walsall Gaming | Tom?, Provisional &quot;The Fighting Cocks&quot; Melee Biweekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Matt Masterman vs Walsall Gaming | Tom? in Winners Quarter-Final of Provisional &quot;The Fighting Cocks&quot; Melee Biweekly, streamed by Jaysotee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573905570&amp;t=0h3m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>571</video:duration>
-    <video:publication_date>2025-09-23T18:27:42.000Z</video:publication_date>
-    <video:uploader>Jaysotee</video:uploader>
-    <video:expiration_date>2025-10-01T18:27:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
