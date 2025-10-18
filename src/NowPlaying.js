@@ -8,7 +8,7 @@ import { renderFilterButton } from './FilterButton.js'
 import { Link } from 'react-router-dom';
 import { BracketIcon } from './SubEmbedControls.js'
 
-export const NowPlaying = memo(({minimal, extraOnSide, setShowBracket, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
+export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBracket, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
   const extraInCol = !extraOnSide
   var preview = null
   var divClass = "nowPlaying-set-row-1"
@@ -98,7 +98,7 @@ export const NowPlaying = memo(({minimal, extraOnSide, setShowBracket, setShowFi
   const streamIcon = item.streamInfo.streamIcon
   //          <a href={item.player1Info.entrantUrl} target="_blank" className={player1NameClass}>{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className={player2NameClass}>{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
 
-  const backgroundImageStyle = extraInCol ? {
+  const backgroundImageStyle = (showExtra && extraInCol) ? {
           backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl2})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
@@ -141,7 +141,7 @@ export const NowPlaying = memo(({minimal, extraOnSide, setShowBracket, setShowFi
           </div>
           {/* {renderFilterButton(filterInfo, () => setShowFilterModal(true))} */}
         </div>
-        {  extraInCol &&
+        { showExtra && extraInCol &&
             <div className="nowPlaying-segment2-row1">
               <span className="nowPlaying-segment2-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span>
               <div className="nowPlaying-segment2-tourney-timestamp"><span className='nowPlaying-t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
@@ -149,8 +149,8 @@ export const NowPlaying = memo(({minimal, extraOnSide, setShowBracket, setShowFi
             </div>
           
         }
-        {extraInCol && streamButton}
-        {extraInCol &&
+        { showExtra && extraInCol && streamButton}
+        { showExtra && extraInCol &&
           <div className="nowPlaying-set-row-2">
             <div className="nowPlaying-icons-row">
               <a href={item.bracketInfo.phaseGroupUrl} target="_blank" className="nowPlaying-bracketLink"><div className="nowPlaying-icons-row-icon"><IconStartGg width={18} height={18}/></div></a>
@@ -162,14 +162,14 @@ export const NowPlaying = memo(({minimal, extraOnSide, setShowBracket, setShowFi
             </div>
           </div>
         }
-        { extraInCol && hasScore && <span className="nowPlaying-scoreText">
+        { showExtra && extraInCol && hasScore && <span className="nowPlaying-scoreText">
             <span className={score1Class}>{score[0]}</span>
             <span className={score2Class}>{score[1]}</span>
           </span>
         }        
       </div>
     </div>
-    {extraOnSide &&
+    { showExtra && extraOnSide &&
       <div className="nowPlaying-segment2"  style={{
       backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl2})`,
       backgroundSize: "cover",
