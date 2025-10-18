@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-october-2025/set/95182666/</loc>
-  <lastmod>2025-10-18T21:00:45.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-october-2025/set/95194820/</loc>
+  <lastmod>2025-10-18T21:30:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826286/image-565b8455f3191a37e0aa8d24bd6906ce.png
+    </video:thumbnail_loc>
+    <video:title>
+      bloodfalcn vs The Block | ArmoredDeath, Space City Beatdown - October 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch bloodfalcn vs The Block | ArmoredDeath in Losers Round 1 of Space City Beatdown - October 2025, streamed by TXShowdownLive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595325812&amp;t=1h34m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>330</video:duration>
+    <video:publication_date>2025-10-18T21:30:59.000Z</video:publication_date>
+    <video:uploader>TXShowdownLive</video:uploader>
+    <video:expiration_date>2025-10-26T21:30:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-october-2025/set/95182666/</loc>
+  <lastmod>2025-10-18T21:32:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595286608&amp;t=1h51m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1555</video:duration>
+    <video:duration>1021</video:duration>
     <video:publication_date>2025-10-18T21:00:45.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-10-26T21:00:45.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-27T00:45:57.000Z</video:publication_date>
     <video:uploader>SBU Smash</video:uploader>
     <video:expiration_date>2025-10-05T00:45:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sbu-wolfie-wars-57/set/94340484/</loc>
-  <lastmod>2025-09-27T00:47:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833836/image-2d2e583717f3ce85617655f89c70227b.png
-    </video:thumbnail_loc>
-    <video:title>
-      SBU | Falke vs SBU | JetFire, SBU Wolfie Wars 57 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SBU | Falke vs SBU | JetFire in Losers Round 1 of SBU Wolfie Wars 57, streamed by SBU Smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/rxYpGgcCvBI?start=3830s
-    </video:player_loc>
-    <video:duration>312</video:duration>
-    <video:publication_date>2025-09-27T00:05:20.000Z</video:publication_date>
-    <video:uploader>SBU Smash</video:uploader>
-    <video:expiration_date>2025-10-05T00:05:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
