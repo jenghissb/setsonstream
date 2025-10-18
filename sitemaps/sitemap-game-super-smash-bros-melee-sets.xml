@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-6-the-last-one-of-the-year/set/95159204/</loc>
+  <lastmod>2025-10-18T12:00:42.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/827890/image-cc0b1212b432cba7eeb47beeb575e947.png
+    </video:thumbnail_loc>
+    <video:title>
+      INSIM | Sky vs o o z e, SLAM 6 - The Last One (of the year) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch INSIM | Sky vs o o z e in Round 1 of SLAM 6 - The Last One (of the year), streamed by TheSuperSamCraft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594966931&amp;t=0h11m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1629</video:duration>
+    <video:publication_date>2025-10-18T12:00:42.000Z</video:publication_date>
+    <video:uploader>TheSuperSamCraft</video:uploader>
+    <video:expiration_date>2025-10-26T12:00:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battlegateway/set/95151125/</loc>
   <lastmod>2025-10-18T07:26:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-23T06:14:22.000Z</video:publication_date>
     <video:uploader>aigoshiro</video:uploader>
     <video:expiration_date>2025-10-01T06:14:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-25/set/94229323/</loc>
-  <lastmod>2025-09-23T06:31:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831497/image-05ca250319eb903ffe9a51dee3558f5a.png
-    </video:thumbnail_loc>
-    <video:title>
-      teccskill | nut vs y-hat, McCloud&apos;s Melee Co. #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch teccskill | nut vs y-hat in Losers Final of McCloud&apos;s Melee Co. #25, streamed by verylocalmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573425218&amp;t=3h48m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>994</video:duration>
-    <video:publication_date>2025-09-23T06:05:29.000Z</video:publication_date>
-    <video:uploader>verylocalmelee</video:uploader>
-    <video:expiration_date>2025-10-01T06:05:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
