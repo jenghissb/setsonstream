@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-10-18-25/set/95186130/</loc>
-  <lastmod>2025-10-18T20:27:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-10-18-25/set/95186101/</loc>
+  <lastmod>2025-10-18T20:52:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835452/image-be71298c370e84702f95a923a779644c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dame Yen vs Auko, The Infinite Oasis 10/18/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dame Yen vs Auko in Winners Semi-Final of The Infinite Oasis 10/18/25, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595157244&amp;t=4h12m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1230</video:duration>
+    <video:publication_date>2025-10-18T20:52:13.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2025-10-26T20:52:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-10-18-25/set/95186130/</loc>
+  <lastmod>2025-10-18T21:07:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595157244&amp;t=3h47m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1347</video:duration>
+    <video:duration>914</video:duration>
     <video:publication_date>2025-10-18T20:27:10.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-10-26T20:27:10.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-16T17:47:11.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-08-24T17:47:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/pressure-point-2025/set/92733337/</loc>
-  <lastmod>2025-08-16T17:38:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/735490/image-959a0c29dbacb4e972f4316dda224bc2.png?ehk=cTOv7rPFAgP94456cZr8hokOkHgVfVAo2M3JMUw%2Fwn8%3D&amp;ehkOptimized=TsW8%2Bvv7UOYsHqMaPKoLmHmhPX6DIOsoW12FzdREmoA%3D
-    </video:thumbnail_loc>
-    <video:title>
-      EDLN | DanteRebellionX vs nemi, Pressure Point 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDLN | DanteRebellionX vs nemi in Round 5 of Pressure Point 2025, streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2541713661&amp;t=0h50m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>750</video:duration>
-    <video:publication_date>2025-08-16T17:14:31.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2025-08-24T17:14:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
