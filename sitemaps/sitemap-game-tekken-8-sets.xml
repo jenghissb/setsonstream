@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/king-s-cup-38-friday-october-17th/set/95146721/</loc>
-  <lastmod>2025-10-18T06:27:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/geek-pop-fight-club-ranker-event-4/set/95152949/</loc>
+  <lastmod>2025-10-18T06:41:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/829431/image-d7d4833ea1f5ecd6b5431c5e62fd7744.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RICHIEBRIAN vs GOFC | LK | Kitasan Black, Geek+Pop Fight Club Ranker Event 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RICHIEBRIAN vs GOFC | LK | Kitasan Black in Winners Semi-Final of Geek+Pop Fight Club Ranker Event 4, streamed by geekpopfightclub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=geekpopfightclub&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>784</video:duration>
+    <video:publication_date>2025-10-18T06:41:11.000Z</video:publication_date>
+    <video:uploader>geekpopfightclub</video:uploader>
+    <video:expiration_date>2025-10-26T06:41:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/king-s-cup-38-friday-october-17th/set/95146721/</loc>
+  <lastmod>2025-10-18T06:47:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2594727464&amp;t=3h32m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1091</video:duration>
+    <video:duration>343</video:duration>
     <video:publication_date>2025-10-18T06:27:14.000Z</video:publication_date>
     <video:uploader>starrfazedx</video:uploader>
     <video:expiration_date>2025-10-26T06:27:14.000Z</video:expiration_date>
