@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-10-18-25/set/95186101/</loc>
-  <lastmod>2025-10-18T20:52:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-10-18-25/set/95186102/</loc>
+  <lastmod>2025-10-18T21:28:54.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835452/image-be71298c370e84702f95a923a779644c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Curry vs Auko, The Infinite Oasis 10/18/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Curry vs Auko in Winners Final of The Infinite Oasis 10/18/25, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595157244&amp;t=4h49m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1236</video:duration>
+    <video:publication_date>2025-10-18T21:28:54.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2025-10-26T21:28:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-10-18-25/set/95186101/</loc>
+  <lastmod>2025-10-18T21:37:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595157244&amp;t=4h12m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2656</video:duration>
+    <video:duration>940</video:duration>
     <video:publication_date>2025-10-18T20:52:13.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-10-26T20:52:13.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-16T17:53:34.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2025-08-24T17:53:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/attack-on-texas-3/set/92732299/</loc>
-  <lastmod>2025-08-16T18:17:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/787180/image-4a1392ebc8fba4e10b664a1ded7ac392.png
-    </video:thumbnail_loc>
-    <video:title>
-      LIVE LAUGH LONATHAN vs Hazure, ATTACK ON TEXAS 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LIVE LAUGH LONATHAN vs Hazure in Losers Quarter-Final of ATTACK ON TEXAS 3, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2541706220&amp;t=1h34m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>597</video:duration>
-    <video:publication_date>2025-08-16T17:47:11.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2025-08-24T17:47:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
