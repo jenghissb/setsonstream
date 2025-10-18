@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-10-18-25/set/95171711/</loc>
+  <lastmod>2025-10-18T19:13:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835452/image-be71298c370e84702f95a923a779644c.png
+    </video:thumbnail_loc>
+    <video:title>
+      sillyfedd vs DNBcool, The Infinite Oasis 10/18/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch sillyfedd vs DNBcool in Losers Semi-Final of The Infinite Oasis 10/18/25, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595157244&amp;t=2h34m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>585</video:duration>
+    <video:publication_date>2025-10-18T19:13:56.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2025-10-26T19:13:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-10-18-25/set/95171678/</loc>
   <lastmod>2025-10-18T18:53:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-20T21:31:17.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-09-28T21:31:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/saturday-trials-6-500-pot-bonuses/set/94123857/</loc>
-  <lastmod>2025-09-20T21:34:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/819011/image-2296202d7765826387cfd923d6517a90.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | Mangocopter vs 193 | Yemma, Saturday Trials 6 ($500+ Pot Bonuses) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | Mangocopter vs 193 | Yemma in Losers Round 4 of Saturday Trials 6 ($500+ Pot Bonuses), streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571439339&amp;t=2h5m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>970</video:duration>
-    <video:publication_date>2025-09-20T21:05:21.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-09-28T21:05:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
