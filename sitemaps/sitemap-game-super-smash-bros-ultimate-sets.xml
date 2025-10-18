@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/DNmoTFVdzKo?start=20156s
     </video:player_loc>
-    <video:duration>491</video:duration>
+    <video:duration>1318</video:duration>
     <video:publication_date>2025-10-18T07:05:49.000Z</video:publication_date>
     <video:uploader>Westerlies Gaming(旧スマブラオフ大会配信チャンネル)</video:uploader>
     <video:expiration_date>2025-10-26T07:05:49.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kowloon-17/set/95153301/</loc>
-  <lastmod>2025-10-18T06:59:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kowloon-17/set/95153331/</loc>
+  <lastmod>2025-10-18T07:19:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/824661/image-084046a4a09469c7467a52b30df0a2da.png
+    </video:thumbnail_loc>
+    <video:title>
+      JY vs トミトミ(tomitomi), 九龍-KOWLOON-#17 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JY vs トミトミ(tomitomi) in Losers Round 2 of 九龍-KOWLOON-#17, streamed by 九龍-KOWLOON-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/HBtKHfKio58?start=17095s
+    </video:player_loc>
+    <video:duration>470</video:duration>
+    <video:publication_date>2025-10-18T07:19:57.000Z</video:publication_date>
+    <video:uploader>九龍-KOWLOON-</video:uploader>
+    <video:expiration_date>2025-10-26T07:19:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kowloon-17/set/95153301/</loc>
+  <lastmod>2025-10-18T07:22:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/HBtKHfKio58?start=15861s
     </video:player_loc>
-    <video:duration>877</video:duration>
+    <video:duration>1209</video:duration>
     <video:publication_date>2025-10-18T06:59:23.000Z</video:publication_date>
     <video:uploader>九龍-KOWLOON-</video:uploader>
     <video:expiration_date>2025-10-26T06:59:23.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-08T01:06:22.000Z</video:publication_date>
     <video:uploader>KMLtournaments</video:uploader>
     <video:expiration_date>2025-10-16T01:06:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magic-city-smash-133-1/set/94776284/</loc>
-  <lastmod>2025-10-08T01:28:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837211/image-49f62f3e6a1276984767bdcefe4da7a0.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sehbai vs FreeGC, Magic City Smash #133 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sehbai vs FreeGC in Winners Round 3 of Magic City Smash #133, streamed by UABSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585982920&amp;t=0h52m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1189</video:duration>
-    <video:publication_date>2025-10-08T01:04:58.000Z</video:publication_date>
-    <video:uploader>UABSmash</video:uploader>
-    <video:expiration_date>2025-10-16T01:04:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
