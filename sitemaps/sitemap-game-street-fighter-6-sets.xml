@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-3/set/95158593/</loc>
-  <lastmod>2025-10-18T12:07:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-3/set/95158623/</loc>
+  <lastmod>2025-10-18T12:42:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838526/image-5c5b455ee6f53fb4cac73a3735e5a685.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sagres vs den7ee (Dente), Fight-or-Fright! #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sagres vs den7ee (Dente) in Losers Quarter-Final of Fight-or-Fright! #3, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2594950822&amp;t=1h27m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1079</video:duration>
+    <video:publication_date>2025-10-18T12:42:02.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2025-10-26T12:42:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-3/set/95158593/</loc>
+  <lastmod>2025-10-18T12:35:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2594950822&amp;t=0h52m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1245</video:duration>
+    <video:duration>887</video:duration>
     <video:publication_date>2025-10-18T12:07:06.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2025-10-26T12:07:06.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-25T00:13:44.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2025-10-03T00:13:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/stun-city-09-24-2025-sf6-t8-casuals/set/94272557/</loc>
-  <lastmod>2025-09-25T00:21:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832084/image-520a1963f023578e47d2f30437161a06.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zatarra vs fent brick, Stun City 09/24/2025 - SF6 &amp; T8 + Casuals - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zatarra vs fent brick in Winners Quarter-Final of Stun City 09/24/2025 - SF6 &amp; T8 + Casuals, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574953669&amp;t=0h37m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>417</video:duration>
-    <video:publication_date>2025-09-24T23:54:35.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2025-10-02T23:54:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
