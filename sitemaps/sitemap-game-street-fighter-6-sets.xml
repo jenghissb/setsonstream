@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-20-fgc-monthly/set/95247587/</loc>
-  <lastmod>2025-10-19T21:01:54.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-20-fgc-monthly/set/95247588/</loc>
+  <lastmod>2025-10-19T21:21:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838347/image-42704c2816f068a21dfbf0676601bceb.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rillo vs Player69, Summer Fox Smackdown 20! - FGC Monthly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rillo vs Player69 in Losers Semi-Final of Summer Fox Smackdown 20! - FGC Monthly, streamed by MNCSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596226879&amp;t=1h25m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>366</video:duration>
+    <video:publication_date>2025-10-19T21:21:25.000Z</video:publication_date>
+    <video:uploader>MNCSmash</video:uploader>
+    <video:expiration_date>2025-10-27T21:21:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-20-fgc-monthly/set/95247587/</loc>
+  <lastmod>2025-10-19T21:24:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2596226879&amp;t=1h5m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>672</video:duration>
+    <video:duration>517</video:duration>
     <video:publication_date>2025-10-19T21:01:54.000Z</video:publication_date>
     <video:uploader>MNCSmash</video:uploader>
     <video:expiration_date>2025-10-27T21:01:54.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-27T22:49:22.000Z</video:publication_date>
     <video:uploader>TheHieroGroup</video:uploader>
     <video:expiration_date>2025-10-05T22:49:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/juicy-monthly-september-27th-2025/set/94412653/</loc>
-  <lastmod>2025-09-27T22:56:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/811106/image-f4e198608fb667381aafedfa4d7b9a2c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      J#KER vs Goonz/iTT | GumByte, Juicy Monthly - September 27th, 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch J#KER vs Goonz/iTT | GumByte in Winners Semi-Final of Juicy Monthly - September 27th, 2025, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577310451&amp;t=3h55m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>680</video:duration>
-    <video:publication_date>2025-09-27T22:21:06.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2025-10-05T22:21:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
