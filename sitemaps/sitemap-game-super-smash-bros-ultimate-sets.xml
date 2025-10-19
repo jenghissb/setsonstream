@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595848917&amp;t=0h5m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>489</video:duration>
+    <video:duration>1259</video:duration>
     <video:publication_date>2025-10-19T11:03:31.000Z</video:publication_date>
     <video:uploader>northofgalaxy</video:uploader>
     <video:expiration_date>2025-10-27T11:03:31.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227608/</loc>
-  <lastmod>2025-10-19T10:50:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227606/</loc>
+  <lastmod>2025-10-19T11:13:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837218/image-6750983f3aee5029592e7c765be66f02.png
+    </video:thumbnail_loc>
+    <video:title>
+      Climax vs Fyze, Dehscension XXXVII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Climax vs Fyze in Winners Quarter-Final of Dehscension XXXVII, streamed by ToSmash_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595820125&amp;t=1h26m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>661</video:duration>
+    <video:publication_date>2025-10-19T11:13:29.000Z</video:publication_date>
+    <video:uploader>ToSmash_</video:uploader>
+    <video:expiration_date>2025-10-27T11:13:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227608/</loc>
+  <lastmod>2025-10-19T11:11:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595820125&amp;t=1h3m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1256</video:duration>
+    <video:duration>1019</video:duration>
     <video:publication_date>2025-10-19T10:50:44.000Z</video:publication_date>
     <video:uploader>ToSmash_</video:uploader>
     <video:expiration_date>2025-10-27T10:50:44.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-09T23:12:06.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-10-17T23:12:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/salt-water-smash-353/set/94825273/</loc>
-  <lastmod>2025-10-09T23:22:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838439/image-ea3dd07cab81f18051e690ba09b3cf51.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kerb vs Liro, Salt Water Smash 353 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kerb vs Liro in Round 5 of Salt Water Smash 353, streamed by SmashNL_2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2587558183&amp;t=1h14m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>784</video:duration>
-    <video:publication_date>2025-10-09T23:06:00.000Z</video:publication_date>
-    <video:uploader>SmashNL_2</video:uploader>
-    <video:expiration_date>2025-10-17T23:06:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
