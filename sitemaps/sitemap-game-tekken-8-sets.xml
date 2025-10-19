@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/paradise-game-battle-2025/set/95230421/</loc>
-  <lastmod>2025-10-19T16:35:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/paradise-game-battle-2025/set/95230406/</loc>
+  <lastmod>2025-10-19T16:52:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/771944/image-5b3b69a98a5d63b06841022356f1321a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      QAD | THE JON vs Mirage | Gosain, Paradise Game Battle 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch QAD | THE JON vs Mirage | Gosain in Grand Final of Paradise Game Battle 2025, streamed by Tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596013370&amp;t=1h20m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1197</video:duration>
+    <video:publication_date>2025-10-19T16:52:33.000Z</video:publication_date>
+    <video:uploader>Tekken</video:uploader>
+    <video:expiration_date>2025-10-27T16:52:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/paradise-game-battle-2025/set/95230421/</loc>
+  <lastmod>2025-10-19T17:04:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2596013370&amp;t=1h2m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>940</video:duration>
+    <video:duration>900</video:duration>
     <video:publication_date>2025-10-19T16:35:09.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-10-27T16:35:09.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-28T01:48:37.000Z</video:publication_date>
     <video:uploader>Ugk4life</video:uploader>
     <video:expiration_date>2025-10-06T01:48:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-monthly-september-27th-2025/set/94434828/</loc>
-  <lastmod>2025-09-28T02:15:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/811106/image-f4e198608fb667381aafedfa4d7b9a2c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Plum vs A.M.L, Juicy Monthly - September 27th, 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Plum vs A.M.L in Losers Quarter-Final of Juicy Monthly - September 27th, 2025, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577310451&amp;t=7h18m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>620</video:duration>
-    <video:publication_date>2025-09-28T01:44:27.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2025-10-06T01:44:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
