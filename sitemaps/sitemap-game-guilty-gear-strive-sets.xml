@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sunday-night-fights-vol-50/set/95245498/</loc>
+  <lastmod>2025-10-19T20:12:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840740/image-cb5910fa6ca294b9831e9003db7cfe4f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Chimpo383 vs !liz | Allen, Sunday Night Fights Vol.50 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chimpo383 vs !liz | Allen in Losers Quarter-Final of Sunday Night Fights Vol.50, streamed by magik4fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596207503&amp;t=0h41m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1557</video:duration>
+    <video:publication_date>2025-10-19T20:12:13.000Z</video:publication_date>
+    <video:uploader>magik4fgc</video:uploader>
+    <video:expiration_date>2025-10-27T20:12:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rebloch-arena-33/set/95231858/</loc>
   <lastmod>2025-10-19T15:44:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-22T20:11:07.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2025-09-30T20:11:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/toulouse-fighting-monday-61/set/94212750/</loc>
-  <lastmod>2025-09-22T20:13:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824327/image-89fa4ae94e1df060cf40d4e33c7aaad8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TVSF | Shun vs TFZ | KoSm, Toulouse Fighting Monday 61 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TVSF | Shun vs TFZ | KoSm in Winners Final of Toulouse Fighting Monday 61, streamed by toulousevsfighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573066633&amp;t=1h46m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>463</video:duration>
-    <video:publication_date>2025-09-22T19:48:14.000Z</video:publication_date>
-    <video:uploader>toulousevsfighters</video:uploader>
-    <video:expiration_date>2025-09-30T19:48:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
