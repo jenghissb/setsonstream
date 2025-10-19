@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rebloch-arena-33/set/95228538/</loc>
+  <lastmod>2025-10-19T11:28:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828876/image-fbaf79b93e81095f2907b51dd7e33176.png
+    </video:thumbnail_loc>
+    <video:title>
+      SSY | Krisy vs Hatary, Rebloch&apos;arena #33 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SSY | Krisy vs Hatary in Winners Quarter-Final of Rebloch&apos;arena #33, streamed by supersmashyaute
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595809152&amp;t=2h10m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1269</video:duration>
+    <video:publication_date>2025-10-19T11:28:25.000Z</video:publication_date>
+    <video:uploader>supersmashyaute</video:uploader>
+    <video:expiration_date>2025-10-27T11:28:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/portland-retro-gaming-expo-2025-fighting-games/set/95221420/</loc>
   <lastmod>2025-10-19T04:11:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-27T21:14:59.000Z</video:publication_date>
     <video:uploader>nrettg</video:uploader>
     <video:expiration_date>2025-10-05T21:14:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/thg-arena-monthly-7/set/94409008/</loc>
-  <lastmod>2025-09-27T21:52:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824364/image-f2b8050f970a0cfd491c2ca9c3d1d65d.png
-    </video:thumbnail_loc>
-    <video:title>
-      THG | Ludovic vs THG | Shinku 101, THG Arena Monthly 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch THG | Ludovic vs THG | Shinku 101 in Winners Quarter-Final of THG Arena Monthly 7, streamed by TheHieroGroup
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577404187&amp;t=0h57m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>445</video:duration>
-    <video:publication_date>2025-09-27T21:13:55.000Z</video:publication_date>
-    <video:uploader>TheHieroGroup</video:uploader>
-    <video:expiration_date>2025-10-05T21:13:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
