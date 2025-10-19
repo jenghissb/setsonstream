@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227598/</loc>
-  <lastmod>2025-10-19T10:04:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227600/</loc>
+  <lastmod>2025-10-19T10:35:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837218/image-6750983f3aee5029592e7c765be66f02.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fyze vs Paciurio, Dehscension XXXVII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fyze vs Paciurio in Winners Round 1 of Dehscension XXXVII, streamed by ToSmash_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595820125&amp;t=0h48m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>813</video:duration>
+    <video:publication_date>2025-10-19T10:35:40.000Z</video:publication_date>
+    <video:uploader>ToSmash_</video:uploader>
+    <video:expiration_date>2025-10-27T10:35:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227598/</loc>
+  <lastmod>2025-10-19T10:35:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595820125&amp;t=0h16m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1731</video:duration>
+    <video:duration>1791</video:duration>
     <video:publication_date>2025-10-19T10:04:00.000Z</video:publication_date>
     <video:uploader>ToSmash_</video:uploader>
     <video:expiration_date>2025-10-27T10:04:00.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-09T23:02:12.000Z</video:publication_date>
     <video:uploader>SectorXGaming</video:uploader>
     <video:expiration_date>2025-10-17T23:02:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bar-fight-at-howard-station-157/set/94824636/</loc>
-  <lastmod>2025-10-09T23:15:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837356/image-91db83ba90c4e0015dc3ba57beabc7b5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nanoir vs HWNT | Sweet TeaS, Bar Fight! at Howard Station #157 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nanoir vs HWNT | Sweet TeaS in Grand Final of Bar Fight! at Howard Station #157, streamed by Boone_Smashes
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2587536976&amp;t=1h37m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>994</video:duration>
-    <video:publication_date>2025-10-09T22:57:07.000Z</video:publication_date>
-    <video:uploader>Boone_Smashes</video:uploader>
-    <video:expiration_date>2025-10-17T22:57:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
