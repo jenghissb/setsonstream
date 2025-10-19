@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-20-fgc-monthly/set/95247570/</loc>
-  <lastmod>2025-10-19T20:36:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-20-fgc-monthly/set/95247587/</loc>
+  <lastmod>2025-10-19T21:01:54.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838347/image-42704c2816f068a21dfbf0676601bceb.png
+    </video:thumbnail_loc>
+    <video:title>
+      Player69 vs MattLocke, Summer Fox Smackdown 20! - FGC Monthly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Player69 vs MattLocke in Losers Quarter-Final of Summer Fox Smackdown 20! - FGC Monthly, streamed by MNCSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596226879&amp;t=1h5m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>672</video:duration>
+    <video:publication_date>2025-10-19T21:01:54.000Z</video:publication_date>
+    <video:uploader>MNCSmash</video:uploader>
+    <video:expiration_date>2025-10-27T21:01:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-20-fgc-monthly/set/95247570/</loc>
+  <lastmod>2025-10-19T21:03:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2596226879&amp;t=0h40m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>786</video:duration>
+    <video:duration>541</video:duration>
     <video:publication_date>2025-10-19T20:36:48.000Z</video:publication_date>
     <video:uploader>MNCSmash</video:uploader>
     <video:expiration_date>2025-10-27T20:36:48.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-27T22:21:06.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2025-10-05T22:21:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fits-6-sf6-monthly/set/94422505/</loc>
-  <lastmod>2025-09-27T22:56:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824880/image-e6f0fd61856c2cd147c9c726de277c45.png
-    </video:thumbnail_loc>
-    <video:title>
-      foxyfarhad vs FitS | Gojira, FITS #6 - SF6 Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch foxyfarhad vs FitS | Gojira in Winners Round 1 of FITS #6 - SF6 Monthly, streamed by studysessionlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577401335&amp;t=2h7m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>936</video:duration>
-    <video:publication_date>2025-09-27T22:19:27.000Z</video:publication_date>
-    <video:uploader>studysessionlive</video:uploader>
-    <video:expiration_date>2025-10-05T22:19:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

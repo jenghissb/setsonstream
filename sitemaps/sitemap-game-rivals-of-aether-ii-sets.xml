@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/muravi-games-house-of-aether-bi-weeklies-2/set/95244895/</loc>
-  <lastmod>2025-10-19T20:27:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/muravi-games-house-of-aether-bi-weeklies-2/set/95244897/</loc>
+  <lastmod>2025-10-19T20:38:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837435/image-d5cb01630d48404d15cf7e583fd44a49.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      IFF | Excel Zero vs MR | Tabian, Muravi Games: House of Aether Bi-Weeklies #2! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IFF | Excel Zero vs MR | Tabian in Winners Semi-Final of Muravi Games: House of Aether Bi-Weeklies #2!, streamed by Muravi
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596211341&amp;t=1h3m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2059</video:duration>
+    <video:publication_date>2025-10-19T20:38:47.000Z</video:publication_date>
+    <video:uploader>Muravi</video:uploader>
+    <video:expiration_date>2025-10-27T20:38:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/muravi-games-house-of-aether-bi-weeklies-2/set/95244895/</loc>
+  <lastmod>2025-10-19T20:52:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2596211341&amp;t=0h52m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1339</video:duration>
+    <video:duration>658</video:duration>
     <video:publication_date>2025-10-19T20:27:35.000Z</video:publication_date>
     <video:uploader>Muravi</video:uploader>
     <video:expiration_date>2025-10-27T20:27:35.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-27T19:40:20.000Z</video:publication_date>
     <video:uploader>dunkdojogaming</video:uploader>
     <video:expiration_date>2025-10-05T19:40:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/for-the-community-beta-test/set/94399588/</loc>
-  <lastmod>2025-09-27T20:12:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829977/image-17b7a432d27222b2fa7503bc80554753.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Mynttie vs MAYA | Toddly Enough, For The Community - Beta Test - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mynttie vs MAYA | Toddly Enough in Round 1 of For The Community - Beta Test, streamed by seatac_rivals
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577350258&amp;t=0h29m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>998</video:duration>
-    <video:publication_date>2025-09-27T19:38:49.000Z</video:publication_date>
-    <video:uploader>seatac_rivals</video:uploader>
-    <video:expiration_date>2025-10-05T19:38:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
