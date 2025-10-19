@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/winds-of-piracy-10/set/95112412/</loc>
-  <lastmod>2025-10-19T15:28:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227612/</loc>
+  <lastmod>2025-10-19T15:43:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837218/image-6750983f3aee5029592e7c765be66f02.png
+    </video:thumbnail_loc>
+    <video:title>
+      Paky vs Oshawott2206, Dehscension XXXVII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Paky vs Oshawott2206 in Grand Final of Dehscension XXXVII, streamed by ToSmash_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595970844&amp;t=1h12m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>393</video:duration>
+    <video:publication_date>2025-10-19T15:43:19.000Z</video:publication_date>
+    <video:uploader>ToSmash_</video:uploader>
+    <video:expiration_date>2025-10-27T15:43:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/winds-of-piracy-10/set/95112412/</loc>
+  <lastmod>2025-10-19T15:46:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,40 +42,16 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595917855&amp;t=2h20m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>638</video:duration>
+    <video:duration>926</video:duration>
     <video:publication_date>2025-10-19T15:28:00.000Z</video:publication_date>
     <video:uploader>Smashbrositalia</video:uploader>
     <video:expiration_date>2025-10-27T15:28:00.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hyperfocus-october-2025/set/95228139/</loc>
-  <lastmod>2025-10-19T15:16:11.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835336/image-72095688cd4eeb6111820205f7037b6b.png
-    </video:thumbnail_loc>
-    <video:title>
-      MLM | BangBang vs Paint, Hyperfocus October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MLM | BangBang vs Paint in Grand Final Reset of Hyperfocus October 2025, streamed by EnviSSB
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595851675&amp;t=4h12m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1347</video:duration>
-    <video:publication_date>2025-10-19T15:16:11.000Z</video:publication_date>
-    <video:uploader>EnviSSB</video:uploader>
-    <video:expiration_date>2025-10-27T15:16:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxvii/set/95227643/</loc>
-  <lastmod>2025-10-19T15:20:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-19T15:46:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595970844&amp;t=0h49m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1072</video:duration>
+    <video:duration>1338</video:duration>
     <video:publication_date>2025-10-19T15:20:46.000Z</video:publication_date>
     <video:uploader>ToSmash_</video:uploader>
     <video:expiration_date>2025-10-27T15:20:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hyperfocus-october-2025/set/95228139/</loc>
+  <lastmod>2025-10-19T15:43:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835336/image-72095688cd4eeb6111820205f7037b6b.png
+    </video:thumbnail_loc>
+    <video:title>
+      MLM | BangBang vs Paint, Hyperfocus October 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MLM | BangBang vs Paint in Grand Final Reset of Hyperfocus October 2025, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595851675&amp;t=4h12m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1473</video:duration>
+    <video:publication_date>2025-10-19T15:16:11.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2025-10-27T15:16:11.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-10T00:05:11.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-10-18T00:05:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/thursday-throwdown-163/set/94831512/</loc>
-  <lastmod>2025-10-10T00:27:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835601/image-2c0873804ef1abdb9838392e299d1d5b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DrMichaelBay vs justabagel, Thursday Throwdown 163 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DrMichaelBay vs justabagel in Winners Round 2 of Thursday Throwdown 163, streamed by Magik4FGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2587646672&amp;t=0h11m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>974</video:duration>
-    <video:publication_date>2025-10-10T00:04:50.000Z</video:publication_date>
-    <video:uploader>Magik4FGC</video:uploader>
-    <video:expiration_date>2025-10-18T00:04:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
