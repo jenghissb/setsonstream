@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/brick-box-brawl-rivals-monthly-2/set/95247977/</loc>
-  <lastmod>2025-10-19T21:23:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/muravi-games-house-of-aether-bi-weeklies-2/set/95244930/</loc>
+  <lastmod>2025-10-19T21:37:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837435/image-d5cb01630d48404d15cf7e583fd44a49.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MR | Tabian vs XG | Conde, Muravi Games: House of Aether Bi-Weeklies #2! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MR | Tabian vs XG | Conde in Losers Semi-Final of Muravi Games: House of Aether Bi-Weeklies #2!, streamed by Muravi
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596211341&amp;t=2h1m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2225</video:duration>
+    <video:publication_date>2025-10-19T21:37:09.000Z</video:publication_date>
+    <video:uploader>Muravi</video:uploader>
+    <video:expiration_date>2025-10-27T21:37:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/brick-box-brawl-rivals-monthly-2/set/95247977/</loc>
+  <lastmod>2025-10-19T21:56:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2596158985&amp;t=2h50m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1576</video:duration>
+    <video:duration>699</video:duration>
     <video:publication_date>2025-10-19T21:23:27.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-10-27T21:23:27.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-27T20:07:50.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2025-10-05T20:07:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ring-of-valor-9-a-new-school-year/set/94395990/</loc>
-  <lastmod>2025-09-27T20:36:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825403/image-3a4aa1f32b86b6bcd6913fbba8083153.png
-    </video:thumbnail_loc>
-    <video:title>
-      !DUNK | Crackle vs TacticalFaith1, Ring of Valor #9: A New School Year - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch !DUNK | Crackle vs TacticalFaith1 in Round 2 of Ring of Valor #9: A New School Year, streamed by dunkdojogaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577336814&amp;t=1h11m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>787</video:duration>
-    <video:publication_date>2025-09-27T20:06:59.000Z</video:publication_date>
-    <video:uploader>dunkdojogaming</video:uploader>
-    <video:expiration_date>2025-10-05T20:06:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
