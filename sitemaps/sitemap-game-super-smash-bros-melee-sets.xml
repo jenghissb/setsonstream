@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/q-house-2-year-anniversary/set/95219073/</loc>
-  <lastmod>2025-10-19T03:09:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-19T03:45:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595575423&amp;t=1h37m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2165</video:duration>
+    <video:duration>1395</video:duration>
     <video:publication_date>2025-10-19T03:09:37.000Z</video:publication_date>
     <video:uploader>questagg</video:uploader>
     <video:expiration_date>2025-10-27T03:09:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/blast-zone-191/set/95219912/</loc>
-  <lastmod>2025-10-19T02:45:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      GG93 vs EyeQuill, Blast Zone #191 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GG93 vs EyeQuill in Losers Quarter-Final of Blast Zone #191, streamed by smashboundgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595475940&amp;t=3h26m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3594</video:duration>
-    <video:publication_date>2025-10-19T02:45:48.000Z</video:publication_date>
-    <video:uploader>smashboundgg</video:uploader>
-    <video:expiration_date>2025-10-27T02:45:48.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -94,6 +70,30 @@
     <video:publication_date>2025-10-19T02:52:41.000Z</video:publication_date>
     <video:uploader>questagg</video:uploader>
     <video:expiration_date>2025-10-27T02:52:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/blast-zone-191/set/95219912/</loc>
+  <lastmod>2025-10-19T03:45:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      GG93 vs EyeQuill, Blast Zone #191 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GG93 vs EyeQuill in Losers Quarter-Final of Blast Zone #191, streamed by smashboundgg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595475940&amp;t=3h26m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3223</video:duration>
+    <video:publication_date>2025-10-19T02:45:48.000Z</video:publication_date>
+    <video:uploader>smashboundgg</video:uploader>
+    <video:expiration_date>2025-10-27T02:45:48.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
