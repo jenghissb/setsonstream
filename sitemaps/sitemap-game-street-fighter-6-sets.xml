@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rebloch-arena-33/set/95228540/</loc>
+  <lastmod>2025-10-19T12:14:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/828876/image-fbaf79b93e81095f2907b51dd7e33176.png
+    </video:thumbnail_loc>
+    <video:title>
+      SSY | Chokeru vs Hatary, Rebloch&apos;arena #33 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SSY | Chokeru vs Hatary in Winners Semi-Final of Rebloch&apos;arena #33, streamed by supersmashyaute
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2595809152&amp;t=2h24m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>893</video:duration>
+    <video:publication_date>2025-10-19T11:42:13.000Z</video:publication_date>
+    <video:uploader>supersmashyaute</video:uploader>
+    <video:expiration_date>2025-10-27T11:42:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rebloch-arena-33/set/95228538/</loc>
-  <lastmod>2025-10-19T11:28:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-19T11:56:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2595809152&amp;t=2h10m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1269</video:duration>
+    <video:duration>796</video:duration>
     <video:publication_date>2025-10-19T11:28:25.000Z</video:publication_date>
     <video:uploader>supersmashyaute</video:uploader>
     <video:expiration_date>2025-10-27T11:28:25.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-27T22:17:51.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-10-05T22:17:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/lubbock-finale-2025/set/94411484/</loc>
-  <lastmod>2025-09-27T21:52:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777544/image-b471950bc269489bcfc6be82399cb589.png
-    </video:thumbnail_loc>
-    <video:title>
-      JakeTheSnake308 vs Sir.Ham, Lubbock Finale 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JakeTheSnake308 vs Sir.Ham in Winners Round 2 of Lubbock Finale 2025, streamed by nrettg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577365010&amp;t=1h47m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>357</video:duration>
-    <video:publication_date>2025-09-27T21:14:59.000Z</video:publication_date>
-    <video:uploader>nrettg</video:uploader>
-    <video:expiration_date>2025-10-05T21:14:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
