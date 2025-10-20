@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/chains-of-fate-monthly-16-one-last-dojo/set/95260757/</loc>
+  <lastmod>2025-10-20T01:02:30.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839510/image-59c91b498da5f7bc33212f8eaf68277e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PFaB | 8&amp; vs SCS | GenmuZero, Chains of Fate Monthly #16: One Last Dojo? - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PFaB | 8&amp; vs SCS | GenmuZero in Winners Semi-Final of Chains of Fate Monthly #16: One Last Dojo?, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596315758&amp;t=3h1m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>724</video:duration>
+    <video:publication_date>2025-10-20T01:02:30.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-10-28T01:02:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sunday-night-fights-vol-50/set/95245498/</loc>
   <lastmod>2025-10-19T20:37:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-23T00:04:20.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-10-01T00:04:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/toulouse-fighting-monday-61/set/94212766/</loc>
-  <lastmod>2025-09-22T20:32:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824327/image-89fa4ae94e1df060cf40d4e33c7aaad8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TVSF | Shun vs Croque-Monsieur, Toulouse Fighting Monday 61 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TVSF | Shun vs Croque-Monsieur in Losers Final of Toulouse Fighting Monday 61, streamed by toulousevsfighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2573066633&amp;t=2h9m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>534</video:duration>
-    <video:publication_date>2025-09-22T20:11:07.000Z</video:publication_date>
-    <video:uploader>toulousevsfighters</video:uploader>
-    <video:expiration_date>2025-09-30T20:11:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
