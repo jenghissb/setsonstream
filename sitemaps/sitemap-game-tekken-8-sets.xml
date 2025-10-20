@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/rde-89-tekken-8/set/95269850/</loc>
-  <lastmod>2025-10-20T18:32:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rde-89-tekken-8/set/95269858/</loc>
+  <lastmod>2025-10-20T18:50:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837995/image-ef5ee962836f914d5ac799120e1e4f73.png
+    </video:thumbnail_loc>
+    <video:title>
+      Golden BOI vs MacTk, RDE#89 Tekken 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Golden BOI vs MacTk in Winners Quarter-Final of RDE#89 Tekken 8, streamed by rde_rushdownedinburgh
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2596942582&amp;t=0h29m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1365</video:duration>
+    <video:publication_date>2025-10-20T18:50:31.000Z</video:publication_date>
+    <video:uploader>rde_rushdownedinburgh</video:uploader>
+    <video:expiration_date>2025-10-28T18:50:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rde-89-tekken-8/set/95269850/</loc>
+  <lastmod>2025-10-20T18:56:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2596942582&amp;t=0h11m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1079</video:duration>
+    <video:duration>451</video:duration>
     <video:publication_date>2025-10-20T18:32:08.000Z</video:publication_date>
     <video:uploader>rde_rushdownedinburgh</video:uploader>
     <video:expiration_date>2025-10-28T18:32:08.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-29T02:32:20.000Z</video:publication_date>
     <video:uploader>POWgaming</video:uploader>
     <video:expiration_date>2025-10-07T02:32:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/squabble-up-sundays-6-squabble-up-until-september-ends/set/94486002/</loc>
-  <lastmod>2025-09-29T02:34:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825028/image-07944bc6bb1dd8d74ccc498475666bef.png
-    </video:thumbnail_loc>
-    <video:title>
-      ONi | Dr.theJAKEMAN, M.D vs CHAIN SHIFT | Commmanda Panda, Squabble Up Sundays #6 - Squabble Up Until September Ends - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ONi | Dr.theJAKEMAN, M.D vs CHAIN SHIFT | Commmanda Panda in Winners Semi-Final of Squabble Up Sundays #6 - Squabble Up Until September Ends, streamed by POWgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2578485330&amp;t=1h13m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>599</video:duration>
-    <video:publication_date>2025-09-29T02:12:53.000Z</video:publication_date>
-    <video:uploader>POWgaming</video:uploader>
-    <video:expiration_date>2025-10-07T02:12:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
