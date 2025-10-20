@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/20-305/set/95264697/</loc>
+  <lastmod>2025-10-20T10:37:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838789/image-0703eff4b64d2966ab6ea87d78ef2a88.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      むしゃ(musha) vs 律(ritsu), 20(月)上野スマコミ#305(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch むしゃ(musha) vs 律(ritsu) in Winners Round 1 of 20(月)上野スマコミ#305(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/D27d3i74Xgs?start=260s
+    </video:player_loc>
+    <video:duration>464</video:duration>
+    <video:publication_date>2025-10-20T10:37:52.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-10-28T10:37:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-3/set/95261380/</loc>
   <lastmod>2025-10-20T04:14:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-10T12:01:45.000Z</video:publication_date>
     <video:uploader>Smalab / スマラボ</video:uploader>
     <video:expiration_date>2025-10-18T12:01:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-107-1/set/94851907/</loc>
-  <lastmod>2025-10-10T12:12:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833682/image-06bb3f1845d27b407742993fd27cd43a.png
-    </video:thumbnail_loc>
-    <video:title>
-      クウヤ(kuuya) vs OH, Smash薬院#107 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch クウヤ(kuuya) vs OH in Losers Quarter-Final of Smash薬院#107, streamed by スマイン-Smash 薬院-
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/bv7rDlRPUmA?start=5079s
-    </video:player_loc>
-    <video:duration>679</video:duration>
-    <video:publication_date>2025-10-10T11:58:45.000Z</video:publication_date>
-    <video:uploader>スマイン-Smash 薬院-</video:uploader>
-    <video:expiration_date>2025-10-18T11:58:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
