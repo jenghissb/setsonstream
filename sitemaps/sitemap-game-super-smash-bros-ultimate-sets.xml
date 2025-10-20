@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/20-305/set/95264697/</loc>
-  <lastmod>2025-10-20T10:37:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/20-305/set/95264705/</loc>
+  <lastmod>2025-10-20T11:03:32.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838789/image-0703eff4b64d2966ab6ea87d78ef2a88.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      はっせー(hassee) vs Mishka, 20(月)上野スマコミ#305(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch はっせー(hassee) vs Mishka in Winners Quarter-Final of 20(月)上野スマコミ#305(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/D27d3i74Xgs?start=1800s
+    </video:player_loc>
+    <video:duration>623</video:duration>
+    <video:publication_date>2025-10-20T11:03:32.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-10-28T11:03:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/20-305/set/95264697/</loc>
+  <lastmod>2025-10-20T11:04:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/D27d3i74Xgs?start=260s
     </video:player_loc>
-    <video:duration>942</video:duration>
+    <video:duration>1488</video:duration>
     <video:publication_date>2025-10-20T10:37:52.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-10-28T10:37:52.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-10T12:10:41.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2025-10-18T12:10:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smalab-33/set/94851510/</loc>
-  <lastmod>2025-10-10T12:25:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837099/image-4cda0c1a196c416e060f3eb375590f58.png
-    </video:thumbnail_loc>
-    <video:title>
-      ブドー酒(budoo sake) vs ひろき(hiroki), Smalab 33 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ブドー酒(budoo sake) vs ひろき(hiroki) in Losers Semi-Final of Smalab 33, streamed by Smalab / スマラボ
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/1RVDksNzay4?start=9166s
-    </video:player_loc>
-    <video:duration>1232</video:duration>
-    <video:publication_date>2025-10-10T12:01:45.000Z</video:publication_date>
-    <video:uploader>Smalab / スマラボ</video:uploader>
-    <video:expiration_date>2025-10-18T12:01:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
