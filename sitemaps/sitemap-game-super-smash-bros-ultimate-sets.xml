@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-46/set/95290890/</loc>
-  <lastmod>2025-10-21T19:26:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-214/set/95287240/</loc>
+  <lastmod>2025-10-21T19:32:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838449/image-0bda9397ebdbec9a9f443ee2bd2effe6.png
+      https://images.start.gg/images/tournament/842676/image-c06c19da9781d62ff39e79e27e636ce0.png
     </video:thumbnail_loc>
     <video:title>
-      Envi vs Koninglukaas, BORDERLINE SMASH #46 - Sets on Stream
+      BMS | crêpe salée vs Littlemonke, Magna Arena #214 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Envi vs Koninglukaas in Grand Final of BORDERLINE SMASH #46, streamed by EnviSSB
+      Watch BMS | crêpe salée vs Littlemonke in Winners Final of Magna Arena #214, streamed by SmashStrasbourg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597676479&amp;t=2h56m1s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2597723081&amp;t=1h59m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>716</video:duration>
-    <video:publication_date>2025-10-21T19:26:46.000Z</video:publication_date>
-    <video:uploader>EnviSSB</video:uploader>
-    <video:expiration_date>2025-10-29T19:26:46.000Z</video:expiration_date>
+    <video:duration>1031</video:duration>
+    <video:publication_date>2025-10-21T19:32:42.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-10-29T19:32:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-135-october-21st/set/95292501/</loc>
+  <lastmod>2025-10-21T19:45:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842055/image-b7c018020a170329e84b7c9a4335ae53.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      dyb vs Bloop!, FightHouse Weeklies #135 - October 21st - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch dyb vs Bloop! in Winners Semi-Final of FightHouse Weeklies #135 - October 21st, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2597772017&amp;t=1h11m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>235</video:duration>
+    <video:publication_date>2025-10-21T19:45:58.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-10-29T19:45:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-135-october-21st/set/95292514/</loc>
-  <lastmod>2025-10-21T19:33:41.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-21T19:47:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2597772017&amp;t=0h58m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>301</video:duration>
+    <video:duration>655</video:duration>
     <video:publication_date>2025-10-21T19:33:41.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-10-29T19:33:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-46/set/95290890/</loc>
+  <lastmod>2025-10-21T19:47:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838449/image-0bda9397ebdbec9a9f443ee2bd2effe6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Envi vs Koninglukaas, BORDERLINE SMASH #46 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Envi vs Koninglukaas in Grand Final of BORDERLINE SMASH #46, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2597676479&amp;t=2h56m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1062</video:duration>
+    <video:publication_date>2025-10-21T19:26:46.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2025-10-29T19:26:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-10-11T00:18:26.000Z</video:publication_date>
     <video:uploader>socktumor</video:uploader>
     <video:expiration_date>2025-10-19T00:18:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gator-stock-exchange-89/set/94878071/</loc>
-  <lastmod>2025-10-11T00:42:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838681/image-e7116c2c3bf8a317a6655e183a9db682.png
-    </video:thumbnail_loc>
-    <video:title>
-      Manzana vs Nori, Gator Stock Exchange 89 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Manzana vs Nori in Winners Final of Gator Stock Exchange 89, streamed by gnvtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588405599&amp;t=3h17m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1098</video:duration>
-    <video:publication_date>2025-10-11T00:17:08.000Z</video:publication_date>
-    <video:uploader>gnvtournaments</video:uploader>
-    <video:expiration_date>2025-10-19T00:17:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/spartan-weekly-171/set/94885618/</loc>
-  <lastmod>2025-10-11T00:37:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838220/image-95ce3a0011522ea7c3dcbe2ed3bd78a8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Advanced Placement vs MSU | Echofire, Spartan Weekly 171 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Advanced Placement vs MSU | Echofire in Winners Semi-Final of Spartan Weekly 171, streamed by msusmashult
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588478214&amp;t=1h41m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>830</video:duration>
-    <video:publication_date>2025-10-11T00:16:51.000Z</video:publication_date>
-    <video:uploader>msusmashult</video:uploader>
-    <video:expiration_date>2025-10-19T00:16:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
