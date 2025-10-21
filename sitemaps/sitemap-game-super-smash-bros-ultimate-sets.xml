@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-46/set/95288913/</loc>
-  <lastmod>2025-10-21T16:31:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-46/set/95288923/</loc>
+  <lastmod>2025-10-21T16:45:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838449/image-0bda9397ebdbec9a9f443ee2bd2effe6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jouke58 vs Joekel | MacVanish, BORDERLINE SMASH #46 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jouke58 vs Joekel | MacVanish in Round 2 of BORDERLINE SMASH #46, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2597676479&amp;t=0h14m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>619</video:duration>
+    <video:publication_date>2025-10-21T16:45:40.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2025-10-29T16:45:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-46/set/95288913/</loc>
+  <lastmod>2025-10-21T16:49:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2597676479&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>805</video:duration>
+    <video:duration>852</video:duration>
     <video:publication_date>2025-10-21T16:31:07.000Z</video:publication_date>
     <video:uploader>EnviSSB</video:uploader>
     <video:expiration_date>2025-10-29T16:31:07.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-10T23:59:16.000Z</video:publication_date>
     <video:uploader>ramaposmash</video:uploader>
     <video:expiration_date>2025-10-18T23:59:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tusk-till-dawn-s3-ep-49-1/set/94880370/</loc>
-  <lastmod>2025-10-11T00:16:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838368/image-b008806b0dc824c2ea855aac57f28722.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SigmaBean vs Ddqgamer, Tusk till Dawn S3 - Ep 49 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SigmaBean vs Ddqgamer in Losers Quarter-Final of Tusk till Dawn S3 - Ep 49, streamed by pfwesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588476244&amp;t=1h25m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>897</video:duration>
-    <video:publication_date>2025-10-10T23:58:26.000Z</video:publication_date>
-    <video:uploader>pfwesports</video:uploader>
-    <video:expiration_date>2025-10-18T23:58:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
