@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-214/set/95287241/</loc>
-  <lastmod>2025-10-21T20:33:31.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842676/image-c06c19da9781d62ff39e79e27e636ce0.png
-    </video:thumbnail_loc>
-    <video:title>
-      BMS | crêpe salée vs Littlemonke, Magna Arena #214 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BMS | crêpe salée vs Littlemonke in Grand Final of Magna Arena #214, streamed by SmashStrasbourg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597723081&amp;t=3h0m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>509</video:duration>
-    <video:publication_date>2025-10-21T20:33:31.000Z</video:publication_date>
-    <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2025-10-29T20:33:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-135-october-21st/set/95292517/</loc>
-  <lastmod>2025-10-21T20:37:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-21T20:50:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2597772017&amp;t=2h2m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>260</video:duration>
+    <video:duration>624</video:duration>
     <video:publication_date>2025-10-21T20:37:40.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-10-29T20:37:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-214/set/95287241/</loc>
+  <lastmod>2025-10-21T20:50:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842676/image-c06c19da9781d62ff39e79e27e636ce0.png
+    </video:thumbnail_loc>
+    <video:title>
+      BMS | crêpe salée vs Littlemonke, Magna Arena #214 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BMS | crêpe salée vs Littlemonke in Grand Final of Magna Arena #214, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2597723081&amp;t=3h0m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>920</video:duration>
+    <video:publication_date>2025-10-21T20:33:31.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-10-29T20:33:31.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
