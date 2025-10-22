@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95311370/</loc>
+  <lastmod>2025-10-22T07:21:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841197/image-833b0f0d1f2e7c732fb487d5701a3ac4.png
+    </video:thumbnail_loc>
+    <video:title>
+      RLE | mvlvchi vs Aerius, Melee @ Abbey Tavern #116 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RLE | mvlvchi vs Aerius in Grand Final of Melee @ Abbey Tavern #116, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598084931&amp;t=5h54m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1739</video:duration>
+    <video:publication_date>2025-10-22T07:21:20.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-10-30T07:21:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95311384/</loc>
   <lastmod>2025-10-22T07:19:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-27T22:35:01.000Z</video:publication_date>
     <video:uploader>Spiralmedia</video:uploader>
     <video:expiration_date>2025-10-05T22:35:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/vallis-nepa-s-debut-regional-1500-in-pot-bonuses/set/94409340/</loc>
-  <lastmod>2025-09-27T22:46:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/781818/image-24e1ba205c2908cba934366acaa08ade.png
-    </video:thumbnail_loc>
-    <video:title>
-      BorgTech | HOBORG vs ashleypuff, Vallis - NEPA&apos;s Debut Regional - $1500 IN POT BONUSES - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BorgTech | HOBORG vs ashleypuff in Round 5 of Vallis - NEPA&apos;s Debut Regional - $1500 IN POT BONUSES, streamed by brotherlylovephl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577368544&amp;t=2h38m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>408</video:duration>
-    <video:publication_date>2025-09-27T22:09:48.000Z</video:publication_date>
-    <video:uploader>brotherlylovephl</video:uploader>
-    <video:expiration_date>2025-10-05T22:09:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
