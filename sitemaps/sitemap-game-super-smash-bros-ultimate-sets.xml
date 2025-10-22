@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=psyonhunta&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>584</video:duration>
+    <video:duration>1326</video:duration>
     <video:publication_date>2025-10-22T21:02:58.000Z</video:publication_date>
     <video:uploader>psyonhunta</video:uploader>
     <video:expiration_date>2025-10-30T21:02:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/biscuit-crown-23/set/95321249/</loc>
-  <lastmod>2025-10-22T21:05:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-113/set/95320207/</loc>
+  <lastmod>2025-10-22T21:08:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842667/image-a2d47ace5fc5bf4f751446599535a0c8.png
+    </video:thumbnail_loc>
+    <video:title>
+      EDC | Spectral vs GG | Aceman, D-LAY #113 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EDC | Spectral vs GG | Aceman in Grand Final of D-LAY #113, streamed by asso_grab
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598586739&amp;t=3h1m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1016</video:duration>
+    <video:publication_date>2025-10-22T21:08:08.000Z</video:publication_date>
+    <video:uploader>asso_grab</video:uploader>
+    <video:expiration_date>2025-10-30T21:08:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/biscuit-crown-23/set/95321249/</loc>
+  <lastmod>2025-10-22T21:22:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598714923&amp;t=0h5m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>452</video:duration>
+    <video:duration>905</video:duration>
     <video:publication_date>2025-10-22T21:05:10.000Z</video:publication_date>
     <video:uploader>thebattlegroundofficial</video:uploader>
     <video:expiration_date>2025-10-30T21:05:10.000Z</video:expiration_date>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2025-10-11T09:01:11.000Z</video:publication_date>
     <video:uploader>Blaxk_Smoke</video:uploader>
     <video:expiration_date>2025-10-19T09:01:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-mid-autumn-special-2025/set/94905140/</loc>
-  <lastmod>2025-10-11T09:08:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834319/image-b0cc39cd68f1fb08ea4e8000b83f8efd.png
-    </video:thumbnail_loc>
-    <video:title>
-      HKSBC | Bomboozler vs L, HKSBC Mid-Autumn Special 中秋亂鬥祭 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HKSBC | Bomboozler vs L in Losers Quarter-Final of HKSBC Mid-Autumn Special 中秋亂鬥祭 2025, streamed by 香港大亂鬥同好會 - HKSBC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/-Vpqm7Y0DzI?start=14009s
-    </video:player_loc>
-    <video:duration>1002</video:duration>
-    <video:publication_date>2025-10-11T08:49:10.000Z</video:publication_date>
-    <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
-    <video:expiration_date>2025-10-19T08:49:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
