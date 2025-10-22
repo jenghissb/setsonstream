@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dsw-19/set/95311877/</loc>
+  <lastmod>2025-10-22T10:54:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841326/image-55358d2d96d765d4107f4366f6abbe6b.png
+    </video:thumbnail_loc>
+    <video:title>
+      フォーサイド(foosaido) vs Pega, 新京都DSW#19 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch フォーサイド(foosaido) vs Pega in Winners Round 1 of 新京都DSW#19, streamed by 京都DSW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/0eHvuH9kHEM?start=1217s
+    </video:player_loc>
+    <video:duration>1209</video:duration>
+    <video:publication_date>2025-10-22T10:54:12.000Z</video:publication_date>
+    <video:uploader>京都DSW</video:uploader>
+    <video:expiration_date>2025-10-30T10:54:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-75/set/95311487/</loc>
   <lastmod>2025-10-22T08:34:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-11T02:11:06.000Z</video:publication_date>
     <video:uploader>cosmash</video:uploader>
     <video:expiration_date>2025-10-19T02:11:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/adventure-b-airs-504/set/94888745/</loc>
-  <lastmod>2025-10-11T02:25:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837646/image-34b5e6dde640c9a9ff5ab7484e5540a7.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Alo! vs Straw Hat | Hoo D. Nii, Adventure B-Airs #504 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Alo! vs Straw Hat | Hoo D. Nii in Winners Semi-Final of Adventure B-Airs #504, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588530880&amp;t=2h26m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>732</video:duration>
-    <video:publication_date>2025-10-11T02:07:06.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2025-10-19T02:07:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
