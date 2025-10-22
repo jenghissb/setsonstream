@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321698/</loc>
-  <lastmod>2025-10-22T22:31:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321700/</loc>
+  <lastmod>2025-10-22T22:50:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838721/image-81a3613022bb01274ee3c267535ac64a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ampersand vs GhostEchoH, CU in Bracket 59 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ampersand vs GhostEchoH in Round 3 of CU in Bracket 59, streamed by topblastzoneny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598726670&amp;t=1h33m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1399</video:duration>
+    <video:publication_date>2025-10-22T22:50:00.000Z</video:publication_date>
+    <video:uploader>topblastzoneny</video:uploader>
+    <video:expiration_date>2025-10-30T22:50:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321698/</loc>
+  <lastmod>2025-10-22T23:02:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598726670&amp;t=1h15m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1093</video:duration>
+    <video:duration>1061</video:duration>
     <video:publication_date>2025-10-22T22:31:20.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-10-30T22:31:20.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-28T00:44:25.000Z</video:publication_date>
     <video:uploader>bros_calamity2</video:uploader>
     <video:expiration_date>2025-10-06T00:44:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-4-regional-event/set/94425877/</loc>
-  <lastmod>2025-09-28T01:02:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813780/image-3f1f6f7c12e3190b7edb7e6e9b3f438e.png
-    </video:thumbnail_loc>
-    <video:title>
-      LG | Sandstorm vs the killer, Rivals Uncaged #4 - Regional Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LG | Sandstorm vs the killer in Losers Quarter-Final of Rivals Uncaged #4 - Regional Event, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577318057&amp;t=5h57m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>751</video:duration>
-    <video:publication_date>2025-09-28T00:32:24.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2025-10-06T00:32:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
