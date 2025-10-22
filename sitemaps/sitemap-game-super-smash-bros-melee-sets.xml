@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95310229/</loc>
-  <lastmod>2025-10-22T03:48:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95310290/</loc>
+  <lastmod>2025-10-22T04:07:14.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841197/image-833b0f0d1f2e7c732fb487d5701a3ac4.png
+    </video:thumbnail_loc>
+    <video:title>
+      rocketf20 vs HOLE | LarsBars, Melee @ Abbey Tavern #116 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch rocketf20 vs HOLE | LarsBars in Losers Round 2 of Melee @ Abbey Tavern #116, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598084931&amp;t=2h40m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1310</video:duration>
+    <video:publication_date>2025-10-22T04:07:14.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-10-30T04:07:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95310229/</loc>
+  <lastmod>2025-10-22T04:11:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598084931&amp;t=2h21m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>698</video:duration>
+    <video:duration>150</video:duration>
     <video:publication_date>2025-10-22T03:48:17.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-30T03:48:17.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-27T21:28:08.000Z</video:publication_date>
     <video:uploader>gdubsmp4</video:uploader>
     <video:expiration_date>2025-10-05T21:28:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/vallis-nepa-s-debut-regional-1500-in-pot-bonuses/set/94409335/</loc>
-  <lastmod>2025-09-27T22:12:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/781818/image-24e1ba205c2908cba934366acaa08ade.png
-    </video:thumbnail_loc>
-    <video:title>
-      techno vs SHEETZ LCE | Melon, Vallis - NEPA&apos;s Debut Regional - $1500 IN POT BONUSES - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch techno vs SHEETZ LCE | Melon in Round 3 of Vallis - NEPA&apos;s Debut Regional - $1500 IN POT BONUSES, streamed by brotherlylovephl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577368544&amp;t=1h53m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1527</video:duration>
-    <video:publication_date>2025-09-27T21:24:15.000Z</video:publication_date>
-    <video:uploader>brotherlylovephl</video:uploader>
-    <video:expiration_date>2025-10-05T21:24:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
