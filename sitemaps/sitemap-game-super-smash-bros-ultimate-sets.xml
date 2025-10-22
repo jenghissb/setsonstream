@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-166-88-fins-per-hour/set/95311252/</loc>
-  <lastmod>2025-10-22T07:07:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/p-neke-popoff-154-never-ask-me-for-anything-again/set/95311312/</loc>
+  <lastmod>2025-10-22T07:26:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842299/image-d8efa9b34d48f18f49660aebd7c7ac16.png
+    </video:thumbnail_loc>
+    <video:title>
+      Crayon Muncher vs mojobones, Pōneke Popoff #154 - Never Ask Me For Anything Again - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Crayon Muncher vs mojobones in Losers Quarter-Final of Pōneke Popoff #154 - Never Ask Me For Anything Again, streamed by respawnesportscentre
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598222372&amp;t=1h59m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>342</video:duration>
+    <video:publication_date>2025-10-22T07:26:19.000Z</video:publication_date>
+    <video:uploader>respawnesportscentre</video:uploader>
+    <video:expiration_date>2025-10-30T07:26:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-166-88-fins-per-hour/set/95311252/</loc>
+  <lastmod>2025-10-22T07:30:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598175827&amp;t=3h22m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>468</video:duration>
+    <video:duration>1234</video:duration>
     <video:publication_date>2025-10-22T07:07:55.000Z</video:publication_date>
     <video:uploader>ClubSmashTV</video:uploader>
     <video:expiration_date>2025-10-30T07:07:55.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-11T02:05:50.000Z</video:publication_date>
     <video:uploader>wisconsinsmash</video:uploader>
     <video:expiration_date>2025-10-19T02:05:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ubc-weekly-171/set/94895613/</loc>
-  <lastmod>2025-10-11T02:25:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838348/image-3b4a88c55c90c4e4f4e2e38031b92129.png
-    </video:thumbnail_loc>
-    <video:title>
-      Lemmon vs Redx, UBC Weekly #171 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lemmon vs Redx in Winners Quarter-Final of UBC Weekly #171, streamed by ubcesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588590753&amp;t=1h14m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>848</video:duration>
-    <video:publication_date>2025-10-11T02:05:42.000Z</video:publication_date>
-    <video:uploader>ubcesports</video:uploader>
-    <video:expiration_date>2025-10-19T02:05:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
