@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-75/set/95311479/</loc>
+  <lastmod>2025-10-22T08:14:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842659/image-b54d507c3911506e29a2e182962a21b6.png
+    </video:thumbnail_loc>
+    <video:title>
+      cloom | Cos vs DuckDuckNuke, Pincadia Pummel 75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch cloom | Cos vs DuckDuckNuke in Winners Round 1 of Pincadia Pummel 75, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/7waV7Ww18wg?start=906s
+    </video:player_loc>
+    <video:duration>531</video:duration>
+    <video:publication_date>2025-10-22T08:14:01.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2025-10-30T08:14:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/p-neke-popoff-154-never-ask-me-for-anything-again/set/95311312/</loc>
   <lastmod>2025-10-22T07:32:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-11T02:06:04.000Z</video:publication_date>
     <video:uploader>uconnsmash</video:uploader>
     <video:expiration_date>2025-10-19T02:06:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/save-room-29/set/94891309/</loc>
-  <lastmod>2025-10-11T02:29:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838638/image-c8577d3f8de3a7b702d814856d80ab61.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hindsight | Rocco vs RubyD, Save Room #29 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hindsight | Rocco vs RubyD in Losers Round 5 of Save Room #29, streamed by wisconsinsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588552314&amp;t=2h1m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1045</video:duration>
-    <video:publication_date>2025-10-11T02:05:50.000Z</video:publication_date>
-    <video:uploader>wisconsinsmash</video:uploader>
-    <video:expiration_date>2025-10-19T02:05:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
