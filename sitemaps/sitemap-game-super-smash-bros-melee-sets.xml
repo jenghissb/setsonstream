@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95311105/</loc>
-  <lastmod>2025-10-22T04:19:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95311163/</loc>
+  <lastmod>2025-10-22T04:45:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841197/image-833b0f0d1f2e7c732fb487d5701a3ac4.png
+    </video:thumbnail_loc>
+    <video:title>
+      69% | Renegade vs Pbag | Graves Jr, Melee @ Abbey Tavern #116 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 69% | Renegade vs Pbag | Graves Jr in Losers Round 3 of Melee @ Abbey Tavern #116, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598084931&amp;t=3h19m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>577</video:duration>
+    <video:publication_date>2025-10-22T04:45:38.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-10-30T04:45:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-116/set/95311105/</loc>
+  <lastmod>2025-10-22T04:53:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598084931&amp;t=2h52m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1606</video:duration>
+    <video:duration>1173</video:duration>
     <video:publication_date>2025-10-22T04:19:02.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-30T04:19:02.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-27T22:04:06.000Z</video:publication_date>
     <video:uploader>Spiralmedia</video:uploader>
     <video:expiration_date>2025-10-05T22:04:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94415544/</loc>
-  <lastmod>2025-09-27T22:46:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809013/image-a36af7b8f27cf316cb4032c9e18a7ad7.png
-    </video:thumbnail_loc>
-    <video:title>
-      VTown | Jhib vs GROJ, The Big Abbey 2: Getting Bigger - $350 Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VTown | Jhib vs GROJ in Winners Round 1 of The Big Abbey 2: Getting Bigger - $350 Pot Bonus, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577350670&amp;t=2h53m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2264</video:duration>
-    <video:publication_date>2025-09-27T22:03:26.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-05T22:03:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

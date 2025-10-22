@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=lankinggaming&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2163</video:duration>
+    <video:duration>2730</video:duration>
     <video:publication_date>2025-10-22T04:09:45.000Z</video:publication_date>
     <video:uploader>lankinggaming</video:uploader>
     <video:expiration_date>2025-10-30T04:09:45.000Z</video:expiration_date>
@@ -42,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598034442&amp;t=4h1m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1180</video:duration>
+    <video:duration>1747</video:duration>
     <video:publication_date>2025-10-22T04:26:08.000Z</video:publication_date>
     <video:uploader>UABSmash</video:uploader>
     <video:expiration_date>2025-10-30T04:26:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-166-88-fins-per-hour/set/95310543/</loc>
-  <lastmod>2025-10-22T04:29:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841254/image-95e59e30090b985cdbf7516f61628a81.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Larry the Evil Cat vs Nimmy, Shark Tank #166: 88 Fins Per Hour - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Larry the Evil Cat vs Nimmy in Winners Round 2 of Shark Tank #166: 88 Fins Per Hour, streamed by ClubSmashTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598175827&amp;t=0h44m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>986</video:duration>
-    <video:publication_date>2025-10-22T04:29:22.000Z</video:publication_date>
-    <video:uploader>ClubSmashTV</video:uploader>
-    <video:expiration_date>2025-10-30T04:29:22.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -90,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598138110&amp;t=1h44m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1171</video:duration>
+    <video:duration>1738</video:duration>
     <video:publication_date>2025-10-22T04:26:17.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2025-10-30T04:26:17.000Z</video:expiration_date>
@@ -114,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598099921&amp;t=2h33m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1564</video:duration>
+    <video:duration>2131</video:duration>
     <video:publication_date>2025-10-22T04:19:44.000Z</video:publication_date>
     <video:uploader>linkzeldalol</video:uploader>
     <video:expiration_date>2025-10-30T04:19:44.000Z</video:expiration_date>
@@ -122,8 +98,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/waiter-more-tournaments-please-40-gneep-gnarp/set/95309971/</loc>
-  <lastmod>2025-10-22T04:31:52.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-22T04:46:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -138,10 +114,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598113744&amp;t=2h26m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>836</video:duration>
+    <video:duration>627</video:duration>
     <video:publication_date>2025-10-22T04:31:52.000Z</video:publication_date>
     <video:uploader>bellinghamssb</video:uploader>
     <video:expiration_date>2025-10-30T04:31:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-166-88-fins-per-hour/set/95310543/</loc>
+  <lastmod>2025-10-22T04:49:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841254/image-95e59e30090b985cdbf7516f61628a81.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Larry the Evil Cat vs Nimmy, Shark Tank #166: 88 Fins Per Hour - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Larry the Evil Cat vs Nimmy in Winners Round 2 of Shark Tank #166: 88 Fins Per Hour, streamed by ClubSmashTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598175827&amp;t=0h44m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1010</video:duration>
+    <video:publication_date>2025-10-22T04:29:22.000Z</video:publication_date>
+    <video:uploader>ClubSmashTV</video:uploader>
+    <video:expiration_date>2025-10-30T04:29:22.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
