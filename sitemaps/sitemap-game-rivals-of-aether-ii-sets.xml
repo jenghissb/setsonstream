@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321700/</loc>
-  <lastmod>2025-10-22T22:50:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-234/set/95324734/</loc>
+  <lastmod>2025-10-22T23:15:14.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841906/image-73d13b1ae445be8ee5316e6f1c8fd4af.png
+    </video:thumbnail_loc>
+    <video:title>
+      WF | Smooch vs Bucketfullabiscuits, Wonderfly Weekly #234 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WF | Smooch vs Bucketfullabiscuits in Winners Quarter-Final of Wonderfly Weekly #234, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598809526&amp;t=0h4m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>743</video:duration>
+    <video:publication_date>2025-10-22T23:15:14.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2025-10-30T23:15:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321700/</loc>
+  <lastmod>2025-10-22T23:21:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598726670&amp;t=1h33m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1399</video:duration>
+    <video:duration>752</video:duration>
     <video:publication_date>2025-10-22T22:50:00.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-10-30T22:50:00.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-28T00:46:20.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2025-10-06T00:46:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-4-regional-event/set/94425878/</loc>
-  <lastmod>2025-09-28T01:27:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813780/image-3f1f6f7c12e3190b7edb7e6e9b3f438e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yoda Cage vs vooni, Rivals Uncaged #4 - Regional Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yoda Cage vs vooni in Losers Quarter-Final of Rivals Uncaged #4 - Regional Event, streamed by bros_calamity2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577532998&amp;t=1h28m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1064</video:duration>
-    <video:publication_date>2025-09-28T00:44:25.000Z</video:publication_date>
-    <video:uploader>bros_calamity2</video:uploader>
-    <video:expiration_date>2025-10-06T00:44:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
