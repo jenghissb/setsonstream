@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-75/set/95311487/</loc>
+  <lastmod>2025-10-22T08:34:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842659/image-b54d507c3911506e29a2e182962a21b6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Benthoven vs Lomar, Pincadia Pummel 75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Benthoven vs Lomar in Winners Round 2 of Pincadia Pummel 75, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/7waV7Ww18wg?start=1633s
+    </video:player_loc>
+    <video:duration>270</video:duration>
+    <video:publication_date>2025-10-22T08:26:08.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2025-10-30T08:26:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-75/set/95311479/</loc>
-  <lastmod>2025-10-22T08:14:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-22T08:23:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/7waV7Ww18wg?start=906s
     </video:player_loc>
-    <video:duration>531</video:duration>
+    <video:duration>376</video:duration>
     <video:publication_date>2025-10-22T08:14:01.000Z</video:publication_date>
     <video:uploader>ScuffedSmashVods</video:uploader>
     <video:expiration_date>2025-10-30T08:14:01.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-11T02:07:06.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2025-10-19T02:07:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/uconn-weekly-ultimate-117-legends-za-waiting-room/set/94886801/</loc>
-  <lastmod>2025-10-11T02:29:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838484/image-5b98be6a4e6b5c241b67b6ced47550a8.png
-    </video:thumbnail_loc>
-    <video:title>
-      RagingRobin7 | ZeldaPlayer vs DeLay, UConn Weekly Ultimate 117: Legends ZA Waiting Room - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RagingRobin7 | ZeldaPlayer vs DeLay in Winners Final of UConn Weekly Ultimate 117: Legends ZA Waiting Room, streamed by uconnsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588480294&amp;t=3h28m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1189</video:duration>
-    <video:publication_date>2025-10-11T02:06:04.000Z</video:publication_date>
-    <video:uploader>uconnsmash</video:uploader>
-    <video:expiration_date>2025-10-19T02:06:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
