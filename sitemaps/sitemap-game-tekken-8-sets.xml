@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-77-norcal-2xko-tekken-8-weekly/set/95309949/</loc>
-  <lastmod>2025-10-22T05:00:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-77-norcal-2xko-tekken-8-weekly/set/95309918/</loc>
+  <lastmod>2025-10-22T05:19:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841680/image-82b508eff2a7cf7e5c55a7f716a7245f.png
+    </video:thumbnail_loc>
+    <video:title>
+      MADHouse | Dharc vs MADHouse | Tundra, Guildhouse Tuesday 77 - Norcal 2XKO &amp; Tekken 8 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MADHouse | Dharc vs MADHouse | Tundra in Grand Final of Guildhouse Tuesday 77 - Norcal 2XKO &amp; Tekken 8 weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598149210&amp;t=2h20m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1289</video:duration>
+    <video:publication_date>2025-10-22T05:19:48.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-30T05:19:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-77-norcal-2xko-tekken-8-weekly/set/95309949/</loc>
+  <lastmod>2025-10-22T05:26:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598149210&amp;t=2h1m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>942</video:duration>
+    <video:duration>1152</video:duration>
     <video:publication_date>2025-10-22T05:00:33.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-30T05:00:33.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-01T02:26:04.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-09T02:26:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-120/set/94527626/</loc>
-  <lastmod>2025-10-01T02:27:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835359/image-441eac61d9ac60c58037227085df45e3.png
-    </video:thumbnail_loc>
-    <video:title>
-      HoG | Karlos98k vs DarkHollow, HoG: Dragon #120 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HoG | Karlos98k vs DarkHollow in Winners Final of HoG: Dragon #120, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580002734&amp;t=2h31m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>630</video:duration>
-    <video:publication_date>2025-10-01T01:59:06.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-10-09T01:59:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
