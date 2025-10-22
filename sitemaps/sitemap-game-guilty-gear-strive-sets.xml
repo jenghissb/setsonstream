@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-211-stop-hamirtime/set/95303207/</loc>
+  <lastmod>2025-10-22T02:22:38.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842875/image-3e08fe2541dbd94ae40eef49fcde0343.png
+    </video:thumbnail_loc>
+    <video:title>
+      Corin vs 193 | Yemma, CFG Tuesday Trials 211: Stop! HamirTime! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Corin vs 193 | Yemma in Winners Semi-Final of CFG Tuesday Trials 211: Stop! HamirTime!, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2597940375&amp;t=3h56m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1570</video:duration>
+    <video:publication_date>2025-10-22T02:22:38.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2025-10-30T02:22:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rise-strive-40/set/95278724/</loc>
   <lastmod>2025-10-21T02:09:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-25T01:24:21.000Z</video:publication_date>
     <video:uploader>NrettG</video:uploader>
     <video:expiration_date>2025-10-03T01:24:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showdown-66/set/94279218/</loc>
-  <lastmod>2025-09-25T01:34:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830808/image-bc4e390b3915cddb0e4be71f3b263a1d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Pk | Yandere vs TekkChase, Showdown #66 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Pk | Yandere vs TekkChase in Winners Semi-Final of Showdown #66, streamed by NrettG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2574982522&amp;t=1h5m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>509</video:duration>
-    <video:publication_date>2025-09-25T01:01:30.000Z</video:publication_date>
-    <video:uploader>NrettG</video:uploader>
-    <video:expiration_date>2025-10-03T01:01:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
