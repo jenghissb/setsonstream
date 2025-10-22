@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321702/</loc>
+  <lastmod>2025-10-22T22:11:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838721/image-81a3613022bb01274ee3c267535ac64a.png
+    </video:thumbnail_loc>
+    <video:title>
+      junebugparadise vs GhostEchoH, CU in Bracket 59 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch junebugparadise vs GhostEchoH in Round 4 of CU in Bracket 59, streamed by topblastzoneny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598726670&amp;t=0h55m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>999</video:duration>
+    <video:publication_date>2025-10-22T22:11:54.000Z</video:publication_date>
+    <video:uploader>topblastzoneny</video:uploader>
+    <video:expiration_date>2025-10-30T22:11:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321695/</loc>
   <lastmod>2025-10-22T22:06:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-27T23:55:56.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2025-10-05T23:55:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/for-the-community-beta-test/set/94417537/</loc>
-  <lastmod>2025-09-28T00:36:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829977/image-17b7a432d27222b2fa7503bc80554753.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Red Roc | Penjib vs Abraman, For The Community - Beta Test - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Red Roc | Penjib vs Abraman in Losers Quarter-Final of For The Community - Beta Test, streamed by seatac_rivals
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577350258&amp;t=4h44m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1005</video:duration>
-    <video:publication_date>2025-09-27T23:54:03.000Z</video:publication_date>
-    <video:uploader>seatac_rivals</video:uploader>
-    <video:expiration_date>2025-10-05T23:54:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
