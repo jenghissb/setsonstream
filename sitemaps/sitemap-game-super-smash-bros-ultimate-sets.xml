@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-primavera-2025-4/set/95315444/</loc>
-  <lastmod>2025-10-22T16:37:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-chaudron-52-we-lost/set/95317392/</loc>
+  <lastmod>2025-10-22T16:55:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841426/image-d5cb748563ade74f344e84f08122aed6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bilux vs LOW | Mitsurie, le Chaudron #52 - We Lost - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bilux vs LOW | Mitsurie in Winners Round 1 of le Chaudron #52 - We Lost, streamed by psyonhunta
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=psyonhunta&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1185</video:duration>
+    <video:publication_date>2025-10-22T16:55:20.000Z</video:publication_date>
+    <video:uploader>psyonhunta</video:uploader>
+    <video:expiration_date>2025-10-30T16:55:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-primavera-2025-4/set/95315452/</loc>
+  <lastmod>2025-10-22T16:56:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841635/image-bb1a7cad890a7d3f4d0430deffd156a1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      U-Smash | Spac vs U-Smash | Mania, Quincenal Primavera 2025 #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch U-Smash | Spac vs U-Smash | Mania in Winners Quarter-Final of Quincenal Primavera 2025 #4, streamed by xupapapaa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598466813&amp;t=1h34m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1133</video:duration>
+    <video:publication_date>2025-10-22T16:56:12.000Z</video:publication_date>
+    <video:uploader>xupapapaa</video:uploader>
+    <video:expiration_date>2025-10-30T16:56:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-primavera-2025-4/set/95315444/</loc>
+  <lastmod>2025-10-22T16:59:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598466813&amp;t=1h16m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>669</video:duration>
+    <video:duration>1035</video:duration>
     <video:publication_date>2025-10-22T16:37:57.000Z</video:publication_date>
     <video:uploader>xupapapaa</video:uploader>
     <video:expiration_date>2025-10-30T16:37:57.000Z</video:expiration_date>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2025-10-11T02:19:32.000Z</video:publication_date>
     <video:uploader>NTSCSmash</video:uploader>
     <video:expiration_date>2025-10-19T02:19:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quityourfriendlies-55/set/94891509/</loc>
-  <lastmod>2025-10-11T02:41:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838213/image-0bace051e28cb122ba94b76478999fe9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fool vs SMFN | Joe, QuitYourFriendlies 55 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fool vs SMFN | Joe in Grand Final of QuitYourFriendlies 55, streamed by socktumor
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588543233&amp;t=2h23m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1188</video:duration>
-    <video:publication_date>2025-10-11T02:19:21.000Z</video:publication_date>
-    <video:uploader>socktumor</video:uploader>
-    <video:expiration_date>2025-10-19T02:19:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
