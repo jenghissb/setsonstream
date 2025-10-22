@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-77-norcal-2xko-tekken-8-weekly/set/95309911/</loc>
-  <lastmod>2025-10-22T03:13:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-77-norcal-2xko-tekken-8-weekly/set/95309915/</loc>
+  <lastmod>2025-10-22T03:38:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841680/image-82b508eff2a7cf7e5c55a7f716a7245f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Frag | NanditoTheBandito vs MADHouse | Enenra, Guildhouse Tuesday 77 - Norcal 2XKO &amp; Tekken 8 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Frag | NanditoTheBandito vs MADHouse | Enenra in Winners Semi-Final of Guildhouse Tuesday 77 - Norcal 2XKO &amp; Tekken 8 weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598149210&amp;t=0h39m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1307</video:duration>
+    <video:publication_date>2025-10-22T03:38:08.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-30T03:38:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-77-norcal-2xko-tekken-8-weekly/set/95309911/</loc>
+  <lastmod>2025-10-22T03:43:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598149210&amp;t=0h14m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1749</video:duration>
+    <video:duration>793</video:duration>
     <video:publication_date>2025-10-22T03:13:04.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-30T03:13:04.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-09-29T05:00:35.000Z</video:publication_date>
     <video:uploader>POWgaming</video:uploader>
     <video:expiration_date>2025-10-07T05:00:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/squabble-up-sundays-6-squabble-up-until-september-ends/set/94487450/</loc>
-  <lastmod>2025-09-29T05:10:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825028/image-07944bc6bb1dd8d74ccc498475666bef.png
-    </video:thumbnail_loc>
-    <video:title>
-      EGP | snappyboi vs CHAIN SHIFT | Commmanda Panda, Squabble Up Sundays #6 - Squabble Up Until September Ends - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EGP | snappyboi vs CHAIN SHIFT | Commmanda Panda in Losers Final of Squabble Up Sundays #6 - Squabble Up Until September Ends, streamed by POWgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2578485330&amp;t=3h50m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>614</video:duration>
-    <video:publication_date>2025-09-29T04:49:47.000Z</video:publication_date>
-    <video:uploader>POWgaming</video:uploader>
-    <video:expiration_date>2025-10-07T04:49:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
