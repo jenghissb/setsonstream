@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-198-norcal-ssbu-ggst-uni2/set/95339448/</loc>
-  <lastmod>2025-10-23T04:00:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-198-norcal-ssbu-ggst-uni2/set/95339479/</loc>
+  <lastmod>2025-10-23T04:27:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841687/image-7d47ab41a9b280c0503bc7905fcd2c82.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Draken vs FROG | Squid!, Guildhouse Weekly 198 - Norcal SSBU, GGST, UNI2! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Draken vs FROG | Squid! in Losers Semi-Final of Guildhouse Weekly 198 - Norcal SSBU, GGST, UNI2!, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598977659&amp;t=1h36m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>907</video:duration>
+    <video:publication_date>2025-10-23T04:27:25.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-10-31T04:27:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-198-norcal-ssbu-ggst-uni2/set/95339448/</loc>
+  <lastmod>2025-10-23T04:32:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598977659&amp;t=1h9m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1123</video:duration>
+    <video:duration>850</video:duration>
     <video:publication_date>2025-10-23T04:00:13.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-31T04:00:13.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-26T23:31:47.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-04T23:31:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-194-ssbu-ggst-gbvsr-uni2/set/94286449/</loc>
-  <lastmod>2025-09-25T05:05:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831078/image-c7069451e3d9ecc83a7b2f1e13726f39.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Aubfox vs FROG | Squid!, Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aubfox vs FROG | Squid! in Losers Final of Guildhouse Weekly 194 - SSBU, GGST, GBVSR &amp; UNI2, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2575116200&amp;t=1h58m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>420</video:duration>
-    <video:publication_date>2025-09-25T04:47:30.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-10-03T04:47:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
