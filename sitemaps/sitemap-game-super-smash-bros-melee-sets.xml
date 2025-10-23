@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-355/set/95350268/</loc>
-  <lastmod>2025-10-23T22:09:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-355/set/95350280/</loc>
+  <lastmod>2025-10-23T22:28:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844207/image-5f0bccf3e9304d1d9f32853e273167e7.png
+    </video:thumbnail_loc>
+    <video:title>
+      LilFrogurt vs Nuss, Salt Water Smash 355 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LilFrogurt vs Nuss in Round 5 of Salt Water Smash 355, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2599588347&amp;t=0h33m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1322</video:duration>
+    <video:publication_date>2025-10-23T22:28:10.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2025-10-31T22:28:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-355/set/95350268/</loc>
+  <lastmod>2025-10-23T22:34:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2599588347&amp;t=0h14m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1422</video:duration>
+    <video:duration>372</video:duration>
     <video:publication_date>2025-10-23T22:09:13.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2025-10-31T22:09:13.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-27T23:59:43.000Z</video:publication_date>
     <video:uploader>KernCountyMelee</video:uploader>
     <video:expiration_date>2025-10-05T23:59:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94423437/</loc>
-  <lastmod>2025-09-28T00:14:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809013/image-a36af7b8f27cf316cb4032c9e18a7ad7.png
-    </video:thumbnail_loc>
-    <video:title>
-      darkwizard123 vs oppenjaime, The Big Abbey 2: Getting Bigger - $350 Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch darkwizard123 vs oppenjaime in Winners Quarter-Final of The Big Abbey 2: Getting Bigger - $350 Pot Bonus, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577350670&amp;t=4h35m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>269</video:duration>
-    <video:publication_date>2025-09-27T23:45:25.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-05T23:45:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
