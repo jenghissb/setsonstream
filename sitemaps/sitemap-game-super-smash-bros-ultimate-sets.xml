@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ascend-the-spire-62/set/95349504/</loc>
-  <lastmod>2025-10-23T21:25:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ascend-the-spire-62/set/95349509/</loc>
+  <lastmod>2025-10-23T21:40:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843229/image-a3ecc8d23a8f13db23a8ae8ad1bb21d1.png
+    </video:thumbnail_loc>
+    <video:title>
+      USM | Mossymutt vs Capt._Captain, Ascend the Spire #62 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch USM | Mossymutt vs Capt._Captain in Round 3 of Ascend the Spire #62, streamed by usmspiresesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2599558213&amp;t=0h31m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>589</video:duration>
+    <video:publication_date>2025-10-23T21:40:02.000Z</video:publication_date>
+    <video:uploader>usmspiresesports</video:uploader>
+    <video:expiration_date>2025-10-31T21:40:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ascend-the-spire-62/set/95349504/</loc>
+  <lastmod>2025-10-23T21:41:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2599558213&amp;t=0h17m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>649</video:duration>
+    <video:duration>840</video:duration>
     <video:publication_date>2025-10-23T21:25:53.000Z</video:publication_date>
     <video:uploader>usmspiresesports</video:uploader>
     <video:expiration_date>2025-10-31T21:25:53.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-11T22:36:41.000Z</video:publication_date>
     <video:uploader>TsunamiNWOH</video:uploader>
     <video:expiration_date>2025-10-19T22:36:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/slo-smash-arcadian-fall-2025/set/94941930/</loc>
-  <lastmod>2025-10-11T22:52:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833665/image-f87a78216ad81b793146eca71099833b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ramserss vs 86 | Aemyth, SLO Smash Arcadian: Fall 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ramserss vs 86 | Aemyth in Round 5 of SLO Smash Arcadian: Fall 2025, streamed by slosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589316882&amp;t=2h18m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>767</video:duration>
-    <video:publication_date>2025-10-11T22:34:11.000Z</video:publication_date>
-    <video:uploader>slosmash</video:uploader>
-    <video:expiration_date>2025-10-19T22:34:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
