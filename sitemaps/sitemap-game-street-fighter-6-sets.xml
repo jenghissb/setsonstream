@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/stun-city-anarchy-2-10-22-2025-fighting-game-tournaments/set/95325569/</loc>
-  <lastmod>2025-10-23T00:51:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/showdown-70/set/95338616/</loc>
+  <lastmod>2025-10-23T02:37:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841309/image-88d0eb27cf55478f792e43bba03b159f.png
+    </video:thumbnail_loc>
+    <video:title>
+      R666 | Soulve vs The Henny god, Showdown #70 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch R666 | Soulve vs The Henny god in Round 1 of Showdown #70, streamed by NrettG
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598855486&amp;t=2h29m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>308</video:duration>
+    <video:publication_date>2025-10-23T02:37:45.000Z</video:publication_date>
+    <video:uploader>NrettG</video:uploader>
+    <video:expiration_date>2025-10-31T02:37:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/stun-city-anarchy-2-10-22-2025-fighting-game-tournaments/set/95325569/</loc>
+  <lastmod>2025-10-23T01:23:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598812249&amp;t=1h36m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1180</video:duration>
+    <video:duration>582</video:duration>
     <video:publication_date>2025-10-23T00:51:06.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2025-10-31T00:51:06.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-28T02:20:38.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-10-06T02:20:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-farming-market-3-brewed-brawl/set/94440188/</loc>
-  <lastmod>2025-09-28T02:52:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818413/image-b2f7abae2d25ccaa3d688b1b4607e721.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Wodeborg vs Lim, The Farming Market 3: Brewed Brawl - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wodeborg vs Lim in Winners Round 1 of The Farming Market 3: Brewed Brawl, streamed by iLainey
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577661294&amp;t=0h4m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1278</video:duration>
-    <video:publication_date>2025-09-28T02:16:54.000Z</video:publication_date>
-    <video:uploader>iLainey</video:uploader>
-    <video:expiration_date>2025-10-06T02:16:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
