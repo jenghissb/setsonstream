@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-113/set/95332258/</loc>
+  <lastmod>2025-10-23T03:23:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843340/image-92520683408c74521650d8a338e1c379.png
+    </video:thumbnail_loc>
+    <video:title>
+      AoC | Jeff Fuel vs AOC/GG | SD Paint, Raptor Boost 113 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AoC | Jeff Fuel vs AOC/GG | SD Paint in Grand Final Reset of Raptor Boost 113, streamed by GameGroveWV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2598817226&amp;t=3h31m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1090</video:duration>
+    <video:publication_date>2025-10-23T02:53:11.000Z</video:publication_date>
+    <video:uploader>GameGroveWV</video:uploader>
+    <video:expiration_date>2025-10-31T02:53:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-113/set/95332257/</loc>
-  <lastmod>2025-10-23T02:31:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-23T02:58:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2598817226&amp;t=3h9m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>712</video:duration>
+    <video:duration>1324</video:duration>
     <video:publication_date>2025-10-23T02:31:01.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2025-10-31T02:31:01.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-27T23:36:43.000Z</video:publication_date>
     <video:uploader>Spiralmedia</video:uploader>
     <video:expiration_date>2025-10-05T23:36:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lubbock-finale-2025/set/94412961/</loc>
-  <lastmod>2025-09-28T00:14:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777544/image-b471950bc269489bcfc6be82399cb589.png
-    </video:thumbnail_loc>
-    <video:title>
-      Double-edged shell vs 1234 | FlyInn, Lubbock Finale 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Double-edged shell vs 1234 | FlyInn in Losers Round 3 of Lubbock Finale 2025, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577546014&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1891</video:duration>
-    <video:publication_date>2025-09-27T23:27:03.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2025-10-05T23:27:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
