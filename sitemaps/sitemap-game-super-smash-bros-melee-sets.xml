@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-355/set/95354853/</loc>
+  <lastmod>2025-10-23T23:33:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844207/image-5f0bccf3e9304d1d9f32853e273167e7.png
+    </video:thumbnail_loc>
+    <video:title>
+      SC | Solanum vs LilFrogurt, Salt Water Smash 355 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SC | Solanum vs LilFrogurt in Winners Semi-Final of Salt Water Smash 355, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2599588347&amp;t=1h38m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>996</video:duration>
+    <video:publication_date>2025-10-23T23:33:13.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2025-10-31T23:33:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-355/set/95350280/</loc>
   <lastmod>2025-10-23T23:16:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-28T00:12:24.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-06T00:12:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/seven-stocks-at-seven-oaks-3-2/set/94418737/</loc>
-  <lastmod>2025-09-28T00:40:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816573/image-f82fd8525c4ef376a21820d6f16b1752.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Slyphe vs Baninawi, Seven Stocks at Seven Oaks 3.2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Slyphe vs Baninawi in Grand Final of Seven Stocks at Seven Oaks 3.2, streamed by KernCountyMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577470979&amp;t=2h11m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2007</video:duration>
-    <video:publication_date>2025-09-27T23:59:43.000Z</video:publication_date>
-    <video:uploader>KernCountyMelee</video:uploader>
-    <video:expiration_date>2025-10-05T23:59:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
