@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-21/set/95355139/</loc>
-  <lastmod>2025-10-24T00:53:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/thursday-throwdown-165/set/95358675/</loc>
+  <lastmod>2025-10-24T01:21:35.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835604/image-6f79bff1d19798fe1d21521483d6007a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SR | JAK vs !liz | Scarecrow, Thursday Throwdown 165 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SR | JAK vs !liz | Scarecrow in Grand Final of Thursday Throwdown 165, streamed by Magik4FGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Magik4FGC&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-10-24T01:21:35.000Z</video:publication_date>
+    <video:uploader>Magik4FGC</video:uploader>
+    <video:expiration_date>2025-11-01T01:21:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-21/set/95355139/</loc>
+  <lastmod>2025-10-24T01:27:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2599652315&amp;t=1h33m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>798</video:duration>
+    <video:duration>740</video:duration>
     <video:publication_date>2025-10-24T00:53:37.000Z</video:publication_date>
     <video:uploader>fightfortheauxky</video:uploader>
     <video:expiration_date>2025-11-01T00:53:37.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-28T03:06:16.000Z</video:publication_date>
     <video:uploader>iLainey</video:uploader>
     <video:expiration_date>2025-10-06T03:06:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fits-6-sf6-monthly/set/94441050/</loc>
-  <lastmod>2025-09-28T03:31:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824880/image-e6f0fd61856c2cd147c9c726de277c45.png
-    </video:thumbnail_loc>
-    <video:title>
-      SESH | TreeWiz vs FitS | chumpslayer, FITS #6 - SF6 Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SESH | TreeWiz vs FitS | chumpslayer in Winners Semi-Final of FITS #6 - SF6 Monthly, streamed by studysessionlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577656058&amp;t=0h57m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>563</video:duration>
-    <video:publication_date>2025-09-28T03:02:29.000Z</video:publication_date>
-    <video:uploader>studysessionlive</video:uploader>
-    <video:expiration_date>2025-10-06T03:02:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
