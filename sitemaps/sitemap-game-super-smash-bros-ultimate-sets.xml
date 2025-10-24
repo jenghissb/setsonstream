@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smalab-34/set/95371401/</loc>
-  <lastmod>2025-10-24T10:38:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sumao2025-15/set/95370996/</loc>
+  <lastmod>2025-10-24T10:39:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842596/image-6df05fe7ad638e8cc64c72941f3cb8c1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Licht/リヒト(Licht/ rihito) vs カネゴン(kanegon), スマ王/SumaO2025#15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Licht/リヒト(Licht/ rihito) vs カネゴン(kanegon) in Winners Quarter-Final of スマ王/SumaO2025#15, streamed by 無明遊者【イベント配信団体】
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/5jLkrBTAV3Q?start=6073s
+    </video:player_loc>
+    <video:duration>790</video:duration>
+    <video:publication_date>2025-10-24T10:39:57.000Z</video:publication_date>
+    <video:uploader>無明遊者【イベント配信団体】</video:uploader>
+    <video:expiration_date>2025-11-01T10:39:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smalab-34/set/95371401/</loc>
+  <lastmod>2025-10-24T10:49:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/x2YE7CT5Azo?start=3766s
     </video:player_loc>
-    <video:duration>285</video:duration>
+    <video:duration>535</video:duration>
     <video:publication_date>2025-10-24T10:38:51.000Z</video:publication_date>
     <video:uploader>Smalab / スマラボ</video:uploader>
     <video:expiration_date>2025-11-01T10:38:51.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-12T19:33:57.000Z</video:publication_date>
     <video:uploader>ttvMadison</video:uploader>
     <video:expiration_date>2025-10-20T19:33:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/makos-gaming-circuit-2/set/94976302/</loc>
-  <lastmod>2025-10-12T19:45:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829770/image-ecf0cedee11a0bc1dbd23472758b6c9b.png
-    </video:thumbnail_loc>
-    <video:title>
-      TPS | MarteRD vs EstebanGamer, Makos Gaming Circuit #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TPS | MarteRD vs EstebanGamer in Round 7 of Makos Gaming Circuit #2, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/WhELqPPuBOo?start=3956s
-    </video:player_loc>
-    <video:duration>938</video:duration>
-    <video:publication_date>2025-10-12T19:25:36.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
-    <video:expiration_date>2025-10-20T19:25:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
