@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sbu-wolfie-wars-59/set/95395770/</loc>
-  <lastmod>2025-10-24T23:04:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-202/set/95397047/</loc>
+  <lastmod>2025-10-24T23:14:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842740/image-35c5e4a56f97583318586d87f24212fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      sleeptalky vs 1312 | Pietro, Smash Night at Prodigy #202 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch sleeptalky vs 1312 | Pietro in Winners Round 1 of Smash Night at Prodigy #202, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600490504&amp;t=0h4m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1512</video:duration>
+    <video:publication_date>2025-10-24T23:14:02.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2025-11-01T23:14:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sbu-wolfie-wars-59/set/95395767/</loc>
+  <lastmod>2025-10-24T23:33:27.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +34,18 @@
       https://images.start.gg/images/tournament/844543/image-8ffdb011c9d66ffdb1a847493f69d522.png
     </video:thumbnail_loc>
     <video:title>
-      Griffo vs HUSH, SBU Wolfie Wars 59 - Sets on Stream
+      DrDannyDrizzle vs SBU | lib homer, SBU Wolfie Wars 59 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Griffo vs HUSH in Winners Quarter-Final of SBU Wolfie Wars 59, streamed by sbumelee
+      Watch DrDannyDrizzle vs SBU | lib homer in Winners Quarter-Final of SBU Wolfie Wars 59, streamed by sbumelee
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=sbumelee&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1462</video:duration>
-    <video:publication_date>2025-10-24T23:04:46.000Z</video:publication_date>
+    <video:duration>347</video:duration>
+    <video:publication_date>2025-10-24T23:33:27.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
-    <video:expiration_date>2025-11-01T23:04:46.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-01T23:33:27.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14398,30 +14422,6 @@
     <video:publication_date>2025-09-28T06:26:30.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-06T06:26:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94444098/</loc>
-  <lastmod>2025-09-28T06:29:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809013/image-a36af7b8f27cf316cb4032c9e18a7ad7.png
-    </video:thumbnail_loc>
-    <video:title>
-      PBAG | BSG | Graves vs Darkatma, The Big Abbey 2: Getting Bigger - $350 Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PBAG | BSG | Graves vs Darkatma in Losers Final of The Big Abbey 2: Getting Bigger - $350 Pot Bonus, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577780030&amp;t=0h31m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1022</video:duration>
-    <video:publication_date>2025-09-28T06:09:43.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-06T06:09:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
