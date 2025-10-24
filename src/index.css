@@ -17,6 +17,7 @@
   --text-main-color-subdue-1: #eee;
   --text-main-color-subdue-3: #ddd;
   --text-main-color-subdue-4: #f9f9f9;
+  --border-button: #cccccc;
 }
 
 [data-theme='light'] {
@@ -41,6 +42,7 @@
   --text-main-color-subdue-3: #444;
   --text-main-color-subdue-4: #070707;
   --text-color-hover: gray;
+  --border-button: gray;
 }
 
 body {

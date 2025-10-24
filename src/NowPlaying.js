@@ -139,7 +139,7 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
               <span className="nowPlaying-roundText"> - {item.bracketInfo.fullRoundText}</span>
             </span>
           </div>
-          {/* {renderFilterButton(filterInfo, () => setShowFilterModal(true))} */}
+          {/* {renderFilterButton(filterInfo, () => setShowFilterModal({type: "char", gameId: currentGameId}))} */}
         </div>
         { showExtra && extraInCol &&
             <div className="nowPlaying-segment2-row1">
@@ -193,7 +193,7 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
           </div>
         </div>
         {
-          <div class="nowPlaying-bracketButton" onClick={() => setShowBracket(true)}>
+          <div className="nowPlaying-bracketButton" onClick={() => setShowBracket(true)}>
             <BracketIcon width={"42px"} height={"42px"} color={"var(--text-main-color-subdue-3"}/>
           </div>
         }
@@ -222,7 +222,7 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
         <span className="nowPlaying-roundText"> - {item.bracketInfo.fullRoundText}</span>
       </span>
     </div>
-    {renderFilterButton(filterInfo, () => setShowFilterModal(true))}
+    {renderFilterButton(filterInfo, () => setShowFilterModal(null))}
     </div>
   )
 

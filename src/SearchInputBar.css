@@ -6,13 +6,13 @@
   max-lines: 1;
   background-color: var(--bg-modal);
   /* background-color: #181c24; */
-  border-radius: 10px;
+  border-radius: 12px;
   margin-left: 6px;
   padding: 8px;
   border: 2px solid #888;
-  height: 10px;
-  min-width: 260px;
-  max-width: 300px;
+  height: 16px;
+  min-width: 200px;
+  max-width: 240px;
   flex-grow: 1;
   flex-shrink: 1;
   align-self: center;
@@ -25,7 +25,7 @@
 
 .searchTerm {
   color: var(--text-main-color);
-  font-size:small;
+  font-size:medium;
   text-wrap: none;
   white-space: nowrap;
   text-decoration: none;
@@ -63,7 +63,7 @@
 
 .outerContainer {
   min-width: 48px;
-  max-width: 300px;
+  max-width: 240px;
   display:flex;
   flex-grow: 1;
   flex-shrink: 1;
@@ -234,11 +234,15 @@
   justify-items: center;
   align-items: center;
   background-color: var(--bg-modal);
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
   border: 2px solid gray;
-  height: 26px;
-  width: 26px;
+  height: 32px;
+  width: 32px;
   margin-left: -3px;
   /* height:max-content */
+}
+
+.characterButton {
+  display:flex;
 }

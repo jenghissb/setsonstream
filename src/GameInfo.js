@@ -14,15 +14,24 @@ export const Characters = Object.freeze({
   "33945": {
     charList: ["aba","anji","asukar","axl","baiken","bedman","bridget","chipp","dizzy","elphelt","faust","giovanna","goldlewis","happychaos","ino","jacko","johnny","ky","leo","may","millia","nagoriyuki","potemkin","ramlethal","sin","slayer","sol","testament","venom","zato"]
   },
-  "43868": {
-    charList: ["aki","akuma","blanka","cammy","chunli","deejay","dhalsim","ehonda","ed","elena","guile","jp","jamie","juri","ken","kimberly","lily","luke","mbison","mai","manon","marisa","rashid","ryu","terry","zangief"]
-  },
+  // "43868": {
+  //   charList: ["aki","akuma","blanka","cammy","chunli","deejay","dhalsim","ehonda","ed","elena","guile","jp","jamie","juri","ken","kimberly","lily","luke","mbison","mai","manon","marisa","rashid","ryu","terry","zangief"]
+  // },
   "49783": {
     charList: ["alisa","anna","asuka","azucena","bryan","claudio","clive","deviljin","dragunov","eddy","fahkumram","feng","heihachi","hwoarang","jack8","jin","jun","kazuya","king","kuma","lars","law","lee","leo","leroy","lidia","lili","nina","panda","paul","raven","reina","shaheen","steve","victor","xiaoyu","yoshimitsu","zafina"]
   },
   "53945": {
     charList: ["absa","clairen","etalus","fleet","forsburn","kragg","loxodont","maypul","olympia","orcane","ranno","wrastor","zetterburn"]
   }
+});
+
+export const ButtonCharacters = Object.freeze({
+  "1386": ["mario", "ken", "pikachu", "ridley" ],
+  "1": ["fox","falco","sheik","yoshi"],
+  "33945": ["aba","anji","asukar","axl"],
+  // "43868": ["luke","mai","ryu","rashid"],
+  "49783": ["jin", "kazuya", "asuka", "reina"],
+  "53945": ["kragg", "fleet", "maypul", "ranno"]
 });
 
 export const GameKeywords = Object.freeze({

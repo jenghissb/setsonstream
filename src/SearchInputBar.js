@@ -3,14 +3,15 @@ import "./SearchInputBar.css"
 import { Characters } from './GameInfo.js'
 import { renderFilterTypeButton } from './FilterTypeButton'
 import { charEmojiImagePath, schuEmojiImagePath } from './Utilities.js'
+import { renderCharButton } from './CharButton.js'
 
-
-export function SearchInputBarWithIcon({ onSearch, filterInfo, toggleCharacter, suggestionsInfo}) {
+export function SearchInputBarWithIcon({ onSearch, filterInfo, toggleCharacter, suggestionsInfo, onPressCharButton}) {
   return <div className="searchRowContainer">
     <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter} suggestionsInfo={suggestionsInfo} isFilterBar={false} hasIcon={true}/>
     <div className="searchIconContainer">
       {renderSearchIcon()}
     </div>
+    {renderCharButton(filterInfo, onPressCharButton)}
   </div>
 }
 

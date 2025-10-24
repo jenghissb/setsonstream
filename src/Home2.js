@@ -1522,6 +1522,9 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const headerHeight = 26
   const onChangeGame = (gameInfo) => {
     updateCurrentGame(gameInfo.id)
+    if (showFilterModal?.type === "char") {
+      setShowFilterModal({...showFilterModal, gameId: gameInfo.id})
+    }
     const newScrollY = -stickyPos+headerHeight
     if (window.scrollY > newScrollY) {
       window.scrollTo({top: -stickyPos+headerHeight})
@@ -1559,10 +1562,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
   //         }
   //         <p>{loadingText}</p>
   //         { 
-  //           renderFooterButton(filterInfo, () => setShowFilterModal(true))
+  //           renderFooterButton(filterInfo, () => setShowFilterModal({type: "char", gameId: currentGameId}))
   //         }
   //         {
-  //           renderFooter(filterInfo, onChangeGame, () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+  //           renderFooter(showFilterModal, onChangeGame, () => setShowFilterModal(null), navigate)
   //         }
   //       </div>          
   //     )
@@ -1642,13 +1645,14 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // }
 
   // if (loading) return <div className="home2LoadingSyle">{loadingText}</div>;
+  const onPressCharButton = () => setShowFilterModal({type: "char", gameId: currentGameId})
   if (loading && setMatch == null) return <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
-            {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }
+            {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo, onPressCharButton}} /> }
             <div className="home2titleBar">
-              {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />}
-              {!displayConfig.noRouteInfo &&  showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo}} /> }        
+              {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal({type: "game", gameId: currentGameId})}} />}
+              {!displayConfig.noRouteInfo &&  showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: null, filterInfo: filterInfo, onPressCharButton}} /> }        
               <div className="emptyDiv"/>
               </div>
             </div>
@@ -1759,7 +1763,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   // const previewScale = window.scrollY
   const previewStyle = notLowWidth ? 
      {position: "sticky", top: useHomeTypeLists? "48px" : "0px", zIndex:30000, alignSelf: "center"}
-   : {position: "sticky", top: displayConfig.noRouteInfo ? "0px" : "86px", zIndex:30000, alignSelf: "center"}
+   : {position: "sticky", top: displayConfig.noRouteInfo ? "0px" : "104px", zIndex:30000, alignSelf: "center"}
   if (useHomeTypeLists) {
     // previewStyle.height = "38%"
     // previewStyle.width = "min(max(30%, 180px), 500px)"
@@ -1821,10 +1825,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
       <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
-            {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }
+            {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo, onPressCharButton}} /> }
             <div className="home2titleBar">
-              {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal("game")}} />}
-              {!displayConfig.noRouteInfo && showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo}} /> }        
+              {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal({type:"game", gameId: currentGameId})}} />}
+              {!displayConfig.noRouteInfo && showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo, onPressCharButton}} /> }        
               <div className="emptyDiv"/>
               </div>
             </div>
@@ -1901,10 +1905,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
       <div className="home2bottomOffsetDiv"/>
       { shouldShowNoDataOver && renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch)}
       { 
-        // renderFooterButton(filterInfo, () => setShowFilterModal(true))
+        // renderFooterButton(filterInfo, () => setShowFilterModal({type: "char", gameId: currentGameId}}))
       }
       {
-        renderFooter(filterInfo, onChangeGame, () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+        renderFooter(showFilterModal, onChangeGame, () => setShowFilterModal(null), navigate)
       }
 
     </div>
@@ -1964,10 +1968,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
       <div className="home2bottomOffsetDiv"/>
       { shouldShowNoDataOver && renderNoDataOver(showVodsMode, setShowVodsMode, sayNoMatch)}
       { 
-        // renderFooterButton(filterInfo, () => setShowFilterModal(true))
+        // renderFooterButton(filterInfo, () => setShowFilterModal({type: "char", gameId: currentGameId}))
       }
       {
-        renderFooter(filterInfo, onChangeGame, () => setShowFilterModal(false), showFilterModal, toggleCharacter)
+        renderFooter(showFilterModal, onChangeGame, () => setShowFilterModal(null), navigate)
       }
     </div>
   );
@@ -1989,16 +1993,21 @@ function renderFooterButton(filterInfo, onOpen ) {
   </div>
 }
 
-function renderFooter(filterInfo, onGameClick, onClose, showFilterModal, toggleCharacter ) {
-  if (!showFilterModal) {
+function renderFooter(showFilterModal, onGameClick, onClose, navigate) {
+  const filterModalGameId = showFilterModal?.gameId
+  if (filterModalGameId == null) {
     return
   }
-  const filterSetting = showFilterModal
+  const filterSetting = showFilterModal?.type
+  const toggleCharacter = (charName, gameId) => {
+    onClose()
+    navigate(getCharLink(charName, gameId))
+  }
   return (
     <div className="home2fullFooter">
       <div className="home2footerOutside" onClick={onClose}/>
       <div className="home2footerContent">
-      {FilterView(filterInfo, onGameClick, onClose, toggleCharacter, filterSetting)}
+      {FilterView(filterModalGameId, onGameClick, onClose, toggleCharacter, filterSetting)}
       </div>
     </div>
   )
@@ -2025,13 +2034,13 @@ function Home({homeMode=HomeModes.MAIN, homeType=HomeTypes.HOME, darkMode}) {
   );
 }
 
-const SearchBar = ({navigate, _onSearch, toggleCharacter, dropdownSuggestions, filterInfo}) => {
+const SearchBar = ({navigate, _onSearch, toggleCharacter, dropdownSuggestions, filterInfo, onPressCharButton}) => {
   const onSearch = (searchTerm) => {
     navigate(getLinkFromSearch(searchTerm, filterInfo.currentGameId))
   }
   //onSearch = 
   //onSearch()
-  return <SearchInputBarWithIcon onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter} suggestionsInfo={dropdownSuggestions} isFilterBar={false}/>
+  return <SearchInputBarWithIcon onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter} suggestionsInfo={dropdownSuggestions} isFilterBar={false} onPressCharButton={onPressCharButton}/>
 }
 
 function renderLinkRow(jsonData, filterInfo, showVodsMode, setShowVodsMode, shouldShow, onSearch, onSearchRemove, changeFilterType, toggleCharacter, dropdownSuggestions) {

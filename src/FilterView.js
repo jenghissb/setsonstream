@@ -13,9 +13,11 @@ export function renderXButton(onCloseClick) {
   </div>
 }
 
-function renderCharacters(filterInfo, toggleCharacter) {
-  var currentGameId = filterInfo.currentGameId
-  var characters = filterInfo?.filters[currentGameId]?.characters ?? []
+function renderCharacters(currentGameId, toggleCharacter) {
+  // toggle deprecated
+  // var currentGameId = filterInfo.currentGameId
+  // var characters = filterInfo?.filters[currentGameId]?.characters ?? []
+  var characters = []
   var charactersSet = new Set(characters)
   var allChars = Characters[currentGameId]?.charList ?? []
   return <div className="charList">
@@ -31,12 +33,11 @@ function renderCharacters(filterInfo, toggleCharacter) {
   </div>
 }
 
-export const FilterView = (filterInfo, onChangeGame, onCloseClick, toggleCharacter, filterSetting) => {
+export const FilterView = (currentGameId, onChangeGame, onCloseClick, toggleCharacter, filterSetting) => {
   // const myRef = useRef();
   // useOnClickOutside(myRef, onCloseClick);
   const gameOnly = filterSetting === "game"
-  const title = gameOnly ? "Select game" : "Filter games and characters"
-  var currentGameId = filterInfo.currentGameId
+  const title = gameOnly ? "Select game" : "Select game/character"
   var onGameClick = gameOnly ? (item) => {
     onChangeGame(item)
     onCloseClick()
@@ -46,10 +47,10 @@ export const FilterView = (filterInfo, onChangeGame, onCloseClick, toggleCharact
     <div className="filterView">
       <div className="filterTitle">{title}</div>
       {
-        !gameOnly && renderCharacters(filterInfo, toggleCharacter)
+        !gameOnly && renderCharacters(currentGameId, toggleCharacter)
       }
       {
-        renderGameList(filterInfo.currentGameId, onGameClick)
+        renderGameList(currentGameId, onGameClick)
       }
       {
         renderXButtonTopRight(onCloseClick, {}, "white")
