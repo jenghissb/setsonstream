@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-109-1/set/95373114/</loc>
+  <lastmod>2025-10-24T13:38:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843239/image-8130c7201a45b81f29fac8c9806f750b.png
+    </video:thumbnail_loc>
+    <video:title>
+      スラリン(surarin) vs けんぴ(kenpi), Smash薬院#109 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch スラリン(surarin) vs けんぴ(kenpi) in Grand Final of Smash薬院#109, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Nw12ABlWnos?start=8890s
+    </video:player_loc>
+    <video:duration>627</video:duration>
+    <video:publication_date>2025-10-24T13:25:14.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-11-01T13:25:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/24-308/set/95372002/</loc>
-  <lastmod>2025-10-24T13:10:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-24T13:23:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/MDoj1K3UwFU?start=9400s
     </video:player_loc>
-    <video:duration>557</video:duration>
+    <video:duration>746</video:duration>
     <video:publication_date>2025-10-24T13:10:18.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-01T13:10:18.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-12T20:48:16.000Z</video:publication_date>
     <video:uploader>GerikTreehouse</video:uploader>
     <video:expiration_date>2025-10-20T20:48:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/luminosity-makes-moves-miami-2025-1/set/94980007/</loc>
-  <lastmod>2025-10-12T21:18:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
-    </video:thumbnail_loc>
-    <video:title>
-      SR | Kola vs ATATA, Luminosity Makes Moves Miami 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SR | Kola vs ATATA in Winners Round 2 of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2590011107&amp;t=4h58m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1674</video:duration>
-    <video:publication_date>2025-10-12T20:47:32.000Z</video:publication_date>
-    <video:uploader>vgbootcamp</video:uploader>
-    <video:expiration_date>2025-10-20T20:47:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
