@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-34/set/95383419/</loc>
+  <lastmod>2025-10-24T20:49:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833527/image-7ef7f90d8588955e840c449708fa8f15.png
+    </video:thumbnail_loc>
+    <video:title>
+      INSIM | ivy vs venmo:eve-ferro, Front Runners #34 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch INSIM | ivy vs venmo:eve-ferro in Losers Semi-Final of Front Runners #34, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600260959&amp;t=2h41m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1424</video:duration>
+    <video:publication_date>2025-10-24T20:49:58.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2025-11-01T20:49:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-34/set/95383416/</loc>
   <lastmod>2025-10-24T20:09:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-28T06:09:43.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-06T06:09:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-big-abbey-2-getting-bigger-350-pot-bonus/set/94444082/</loc>
-  <lastmod>2025-09-28T06:12:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809013/image-a36af7b8f27cf316cb4032c9e18a7ad7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aura vs PBAG | BSG | Graves, The Big Abbey 2: Getting Bigger - $350 Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aura vs PBAG | BSG | Graves in Winners Final of The Big Abbey 2: Getting Bigger - $350 Pot Bonus, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577780030&amp;t=0h3m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>966</video:duration>
-    <video:publication_date>2025-09-28T05:42:22.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-06T05:42:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
