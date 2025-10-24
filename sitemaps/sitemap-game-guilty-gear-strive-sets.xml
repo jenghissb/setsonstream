@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/friday-fundies-11/set/95392595/</loc>
-  <lastmod>2025-10-24T23:09:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-129/set/95399764/</loc>
+  <lastmod>2025-10-24T23:40:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844411/image-32ce9a0cb50834881ba654c33e187fe7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rothicus vs HZ, HoG: Moonlight #129 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rothicus vs HZ in Winners Quarter-Final of HoG: Moonlight #129, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600505591&amp;t=0h10m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>537</video:duration>
+    <video:publication_date>2025-10-24T23:40:46.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-11-01T23:40:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/friday-fundies-11/set/95392595/</loc>
+  <lastmod>2025-10-24T23:42:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2600461240&amp;t=0h36m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1805</video:duration>
+    <video:duration>315</video:duration>
     <video:publication_date>2025-10-24T23:09:09.000Z</video:publication_date>
     <video:uploader>attackfromallsides</video:uploader>
     <video:expiration_date>2025-11-01T23:09:09.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-27T00:32:14.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-05T00:32:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-11/set/94348027/</loc>
-  <lastmod>2025-09-27T01:19:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831649/image-231531616593de940945dcf638d46837.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Lethal Febreze(DeckHead) vs vgcraze, 4o4 by Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lethal Febreze(DeckHead) vs vgcraze in Winners Round 2 of 4o4 by Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2576656243&amp;t=0h22m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>625</video:duration>
-    <video:publication_date>2025-09-27T00:30:48.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2025-10-05T00:30:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
