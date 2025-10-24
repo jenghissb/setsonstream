@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/friday-fundies-11/set/95392578/</loc>
-  <lastmod>2025-10-24T22:43:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/friday-fundies-11/set/95392595/</loc>
+  <lastmod>2025-10-24T23:09:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844033/image-ac6248fceee5b86fd0e28369d86a3f1b.png
+    </video:thumbnail_loc>
+    <video:title>
+      SMN/BB | samba_migo vs AFAS|SMN | BboP, Friday Fundies #11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SMN/BB | samba_migo vs AFAS|SMN | BboP in Losers Semi-Final of Friday Fundies #11, streamed by attackfromallsides
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600461240&amp;t=0h36m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>322</video:duration>
+    <video:publication_date>2025-10-24T23:09:09.000Z</video:publication_date>
+    <video:uploader>attackfromallsides</video:uploader>
+    <video:expiration_date>2025-11-01T23:09:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/friday-fundies-11/set/95392578/</loc>
+  <lastmod>2025-10-24T23:13:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2600461240&amp;t=0h10m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>406</video:duration>
+    <video:duration>356</video:duration>
     <video:publication_date>2025-10-24T22:43:01.000Z</video:publication_date>
     <video:uploader>attackfromallsides</video:uploader>
     <video:expiration_date>2025-11-01T22:43:01.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-27T00:30:48.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-10-05T00:30:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-night-live-os-2/set/94342929/</loc>
-  <lastmod>2025-09-27T00:41:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820726/image-74a9c4cabefa4eee25662cce50ecad59.png
-    </video:thumbnail_loc>
-    <video:title>
-      &amp;rew vs TROLLGANG | Love, Fight Night Live @ OS #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch &amp;rew vs TROLLGANG | Love in Winners Round 2 of Fight Night Live @ OS #2, streamed by irongridfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2576616778&amp;t=0h40m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>264</video:duration>
-    <video:publication_date>2025-09-26T23:59:43.000Z</video:publication_date>
-    <video:uploader>irongridfgc</video:uploader>
-    <video:expiration_date>2025-10-04T23:59:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
