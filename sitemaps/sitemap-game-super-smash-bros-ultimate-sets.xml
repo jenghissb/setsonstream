@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-24-10-2025/set/95374605/</loc>
+  <lastmod>2025-10-24T16:16:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      MSHN | Linux Mint 22.2 vs KYC | Melon_JL, CitiSmash 24/10/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MSHN | Linux Mint 22.2 vs KYC | Melon_JL in Winners Quarter-Final of CitiSmash 24/10/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600144140&amp;t=0h28m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>799</video:duration>
+    <video:publication_date>2025-10-24T15:59:13.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-11-01T15:59:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-109-1/set/95373114/</loc>
   <lastmod>2025-10-24T13:38:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-12T20:52:38.000Z</video:publication_date>
     <video:uploader>ShunnedSage</video:uploader>
     <video:expiration_date>2025-10-20T20:52:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ccumotohouse-36/set/94981639/</loc>
-  <lastmod>2025-10-12T21:09:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      ACR | Bomba vs SSC | Chari, CCUMOTOHOUSE#36 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ACR | Bomba vs SSC | Chari in Winners Quarter-Final of CCUMOTOHOUSE#36, streamed by GerikTreehouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2590131232&amp;t=2h36m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1102</video:duration>
-    <video:publication_date>2025-10-12T20:48:16.000Z</video:publication_date>
-    <video:uploader>GerikTreehouse</video:uploader>
-    <video:expiration_date>2025-10-20T20:48:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
