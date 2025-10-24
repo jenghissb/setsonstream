@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/MDoj1K3UwFU?start=3371s
     </video:player_loc>
-    <video:duration>620</video:duration>
+    <video:duration>1194</video:duration>
     <video:publication_date>2025-10-24T11:29:49.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-01T11:29:49.000Z</video:expiration_date>
@@ -42,16 +42,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/5jLkrBTAV3Q?start=9404s
     </video:player_loc>
-    <video:duration>281</video:duration>
+    <video:duration>855</video:duration>
     <video:publication_date>2025-10-24T11:35:28.000Z</video:publication_date>
     <video:uploader>無明遊者【イベント配信団体】</video:uploader>
     <video:expiration_date>2025-11-01T11:35:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smalab-34/set/95372493/</loc>
-  <lastmod>2025-10-24T11:28:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smalab-34/set/95372480/</loc>
+  <lastmod>2025-10-24T11:47:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842275/image-848abc6c6e773be36704a8b86f2db650.png
+    </video:thumbnail_loc>
+    <video:title>
+      RMY | マネーライト(RMY | maneeraito) vs でめ(deme), Smalab 34 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RMY | マネーライト(RMY | maneeraito) vs でめ(deme) in Winners Final of Smalab 34, streamed by Smalab / スマラボ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/x2YE7CT5Azo?start=7496s
+    </video:player_loc>
+    <video:duration>397</video:duration>
+    <video:publication_date>2025-10-24T11:41:01.000Z</video:publication_date>
+    <video:uploader>Smalab / スマラボ</video:uploader>
+    <video:expiration_date>2025-11-01T11:41:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smalab-34/set/95372493/</loc>
+  <lastmod>2025-10-24T11:41:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/x2YE7CT5Azo?start=6733s
     </video:player_loc>
-    <video:duration>711</video:duration>
+    <video:duration>717</video:duration>
     <video:publication_date>2025-10-24T11:28:18.000Z</video:publication_date>
     <video:uploader>Smalab / スマラボ</video:uploader>
     <video:expiration_date>2025-11-01T11:28:18.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-12T20:05:01.000Z</video:publication_date>
     <video:uploader>odysseyesportsin</video:uploader>
     <video:expiration_date>2025-10-20T20:05:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/utk-smash-bash-30/set/94982809/</loc>
-  <lastmod>2025-10-12T20:38:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834644/image-d0cefb40d859ca7a428aa6040799eff4.png
-    </video:thumbnail_loc>
-    <video:title>
-      UTK | UTK Oglethorpe vs TTU | Tennessee Tech, UTK Smash Bash 30 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UTK | UTK Oglethorpe vs TTU | Tennessee Tech in Round 2 of UTK Smash Bash 30, streamed by tennessee_gorilla
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2590224355&amp;t=0h3m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1921</video:duration>
-    <video:publication_date>2025-10-12T20:03:22.000Z</video:publication_date>
-    <video:uploader>tennessee_gorilla</video:uploader>
-    <video:expiration_date>2025-10-20T20:03:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
