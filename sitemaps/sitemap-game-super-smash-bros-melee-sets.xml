@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rat-kings-2/set/95458868/</loc>
-  <lastmod>2025-10-25T19:02:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rat-kings-2/set/95458899/</loc>
+  <lastmod>2025-10-25T19:41:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/817217/image-8063dd891d8051301a9d755ae95fffc0.png
+    </video:thumbnail_loc>
+    <video:title>
+      Djkendi vs NH | tunafishsandwich, Rat Kings 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Djkendi vs NH | tunafishsandwich in Losers Semi-Final of Rat Kings 2, streamed by TennesseeMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2601139886&amp;t=1h54m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>507</video:duration>
+    <video:publication_date>2025-10-25T19:41:03.000Z</video:publication_date>
+    <video:uploader>TennesseeMelee</video:uploader>
+    <video:expiration_date>2025-11-02T19:41:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rat-kings-2/set/95458868/</loc>
+  <lastmod>2025-10-25T19:43:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2601139886&amp;t=1h15m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2078</video:duration>
+    <video:duration>1259</video:duration>
     <video:publication_date>2025-10-25T19:02:01.000Z</video:publication_date>
     <video:uploader>TennesseeMelee</video:uploader>
     <video:expiration_date>2025-11-02T19:02:01.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-09-28T21:25:20.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2025-10-06T21:25:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/it-s-not-you-it-s-melee-30/set/94466859/</loc>
-  <lastmod>2025-09-28T21:30:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830851/image-64d2aabb32c57087502a08bbfc1f8cb9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Takeshi vs shoelegend, It&apos;s Not You, It&apos;s Melee #30 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Takeshi vs shoelegend in Losers Quarter-Final of It&apos;s Not You, It&apos;s Melee #30, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2578128996&amp;t=3h45m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2492</video:duration>
-    <video:publication_date>2025-09-28T20:43:38.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2025-10-06T20:43:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
