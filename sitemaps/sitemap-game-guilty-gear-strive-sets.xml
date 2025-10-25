@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-night-live-os-3/set/95411386/</loc>
+  <lastmod>2025-10-25T04:16:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837046/image-984ae94352c5307880d328e534d5a2bf.png
+    </video:thumbnail_loc>
+    <video:title>
+      SLG | Yokai | Tyler vs RAY | JunoMustDie, Fight Night Live @ OS #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SLG | Yokai | Tyler vs RAY | JunoMustDie in Losers Final of Fight Night Live @ OS #3, streamed by bifuteki
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600485775&amp;t=4h45m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>629</video:duration>
+    <video:publication_date>2025-10-25T03:48:42.000Z</video:publication_date>
+    <video:uploader>bifuteki</video:uploader>
+    <video:expiration_date>2025-11-02T03:48:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-96/set/95415297/</loc>
-  <lastmod>2025-10-25T03:13:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-25T03:52:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2600655171&amp;t=0h32m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2121</video:duration>
+    <video:duration>1021</video:duration>
     <video:publication_date>2025-10-25T03:13:37.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-11-02T03:13:37.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-27T02:53:11.000Z</video:publication_date>
     <video:uploader>irongridfgc</video:uploader>
     <video:expiration_date>2025-10-05T02:53:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-93/set/94360183/</loc>
-  <lastmod>2025-09-27T03:23:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831754/image-728e1fab14e5647bf36b2eaee11f005e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FishyFishy vs evn, SoCal Colosseum #93 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FishyFishy vs evn in Winners Quarter-Final of SoCal Colosseum #93, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2576770290&amp;t=0h20m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>706</video:duration>
-    <video:publication_date>2025-09-27T02:52:07.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2025-10-05T02:52:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
