@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95439376/</loc>
+  <lastmod>2025-10-25T15:56:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ninja Crash vs Drake Von Duke, First Attack 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ninja Crash vs Drake Von Duke in Winners Round 1 of First Attack 2025, streamed by firstattackpr
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2601047802&amp;t=0h7m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1224</video:duration>
+    <video:publication_date>2025-10-25T15:56:29.000Z</video:publication_date>
+    <video:uploader>firstattackpr</video:uploader>
+    <video:expiration_date>2025-11-02T15:56:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95438627/</loc>
   <lastmod>2025-10-25T15:48:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-28T12:27:24.000Z</video:publication_date>
     <video:uploader>Themixuplyon</video:uploader>
     <video:expiration_date>2025-10-06T12:27:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ranking-1308/set/94450182/</loc>
-  <lastmod>2025-09-28T12:35:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827550/image-4044c3b88131b64f673264c7743cf020.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Medics vs HikenNoGief, Ranking #1308 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Medics vs HikenNoGief in Winners Round 2 of Ranking #1308, streamed by Themixuplyon
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577931499&amp;t=0h15m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>772</video:duration>
-    <video:publication_date>2025-09-28T12:14:00.000Z</video:publication_date>
-    <video:uploader>Themixuplyon</video:uploader>
-    <video:expiration_date>2025-10-06T12:14:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

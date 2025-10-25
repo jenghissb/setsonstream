@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-3/set/95433047/</loc>
+  <lastmod>2025-10-25T15:48:00.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813286/image-99e3c13689bebee7fb7d4bfd7bceff59.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nibodax vs ELS DAT | Focus Miss, ARRIVAL 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nibodax vs ELS DAT | Focus Miss in Round 2 of ARRIVAL 3, streamed by rivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600906307&amp;t=3h47m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1733</video:duration>
+    <video:publication_date>2025-10-25T15:48:00.000Z</video:publication_date>
+    <video:uploader>rivalsofaether</video:uploader>
+    <video:expiration_date>2025-11-02T15:48:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-town-show-down-don-t-stop-moving/set/95413037/</loc>
   <lastmod>2025-10-25T02:50:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-01T23:48:16.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-09T23:48:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-10-1-25/set/94547283/</loc>
-  <lastmod>2025-10-02T00:19:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835763/image-099cfdf390839a97143ccba78c152369.png
-    </video:thumbnail_loc>
-    <video:title>
-      GFU | No More Mr. Nicefire vs GAW | RedShirt, GoTE Rivals 2 and more (10/1/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GFU | No More Mr. Nicefire vs GAW | RedShirt in Winners Quarter-Final of GoTE Rivals 2 and more (10/1/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580799791&amp;t=0h49m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1331</video:duration>
-    <video:publication_date>2025-10-01T23:45:21.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-10-09T23:45:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
