@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95438627/</loc>
+  <lastmod>2025-10-25T15:18:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
+    </video:thumbnail_loc>
+    <video:title>
+      BLK | HuGoKu vs Gil The 3rd, First Attack 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BLK | HuGoKu vs Gil The 3rd in Winners Round 2 of First Attack 2025, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600964649&amp;t=1h35m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>642</video:duration>
+    <video:publication_date>2025-10-25T15:18:18.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-02T15:18:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95436926/</loc>
   <lastmod>2025-10-25T14:53:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-28T12:14:00.000Z</video:publication_date>
     <video:uploader>Themixuplyon</video:uploader>
     <video:expiration_date>2025-10-06T12:14:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-farming-market-3-brewed-brawl/set/94444382/</loc>
-  <lastmod>2025-09-28T06:34:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818413/image-b2f7abae2d25ccaa3d688b1b4607e721.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PugBizcuit vs Teq, The Farming Market 3: Brewed Brawl - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PugBizcuit vs Teq in Grand Final of The Farming Market 3: Brewed Brawl, streamed by iLainey
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577722952&amp;t=2h20m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>603</video:duration>
-    <video:publication_date>2025-09-28T06:08:15.000Z</video:publication_date>
-    <video:uploader>iLainey</video:uploader>
-    <video:expiration_date>2025-10-06T06:08:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
