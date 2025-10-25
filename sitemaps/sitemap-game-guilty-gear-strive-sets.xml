@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-96/set/95415332/</loc>
+  <lastmod>2025-10-25T04:36:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841649/image-725d8e882414cea9a199f6088a1d6b0a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LzzDoThis vs bee, SoCal Colosseum #96 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LzzDoThis vs bee in Losers Quarter-Final of SoCal Colosseum #96, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600655171&amp;t=1h55m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>302</video:duration>
+    <video:publication_date>2025-10-25T04:36:08.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-11-02T04:36:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-night-live-os-3/set/95411386/</loc>
   <lastmod>2025-10-25T04:16:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-27T02:56:24.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-10-05T02:56:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-night-live-os-2/set/94356073/</loc>
-  <lastmod>2025-09-27T03:23:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820726/image-74a9c4cabefa4eee25662cce50ecad59.png
-    </video:thumbnail_loc>
-    <video:title>
-      PAR | Lord Knight vs Fly | NitroNY, Fight Night Live @ OS #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PAR | Lord Knight vs Fly | NitroNY in Grand Final of Fight Night Live @ OS #2, streamed by irongridfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2576616778&amp;t=3h34m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>877</video:duration>
-    <video:publication_date>2025-09-27T02:53:11.000Z</video:publication_date>
-    <video:uploader>irongridfgc</video:uploader>
-    <video:expiration_date>2025-10-05T02:53:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
