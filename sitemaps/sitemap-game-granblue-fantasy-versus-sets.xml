@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/first-attack-2025/set/95471473/</loc>
-  <lastmod>2025-10-25T20:23:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/first-attack-2025/set/95471492/</loc>
+  <lastmod>2025-10-25T21:02:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lucar vs ONIC | NYChrisG, First Attack 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lucar vs ONIC | NYChrisG in Losers Round 1 of First Attack 2025, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600964649&amp;t=7h20m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>620</video:duration>
+    <video:publication_date>2025-10-25T21:02:48.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-02T21:02:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/first-attack-2025/set/95471473/</loc>
+  <lastmod>2025-10-25T21:08:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2600964649&amp;t=6h41m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1552</video:duration>
+    <video:duration>1031</video:duration>
     <video:publication_date>2025-10-25T20:23:52.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-02T20:23:52.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-23T17:17:25.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-08-31T17:17:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/rogafight-45/set/92983606/</loc>
-  <lastmod>2025-08-23T17:37:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820189/image-cede0e5a0b5a023a5e6521a0471d7488.png
-    </video:thumbnail_loc>
-    <video:title>
-      DegruM vs RBNorway | Northard, RogaFight #45 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DegruM vs RBNorway | Northard in Losers Quarter-Final of RogaFight #45, streamed by fgcrogaland
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2547769543&amp;t=0h48m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>470</video:duration>
-    <video:publication_date>2025-08-23T17:15:53.000Z</video:publication_date>
-    <video:uploader>fgcrogaland</video:uploader>
-    <video:expiration_date>2025-08-31T17:15:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
