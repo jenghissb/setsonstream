@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-104/set/95405451/</loc>
+  <lastmod>2025-10-25T00:56:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842458/image-f261b780fbcba9f7b0495fd2535efbdc.png
+    </video:thumbnail_loc>
+    <video:title>
+      ECHT | Young_matt_teen vs KAOS, UP THE BLOCK #104 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ECHT | Young_matt_teen vs KAOS in Winners Quarter-Final of UP THE BLOCK #104, streamed by UG_NYC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600544282&amp;t=0h38m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>710</video:duration>
+    <video:publication_date>2025-10-25T00:56:02.000Z</video:publication_date>
+    <video:uploader>UG_NYC</video:uploader>
+    <video:expiration_date>2025-11-02T00:56:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/thursday-throwdown-165/set/95358675/</loc>
   <lastmod>2025-10-24T03:40:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-09-28T03:23:05.000Z</video:publication_date>
     <video:uploader>iLainey</video:uploader>
     <video:expiration_date>2025-10-06T03:23:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-farming-market-3-brewed-brawl/set/94440205/</loc>
-  <lastmod>2025-09-28T03:31:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818413/image-b2f7abae2d25ccaa3d688b1b4607e721.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      WhoDatSylas vs Jack Mason, The Farming Market 3: Brewed Brawl - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WhoDatSylas vs Jack Mason in Winners Round 2 of The Farming Market 3: Brewed Brawl, streamed by iLainey
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577661294&amp;t=0h54m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>837</video:duration>
-    <video:publication_date>2025-09-28T03:06:16.000Z</video:publication_date>
-    <video:uploader>iLainey</video:uploader>
-    <video:expiration_date>2025-10-06T03:06:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
