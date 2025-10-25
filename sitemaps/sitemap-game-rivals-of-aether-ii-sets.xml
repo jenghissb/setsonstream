@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-town-show-down-don-t-stop-moving/set/95413037/</loc>
+  <lastmod>2025-10-25T02:12:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841941/image-2ee3581d02827b2ae270c8bce5742d84.png
+    </video:thumbnail_loc>
+    <video:title>
+      ceramic vs PHNTM | TG, Port Town Show Down: Don&apos;t Stop Moving! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ceramic vs PHNTM | TG in Round 3 of Port Town Show Down: Don&apos;t Stop Moving!, streamed by RivalsBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2600595113&amp;t=0h52m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1678</video:duration>
+    <video:publication_date>2025-10-25T02:12:37.000Z</video:publication_date>
+    <video:uploader>RivalsBC</video:uploader>
+    <video:expiration_date>2025-11-02T02:12:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-45/set/95365590/</loc>
   <lastmod>2025-10-24T03:05:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-01T23:45:21.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2025-10-09T23:45:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-9-14/set/94545650/</loc>
-  <lastmod>2025-10-01T23:55:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835679/image-5fab2051c1e867f42f6406581a777850.png
-    </video:thumbnail_loc>
-    <video:title>
-      TOMA | Shadowhawke vs 15 | Mr. MakeItHappen, HoG: Burn 9.14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TOMA | Shadowhawke vs 15 | Mr. MakeItHappen in Round 3 of HoG: Burn 9.14, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580825710&amp;t=0h4m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>892</video:duration>
-    <video:publication_date>2025-10-01T23:33:11.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-10-09T23:33:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
