@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=TeamAskalonn2&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>458</video:duration>
+    <video:duration>1024</video:duration>
     <video:publication_date>2025-10-25T08:33:57.000Z</video:publication_date>
     <video:uploader>TeamAskalonn2</video:uploader>
     <video:expiration_date>2025-11-02T08:33:57.000Z</video:expiration_date>
@@ -42,16 +42,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2600821166&amp;t=0h1m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>473</video:duration>
+    <video:duration>1039</video:duration>
     <video:publication_date>2025-10-25T08:33:42.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2025-11-02T08:33:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-rumble-royale-12/set/95420994/</loc>
-  <lastmod>2025-10-25T08:16:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-rumble-royale-12/set/95421025/</loc>
+  <lastmod>2025-10-25T08:41:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842278/image-b09c0ed848456d4a33d65eb78937b295.png
+    </video:thumbnail_loc>
+    <video:title>
+      Z | On your left vs HKSBC | Bomboozler, HKSBC Rumble Royale 群魔亂武 #12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Z | On your left vs HKSBC | Bomboozler in Losers Semi-Final of HKSBC Rumble Royale 群魔亂武 #12, streamed by 香港大亂鬥同好會 - HKSBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/channel/UCF87OsND5lmL8P35YBhBONg
+    </video:player_loc>
+    <video:duration>591</video:duration>
+    <video:publication_date>2025-10-25T08:41:10.000Z</video:publication_date>
+    <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
+    <video:expiration_date>2025-11-02T08:41:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-rumble-royale-12/set/95420994/</loc>
+  <lastmod>2025-10-25T08:44:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/B8MdKvW59J0?start=12244s
     </video:player_loc>
-    <video:duration>1498</video:duration>
+    <video:duration>1421</video:duration>
     <video:publication_date>2025-10-25T08:16:37.000Z</video:publication_date>
     <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
     <video:expiration_date>2025-11-02T08:16:37.000Z</video:expiration_date>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2025-10-17T20:13:06.000Z</video:publication_date>
     <video:uploader>dashdances</video:uploader>
     <video:expiration_date>2025-10-25T20:13:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/minish-x-3-3/set/95109575/</loc>
-  <lastmod>2025-10-17T20:30:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840669/image-d01b23082aa7672bfaa68f27d637b6e5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      WGO | BoumPoisson vs NSNT | Dragnis, MINISH X-3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WGO | BoumPoisson vs NSNT | Dragnis in Losers Round 4 of MINISH X-3, streamed by supervachebros
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594315999&amp;t=1h52m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1153</video:duration>
-    <video:publication_date>2025-10-17T20:07:45.000Z</video:publication_date>
-    <video:uploader>supervachebros</video:uploader>
-    <video:expiration_date>2025-10-25T20:07:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
