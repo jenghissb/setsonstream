@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/burning-river-battle-1/set/95550961/</loc>
+  <lastmod>2025-10-26T22:59:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842585/image-368fb0054092e86e5cb652d60a99f9e1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yeti vs Dreadski, Burning River Battle #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yeti vs Dreadski in Losers Semi-Final of Burning River Battle #1, streamed by csuvikes_gg2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2602238779&amp;t=0h48m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>902</video:duration>
+    <video:publication_date>2025-10-26T22:59:18.000Z</video:publication_date>
+    <video:uploader>csuvikes_gg2</video:uploader>
+    <video:expiration_date>2025-11-03T22:59:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95542435/</loc>
   <lastmod>2025-10-26T22:13:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-03T00:26:43.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2025-10-11T00:26:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/thursday-throwdown-162/set/94574987/</loc>
-  <lastmod>2025-10-03T00:12:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835600/image-288c37f348fdbda86ab1ac9d0baad99f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Great Fireball vs bug club | mynameisfury, Thursday Throwdown 162 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Great Fireball vs bug club | mynameisfury in Winners Quarter-Final of Thursday Throwdown 162, streamed by Magik4FGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2581681930&amp;t=0h20m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>261</video:duration>
-    <video:publication_date>2025-10-02T23:46:53.000Z</video:publication_date>
-    <video:uploader>Magik4FGC</video:uploader>
-    <video:expiration_date>2025-10-10T23:46:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
