@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-farming-market-4-agricultural-adversaries/set/95517542/</loc>
+  <lastmod>2025-10-26T04:00:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842319/image-91a34ab7c786866e9a33abb7bede490d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      UN4G | Pixley vs Handi, The Farming Market 4: Agricultural Adversaries - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UN4G | Pixley vs Handi in Winners Round 1 of The Farming Market 4: Agricultural Adversaries, streamed by BlurredWolf
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2601491452&amp;t=2h38m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1277</video:duration>
+    <video:publication_date>2025-10-26T04:00:19.000Z</video:publication_date>
+    <video:uploader>BlurredWolf</video:uploader>
+    <video:expiration_date>2025-11-03T04:00:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/first-attack-2025/set/95471476/</loc>
   <lastmod>2025-10-25T23:38:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-23T17:35:22.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-08-31T17:35:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/rogafight-45/set/92983609/</loc>
-  <lastmod>2025-08-23T17:56:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820189/image-cede0e5a0b5a023a5e6521a0471d7488.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zeke vs DegruM, RogaFight #45 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zeke vs DegruM in Losers Final of RogaFight #45, streamed by fgcrogaland
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2547769543&amp;t=1h2m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>619</video:duration>
-    <video:publication_date>2025-08-23T17:30:42.000Z</video:publication_date>
-    <video:uploader>fgcrogaland</video:uploader>
-    <video:expiration_date>2025-08-31T17:30:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
