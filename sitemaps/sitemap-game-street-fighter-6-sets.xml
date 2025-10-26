@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95542404/</loc>
-  <lastmod>2025-10-26T19:38:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95542403/</loc>
+  <lastmod>2025-10-26T19:58:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
+    </video:thumbnail_loc>
+    <video:title>
+      CrossoverRD vs ONIC | NYChrisG, First Attack 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CrossoverRD vs ONIC | NYChrisG in Winners Quarter-Final of First Attack 2025, streamed by firstattackpr
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2601862023&amp;t=6h0m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1100</video:duration>
+    <video:publication_date>2025-10-26T19:58:25.000Z</video:publication_date>
+    <video:uploader>firstattackpr</video:uploader>
+    <video:expiration_date>2025-11-03T19:58:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/burning-river-battle-1/set/95544660/</loc>
+  <lastmod>2025-10-26T20:04:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842585/image-368fb0054092e86e5cb652d60a99f9e1.png
+    </video:thumbnail_loc>
+    <video:title>
+      CSU | Saucetin vs Yeti, Burning River Battle #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CSU | Saucetin vs Yeti in Winners Round 1 of Burning River Battle #1, streamed by csuvikes_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=csuvikes_gg&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>731</video:duration>
+    <video:publication_date>2025-10-26T20:04:34.000Z</video:publication_date>
+    <video:uploader>csuvikes_gg</video:uploader>
+    <video:expiration_date>2025-11-03T20:04:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95542404/</loc>
+  <lastmod>2025-10-26T20:08:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2601862023&amp;t=5h40m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>684</video:duration>
+    <video:duration>588</video:duration>
     <video:publication_date>2025-10-26T19:38:25.000Z</video:publication_date>
     <video:uploader>firstattackpr</video:uploader>
     <video:expiration_date>2025-11-03T19:38:25.000Z</video:expiration_date>
@@ -7174,30 +7222,6 @@
     <video:publication_date>2025-10-01T02:36:30.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-10-09T02:36:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesday-s-at-d-b-19/set/94526927/</loc>
-  <lastmod>2025-10-01T02:40:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833460/image-d37624224cfe27c1c5bb7505eb676aab.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chipun | BP Amoco vs TCG, Tuesday&apos;s at D&amp;B #19 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chipun | BP Amoco vs TCG in Losers Semi-Final of Tuesday&apos;s at D&amp;B #19, streamed by FrankieG7Chi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580043409&amp;t=2h3m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>247</video:duration>
-    <video:publication_date>2025-10-01T02:20:56.000Z</video:publication_date>
-    <video:uploader>FrankieG7Chi</video:uploader>
-    <video:expiration_date>2025-10-09T02:20:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
