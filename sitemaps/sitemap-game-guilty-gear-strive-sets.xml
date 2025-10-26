@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/gatorlan-fall-2025/set/95542818/</loc>
+  <lastmod>2025-10-26T20:24:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/817439/image-ba90ec3fa7511ef658dd8e874d7ec239.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nikolai vs DODO | starhearth, GatorLAN Fall 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nikolai vs DODO | starhearth in Winners Quarter-Final of GatorLAN Fall 2025, streamed by tentaaaa_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2602147906&amp;t=0h15m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>851</video:duration>
+    <video:publication_date>2025-10-26T20:24:52.000Z</video:publication_date>
+    <video:uploader>tentaaaa_</video:uploader>
+    <video:expiration_date>2025-11-03T20:24:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/first-attack-2025/set/95518985/</loc>
   <lastmod>2025-10-26T16:52:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-28T19:13:30.000Z</video:publication_date>
     <video:uploader>tabbynickel</video:uploader>
     <video:expiration_date>2025-10-06T19:13:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-47-s-ndag-f-ndag-iv/set/94453647/</loc>
-  <lastmod>2025-09-28T14:30:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832178/image-2fe607aa2976a2029e967684ea382ecd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Floor 4 | Zero Blod vs NAVengers | Dovii, RogaFight #47 — Søndag Føndag IV - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Floor 4 | Zero Blod vs NAVengers | Dovii in Losers Semi-Final of RogaFight #47 — Søndag Føndag IV, streamed by fgcrogaland
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577973707&amp;t=0h52m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>412</video:duration>
-    <video:publication_date>2025-09-28T14:04:05.000Z</video:publication_date>
-    <video:uploader>fgcrogaland</video:uploader>
-    <video:expiration_date>2025-10-06T14:04:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
