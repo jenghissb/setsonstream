@@ -10,6 +10,7 @@ import { BracketIcon } from './SubEmbedControls.js'
 
 export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBracket, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
   const extraInCol = !extraOnSide
+  const useBackgroundImage = false
   var preview = null
   var divClass = "nowPlaying-set-row-1"
   if (selected) divClass = divClass + " nowPlaying-set-row-1-selected"
@@ -98,7 +99,7 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
   const streamIcon = item.streamInfo.streamIcon
   //          <a href={item.player1Info.entrantUrl} target="_blank" className={player1NameClass}>{item.player1Info.nameWithRomaji}</a> {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span><a href={item.player2Info.entrantUrl} target="_blank"  className={player2NameClass}>{item.player2Info.nameWithRomaji}</a> {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
 
-  const backgroundImageStyle = (showExtra && extraInCol) ? {
+  const backgroundImageStyle = (showExtra && extraInCol && useBackgroundImage) ? {
           backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl2})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
@@ -122,8 +123,8 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
   
   return (
     <div className="nowPlayingRow" style={backgroundImageStyle}>
-    <div className="nowPlaying-under-row">
-      <div className="nowPlaying-under-info">
+    <div className="nowPlaying-under-row" style={extraInCol ? {paddingBottom: "0px"} : {}}>
+      <div className="nowPlaying-under-info" style={extraInCol ? {paddingBottom: "0px"} : {}}>
         <div className="nowPlaying-set-row-4">
           {player1LinkElem} {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span>{player2LinkElem} {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
         </div>
@@ -170,12 +171,12 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
       </div>
     </div>
     { showExtra && extraOnSide &&
-      <div className="nowPlaying-segment2"  style={{
+      <div className="nowPlaying-segment2"  style={useBackgroundImage ? {
       backgroundImage: `linear-gradient(rgba(0, 0, 0, ${opacityStr}),  rgba(0, 0, 0, ${opacityStr})), url(${tourneyBackgroundUrl2})`,
       backgroundSize: "cover",
       backgroundPosition: "center"
       // backgroundImage: "url(https://images.start.gg/images/tournament/801629/image-2c4b8e6351f06631091df62adc53b133.jpg)",
-    }}>
+    } : {}}>
         <div className="nowPlaying-segment2-row1">
           <span className="nowPlaying-segment2-viewersText">{viewersText}👤 {item.bracketInfo.numEntrants}{"  "}</span>
           <div className="nowPlaying-segment2-tourney-timestamp"><span className='nowPlaying-t1-stamp'>{timestampText}</span>{liveTextSpan}</div>
