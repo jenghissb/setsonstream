@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/first-attack-2025/set/95518998/</loc>
+  <lastmod>2025-10-26T15:13:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aboii vs Konkon, First Attack 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aboii vs Konkon in Losers Quarter-Final of First Attack 2025, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2601853376&amp;t=1h29m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>932</video:duration>
+    <video:publication_date>2025-10-26T15:13:54.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-03T15:13:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/first-attack-2025/set/95518983/</loc>
   <lastmod>2025-10-26T14:58:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-28T13:32:30.000Z</video:publication_date>
     <video:uploader>fgcrogaland</video:uploader>
     <video:expiration_date>2025-10-06T13:32:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-47-s-ndag-f-ndag-iv/set/94453629/</loc>
-  <lastmod>2025-09-28T13:37:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832178/image-2fe607aa2976a2029e967684ea382ecd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mango king vs 1deegre to the left, RogaFight #47 — Søndag Føndag IV - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mango king vs 1deegre to the left in Winners Quarter-Final of RogaFight #47 — Søndag Føndag IV, streamed by fgcrogaland
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577973707&amp;t=0h1m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>448</video:duration>
-    <video:publication_date>2025-09-28T13:13:25.000Z</video:publication_date>
-    <video:uploader>fgcrogaland</video:uploader>
-    <video:expiration_date>2025-10-06T13:13:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
