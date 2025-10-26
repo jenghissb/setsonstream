@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/qdT4p1fQr8U?start=28843s
     </video:player_loc>
-    <video:duration>367</video:duration>
+    <video:duration>995</video:duration>
     <video:publication_date>2025-10-26T09:33:00.000Z</video:publication_date>
     <video:uploader>Westerlies Gaming(旧スマブラオフ大会配信チャンネル)</video:uploader>
     <video:expiration_date>2025-11-03T09:33:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/63-sp-1/set/95519322/</loc>
-  <lastmod>2025-10-26T09:25:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834041/image-42d5493a2b2f1bac00f095d0834600b9.png
-    </video:thumbnail_loc>
-    <video:title>
-      R vs Galia | Ponflex, 第63回スマバトSP - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch R vs Galia | Ponflex in Final of 第63回スマバトSP, streamed by WhyWhy Games[皿缶:さらかん]
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/uFxi3la-HOY?start=18038s
-    </video:player_loc>
-    <video:duration>839</video:duration>
-    <video:publication_date>2025-10-26T09:25:08.000Z</video:publication_date>
-    <video:uploader>WhyWhy Games[皿缶:さらかん]</video:uploader>
-    <video:expiration_date>2025-11-03T09:25:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -66,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2601690220&amp;t=1h57m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>497</video:duration>
+    <video:duration>1125</video:duration>
     <video:publication_date>2025-10-26T09:30:50.000Z</video:publication_date>
     <video:uploader>Breakoutsmash</video:uploader>
     <video:expiration_date>2025-11-03T09:30:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/63-sp-1/set/95519322/</loc>
+  <lastmod>2025-10-26T09:47:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834041/image-42d5493a2b2f1bac00f095d0834600b9.png
+    </video:thumbnail_loc>
+    <video:title>
+      R vs Galia | Ponflex, 第63回スマバトSP - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch R vs Galia | Ponflex in Final of 第63回スマバトSP, streamed by WhyWhy Games[皿缶:さらかん]
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/uFxi3la-HOY?start=18038s
+    </video:player_loc>
+    <video:duration>1116</video:duration>
+    <video:publication_date>2025-10-26T09:25:08.000Z</video:publication_date>
+    <video:uploader>WhyWhy Games[皿缶:さらかん]</video:uploader>
+    <video:expiration_date>2025-11-03T09:25:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
