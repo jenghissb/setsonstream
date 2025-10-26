@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/first-attack-2025/set/95518983/</loc>
+  <lastmod>2025-10-26T14:24:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kazam vs PAR | Lord Knight, First Attack 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kazam vs PAR | Lord Knight in Winners Semi-Final of First Attack 2025, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2601853376&amp;t=0h40m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1500</video:duration>
+    <video:publication_date>2025-10-26T14:24:54.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-03T14:24:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guilty-gear-strive-october-2025-bundesbattle-qualifier-3/set/95526404/</loc>
   <lastmod>2025-10-26T14:12:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-09-28T13:13:25.000Z</video:publication_date>
     <video:uploader>fgcrogaland</video:uploader>
     <video:expiration_date>2025-10-06T13:13:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/lubbock-finale-2025/set/94436376/</loc>
-  <lastmod>2025-09-28T03:46:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/777544/image-b471950bc269489bcfc6be82399cb589.png
-    </video:thumbnail_loc>
-    <video:title>
-      Pk | Yandere vs rug ! !, Lubbock Finale 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Pk | Yandere vs rug ! ! in Grand Final of Lubbock Finale 2025, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577636303&amp;t=1h49m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>656</video:duration>
-    <video:publication_date>2025-09-28T03:26:32.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2025-10-06T03:26:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
