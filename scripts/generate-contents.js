@@ -724,7 +724,7 @@ async function main() {
         url = `https://setsonstream.tv/game/${gameSlug}/char/${charName}/set/${setId}/`
         jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
         writeFile(
-          path.join(gameDir, "set", `${setId}`, "index.html"),
+          path.join(gameDir, "char", charName, "set", `${setId}`, "index.html"),
           generatePage({
             templatePath,
             title, 
