@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-2-3/set/95559428/</loc>
-  <lastmod>2025-10-27T03:52:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-2-3/set/95559430/</loc>
+  <lastmod>2025-10-27T04:13:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844215/image-2bf1226041ec0b6ddedead7d4f76e0a1.png
+    </video:thumbnail_loc>
+    <video:title>
+      TIDE | Moe ඞ vs ??? | PSK | AlanDiss, Reborn #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TIDE | Moe ඞ vs ??? | PSK | AlanDiss in Winners Final of Reborn #2, streamed by xtrtj
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2602324073&amp;t=4h3m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1097</video:duration>
+    <video:publication_date>2025-10-27T04:13:02.000Z</video:publication_date>
+    <video:uploader>xtrtj</video:uploader>
+    <video:expiration_date>2025-11-04T04:13:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-2-3/set/95559428/</loc>
+  <lastmod>2025-10-27T04:15:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2602324073&amp;t=3h42m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>416</video:duration>
+    <video:duration>1318</video:duration>
     <video:publication_date>2025-10-27T03:52:01.000Z</video:publication_date>
     <video:uploader>xtrtj</video:uploader>
     <video:expiration_date>2025-11-04T03:52:01.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-19T17:52:47.000Z</video:publication_date>
     <video:uploader>ttvMadison</video:uploader>
     <video:expiration_date>2025-10-27T17:52:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-on-the-harbour-245/set/95236860/</loc>
-  <lastmod>2025-10-19T18:03:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841815/image-49a6f873078152b719354b8dbc3b2b68.png
-    </video:thumbnail_loc>
-    <video:title>
-      Vapor vs YTS | Jonch, Smash on the Harbour #245 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Vapor vs YTS | Jonch in Winners Quarter-Final of Smash on the Harbour #245, streamed by mixupgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596081815&amp;t=0h50m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>411</video:duration>
-    <video:publication_date>2025-10-19T17:52:06.000Z</video:publication_date>
-    <video:uploader>mixupgg</video:uploader>
-    <video:expiration_date>2025-10-27T17:52:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
