@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-mondays-the-guild-8/set/95572583/</loc>
+  <lastmod>2025-10-27T23:14:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843833/image-0b5db692bb355ce79e0f4240380a7f50.png
+    </video:thumbnail_loc>
+    <video:title>
+      MKE | RobDyrdekFan400 vs Shad&amp;Joey | Jisp, Melee Mondays @ The Guild #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MKE | RobDyrdekFan400 vs Shad&amp;Joey | Jisp in Round 2 of Melee Mondays @ The Guild #8, streamed by theguildtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2603068341&amp;t=0h12m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>863</video:duration>
+    <video:publication_date>2025-10-27T23:14:52.000Z</video:publication_date>
+    <video:uploader>theguildtv</video:uploader>
+    <video:expiration_date>2025-11-04T23:14:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-83/set/95567392/</loc>
   <lastmod>2025-10-27T21:05:20.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-01T04:33:42.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-09T04:33:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-113/set/94531938/</loc>
-  <lastmod>2025-10-01T04:35:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834841/image-e4d80656ae39cee4150824f9424c8bfa.png
-    </video:thumbnail_loc>
-    <video:title>
-      OBE | sumi vs TJGE | Megaman, Melee @ Abbey Tavern #113 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OBE | sumi vs TJGE | Megaman in Winners Semi-Final of Melee @ Abbey Tavern #113, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580108657&amp;t=2h32m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1303</video:duration>
-    <video:publication_date>2025-10-01T04:11:44.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-09T04:11:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
