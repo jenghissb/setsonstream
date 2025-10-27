@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-223/set/95572195/</loc>
-  <lastmod>2025-10-27T23:07:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-223/set/95572196/</loc>
+  <lastmod>2025-10-27T23:21:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835020/image-1b1c1df7a84d04260bda2bd3b9389edb.png
+    </video:thumbnail_loc>
+    <video:title>
+      ESG | HOJU vs CRAB | ZeperTheStar, ESG Fight Night #223 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ESG | HOJU vs CRAB | ZeperTheStar in Round 3 of ESG Fight Night #223, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2603063027&amp;t=0h24m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1112</video:duration>
+    <video:publication_date>2025-10-27T23:21:16.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2025-11-04T23:21:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-223/set/95572195/</loc>
+  <lastmod>2025-10-27T23:33:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2603063027&amp;t=0h10m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1315</video:duration>
+    <video:duration>815</video:duration>
     <video:publication_date>2025-10-27T23:07:20.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-11-04T23:07:20.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-05T01:47:09.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-10-13T01:47:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/colorado-mile-high-burst-monthly-october-2025/set/94686438/</loc>
-  <lastmod>2025-10-05T02:22:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831897/image-56717d1959632a29d083e38695bfdf05.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rasher vs Vispora, Colorado Mile High Burst Monthly October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rasher vs Vispora in Losers Semi-Final of Colorado Mile High Burst Monthly October 2025, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583276125&amp;t=6h34m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1193</video:duration>
-    <video:publication_date>2025-10-05T01:45:15.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2025-10-13T01:45:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
