@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-83/set/95567389/</loc>
+  <lastmod>2025-10-27T19:27:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844101/image-eb297ab1e36585e73175c3f548154c09.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Graham vs 514flexx, KnockOut Zone #83 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Graham vs 514flexx in Winners Semi-Final of KnockOut Zone #83, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2602846885&amp;t=1h10m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>536</video:duration>
+    <video:publication_date>2025-10-27T19:27:54.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-11-04T19:27:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/deyve-s-smash-bash-17-halloween-costume-contest/set/95559177/</loc>
   <lastmod>2025-10-27T03:35:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-01T03:26:58.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-09T03:26:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-113/set/94530681/</loc>
-  <lastmod>2025-10-01T03:28:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834841/image-e4d80656ae39cee4150824f9424c8bfa.png
-    </video:thumbnail_loc>
-    <video:title>
-      smus vs VVS, Melee @ Abbey Tavern #113 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch smus vs VVS in Winners Round 3 of Melee @ Abbey Tavern #113, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580108657&amp;t=1h28m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>606</video:duration>
-    <video:publication_date>2025-10-01T03:07:22.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-09T03:07:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
