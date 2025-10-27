@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/leeds-legacy-smash-pixel-200/set/95565790/</loc>
+  <lastmod>2025-10-27T18:45:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840605/image-e97e279c1073404e20431c86e8001f69.png
+    </video:thumbnail_loc>
+    <video:title>
+      DFM | Sathlet vs H&amp;H PUB | YABOIPICCOLO, Leeds Legacy Smash @ Pixel #200 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DFM | Sathlet vs H&amp;H PUB | YABOIPICCOLO in Winners Round 1 of Leeds Legacy Smash @ Pixel #200, streamed by LeedsLegacyRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2602843573&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>823</video:duration>
+    <video:publication_date>2025-10-27T18:12:05.000Z</video:publication_date>
+    <video:uploader>LeedsLegacyRivals</video:uploader>
+    <video:expiration_date>2025-11-04T18:12:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-3/set/95460181/</loc>
   <lastmod>2025-10-25T21:21:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-05T14:30:22.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2025-10-13T14:30:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hitfall-4/set/94706912/</loc>
-  <lastmod>2025-10-05T14:36:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/803832/image-fae69eb9686735da95730d469dd33170.png
-    </video:thumbnail_loc>
-    <video:title>
-      Space vs Bitlytic, Hitfall 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Space vs Bitlytic in Winners Round 2 of Hitfall 4, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583905954&amp;t=0h44m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>589</video:duration>
-    <video:publication_date>2025-10-05T14:13:26.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2025-10-13T14:13:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
