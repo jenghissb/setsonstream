@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-30/set/95583263/</loc>
+  <lastmod>2025-10-28T06:09:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845320/image-6ce1b86e0b517a21838dd660279f32d9.png
+    </video:thumbnail_loc>
+    <video:title>
+      MichaelTheFresh vs Melee Stats | s-f, McCloud&apos;s Melee Co. #30 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MichaelTheFresh vs Melee Stats | s-f in Losers Final of McCloud&apos;s Melee Co. #30, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2603217163&amp;t=3h57m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>919</video:duration>
+    <video:publication_date>2025-10-28T06:09:18.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-11-05T06:09:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-30/set/95583199/</loc>
   <lastmod>2025-10-28T04:54:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-02T00:15:00.000Z</video:publication_date>
     <video:uploader>uwsmashclub</video:uploader>
     <video:expiration_date>2025-10-10T00:15:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-10-1-25/set/94545202/</loc>
-  <lastmod>2025-10-02T00:23:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833854/image-0afec9fbe209d202500fc1f244430ffe.png
-    </video:thumbnail_loc>
-    <video:title>
-      oz vs Tarkus, One Up Melee 10.1.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch oz vs Tarkus in Winners Quarter-Final of One Up Melee 10.1.25, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580841581&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>631</video:duration>
-    <video:publication_date>2025-10-01T23:50:58.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2025-10-09T23:50:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
