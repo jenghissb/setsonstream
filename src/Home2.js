@@ -872,7 +872,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
     noControls: false,
     // noMap: false,
   }
-  if (params.setParam != null && currentGameId === "43868") {
+  if (false && params.setParam != null && currentGameId === "43868") {
     displayConfig = {
       // noRightPane: true,
       noDisplayData: true,
