@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-replay-runback-104/set/95583833/</loc>
-  <lastmod>2025-10-28T04:12:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845128/image-8e478057f44d1b7917651930b73a7569.png
-    </video:thumbnail_loc>
-    <video:title>
-      JPN | KurtSwitch vs Sisyphus, The Replay Runback #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JPN | KurtSwitch vs Sisyphus in Winners Final of The Replay Runback #104, streamed by thereplayrunback
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603179963&amp;t=2h51m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>674</video:duration>
-    <video:publication_date>2025-10-28T04:12:19.000Z</video:publication_date>
-    <video:uploader>thereplayrunback</video:uploader>
-    <video:expiration_date>2025-11-05T04:12:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-sans-fronti-res-270/set/95575665/</loc>
-  <lastmod>2025-10-28T02:26:30.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845027/image-c29446217e018a5281b26f9da86ef5ea.png
-    </video:thumbnail_loc>
-    <video:title>
-      UNCG | BB | Endothia vs STORM| | Zacto, Smash Sans Frontières #270 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UNCG | BB | Endothia vs STORM| | Zacto in Grand Final of Smash Sans Frontières #270, streamed by Buddbuds
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=Buddbuds&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-10-28T02:26:30.000Z</video:publication_date>
-    <video:uploader>Buddbuds</video:uploader>
-    <video:expiration_date>2025-11-05T02:26:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-242/set/95579558/</loc>
   <lastmod>2025-10-28T03:52:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -66,10 +18,58 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=MovementEsports&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1875</video:duration>
+    <video:duration>3069</video:duration>
     <video:publication_date>2025-10-28T03:52:18.000Z</video:publication_date>
     <video:uploader>MovementEsports</video:uploader>
     <video:expiration_date>2025-11-05T03:52:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kavana-game-night-10-27-2025/set/95583438/</loc>
+  <lastmod>2025-10-28T04:42:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845679/image-1291f03f4517485fe3122319352bf65b.png
+    </video:thumbnail_loc>
+    <video:title>
+      CC | Silverwind vs Herkhiles, Kavana Game Night 10/27/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CC | Silverwind vs Herkhiles in Losers Quarter-Final of Kavana Game Night 10/27/2025, streamed by Criticalcombo7
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2603234917&amp;t=1h52m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>421</video:duration>
+    <video:publication_date>2025-10-28T04:31:39.000Z</video:publication_date>
+    <video:uploader>Criticalcombo7</video:uploader>
+    <video:expiration_date>2025-11-05T04:31:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-replay-runback-104/set/95583833/</loc>
+  <lastmod>2025-10-28T04:34:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845128/image-8e478057f44d1b7917651930b73a7569.png
+    </video:thumbnail_loc>
+    <video:title>
+      JPN | KurtSwitch vs Sisyphus, The Replay Runback #104 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JPN | KurtSwitch vs Sisyphus in Winners Final of The Replay Runback #104, streamed by thereplayrunback
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2603179963&amp;t=2h51m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1218</video:duration>
+    <video:publication_date>2025-10-28T04:12:19.000Z</video:publication_date>
+    <video:uploader>thereplayrunback</video:uploader>
+    <video:expiration_date>2025-11-05T04:12:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +71998,6 @@
     <video:publication_date>2025-10-20T18:45:56.000Z</video:publication_date>
     <video:uploader>burningt_</video:uploader>
     <video:expiration_date>2025-10-28T18:45:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dat-monday-meltdown-364/set/95269231/</loc>
-  <lastmod>2025-10-20T19:07:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841365/image-0e8a9e6bd522be42c4985f7f5e762b3b.png
-    </video:thumbnail_loc>
-    <video:title>
-      lolahmed vs DAT | Khanage, DAT Monday Meltdown 364 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch lolahmed vs DAT | Khanage in Losers Round 3 of DAT Monday Meltdown 364, streamed by datteamlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596926192&amp;t=0h45m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>953</video:duration>
-    <video:publication_date>2025-10-20T18:45:45.000Z</video:publication_date>
-    <video:uploader>datteamlive</video:uploader>
-    <video:expiration_date>2025-10-28T18:45:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
