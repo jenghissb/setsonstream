@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-212-red-bull-presents-jeremiah-smith/set/95605309/</loc>
-  <lastmod>2025-10-29T03:29:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-212-red-bull-presents-jeremiah-smith/set/95605311/</loc>
+  <lastmod>2025-10-29T03:48:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844506/image-251d18954749df531dfae409c71abd5b.png
+    </video:thumbnail_loc>
+    <video:title>
+      MUFG | WiseMysticTree vs VeganRoastedTurkey, CFG Tuesday Trials 212: Red Bull Presents Jeremiah Smith! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MUFG | WiseMysticTree vs VeganRoastedTurkey in Losers Semi-Final of CFG Tuesday Trials 212: Red Bull Presents Jeremiah Smith!, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2603881075&amp;t=5h19m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>965</video:duration>
+    <video:publication_date>2025-10-29T03:48:22.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2025-11-06T03:48:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-212-red-bull-presents-jeremiah-smith/set/95605309/</loc>
+  <lastmod>2025-10-29T03:55:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2603881075&amp;t=5h0m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>946</video:duration>
+    <video:duration>1041</video:duration>
     <video:publication_date>2025-10-29T03:29:52.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-11-06T03:29:52.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-02T02:19:27.000Z</video:publication_date>
     <video:uploader>NrettG</video:uploader>
     <video:expiration_date>2025-10-10T02:19:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showdown-67/set/94550852/</loc>
-  <lastmod>2025-10-02T02:21:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833661/image-90597c87a8e41009ffc9f69693f0d788.png
-    </video:thumbnail_loc>
-    <video:title>
-      EssasinG vs [LHS] | TopGunn4Hire, Showdown #67 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EssasinG vs [LHS] | TopGunn4Hire in Losers Semi-Final of Showdown #67, streamed by NrettG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580864524&amp;t=1h37m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>655</video:duration>
-    <video:publication_date>2025-10-02T01:54:03.000Z</video:publication_date>
-    <video:uploader>NrettG</video:uploader>
-    <video:expiration_date>2025-10-10T01:54:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
