@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-114/set/95631519/</loc>
+  <lastmod>2025-10-29T23:18:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845885/image-c460c818fc3ed24dd5c3ec343660135d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sirmeris vs Shane!, Raptor Boost 114 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sirmeris vs Shane! in Round 3 of Raptor Boost 114, streamed by GameGroveWV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2604754821&amp;t=0h8m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>754</video:duration>
+    <video:publication_date>2025-10-29T23:18:15.000Z</video:publication_date>
+    <video:uploader>GameGroveWV</video:uploader>
+    <video:expiration_date>2025-11-06T23:18:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-117-halloween-night/set/95613315/</loc>
   <lastmod>2025-10-29T07:06:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-03T00:39:31.000Z</video:publication_date>
     <video:uploader>isu_smash</video:uploader>
     <video:expiration_date>2025-10-11T00:39:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-283/set/94578568/</loc>
-  <lastmod>2025-10-03T00:54:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835312/image-58c5fccb36a4a07c8eb67c8940aa031e.png
-    </video:thumbnail_loc>
-    <video:title>
-      BloNo | Flyguy vs Scrimp, Illinois State Smash Weekly #283 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BloNo | Flyguy vs Scrimp in Winners Quarter-Final of Illinois State Smash Weekly #283, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2581685636&amp;t=0h52m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>730</video:duration>
-    <video:publication_date>2025-10-03T00:23:06.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2025-10-11T00:23:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
