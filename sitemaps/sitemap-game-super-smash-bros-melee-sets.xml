@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-114/set/95631519/</loc>
-  <lastmod>2025-10-29T23:18:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-7-stew-time/set/95632538/</loc>
+  <lastmod>2025-10-29T23:31:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845675/image-a3921e6fd6768e362d85f771bd7e4f77.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Zoist | Ampp Fox vs UW | Cthulhu, UW Melee Weekly (Fall &apos;25) #7 - stew time - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zoist | Ampp Fox vs UW | Cthulhu in Winners Round 1 of UW Melee Weekly (Fall &apos;25) #7 - stew time, streamed by uwsmashclub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=uwsmashclub&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>704</video:duration>
+    <video:publication_date>2025-10-29T23:31:26.000Z</video:publication_date>
+    <video:uploader>uwsmashclub</video:uploader>
+    <video:expiration_date>2025-11-06T23:31:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-114/set/95631519/</loc>
+  <lastmod>2025-10-29T23:33:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2604754821&amp;t=0h8m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>754</video:duration>
+    <video:duration>382</video:duration>
     <video:publication_date>2025-10-29T23:18:15.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2025-11-06T23:18:15.000Z</video:expiration_date>
