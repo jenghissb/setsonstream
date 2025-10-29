@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-76/set/95613789/</loc>
-  <lastmod>2025-10-29T08:55:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-76/set/95613788/</loc>
+  <lastmod>2025-10-29T09:16:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844943/image-35b26f494702a2d5265cbe54492289b3.png
+    </video:thumbnail_loc>
+    <video:title>
+      J-Rods vs SNEED | OrcaShmorka, Pincadia Pummel 76 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch J-Rods vs SNEED | OrcaShmorka in Winners Semi-Final of Pincadia Pummel 76, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/9iTlQBzrbnc?start=3956s
+    </video:player_loc>
+    <video:duration>1418</video:duration>
+    <video:publication_date>2025-10-29T09:16:59.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2025-11-06T09:16:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-76/set/95613789/</loc>
+  <lastmod>2025-10-29T09:19:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/9iTlQBzrbnc?start=2679s
     </video:player_loc>
-    <video:duration>1266</video:duration>
+    <video:duration>1270</video:duration>
     <video:publication_date>2025-10-29T08:55:42.000Z</video:publication_date>
     <video:uploader>ScuffedSmashVods</video:uploader>
     <video:expiration_date>2025-11-06T08:55:42.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-21T09:22:44.000Z</video:publication_date>
     <video:uploader>bigcheese_gg</video:uploader>
     <video:expiration_date>2025-10-29T09:22:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kavana-game-night-10-20-2025/set/95284717/</loc>
-  <lastmod>2025-10-21T05:32:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843095/image-217207ef253c2ef3fb8a4c79a3e8be5a.png
-    </video:thumbnail_loc>
-    <video:title>
-      ga vs Izunia, Kavana Game Night 10/20/2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ga vs Izunia in Grand Final of Kavana Game Night 10/20/2025, streamed by Criticalcombo7
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597328975&amp;t=1h49m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1280</video:duration>
-    <video:publication_date>2025-10-21T05:08:27.000Z</video:publication_date>
-    <video:uploader>Criticalcombo7</video:uploader>
-    <video:expiration_date>2025-10-29T05:08:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
