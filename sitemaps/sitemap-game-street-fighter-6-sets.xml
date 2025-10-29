@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-73/set/95604803/</loc>
+  <lastmod>2025-10-29T03:35:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843956/image-53c68692e26c8382379cd3df69030ac2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      4o4Esports | CamPaine vs 4o4 | byronic zero, 4o4 by Sh33rZ: Street Fighter &amp; 2XKO #73 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 4o4Esports | CamPaine vs 4o4 | byronic zero in Losers Final of 4o4 by Sh33rZ: Street Fighter &amp; 2XKO #73, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2603971693&amp;t=2h49m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>776</video:duration>
+    <video:publication_date>2025-10-29T03:04:43.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2025-11-06T03:04:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-212-red-bull-presents-jeremiah-smith/set/95599503/</loc>
-  <lastmod>2025-10-29T02:42:54.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-29T03:11:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2603881075&amp;t=4h13m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>644</video:duration>
+    <video:duration>701</video:duration>
     <video:publication_date>2025-10-29T02:42:54.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-11-06T02:42:54.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-73/set/95604739/</loc>
-  <lastmod>2025-10-29T02:40:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-29T03:11:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2603971693&amp;t=2h25m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>782</video:duration>
+    <video:duration>719</video:duration>
     <video:publication_date>2025-10-29T02:40:36.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-11-06T02:40:36.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-04T14:39:36.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-12T14:39:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hardread-herofest-2025/set/94643814/</loc>
-  <lastmod>2025-10-04T14:45:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
-    </video:thumbnail_loc>
-    <video:title>
-      FiveJaw vs HR | MiranPu, HardRead @ HeroFest 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FiveJaw vs HR | MiranPu in Winners Semi-Final of HardRead @ HeroFest 2025, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582914711&amp;t=4h24m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>932</video:duration>
-    <video:publication_date>2025-10-04T14:24:02.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-10-12T14:24:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
