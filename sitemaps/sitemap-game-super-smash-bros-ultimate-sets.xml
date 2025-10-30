@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/30-312/set/95647521/</loc>
-  <lastmod>2025-10-30T11:32:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/30-312/set/95647522/</loc>
+  <lastmod>2025-10-30T11:47:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844903/image-acda0a761427e7046faefe389bb6d08d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      黒船(kurofune) vs ごま(goma), 30(木)上野スマコミ#312(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 黒船(kurofune) vs ごま(goma) in Winners Semi-Final of 30(木)上野スマコミ#312(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/I5QD67IF85E?start=4143s
+    </video:player_loc>
+    <video:duration>143</video:duration>
+    <video:publication_date>2025-10-30T11:47:33.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-11-07T11:47:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/30-312/set/95647521/</loc>
+  <lastmod>2025-10-30T11:46:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/I5QD67IF85E?start=3267s
     </video:player_loc>
-    <video:duration>389</video:duration>
+    <video:duration>652</video:duration>
     <video:publication_date>2025-10-30T11:32:57.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-07T11:32:57.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-22T20:42:34.000Z</video:publication_date>
     <video:uploader>thebattlegroundofficial</video:uploader>
     <video:expiration_date>2025-10-30T20:42:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-113/set/95320269/</loc>
-  <lastmod>2025-10-22T20:54:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842667/image-a2d47ace5fc5bf4f751446599535a0c8.png
-    </video:thumbnail_loc>
-    <video:title>
-      EDC | Pratys vs GG | Aceman, D-LAY #113 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDC | Pratys vs GG | Aceman in Losers Semi-Final of D-LAY #113, streamed by asso_grab
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598586739&amp;t=2h27m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>983</video:duration>
-    <video:publication_date>2025-10-22T20:33:39.000Z</video:publication_date>
-    <video:uploader>asso_grab</video:uploader>
-    <video:expiration_date>2025-10-30T20:33:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
