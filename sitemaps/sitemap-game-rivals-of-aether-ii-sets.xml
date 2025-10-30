@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-9-18/set/95633668/</loc>
-  <lastmod>2025-10-30T00:47:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-9-18/set/95633640/</loc>
+  <lastmod>2025-10-30T01:52:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846192/image-b76ff04f7d313cf615e59655dd4401ce.png
+    </video:thumbnail_loc>
+    <video:title>
+      Merp vs TOMA | Shadowhawke, HoG: Burn 9.18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Merp vs TOMA | Shadowhawke in Grand Final of HoG: Burn 9.18, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2604769909&amp;t=2h23m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3451</video:duration>
+    <video:publication_date>2025-10-30T01:52:21.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-11-07T01:52:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-9-18/set/95633668/</loc>
+  <lastmod>2025-10-30T01:19:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2604769909&amp;t=1h18m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1578</video:duration>
+    <video:duration>1157</video:duration>
     <video:publication_date>2025-10-30T00:47:34.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-07T00:47:34.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-9-18/set/95633669/</loc>
-  <lastmod>2025-10-30T00:39:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-30T01:19:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2604769909&amp;t=1h10m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2080</video:duration>
+    <video:duration>616</video:duration>
     <video:publication_date>2025-10-30T00:39:12.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-07T00:39:12.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-05T22:23:46.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-10-13T22:23:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hitfall-4/set/94721314/</loc>
-  <lastmod>2025-10-05T22:52:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/803832/image-fae69eb9686735da95730d469dd33170.png
-    </video:thumbnail_loc>
-    <video:title>
-      HyperFlame vs Bowler, Hitfall 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HyperFlame vs Bowler in Losers Round 2 of Hitfall 4, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2584208923&amp;t=2h1m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1320</video:duration>
-    <video:publication_date>2025-10-05T22:11:48.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2025-10-13T22:11:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
