@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/30-312/set/95647512/</loc>
-  <lastmod>2025-10-30T11:07:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/30-312/set/95647636/</loc>
+  <lastmod>2025-10-30T11:21:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844903/image-acda0a761427e7046faefe389bb6d08d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ヒマワリ(himawari) vs ぽて(pote), 30(木)上野スマコミ#312(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ヒマワリ(himawari) vs ぽて(pote) in Losers Round 3 of 30(木)上野スマコミ#312(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/I5QD67IF85E?start=2556s
+    </video:player_loc>
+    <video:duration>455</video:duration>
+    <video:publication_date>2025-10-30T11:21:06.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-11-07T11:21:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/30-312/set/95647512/</loc>
+  <lastmod>2025-10-30T11:21:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/I5QD67IF85E?start=1750s
     </video:player_loc>
-    <video:duration>382</video:duration>
+    <video:duration>704</video:duration>
     <video:publication_date>2025-10-30T11:07:40.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-07T11:07:40.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-22T20:32:01.000Z</video:publication_date>
     <video:uploader>smashpointseries</video:uploader>
     <video:expiration_date>2025-10-30T20:32:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lucy-53-weekly/set/95320368/</loc>
-  <lastmod>2025-10-22T20:38:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/812585/image-ce9c7a2c40540dfc87f4ce00f3b1190e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VG | LuCy | Remoraid vs Skooma, LuCy #53 (Weekly) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VG | LuCy | Remoraid vs Skooma in Grand Final of LuCy #53 (Weekly), streamed by LuCyEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598559797&amp;t=2h55m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>389</video:duration>
-    <video:publication_date>2025-10-22T20:28:43.000Z</video:publication_date>
-    <video:uploader>LuCyEsports</video:uploader>
-    <video:expiration_date>2025-10-30T20:28:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
