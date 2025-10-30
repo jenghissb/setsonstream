@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/seasons-edge-58/set/95635863/</loc>
+  <lastmod>2025-10-30T01:00:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841496/image-25fc6b34825f48b973db4996988da08a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Opysis vs Oni Brother, Seasons Edge 58 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Opysis vs Oni Brother in Winners Quarter-Final of Seasons Edge 58, streamed by edgegamerslounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2604796137&amp;t=0h24m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>692</video:duration>
+    <video:publication_date>2025-10-30T00:24:46.000Z</video:publication_date>
+    <video:uploader>edgegamerslounge</video:uploader>
+    <video:expiration_date>2025-11-07T00:24:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-212-red-bull-presents-jeremiah-smith/set/95605249/</loc>
   <lastmod>2025-10-29T04:38:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-02T03:22:41.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-10T03:22:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-195-ssbu-ggst/set/94559553/</loc>
-  <lastmod>2025-10-02T03:24:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835583/image-f27ec35870c3952e3243ef62e397a417.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Grindr | BeanBagels vs Aubfox, Guildhouse Weekly 195 - SSBU &amp; GGST - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Grindr | BeanBagels vs Aubfox in Winners Quarter-Final of Guildhouse Weekly 195 - SSBU &amp; GGST, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2580978957&amp;t=0h5m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>813</video:duration>
-    <video:publication_date>2025-10-02T02:52:26.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-10-10T02:52:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
