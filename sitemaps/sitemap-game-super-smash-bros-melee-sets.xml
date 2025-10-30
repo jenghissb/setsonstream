@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-356/set/95655228/</loc>
-  <lastmod>2025-10-30T21:59:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-356/set/95655299/</loc>
+  <lastmod>2025-10-30T22:26:54.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846691/image-866f4ac989baa3fc2c7a4b31b0cbb255.png
+    </video:thumbnail_loc>
+    <video:title>
+      YTP | corco vs funnyman, Salt Water Smash 356 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YTP | corco vs funnyman in Round 7 of Salt Water Smash 356, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2605541826&amp;t=0h35m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>408</video:duration>
+    <video:publication_date>2025-10-30T22:26:54.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2025-11-07T22:26:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-356/set/95655228/</loc>
+  <lastmod>2025-10-30T22:28:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2605541826&amp;t=0h8m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>940</video:duration>
+    <video:duration>501</video:duration>
     <video:publication_date>2025-10-30T21:59:14.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2025-11-07T21:59:14.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-03T04:37:30.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-10-11T04:37:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-117/set/94587267/</loc>
-  <lastmod>2025-10-03T04:45:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834887/image-2e03678bbc8e93b9a6e3d329c063d2bc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aeriussy vs RiceCustoms | Ricefields, Rage Against the CRT #117 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aeriussy vs RiceCustoms | Ricefields in Losers Semi-Final of Rage Against the CRT #117, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2581812719&amp;t=2h14m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>971</video:duration>
-    <video:publication_date>2025-10-03T04:21:06.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2025-10-11T04:21:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
