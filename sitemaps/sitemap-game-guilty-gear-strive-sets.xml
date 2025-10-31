@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-130/set/95698244/</loc>
+  <lastmod>2025-10-31T23:37:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846815/image-d99aeeecc7e5574dfb4b3a5ec487a0a1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nannerb vs HZ, HoG: Moonlight #130 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nannerb vs HZ in Winners Quarter-Final of HoG: Moonlight #130, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606482873&amp;t=0h8m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>746</video:duration>
+    <video:publication_date>2025-10-31T23:37:28.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-11-08T23:37:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-51-halloween-edition-2/set/95656680/</loc>
   <lastmod>2025-10-30T23:39:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-04T01:01:34.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-12T01:01:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-126/set/94616445/</loc>
-  <lastmod>2025-10-04T01:07:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836099/image-3cd39b560812dd2cd4996868995da76c.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRABSLG | ThatScrubDavid vs MLGF, HoG: Moonlight #126 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRABSLG | ThatScrubDavid vs MLGF in Winners Final of HoG: Moonlight #126, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582551636&amp;t=0h54m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>618</video:duration>
-    <video:publication_date>2025-10-04T00:23:08.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-10-12T00:23:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
