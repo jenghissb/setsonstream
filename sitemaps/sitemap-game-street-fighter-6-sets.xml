@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-4/set/95690584/</loc>
-  <lastmod>2025-10-31T22:46:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-4/set/95690615/</loc>
+  <lastmod>2025-10-31T23:10:27.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845415/image-96e59509ed8601813a01f809ee708edc.png
+    </video:thumbnail_loc>
+    <video:title>
+      TVO | EMPR | Epoqua vs EMPR | viktor vaughn, Rider Esports Resort #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TVO | EMPR | Epoqua vs EMPR | viktor vaughn in Losers Semi-Final of Rider Esports Resort #4, streamed by rideruniversity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606388510&amp;t=1h48m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1121</video:duration>
+    <video:publication_date>2025-10-31T23:10:27.000Z</video:publication_date>
+    <video:uploader>rideruniversity</video:uploader>
+    <video:expiration_date>2025-11-08T23:10:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-4/set/95690584/</loc>
+  <lastmod>2025-10-31T23:23:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606388510&amp;t=1h24m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1669</video:duration>
+    <video:duration>906</video:duration>
     <video:publication_date>2025-10-31T22:46:38.000Z</video:publication_date>
     <video:uploader>rideruniversity</video:uploader>
     <video:expiration_date>2025-11-08T22:46:38.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-04T21:57:34.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2025-10-12T21:57:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-october-2025/set/94661174/</loc>
-  <lastmod>2025-10-04T22:08:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831897/image-56717d1959632a29d083e38695bfdf05.png
-    </video:thumbnail_loc>
-    <video:title>
-      CO | Chief Beef vs MITSUBACHI, Colorado Mile High Burst Monthly October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CO | Chief Beef vs MITSUBACHI in Winners Semi-Final of Colorado Mile High Burst Monthly October 2025, streamed by akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583264192&amp;t=2h36m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>521</video:duration>
-    <video:publication_date>2025-10-04T21:35:02.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade</video:uploader>
-    <video:expiration_date>2025-10-12T21:35:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
