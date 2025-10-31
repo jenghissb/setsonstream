@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-31-10-2025/set/95681571/</loc>
+  <lastmod>2025-10-31T15:46:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      KYC | Melon_JL vs TheFatGamer, CitiSmash 31/10/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KYC | Melon_JL vs TheFatGamer in Winners Round 1 of CitiSmash 31/10/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606108952&amp;t=0h16m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>189</video:duration>
+    <video:publication_date>2025-10-31T15:46:48.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-11-08T15:46:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-110-1/set/95678723/</loc>
   <lastmod>2025-10-31T13:50:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-24T00:27:36.000Z</video:publication_date>
     <video:uploader>unrivaledtournaments</video:uploader>
     <video:expiration_date>2025-11-01T00:27:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/jaxsmash-weekly-leaderboard-10-23-25/set/95357349/</loc>
-  <lastmod>2025-10-24T00:49:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844070/image-ac0ffd64129dacb14ce16953ceaa766c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Salvo vs YC | Gyro, JaxSmash Weekly @ Leaderboard 10/23/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Salvo vs YC | Gyro in Winners Semi-Final of JaxSmash Weekly @ Leaderboard 10/23/25, streamed by Narwhal3769
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2599650794&amp;t=1h8m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>980</video:duration>
-    <video:publication_date>2025-10-24T00:27:20.000Z</video:publication_date>
-    <video:uploader>Narwhal3769</video:uploader>
-    <video:expiration_date>2025-11-01T00:27:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
