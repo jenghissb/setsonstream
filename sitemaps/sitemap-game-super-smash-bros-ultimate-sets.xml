@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-31-10-2025/set/95681590/</loc>
-  <lastmod>2025-10-31T16:40:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-31-10-2025/set/95681591/</loc>
+  <lastmod>2025-10-31T16:52:27.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kaminari vs JotaSB, CitiSmash 31/10/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaminari vs JotaSB in Winners Quarter-Final of CitiSmash 31/10/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606163953&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1350</video:duration>
+    <video:publication_date>2025-10-31T16:52:27.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-11-08T16:52:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-31-10-2025/set/95681590/</loc>
+  <lastmod>2025-10-31T16:55:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606108952&amp;t=1h10m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>396</video:duration>
+    <video:duration>730</video:duration>
     <video:publication_date>2025-10-31T16:40:08.000Z</video:publication_date>
     <video:uploader>citismash</video:uploader>
     <video:expiration_date>2025-11-08T16:40:08.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-24T00:33:01.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-11-01T00:33:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/boiling-point-44/set/95350503/</loc>
-  <lastmod>2025-10-24T00:49:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843533/image-116cf9e30db172dac395ce8ee515d7aa.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fede vs DOOM | videOJames!, Boiling Point 44 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fede vs DOOM | videOJames! in Losers Semi-Final of Boiling Point 44, streamed by jeffdaboss42
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2599595087&amp;t=2h29m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2025-10-24T00:31:53.000Z</video:publication_date>
-    <video:uploader>jeffdaboss42</video:uploader>
-    <video:expiration_date>2025-11-01T00:31:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
