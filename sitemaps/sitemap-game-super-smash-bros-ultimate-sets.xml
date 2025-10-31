@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/31-313/set/95678462/</loc>
-  <lastmod>2025-10-31T13:08:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-110-1/set/95678723/</loc>
+  <lastmod>2025-10-31T13:21:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844438/image-f5c35e42016b0ff86ad45f1885f1f54d.png
+    </video:thumbnail_loc>
+    <video:title>
+      カルビ(karubi) vs 右肩 | はすまち(migikata | hasumachi), Smash薬院#110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch カルビ(karubi) vs 右肩 | はすまち(migikata | hasumachi) in Grand Final Reset of Smash薬院#110, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/FSQwGOS70C4?start=9990s
+    </video:player_loc>
+    <video:duration>1414</video:duration>
+    <video:publication_date>2025-10-31T13:21:57.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-11-08T13:21:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/31-313/set/95678462/</loc>
+  <lastmod>2025-10-31T13:24:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/BA8BeSq7gZw?start=8948s
     </video:player_loc>
-    <video:duration>662</video:duration>
+    <video:duration>576</video:duration>
     <video:publication_date>2025-10-31T13:08:11.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-08T13:08:11.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-110-1/set/95678722/</loc>
-  <lastmod>2025-10-31T13:06:44.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-10-31T13:24:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/FSQwGOS70C4?start=9077s
     </video:player_loc>
-    <video:duration>749</video:duration>
+    <video:duration>904</video:duration>
     <video:publication_date>2025-10-31T13:06:44.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2025-11-08T13:06:44.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-24T00:27:20.000Z</video:publication_date>
     <video:uploader>Narwhal3769</video:uploader>
     <video:expiration_date>2025-11-01T00:27:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/thursday-throwdown-165/set/95356752/</loc>
-  <lastmod>2025-10-24T00:43:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835604/image-6f79bff1d19798fe1d21521483d6007a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      HTC | Danila vs Spencer, Thursday Throwdown 165 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HTC | Danila vs Spencer in Winners Quarter-Final of Thursday Throwdown 165, streamed by Magik4FGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2599672821&amp;t=0h38m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>715</video:duration>
-    <video:publication_date>2025-10-24T00:26:04.000Z</video:publication_date>
-    <video:uploader>Magik4FGC</video:uploader>
-    <video:expiration_date>2025-11-01T00:26:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
