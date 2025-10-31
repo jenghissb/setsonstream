@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-4/set/95690609/</loc>
-  <lastmod>2025-10-31T22:07:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-4/set/95690583/</loc>
+  <lastmod>2025-10-31T22:31:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845415/image-96e59509ed8601813a01f809ee708edc.png
+    </video:thumbnail_loc>
+    <video:title>
+      TCNJ G4G :) | 샤인Burst(TCNJ G4G : ) | Burst) vs EMPR | viktor vaughn, Rider Esports Resort #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TCNJ G4G :) | 샤인Burst(TCNJ G4G : ) | Burst) vs EMPR | viktor vaughn in Winners Semi-Final of Rider Esports Resort #4, streamed by rideruniversity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606388510&amp;t=1h9m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>153</video:duration>
+    <video:publication_date>2025-10-31T22:31:22.000Z</video:publication_date>
+    <video:uploader>rideruniversity</video:uploader>
+    <video:expiration_date>2025-11-08T22:31:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-4/set/95690609/</loc>
+  <lastmod>2025-10-31T22:33:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606388510&amp;t=0h45m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>468</video:duration>
+    <video:duration>391</video:duration>
     <video:publication_date>2025-10-31T22:07:02.000Z</video:publication_date>
     <video:uploader>rideruniversity</video:uploader>
     <video:expiration_date>2025-11-08T22:07:02.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-04T21:11:17.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2025-10-12T21:11:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/northern-battles-10-04-2025-toronto-s-fighting-game-monthly/set/94649303/</loc>
-  <lastmod>2025-10-04T16:43:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829218/image-00b3808f0ae069c5421926087d9edc48.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rebix vs Meme, Northern Battles 10/04/2025 - Toronto&apos;s Fighting Game Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rebix vs Meme in Winners Round 1 of Northern Battles 10/04/2025 - Toronto&apos;s Fighting Game Monthly, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583128540&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1528</video:duration>
-    <video:publication_date>2025-10-04T16:11:02.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2025-10-12T16:11:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
