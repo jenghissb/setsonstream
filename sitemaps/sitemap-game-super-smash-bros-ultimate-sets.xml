@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-31-10-2025/set/95681581/</loc>
-  <lastmod>2025-10-31T16:10:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-31-10-2025/set/95681590/</loc>
+  <lastmod>2025-10-31T16:40:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      DMP | Darío vs InksMaker, CitiSmash 31/10/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DMP | Darío vs InksMaker in Winners Quarter-Final of CitiSmash 31/10/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606108952&amp;t=1h10m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>396</video:duration>
+    <video:publication_date>2025-10-31T16:40:08.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-11-08T16:40:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-31-10-2025/set/95681581/</loc>
+  <lastmod>2025-10-31T16:29:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606108952&amp;t=0h40m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>557</video:duration>
+    <video:duration>1046</video:duration>
     <video:publication_date>2025-10-31T16:10:36.000Z</video:publication_date>
     <video:uploader>citismash</video:uploader>
     <video:expiration_date>2025-11-08T16:10:36.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-24T00:31:53.000Z</video:publication_date>
     <video:uploader>jeffdaboss42</video:uploader>
     <video:expiration_date>2025-11-01T00:31:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pummel-at-the-plemmons-20/set/95354452/</loc>
-  <lastmod>2025-10-24T00:55:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843237/image-19cdd020477a15d6e327a6af1b733af0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yahiamice vs Xandar, Pummel at The Plemmons 20 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yahiamice vs Xandar in Winners Semi-Final of Pummel at The Plemmons 20, streamed by Boone_smashes
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2599638220&amp;t=1h29m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1166</video:duration>
-    <video:publication_date>2025-10-24T00:31:30.000Z</video:publication_date>
-    <video:uploader>Boone_smashes</video:uploader>
-    <video:expiration_date>2025-11-01T00:31:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
