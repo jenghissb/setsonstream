@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-110-1/set/95678184/</loc>
+  <lastmod>2025-10-31T10:34:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844438/image-f5c35e42016b0ff86ad45f1885f1f54d.png
+    </video:thumbnail_loc>
+    <video:title>
+      まくら(makura) vs さめ(same), Smash薬院#110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch まくら(makura) vs さめ(same) in Winners Round 2 of Smash薬院#110, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/FSQwGOS70C4?start=0s
+    </video:player_loc>
+    <video:duration>503</video:duration>
+    <video:publication_date>2025-10-31T10:34:48.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-11-08T10:34:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cafeteria-cup-candy/set/95675522/</loc>
   <lastmod>2025-10-31T10:01:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4035,7 +4059,7 @@
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/salt-water-smash-356/set/95660350/</loc>
   <lastmod>2025-10-31T03:08:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-24T00:08:12.000Z</video:publication_date>
     <video:uploader>SmashNL_2</video:uploader>
     <video:expiration_date>2025-11-01T00:08:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/maverick-smash-night-39/set/95355467/</loc>
-  <lastmod>2025-10-24T00:22:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843804/image-4423145198e79b553c7dd7ef779ec205.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zekken vs Revibe, Maverick Smash Night #39 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zekken vs Revibe in Semi-Final of Maverick Smash Night #39, streamed by sacred_zz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2599653537&amp;t=0h45m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>430</video:duration>
-    <video:publication_date>2025-10-24T00:07:58.000Z</video:publication_date>
-    <video:uploader>sacred_zz</video:uploader>
-    <video:expiration_date>2025-11-01T00:07:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
