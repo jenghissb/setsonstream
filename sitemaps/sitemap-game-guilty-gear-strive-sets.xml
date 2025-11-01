@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-5/set/95720564/</loc>
+  <lastmod>2025-11-01T17:06:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837498/image-7fd1d9142218f8778bb6818053bb0e35.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      2B | Leif vs Justplay, Arca-Sys #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 2B | Leif vs Justplay in Losers Final of Arca-Sys #5, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606896217&amp;t=4h12m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1297</video:duration>
+    <video:publication_date>2025-11-01T17:06:22.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2025-11-09T17:06:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-5/set/95720559/</loc>
   <lastmod>2025-11-01T16:19:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-04T11:19:48.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-12T11:19:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640396/</loc>
-  <lastmod>2025-10-04T10:53:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
-    </video:thumbnail_loc>
-    <video:title>
-      HR | Valiser vs Kotova, HardRead @ HeroFest 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HR | Valiser vs Kotova in Winners Quarter-Final of HardRead @ HeroFest 2025, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582914711&amp;t=0h33m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>631</video:duration>
-    <video:publication_date>2025-10-04T10:33:19.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-10-12T10:33:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
