@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ppg-battle-of-champions-2025/set/95717510/</loc>
-  <lastmod>2025-11-01T09:09:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ppg-battle-of-champions-2025/set/95717509/</loc>
+  <lastmod>2025-11-01T10:00:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839417/image-c8ecef3da637a16a1f84b541a41970d1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TM | RB | Arslan Ash vs Yasir Rajpoot, PPG - Battle of Champions 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TM | RB | Arslan Ash vs Yasir Rajpoot in Winners Round 2 of PPG - Battle of Champions 2025, streamed by sikkify
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606769531&amp;t=2h32m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>910</video:duration>
+    <video:publication_date>2025-11-01T10:00:18.000Z</video:publication_date>
+    <video:uploader>sikkify</video:uploader>
+    <video:expiration_date>2025-11-09T10:00:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ppg-battle-of-champions-2025/set/95717510/</loc>
+  <lastmod>2025-11-01T09:50:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606769531&amp;t=1h41m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2425</video:duration>
+    <video:duration>1748</video:duration>
     <video:publication_date>2025-11-01T09:09:31.000Z</video:publication_date>
     <video:uploader>sikkify</video:uploader>
     <video:expiration_date>2025-11-09T09:09:31.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-05T13:14:05.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-13T13:14:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hardread-herofest-2025/set/94704295/</loc>
-  <lastmod>2025-10-05T13:25:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
-    </video:thumbnail_loc>
-    <video:title>
-      MTS | IchBinGhost vs Addicted | Carrulo, HardRead @ HeroFest 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MTS | IchBinGhost vs Addicted | Carrulo in Losers Final of HardRead @ HeroFest 2025, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583803177&amp;t=2h57m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>985</video:duration>
-    <video:publication_date>2025-10-05T12:57:29.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-10-13T12:57:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
