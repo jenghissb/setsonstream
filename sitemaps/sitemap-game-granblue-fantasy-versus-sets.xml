@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-5/set/95720625/</loc>
-  <lastmod>2025-11-01T13:33:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-5/set/95720654/</loc>
+  <lastmod>2025-11-01T14:03:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837498/image-7fd1d9142218f8778bb6818053bb0e35.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Alpyro vs Bapi, Arca-Sys #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Alpyro vs Bapi in Losers Round 2 of Arca-Sys #5, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606896217&amp;t=1h9m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>586</video:duration>
+    <video:publication_date>2025-11-01T14:03:09.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2025-11-09T14:03:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-5/set/95720625/</loc>
+  <lastmod>2025-11-01T14:07:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606896217&amp;t=0h39m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>979</video:duration>
+    <video:duration>920</video:duration>
     <video:publication_date>2025-11-01T13:33:03.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-11-09T13:33:03.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-24T18:52:24.000Z</video:publication_date>
     <video:uploader>kpblive</video:uploader>
     <video:expiration_date>2025-09-01T18:52:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/beast-in-the-east-8/set/93048218/</loc>
-  <lastmod>2025-08-24T18:40:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/776306/image-ac1496a2e656e00a6a57aa025a87b0b3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Micropene vs Siero, Beast in the East 8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Micropene vs Siero in Losers Semi-Final of Beast in the East 8, streamed by kpblive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2548633056&amp;t=2h22m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>483</video:duration>
-    <video:publication_date>2025-08-24T18:22:48.000Z</video:publication_date>
-    <video:uploader>kpblive</video:uploader>
-    <video:expiration_date>2025-09-01T18:22:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
