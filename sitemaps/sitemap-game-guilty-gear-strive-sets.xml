@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-12-bh3-x-joystick/set/95719274/</loc>
-  <lastmod>2025-11-01T15:26:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-5/set/95720559/</loc>
+  <lastmod>2025-11-01T15:53:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837498/image-7fd1d9142218f8778bb6818053bb0e35.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      WhetiStripi vs Pegasus974, Arca-Sys #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WhetiStripi vs Pegasus974 in Losers Round 3 of Arca-Sys #5, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606896217&amp;t=2h59m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1399</video:duration>
+    <video:publication_date>2025-11-01T15:53:13.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2025-11-09T15:53:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-12-bh3-x-joystick/set/95719274/</loc>
+  <lastmod>2025-11-01T15:54:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606885498&amp;t=2h53m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1405</video:duration>
+    <video:duration>847</video:duration>
     <video:publication_date>2025-11-01T15:26:22.000Z</video:publication_date>
     <video:uploader>salamanderesport</video:uploader>
     <video:expiration_date>2025-11-09T15:26:22.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-04T10:33:19.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-12T10:33:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640390/</loc>
-  <lastmod>2025-10-04T10:37:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
-    </video:thumbnail_loc>
-    <video:title>
-      SOS | BTS | Rush vs mmfh, HardRead @ HeroFest 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SOS | BTS | Rush vs mmfh in Winners Round 1 of HardRead @ HeroFest 2025, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582914711&amp;t=0h13m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>843</video:duration>
-    <video:publication_date>2025-10-04T10:12:52.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-10-12T10:12:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
