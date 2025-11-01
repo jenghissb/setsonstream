@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-fighter-local-1/set/95765870/</loc>
-  <lastmod>2025-11-01T22:46:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kumoricon-2025/set/95773594/</loc>
+  <lastmod>2025-11-01T23:08:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839310/image-7bf808a6fa82d20fb8b7b515c02bdfc6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Emburr vs bcwelder98, Kumoricon 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Emburr vs bcwelder98 in Winners Round 2 of Kumoricon 2025, streamed by Kumoricon
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607176406&amp;t=4h9m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1238</video:duration>
+    <video:publication_date>2025-11-01T23:08:10.000Z</video:publication_date>
+    <video:uploader>Kumoricon</video:uploader>
+    <video:expiration_date>2025-11-09T23:08:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-fighter-local-1/set/95765870/</loc>
+  <lastmod>2025-11-01T23:20:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607304598&amp;t=1h23m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1658</video:duration>
+    <video:duration>642</video:duration>
     <video:publication_date>2025-11-01T22:46:47.000Z</video:publication_date>
     <video:uploader>Gamezclt</video:uploader>
     <video:expiration_date>2025-11-09T22:46:47.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/flynn-s-arcade-180/set/95765800/</loc>
-  <lastmod>2025-11-01T22:40:44.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-01T23:20:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607309361&amp;t=1h10m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2021</video:duration>
+    <video:duration>628</video:duration>
     <video:publication_date>2025-11-01T22:40:44.000Z</video:publication_date>
     <video:uploader>flynnsgamingfl</video:uploader>
     <video:expiration_date>2025-11-09T22:40:44.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-05T19:16:01.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-10-13T19:16:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/anime-fiesta-sunday-edition-2025/set/94715077/</loc>
-  <lastmod>2025-10-05T19:05:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      infinitefatal vs venovella, Anime Fiesta Sunday Edition 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch infinitefatal vs venovella in Winners Semi-Final of Anime Fiesta Sunday Edition 2025, streamed by Kaboomgamesssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2584126492&amp;t=0h14m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>451</video:duration>
-    <video:publication_date>2025-10-05T18:43:06.000Z</video:publication_date>
-    <video:uploader>Kaboomgamesssb</video:uploader>
-    <video:expiration_date>2025-10-13T18:43:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
