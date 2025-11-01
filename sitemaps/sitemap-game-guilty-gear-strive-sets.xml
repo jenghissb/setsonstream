@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dreamhack-atlanta-2025/set/95747803/</loc>
-  <lastmod>2025-11-01T19:24:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/kumoricon-2025/set/95751672/</loc>
+  <lastmod>2025-11-01T20:03:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809964/image-31b40c15fb8669e13e2d5f0d497c1102.png
+      https://images.start.gg/images/tournament/839310/image-7bf808a6fa82d20fb8b7b515c02bdfc6.jpg
     </video:thumbnail_loc>
     <video:title>
-      Fly | NitroNY vs Sweet | SkullDuggers, DreamHack Atlanta 2025 - Sets on Stream
+      MASH | SunnyD vs GWANGLORD, Kumoricon 2025 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Fly | NitroNY vs Sweet | SkullDuggers in Winners Semi-Final of DreamHack Atlanta 2025, streamed by maxmode_fgc
+      Watch MASH | SunnyD vs GWANGLORD in Winners Quarter-Final of Kumoricon 2025, streamed by Kumoricon
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607037798&amp;t=3h25m3s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2607176406&amp;t=1h4m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1527</video:duration>
-    <video:publication_date>2025-11-01T19:24:20.000Z</video:publication_date>
-    <video:uploader>maxmode_fgc</video:uploader>
-    <video:expiration_date>2025-11-09T19:24:20.000Z</video:expiration_date>
+    <video:duration>677</video:duration>
+    <video:publication_date>2025-11-01T20:03:28.000Z</video:publication_date>
+    <video:uploader>Kumoricon</video:uploader>
+    <video:expiration_date>2025-11-09T20:03:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/kumoricon-2025/set/95751648/</loc>
-  <lastmod>2025-11-01T19:30:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-01T20:05:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607176406&amp;t=0h32m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1137</video:duration>
+    <video:duration>686</video:duration>
     <video:publication_date>2025-11-01T19:30:50.000Z</video:publication_date>
     <video:uploader>Kumoricon</video:uploader>
     <video:expiration_date>2025-11-09T19:30:50.000Z</video:expiration_date>
@@ -50,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/kumoricon-2025/set/95751667/</loc>
-  <lastmod>2025-11-01T19:27:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-01T20:05:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607176406&amp;t=0h28m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1366</video:duration>
+    <video:duration>897</video:duration>
     <video:publication_date>2025-11-01T19:27:01.000Z</video:publication_date>
     <video:uploader>Kumoricon</video:uploader>
     <video:expiration_date>2025-11-09T19:27:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dreamhack-atlanta-2025/set/95747803/</loc>
+  <lastmod>2025-11-01T20:05:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809964/image-31b40c15fb8669e13e2d5f0d497c1102.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fly | NitroNY vs Sweet | SkullDuggers, DreamHack Atlanta 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fly | NitroNY vs Sweet | SkullDuggers in Winners Semi-Final of DreamHack Atlanta 2025, streamed by maxmode_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607037798&amp;t=3h25m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>784</video:duration>
+    <video:publication_date>2025-11-01T19:24:20.000Z</video:publication_date>
+    <video:uploader>maxmode_fgc</video:uploader>
+    <video:expiration_date>2025-11-09T19:24:20.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-04T12:28:42.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-10-12T12:28:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640402/</loc>
-  <lastmod>2025-10-04T12:37:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
-    </video:thumbnail_loc>
-    <video:title>
-      HR | Valiser vs SOS | Joule, HardRead @ HeroFest 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HR | Valiser vs SOS | Joule in Winners Final of HardRead @ HeroFest 2025, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582914711&amp;t=2h13m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>866</video:duration>
-    <video:publication_date>2025-10-04T12:13:01.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-10-12T12:13:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
