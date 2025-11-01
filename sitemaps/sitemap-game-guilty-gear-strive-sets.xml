@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-12-bh3-x-joystick/set/95719241/</loc>
+  <lastmod>2025-11-01T14:36:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840595/image-ad52248174512eecfb2790c19e97ea86.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NOG | Hironamite vs NTSC | Kisald, Monthly FGC#12 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NOG | Hironamite vs NTSC | Kisald in Winners Semi-Final of Monthly FGC#12 - BH3 x JOYSTICK, streamed by salamanderesport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606885498&amp;t=2h3m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>814</video:duration>
+    <video:publication_date>2025-11-01T14:36:32.000Z</video:publication_date>
+    <video:uploader>salamanderesport</video:uploader>
+    <video:expiration_date>2025-11-09T14:36:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-guilty-gear-strive-dreamhack-pre-local/set/95704475/</loc>
   <lastmod>2025-11-01T03:39:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-04T04:32:40.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-10-12T04:32:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-12/set/94620081/</loc>
-  <lastmod>2025-10-04T03:41:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834058/image-b2ca51c0eb41f383c805778a968a4f9c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      RREF | BenyoMax vs TROLLGANG | roycebracket, 4o4 by Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RREF | BenyoMax vs TROLLGANG | roycebracket in Losers Final of 4o4 by Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582580450&amp;t=2h53m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>564</video:duration>
-    <video:publication_date>2025-10-04T02:54:19.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2025-10-12T02:54:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
