@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-12-bh3-x-joystick/set/95719287/</loc>
-  <lastmod>2025-11-01T12:53:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-12-bh3-x-joystick/set/95719289/</loc>
+  <lastmod>2025-11-01T13:19:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840595/image-ad52248174512eecfb2790c19e97ea86.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      M2F_GETY27 vs RollinStuns | Envy, Monthly FGC#12 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch M2F_GETY27 vs RollinStuns | Envy in Winners Final of Monthly FGC#12 - BH3 x JOYSTICK, streamed by salamanderesport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606885498&amp;t=0h45m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>578</video:duration>
+    <video:publication_date>2025-11-01T13:19:06.000Z</video:publication_date>
+    <video:uploader>salamanderesport</video:uploader>
+    <video:expiration_date>2025-11-09T13:19:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-12-bh3-x-joystick/set/95719287/</loc>
+  <lastmod>2025-11-01T13:21:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606885498&amp;t=0h20m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>394</video:duration>
+    <video:duration>462</video:duration>
     <video:publication_date>2025-11-01T12:53:55.000Z</video:publication_date>
     <video:uploader>salamanderesport</video:uploader>
     <video:expiration_date>2025-11-09T12:53:55.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-05T02:47:43.000Z</video:publication_date>
     <video:uploader>lagema</video:uploader>
     <video:expiration_date>2025-10-13T02:47:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-rush-hour-10-4-saturday/set/94691346/</loc>
-  <lastmod>2025-10-05T02:59:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833931/image-493ad7fb56e45db9ca9021d863c618b2.png
-    </video:thumbnail_loc>
-    <video:title>
-      WC | Jgo vs Lunchmeat | Bolognious, Drive Rush Hour 10/4 (Saturday) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WC | Jgo vs Lunchmeat | Bolognious in Winners Quarter-Final of Drive Rush Hour 10/4 (Saturday), streamed by gamerealms
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583554617&amp;t=1h5m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>983</video:duration>
-    <video:publication_date>2025-10-05T02:33:04.000Z</video:publication_date>
-    <video:uploader>gamerealms</video:uploader>
-    <video:expiration_date>2025-10-13T02:33:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
