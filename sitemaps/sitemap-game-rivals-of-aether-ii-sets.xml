@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/somnio-noctem/set/95740489/</loc>
+  <lastmod>2025-11-01T18:19:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/799120/image-8c083d2f9665ec947d8ac05226c42545.png
+    </video:thumbnail_loc>
+    <video:title>
+      10QuidShoes vs AoC | Guthix, Somnio Noctem - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 10QuidShoes vs AoC | Guthix in Winners Quarter-Final of Somnio Noctem, streamed by btssmash3
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607091487&amp;t=1h8m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1416</video:duration>
+    <video:publication_date>2025-11-01T18:19:45.000Z</video:publication_date>
+    <video:uploader>btssmash3</video:uploader>
+    <video:expiration_date>2025-11-09T18:19:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/somnio-noctem/set/95721175/</loc>
   <lastmod>2025-11-01T15:00:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-07T00:15:12.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV2</video:uploader>
     <video:expiration_date>2025-10-15T00:15:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-210/set/94744605/</loc>
-  <lastmod>2025-10-07T00:23:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837718/image-9d103e28662292961841dc058b86e6fc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bionicle vs 天 | Drewsephix(ten | Drewsephix), ContenderHV Smash #210 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bionicle vs 天 | Drewsephix(ten | Drewsephix) in Round 5 of ContenderHV Smash #210, streamed by ContenderHudsonValley
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585089736&amp;t=1h12m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1029</video:duration>
-    <video:publication_date>2025-10-06T23:52:35.000Z</video:publication_date>
-    <video:uploader>ContenderHudsonValley</video:uploader>
-    <video:expiration_date>2025-10-14T23:52:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
