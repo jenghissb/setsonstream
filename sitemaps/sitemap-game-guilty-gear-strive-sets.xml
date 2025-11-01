@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-12-bh3-x-joystick/set/95719273/</loc>
-  <lastmod>2025-11-01T15:03:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-12-bh3-x-joystick/set/95719274/</loc>
+  <lastmod>2025-11-01T15:26:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840595/image-ad52248174512eecfb2790c19e97ea86.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NOG | Hironamite vs NTSC | Kisald, Monthly FGC#12 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NOG | Hironamite vs NTSC | Kisald in Losers Final of Monthly FGC#12 - BH3 x JOYSTICK, streamed by salamanderesport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606885498&amp;t=2h53m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>668</video:duration>
+    <video:publication_date>2025-11-01T15:26:22.000Z</video:publication_date>
+    <video:uploader>salamanderesport</video:uploader>
+    <video:expiration_date>2025-11-09T15:26:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-12-bh3-x-joystick/set/95719273/</loc>
+  <lastmod>2025-11-01T15:30:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606885498&amp;t=2h30m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1437</video:duration>
+    <video:duration>654</video:duration>
     <video:publication_date>2025-11-01T15:03:56.000Z</video:publication_date>
     <video:uploader>salamanderesport</video:uploader>
     <video:expiration_date>2025-11-09T15:03:56.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-04T10:12:52.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-12T10:12:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94632160/</loc>
-  <lastmod>2025-10-04T05:49:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831755/image-309bbf6d81416fc37c1f64bd84bb181f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PFaB | AutisticDuck vs YoKai | Aloa, SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PFaB | AutisticDuck vs YoKai | Aloa in Losers Final of SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit!, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582708847&amp;t=2h44m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>753</video:duration>
-    <video:publication_date>2025-10-04T05:21:51.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2025-10-12T05:21:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
