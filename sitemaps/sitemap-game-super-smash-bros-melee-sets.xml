@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fright-night-fridays-198/set/95709009/</loc>
-  <lastmod>2025-11-01T03:27:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fright-night-fridays-198/set/95709041/</loc>
+  <lastmod>2025-11-01T04:09:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846377/image-04528e86534d97eb5cea3ce47a4b4270.png
+    </video:thumbnail_loc>
+    <video:title>
+      Akey vs Sprocket, FRIGHT Night Fridays #198 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Akey vs Sprocket in Losers Final of FRIGHT Night Fridays #198, streamed by cptwoodbeard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606596669&amp;t=2h12m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>842</video:duration>
+    <video:publication_date>2025-11-01T04:09:17.000Z</video:publication_date>
+    <video:uploader>cptwoodbeard</video:uploader>
+    <video:expiration_date>2025-11-09T04:09:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fright-night-fridays-198/set/95709009/</loc>
+  <lastmod>2025-11-01T03:58:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606596669&amp;t=1h30m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1888</video:duration>
+    <video:duration>794</video:duration>
     <video:publication_date>2025-11-01T03:27:07.000Z</video:publication_date>
     <video:uploader>cptwoodbeard</video:uploader>
     <video:expiration_date>2025-11-09T03:27:07.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-04T22:54:06.000Z</video:publication_date>
     <video:uploader>flow_spot</video:uploader>
     <video:expiration_date>2025-10-12T22:54:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/qu-becup-2025/set/94669922/</loc>
-  <lastmod>2025-10-04T23:24:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/798250/image-5337d3e223d7c50ea1cdd4b5db90106a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zamu vs Spiral | MOF, Québecup 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zamu vs Spiral | MOF in Winners Quarter-Final of Québecup 2025, streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583415564&amp;t=0h37m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>621</video:duration>
-    <video:publication_date>2025-10-04T22:53:19.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2025-10-12T22:53:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

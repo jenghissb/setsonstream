@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/reignited-83/set/95712621/</loc>
+  <lastmod>2025-11-01T04:05:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845574/image-24bf8837cb659629499a760fd5e94f63.png
+    </video:thumbnail_loc>
+    <video:title>
+      Arconi vs Spooktercia, Reignited #83 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Arconi vs Spooktercia in Winners Quarter-Final of Reignited #83, streamed by asuesportsofficial
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606572935&amp;t=2h40m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1084</video:duration>
+    <video:publication_date>2025-11-01T04:05:15.000Z</video:publication_date>
+    <video:uploader>asuesportsofficial</video:uploader>
+    <video:expiration_date>2025-11-09T04:05:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-122/set/95609074/</loc>
   <lastmod>2025-10-29T04:02:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-24T17:25:32.000Z</video:publication_date>
     <video:uploader>kpblive</video:uploader>
     <video:expiration_date>2025-09-01T17:25:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/beast-in-the-east-8/set/93046085/</loc>
-  <lastmod>2025-08-24T16:58:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/776306/image-ac1496a2e656e00a6a57aa025a87b0b3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      HerbFromTheCurb vs DFTA | Kuma_Retsu, Beast in the East 8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HerbFromTheCurb vs DFTA | Kuma_Retsu in Winners Round 2 of Beast in the East 8, streamed by kpblive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2548633056&amp;t=0h37m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>662</video:duration>
-    <video:publication_date>2025-08-24T16:37:36.000Z</video:publication_date>
-    <video:uploader>kpblive</video:uploader>
-    <video:expiration_date>2025-09-01T16:37:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
