@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-101-halloween-special/set/95700735/</loc>
+  <lastmod>2025-11-01T03:18:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846069/image-bf78d191a32ff0f91940d71de31165b4.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      UTA | hippo vs Beluga, Suplex! #101 Halloween Special! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UTA | hippo vs Beluga in Grand Final of Suplex! #101 Halloween Special!, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2606502112&amp;t=2h49m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>690</video:duration>
+    <video:publication_date>2025-11-01T02:44:31.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2025-11-09T02:44:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-101-halloween-special/set/95700734/</loc>
-  <lastmod>2025-11-01T02:03:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-01T02:53:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2606502112&amp;t=2h8m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2832</video:duration>
+    <video:duration>1329</video:duration>
     <video:publication_date>2025-11-01T02:03:12.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-11-09T02:03:12.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-04T23:54:28.000Z</video:publication_date>
     <video:uploader>clarksvillefgc</video:uploader>
     <video:expiration_date>2025-10-12T23:54:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/playthrough-2025/set/94673417/</loc>
-  <lastmod>2025-10-05T00:02:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/812835/image-77c62f8b01779828b110a0883b2d16d9.png
-    </video:thumbnail_loc>
-    <video:title>
-      LAGr | Mash vs Arrow, Playthrough 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LAGr | Mash vs Arrow in Winners Final of Playthrough 2025, streamed by OakCityEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2583364341&amp;t=2h17m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>739</video:duration>
-    <video:publication_date>2025-10-04T23:21:38.000Z</video:publication_date>
-    <video:uploader>OakCityEsports</video:uploader>
-    <video:expiration_date>2025-10-12T23:21:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
