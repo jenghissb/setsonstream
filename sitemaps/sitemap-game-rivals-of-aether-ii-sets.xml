@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-5-regional-event/set/95766684/</loc>
-  <lastmod>2025-11-01T23:03:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/genesis-black-at-guildhouse-2025/set/95762824/</loc>
+  <lastmod>2025-11-01T23:19:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/820767/image-b2d9fb49c53b0d88da93545bda93c2de.png
+    </video:thumbnail_loc>
+    <video:title>
+      Always vs WHET | REDPARRY, GENESIS: BLACK at Guildhouse 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Always vs WHET | REDPARRY in Winners Semi-Final of GENESIS: BLACK at Guildhouse 2025, streamed by Guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607196714&amp;t=3h56m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1175</video:duration>
+    <video:publication_date>2025-11-01T23:19:21.000Z</video:publication_date>
+    <video:uploader>Guildhouse</video:uploader>
+    <video:expiration_date>2025-11-09T23:19:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-5-regional-event/set/95766684/</loc>
+  <lastmod>2025-11-01T23:34:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607139193&amp;t=4h51m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1491</video:duration>
+    <video:duration>603</video:duration>
     <video:publication_date>2025-11-01T23:03:57.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2025-11-09T23:03:57.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-08T23:44:25.000Z</video:publication_date>
     <video:uploader>pghrivals</video:uploader>
     <video:expiration_date>2025-10-16T23:44:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-233/set/94795687/</loc>
-  <lastmod>2025-10-09T00:04:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836782/image-97eb47ff76816add8971bb2a9f1b587a.png
-    </video:thumbnail_loc>
-    <video:title>
-      femboy friday | HitTheGriddyForUkraine vs WF | Smooch, Wonderfly Weekly #233 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch femboy friday | HitTheGriddyForUkraine vs WF | Smooch in Winners Quarter-Final of Wonderfly Weekly #233, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2586774008&amp;t=0h31m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>86</video:duration>
-    <video:publication_date>2025-10-08T23:40:51.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-10-16T23:40:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
