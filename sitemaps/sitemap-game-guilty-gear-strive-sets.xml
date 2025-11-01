@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/kumoricon-2025/set/95748931/</loc>
+  <lastmod>2025-11-01T19:03:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839310/image-7bf808a6fa82d20fb8b7b515c02bdfc6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BCB | Roxy vs Espe, Kumoricon 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BCB | Roxy vs Espe in Winners Round 1 of Kumoricon 2025, streamed by Kumoricon
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607176406&amp;t=0h5m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>412</video:duration>
+    <video:publication_date>2025-11-01T19:03:59.000Z</video:publication_date>
+    <video:uploader>Kumoricon</video:uploader>
+    <video:expiration_date>2025-11-09T19:03:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-5/set/95720564/</loc>
   <lastmod>2025-11-01T17:41:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-04T11:43:28.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-10-12T11:43:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hardread-herofest-2025/set/94640401/</loc>
-  <lastmod>2025-10-04T11:44:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815776/image-7409df882d1fdff98b41c403d7fca93a.png
-    </video:thumbnail_loc>
-    <video:title>
-      NoRaven vs SOS | Joule, HardRead @ HeroFest 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NoRaven vs SOS | Joule in Winners Semi-Final of HardRead @ HeroFest 2025, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582914711&amp;t=1h19m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>761</video:duration>
-    <video:publication_date>2025-10-04T11:19:48.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-10-12T11:19:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
