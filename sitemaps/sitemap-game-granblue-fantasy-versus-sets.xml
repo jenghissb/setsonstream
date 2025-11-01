@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/dreamhack-atlanta-2025/set/95729120/</loc>
-  <lastmod>2025-11-01T15:59:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/dreamhack-atlanta-2025/set/95736377/</loc>
+  <lastmod>2025-11-01T16:15:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809964/image-31b40c15fb8669e13e2d5f0d497c1102.png
+    </video:thumbnail_loc>
+    <video:title>
+      ONi | BlueSkyGuyBSG vs PM/MA | EdGoneBad, DreamHack Atlanta 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ONi | BlueSkyGuyBSG vs PM/MA | EdGoneBad in Winners Final of DreamHack Atlanta 2025, streamed by maxmode_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607037798&amp;t=0h16m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1509</video:duration>
+    <video:publication_date>2025-11-01T16:15:45.000Z</video:publication_date>
+    <video:uploader>maxmode_fgc</video:uploader>
+    <video:expiration_date>2025-11-09T16:15:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/dreamhack-atlanta-2025/set/95729120/</loc>
+  <lastmod>2025-11-01T16:28:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607037798&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1044</video:duration>
+    <video:duration>880</video:duration>
     <video:publication_date>2025-11-01T15:59:08.000Z</video:publication_date>
     <video:uploader>maxmode_fgc</video:uploader>
     <video:expiration_date>2025-11-09T15:59:08.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-08-27T20:14:06.000Z</video:publication_date>
     <video:uploader>DucEsport</video:uploader>
     <video:expiration_date>2025-09-04T20:14:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/get-to-the-top/set/93135072/</loc>
-  <lastmod>2025-08-27T19:32:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/798724/image-e05c0736502fb04de91a630aa3748df6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DUC | HeartEmolga vs DUC | Genosys, GET TO THE TOP! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DUC | HeartEmolga vs DUC | Genosys in Losers Quarter-Final of GET TO THE TOP!, streamed by DucEsport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2551219566&amp;t=1h25m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>999</video:duration>
-    <video:publication_date>2025-08-27T19:02:21.000Z</video:publication_date>
-    <video:uploader>DucEsport</video:uploader>
-    <video:expiration_date>2025-09-04T19:02:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
