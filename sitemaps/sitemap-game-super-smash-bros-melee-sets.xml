@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799408/</loc>
-  <lastmod>2025-11-02T19:49:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799409/</loc>
+  <lastmod>2025-11-02T20:07:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/799120/image-8c083d2f9665ec947d8ac05226c42545.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fat Tino vs SqueachuLLC | Jamie, Somnio Noctem - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fat Tino vs SqueachuLLC | Jamie in Losers Final of Somnio Noctem, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607717400&amp;t=11h3m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1461</video:duration>
+    <video:publication_date>2025-11-02T20:07:25.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2025-11-10T20:07:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799408/</loc>
+  <lastmod>2025-11-02T20:19:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607717400&amp;t=10h45m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1552</video:duration>
+    <video:duration>896</video:duration>
     <video:publication_date>2025-11-02T19:49:46.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2025-11-10T19:49:46.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-07T03:21:05.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-10-15T03:21:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-475/set/94755682/</loc>
-  <lastmod>2025-10-07T03:09:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837354/image-7e94ac9559c5d5e2932a106cc9165ff5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kaiki vs Angel666, Monday Night Melee 475 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kaiki vs Angel666 in Losers Quarter-Final of Monday Night Melee 475, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585199812&amp;t=1h42m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1119</video:duration>
-    <video:publication_date>2025-10-07T02:42:43.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2025-10-15T02:42:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

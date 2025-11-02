@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/genesis-black-at-guildhouse-2025/set/95810990/</loc>
+  <lastmod>2025-11-02T20:06:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/820767/image-b2d9fb49c53b0d88da93545bda93c2de.png
+    </video:thumbnail_loc>
+    <video:title>
+      pr*m | Apho vs esfc | prem, GENESIS: BLACK at Guildhouse 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch pr*m | Apho vs esfc | prem in Winners Quarter-Final of GENESIS: BLACK at Guildhouse 2025, streamed by Guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Guildhouse&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1521</video:duration>
+    <video:publication_date>2025-11-02T20:06:25.000Z</video:publication_date>
+    <video:uploader>Guildhouse</video:uploader>
+    <video:expiration_date>2025-11-10T20:06:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/igm-winter-showdown-2025/set/95802750/</loc>
   <lastmod>2025-11-02T18:14:59.000Z</lastmod>
   <changefreq>daily</changefreq>
