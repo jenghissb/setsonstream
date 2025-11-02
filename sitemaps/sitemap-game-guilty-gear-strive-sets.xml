@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgsea-25/set/95788126/</loc>
-  <lastmod>2025-11-02T03:34:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840876/image-a0e2816b197386fd024e06b97a23dd5e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Negative Ellie vs Bad Moon | Ticklememour, FGSea #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Negative Ellie vs Bad Moon | Ticklememour in Grand Final of FGSea #25, streamed by FGSeaPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607224317&amp;t=7h38m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1653</video:duration>
-    <video:publication_date>2025-11-02T03:34:42.000Z</video:publication_date>
-    <video:uploader>FGSeaPNW</video:uploader>
-    <video:expiration_date>2025-11-10T03:34:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-clash-27/set/95788648/</loc>
-  <lastmod>2025-11-02T03:40:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-02T04:06:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607432692&amp;t=3h26m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1279</video:duration>
+    <video:duration>1434</video:duration>
     <video:publication_date>2025-11-02T03:40:56.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-11-10T03:40:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgsea-25/set/95788126/</loc>
+  <lastmod>2025-11-02T04:06:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840876/image-a0e2816b197386fd024e06b97a23dd5e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Negative Ellie vs Bad Moon | Ticklememour, FGSea #25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Negative Ellie vs Bad Moon | Ticklememour in Grand Final of FGSea #25, streamed by FGSeaPNW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607224317&amp;t=7h38m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1492</video:duration>
+    <video:publication_date>2025-11-02T03:34:42.000Z</video:publication_date>
+    <video:uploader>FGSeaPNW</video:uploader>
+    <video:expiration_date>2025-11-10T03:34:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
