@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/warlockween-the-ultimate-curse/set/95793358/</loc>
-  <lastmod>2025-11-02T07:13:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-series-november-2025-monthly-halloween-contest/set/95795129/</loc>
+  <lastmod>2025-11-02T07:34:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843187/image-f8b42cc3a3e4109d72baaa7ba64acfc0.png
+    </video:thumbnail_loc>
+    <video:title>
+      drill | billie vs Cyrcadia, Knockout Series November 2025 Monthly (HALLOWEEN CONTEST) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch drill | billie vs Cyrcadia in Winners Round 2 of Knockout Series November 2025 Monthly (HALLOWEEN CONTEST), streamed by PerthSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607649259&amp;t=1h38m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>245</video:duration>
+    <video:publication_date>2025-11-02T07:34:19.000Z</video:publication_date>
+    <video:uploader>PerthSmash</video:uploader>
+    <video:expiration_date>2025-11-10T07:34:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/warlockween-the-ultimate-curse/set/95793358/</loc>
+  <lastmod>2025-11-02T07:38:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607430506&amp;t=7h1m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>956</video:duration>
+    <video:duration>1355</video:duration>
     <video:publication_date>2025-11-02T07:13:01.000Z</video:publication_date>
     <video:uploader>warlockfighters</video:uploader>
     <video:expiration_date>2025-11-10T07:13:01.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-25T19:04:10.000Z</video:publication_date>
     <video:uploader>SpringfieldSmash</video:uploader>
     <video:expiration_date>2025-11-02T19:04:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/friends-and-rivals-roots/set/95452556/</loc>
-  <lastmod>2025-10-25T19:16:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822221/image-55ab9efa8f0fd9e6db5f8267c333fab4.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GUMP2 | Ryu from Streets vs GUMP2 | Z I C O, Friends and Rivals: Roots - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GUMP2 | Ryu from Streets vs GUMP2 | Z I C O in Winners Semi-Final of Friends and Rivals: Roots, streamed by killallyordles
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601041696&amp;t=3h23m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>473</video:duration>
-    <video:publication_date>2025-10-25T19:02:55.000Z</video:publication_date>
-    <video:uploader>killallyordles</video:uploader>
-    <video:expiration_date>2025-11-02T19:02:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
