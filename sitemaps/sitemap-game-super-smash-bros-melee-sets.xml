@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799375/</loc>
-  <lastmod>2025-11-02T17:58:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799376/</loc>
+  <lastmod>2025-11-02T18:19:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/799120/image-8c083d2f9665ec947d8ac05226c42545.png
+    </video:thumbnail_loc>
+    <video:title>
+      Solobattle vs SqueachuLLC | Jamie, Somnio Noctem - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Solobattle vs SqueachuLLC | Jamie in Winners Semi-Final of Somnio Noctem, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607717400&amp;t=9h15m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1376</video:duration>
+    <video:publication_date>2025-11-02T18:19:48.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2025-11-10T18:19:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799375/</loc>
+  <lastmod>2025-11-02T18:36:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607717400&amp;t=8h53m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1252</video:duration>
+    <video:duration>1244</video:duration>
     <video:publication_date>2025-11-02T17:58:07.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2025-11-10T17:58:07.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-07T01:46:10.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2025-10-15T01:46:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-475/set/94755620/</loc>
-  <lastmod>2025-10-07T02:20:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837354/image-7e94ac9559c5d5e2932a106cc9165ff5.png
-    </video:thumbnail_loc>
-    <video:title>
-      BrockoSpotify | sethibuns vs Kaiki, Monday Night Melee 475 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BrockoSpotify | sethibuns vs Kaiki in Winners Semi-Final of Monday Night Melee 475, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585199812&amp;t=0h41m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1693</video:duration>
-    <video:publication_date>2025-10-07T01:41:36.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2025-10-15T01:41:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
