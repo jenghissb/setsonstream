@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/kumoricon-2025/set/95810883/</loc>
+  <lastmod>2025-11-02T20:51:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839310/image-7bf808a6fa82d20fb8b7b515c02bdfc6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Dubstikz vs BL | bPhimmasone, Kumoricon 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dubstikz vs BL | bPhimmasone in Winners Quarter-Final of Kumoricon 2025, streamed by Kumoricon
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2608030755&amp;t=2h56m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1296</video:duration>
+    <video:publication_date>2025-11-02T20:51:15.000Z</video:publication_date>
+    <video:uploader>Kumoricon</video:uploader>
+    <video:expiration_date>2025-11-10T20:51:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ppg-battle-of-champions-2025/set/95799024/</loc>
   <lastmod>2025-11-02T15:15:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-11T16:20:04.000Z</video:publication_date>
     <video:uploader>EVO_France2</video:uploader>
     <video:expiration_date>2025-10-19T16:20:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94917329/</loc>
-  <lastmod>2025-10-11T16:31:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Mirage | Fergus vs Z10 | qudans, Evo France 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mirage | Fergus vs Z10 | qudans in Winners Quarter-Final of Evo France 2025, streamed by EVO_France2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588831459&amp;t=8h37m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>453</video:duration>
-    <video:publication_date>2025-10-11T16:10:17.000Z</video:publication_date>
-    <video:uploader>EVO_France2</video:uploader>
-    <video:expiration_date>2025-10-19T16:10:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
