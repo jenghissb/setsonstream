@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/dreamhack-atlanta-2025/set/95807931/</loc>
+  <lastmod>2025-11-02T19:53:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809964/image-31b40c15fb8669e13e2d5f0d497c1102.png
+    </video:thumbnail_loc>
+    <video:title>
+      DKBL | Bloo vs 4o4 | Buddylikefriend, DreamHack Atlanta 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DKBL | Bloo vs 4o4 | Buddylikefriend in Winners Round 1 of DreamHack Atlanta 2025, streamed by maxmode_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607964733&amp;t=3h20m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1332</video:duration>
+    <video:publication_date>2025-11-02T19:53:26.000Z</video:publication_date>
+    <video:uploader>maxmode_fgc</video:uploader>
+    <video:expiration_date>2025-11-10T19:53:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-curtain-call-last-chance-qualifier/set/95805175/</loc>
   <lastmod>2025-11-02T18:19:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-08T00:07:24.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-16T00:07:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-121/set/94771518/</loc>
-  <lastmod>2025-10-08T00:14:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838056/image-6b2c7f7b9475a5884737ad28f5cab615.png
-    </video:thumbnail_loc>
-    <video:title>
-      Spectryn vs EC3 | Jefu Desu, HoG: Dragon #121 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Spectryn vs EC3 | Jefu Desu in Winners Round 1 of HoG: Dragon #121, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585939009&amp;t=0h26m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>807</video:duration>
-    <video:publication_date>2025-10-07T23:45:09.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-10-15T23:45:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

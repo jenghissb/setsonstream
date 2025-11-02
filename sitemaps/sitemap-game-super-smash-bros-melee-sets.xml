@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799407/</loc>
-  <lastmod>2025-11-02T19:01:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799408/</loc>
+  <lastmod>2025-11-02T19:49:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/799120/image-8c083d2f9665ec947d8ac05226c42545.png
+    </video:thumbnail_loc>
+    <video:title>
+      regEx vs SqueachuLLC | Jamie, Somnio Noctem - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch regEx vs SqueachuLLC | Jamie in Losers Semi-Final of Somnio Noctem, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607717400&amp;t=10h45m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1552</video:duration>
+    <video:publication_date>2025-11-02T19:49:46.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2025-11-10T19:49:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95799407/</loc>
+  <lastmod>2025-11-02T19:55:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2607717400&amp;t=9h57m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2882</video:duration>
+    <video:duration>1735</video:duration>
     <video:publication_date>2025-11-02T19:01:35.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2025-11-10T19:01:35.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-07T02:42:43.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-10-15T02:42:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uconn-union-of-melee-51-yo-momma-soooooo-fat/set/94753970/</loc>
-  <lastmod>2025-10-07T03:09:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837063/image-66e5d5e147a639abfe1bdbd4d3c3df26.png
-    </video:thumbnail_loc>
-    <video:title>
-      Abel vs Mr. Bear, UConn Union of Melee 51: Yo momma soooooo fat - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Abel vs Mr. Bear in Grand Final of UConn Union of Melee 51: Yo momma soooooo fat, streamed by UconnSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2585142643&amp;t=2h49m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1024</video:duration>
-    <video:publication_date>2025-10-07T02:39:50.000Z</video:publication_date>
-    <video:uploader>UconnSmash</video:uploader>
-    <video:expiration_date>2025-10-15T02:39:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
