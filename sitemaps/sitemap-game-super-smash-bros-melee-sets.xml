@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/somnio-noctem/set/95797105/</loc>
+  <lastmod>2025-11-02T12:04:06.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/799120/image-8c083d2f9665ec947d8ac05226c42545.png
+    </video:thumbnail_loc>
+    <video:title>
+      regEx vs GandalfGaming, Somnio Noctem - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch regEx vs GandalfGaming in Winners Round 2 of Somnio Noctem, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2607717400&amp;t=2h59m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1431</video:duration>
+    <video:publication_date>2025-11-02T12:04:06.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2025-11-10T12:04:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/vacationlan-2025/set/95776425/</loc>
   <lastmod>2025-11-02T03:14:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-06T18:27:36.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-10-14T18:27:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-80/set/94739286/</loc>
-  <lastmod>2025-10-06T18:36:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836385/image-23f94f17ca8406c43bbe8c3eaf42d614.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      gaby671 vs PIAF, KnockOut Zone #80 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch gaby671 vs PIAF in Winners Quarter-Final of KnockOut Zone #80, streamed by orbitalgoats
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2584854302&amp;t=0h49m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1298</video:duration>
-    <video:publication_date>2025-10-06T18:01:53.000Z</video:publication_date>
-    <video:uploader>orbitalgoats</video:uploader>
-    <video:expiration_date>2025-10-14T18:01:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
