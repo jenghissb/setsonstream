@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95833652/</loc>
-  <lastmod>2025-11-03T07:31:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95833666/</loc>
+  <lastmod>2025-11-03T08:09:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/822447/image-c524b1255ffb0a1f4966b019dae0edd5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ZETA | Tea vs E36 | Hurt, 篝火#14/KAGARIBI#14 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZETA | Tea vs E36 | Hurt in Losers Quarter-Final of 篝火#14/KAGARIBI#14, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/rEFX5SzvtkA?start=25990s
+    </video:player_loc>
+    <video:duration>780</video:duration>
+    <video:publication_date>2025-11-03T08:09:46.000Z</video:publication_date>
+    <video:uploader>East Geek Smash</video:uploader>
+    <video:expiration_date>2025-11-11T08:09:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95833652/</loc>
+  <lastmod>2025-11-03T07:50:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/rEFX5SzvtkA?start=23712s
     </video:player_loc>
-    <video:duration>1091</video:duration>
+    <video:duration>993</video:duration>
     <video:publication_date>2025-11-03T07:31:48.000Z</video:publication_date>
     <video:uploader>East Geek Smash</video:uploader>
     <video:expiration_date>2025-11-11T07:31:48.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-26T13:24:10.000Z</video:publication_date>
     <video:uploader>smashbrosbcn</video:uploader>
     <video:expiration_date>2025-11-03T13:24:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/s-v-t-smash-vincere-tenebras-viii/set/95523572/</loc>
-  <lastmod>2025-10-26T13:41:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840637/image-859f1d8d604bf15945ccee7c1838d8c6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SU|OX | Winistar vs BE | Yahiko, S. V. T. : Smash Vincere Tenebras VIII - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SU|OX | Winistar vs BE | Yahiko in Winners Semi-Final of S. V. T. : Smash Vincere Tenebras VIII, streamed by aesulb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601792878&amp;t=1h23m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1134</video:duration>
-    <video:publication_date>2025-10-26T13:20:36.000Z</video:publication_date>
-    <video:uploader>aesulb</video:uploader>
-    <video:expiration_date>2025-11-03T13:20:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
