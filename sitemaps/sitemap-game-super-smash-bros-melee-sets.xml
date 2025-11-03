@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/genesis-black-at-guildhouse-2025/set/95827439/</loc>
-  <lastmod>2025-11-03T03:25:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/genesis-black-at-guildhouse-2025/set/95827442/</loc>
+  <lastmod>2025-11-03T04:27:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/820767/image-b2d9fb49c53b0d88da93545bda93c2de.png
+    </video:thumbnail_loc>
+    <video:title>
+      Typhoon vs Veggies | SFAT, GENESIS: BLACK at Guildhouse 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Typhoon vs Veggies | SFAT in Losers Quarter-Final of GENESIS: BLACK at Guildhouse 2025, streamed by genesisgg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2608248870&amp;t=6h7m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1177</video:duration>
+    <video:publication_date>2025-11-03T04:27:48.000Z</video:publication_date>
+    <video:uploader>genesisgg</video:uploader>
+    <video:expiration_date>2025-11-11T04:27:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/genesis-black-at-guildhouse-2025/set/95827439/</loc>
+  <lastmod>2025-11-03T04:33:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2608248870&amp;t=5h5m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3591</video:duration>
+    <video:duration>1522</video:duration>
     <video:publication_date>2025-11-03T03:25:05.000Z</video:publication_date>
     <video:uploader>genesisgg</video:uploader>
     <video:expiration_date>2025-11-11T03:25:05.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-08T02:49:15.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-10-16T02:49:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-smash-10-7-2025-dedicado-a-max/set/94780848/</loc>
-  <lastmod>2025-10-08T03:12:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836613/image-a99ee2d2a5d7442fc5ab8800b240b53e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Misinput vs PGDA | Scooter, UW Smash 10/7/2025: Dedicado a Max - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Misinput vs PGDA | Scooter in Winners Round 3 of UW Smash 10/7/2025: Dedicado a Max, streamed by uwsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2586051519&amp;t=1h8m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>833</video:duration>
-    <video:publication_date>2025-10-08T02:44:32.000Z</video:publication_date>
-    <video:uploader>uwsmash</video:uploader>
-    <video:expiration_date>2025-10-16T02:44:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
