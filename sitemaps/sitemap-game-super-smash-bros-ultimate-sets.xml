@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-84/set/95838274/</loc>
-  <lastmod>2025-11-03T22:26:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dat-monday-meltdown-365/set/95843286/</loc>
+  <lastmod>2025-11-03T22:39:58.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846564/image-48dad6b55e815481ba71b98a685934a5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Azalea vs BMS | Luugi, DAT Monday Meltdown 365 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Azalea vs BMS | Luugi in Grand Final of DAT Monday Meltdown 365, streamed by datteamlive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2609056423&amp;t=0h9m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>565</video:duration>
+    <video:publication_date>2025-11-03T22:39:58.000Z</video:publication_date>
+    <video:uploader>datteamlive</video:uploader>
+    <video:expiration_date>2025-11-11T22:39:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-84/set/95838274/</loc>
+  <lastmod>2025-11-03T22:36:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2609010601&amp;t=1h1m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>518</video:duration>
+    <video:duration>496</video:duration>
     <video:publication_date>2025-11-03T22:26:15.000Z</video:publication_date>
     <video:uploader>orbitalsheep</video:uploader>
     <video:expiration_date>2025-11-11T22:26:15.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dat-monday-meltdown-365/set/95843317/</loc>
-  <lastmod>2025-11-03T22:20:07.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-03T22:42:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -40,9 +64,9 @@
       Watch Kendrick Olimar vs BMS | Luugi in Losers Final of DAT Monday Meltdown 365, streamed by vgbootcamp
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=vgbootcamp&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2609043180&amp;t=0h9m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>886</video:duration>
+    <video:duration>1186</video:duration>
     <video:publication_date>2025-11-03T22:20:07.000Z</video:publication_date>
     <video:uploader>vgbootcamp</video:uploader>
     <video:expiration_date>2025-11-11T22:20:07.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-26T18:49:04.000Z</video:publication_date>
     <video:uploader>LilacCitySmash</video:uploader>
     <video:expiration_date>2025-11-03T18:49:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/claim-the-crown-123/set/95537375/</loc>
-  <lastmod>2025-10-26T19:19:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840212/image-e662e7b05c2da4d3d3c2f122bccb420e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mario vs Fleetwood, Claim the Crown #123 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mario vs Fleetwood in Winners Semi-Final of Claim the Crown #123, streamed by odysseyesportsin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2602038708&amp;t=0h46m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1654</video:duration>
-    <video:publication_date>2025-10-26T18:47:12.000Z</video:publication_date>
-    <video:uploader>odysseyesportsin</video:uploader>
-    <video:expiration_date>2025-11-03T18:47:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
