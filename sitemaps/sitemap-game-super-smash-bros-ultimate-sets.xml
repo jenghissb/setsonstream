@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95833669/</loc>
+  <lastmod>2025-11-03T09:45:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/822447/image-c524b1255ffb0a1f4966b019dae0edd5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      AREA310 | ドラ右(AREA310 | dora migi) vs E36 | Hurt, 篝火#14/KAGARIBI#14 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AREA310 | ドラ右(AREA310 | dora migi) vs E36 | Hurt in Losers Final of 篝火#14/KAGARIBI#14, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/rEFX5SzvtkA?start=31706s
+    </video:player_loc>
+    <video:duration>508</video:duration>
+    <video:publication_date>2025-11-03T09:45:02.000Z</video:publication_date>
+    <video:uploader>East Geek Smash</video:uploader>
+    <video:expiration_date>2025-11-11T09:45:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95833668/</loc>
   <lastmod>2025-11-03T09:43:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-26T13:44:36.000Z</video:publication_date>
     <video:uploader>aesulb</video:uploader>
     <video:expiration_date>2025-11-03T13:44:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-mountain-king-2-galdh-piggen/set/95526470/</loc>
-  <lastmod>2025-10-26T14:04:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/782370/image-93c613405ef2c8e9e8f1315d526e1c32.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sluk vs Doorman, The Mountain King 2: Galdhøpiggen - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sluk vs Doorman in Losers Round 1 of The Mountain King 2: Galdhøpiggen, streamed by SmashOslo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601829598&amp;t=0h35m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1323</video:duration>
-    <video:publication_date>2025-10-26T13:38:41.000Z</video:publication_date>
-    <video:uploader>SmashOslo</video:uploader>
-    <video:expiration_date>2025-11-03T13:38:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
