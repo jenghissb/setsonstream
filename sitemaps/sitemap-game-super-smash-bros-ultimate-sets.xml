@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95833652/</loc>
+  <lastmod>2025-11-03T07:31:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/822447/image-c524b1255ffb0a1f4966b019dae0edd5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FENNEL | Miya vs ZETA | Tea, 篝火#14/KAGARIBI#14 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FENNEL | Miya vs ZETA | Tea in Winners Semi-Final of 篝火#14/KAGARIBI#14, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/rEFX5SzvtkA?start=23712s
+    </video:player_loc>
+    <video:duration>1091</video:duration>
+    <video:publication_date>2025-11-03T07:31:48.000Z</video:publication_date>
+    <video:uploader>East Geek Smash</video:uploader>
+    <video:expiration_date>2025-11-11T07:31:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95827236/</loc>
   <lastmod>2025-11-03T06:15:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-26T13:20:36.000Z</video:publication_date>
     <video:uploader>aesulb</video:uploader>
     <video:expiration_date>2025-11-03T13:20:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-mountain-king-2-galdh-piggen/set/95526447/</loc>
-  <lastmod>2025-10-26T13:49:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/782370/image-93c613405ef2c8e9e8f1315d526e1c32.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hudet vs NTA | iRefuse, The Mountain King 2: Galdhøpiggen - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hudet vs NTA | iRefuse in Winners Quarter-Final of The Mountain King 2: Galdhøpiggen, streamed by SmashNorge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601786155&amp;t=1h36m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1533</video:duration>
-    <video:publication_date>2025-10-26T13:20:14.000Z</video:publication_date>
-    <video:uploader>SmashNorge</video:uploader>
-    <video:expiration_date>2025-11-03T13:20:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
