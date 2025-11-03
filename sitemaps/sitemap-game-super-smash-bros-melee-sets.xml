@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-84/set/95838834/</loc>
+  <lastmod>2025-11-03T19:34:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846758/image-93a475ed53f751ebfcfe582a7c173d7b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Busard vs Graham, KnockOut Zone #84 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Busard vs Graham in Winners Final of KnockOut Zone #84, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2608876047&amp;t=1h4m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>908</video:duration>
+    <video:publication_date>2025-11-03T19:34:44.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-11-11T19:34:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/genesis-black-at-guildhouse-2025/set/95827429/</loc>
   <lastmod>2025-11-03T06:31:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-08T04:24:02.000Z</video:publication_date>
     <video:uploader>uwsmash</video:uploader>
     <video:expiration_date>2025-10-16T04:24:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-114/set/94782495/</loc>
-  <lastmod>2025-10-08T04:27:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835780/image-303f0f9188acc4050e2086539069ba31.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mongoose vs Deepstate | Kegstand Jesus, Melee @ Abbey Tavern #114 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mongoose vs Deepstate | Kegstand Jesus in Losers Round 4 of Melee @ Abbey Tavern #114, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2586030477&amp;t=2h55m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>641</video:duration>
-    <video:publication_date>2025-10-08T04:05:07.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-10-16T04:05:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
