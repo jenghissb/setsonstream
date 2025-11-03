@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/moonwalkers-98/set/95846921/</loc>
+  <lastmod>2025-11-03T23:33:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842247/image-259b0b77518a8c7930d5a6595406645d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jonnngo vs Martez, Moonwalkers #98 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jonnngo vs Martez in Winners Round 1 of Moonwalkers #98, streamed by colmshine
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=colmshine&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>999</video:duration>
+    <video:publication_date>2025-11-03T23:33:05.000Z</video:publication_date>
+    <video:uploader>colmshine</video:uploader>
+    <video:expiration_date>2025-11-11T23:33:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-84/set/95838835/</loc>
   <lastmod>2025-11-03T20:53:43.000Z</lastmod>
   <changefreq>daily</changefreq>
