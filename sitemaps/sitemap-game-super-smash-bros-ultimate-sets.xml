@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vesti-air-27/set/95870880/</loc>
-  <lastmod>2025-11-04T21:26:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847437/image-ee37e9dbc68bbe0f6c2a5a4e7a608067.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aness vs Adrian, VESTI&apos;AIR #27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aness vs Adrian in Grand Final of VESTI&apos;AIR #27, streamed by adrianpt94
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2609717858&amp;t=2h45m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>914</video:duration>
-    <video:publication_date>2025-11-04T21:26:59.000Z</video:publication_date>
-    <video:uploader>adrianpt94</video:uploader>
-    <video:expiration_date>2025-11-12T21:26:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-137-november-4th/set/95872130/</loc>
   <lastmod>2025-11-04T21:22:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2609759793&amp;t=1h50m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1175</video:duration>
+    <video:duration>1695</video:duration>
     <video:publication_date>2025-11-04T21:22:38.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-11-12T21:22:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vesti-air-27/set/95870880/</loc>
+  <lastmod>2025-11-04T21:46:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847437/image-ee37e9dbc68bbe0f6c2a5a4e7a608067.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aness vs Adrian, VESTI&apos;AIR #27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aness vs Adrian in Grand Final of VESTI&apos;AIR #27, streamed by adrianpt94
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2609717858&amp;t=2h45m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1008</video:duration>
+    <video:publication_date>2025-11-04T21:26:59.000Z</video:publication_date>
+    <video:uploader>adrianpt94</video:uploader>
+    <video:expiration_date>2025-11-12T21:26:59.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
