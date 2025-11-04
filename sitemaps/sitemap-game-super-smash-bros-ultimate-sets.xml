@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-204/set/95874080/</loc>
+  <lastmod>2025-11-04T23:08:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846698/image-ccaf3abe9303c08ee967f140149524d7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Marcolepsy vs BBC | Mitsuki, Le Hub 204 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Marcolepsy vs BBC | Mitsuki in Winners Quarter-Final of Le Hub 204, streamed by Smash New Brunswick
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Ob6XhpAE-IQ?start=6265s
+    </video:player_loc>
+    <video:duration>553</video:duration>
+    <video:publication_date>2025-11-04T22:57:26.000Z</video:publication_date>
+    <video:uploader>Smash New Brunswick</video:uploader>
+    <video:expiration_date>2025-11-12T22:57:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-204/set/95874070/</loc>
-  <lastmod>2025-11-04T22:43:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-04T23:00:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/Ob6XhpAE-IQ?start=5450s
     </video:player_loc>
-    <video:duration>326</video:duration>
+    <video:duration>796</video:duration>
     <video:publication_date>2025-11-04T22:43:51.000Z</video:publication_date>
     <video:uploader>Smash New Brunswick</video:uploader>
     <video:expiration_date>2025-11-12T22:43:51.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-27T01:47:59.000Z</video:publication_date>
     <video:uploader>xtrtj</video:uploader>
     <video:expiration_date>2025-11-04T01:47:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/first-attack-2025/set/95542607/</loc>
-  <lastmod>2025-10-27T02:06:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
-    </video:thumbnail_loc>
-    <video:title>
-      CS3 | Marvelous_Marco vs WIN | Lima, First Attack 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CS3 | Marvelous_Marco vs WIN | Lima in Losers Final of First Attack 2025, streamed by vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601873095&amp;t=11h30m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1150</video:duration>
-    <video:publication_date>2025-10-27T01:45:31.000Z</video:publication_date>
-    <video:uploader>vgbootcamp</video:uploader>
-    <video:expiration_date>2025-11-04T01:45:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
