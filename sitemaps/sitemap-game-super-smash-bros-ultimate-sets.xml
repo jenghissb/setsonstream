@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vesti-air-27/set/95870867/</loc>
-  <lastmod>2025-11-04T19:07:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-47/set/95871814/</loc>
+  <lastmod>2025-11-04T19:19:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843446/image-c8f7e2f26b239b98c04896798f36bb9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      OMS | Glitchy vs comic sansvolk, BORDERLINE SMASH #47 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OMS | Glitchy vs comic sansvolk in Winners Semi-Final of BORDERLINE SMASH #47, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2609679483&amp;t=1h28m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>464</video:duration>
+    <video:publication_date>2025-11-04T19:19:30.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2025-11-12T19:19:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vesti-air-27/set/95870867/</loc>
+  <lastmod>2025-11-04T19:26:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2609717858&amp;t=0h25m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>349</video:duration>
+    <video:duration>996</video:duration>
     <video:publication_date>2025-11-04T19:07:13.000Z</video:publication_date>
     <video:uploader>adrianpt94</video:uploader>
     <video:expiration_date>2025-11-12T19:07:13.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-27T00:34:21.000Z</video:publication_date>
     <video:uploader>xtrtj</video:uploader>
     <video:expiration_date>2025-11-04T00:34:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/comet-clash-21/set/95552414/</loc>
-  <lastmod>2025-10-27T00:46:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844084/image-7dd63b3f6ba7dcc158d7c630b9039415.png
-    </video:thumbnail_loc>
-    <video:title>
-      分隊 BBC UTD | DoritoBandito(buntai BBC UTD | DoritoBandito) vs UTD | Clue, Comet Clash 21 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 分隊 BBC UTD | DoritoBandito(buntai BBC UTD | DoritoBandito) vs UTD | Clue in Grand Final of Comet Clash 21, streamed by UTDSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2602255346&amp;t=1h54m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>783</video:duration>
-    <video:publication_date>2025-10-27T00:29:24.000Z</video:publication_date>
-    <video:uploader>UTDSmash</video:uploader>
-    <video:expiration_date>2025-11-04T00:29:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
