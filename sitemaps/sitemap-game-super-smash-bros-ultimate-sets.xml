@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-137/set/95888578/</loc>
-  <lastmod>2025-11-05T07:01:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-137/set/95888579/</loc>
+  <lastmod>2025-11-05T07:27:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/847502/image-939da6f21022948228934f8f9f1228a4.jpg
     </video:thumbnail_loc>
     <video:title>
-      USC | CaptainCarson vs MouseRat, Octagon #137 - Sets on Stream
+      UW | Lumeckos vs MouseRat, Octagon #137 - Sets on Stream
     </video:title>
     <video:description>
-      Watch USC | CaptainCarson vs MouseRat in Losers Semi-Final of Octagon #137, streamed by satellitesmash
+      Watch UW | Lumeckos vs MouseRat in Losers Final of Octagon #137, streamed by satellitesmash
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610104946&amp;t=3h55m2s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2610104946&amp;t=4h21m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>853</video:duration>
-    <video:publication_date>2025-11-05T07:01:32.000Z</video:publication_date>
+    <video:duration>268</video:duration>
+    <video:publication_date>2025-11-05T07:27:52.000Z</video:publication_date>
     <video:uploader>satellitesmash</video:uploader>
-    <video:expiration_date>2025-11-13T07:01:32.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-13T07:27:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-168-think-before-you-sink/set/95891939/</loc>
+  <lastmod>2025-11-05T07:28:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846445/image-bb995c9c6ec2edbd66433b920d8fd310.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CF | Monte vs MP/Yikes! | RandumMNK, Shark Tank #168: Think Before You Sink - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CF | Monte vs MP/Yikes! | RandumMNK in Winners Final of Shark Tank #168: Think Before You Sink, streamed by ClubSmashTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610169625&amp;t=2h28m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>248</video:duration>
+    <video:publication_date>2025-11-05T07:28:12.000Z</video:publication_date>
+    <video:uploader>ClubSmashTV</video:uploader>
+    <video:expiration_date>2025-11-13T07:28:12.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-168-think-before-you-sink/set/95891938/</loc>
-  <lastmod>2025-11-05T07:01:35.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-05T07:17:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610169625&amp;t=2h1m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>850</video:duration>
+    <video:duration>813</video:duration>
     <video:publication_date>2025-11-05T07:01:35.000Z</video:publication_date>
     <video:uploader>ClubSmashTV</video:uploader>
     <video:expiration_date>2025-11-13T07:01:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-137/set/95888578/</loc>
+  <lastmod>2025-11-05T07:31:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847502/image-939da6f21022948228934f8f9f1228a4.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      USC | CaptainCarson vs MouseRat, Octagon #137 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch USC | CaptainCarson vs MouseRat in Losers Semi-Final of Octagon #137, streamed by satellitesmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610104946&amp;t=3h55m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1568</video:duration>
+    <video:publication_date>2025-11-05T07:01:32.000Z</video:publication_date>
+    <video:uploader>satellitesmash</video:uploader>
+    <video:expiration_date>2025-11-13T07:01:32.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-10-28T00:15:50.000Z</video:publication_date>
     <video:uploader>spotlightkc</video:uploader>
     <video:expiration_date>2025-11-05T00:15:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/warhawk-weekly-35/set/95573970/</loc>
-  <lastmod>2025-10-28T00:31:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845042/image-0476750824951e7e82478354b00b4fc0.png
-    </video:thumbnail_loc>
-    <video:title>
-      9000 Hippos vs Chicken Jockey | : ), Warhawk Weekly #35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 9000 Hippos vs Chicken Jockey | : ) in Winners Round 3 of Warhawk Weekly #35, streamed by uwwsmashbros
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603092893&amp;t=0h41m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>606</video:duration>
-    <video:publication_date>2025-10-28T00:14:51.000Z</video:publication_date>
-    <video:uploader>uwwsmashbros</video:uploader>
-    <video:expiration_date>2025-11-05T00:14:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-138-heart-of-the-game/set/95570637/</loc>
-  <lastmod>2025-10-28T00:35:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844140/image-04dbd49f8adbddfcc0816b9de2446c98.png
-    </video:thumbnail_loc>
-    <video:title>
-      EMW Esports 2 | KingP vs Next | Woozie, Monday Night SmashBall 138 @ Heart Of The Game - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EMW Esports 2 | KingP vs Next | Woozie in Winners Semi-Final of Monday Night SmashBall 138 @ Heart Of The Game, streamed by 716esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603028802&amp;t=2h2m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1022</video:duration>
-    <video:publication_date>2025-10-28T00:14:26.000Z</video:publication_date>
-    <video:uploader>716esports</video:uploader>
-    <video:expiration_date>2025-11-05T00:14:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
