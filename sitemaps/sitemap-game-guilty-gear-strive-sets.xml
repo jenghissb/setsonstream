@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-82/set/95879120/</loc>
-  <lastmod>2025-11-05T02:23:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-213-be-quiet-and-listen-to-this-speech/set/95882545/</loc>
+  <lastmod>2025-11-05T03:30:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847630/image-8c1ac98b1cc76be9a8f8140248f29350.png
+    </video:thumbnail_loc>
+    <video:title>
+      GAP | #24/7Gapfest vs yeahokpal, CFG Tuesday Trials 213: Be Quiet And Listen To This Speech! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GAP | #24/7Gapfest vs yeahokpal in Losers Quarter-Final of CFG Tuesday Trials 213: Be Quiet And Listen To This Speech!, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2609940066&amp;t=3h49m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>754</video:duration>
+    <video:publication_date>2025-11-05T03:30:16.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2025-11-13T03:30:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-82/set/95879120/</loc>
+  <lastmod>2025-11-05T02:51:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2609962439&amp;t=2h15m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1566</video:duration>
+    <video:duration>636</video:duration>
     <video:publication_date>2025-11-05T02:23:40.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-11-13T02:23:40.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-10T01:48:49.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-10-18T01:48:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/neon-dreams-guilty-gear-strive-thursday-throwdown-23-pot-bonus/set/94836260/</loc>
-  <lastmod>2025-10-10T01:58:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830370/image-c1ff3874622031ee5bb9edfcb49c1621.png
-    </video:thumbnail_loc>
-    <video:title>
-      Peluna vs GoTE | Okizeme Lovato, Neon Dreams Guilty Gear: STRIVE Thursday Throwdown #23 POT BONUS! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Peluna vs GoTE | Okizeme Lovato in Winners Round 3 of Neon Dreams Guilty Gear: STRIVE Thursday Throwdown #23 POT BONUS!, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2587664398&amp;t=1h15m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2025-10-10T01:28:28.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-10-18T01:28:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
