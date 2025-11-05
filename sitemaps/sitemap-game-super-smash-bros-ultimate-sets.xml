@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-77/set/95892725/</loc>
+  <lastmod>2025-11-05T09:12:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847641/image-3e90c75ba268bffb8d1a5436b2c25f67.png
+    </video:thumbnail_loc>
+    <video:title>
+      mini! vs Elijah, Pincadia Pummel 77 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch mini! vs Elijah in Losers Quarter-Final of Pincadia Pummel 77, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/sOA1_ukRqnY?start=3497s
+    </video:player_loc>
+    <video:duration>332</video:duration>
+    <video:publication_date>2025-11-05T09:12:50.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2025-11-13T09:12:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-137/set/95888453/</loc>
   <lastmod>2025-11-05T08:25:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-28T00:23:02.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-05T00:23:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-open-weekly-41/set/95572963/</loc>
-  <lastmod>2025-10-28T00:40:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841061/image-89e46d81e59b403b141080198b260211.png
-    </video:thumbnail_loc>
-    <video:title>
-      TRK | TRICOT | Zoroaster vs Astrobeat, Smash Open Weekly 41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TRK | TRICOT | Zoroaster vs Astrobeat in Winners Semi-Final of Smash Open Weekly 41, streamed by mryamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603063827&amp;t=1h25m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>690</video:duration>
-    <video:publication_date>2025-10-28T00:22:47.000Z</video:publication_date>
-    <video:uploader>mryamp</video:uploader>
-    <video:expiration_date>2025-11-05T00:22:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

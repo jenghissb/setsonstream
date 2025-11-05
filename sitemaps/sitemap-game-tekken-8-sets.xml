@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tip-finale-rest-in-parradise/set/95892055/</loc>
-  <lastmod>2025-11-05T08:39:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tip-finale-rest-in-parradise/set/95892198/</loc>
+  <lastmod>2025-11-05T08:58:14.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838631/image-f9cd680591ca84f46538c5b3d39aad54.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      zerostresslevel vs DTN | Etherealsage, TiP Finale: Rest in Parradise - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch zerostresslevel vs DTN | Etherealsage in Winners Round 1 of TiP Finale: Rest in Parradise, streamed by troubleinparradise
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610229777&amp;t=1h18m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1208</video:duration>
+    <video:publication_date>2025-11-05T08:58:14.000Z</video:publication_date>
+    <video:uploader>troubleinparradise</video:uploader>
+    <video:expiration_date>2025-11-13T08:58:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tip-finale-rest-in-parradise/set/95892055/</loc>
+  <lastmod>2025-11-05T09:03:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610229777&amp;t=0h59m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>574</video:duration>
+    <video:duration>490</video:duration>
     <video:publication_date>2025-11-05T08:39:14.000Z</video:publication_date>
     <video:uploader>troubleinparradise</video:uploader>
     <video:expiration_date>2025-11-13T08:39:14.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-12T14:03:58.000Z</video:publication_date>
     <video:uploader>EVO_France</video:uploader>
     <video:expiration_date>2025-10-20T14:03:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94966463/</loc>
-  <lastmod>2025-10-12T14:13:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Mirage | Fergus vs VIT JeonDDing, Evo France 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mirage | Fergus vs VIT JeonDDing in Winners Final of Evo France 2025, streamed by EVO_France
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589752876&amp;t=6h6m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>735</video:duration>
-    <video:publication_date>2025-10-12T13:47:26.000Z</video:publication_date>
-    <video:uploader>EVO_France</video:uploader>
-    <video:expiration_date>2025-10-20T13:47:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
