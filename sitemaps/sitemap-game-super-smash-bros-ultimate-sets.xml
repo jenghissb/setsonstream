@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-primavera-2025-5/set/95893581/</loc>
-  <lastmod>2025-11-05T17:03:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-primavera-2025-5/set/95893582/</loc>
+  <lastmod>2025-11-05T17:31:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847025/image-171036f08ee399cf711fffc674be48e0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      U-Smash | P24 vs U-Smash | Xupapapa, Quincenal Primavera 2025 #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch U-Smash | P24 vs U-Smash | Xupapapa in Winners Quarter-Final of Quincenal Primavera 2025 #5, streamed by xupapapaa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610426829&amp;t=1h53m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>194</video:duration>
+    <video:publication_date>2025-11-05T17:31:38.000Z</video:publication_date>
+    <video:uploader>xupapapaa</video:uploader>
+    <video:expiration_date>2025-11-13T17:31:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-primavera-2025-5/set/95893581/</loc>
+  <lastmod>2025-11-05T17:33:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610426829&amp;t=1h25m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>721</video:duration>
+    <video:duration>1666</video:duration>
     <video:publication_date>2025-11-05T17:03:47.000Z</video:publication_date>
     <video:uploader>xupapapaa</video:uploader>
     <video:expiration_date>2025-11-13T17:03:47.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-28T01:13:31.000Z</video:publication_date>
     <video:uploader>Khanmando</video:uploader>
     <video:expiration_date>2025-11-05T01:13:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-fusion-arcadian-11-halloween-edition/set/95580084/</loc>
-  <lastmod>2025-10-28T01:29:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839758/image-753f558cfe2915feb8bf30a06da3042a.png
-    </video:thumbnail_loc>
-    <video:title>
-      G4G | Hellmire Toilet Gaming vs GRNT//MBS//d^ | jon, The Fusion Arcadian 11 - Halloween Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch G4G | Hellmire Toilet Gaming vs GRNT//MBS//d^ | jon in Winners Round 1 of The Fusion Arcadian 11 - Halloween Edition, streamed by CollisionSeriesTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603017904&amp;t=3h13m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>757</video:duration>
-    <video:publication_date>2025-10-28T01:10:54.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV</video:uploader>
-    <video:expiration_date>2025-11-05T01:10:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
