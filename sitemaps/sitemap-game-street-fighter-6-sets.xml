@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-74/set/95882792/</loc>
+  <lastmod>2025-11-05T04:27:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846236/image-65b77df1d0da2d5dc0047aa60472e3a4.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Alex_dotdot vs Buddylikefriend, 4o4 by Sh33rZ: Street Fighter &amp; 2XKO #74 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Alex_dotdot vs Buddylikefriend in Grand Final of 4o4 by Sh33rZ: Street Fighter &amp; 2XKO #74, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610022247&amp;t=2h38m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>523</video:duration>
+    <video:publication_date>2025-11-05T04:00:16.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2025-11-13T04:00:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-74/set/95882854/</loc>
-  <lastmod>2025-11-05T03:32:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-05T04:05:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610022247&amp;t=2h10m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1716</video:duration>
+    <video:duration>959</video:duration>
     <video:publication_date>2025-11-05T03:32:02.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-11-13T03:32:02.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-12T00:55:36.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-10-20T00:55:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neon-dreams-2xko-monthly-2-x-street-fighter-6-47-local/set/94954177/</loc>
-  <lastmod>2025-10-12T00:58:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838560/image-7134fc42a391c4da356c7dfce617db4e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Neon Dreams | Peeps vs Kevin, Neon Dreams 2XKO Monthly #2 x Street Fighter 6 #47 LOCAL - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Neon Dreams | Peeps vs Kevin in Winners Semi-Final of Neon Dreams 2XKO Monthly #2 x Street Fighter 6 #47 LOCAL, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589486144&amp;t=0h24m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>452</video:duration>
-    <video:publication_date>2025-10-12T00:28:57.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-10-20T00:28:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
