@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tip-finale-rest-in-parradise/set/95892241/</loc>
-  <lastmod>2025-11-05T09:44:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tip-finale-rest-in-parradise/set/95892245/</loc>
+  <lastmod>2025-11-05T10:08:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838631/image-f9cd680591ca84f46538c5b3d39aad54.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      QAD | Yagami vs deo, TiP Finale: Rest in Parradise - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch QAD | Yagami vs deo in Winners Semi-Final of TiP Finale: Rest in Parradise, streamed by troubleinparradise
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610229777&amp;t=2h28m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>622</video:duration>
+    <video:publication_date>2025-11-05T10:08:02.000Z</video:publication_date>
+    <video:uploader>troubleinparradise</video:uploader>
+    <video:expiration_date>2025-11-13T10:08:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tip-finale-rest-in-parradise/set/95892241/</loc>
+  <lastmod>2025-11-05T10:12:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610229777&amp;t=2h4m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>486</video:duration>
+    <video:duration>438</video:duration>
     <video:publication_date>2025-11-05T09:44:36.000Z</video:publication_date>
     <video:uploader>troubleinparradise</video:uploader>
     <video:expiration_date>2025-11-13T09:44:36.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-12T14:42:55.000Z</video:publication_date>
     <video:uploader>EVO_France</video:uploader>
     <video:expiration_date>2025-10-20T14:42:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sidequest-showdown-23-tekken-8-tournament/set/94969009/</loc>
-  <lastmod>2025-10-12T14:49:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822800/image-b8964f8feb8eca17c265da26c076a52e.png
-    </video:thumbnail_loc>
-    <video:title>
-      TKC | DBA vs Gipsy Dragon, SideQuest Showdown 23 (Tekken 8 Tournament) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TKC | DBA vs Gipsy Dragon in Winners Final of SideQuest Showdown 23 (Tekken 8 Tournament), streamed by SideQuestHub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589918246&amp;t=0h51m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>860</video:duration>
-    <video:publication_date>2025-10-12T14:26:59.000Z</video:publication_date>
-    <video:uploader>SideQuestHub</video:uploader>
-    <video:expiration_date>2025-10-20T14:26:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
