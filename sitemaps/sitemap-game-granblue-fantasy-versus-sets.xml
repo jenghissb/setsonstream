@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95919222/</loc>
-  <lastmod>2025-11-06T03:30:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95919225/</loc>
+  <lastmod>2025-11-06T03:57:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846720/image-cde6128721fa34154345f778f78f885b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ChrisZ vs W/ Beans | Tortilla Flipper, Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ChrisZ vs W/ Beans | Tortilla Flipper in Winners Semi-Final of Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610954484&amp;t=0h29m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>392</video:duration>
+    <video:publication_date>2025-11-06T03:57:22.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-11-14T03:57:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95919222/</loc>
+  <lastmod>2025-11-06T04:00:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610954484&amp;t=0h2m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>905</video:duration>
+    <video:duration>860</video:duration>
     <video:publication_date>2025-11-06T03:30:30.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-11-14T03:30:30.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-06T12:09:20.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-09-14T12:09:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/hog-dragon-116/set/93415716/</loc>
-  <lastmod>2025-09-03T02:04:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824748/image-969d556ee07f138c9b635a2dc5700a41.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRABSLG | ThatScrubDavid vs EVIL | KyokuReset, HoG: Dragon #116 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRABSLG | ThatScrubDavid vs EVIL | KyokuReset in Grand Final of HoG: Dragon #116, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2556666739&amp;t=2h22m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>785</video:duration>
-    <video:publication_date>2025-09-03T01:40:44.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-09-11T01:40:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
