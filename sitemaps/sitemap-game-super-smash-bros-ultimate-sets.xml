@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-137-maesuma-hit-137/set/95922195/</loc>
-  <lastmod>2025-11-06T10:48:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-137-maesuma-hit-137/set/95922196/</loc>
+  <lastmod>2025-11-06T11:06:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845413/image-7ad5710ca5bd18ad64479d95bd7d10a7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Floyd vs ラクス(rakusu), マエスマ&apos;HIT#137 / Maesuma&apos;HIT#137 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Floyd vs ラクス(rakusu) in Winners Final of マエスマ&apos;HIT#137 / Maesuma&apos;HIT#137, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/35dwdqET7rc?start=3884s
+    </video:player_loc>
+    <video:duration>461</video:duration>
+    <video:publication_date>2025-11-06T11:06:40.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-11-14T11:06:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-137-maesuma-hit-137/set/95922195/</loc>
+  <lastmod>2025-11-06T11:09:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/35dwdqET7rc?start=2776s
     </video:player_loc>
-    <video:duration>399</video:duration>
+    <video:duration>1001</video:duration>
     <video:publication_date>2025-11-06T10:48:12.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-11-14T10:48:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-35/set/95921860/</loc>
-  <lastmod>2025-11-06T10:22:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Free Steve | SA Q vs KJSM-Radio, Smash @ Burnside #35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Free Steve | SA Q vs KJSM-Radio in Losers Semi-Final of Smash @ Burnside #35, streamed by yauhhyeah
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2611070100&amp;t=2h24m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1929</video:duration>
-    <video:publication_date>2025-11-06T10:22:42.000Z</video:publication_date>
-    <video:uploader>yauhhyeah</video:uploader>
-    <video:expiration_date>2025-11-14T10:22:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +70,30 @@
     <video:publication_date>2025-11-06T10:32:01.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-11-14T10:32:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-35/set/95921860/</loc>
+  <lastmod>2025-11-06T11:03:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Free Steve | SA Q vs KJSM-Radio, Smash @ Burnside #35 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Free Steve | SA Q vs KJSM-Radio in Losers Semi-Final of Smash @ Burnside #35, streamed by yauhhyeah
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2611070100&amp;t=2h24m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2256</video:duration>
+    <video:publication_date>2025-11-06T10:22:42.000Z</video:publication_date>
+    <video:uploader>yauhhyeah</video:uploader>
+    <video:expiration_date>2025-11-14T10:22:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-29T01:20:29.000Z</video:publication_date>
     <video:uploader>kmltournaments</video:uploader>
     <video:expiration_date>2025-11-06T01:20:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/skylab-smash-34/set/95601060/</loc>
-  <lastmod>2025-10-29T01:36:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844233/image-6eb8de9f4567f34f6f5ac2fbebf1e9c5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Seal King Barbaros vs TC ADJACENT | Minimaxify, Skylab Smash 34 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Seal King Barbaros vs TC ADJACENT | Minimaxify in Winners Final of Skylab Smash 34, streamed by Smash Bros Club at USF
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/qN9meIiMlHY?start=9077s
-    </video:player_loc>
-    <video:duration>704</video:duration>
-    <video:publication_date>2025-10-29T01:20:00.000Z</video:publication_date>
-    <video:uploader>Smash Bros Club at USF</video:uploader>
-    <video:expiration_date>2025-11-06T01:20:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
