@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95920654/</loc>
-  <lastmod>2025-11-06T05:18:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95920655/</loc>
+  <lastmod>2025-11-06T05:44:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,18 @@
       https://images.start.gg/images/tournament/846720/image-cde6128721fa34154345f778f78f885b.jpg
     </video:thumbnail_loc>
     <video:title>
-      [foc] | Dtier vs Sho, Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR - Sets on Stream
+      NU | Lui$ vs [foc] | Dtier, Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR - Sets on Stream
     </video:title>
     <video:description>
-      Watch [foc] | Dtier vs Sho in Winners Semi-Final of Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR, streamed by guildhouse
+      Watch NU | Lui$ vs [foc] | Dtier in Winners Final of Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR, streamed by guildhouse
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610952589&amp;t=1h53m31s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2610952589&amp;t=2h19m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1397</video:duration>
-    <video:publication_date>2025-11-06T05:18:34.000Z</video:publication_date>
+    <video:duration>382</video:duration>
+    <video:publication_date>2025-11-06T05:44:17.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2025-11-14T05:18:34.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-14T05:44:17.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=coopersirvine&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>438</video:duration>
+    <video:duration>966</video:duration>
     <video:publication_date>2025-11-06T05:34:33.000Z</video:publication_date>
     <video:uploader>coopersirvine</video:uploader>
     <video:expiration_date>2025-11-14T05:34:33.000Z</video:expiration_date>
@@ -66,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610998215&amp;t=0h52m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>194</video:duration>
+    <video:duration>722</video:duration>
     <video:publication_date>2025-11-06T05:38:37.000Z</video:publication_date>
     <video:uploader>powgaming</video:uploader>
     <video:expiration_date>2025-11-14T05:38:37.000Z</video:expiration_date>
@@ -90,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/PWAYsw54hN4?start=9371s
     </video:player_loc>
-    <video:duration>571</video:duration>
+    <video:duration>1099</video:duration>
     <video:publication_date>2025-11-06T05:32:20.000Z</video:publication_date>
     <video:uploader>TFT_Frank</video:uploader>
     <video:expiration_date>2025-11-14T05:32:20.000Z</video:expiration_date>
@@ -142,6 +142,30 @@
     <video:publication_date>2025-11-06T05:22:28.000Z</video:publication_date>
     <video:uploader>powgaming</video:uploader>
     <video:expiration_date>2025-11-14T05:22:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95920654/</loc>
+  <lastmod>2025-11-06T05:43:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846720/image-cde6128721fa34154345f778f78f885b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      [foc] | Dtier vs Sho, Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch [foc] | Dtier vs Sho in Winners Semi-Final of Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610952589&amp;t=1h53m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1268</video:duration>
+    <video:publication_date>2025-11-06T05:18:34.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2025-11-14T05:18:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2025-10-29T00:31:11.000Z</video:publication_date>
     <video:uploader>Smash Bros Club at USF</video:uploader>
     <video:expiration_date>2025-11-06T00:31:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/center-stage-108/set/95604305/</loc>
-  <lastmod>2025-10-29T00:44:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844925/image-e17b02be7d3f342798deaea867c26fdc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Obmcbob vs EDLN | G4G | KAZÍÍ, Center Stage 108 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Obmcbob vs EDLN | G4G | KAZÍÍ in Winners Quarter-Final of Center Stage 108, streamed by aka_ingmar
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603963797&amp;t=0h23m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>649</video:duration>
-    <video:publication_date>2025-10-29T00:29:44.000Z</video:publication_date>
-    <video:uploader>aka_ingmar</video:uploader>
-    <video:expiration_date>2025-11-06T00:29:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
