@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-bi-weekly-du-jeudi-64-rgb-douai/set/95924496/</loc>
+  <lastmod>2025-11-06T17:02:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847666/image-33aa0019fac936d1c5ea5961fc5656c3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Grorouch vs FranckLeBluff, La bi-weekly du jeudi #64 - RGB Douai - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Grorouch vs FranckLeBluff in Winners Round 1 of La bi-weekly du jeudi #64 - RGB Douai, streamed by grorouch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2611312966&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>832</video:duration>
+    <video:publication_date>2025-11-06T17:02:31.000Z</video:publication_date>
+    <video:uploader>grorouch</video:uploader>
+    <video:expiration_date>2025-11-14T17:02:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-137-maesuma-hit-137/set/95922198/</loc>
   <lastmod>2025-11-06T12:58:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-29T01:31:23.000Z</video:publication_date>
     <video:uploader>KMLtournaments</video:uploader>
     <video:expiration_date>2025-11-06T01:31:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/skylab-smash-34/set/95601123/</loc>
-  <lastmod>2025-10-29T01:47:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844233/image-6eb8de9f4567f34f6f5ac2fbebf1e9c5.png
-    </video:thumbnail_loc>
-    <video:title>
-      FSC | Tessellate vs FSG | DogCowy, Skylab Smash 34 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FSC | Tessellate vs FSG | DogCowy in Losers Semi-Final of Skylab Smash 34, streamed by Smash Bros Club at USF
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/qN9meIiMlHY?start=9755s
-    </video:player_loc>
-    <video:duration>778</video:duration>
-    <video:publication_date>2025-10-29T01:31:18.000Z</video:publication_date>
-    <video:uploader>Smash Bros Club at USF</video:uploader>
-    <video:expiration_date>2025-11-06T01:31:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
