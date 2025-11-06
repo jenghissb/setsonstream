@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-35/set/95921827/</loc>
+  <lastmod>2025-11-06T08:52:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Con_Gaming vs yellow, Smash @ Burnside #35 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Con_Gaming vs yellow in Winners Semi-Final of Smash @ Burnside #35, streamed by yauhhyeah
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2611070100&amp;t=0h54m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1542</video:duration>
+    <video:publication_date>2025-11-06T08:52:41.000Z</video:publication_date>
+    <video:uploader>yauhhyeah</video:uploader>
+    <video:expiration_date>2025-11-14T08:52:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-35/set/95921822/</loc>
   <lastmod>2025-11-06T08:28:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-29T01:05:56.000Z</video:publication_date>
     <video:uploader>smashchester</video:uploader>
     <video:expiration_date>2025-11-06T01:05:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/center-stage-108/set/95607046/</loc>
-  <lastmod>2025-10-29T01:31:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844925/image-e17b02be7d3f342798deaea867c26fdc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Apple Reviewer vs Obmcbob, Center Stage 108 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Apple Reviewer vs Obmcbob in Winners Semi-Final of Center Stage 108, streamed by aka_ingmar
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603963797&amp;t=0h59m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1249</video:duration>
-    <video:publication_date>2025-10-29T01:05:00.000Z</video:publication_date>
-    <video:uploader>aka_ingmar</video:uploader>
-    <video:expiration_date>2025-11-06T01:05:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
