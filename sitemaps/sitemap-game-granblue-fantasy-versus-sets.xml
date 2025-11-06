@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95919257/</loc>
-  <lastmod>2025-11-06T04:38:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95919258/</loc>
+  <lastmod>2025-11-06T04:55:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846720/image-cde6128721fa34154345f778f78f885b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TBN | Sibyl vs Nyantic, Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TBN | Sibyl vs Nyantic in Losers Final of Guildhouse Weekly 200!! - Norcal SSBU, GGST, GBVSR, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610954484&amp;t=1h27m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1269</video:duration>
+    <video:publication_date>2025-11-06T04:55:40.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-11-14T04:55:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95919257/</loc>
+  <lastmod>2025-11-06T05:00:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2610954484&amp;t=1h10m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>949</video:duration>
+    <video:duration>835</video:duration>
     <video:publication_date>2025-11-06T04:38:31.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-11-14T04:38:31.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-06T13:03:45.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-09-14T13:03:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-3/set/93536427/</loc>
-  <lastmod>2025-09-06T13:10:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816134/image-b31876dda824b6de680a4e42b107c2cf.png
-    </video:thumbnail_loc>
-    <video:title>
-      BL | Nep vs Justplay, Arca-Sys #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BL | Nep vs Justplay in Winners Quarter-Final of Arca-Sys #3, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559554117&amp;t=1h4m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>775</video:duration>
-    <video:publication_date>2025-09-06T12:49:28.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2025-09-14T12:49:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

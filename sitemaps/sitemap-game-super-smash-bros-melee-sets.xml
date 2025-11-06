@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-166-asscadian-waiting-room/set/95919871/</loc>
+  <lastmod>2025-11-06T04:58:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848057/image-e97fdccdfd65ecca6c225f936017a208.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yalli vs Morf, Adam&apos;s Smash Series #166 : ASSCADIAN WAITING ROOM - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yalli vs Morf in Losers Round 5 of Adam&apos;s Smash Series #166 : ASSCADIAN WAITING ROOM, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610934600&amp;t=1h59m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1103</video:duration>
+    <video:publication_date>2025-11-06T04:58:26.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2025-11-14T04:58:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-166-asscadian-waiting-room/set/95919737/</loc>
   <lastmod>2025-11-06T04:31:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-11T00:45:00.000Z</video:publication_date>
     <video:uploader>rutgers_melee</video:uploader>
     <video:expiration_date>2025-10-19T00:45:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-200/set/94882817/</loc>
-  <lastmod>2025-10-11T00:53:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837665/image-03e241e5e78641451e2f3532d67c0b1c.png
-    </video:thumbnail_loc>
-    <video:title>
-      henghost vs Kezzup, Smash Night at Prodigy #200 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch henghost vs Kezzup in Winners Semi-Final of Smash Night at Prodigy #200, streamed by cg_conduitgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588504992&amp;t=1h0m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1068</video:duration>
-    <video:publication_date>2025-10-11T00:07:21.000Z</video:publication_date>
-    <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2025-10-19T00:07:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
