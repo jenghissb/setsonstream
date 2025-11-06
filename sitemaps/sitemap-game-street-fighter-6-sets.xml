@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/stun-city-11-05-2026-sf6-t8-and-casuals/set/95907637/</loc>
+  <lastmod>2025-11-06T01:06:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847708/image-664d0546ed063b9bb19f1b1416c7e976.png
+    </video:thumbnail_loc>
+    <video:title>
+      flyingcube vs FIJI | anna !, Stun City 11/05/2026 - SF6, T8 and Casuals - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch flyingcube vs FIJI | anna ! in Winners Round 1 of Stun City 11/05/2026 - SF6, T8 and Casuals, streamed by torontotoptiers
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610812524&amp;t=0h12m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>365</video:duration>
+    <video:publication_date>2025-11-06T00:37:28.000Z</video:publication_date>
+    <video:uploader>torontotoptiers</video:uploader>
+    <video:expiration_date>2025-11-14T00:37:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-74/set/95882792/</loc>
   <lastmod>2025-11-05T04:27:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-12T00:56:55.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-10-20T00:56:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neon-dreams-2xko-monthly-2-x-street-fighter-6-47-local/set/94954207/</loc>
-  <lastmod>2025-10-12T01:24:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838560/image-7134fc42a391c4da356c7dfce617db4e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tungsten | Atom vs Cole Wnsty, Neon Dreams 2XKO Monthly #2 x Street Fighter 6 #47 LOCAL - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tungsten | Atom vs Cole Wnsty in Losers Quarter-Final of Neon Dreams 2XKO Monthly #2 x Street Fighter 6 #47 LOCAL, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589486144&amp;t=0h51m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>596</video:duration>
-    <video:publication_date>2025-10-12T00:55:36.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-10-20T00:55:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

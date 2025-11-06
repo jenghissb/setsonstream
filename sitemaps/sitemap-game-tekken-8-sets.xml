@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/donatos-fight-night-11-5-25/set/95908258/</loc>
+  <lastmod>2025-11-06T00:44:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848352/image-40da0985d377d15bb18eba7415d80951.png
+    </video:thumbnail_loc>
+    <video:title>
+      GrievousCube vs TRULY | Asylum, Donatos Fight Night - 11/5/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GrievousCube vs TRULY | Asylum in Winners Quarter-Final of Donatos Fight Night - 11/5/25, streamed by matchstickmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2610823544&amp;t=0h5m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1698</video:duration>
+    <video:publication_date>2025-11-06T00:44:55.000Z</video:publication_date>
+    <video:uploader>matchstickmelee</video:uploader>
+    <video:expiration_date>2025-11-14T00:44:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tip-finale-rest-in-parradise/set/95892245/</loc>
   <lastmod>2025-11-05T10:29:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-12T14:45:04.000Z</video:publication_date>
     <video:uploader>SideQuestHub</video:uploader>
     <video:expiration_date>2025-10-20T14:45:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/evo-france-2025/set/94966464/</loc>
-  <lastmod>2025-10-12T15:08:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VIT JeonDDing vs TM | RB | Arslan Ash, Evo France 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VIT JeonDDing vs TM | RB | Arslan Ash in Grand Final of Evo France 2025, streamed by EVO_France
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589752876&amp;t=7h1m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>788</video:duration>
-    <video:publication_date>2025-10-12T14:42:55.000Z</video:publication_date>
-    <video:uploader>EVO_France</video:uploader>
-    <video:expiration_date>2025-10-20T14:42:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
