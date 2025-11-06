@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-137-maesuma-hit-137/set/95922101/</loc>
+  <lastmod>2025-11-06T10:17:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845413/image-7ad5710ca5bd18ad64479d95bd7d10a7.png
+    </video:thumbnail_loc>
+    <video:title>
+      こあ(koa) vs SwissWriter, マエスマ&apos;HIT#137 / Maesuma&apos;HIT#137 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch こあ(koa) vs SwissWriter in Winners Round 1 of マエスマ&apos;HIT#137 / Maesuma&apos;HIT#137, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/35dwdqET7rc?start=165s
+    </video:player_loc>
+    <video:duration>690</video:duration>
+    <video:publication_date>2025-11-06T10:04:41.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-11-14T10:04:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-35/set/95921827/</loc>
   <lastmod>2025-11-06T09:19:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-29T01:07:43.000Z</video:publication_date>
     <video:uploader>KMLtournaments</video:uploader>
     <video:expiration_date>2025-11-06T01:07:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/undiscovered-smash-373/set/95604976/</loc>
-  <lastmod>2025-10-29T01:27:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845814/image-4a6591a0b0a9962f66ad865964667a6e.png
-    </video:thumbnail_loc>
-    <video:title>
-      LRA_START vs MOB | Infernape, Undiscovered Smash #373 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LRA_START vs MOB | Infernape in Winners Round 2 of Undiscovered Smash #373, streamed by smashchester
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603972853&amp;t=0h49m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>980</video:duration>
-    <video:publication_date>2025-10-29T01:05:56.000Z</video:publication_date>
-    <video:uploader>smashchester</video:uploader>
-    <video:expiration_date>2025-11-06T01:05:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
