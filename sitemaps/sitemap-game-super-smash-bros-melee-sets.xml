@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-122/set/95947977/</loc>
-  <lastmod>2025-11-07T03:40:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-122/set/95947980/</loc>
+  <lastmod>2025-11-07T04:08:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847649/image-733277d4f6c28e59e12a8a0f496e847c.png
+    </video:thumbnail_loc>
+    <video:title>
+      MF | KoDoRiN vs Breakfast, Rage Against the CRT #122 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MF | KoDoRiN vs Breakfast in Winners Semi-Final of Rage Against the CRT #122, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2611767054&amp;t=0h56m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1176</video:duration>
+    <video:publication_date>2025-11-07T04:08:00.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2025-11-15T04:08:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-122/set/95947977/</loc>
+  <lastmod>2025-11-07T04:10:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,40 +42,16 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2611767054&amp;t=0h29m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1101</video:duration>
+    <video:duration>645</video:duration>
     <video:publication_date>2025-11-07T03:40:59.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-11-15T03:40:59.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-196/set/95945072/</loc>
-  <lastmod>2025-11-07T03:25:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848929/image-8ab73db89c1466986381f8d313d3f57a.png
-    </video:thumbnail_loc>
-    <video:title>
-      JC | Trejohn6 vs Rat Funk | Rat Funk, DMGC Smash Bros Local #196 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JC | Trejohn6 vs Rat Funk | Rat Funk in Losers Semi-Final of DMGC Smash Bros Local #196, streamed by gdubsmp4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2611657763&amp;t=2h34m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2002</video:duration>
-    <video:publication_date>2025-11-07T03:25:58.000Z</video:publication_date>
-    <video:uploader>gdubsmp4</video:uploader>
-    <video:expiration_date>2025-11-15T03:25:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-287-1/set/95939856/</loc>
-  <lastmod>2025-11-07T03:28:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-07T04:10:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2611633940&amp;t=3h9m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1847</video:duration>
+    <video:duration>970</video:duration>
     <video:publication_date>2025-11-07T03:28:33.000Z</video:publication_date>
     <video:uploader>isu_smash</video:uploader>
     <video:expiration_date>2025-11-15T03:28:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-196/set/95945072/</loc>
+  <lastmod>2025-11-07T04:10:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848929/image-8ab73db89c1466986381f8d313d3f57a.png
+    </video:thumbnail_loc>
+    <video:title>
+      JC | Trejohn6 vs Rat Funk | Rat Funk, DMGC Smash Bros Local #196 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JC | Trejohn6 vs Rat Funk | Rat Funk in Losers Semi-Final of DMGC Smash Bros Local #196, streamed by gdubsmp4
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2611657763&amp;t=2h34m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>988</video:duration>
+    <video:publication_date>2025-11-07T03:25:58.000Z</video:publication_date>
+    <video:uploader>gdubsmp4</video:uploader>
+    <video:expiration_date>2025-11-15T03:25:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-11T12:05:26.000Z</video:publication_date>
     <video:uploader>SEiFNOPA</video:uploader>
     <video:expiration_date>2025-10-19T12:05:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/teetied-2-jetzt-mit-kniffel/set/94912462/</loc>
-  <lastmod>2025-10-11T11:54:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/807413/image-45aaa7d27c5722b30010dd7a79bbd448.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Smash Hannover | Felix Feldmann vs Vintrox, Teetied 2 - Jetzt mit Kniffel - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Smash Hannover | Felix Feldmann vs Vintrox in Round 3 of Teetied 2 - Jetzt mit Kniffel, streamed by SEiFNOPA
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2588914377&amp;t=0h19m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>935</video:duration>
-    <video:publication_date>2025-10-11T11:24:27.000Z</video:publication_date>
-    <video:uploader>SEiFNOPA</video:uploader>
-    <video:expiration_date>2025-10-19T11:24:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
