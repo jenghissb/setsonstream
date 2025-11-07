@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-111-1/set/95951444/</loc>
+  <lastmod>2025-11-07T10:42:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844960/image-1ea69037db3929252b2b6298acf63d22.png
+    </video:thumbnail_loc>
+    <video:title>
+      ななむー(nanamuu) vs EEZ | Kony, Smash薬院#111 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ななむー(nanamuu) vs EEZ | Kony in Winners Round 1 of Smash薬院#111, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/mz_b58zBex8?start=0s
+    </video:player_loc>
+    <video:duration>628</video:duration>
+    <video:publication_date>2025-11-07T10:42:13.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-11-15T10:42:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/7-317/set/95951555/</loc>
   <lastmod>2025-11-07T10:39:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/7-ozCmToXnA?start=495s
     </video:player_loc>
-    <video:duration>249</video:duration>
+    <video:duration>800</video:duration>
     <video:publication_date>2025-11-07T10:39:21.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-15T10:39:21.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sumao2025-16/set/95951217/</loc>
-  <lastmod>2025-11-07T10:27:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-07T10:46:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/Y_JnebsDl_A?start=6988s
     </video:player_loc>
-    <video:duration>962</video:duration>
+    <video:duration>1015</video:duration>
     <video:publication_date>2025-11-07T10:27:28.000Z</video:publication_date>
     <video:uploader>無明遊者【イベント配信団体】</video:uploader>
     <video:expiration_date>2025-11-15T10:27:28.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-30T20:41:22.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2025-11-07T20:41:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fragsmash-weekly-143/set/95652359/</loc>
-  <lastmod>2025-10-30T21:06:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845121/image-96da714425d88ba567825946d00fcc45.png
-    </video:thumbnail_loc>
-    <video:title>
-      Quinn vs JORVIK | Stoat Goat, FragSmash Weekly #143 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Quinn vs JORVIK | Stoat Goat in Winners Semi-Final of FragSmash Weekly #143, streamed by fragsoc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2605402622&amp;t=1h42m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1268</video:duration>
-    <video:publication_date>2025-10-30T20:39:46.000Z</video:publication_date>
-    <video:uploader>fragsoc</video:uploader>
-    <video:expiration_date>2025-11-07T20:39:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
