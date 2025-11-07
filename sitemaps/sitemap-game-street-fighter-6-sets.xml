@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-189-norcal-sf6-and-melee-ladder/set/95949348/</loc>
+  <lastmod>2025-11-07T06:08:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848173/image-327e79f75ff99fe28dbd006d01f36ee7.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Anak FitS | Hakoian vs FitS | TreeWiz, Guildhouse Fighters 189 - Norcal SF6 and Melee Ladder - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Anak FitS | Hakoian vs FitS | TreeWiz in Grand Final of Guildhouse Fighters 189 - Norcal SF6 and Melee Ladder, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2611785057&amp;t=2h28m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>938</video:duration>
+    <video:publication_date>2025-11-07T06:08:55.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2025-11-15T06:08:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-189-norcal-sf6-and-melee-ladder/set/95949409/</loc>
   <lastmod>2025-11-07T05:34:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -75,7 +99,7 @@
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/highland-masters-100/set/95938502/</loc>
   <lastmod>2025-11-07T05:34:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-17T01:56:26.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2025-10-25T01:56:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mhm-the-mini-mayhem-114/set/95094418/</loc>
-  <lastmod>2025-10-17T00:38:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841027/image-8fd1d2cf1c6f9ad7e5b34003d49e5394.png
-    </video:thumbnail_loc>
-    <video:title>
-      Muhbeans vs Spins | Unshorn, MHM: The Mini Mayhem #114 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Muhbeans vs Spins | Unshorn in Winners Semi-Final of MHM: The Mini Mayhem #114, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2593727356&amp;t=0h10m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>433</video:duration>
-    <video:publication_date>2025-10-17T00:07:09.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2025-10-25T00:07:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
