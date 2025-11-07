@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/highland-masters-100/set/95938562/</loc>
-  <lastmod>2025-11-07T02:31:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/highland-masters-100/set/95938502/</loc>
+  <lastmod>2025-11-07T03:21:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843869/image-93f604584d792b10d4d72a5661e87db9.png
+    </video:thumbnail_loc>
+    <video:title>
+      UA | Bass vs KINGMAN, Highland Masters 100 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UA | Bass vs KINGMAN in Grand Final of Highland Masters 100, streamed by TempestFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2611705337&amp;t=1h32m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1212</video:duration>
+    <video:publication_date>2025-11-07T03:21:20.000Z</video:publication_date>
+    <video:uploader>TempestFGC</video:uploader>
+    <video:expiration_date>2025-11-15T03:21:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/highland-masters-100/set/95938562/</loc>
+  <lastmod>2025-11-07T03:22:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2611705337&amp;t=0h42m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1075</video:duration>
+    <video:duration>1223</video:duration>
     <video:publication_date>2025-11-07T02:31:12.000Z</video:publication_date>
     <video:uploader>TempestFGC</video:uploader>
     <video:expiration_date>2025-11-15T02:31:12.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-12T18:04:48.000Z</video:publication_date>
     <video:uploader>EVO_France</video:uploader>
     <video:expiration_date>2025-10-20T18:04:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2025/set/94968373/</loc>
-  <lastmod>2025-10-12T17:51:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/758944/image-adf8b3fa141400a140d2bb97f3048898.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      REJECT ROHTOZ! | Tokido vs 2Game | Blaz, Evo France 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch REJECT ROHTOZ! | Tokido vs 2Game | Blaz in Losers Quarter-Final of Evo France 2025, streamed by EVO_France
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589752876&amp;t=9h46m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>646</video:duration>
-    <video:publication_date>2025-10-12T17:27:43.000Z</video:publication_date>
-    <video:uploader>EVO_France</video:uploader>
-    <video:expiration_date>2025-10-20T17:27:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
