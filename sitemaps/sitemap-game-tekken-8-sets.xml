@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hip-hopkick-2025/set/96046796/</loc>
-  <lastmod>2025-11-08T22:37:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-fist-monthly-38-november-2025/set/96033884/</loc>
+  <lastmod>2025-11-08T23:00:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830947/image-0860cc5269d4064ed086526c4de4d68a.png
+    </video:thumbnail_loc>
+    <video:title>
+      TS | Xiao vs Kuugo, Iron Fist Monthly 38 (November 2025) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TS | Xiao vs Kuugo in Losers Round 5 of Iron Fist Monthly 38 (November 2025), streamed by Brandometry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613258119&amp;t=2h44m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1673</video:duration>
+    <video:publication_date>2025-11-08T23:00:38.000Z</video:publication_date>
+    <video:uploader>Brandometry</video:uploader>
+    <video:expiration_date>2025-11-16T23:00:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ssf-saturday-november-8th-2025/set/96054238/</loc>
+  <lastmod>2025-11-08T23:20:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848262/image-d6c05aa94ab6b713b0d79b2d90122608.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mulgold #1 Fan | Dr. Dre vs RiR | Woke, SSF Saturday | November 8th, 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mulgold #1 Fan | Dr. Dre vs RiR | Woke in Final of SSF Saturday | November 8th, 2025, streamed by SalemFighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=SalemFighters&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>464</video:duration>
+    <video:publication_date>2025-11-08T23:20:47.000Z</video:publication_date>
+    <video:uploader>SalemFighters</video:uploader>
+    <video:expiration_date>2025-11-16T23:20:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hip-hopkick-2025/set/96046796/</loc>
+  <lastmod>2025-11-08T23:22:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613136377&amp;t=4h39m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2197</video:duration>
+    <video:duration>657</video:duration>
     <video:publication_date>2025-11-08T22:37:30.000Z</video:publication_date>
     <video:uploader>rainydayproductions</video:uploader>
     <video:expiration_date>2025-11-16T22:37:30.000Z</video:expiration_date>
@@ -8374,30 +8422,6 @@
     <video:publication_date>2025-10-19T14:15:42.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-10-27T14:15:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-22-x-tekken-8-bi-weekly-39/set/95214078/</loc>
-  <lastmod>2025-10-19T04:17:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840790/image-e2ad6e950c0cfc88ef999da7f585f067.png
-    </video:thumbnail_loc>
-    <video:title>
-      DWHD vs x_k_hooo, Neon Dreams Soul Calibur 2 #22 x TEKKEN 8 Bi-Weekly #39 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DWHD vs x_k_hooo in Grand Final Reset of Neon Dreams Soul Calibur 2 #22 x TEKKEN 8 Bi-Weekly #39, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595525256&amp;t=3h28m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>881</video:duration>
-    <video:publication_date>2025-10-19T03:54:08.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-10-27T03:54:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
