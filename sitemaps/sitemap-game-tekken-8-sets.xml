@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-97/set/95993557/</loc>
+  <lastmod>2025-11-08T03:56:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844747/image-7302536501267c74bea75eff84cf761f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      sine vs Croc, SoCal Colosseum #97 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch sine vs Croc in Winners Round 1 of SoCal Colosseum #97, streamed by teakei
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612674686&amp;t=0h17m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1295</video:duration>
+    <video:publication_date>2025-11-08T03:56:40.000Z</video:publication_date>
+    <video:uploader>teakei</video:uploader>
+    <video:expiration_date>2025-11-16T03:56:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/stun-city-special-11-07-2025-tekken-pre-clash-tournament/set/95985649/</loc>
   <lastmod>2025-11-08T03:17:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-18T11:16:25.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-10-26T11:16:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tongkrongan-tekken-brawl-showdown-1/set/95157852/</loc>
-  <lastmod>2025-10-18T11:42:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836504/image-733b7fd28285da96360907ded5744ce2.png
-    </video:thumbnail_loc>
-    <video:title>
-      KTB | Legendre vs DRivals | SHARKKU, Tongkrongan Tekken Brawl Showdown - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KTB | Legendre vs DRivals | SHARKKU in Losers Round 1 of Tongkrongan Tekken Brawl Showdown, streamed by OGS Media
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/gfFxNOYmmJo?start=3193s
-    </video:player_loc>
-    <video:duration>431</video:duration>
-    <video:publication_date>2025-10-18T11:15:07.000Z</video:publication_date>
-    <video:uploader>OGS Media</video:uploader>
-    <video:expiration_date>2025-10-26T11:15:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
