@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-fist-monthly-38-november-2025/set/96033754/</loc>
-  <lastmod>2025-11-08T21:38:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-fist-monthly-38-november-2025/set/96033751/</loc>
+  <lastmod>2025-11-08T22:03:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830947/image-0860cc5269d4064ed086526c4de4d68a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kuugo vs 10FF | BENELI, Iron Fist Monthly 38 (November 2025) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kuugo vs 10FF | BENELI in Winners Round 3 of Iron Fist Monthly 38 (November 2025), streamed by Brandometry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613258119&amp;t=1h46m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1684</video:duration>
+    <video:publication_date>2025-11-08T22:03:11.000Z</video:publication_date>
+    <video:uploader>Brandometry</video:uploader>
+    <video:expiration_date>2025-11-16T22:03:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-fist-monthly-38-november-2025/set/96033754/</loc>
+  <lastmod>2025-11-08T22:13:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613258119&amp;t=1h21m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2137</video:duration>
+    <video:duration>683</video:duration>
     <video:publication_date>2025-11-08T21:38:07.000Z</video:publication_date>
     <video:uploader>Brandometry</video:uploader>
     <video:expiration_date>2025-11-16T21:38:07.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-19T03:15:57.000Z</video:publication_date>
     <video:uploader>FrankieG7Chi</video:uploader>
     <video:expiration_date>2025-10-27T03:15:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/chicago-monthlies-fright-night/set/95214339/</loc>
-  <lastmod>2025-10-19T03:19:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829869/image-4b2a9d04fc4b64d299f6f689a398dd4e.png
-    </video:thumbnail_loc>
-    <video:title>
-      JG | alihandal21 vs CGA | Sambin0, Chicago Monthlies: Fright Night - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JG | alihandal21 vs CGA | Sambin0 in Losers Final of Chicago Monthlies: Fright Night, streamed by FrankieG7Chi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595586938&amp;t=1h3m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1178</video:duration>
-    <video:publication_date>2025-10-19T02:51:51.000Z</video:publication_date>
-    <video:uploader>FrankieG7Chi</video:uploader>
-    <video:expiration_date>2025-10-27T02:51:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
