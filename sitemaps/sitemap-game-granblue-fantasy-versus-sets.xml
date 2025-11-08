@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/holiday-havoc-season-3/set/96031633/</loc>
+  <lastmod>2025-11-08T20:20:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/801122/image-e8e42f61b0417f6292c93c72d1c7d120.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Nidhogg vs Hakke, Holiday Havoc Season 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nidhogg vs Hakke in Winners Quarter-Final of Holiday Havoc Season 3, streamed by Akihabaraarcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613239435&amp;t=0h23m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>652</video:duration>
+    <video:publication_date>2025-11-08T20:20:31.000Z</video:publication_date>
+    <video:uploader>Akihabaraarcade</video:uploader>
+    <video:expiration_date>2025-11-16T20:20:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-200-norcal-ssbu-ggst-gbvsr/set/95919228/</loc>
   <lastmod>2025-11-06T05:38:51.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-06T19:04:37.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2025-09-14T19:04:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-3/set/93536491/</loc>
-  <lastmod>2025-09-06T13:59:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816134/image-b31876dda824b6de680a4e42b107c2cf.png
-    </video:thumbnail_loc>
-    <video:title>
-      Justplay vs Yuan, Arca-Sys #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Justplay vs Yuan in Losers Round 4 of Arca-Sys #3, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559554117&amp;t=1h50m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>892</video:duration>
-    <video:publication_date>2025-09-06T13:35:21.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2025-09-14T13:35:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
