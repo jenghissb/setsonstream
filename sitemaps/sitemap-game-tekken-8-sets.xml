@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/manila-madness-4/set/95905918/</loc>
-  <lastmod>2025-11-08T06:44:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/manila-madness-4/set/95998884/</loc>
+  <lastmod>2025-11-08T07:16:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/771604/image-6ba7afa95bd3caa82c35eff241cc8ea4.png
+    </video:thumbnail_loc>
+    <video:title>
+      KRYP | Kim_Xiao vs 20V | Wam, Manila Madness 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KRYP | Kim_Xiao vs 20V | Wam in Winners Round 3 of Manila Madness 4, streamed by brownmanfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612650932&amp;t=4h9m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>709</video:duration>
+    <video:publication_date>2025-11-08T07:16:46.000Z</video:publication_date>
+    <video:uploader>brownmanfgc</video:uploader>
+    <video:expiration_date>2025-11-16T07:16:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/manila-madness-4/set/95905918/</loc>
+  <lastmod>2025-11-08T07:18:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2612650932&amp;t=3h36m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1766</video:duration>
+    <video:duration>941</video:duration>
     <video:publication_date>2025-11-08T06:44:39.000Z</video:publication_date>
     <video:uploader>brownmanfgc</video:uploader>
     <video:expiration_date>2025-11-16T06:44:39.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-18T14:23:23.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-10-26T14:23:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/baaruken-v-oktoberfist/set/95160841/</loc>
-  <lastmod>2025-10-18T14:26:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813722/image-925d7d8ebef52d4d42e738c995ed92cc.png
-    </video:thumbnail_loc>
-    <video:title>
-      zoomoo vs Big_Boss, Baaruken V: Oktoberfist - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch zoomoo vs Big_Boss in Winners Semi-Final of Baaruken V: Oktoberfist, streamed by biiruken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594960104&amp;t=2h26m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>715</video:duration>
-    <video:publication_date>2025-10-18T14:02:10.000Z</video:publication_date>
-    <video:uploader>biiruken</video:uploader>
-    <video:expiration_date>2025-10-26T14:02:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
