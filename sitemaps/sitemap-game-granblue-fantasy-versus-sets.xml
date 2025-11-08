@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-51/set/96042497/</loc>
+  <lastmod>2025-11-08T22:35:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842081/image-f1f70ac97512aef3e6d58e7a92c3a471.png
+    </video:thumbnail_loc>
+    <video:title>
+      FISH | Pokee vs semi, Lunatic Perilune #51 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FISH | Pokee vs semi in Losers Round 3 of Lunatic Perilune #51, streamed by lunarphaselive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613315929&amp;t=1h7m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>861</video:duration>
+    <video:publication_date>2025-11-08T22:35:14.000Z</video:publication_date>
+    <video:uploader>lunarphaselive</video:uploader>
+    <video:expiration_date>2025-11-16T22:35:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/get-to-the-top-2/set/96019997/</loc>
   <lastmod>2025-11-08T21:53:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -16,9 +40,9 @@
       Watch BL | Nep vs Yxo in Grand Final of GET TO THE TOP! 2, streamed by DucEsport
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613093099&amp;t=4h49m31s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?channel=DucEsport&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2290</video:duration>
+    <video:duration>3390</video:duration>
     <video:publication_date>2025-11-08T21:53:05.000Z</video:publication_date>
     <video:uploader>DucEsport</video:uploader>
     <video:expiration_date>2025-11-16T21:53:05.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-06T20:32:01.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2025-09-14T20:32:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/rumble-slc-sept-2025/set/93557074/</loc>
-  <lastmod>2025-09-06T20:41:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/824126/image-bf481dbae1c01fab57b74d6e48083936.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tux vs Drachenbrand, Rumble SLC | Sept 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tux vs Drachenbrand in Winners Final of Rumble SLC | Sept 2025, streamed by getgoodfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2559886205&amp;t=0h39m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>924</video:duration>
-    <video:publication_date>2025-09-06T20:18:49.000Z</video:publication_date>
-    <video:uploader>getgoodfgc</video:uploader>
-    <video:expiration_date>2025-09-14T20:18:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
