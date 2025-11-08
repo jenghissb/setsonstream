@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/lunacity-edition-31/set/96001565/</loc>
-  <lastmod>2025-11-08T10:44:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/lunacity-edition-31/set/96001566/</loc>
+  <lastmod>2025-11-08T11:03:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838917/image-66b37baf909136a49812a7f4e4b52b97.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nibodax vs LaFurfagrie | Chronos, LUNACITY - EDITION 31 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nibodax vs LaFurfagrie | Chronos in Winners Quarter-Final of LUNACITY - EDITION 31, streamed by smashultimatebe
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612842991&amp;t=1h26m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1326</video:duration>
+    <video:publication_date>2025-11-08T11:03:09.000Z</video:publication_date>
+    <video:uploader>smashultimatebe</video:uploader>
+    <video:expiration_date>2025-11-16T11:03:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/lunacity-edition-31/set/96001565/</loc>
+  <lastmod>2025-11-08T11:11:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2612842991&amp;t=1h7m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1660</video:duration>
+    <video:duration>1016</video:duration>
     <video:publication_date>2025-11-08T10:44:09.000Z</video:publication_date>
     <video:uploader>smashultimatebe</video:uploader>
     <video:expiration_date>2025-11-16T10:44:09.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-12T00:14:10.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2025-10-20T00:14:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-1-the-fusion-supermajor/set/94952238/</loc>
-  <lastmod>2025-10-12T01:11:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826613/image-8e77ab1ab3750cd8a472bf1eef3509c3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gekkingga vs The Strong One | HamPolo, Fusion+ #1 - The Fusion Supermajor - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gekkingga vs The Strong One | HamPolo in Losers Round 1 of Fusion+ #1 - The Fusion Supermajor, streamed by CollisionSeriesTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589395104&amp;t=2h13m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2094</video:duration>
-    <video:publication_date>2025-10-12T00:13:31.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV</video:uploader>
-    <video:expiration_date>2025-10-20T00:13:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

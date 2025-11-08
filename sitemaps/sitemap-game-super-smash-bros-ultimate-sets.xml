@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lyon-esport-ssbu-2025/set/96002116/</loc>
+  <lastmod>2025-11-08T11:12:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839454/image-94268638cebb284cd7d3e39f2a8f7fd6.png
+    </video:thumbnail_loc>
+    <video:title>
+      SP | MPT SU | Soren vs ZEPHYR | Ruth, Lyon Esport SSBU 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SP | MPT SU | Soren vs ZEPHYR | Ruth in Round 1 of Lyon Esport SSBU 2025, streamed by tpk_live
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612855141&amp;t=1h2m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>783</video:duration>
+    <video:publication_date>2025-11-08T11:12:12.000Z</video:publication_date>
+    <video:uploader>tpk_live</video:uploader>
+    <video:expiration_date>2025-11-16T11:12:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lyon-esport-ssbu-2025/set/96002430/</loc>
   <lastmod>2025-11-08T11:10:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-10-31T23:27:35.000Z</video:publication_date>
     <video:uploader>SmashAtVCU</video:uploader>
     <video:expiration_date>2025-11-08T23:27:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bring-more-setups-199-spooky-edition/set/95695480/</loc>
-  <lastmod>2025-10-31T23:52:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845619/image-8c08335544a722debe762359ed1a3ba9.png
-    </video:thumbnail_loc>
-    <video:title>
-      JT7 | ColdCut vs Nick_BOI, Bring More Setups 199: Spooky Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JT7 | ColdCut vs Nick_BOI in Winners Round 2 of Bring More Setups 199: Spooky Edition, streamed by mason_esports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2606459406&amp;t=0h28m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1152</video:duration>
-    <video:publication_date>2025-10-31T23:25:58.000Z</video:publication_date>
-    <video:uploader>mason_esports2</video:uploader>
-    <video:expiration_date>2025-11-08T23:25:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
