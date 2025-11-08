@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/roundabout-2025/set/96003771/</loc>
+  <lastmod>2025-11-08T12:37:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/805491/image-4d8fcfbe5a3ed475398207f5505ba334.png
+    </video:thumbnail_loc>
+    <video:title>
+      CSC vs Puns Wallet | Chewit, ROUNDABOUT 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CSC vs Puns Wallet | Chewit in Winners Semi-Final of ROUNDABOUT 2025, streamed by 12hakobydeath
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612873770&amp;t=1h39m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1413</video:duration>
+    <video:publication_date>2025-11-08T12:37:32.000Z</video:publication_date>
+    <video:uploader>12hakobydeath</video:uploader>
+    <video:expiration_date>2025-11-16T12:37:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/roundabout-2025/set/96003763/</loc>
   <lastmod>2025-11-08T12:16:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-18T18:33:00.000Z</video:publication_date>
     <video:uploader>biiruken</video:uploader>
     <video:expiration_date>2025-10-26T18:33:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/baaruken-v-oktoberfist/set/95170161/</loc>
-  <lastmod>2025-10-18T18:42:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813722/image-925d7d8ebef52d4d42e738c995ed92cc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jonetti | melkari vs sona, Baaruken V: Oktoberfist - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jonetti | melkari vs sona in Losers Final of Baaruken V: Oktoberfist, streamed by biiruken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594960104&amp;t=6h40m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>869</video:duration>
-    <video:publication_date>2025-10-18T18:15:12.000Z</video:publication_date>
-    <video:uploader>biiruken</video:uploader>
-    <video:expiration_date>2025-10-26T18:15:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
