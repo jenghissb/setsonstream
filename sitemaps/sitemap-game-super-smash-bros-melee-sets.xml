@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-18/set/96000461/</loc>
-  <lastmod>2025-11-08T10:23:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-18/set/96000476/</loc>
+  <lastmod>2025-11-08T10:52:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825238/image-cd5ee6e078530613177392d9ac50683c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Double H vs Shroom, Arcamini 18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Double H vs Shroom in Round 3 of Arcamini 18, streamed by 8VsSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612832136&amp;t=1h46m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1161</video:duration>
+    <video:publication_date>2025-11-08T10:52:28.000Z</video:publication_date>
+    <video:uploader>8VsSmash</video:uploader>
+    <video:expiration_date>2025-11-16T10:52:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-18/set/96000461/</loc>
+  <lastmod>2025-11-08T10:54:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2612832136&amp;t=1h17m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1550</video:duration>
+    <video:duration>722</video:duration>
     <video:publication_date>2025-11-08T10:23:50.000Z</video:publication_date>
     <video:uploader>8VsSmash</video:uploader>
     <video:expiration_date>2025-11-16T10:23:50.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-11T22:28:09.000Z</video:publication_date>
     <video:uploader>Rochestersmash</video:uploader>
     <video:expiration_date>2025-10-19T22:28:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/frame-17/set/94938898/</loc>
-  <lastmod>2025-10-11T22:39:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/805284/image-3aee01b01b97f4fac0fd1a3e48c2d076.png
-    </video:thumbnail_loc>
-    <video:title>
-      Billz vs Cowbell, Frame 17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Billz vs Cowbell in Winners Final of Frame 17, streamed by Rochestersmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589396585&amp;t=0h2m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>792</video:duration>
-    <video:publication_date>2025-10-11T22:04:44.000Z</video:publication_date>
-    <video:uploader>Rochestersmash</video:uploader>
-    <video:expiration_date>2025-10-19T22:04:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
