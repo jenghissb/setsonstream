@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-97/set/95993574/</loc>
-  <lastmod>2025-11-08T05:14:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-97/set/95998371/</loc>
+  <lastmod>2025-11-08T05:35:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844747/image-7302536501267c74bea75eff84cf761f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      UF | VonAwesome vs Geno, SoCal Colosseum #97 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UF | VonAwesome vs Geno in Winners Semi-Final of SoCal Colosseum #97, streamed by teakei
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612674686&amp;t=1h56m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>851</video:duration>
+    <video:publication_date>2025-11-08T05:35:11.000Z</video:publication_date>
+    <video:uploader>teakei</video:uploader>
+    <video:expiration_date>2025-11-16T05:35:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-97/set/95993574/</loc>
+  <lastmod>2025-11-08T05:47:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2612674686&amp;t=1h35m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1143</video:duration>
+    <video:duration>816</video:duration>
     <video:publication_date>2025-11-08T05:14:18.000Z</video:publication_date>
     <video:uploader>teakei</video:uploader>
     <video:expiration_date>2025-11-16T05:14:18.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-18T13:13:28.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-10-26T13:13:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/baaruken-v-oktoberfist/set/95159798/</loc>
-  <lastmod>2025-10-18T13:24:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813722/image-925d7d8ebef52d4d42e738c995ed92cc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Soossi | NMMC | Esakki3 vs Xeanrot, Baaruken V: Oktoberfist - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Soossi | NMMC | Esakki3 vs Xeanrot in Winners Semi-Final of Baaruken V: Oktoberfist, streamed by biiruken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594960104&amp;t=1h22m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>495</video:duration>
-    <video:publication_date>2025-10-18T12:57:58.000Z</video:publication_date>
-    <video:uploader>biiruken</video:uploader>
-    <video:expiration_date>2025-10-26T12:57:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
