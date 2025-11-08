@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-18/set/96000453/</loc>
-  <lastmod>2025-11-08T10:05:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-18/set/96000461/</loc>
+  <lastmod>2025-11-08T10:23:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825238/image-cd5ee6e078530613177392d9ac50683c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Gekko | Poroli vs Zorg, Arcamini 18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gekko | Poroli vs Zorg in Round 1 of Arcamini 18, streamed by 8VsSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612832136&amp;t=1h17m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>581</video:duration>
+    <video:publication_date>2025-11-08T10:23:50.000Z</video:publication_date>
+    <video:uploader>8VsSmash</video:uploader>
+    <video:expiration_date>2025-11-16T10:23:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-18/set/96000453/</loc>
+  <lastmod>2025-11-08T10:32:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2612832136&amp;t=0h59m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>532</video:duration>
+    <video:duration>411</video:duration>
     <video:publication_date>2025-11-08T10:05:44.000Z</video:publication_date>
     <video:uploader>8VsSmash</video:uploader>
     <video:expiration_date>2025-11-16T10:05:44.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-11T22:04:44.000Z</video:publication_date>
     <video:uploader>Rochestersmash</video:uploader>
     <video:expiration_date>2025-10-19T22:04:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/luminosity-makes-moves-miami-2025-1/set/94931431/</loc>
-  <lastmod>2025-10-11T22:11:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/803413/image-d5f2fb122ef7a1d1f0e171865207d139.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wizzrobe vs Nouns | Aklo, Luminosity Makes Moves Miami 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wizzrobe vs Nouns | Aklo in Winners Quarter-Final of Luminosity Makes Moves Miami 2025, streamed by vgbootcamp2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589086999&amp;t=5h55m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1546</video:duration>
-    <video:publication_date>2025-10-11T21:40:26.000Z</video:publication_date>
-    <video:uploader>vgbootcamp2</video:uploader>
-    <video:expiration_date>2025-10-19T21:40:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
