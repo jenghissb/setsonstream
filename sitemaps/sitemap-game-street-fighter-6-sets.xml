@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/roundabout-2025/set/96007605/</loc>
+  <lastmod>2025-11-08T15:00:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/805491/image-4d8fcfbe5a3ed475398207f5505ba334.png
+    </video:thumbnail_loc>
+    <video:title>
+      Matthew vs Niisoks, ROUNDABOUT 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Matthew vs Niisoks in Losers Quarter-Final of ROUNDABOUT 2025, streamed by strikefiercefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2612881732&amp;t=3h44m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>835</video:duration>
+    <video:publication_date>2025-11-08T15:00:04.000Z</video:publication_date>
+    <video:uploader>strikefiercefgc</video:uploader>
+    <video:expiration_date>2025-11-16T15:00:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/roundabout-2025/set/96007540/</loc>
   <lastmod>2025-11-08T14:36:20.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-17T19:28:55.000Z</video:publication_date>
     <video:uploader>thebattlegroundofficial</video:uploader>
     <video:expiration_date>2025-10-25T19:28:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bubble-rumble-1/set/95115126/</loc>
-  <lastmod>2025-10-17T19:31:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832049/image-d242c5f8037a563d688c87d19e869b65.png
-    </video:thumbnail_loc>
-    <video:title>
-      Noveto vs MD3 | SiningNRV, Bubble Rumble #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Noveto vs MD3 | SiningNRV in Winners Semi-Final of Bubble Rumble #1, streamed by thebattlegroundofficial
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594314942&amp;t=0h52m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1361</video:duration>
-    <video:publication_date>2025-10-17T19:05:44.000Z</video:publication_date>
-    <video:uploader>thebattlegroundofficial</video:uploader>
-    <video:expiration_date>2025-10-25T19:05:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
