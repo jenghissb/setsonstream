@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088800/</loc>
-  <lastmod>2025-11-09T21:16:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088801/</loc>
+  <lastmod>2025-11-09T21:43:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
+    </video:thumbnail_loc>
+    <video:title>
+      CF | | Beastly vs LG | Sandstorm, Port Priority 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CF | | Beastly vs LG | Sandstorm in Losers Final of Port Priority 9, streamed by rivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614057718&amp;t=3h31m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1803</video:duration>
+    <video:publication_date>2025-11-09T21:43:56.000Z</video:publication_date>
+    <video:uploader>rivalsofaether</video:uploader>
+    <video:expiration_date>2025-11-17T21:43:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088800/</loc>
+  <lastmod>2025-11-09T21:50:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2614057718&amp;t=3h3m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2013</video:duration>
+    <video:duration>1408</video:duration>
     <video:publication_date>2025-11-09T21:16:02.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2025-11-17T21:16:02.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-18T23:45:10.000Z</video:publication_date>
     <video:uploader>RivalsOfAether</video:uploader>
     <video:expiration_date>2025-10-26T23:45:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/g0-2-school-the-0-2er-arcadian-0-9/set/95183517/</loc>
-  <lastmod>2025-10-18T22:12:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829223/image-979aa5a29e1e16162c8b1e9c9949ec3d.png
-    </video:thumbnail_loc>
-    <video:title>
-      SKT | kevinTube vs Huntaro, G0-2 School: The 0-2er Arcadian #0-9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SKT | kevinTube vs Huntaro in Losers Quarter-Final of G0-2 School: The 0-2er Arcadian #0-9, streamed by spotlightsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595289233&amp;t=2h29m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1351</video:duration>
-    <video:publication_date>2025-10-18T21:42:21.000Z</video:publication_date>
-    <video:uploader>spotlightsmash</video:uploader>
-    <video:expiration_date>2025-10-26T21:42:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
