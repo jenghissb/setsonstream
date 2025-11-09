@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hip-hopkick-2025/set/96068690/</loc>
-  <lastmod>2025-11-09T03:42:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hip-hopkick-2025/set/96068676/</loc>
+  <lastmod>2025-11-09T03:56:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/783861/image-c08397176eb45aa75ede1f129ea2f47f.png
+    </video:thumbnail_loc>
+    <video:title>
+      PAR | JoeCrush vs WTI| | AzeemX, Hip-HopKick 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PAR | JoeCrush vs WTI| | AzeemX in Winners Final of Hip-HopKick 2025, streamed by rainydayproductions
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613136377&amp;t=9h58m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1954</video:duration>
+    <video:publication_date>2025-11-09T03:56:23.000Z</video:publication_date>
+    <video:uploader>rainydayproductions</video:uploader>
+    <video:expiration_date>2025-11-17T03:56:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hip-hopkick-2025/set/96068690/</loc>
+  <lastmod>2025-11-09T04:12:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613136377&amp;t=9h44m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1075</video:duration>
+    <video:duration>835</video:duration>
     <video:publication_date>2025-11-09T03:42:18.000Z</video:publication_date>
     <video:uploader>rainydayproductions</video:uploader>
     <video:expiration_date>2025-11-17T03:42:18.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-19T17:09:47.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2025-10-27T17:09:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/paradise-game-battle-2025/set/95230406/</loc>
-  <lastmod>2025-10-19T17:23:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/771944/image-5b3b69a98a5d63b06841022356f1321a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      QAD | THE JON vs Mirage | Gosain, Paradise Game Battle 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch QAD | THE JON vs Mirage | Gosain in Grand Final of Paradise Game Battle 2025, streamed by Tekken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596013370&amp;t=1h20m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1020</video:duration>
-    <video:publication_date>2025-10-19T16:52:33.000Z</video:publication_date>
-    <video:uploader>Tekken</video:uploader>
-    <video:expiration_date>2025-10-27T16:52:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
