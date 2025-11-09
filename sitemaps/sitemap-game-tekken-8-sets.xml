@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2025-round-9/set/96074542/</loc>
-  <lastmod>2025-11-09T08:44:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2025-round-9/set/96074550/</loc>
+  <lastmod>2025-11-09T09:04:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/789302/image-0f1494168771ec1dc50b7b1fdf0aef1c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SLY | RRabay vs 123Lunatic, The NEXT LEVEL PLAY 2025 - Round 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SLY | RRabay vs 123Lunatic in Winners Round 2 of The NEXT LEVEL PLAY 2025 - Round 9, streamed by Tekken Madagascar
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/91c8jqLXBAk?start=6780s
+    </video:player_loc>
+    <video:duration>586</video:duration>
+    <video:publication_date>2025-11-09T09:04:49.000Z</video:publication_date>
+    <video:uploader>Tekken Madagascar</video:uploader>
+    <video:expiration_date>2025-11-17T09:04:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2025-round-9/set/96074542/</loc>
+  <lastmod>2025-11-09T09:09:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/91c8jqLXBAk?start=5557s
     </video:player_loc>
-    <video:duration>361</video:duration>
+    <video:duration>732</video:duration>
     <video:publication_date>2025-11-09T08:44:26.000Z</video:publication_date>
     <video:uploader>Tekken Madagascar</video:uploader>
     <video:expiration_date>2025-11-17T08:44:26.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-19T21:26:04.000Z</video:publication_date>
     <video:uploader>theheartcontainercafe</video:uploader>
     <video:expiration_date>2025-10-27T21:26:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/portland-retro-gaming-expo-2025-fighting-games/set/95247052/</loc>
-  <lastmod>2025-10-19T21:53:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/791976/image-a88cddd29c3564121710f3368a5d842a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Slypig vs BL | bPhimmasone, Portland Retro Gaming Expo 2025 Fighting Games - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Slypig vs BL | bPhimmasone in Losers Quarter-Final of Portland Retro Gaming Expo 2025 Fighting Games, streamed by TeamKhaos
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596073487&amp;t=4h30m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>822</video:duration>
-    <video:publication_date>2025-10-19T21:23:04.000Z</video:publication_date>
-    <video:uploader>TeamKhaos</video:uploader>
-    <video:expiration_date>2025-10-27T21:23:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
