@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tec-in-place-4/set/96095806/</loc>
+  <lastmod>2025-11-09T21:02:21.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/648772/image-dec78bc2c80b8b6b4c9c8c1ea7da9eaf.png
+    </video:thumbnail_loc>
+    <video:title>
+      EGHCO GAMING | MJ_Gama vs SKL | RS | Moñañu, Tec In Place #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EGHCO GAMING | MJ_Gama vs SKL | RS | Moñañu in Winners Quarter-Final of Tec In Place #4, streamed by iniciativareset
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614200811&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>636</video:duration>
+    <video:publication_date>2025-11-09T21:02:21.000Z</video:publication_date>
+    <video:uploader>iniciativareset</video:uploader>
+    <video:expiration_date>2025-11-17T21:02:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/v-stersl-ss-6/set/96076086/</loc>
   <lastmod>2025-11-09T14:27:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-18T04:17:44.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-10-26T04:17:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-95/set/95144784/</loc>
-  <lastmod>2025-10-18T03:59:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836929/image-547afae530417d357d13a489bdf2d19c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MOTHMAN vs KAITO, SoCal Colosseum #95 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MOTHMAN vs KAITO in Winners Quarter-Final of SoCal Colosseum #95, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594707643&amp;t=1h8m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>506</video:duration>
-    <video:publication_date>2025-10-18T03:35:50.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-10-26T03:35:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
