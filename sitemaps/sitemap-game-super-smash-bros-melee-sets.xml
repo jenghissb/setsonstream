@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/v-stersl-ss-6/set/96082911/</loc>
+  <lastmod>2025-11-09T18:20:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846662/image-801fb06d4f5ec43916f5b9df9a1ad1b1.png
+    </video:thumbnail_loc>
+    <video:title>
+      YARR | Sharp vs smushmarth, VÄSterSlåss #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YARR | Sharp vs smushmarth in Grand Final of VÄSterSlåss #6, streamed by vasterasfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613952836&amp;t=2h26m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1437</video:duration>
+    <video:publication_date>2025-11-09T18:20:04.000Z</video:publication_date>
+    <video:uploader>vasterasfgc</video:uploader>
+    <video:expiration_date>2025-11-17T18:20:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-asscadian-7/set/96071036/</loc>
   <lastmod>2025-11-09T06:30:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-17T02:45:45.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-10-25T02:45:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-193/set/95099935/</loc>
-  <lastmod>2025-10-17T03:15:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840254/image-6b8d772661e36d7b880f2239dde7fc32.png
-    </video:thumbnail_loc>
-    <video:title>
-      Slowking vs Rat Funk | Rat Funk, DMGC Smash Bros Local #193 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Slowking vs Rat Funk | Rat Funk in Grand Final of DMGC Smash Bros Local #193, streamed by gray_code
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2593734047&amp;t=2h34m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1241</video:duration>
-    <video:publication_date>2025-10-17T02:37:57.000Z</video:publication_date>
-    <video:uploader>gray_code</video:uploader>
-    <video:expiration_date>2025-10-25T02:37:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
