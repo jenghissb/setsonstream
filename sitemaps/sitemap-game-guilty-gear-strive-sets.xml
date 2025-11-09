@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/warring-triad-13/set/96087369/</loc>
+  <lastmod>2025-11-09T19:12:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/767809/image-5edba61ccb0cf17884bd5a23033d460f.png
+    </video:thumbnail_loc>
+    <video:title>
+      TNS | Cheryo vs YoKai | MASH | DrDoom9755, WARRING TRIAD 13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TNS | Cheryo vs YoKai | MASH | DrDoom9755 in Winners Final of WARRING TRIAD 13, streamed by supercombogg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614030674&amp;t=1h32m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>665</video:duration>
+    <video:publication_date>2025-11-09T19:12:22.000Z</video:publication_date>
+    <video:uploader>supercombogg</video:uploader>
+    <video:expiration_date>2025-11-17T19:12:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/wfgc-11-08-2025-monthly-1/set/96066551/</loc>
   <lastmod>2025-11-09T04:23:51.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-12T00:17:14.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-10-20T00:17:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-x-go-for-broke-fight-for-good/set/94927041/</loc>
-  <lastmod>2025-10-11T22:42:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823620/image-203f1eb92fd499fe7000712df3fec19b.png
-    </video:thumbnail_loc>
-    <video:title>
-      6macy vs Bombshell, Iron Grid x Go For Broke: Fight for Good - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 6macy vs Bombshell in Losers Final of Iron Grid x Go For Broke: Fight for Good, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589162155&amp;t=4h55m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>598</video:duration>
-    <video:publication_date>2025-10-11T22:13:08.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2025-10-19T22:13:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
