@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2025-round-9/set/96074677/</loc>
-  <lastmod>2025-11-09T09:34:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2025-round-9/set/96074688/</loc>
+  <lastmod>2025-11-09T09:58:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/789302/image-0f1494168771ec1dc50b7b1fdf0aef1c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sebastien | Nege vs 123Lunatic, The NEXT LEVEL PLAY 2025 - Round 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sebastien | Nege vs 123Lunatic in Losers Round 4 of The NEXT LEVEL PLAY 2025 - Round 9, streamed by Tekken Madagascar
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/91c8jqLXBAk?start=9975s
+    </video:player_loc>
+    <video:duration>988</video:duration>
+    <video:publication_date>2025-11-09T09:58:04.000Z</video:publication_date>
+    <video:uploader>Tekken Madagascar</video:uploader>
+    <video:expiration_date>2025-11-17T09:58:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2025-round-9/set/96074677/</loc>
+  <lastmod>2025-11-09T10:07:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/91c8jqLXBAk?start=8586s
     </video:player_loc>
-    <video:duration>857</video:duration>
+    <video:duration>718</video:duration>
     <video:publication_date>2025-11-09T09:34:55.000Z</video:publication_date>
     <video:uploader>Tekken Madagascar</video:uploader>
     <video:expiration_date>2025-11-17T09:34:55.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-19T22:03:02.000Z</video:publication_date>
     <video:uploader>theheartcontainercafe</video:uploader>
     <video:expiration_date>2025-10-27T22:03:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-5/set/95250150/</loc>
-  <lastmod>2025-10-19T22:15:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      ARGENTINA | Deuce vs LAK, The Tekken Legacy Championship #5 ! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ARGENTINA | Deuce vs LAK in Winners Quarter-Final of The Tekken Legacy Championship #5 !, streamed by theheartcontainercafe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596217879&amp;t=2h5m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>845</video:duration>
-    <video:publication_date>2025-10-19T21:49:28.000Z</video:publication_date>
-    <video:uploader>theheartcontainercafe</video:uploader>
-    <video:expiration_date>2025-10-27T21:49:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
