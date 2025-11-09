@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/port-priority-9-10/set/96070056/</loc>
-  <lastmod>2025-11-09T04:22:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pixel-smash-300/set/96071092/</loc>
+  <lastmod>2025-11-09T04:49:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
+      https://images.start.gg/images/tournament/732171/image-ff274bea271f82888e1fb65677842ecd.jpg
     </video:thumbnail_loc>
     <video:title>
-      KUSC | Furararamen/ふららら麺(KUSC | Furararamen/ furarara men) vs NU | Lui$, Port Priority 9 - Sets on Stream
+      MACKA | TonkaDonka vs MACKA | Mexi, Pixel Smash #300 - Sets on Stream
     </video:title>
     <video:description>
-      Watch KUSC | Furararamen/ふららら麺(KUSC | Furararamen/ furarara men) vs NU | Lui$ in Losers Round 2 of Port Priority 9, streamed by VGBootCamp2
+      Watch MACKA | TonkaDonka vs MACKA | Mexi in Winners Quarter-Final of Pixel Smash #300, streamed by pixelbaraus
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613115352&amp;t=10h49m53s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?channel=pixelbaraus&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1287</video:duration>
-    <video:publication_date>2025-11-09T04:22:59.000Z</video:publication_date>
-    <video:uploader>VGBootCamp2</video:uploader>
-    <video:expiration_date>2025-11-17T04:22:59.000Z</video:expiration_date>
+    <video:duration>187</video:duration>
+    <video:publication_date>2025-11-09T04:49:16.000Z</video:publication_date>
+    <video:uploader>pixelbaraus</video:uploader>
+    <video:expiration_date>2025-11-17T04:49:16.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613620095&amp;t=0h13m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>558</video:duration>
+    <video:duration>1035</video:duration>
     <video:publication_date>2025-11-09T04:35:08.000Z</video:publication_date>
     <video:uploader>pueogaming</video:uploader>
     <video:expiration_date>2025-11-17T04:35:08.000Z</video:expiration_date>
@@ -50,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/west-side-smash-29/set/96070932/</loc>
-  <lastmod>2025-11-09T04:35:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-09T04:52:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613619038&amp;t=0h15m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>533</video:duration>
+    <video:duration>870</video:duration>
     <video:publication_date>2025-11-09T04:35:33.000Z</video:publication_date>
     <video:uploader>thehotspotgamingcafe</video:uploader>
     <video:expiration_date>2025-11-17T04:35:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/port-priority-9-10/set/96070056/</loc>
+  <lastmod>2025-11-09T04:45:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
+    </video:thumbnail_loc>
+    <video:title>
+      KUSC | Furararamen/ふららら麺(KUSC | Furararamen/ furarara men) vs NU | Lui$, Port Priority 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KUSC | Furararamen/ふららら麺(KUSC | Furararamen/ furarara men) vs NU | Lui$ in Losers Round 2 of Port Priority 9, streamed by VGBootCamp2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613115352&amp;t=10h49m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>991</video:duration>
+    <video:publication_date>2025-11-09T04:22:59.000Z</video:publication_date>
+    <video:uploader>VGBootCamp2</video:uploader>
+    <video:expiration_date>2025-11-17T04:22:59.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
