@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/v-stersl-ss-6/set/96076085/</loc>
-  <lastmod>2025-11-09T13:34:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/v-stersl-ss-6/set/96076086/</loc>
+  <lastmod>2025-11-09T13:52:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846662/image-801fb06d4f5ec43916f5b9df9a1ad1b1.png
+    </video:thumbnail_loc>
+    <video:title>
+      ruckus | ruckus vs VFGC | Gussonic, VÄSterSlåss #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ruckus | ruckus vs VFGC | Gussonic in Losers Semi-Final of VÄSterSlåss #6, streamed by vasterasfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613824375&amp;t=1h29m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1220</video:duration>
+    <video:publication_date>2025-11-09T13:52:13.000Z</video:publication_date>
+    <video:uploader>vasterasfgc</video:uploader>
+    <video:expiration_date>2025-11-17T13:52:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/v-stersl-ss-6/set/96076085/</loc>
+  <lastmod>2025-11-09T14:04:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613824375&amp;t=1h11m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>961</video:duration>
+    <video:duration>417</video:duration>
     <video:publication_date>2025-11-09T13:34:17.000Z</video:publication_date>
     <video:uploader>vasterasfgc</video:uploader>
     <video:expiration_date>2025-11-17T13:34:17.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-18T03:35:50.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-10-26T03:35:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgc-meetups-107/set/95145394/</loc>
-  <lastmod>2025-10-18T03:59:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838027/image-576f814fc774f538d22887811922c7d1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PCH | Earl vs YARUCREW | ZachInABox, FGC Meetups 107 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PCH | Earl vs YARUCREW | ZachInABox in Losers Quarter-Final of FGC Meetups 107, streamed by unrivaledtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594637106&amp;t=2h30m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>700</video:duration>
-    <video:publication_date>2025-10-18T03:29:41.000Z</video:publication_date>
-    <video:uploader>unrivaledtournaments</video:uploader>
-    <video:expiration_date>2025-10-26T03:29:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
