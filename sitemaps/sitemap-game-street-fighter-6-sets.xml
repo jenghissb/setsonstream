@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/v-stersl-ss-6/set/96076051/</loc>
+  <lastmod>2025-11-09T12:48:43.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846662/image-801fb06d4f5ec43916f5b9df9a1ad1b1.png
+    </video:thumbnail_loc>
+    <video:title>
+      VFGC | Gussonic vs ÖFGC | Lama, VÄSterSlåss #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VFGC | Gussonic vs ÖFGC | Lama in Winners Quarter-Final of VÄSterSlåss #6, streamed by vasterasfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613824375&amp;t=0h26m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>726</video:duration>
+    <video:publication_date>2025-11-09T12:48:43.000Z</video:publication_date>
+    <video:uploader>vasterasfgc</video:uploader>
+    <video:expiration_date>2025-11-17T12:48:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neon-dreams-2xko-monthly-3-x-street-fighter-6-bi-weekly-49-local/set/96063857/</loc>
   <lastmod>2025-11-09T03:21:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-18T02:44:05.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-10-26T02:44:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-100/set/95132979/</loc>
-  <lastmod>2025-10-18T01:58:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839259/image-942e1097376100a452d509ae48181dba.png
-    </video:thumbnail_loc>
-    <video:title>
-      Beluga vs SF | Sweetmamaschili, Suplex! #100 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Beluga vs SF | Sweetmamaschili in Losers Final of Suplex! #100, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594655416&amp;t=0h3m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>613</video:duration>
-    <video:publication_date>2025-10-18T01:23:52.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2025-10-26T01:23:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
