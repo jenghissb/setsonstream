@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088800/</loc>
+  <lastmod>2025-11-09T21:16:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
+    </video:thumbnail_loc>
+    <video:title>
+      LG | Sandstorm vs Rongunshu, Port Priority 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LG | Sandstorm vs Rongunshu in Losers Semi-Final of Port Priority 9, streamed by rivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614057718&amp;t=3h3m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>681</video:duration>
+    <video:publication_date>2025-11-09T21:16:02.000Z</video:publication_date>
+    <video:uploader>rivalsofaether</video:uploader>
+    <video:expiration_date>2025-11-17T21:16:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088798/</loc>
   <lastmod>2025-11-09T20:56:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-18T21:42:21.000Z</video:publication_date>
     <video:uploader>spotlightsmash</video:uploader>
     <video:expiration_date>2025-10-26T21:42:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breakfest-october-2025/set/95194430/</loc>
-  <lastmod>2025-10-18T21:46:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838498/image-da120574fa96ab5dc2715a90c971e8f3.png
-    </video:thumbnail_loc>
-    <video:title>
-      ZB | Juniper vs ZB | Sanaito, BreakFest October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZB | Juniper vs ZB | Sanaito in Winners Quarter-Final of BreakFest October 2025, streamed by ZoneBreakersTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595379361&amp;t=0h3m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>583</video:duration>
-    <video:publication_date>2025-10-18T21:08:44.000Z</video:publication_date>
-    <video:uploader>ZoneBreakersTV</video:uploader>
-    <video:expiration_date>2025-10-26T21:08:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
