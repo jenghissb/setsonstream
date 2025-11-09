@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/west-side-smash-29/set/96070950/</loc>
+  <lastmod>2025-11-09T08:12:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846774/image-deb06dd9ce7f4abffc42926088541dce.png
+    </video:thumbnail_loc>
+    <video:title>
+      AHB | Big Stew vs CUP | Vanguard, West Side Smash 29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AHB | Big Stew vs CUP | Vanguard in Grand Final of West Side Smash 29, streamed by pueogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613620095&amp;t=3h34m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>779</video:duration>
+    <video:publication_date>2025-11-09T07:55:43.000Z</video:publication_date>
+    <video:uploader>pueogaming</video:uploader>
+    <video:expiration_date>2025-11-17T07:55:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/west-side-smash-29/set/96071013/</loc>
-  <lastmod>2025-11-09T07:28:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-09T07:58:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613620095&amp;t=3h6m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1296</video:duration>
+    <video:duration>1654</video:duration>
     <video:publication_date>2025-11-09T07:28:03.000Z</video:publication_date>
     <video:uploader>pueogaming</video:uploader>
     <video:expiration_date>2025-11-17T07:28:03.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-02T00:51:56.000Z</video:publication_date>
     <video:uploader>capitalott</video:uploader>
     <video:expiration_date>2025-11-10T00:51:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/slobroke-reborn-84/set/95782619/</loc>
-  <lastmod>2025-11-02T01:06:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844929/image-acad523e576363b478efbb1f66d6c4ec.png
-    </video:thumbnail_loc>
-    <video:title>
-      RAT | Alpha Turtle vs BIG | Aklys, SloBroke REBORN! #84 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RAT | Alpha Turtle vs BIG | Aklys in Winners Round 1 of SloBroke REBORN! #84, streamed by slosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607457223&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>839</video:duration>
-    <video:publication_date>2025-11-02T00:47:13.000Z</video:publication_date>
-    <video:uploader>slosmash</video:uploader>
-    <video:expiration_date>2025-11-10T00:47:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
