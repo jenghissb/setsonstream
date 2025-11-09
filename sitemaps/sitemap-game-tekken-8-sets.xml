@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/manila-madness-4/set/96031843/</loc>
+  <lastmod>2025-11-09T07:42:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/771604/image-6ba7afa95bd3caa82c35eff241cc8ea4.png
+    </video:thumbnail_loc>
+    <video:title>
+      RGN vs N4K | Zaskieee, Manila Madness 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RGN vs N4K | Zaskieee in Losers Round 2 of Manila Madness 4, streamed by brownmanfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613635116&amp;t=2h55m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>458</video:duration>
+    <video:publication_date>2025-11-09T07:42:01.000Z</video:publication_date>
+    <video:uploader>brownmanfgc</video:uploader>
+    <video:expiration_date>2025-11-17T07:42:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/hip-hopkick-2025/set/96068678/</loc>
   <lastmod>2025-11-09T07:06:44.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-19T21:01:35.000Z</video:publication_date>
     <video:uploader>TeamKhaos</video:uploader>
     <video:expiration_date>2025-10-27T21:01:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/portland-retro-gaming-expo-2025-fighting-games/set/95247036/</loc>
-  <lastmod>2025-10-19T21:10:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/791976/image-a88cddd29c3564121710f3368a5d842a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      UzcáTegui vs Slypig, Portland Retro Gaming Expo 2025 Fighting Games - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UzcáTegui vs Slypig in Winners Semi-Final of Portland Retro Gaming Expo 2025 Fighting Games, streamed by TeamKhaos
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596073487&amp;t=3h50m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>669</video:duration>
-    <video:publication_date>2025-10-19T20:43:37.000Z</video:publication_date>
-    <video:uploader>TeamKhaos</video:uploader>
-    <video:expiration_date>2025-10-27T20:43:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
