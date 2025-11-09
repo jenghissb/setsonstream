@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/west-side-smash-29/set/96071012/</loc>
-  <lastmod>2025-11-09T07:05:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/west-side-smash-29/set/96071013/</loc>
+  <lastmod>2025-11-09T07:28:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846774/image-deb06dd9ce7f4abffc42926088541dce.png
+    </video:thumbnail_loc>
+    <video:title>
+      CUP | Vanguard vs BG | iCandres, West Side Smash 29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CUP | Vanguard vs BG | iCandres in Losers Final of West Side Smash 29, streamed by pueogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613620095&amp;t=3h6m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>636</video:duration>
+    <video:publication_date>2025-11-09T07:28:03.000Z</video:publication_date>
+    <video:uploader>pueogaming</video:uploader>
+    <video:expiration_date>2025-11-17T07:28:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/west-side-smash-29/set/96071012/</loc>
+  <lastmod>2025-11-09T07:30:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613620095&amp;t=2h44m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1451</video:duration>
+    <video:duration>1358</video:duration>
     <video:publication_date>2025-11-09T07:05:21.000Z</video:publication_date>
     <video:uploader>pueogaming</video:uploader>
     <video:expiration_date>2025-11-17T07:05:21.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-02T00:47:13.000Z</video:publication_date>
     <video:uploader>slosmash</video:uploader>
     <video:expiration_date>2025-11-10T00:47:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muravi-games-house-of-salt-weeklies-132/set/95771462/</loc>
-  <lastmod>2025-11-02T01:06:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842272/image-1d21e307336f8f913d7a426532f4ef1d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      XG | Ssabado Gigante vs MR | JinTek, Muravi Games: House of Salt Weeklies #132! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch XG | Ssabado Gigante vs MR | JinTek in Losers Quarter-Final of Muravi Games: House of Salt Weeklies #132!, streamed by Muravi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607279857&amp;t=3h51m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>795</video:duration>
-    <video:publication_date>2025-11-02T00:46:53.000Z</video:publication_date>
-    <video:uploader>Muravi</video:uploader>
-    <video:expiration_date>2025-11-10T00:46:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
