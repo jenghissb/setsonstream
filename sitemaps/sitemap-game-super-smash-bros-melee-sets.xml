@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-asscadian-7/set/96061744/</loc>
-  <lastmod>2025-11-09T03:21:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-asscadian-7/set/96061998/</loc>
+  <lastmod>2025-11-09T03:56:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838694/image-a3b7c1550e45bdcf92608ba75a5a9178.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cherry | SpiderJew vs Morf, The Asscadian 7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cherry | SpiderJew vs Morf in Losers Round 7 of The Asscadian 7, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2613445979&amp;t=3h35m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>231</video:duration>
+    <video:publication_date>2025-11-09T03:56:22.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2025-11-17T03:56:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-asscadian-7/set/96061744/</loc>
+  <lastmod>2025-11-09T03:58:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2613445979&amp;t=3h0m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1195</video:duration>
+    <video:duration>1386</video:duration>
     <video:publication_date>2025-11-09T03:21:59.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2025-11-17T03:21:59.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-17T02:12:09.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-25T02:12:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-193/set/95099949/</loc>
-  <lastmod>2025-10-17T02:50:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840254/image-6b8d772661e36d7b880f2239dde7fc32.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rat Funk | Rat Funk vs GrayCode, DMGC Smash Bros Local #193 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rat Funk | Rat Funk vs GrayCode in Losers Semi-Final of DMGC Smash Bros Local #193, streamed by gray_code
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2593734047&amp;t=2h1m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1919</video:duration>
-    <video:publication_date>2025-10-17T02:05:25.000Z</video:publication_date>
-    <video:uploader>gray_code</video:uploader>
-    <video:expiration_date>2025-10-25T02:05:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
