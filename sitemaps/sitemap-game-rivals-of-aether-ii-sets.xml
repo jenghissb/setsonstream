@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088796/</loc>
-  <lastmod>2025-11-09T18:59:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088784/</loc>
+  <lastmod>2025-11-09T19:28:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
+    </video:thumbnail_loc>
+    <video:title>
+      CF | | Beastly vs LG | Sandstorm, Port Priority 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CF | | Beastly vs LG | Sandstorm in Winners Semi-Final of Port Priority 9, streamed by rivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614057718&amp;t=1h15m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1276</video:duration>
+    <video:publication_date>2025-11-09T19:28:10.000Z</video:publication_date>
+    <video:uploader>rivalsofaether</video:uploader>
+    <video:expiration_date>2025-11-17T19:28:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088796/</loc>
+  <lastmod>2025-11-09T19:36:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2614057718&amp;t=0h46m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2222</video:duration>
+    <video:duration>716</video:duration>
     <video:publication_date>2025-11-09T18:59:10.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2025-11-17T18:59:10.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-18T19:33:11.000Z</video:publication_date>
     <video:uploader>spotlightsmash</video:uploader>
     <video:expiration_date>2025-10-26T19:33:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/byens-pne-turnering-i-slossespill-26/set/95156411/</loc>
-  <lastmod>2025-10-18T10:47:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827492/image-a12b438053a73244f1f9bd4bdee8acc3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Anz vs HEF | Howsov, Byens åpne Turnering i Slossespill #26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Anz vs HEF | Howsov in Losers Semi-Final of Byens åpne Turnering i Slossespill #26, streamed by spiritofsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594911716&amp;t=0h40m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>696</video:duration>
-    <video:publication_date>2025-10-18T10:18:55.000Z</video:publication_date>
-    <video:uploader>spiritofsmash</video:uploader>
-    <video:expiration_date>2025-10-26T10:18:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
