@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-bamagotchi-110/set/96119970/</loc>
-  <lastmod>2025-11-10T19:07:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-bamagotchi-110/set/96119972/</loc>
+  <lastmod>2025-11-10T19:18:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850046/image-77f2517e7e6960d04a6ecfba473a0e40.png
+    </video:thumbnail_loc>
+    <video:title>
+      DUC | Zerd vs Jojo, Weekly Bamagotchi 110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DUC | Zerd vs Jojo in Winners Quarter-Final of Weekly Bamagotchi 110, streamed by ducesport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614877139&amp;t=0h47m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>509</video:duration>
+    <video:publication_date>2025-11-10T19:18:51.000Z</video:publication_date>
+    <video:uploader>ducesport</video:uploader>
+    <video:expiration_date>2025-11-18T19:18:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platform-camp-2/set/96121288/</loc>
+  <lastmod>2025-11-10T19:14:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847376/image-2b7175587c945e55e62c0f091ce6e772.png
+    </video:thumbnail_loc>
+    <video:title>
+      Viego vs Shnm, Platform Camp #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Viego vs Shnm in Winners Semi-Final of Platform Camp #2, streamed by LeedsLegacySmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=LeedsLegacySmash&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>741</video:duration>
+    <video:publication_date>2025-11-10T19:14:59.000Z</video:publication_date>
+    <video:uploader>LeedsLegacySmash</video:uploader>
+    <video:expiration_date>2025-11-18T19:14:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-bamagotchi-110/set/96119970/</loc>
+  <lastmod>2025-11-10T19:20:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2614877139&amp;t=0h36m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>346</video:duration>
+    <video:duration>671</video:duration>
     <video:publication_date>2025-11-10T19:07:29.000Z</video:publication_date>
     <video:uploader>ducesport</video:uploader>
     <video:expiration_date>2025-11-18T19:07:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platform-camp-2/set/96120171/</loc>
-  <lastmod>2025-11-10T18:59:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847376/image-2b7175587c945e55e62c0f091ce6e772.png
-    </video:thumbnail_loc>
-    <video:title>
-      H&amp;H PUB | YABOIPICCOLO vs Pioπ(Pio pi), Platform Camp #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch H&amp;H PUB | YABOIPICCOLO vs Pioπ(Pio pi) in Winners Semi-Final of Platform Camp #2, streamed by LeedsLegacySmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=LeedsLegacySmash&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>830</video:duration>
-    <video:publication_date>2025-11-10T18:59:25.000Z</video:publication_date>
-    <video:uploader>LeedsLegacySmash</video:uploader>
-    <video:expiration_date>2025-11-18T18:59:25.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2025-11-02T20:33:53.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2025-11-10T20:33:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mcdonald-s-smash-ultimate-8/set/95812252/</loc>
-  <lastmod>2025-11-02T20:55:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830073/image-d2c9966ff2092b969d13592f3d4a8709.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      JuegaBerto vs CHAOS | Ansem, McDonald&apos;s Smash Ultimate #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JuegaBerto vs CHAOS | Ansem in Round 1 of McDonald&apos;s Smash Ultimate #8, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/YvGq37HhWpY?start=14610s
-    </video:player_loc>
-    <video:duration>900</video:duration>
-    <video:publication_date>2025-11-02T20:33:49.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
-    <video:expiration_date>2025-11-10T20:33:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
