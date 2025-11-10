@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-65/set/96121377/</loc>
+  <lastmod>2025-11-10T20:01:00.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843425/image-cead75d5df184e04a48a9f2734ee55d3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ZPR | Indra vs TVSF | Shun, Toulouse Fighting Monday 65 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZPR | Indra vs TVSF | Shun in Winners Quarter-Final of Toulouse Fighting Monday 65, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614914174&amp;t=0h42m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1102</video:duration>
+    <video:publication_date>2025-11-10T20:01:00.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2025-11-18T20:01:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ultimate-dojo-2/set/96102544/</loc>
   <lastmod>2025-11-10T01:03:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-20T00:43:40.000Z</video:publication_date>
     <video:uploader>theheartcontainercafe</video:uploader>
     <video:expiration_date>2025-10-28T00:43:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-5/set/95258369/</loc>
-  <lastmod>2025-10-20T00:54:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      THC | Nonenity vs COBRA KAI- | Light, The Tekken Legacy Championship #5 ! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch THC | Nonenity vs COBRA KAI- | Light in Losers Round 1 of The Tekken Legacy Championship #5 !, streamed by theheartcontainercafe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596217879&amp;t=4h23m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>688</video:duration>
-    <video:publication_date>2025-10-20T00:07:42.000Z</video:publication_date>
-    <video:uploader>theheartcontainercafe</video:uploader>
-    <video:expiration_date>2025-10-28T00:07:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
