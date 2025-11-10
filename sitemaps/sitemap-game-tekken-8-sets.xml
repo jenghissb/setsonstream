@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-65/set/96121270/</loc>
+  <lastmod>2025-11-10T21:01:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843425/image-cead75d5df184e04a48a9f2734ee55d3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ZPR | Indra vs Nelo Angelo, Toulouse Fighting Monday 65 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZPR | Indra vs Nelo Angelo in Winners Final of Toulouse Fighting Monday 65, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614914174&amp;t=1h43m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>798</video:duration>
+    <video:publication_date>2025-11-10T21:01:29.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2025-11-18T21:01:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-65/set/96121379/</loc>
   <lastmod>2025-11-10T20:47:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-20T00:50:33.000Z</video:publication_date>
     <video:uploader>MNCSmash</video:uploader>
     <video:expiration_date>2025-10-28T00:50:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/chains-of-fate-monthly-16-one-last-dojo/set/95256979/</loc>
-  <lastmod>2025-10-20T01:16:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839510/image-59c91b498da5f7bc33212f8eaf68277e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FT | Kaplurf vs bigboyymanu, Chains of Fate Monthly #16: One Last Dojo? - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FT | Kaplurf vs bigboyymanu in Winners Round 3 of Chains of Fate Monthly #16: One Last Dojo?, streamed by ChainShift_Events
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596384433&amp;t=1h7m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>384</video:duration>
-    <video:publication_date>2025-10-20T00:50:07.000Z</video:publication_date>
-    <video:uploader>ChainShift_Events</video:uploader>
-    <video:expiration_date>2025-10-28T00:50:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
