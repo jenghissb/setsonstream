@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/10-318/set/96114772/</loc>
-  <lastmod>2025-11-10T10:34:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/10-318/set/96114780/</loc>
+  <lastmod>2025-11-10T10:55:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848247/image-9822cba66376b577894087130b746904.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      はっせー(hassee) vs しーた(shiita), 10(月)上野スマコミ#318(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch はっせー(hassee) vs しーた(shiita) in Winners Quarter-Final of 10(月)上野スマコミ#318(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/4GKa8tLB-uk?start=1296s
+    </video:player_loc>
+    <video:duration>1109</video:duration>
+    <video:publication_date>2025-11-10T10:55:53.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-11-18T10:55:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/10-318/set/96114772/</loc>
+  <lastmod>2025-11-10T10:57:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/4GKa8tLB-uk?start=0s
     </video:player_loc>
-    <video:duration>1264</video:duration>
+    <video:duration>1285</video:duration>
     <video:publication_date>2025-11-10T10:34:24.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-18T10:34:24.000Z</video:expiration_date>
@@ -71973,30 +71997,6 @@
     <video:duration>883</video:duration>
     <video:publication_date>2025-11-02T20:19:42.000Z</video:publication_date>
     <video:uploader>scrappysensei</video:uploader>
-    <video:expiration_date>2025-11-10T20:19:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mcdonald-s-smash-ultimate-8/set/95807890/</loc>
-  <lastmod>2025-11-02T20:37:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830073/image-d2c9966ff2092b969d13592f3d4a8709.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Elite | Joy boy vs MakoTn | Osmel, McDonald&apos;s Smash Ultimate #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Elite | Joy boy vs MakoTn | Osmel in Round 9 of McDonald&apos;s Smash Ultimate #8, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/YvGq37HhWpY?start=13763s
-    </video:player_loc>
-    <video:duration>708</video:duration>
-    <video:publication_date>2025-11-02T20:19:42.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2025-11-10T20:19:42.000Z</video:expiration_date>
   </video:video>
 </url>
