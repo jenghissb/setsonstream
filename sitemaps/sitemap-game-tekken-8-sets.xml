@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-225/set/96126082/</loc>
+  <lastmod>2025-11-10T23:31:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849842/image-86677eff854c031ff9f774ddf61d9c4b.png
+    </video:thumbnail_loc>
+    <video:title>
+      ESG | HOJU vs ESG | JAYDASH, ESG Fight Night #225 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ESG | HOJU vs ESG | JAYDASH in Round 1 of ESG Fight Night #225, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615102799&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1070</video:duration>
+    <video:publication_date>2025-11-10T23:31:59.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2025-11-18T23:31:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-65/set/96121272/</loc>
   <lastmod>2025-11-10T22:43:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-20T01:09:08.000Z</video:publication_date>
     <video:uploader>MNCSmash</video:uploader>
     <video:expiration_date>2025-10-28T01:09:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-alley-24-presented-by-coca-cola/set/95250746/</loc>
-  <lastmod>2025-10-20T01:39:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836308/image-e31e99685770196e8b3eae2afbfced33.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      RESIST | RunningJoke vs THG | Soft &amp; Wet, The Alley #24 Presented by Coca-Cola - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RESIST | RunningJoke vs THG | Soft &amp; Wet in Grand Final of The Alley #24 Presented by Coca-Cola, streamed by DistrictEDC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596254577&amp;t=4h31m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>910</video:duration>
-    <video:publication_date>2025-10-20T01:04:30.000Z</video:publication_date>
-    <video:uploader>DistrictEDC</video:uploader>
-    <video:expiration_date>2025-10-28T01:04:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
