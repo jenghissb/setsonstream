@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2614064511&amp;t=10h53m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1583</video:duration>
+    <video:duration>2113</video:duration>
     <video:publication_date>2025-11-10T05:15:05.000Z</video:publication_date>
     <video:uploader>VGBootCamp</video:uploader>
     <video:expiration_date>2025-11-18T05:15:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-3/set/96112215/</loc>
-  <lastmod>2025-11-10T05:29:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-3/set/96112184/</loc>
+  <lastmod>2025-11-10T05:43:34.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848414/image-a55d7711c771dad261be0dcebfd29b76.png
+    </video:thumbnail_loc>
+    <video:title>
+      OUT | PSK | WaKa vs PSK | BICI, Reborn #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OUT | PSK | WaKa vs PSK | BICI in Grand Final of Reborn #3, streamed by xtrtj
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614373890&amp;t=4h35m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>404</video:duration>
+    <video:publication_date>2025-11-10T05:43:34.000Z</video:publication_date>
+    <video:uploader>xtrtj</video:uploader>
+    <video:expiration_date>2025-11-18T05:43:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-3/set/96112215/</loc>
+  <lastmod>2025-11-10T05:45:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2614373890&amp;t=4h21m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>737</video:duration>
+    <video:duration>852</video:duration>
     <video:publication_date>2025-11-10T05:29:11.000Z</video:publication_date>
     <video:uploader>xtrtj</video:uploader>
     <video:expiration_date>2025-11-18T05:29:11.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-02T20:13:59.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV</video:uploader>
     <video:expiration_date>2025-11-10T20:13:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mcdonald-s-smash-ultimate-8/set/95808098/</loc>
-  <lastmod>2025-11-02T20:26:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830073/image-d2c9966ff2092b969d13592f3d4a8709.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PCG | sigurama/señor tortuga vs 777, McDonald&apos;s Smash Ultimate #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PCG | sigurama/señor tortuga vs 777 in Round 9 of McDonald&apos;s Smash Ultimate #8, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/YvGq37HhWpY?start=13364s
-    </video:player_loc>
-    <video:duration>535</video:duration>
-    <video:publication_date>2025-11-02T20:13:03.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
-    <video:expiration_date>2025-11-10T20:13:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
