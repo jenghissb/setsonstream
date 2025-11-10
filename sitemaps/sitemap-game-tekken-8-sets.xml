@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-65/set/96121285/</loc>
+  <lastmod>2025-11-10T21:29:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843425/image-cead75d5df184e04a48a9f2734ee55d3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ZPR | Akashi vs SS | | FZifu, Toulouse Fighting Monday 65 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZPR | Akashi vs SS | | FZifu in Losers Semi-Final of Toulouse Fighting Monday 65, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2614914174&amp;t=2h10m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1237</video:duration>
+    <video:publication_date>2025-11-10T21:29:14.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2025-11-18T21:29:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-65/set/96121270/</loc>
   <lastmod>2025-11-10T21:27:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-20T00:51:03.000Z</video:publication_date>
     <video:uploader>DistrictEDC</video:uploader>
     <video:expiration_date>2025-10-28T00:51:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/summer-fox-smackdown-20-fgc-monthly/set/95253594/</loc>
-  <lastmod>2025-10-20T01:16:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838347/image-42704c2816f068a21dfbf0676601bceb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Surge vs TWZ | Casita, Summer Fox Smackdown 20! - FGC Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Surge vs TWZ | Casita in Grand Final of Summer Fox Smackdown 20! - FGC Monthly, streamed by MNCSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596328753&amp;t=2h30m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1032</video:duration>
-    <video:publication_date>2025-10-20T00:50:33.000Z</video:publication_date>
-    <video:uploader>MNCSmash</video:uploader>
-    <video:expiration_date>2025-10-28T00:50:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
