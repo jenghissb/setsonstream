@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-138-november-11th/set/96147540/</loc>
-  <lastmod>2025-11-11T22:17:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-138-november-11th/set/96147509/</loc>
+  <lastmod>2025-11-11T22:35:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849670/image-2129b3fa7cf684ddd3b1246ea89bcfe1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Crub vs Inspector Goose, FightHouse Weeklies #138 - November 11th - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Crub vs Inspector Goose in Grand Final of FightHouse Weeklies #138 - November 11th, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615803261&amp;t=3h5m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>837</video:duration>
+    <video:publication_date>2025-11-11T22:35:28.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-11-19T22:35:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-138-november-11th/set/96147540/</loc>
+  <lastmod>2025-11-11T22:38:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2615803261&amp;t=2h47m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1021</video:duration>
+    <video:duration>1052</video:duration>
     <video:publication_date>2025-11-11T22:17:40.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-11-19T22:17:40.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-03T05:21:05.000Z</video:publication_date>
     <video:uploader>無明遊者【イベント配信団体】</video:uploader>
     <video:expiration_date>2025-11-11T05:21:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95827229/</loc>
-  <lastmod>2025-11-03T05:37:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822447/image-c524b1255ffb0a1f4966b019dae0edd5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      AREA310 | Shirayuki vs Shuton, 篝火#14/KAGARIBI#14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AREA310 | Shirayuki vs Shuton in Losers Round 4 of 篝火#14/KAGARIBI#14, streamed by vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2608360921&amp;t=4h19m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1025</video:duration>
-    <video:publication_date>2025-11-03T05:18:12.000Z</video:publication_date>
-    <video:uploader>vgbootcamp</video:uploader>
-    <video:expiration_date>2025-11-11T05:18:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
