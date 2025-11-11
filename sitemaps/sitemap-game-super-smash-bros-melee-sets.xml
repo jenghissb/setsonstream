@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-32-pixel-perfect/set/96141643/</loc>
+  <lastmod>2025-11-11T06:23:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849912/image-da83232d42873eb88f0b1efb42b84bfa.png
+    </video:thumbnail_loc>
+    <video:title>
+      yb | Friend vs Mootook, McCloud&apos;s Melee Co. #32: Pixel Perfect - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch yb | Friend vs Mootook in Losers Quarter-Final of McCloud&apos;s Melee Co. #32: Pixel Perfect, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615279513&amp;t=3h6m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1665</video:duration>
+    <video:publication_date>2025-11-11T06:23:55.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-11-19T06:23:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-32-pixel-perfect/set/96141641/</loc>
   <lastmod>2025-11-11T06:19:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-18T04:50:05.000Z</video:publication_date>
     <video:uploader>cptwoodbeard</video:uploader>
     <video:expiration_date>2025-10-26T04:50:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battlegateway/set/95151101/</loc>
-  <lastmod>2025-10-18T05:18:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825796/image-22da5f515a1c780c20e6252be7bf822d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      bozitoma vs kysk, BattleGateWay 日本代表決定戦 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bozitoma vs kysk in Winners Round 2 of BattleGateWay 日本代表決定戦, streamed by Vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594770226&amp;t=0h42m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1738</video:duration>
-    <video:publication_date>2025-10-18T04:40:56.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp</video:uploader>
-    <video:expiration_date>2025-10-26T04:40:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
