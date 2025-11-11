@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145919/</loc>
-  <lastmod>2025-11-11T20:00:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145923/</loc>
+  <lastmod>2025-11-11T20:28:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,48 +10,72 @@
       https://images.start.gg/images/tournament/850077/image-1da89699e1b86eb94ff3254f3fe9bdc2.png
     </video:thumbnail_loc>
     <video:title>
-      Bouboune vs PapRika, Magna Arena #217 - Sets on Stream
+      Bouboune vs GCR | Lydien, Magna Arena #217 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Bouboune vs PapRika in Losers Round 3 of Magna Arena #217, streamed by kuracow
+      Watch Bouboune vs GCR | Lydien in Losers Round 4 of Magna Arena #217, streamed by kuracow
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2615746363&amp;t=1h40m1s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2615746363&amp;t=2h7m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>981</video:duration>
-    <video:publication_date>2025-11-11T20:00:57.000Z</video:publication_date>
+    <video:duration>724</video:duration>
+    <video:publication_date>2025-11-11T20:28:45.000Z</video:publication_date>
     <video:uploader>kuracow</video:uploader>
-    <video:expiration_date>2025-11-19T20:00:57.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-19T20:28:45.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145862/</loc>
-  <lastmod>2025-11-11T20:10:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-138-november-11th/set/96147534/</loc>
+  <lastmod>2025-11-11T20:26:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850077/image-1da89699e1b86eb94ff3254f3fe9bdc2.png
+      https://images.start.gg/images/tournament/849670/image-2129b3fa7cf684ddd3b1246ea89bcfe1.jpg
     </video:thumbnail_loc>
     <video:title>
-      GCR | Fendeavor vs GCR | Neytram, Magna Arena #217 - Sets on Stream
+      FH | Liam0 vs TG2 | Farmer, FightHouse Weeklies #138 - November 11th - Sets on Stream
     </video:title>
     <video:description>
-      Watch GCR | Fendeavor vs GCR | Neytram in Winners Semi-Final of Magna Arena #217, streamed by SmashStrasbourg
+      Watch FH | Liam0 vs TG2 | Farmer in Losers Round 2 of FightHouse Weeklies #138 - November 11th, streamed by FightHouseTV
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=SmashStrasbourg&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2615803261&amp;t=0h56m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>379</video:duration>
-    <video:publication_date>2025-11-11T20:10:59.000Z</video:publication_date>
-    <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2025-11-19T20:10:59.000Z</video:expiration_date>
+    <video:duration>850</video:duration>
+    <video:publication_date>2025-11-11T20:26:39.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-11-19T20:26:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-138-november-11th/set/96147531/</loc>
+  <lastmod>2025-11-11T20:28:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849670/image-2129b3fa7cf684ddd3b1246ea89bcfe1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FH | Bloop! vs QueefSquad | KidNamedFingy, FightHouse Weeklies #138 - November 11th - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FH | Bloop! vs QueefSquad | KidNamedFingy in Losers Round 2 of FightHouse Weeklies #138 - November 11th, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615803261&amp;t=0h46m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>553</video:duration>
+    <video:publication_date>2025-11-11T20:16:44.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-11-19T20:16:44.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-138-november-11th/set/96147533/</loc>
-  <lastmod>2025-11-11T20:07:41.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-11T20:18:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2615803261&amp;t=0h37m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>577</video:duration>
+    <video:duration>503</video:duration>
     <video:publication_date>2025-11-11T20:07:41.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-11-19T20:07:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145919/</loc>
+  <lastmod>2025-11-11T20:32:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850077/image-1da89699e1b86eb94ff3254f3fe9bdc2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bouboune vs PapRika, Magna Arena #217 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bouboune vs PapRika in Losers Round 3 of Magna Arena #217, streamed by kuracow
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615746363&amp;t=1h40m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1746</video:duration>
+    <video:publication_date>2025-11-11T20:00:57.000Z</video:publication_date>
+    <video:uploader>kuracow</video:uploader>
+    <video:expiration_date>2025-11-19T20:00:57.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,78 +71998,6 @@
     <video:publication_date>2025-11-03T04:22:51.000Z</video:publication_date>
     <video:uploader>SoulArts (SoulArtsVGC)</video:uploader>
     <video:expiration_date>2025-11-11T04:22:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95827226/</loc>
-  <lastmod>2025-11-03T04:49:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822447/image-c524b1255ffb0a1f4966b019dae0edd5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ZETA | Gackt vs にょのknb(nyono knb), 篝火#14/KAGARIBI#14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZETA | Gackt vs にょのknb(nyono knb) in Losers Round 3 of 篝火#14/KAGARIBI#14, streamed by vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2608360921&amp;t=3h22m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1620</video:duration>
-    <video:publication_date>2025-11-03T04:20:54.000Z</video:publication_date>
-    <video:uploader>vgbootcamp</video:uploader>
-    <video:expiration_date>2025-11-11T04:20:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95827223/</loc>
-  <lastmod>2025-11-03T04:39:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822447/image-c524b1255ffb0a1f4966b019dae0edd5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      tameigo#OKPG vs くろぽんず(kuroponzu), 篝火#14/KAGARIBI#14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch tameigo#OKPG vs くろぽんず(kuroponzu) in Losers Round 3 of 篝火#14/KAGARIBI#14, streamed by eastgeeksmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2608363142&amp;t=3h16m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1075</video:duration>
-    <video:publication_date>2025-11-03T04:17:29.000Z</video:publication_date>
-    <video:uploader>eastgeeksmash</video:uploader>
-    <video:expiration_date>2025-11-11T04:17:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/14-kagaribi-14-8/set/95827221/</loc>
-  <lastmod>2025-11-03T05:03:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822447/image-c524b1255ffb0a1f4966b019dae0edd5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SBI | KEN vs AREA310 | Shirayuki, 篝火#14/KAGARIBI#14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SBI | KEN vs AREA310 | Shirayuki in Losers Round 3 of 篝火#14/KAGARIBI#14, streamed by eastgeeksmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2608363142&amp;t=3h15m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2729</video:duration>
-    <video:publication_date>2025-11-03T04:16:24.000Z</video:publication_date>
-    <video:uploader>eastgeeksmash</video:uploader>
-    <video:expiration_date>2025-11-11T04:16:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
