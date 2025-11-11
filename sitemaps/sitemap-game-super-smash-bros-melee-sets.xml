@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-32-pixel-perfect/set/96141643/</loc>
-  <lastmod>2025-11-11T06:23:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-32-pixel-perfect/set/96141645/</loc>
+  <lastmod>2025-11-11T06:54:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849912/image-da83232d42873eb88f0b1efb42b84bfa.png
+    </video:thumbnail_loc>
+    <video:title>
+      Glasper vs y-hat, McCloud&apos;s Melee Co. #32: Pixel Perfect - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Glasper vs y-hat in Losers Final of McCloud&apos;s Melee Co. #32: Pixel Perfect, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615279513&amp;t=3h37m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1299</video:duration>
+    <video:publication_date>2025-11-11T06:54:59.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-11-19T06:54:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-32-pixel-perfect/set/96141643/</loc>
+  <lastmod>2025-11-11T07:00:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2615279513&amp;t=3h6m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1665</video:duration>
+    <video:duration>940</video:duration>
     <video:publication_date>2025-11-11T06:23:55.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2025-11-19T06:23:55.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-18T05:09:41.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2025-10-26T05:09:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sc-melee-pleasure-pizza-12/set/95143846/</loc>
-  <lastmod>2025-10-18T05:18:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841290/image-7cedc3572886325299774563a3d042f6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wildo vs Anuar, SC Melee @ Pleasure Pizza 12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wildo vs Anuar in Grand Final of SC Melee @ Pleasure Pizza 12, streamed by cptwoodbeard
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594757446&amp;t=1h12m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>533</video:duration>
-    <video:publication_date>2025-10-18T04:50:05.000Z</video:publication_date>
-    <video:uploader>cptwoodbeard</video:uploader>
-    <video:expiration_date>2025-10-26T04:50:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
