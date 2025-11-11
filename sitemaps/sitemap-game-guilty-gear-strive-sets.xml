@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-fight-night-225/set/96135711/</loc>
+  <lastmod>2025-11-11T02:51:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849842/image-86677eff854c031ff9f774ddf61d9c4b.png
+    </video:thumbnail_loc>
+    <video:title>
+      bird vs CRAB | IceCar78, ESG Fight Night #225 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch bird vs CRAB | IceCar78 in Losers Semi-Final of ESG Fight Night #225, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615102799&amp;t=2h35m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>807</video:duration>
+    <video:publication_date>2025-11-11T02:05:55.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2025-11-19T02:05:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/warring-triad-13/set/96087369/</loc>
   <lastmod>2025-11-09T19:46:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-12T00:38:20.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-10-20T00:38:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-clash-26/set/94953538/</loc>
-  <lastmod>2025-10-12T00:53:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829426/image-9ea75d1df9d8d5bf21535bd96c41556e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Maroons vs SkypeMagic, SoCal Colosseum Clash #26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Maroons vs SkypeMagic in Winners Round 2 of SoCal Colosseum Clash #26, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589480179&amp;t=0h19m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>563</video:duration>
-    <video:publication_date>2025-10-12T00:17:14.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2025-10-20T00:17:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
