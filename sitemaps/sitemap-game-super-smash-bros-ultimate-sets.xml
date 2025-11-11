@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-huh-6/set/96146763/</loc>
-  <lastmod>2025-11-11T18:59:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145858/</loc>
+  <lastmod>2025-11-11T19:15:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850077/image-1da89699e1b86eb94ff3254f3fe9bdc2.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCR | Fendeavor vs GCR | Lydien, Magna Arena #217 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCR | Fendeavor vs GCR | Lydien in Winners Quarter-Final of Magna Arena #217, streamed by kuracow
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2615746363&amp;t=0h54m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>736</video:duration>
+    <video:publication_date>2025-11-11T19:15:09.000Z</video:publication_date>
+    <video:uploader>kuracow</video:uploader>
+    <video:expiration_date>2025-11-19T19:15:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-huh-6/set/96146763/</loc>
+  <lastmod>2025-11-11T19:24:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/thPjx7TwrGY?start=169s
     </video:player_loc>
-    <video:duration>852</video:duration>
+    <video:duration>1221</video:duration>
     <video:publication_date>2025-11-11T18:59:05.000Z</video:publication_date>
     <video:uploader>Smash New Brunswick</video:uploader>
     <video:expiration_date>2025-11-19T18:59:05.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-03T03:51:19.000Z</video:publication_date>
     <video:uploader>East Geek Smash</video:uploader>
     <video:expiration_date>2025-11-11T03:51:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shield-breaker-27-valhallan-esports-the-government-shutdown/set/95820950/</loc>
-  <lastmod>2025-11-03T04:28:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846410/image-6b7e546a1378ce5cdcde2cd66960fa2b.png
-    </video:thumbnail_loc>
-    <video:title>
-      SoulArts vs SBU | Amayne, Shield Breaker #27 @ Valhallan eSports - The Government Shutdown - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SoulArts vs SBU | Amayne in Losers Final of Shield Breaker #27 @ Valhallan eSports - The Government Shutdown, streamed by SoulArts (SoulArtsVGC)
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/fu9fXwOLzSk?start=15673s
-    </video:player_loc>
-    <video:duration>1989</video:duration>
-    <video:publication_date>2025-11-03T03:49:38.000Z</video:publication_date>
-    <video:uploader>SoulArts (SoulArtsVGC)</video:uploader>
-    <video:expiration_date>2025-11-11T03:49:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
