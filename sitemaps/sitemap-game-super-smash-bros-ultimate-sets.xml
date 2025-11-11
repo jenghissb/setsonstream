@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145858/</loc>
-  <lastmod>2025-11-11T19:15:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145861/</loc>
+  <lastmod>2025-11-11T19:25:27.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850077/image-1da89699e1b86eb94ff3254f3fe9bdc2.png
+    </video:thumbnail_loc>
+    <video:title>
+      QG | Pierolym vs GCR | Kader le boucher, Magna Arena #217 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch QG | Pierolym vs GCR | Kader le boucher in Winners Quarter-Final of Magna Arena #217, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=SmashStrasbourg&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>737</video:duration>
+    <video:publication_date>2025-11-11T19:25:27.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-11-19T19:25:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145858/</loc>
+  <lastmod>2025-11-11T19:34:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2615746363&amp;t=0h54m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>736</video:duration>
+    <video:duration>970</video:duration>
     <video:publication_date>2025-11-11T19:15:09.000Z</video:publication_date>
     <video:uploader>kuracow</video:uploader>
     <video:expiration_date>2025-11-19T19:15:09.000Z</video:expiration_date>
