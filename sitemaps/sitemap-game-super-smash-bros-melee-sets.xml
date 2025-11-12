@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-119-honoring-the-crew-of-the-ss-edmund-fitzgerald/set/96164495/</loc>
-  <lastmod>2025-11-12T03:25:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-club-uw-11-11-2025-bad-seeding-our-crops-are-about-to-perish/set/96163218/</loc>
+  <lastmod>2025-11-12T03:50:15.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850337/image-fccdfcc8ed145a234f0775decb6faf83.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Jontae vs UW | DarraHero, Smash Club @ UW 11/11/2025: Bad Seeding, Our Crops Are About to Perish - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jontae vs UW | DarraHero in Winners Round 3 of Smash Club @ UW 11/11/2025: Bad Seeding, Our Crops Are About to Perish, streamed by uwsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2616153395&amp;t=1h7m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>666</video:duration>
+    <video:publication_date>2025-11-12T03:50:15.000Z</video:publication_date>
+    <video:uploader>uwsmash</video:uploader>
+    <video:expiration_date>2025-11-20T03:50:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-119-honoring-the-crew-of-the-ss-edmund-fitzgerald/set/96164495/</loc>
+  <lastmod>2025-11-12T03:54:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2616134911&amp;t=1h6m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1044</video:duration>
+    <video:duration>866</video:duration>
     <video:publication_date>2025-11-12T03:25:37.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-11-20T03:25:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-119-honoring-the-crew-of-the-ss-edmund-fitzgerald/set/96164501/</loc>
-  <lastmod>2025-11-12T03:27:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848916/image-10279b20257c79225a5025841b3b8829.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      rocketf20 vs wang, Melee @ Abbey Tavern #119: Honoring The Crew of the SS Edmund Fitzgerald - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch rocketf20 vs wang in Winners Round 1 of Melee @ Abbey Tavern #119: Honoring The Crew of the SS Edmund Fitzgerald, streamed by sidestream
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=sidestream&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>938</video:duration>
-    <video:publication_date>2025-11-12T03:27:23.000Z</video:publication_date>
-    <video:uploader>sidestream</video:uploader>
-    <video:expiration_date>2025-11-20T03:27:23.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14398,30 +14398,6 @@
     <video:publication_date>2025-10-18T15:15:09.000Z</video:publication_date>
     <video:uploader>TheSuperSamCraft</video:uploader>
     <video:expiration_date>2025-10-26T15:15:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-6-the-last-one-of-the-year/set/95159351/</loc>
-  <lastmod>2025-10-18T14:55:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827890/image-cc0b1212b432cba7eeb47beeb575e947.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mout vs SuperSamCraft, SLAM 6 - The Last One (of the year) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mout vs SuperSamCraft in Round 5 of SLAM 6 - The Last One (of the year), streamed by TheSuperSamCraft
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594966931&amp;t=2h34m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>971</video:duration>
-    <video:publication_date>2025-10-18T14:23:59.000Z</video:publication_date>
-    <video:uploader>TheSuperSamCraft</video:uploader>
-    <video:expiration_date>2025-10-26T14:23:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
