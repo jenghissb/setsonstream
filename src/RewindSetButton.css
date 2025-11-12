@@ -72,14 +72,6 @@
   margin-top: -38px;
 }
 
-
-
-
-.markText {
-
-}
-
-
 .rewindShortButton {
   width: 40px;
   height: 40px;
@@ -97,7 +89,6 @@
     transform: scale(1.12);
   }
 }
-
 
 .rewindShortText {
   top: 18px;

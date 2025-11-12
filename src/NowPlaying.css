@@ -68,12 +68,6 @@
   text-align: start;
 }
 
-.nowPlaying-under-icon-link {
-  /* width: 40px;
-  height: 40px; */
-}
-
-
 .nowPlaying-under-icon {
   width: 40px;
   height: 40px;
@@ -113,7 +107,6 @@
   font-size: 14px;
   text-align: start;
 }
-
 
 .nowPlaying-under-1 {
   padding: 8px;

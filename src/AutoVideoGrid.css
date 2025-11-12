@@ -23,8 +23,3 @@
   flex-wrap: wrap;
   overflow: hidden;
 }
-.setRows-flex::after {
-    /* content: "";
-    flex-grow: 1;
-  flex-basis: 0; */
-}

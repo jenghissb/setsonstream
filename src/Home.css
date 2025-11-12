@@ -38,24 +38,6 @@
   }
 }
 
-/* .roboto-medium {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
-.home2roboto-bold {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-} */
-
 .home2overallDiv {
   width: vw;
   overflow: hidden;
@@ -64,10 +46,6 @@
 
   /* height: calc(100vh); */
   /* over flow: hidden; */
-}
-.home2topContainer {
-  /* position: sticky;
-  top: 20px; */
 }
 
 .home2fullFooter {
@@ -136,40 +114,6 @@
   margin-left: 10px;
 }
 
-.home2set-row-3 {
-}
-.home2set-row-3-flex {
-  flex-grow: 1;
-  flex-shrink: 0;
-  min-width: 320px;
-  max-width: 400px;
-  flex-basis: 0;
-}
-
-.home2set-row-3-flex-small {
-  flex-grow: 1;
-  flex-shrink: 0;
-  min-width: 280px;
-  max-width: 300px;
-  flex-basis: 0;
-}
-
-
-.home2setRows {
-  overflow: hidden;
-}
-
-.home2setRows-flex {
-  display: flex;
-  flex-wrap: wrap;
-  overflow: hidden;
-}
-.home2setRows-flex::after {
-    /* content: "";
-    flex-grow: 1;
-  flex-basis: 0; */
-}
-
 .home2rowPreviewHolder {
   margin-left: -18px;
   margin-right: -18px;
@@ -222,10 +166,6 @@
   flex-shrink: 1;
   overflow-x:hidden;
   align-self: center;
-}
-
-.home2searchOnly {
-
 }
 
 .home2linkRowHolder {
@@ -584,10 +524,6 @@ body {
 .home2LoadingSyle {
   background-color: var(--bg-main);
   margin-top: 20px;
-}
-
-.home2ErrorSyle {
-  
 }
 
 .home2-charemoji {
