@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-179-super-smash-bros-ultmate/set/96174149/</loc>
-  <lastmod>2025-11-12T22:42:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-179-super-smash-bros-ultmate/set/96174148/</loc>
+  <lastmod>2025-11-12T23:01:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850827/image-3d546d26a4b4523ce1922b481cae65e0.png
+    </video:thumbnail_loc>
+    <video:title>
+      PM | Tuxedo vs U-Smash | Stood, NOT DM 179 SUPER SMASH BROS ULTMATE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PM | Tuxedo vs U-Smash | Stood in Winners Round 2 of NOT DM 179 SUPER SMASH BROS ULTMATE, streamed by walito_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2616816167&amp;t=0h59m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>824</video:duration>
+    <video:publication_date>2025-11-12T23:01:45.000Z</video:publication_date>
+    <video:uploader>walito_tv</video:uploader>
+    <video:expiration_date>2025-11-20T23:01:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-179-super-smash-bros-ultmate/set/96174149/</loc>
+  <lastmod>2025-11-12T23:04:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2616816167&amp;t=0h40m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>430</video:duration>
+    <video:duration>1170</video:duration>
     <video:publication_date>2025-11-12T22:42:39.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2025-11-20T22:42:39.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-04T02:26:37.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV</video:uploader>
     <video:expiration_date>2025-11-12T02:26:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/revel-roll-west-219/set/95852500/</loc>
-  <lastmod>2025-11-04T02:46:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845082/image-4cc87f00993574ac785ae357d8496ad3.png
-    </video:thumbnail_loc>
-    <video:title>
-      I can candles | Exodus vs Kaypo, Revel &amp; Roll West #219 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch I can candles | Exodus vs Kaypo in Losers Semi-Final of Revel &amp; Roll West #219, streamed by Lylak_SSB
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2609153416&amp;t=1h46m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>945</video:duration>
-    <video:publication_date>2025-11-04T02:24:56.000Z</video:publication_date>
-    <video:uploader>Lylak_SSB</video:uploader>
-    <video:expiration_date>2025-11-12T02:24:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
