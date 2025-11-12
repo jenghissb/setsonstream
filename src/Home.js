@@ -1,4 +1,4 @@
-import './Home2.css';
+import './Home.css';
 import { useState, useEffect, useMemo, memo, useRef, useCallback, useContext } from 'react';
 import { Helmet } from "react-helmet-async";
 import { LeafMap } from './LeafMapMin.js'
@@ -15,11 +15,11 @@ import { getAnalytics } from "firebase/analytics";
 import brotliModulePromise from 'brotli-dec-wasm';
 import { NowPlaying } from './NowPlaying.js';
 import { SubEmbedControls, SubEmbeds } from './SubEmbedControls.js';
-import { ThemeContext } from './ThemeContext';
-import { useParams, useLocation, Link } from 'react-router-dom';
+import { ThemeContext } from './ThemeContext.js';
+import { useParams, Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
-import Star from "./Star";
-import { HorizontalVirtualList, VirtualList, VideoDataGrid, AutoVideoGrid, VirtualVideoGrid, AdaptiveVirtualVideoGrid, AdaptiveVirtualVideoGrid2 } from './AutoVideoGrid.js';
+import Star from "./Star.js";
+import { HorizontalVirtualList, AdaptiveVirtualVideoGrid2 } from './AutoVideoGrid.js';
 import { renderXButtonTopRight } from './MiscButtons.js'
 
 const OG_THUMB = "https://setsonstream.tv/logoOg.png"

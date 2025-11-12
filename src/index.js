@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route, HashRouter, Outlet, useMatches } from "react-router-dom";
 import { HelmetProvider } from "react-helmet-async";
 import './index.css';
-import Home2, {HomeModes, HomeTypes} from './Home2';
+import Home2, {HomeModes, HomeTypes} from './Home';
 import About from './About';
 import reportWebVitals from './reportWebVitals';
 import AppNavBar from "./AppNavBar";

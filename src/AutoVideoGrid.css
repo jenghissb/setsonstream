@@ -1,0 +1,30 @@
+.set-row-3-flex {
+  flex-grow: 1;
+  flex-shrink: 0;
+  min-width: 320px;
+  max-width: 400px;
+  flex-basis: 0;
+}
+
+.set-row-3-flex-small {
+  flex-grow: 1;
+  flex-shrink: 0;
+  min-width: 280px;
+  max-width: 300px;
+  flex-basis: 0;
+}
+
+.setRows {
+  overflow: hidden;
+}
+
+.setRows-flex {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+.setRows-flex::after {
+    /* content: "";
+    flex-grow: 1;
+  flex-basis: 0; */
+}
