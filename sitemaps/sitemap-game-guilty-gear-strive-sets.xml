@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-83/set/96154495/</loc>
+  <lastmod>2025-11-12T02:42:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849807/image-a7e5a05877011a67c3694e7d7393efb6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cedar vs RtB JKLY | Nightshade, Block String @ Wonderfly #83 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cedar vs RtB JKLY | Nightshade in Losers Semi-Final of Block String @ Wonderfly #83, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2616016774&amp;t=2h14m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1072</video:duration>
+    <video:publication_date>2025-11-12T02:14:58.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2025-11-20T02:14:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-fight-night-225/set/96135711/</loc>
   <lastmod>2025-11-11T02:51:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-12T01:18:36.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-10-20T01:18:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-clash-26/set/94953546/</loc>
-  <lastmod>2025-10-12T01:20:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829426/image-9ea75d1df9d8d5bf21535bd96c41556e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      YoKai | Aloa vs Maroons, SoCal Colosseum Clash #26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch YoKai | Aloa vs Maroons in Winners Round 3 of SoCal Colosseum Clash #26, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589480179&amp;t=0h40m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1835</video:duration>
-    <video:publication_date>2025-10-12T00:38:20.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2025-10-20T00:38:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
