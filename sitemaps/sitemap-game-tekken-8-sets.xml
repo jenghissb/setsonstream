@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-79-norcal-2xko-tekken-8-weekly/set/96164924/</loc>
+  <lastmod>2025-11-12T06:09:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849409/image-10d6c09e2dd40d242f2a18e597fbcd40.png
+    </video:thumbnail_loc>
+    <video:title>
+      Frag | NanditoTheBandito vs AshtonSlayer, Guildhouse Tuesday 79 - Norcal 2XKO &amp; Tekken 8 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Frag | NanditoTheBandito vs AshtonSlayer in Grand Final Reset of Guildhouse Tuesday 79 - Norcal 2XKO &amp; Tekken 8 weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2616201829&amp;t=1h51m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>606</video:duration>
+    <video:publication_date>2025-11-12T05:45:40.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-11-20T05:45:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-79-norcal-2xko-tekken-8-weekly/set/96164938/</loc>
-  <lastmod>2025-11-12T05:16:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-12T05:50:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2616201829&amp;t=1h22m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2032</video:duration>
+    <video:duration>826</video:duration>
     <video:publication_date>2025-11-12T05:16:53.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-11-20T05:16:53.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-21T01:22:27.000Z</video:publication_date>
     <video:uploader>KhanmandoFGC</video:uploader>
     <video:expiration_date>2025-10-29T01:22:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-222/set/95273368/</loc>
-  <lastmod>2025-10-21T00:05:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835019/image-2663fed8149170cd0f9f7a6133c3a318.png
-    </video:thumbnail_loc>
-    <video:title>
-      IndieSmack vs CRAB | ZeperTheStar, ESG Fight Night #222 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch IndieSmack vs CRAB | ZeperTheStar in Round 2 of ESG Fight Night #222, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597143304&amp;t=0h33m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>773</video:duration>
-    <video:publication_date>2025-10-20T23:34:11.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2025-10-28T23:34:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
