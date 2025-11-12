@@ -2,14 +2,11 @@ import React, { useState, useEffect, useContext } from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route, HashRouter, Outlet, useMatches } from "react-router-dom";
 import { HelmetProvider } from "react-helmet-async";
-
 import './index.css';
-import Home from './Home';
 import Home2, {HomeModes, HomeTypes} from './Home2';
 import About from './About';
 import reportWebVitals from './reportWebVitals';
 import AppNavBar from "./AppNavBar";
-import ThreePaneLayout from "./ThreePaneLayout";
 import { FeedbackModal } from "./Feedback";
 import { ThemeContext, ThemeProvider } from './ThemeContext';
 
