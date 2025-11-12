@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-78/set/96166782/</loc>
-  <lastmod>2025-11-12T09:12:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-78/set/96166798/</loc>
+  <lastmod>2025-11-12T09:31:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850398/image-12bc85d46581ef38bf4796cf15890f37.png
+    </video:thumbnail_loc>
+    <video:title>
+      SCHMACK vs cloom | AppleMan, Pincadia Pummel 78 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SCHMACK vs cloom | AppleMan in Losers Quarter-Final of Pincadia Pummel 78, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/xtord9dJ7XY?start=6603s
+    </video:player_loc>
+    <video:duration>640</video:duration>
+    <video:publication_date>2025-11-12T09:31:48.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2025-11-20T09:31:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-pummel-78/set/96166782/</loc>
+  <lastmod>2025-11-12T09:31:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/xtord9dJ7XY?start=5426s
     </video:player_loc>
-    <video:duration>372</video:duration>
+    <video:duration>1079</video:duration>
     <video:publication_date>2025-11-12T09:12:11.000Z</video:publication_date>
     <video:uploader>ScuffedSmashVods</video:uploader>
     <video:expiration_date>2025-11-20T09:12:11.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-04T01:23:02.000Z</video:publication_date>
     <video:uploader>one_up_games</video:uploader>
     <video:expiration_date>2025-11-12T01:23:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/orange-crate-23-spooky-edition/set/95857952/</loc>
-  <lastmod>2025-11-04T01:46:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845932/image-5b0a2e91df8b6bf3c6221e100e2d8c1c.png
-    </video:thumbnail_loc>
-    <video:title>
-      SU | DaDa! vs ethbeast, Orange Crate #23 - SPOOKY EDITION - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SU | DaDa! vs ethbeast in Losers Round 1 of Orange Crate #23 - SPOOKY EDITION, streamed by eightooooooobears
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2609146406&amp;t=0h54m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1059</video:duration>
-    <video:publication_date>2025-11-04T01:22:58.000Z</video:publication_date>
-    <video:uploader>eightooooooobears</video:uploader>
-    <video:expiration_date>2025-11-12T01:22:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
