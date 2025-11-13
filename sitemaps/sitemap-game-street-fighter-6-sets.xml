@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-fighter-6-le-dojo-club-1v1-54/set/96201982/</loc>
+  <lastmod>2025-11-13T21:39:21.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846686/image-4998b8eb85bd1785498dba599fddf60b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Alphen vs MillionsKnives, Street Fighter 6 - LE DOJO CLUB 1V1 #54 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Alphen vs MillionsKnives in Grand Final of Street Fighter 6 - LE DOJO CLUB 1V1 #54, streamed by gl_abou
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617594713&amp;t=0h50m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>623</video:duration>
+    <video:publication_date>2025-11-13T21:39:21.000Z</video:publication_date>
+    <video:uploader>gl_abou</video:uploader>
+    <video:expiration_date>2025-11-21T21:39:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-96/set/96195731/</loc>
   <lastmod>2025-11-13T12:54:43.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-18T22:15:40.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2025-10-26T22:15:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-october-2025/set/95194820/</loc>
-  <lastmod>2025-10-18T22:00:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826286/image-565b8455f3191a37e0aa8d24bd6906ce.png
-    </video:thumbnail_loc>
-    <video:title>
-      bloodfalcn vs The Block | ArmoredDeath, Space City Beatdown - October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bloodfalcn vs The Block | ArmoredDeath in Losers Round 1 of Space City Beatdown - October 2025, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595325812&amp;t=1h34m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>306</video:duration>
-    <video:publication_date>2025-10-18T21:30:59.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2025-10-26T21:30:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
