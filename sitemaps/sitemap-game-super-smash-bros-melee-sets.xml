@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/birdbrained-eavesdrop-brewery/set/96185856/</loc>
+  <lastmod>2025-11-13T04:37:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846427/image-dd9d7faa42405a2e6a0db3cbddd25bd5.png
+    </video:thumbnail_loc>
+    <video:title>
+      SparkinMed vs GLC | DD | GEI | Guru, Birdbrained @ Eavesdrop Brewery - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SparkinMed vs GLC | DD | GEI | Guru in Losers Final of Birdbrained @ Eavesdrop Brewery, streamed by KMLtournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2616932316&amp;t=3h27m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>620</video:duration>
+    <video:publication_date>2025-11-13T04:05:13.000Z</video:publication_date>
+    <video:uploader>KMLtournaments</video:uploader>
+    <video:expiration_date>2025-11-21T04:05:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/birdbrained-eavesdrop-brewery/set/96185726/</loc>
   <lastmod>2025-11-13T03:55:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-18T21:47:33.000Z</video:publication_date>
     <video:uploader>GameUnderground</video:uploader>
     <video:expiration_date>2025-10-26T21:47:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/abq-barfights-27-fairly-oldgamers/set/95185098/</loc>
-  <lastmod>2025-10-18T21:51:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827594/image-bebad261cd34cde0d506a81ddd938a8f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Enkianz vs notPIMP, ABQ Barfights #27 - Fairly OldGamers - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Enkianz vs notPIMP in Losers Semi-Final of ABQ Barfights #27 - Fairly OldGamers, streamed by NMmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595299174&amp;t=1h48m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>721</video:duration>
-    <video:publication_date>2025-10-18T21:12:46.000Z</video:publication_date>
-    <video:uploader>NMmelee</video:uploader>
-    <video:expiration_date>2025-10-26T21:12:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
