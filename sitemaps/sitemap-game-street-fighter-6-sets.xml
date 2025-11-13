@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-96/set/96195619/</loc>
+  <lastmod>2025-11-13T11:10:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850369/image-6178e24cb54216a61d54af4ae79aebfd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Maoh vs チャミさん(chami san), Paradise Cup #96 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Maoh vs チャミさん(chami san) in Round 1 of Paradise Cup #96, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617236331&amp;t=0h8m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>252</video:duration>
+    <video:publication_date>2025-11-13T11:10:41.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2025-11-21T11:10:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-75/set/96160302/</loc>
   <lastmod>2025-11-12T04:44:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-18T20:06:27.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2025-10-26T20:06:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-october-2025/set/95182665/</loc>
-  <lastmod>2025-10-18T20:35:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835631/image-3f48f6c3559564d38de1060367512540.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Buddylikefriend vs Burboovas, All Hands Monthly: October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Buddylikefriend vs Burboovas in Winners Semi-Final of All Hands Monthly: October 2025, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595286608&amp;t=0h49m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>916</video:duration>
-    <video:publication_date>2025-10-18T19:58:57.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-10-26T19:58:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
