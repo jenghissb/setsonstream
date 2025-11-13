@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-138-maesuma-hit-138/set/96195588/</loc>
-  <lastmod>2025-11-13T11:04:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-138-maesuma-hit-138/set/96195587/</loc>
+  <lastmod>2025-11-13T11:24:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845416/image-b456c6ef8e351ea3a20156d2d0bd957d.png
+    </video:thumbnail_loc>
+    <video:title>
+      SOL | らき(SOL | raki) vs Yone_pi, マエスマ&apos;HIT#138 / Maesuma&apos;HIT#138 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SOL | らき(SOL | raki) vs Yone_pi in Winners Semi-Final of マエスマ&apos;HIT#138 / Maesuma&apos;HIT#138, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/kj8Xh-JjJqk?start=5172s
+    </video:player_loc>
+    <video:duration>337</video:duration>
+    <video:publication_date>2025-11-13T11:24:40.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-11-21T11:24:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-138-maesuma-hit-138/set/96195588/</loc>
+  <lastmod>2025-11-13T11:27:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/kj8Xh-JjJqk?start=3980s
     </video:player_loc>
-    <video:duration>605</video:duration>
+    <video:duration>1188</video:duration>
     <video:publication_date>2025-11-13T11:04:48.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-11-21T11:04:48.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-05T04:32:17.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2025-11-13T04:32:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sfu-tuesdays-104/set/95885595/</loc>
-  <lastmod>2025-11-05T04:43:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847533/image-e467fc8f23dee6c130d82ec0b74360bb.png
-    </video:thumbnail_loc>
-    <video:title>
-      BMJ | noah204 vs SFU | Cash, SFU TUESDAYS #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BMJ | noah204 vs SFU | Cash in Losers Final of SFU TUESDAYS #104, streamed by SFUSMASH
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610015193&amp;t=3h15m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>812</video:duration>
-    <video:publication_date>2025-11-05T04:27:49.000Z</video:publication_date>
-    <video:uploader>SFUSMASH</video:uploader>
-    <video:expiration_date>2025-11-13T04:27:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
