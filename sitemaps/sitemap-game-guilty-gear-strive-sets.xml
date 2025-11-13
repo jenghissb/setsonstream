@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-201-norcal-ssbu-ggst-weekly/set/96192081/</loc>
-  <lastmod>2025-11-13T04:34:19.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-201-norcal-ssbu-ggst-weekly/set/96192051/</loc>
+  <lastmod>2025-11-13T04:56:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849410/image-266503a25c3e617e11902924fbff0660.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SJSU | Brone vs FROG | Squid!, Guildhouse Weekly 201 - Norcal SSBU &amp; GGST weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SJSU | Brone vs FROG | Squid! in Grand Final of Guildhouse Weekly 201 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617070048&amp;t=1h15m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1211</video:duration>
+    <video:publication_date>2025-11-13T04:56:18.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-11-21T04:56:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-201-norcal-ssbu-ggst-weekly/set/96192081/</loc>
+  <lastmod>2025-11-13T05:03:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617070048&amp;t=0h53m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1110</video:duration>
+    <video:duration>650</video:duration>
     <video:publication_date>2025-11-13T04:34:19.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-11-21T04:34:19.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-18T02:31:42.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-10-26T02:31:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-14/set/95134111/</loc>
-  <lastmod>2025-10-18T02:41:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840100/image-bb28d55d7d259ae7d56c0a12869447a7.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Cat vs Magic, 4o4 by Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cat vs Magic in Losers Quarter-Final of 4o4 by Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2594594737&amp;t=1h58m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>518</video:duration>
-    <video:publication_date>2025-10-18T02:06:07.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2025-10-26T02:06:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
