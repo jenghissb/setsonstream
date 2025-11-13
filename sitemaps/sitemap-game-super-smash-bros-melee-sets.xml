@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-167-one-sigh-six-seven/set/96191533/</loc>
+  <lastmod>2025-11-13T06:18:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851147/image-88d28a14d5f424529978c27480588324.png
+    </video:thumbnail_loc>
+    <video:title>
+      AP vs Sprite | Jiffy, Adam&apos;s Smash Series #167 : One... Sigh... Six Seven - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AP vs Sprite | Jiffy in Losers Semi-Final of Adam&apos;s Smash Series #167 : One... Sigh... Six Seven, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617052543&amp;t=2h39m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>569</video:duration>
+    <video:publication_date>2025-11-13T05:51:36.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2025-11-21T05:51:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-167-one-sigh-six-seven/set/96191406/</loc>
-  <lastmod>2025-11-13T05:35:31.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-13T06:00:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617052543&amp;t=2h22m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>946</video:duration>
+    <video:duration>802</video:duration>
     <video:publication_date>2025-11-13T05:35:31.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2025-11-21T05:35:31.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-18T22:02:14.000Z</video:publication_date>
     <video:uploader>GameUnderground</video:uploader>
     <video:expiration_date>2025-10-26T22:02:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-01/set/95174631/</loc>
-  <lastmod>2025-10-18T22:17:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828987/image-f11b121666ed52d220fdea8da0515044.png
-    </video:thumbnail_loc>
-    <video:title>
-      OBR | Madness vs Famelee | Fecfec, THE CRT: S04 EP #01 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OBR | Madness vs Famelee | Fecfec in Grand Final of THE CRT: S04 EP #01, streamed by kapa_team
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595200407&amp;t=4h14m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>767</video:duration>
-    <video:publication_date>2025-10-18T21:47:36.000Z</video:publication_date>
-    <video:uploader>kapa_team</video:uploader>
-    <video:expiration_date>2025-10-26T21:47:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
