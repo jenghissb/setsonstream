@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-96/set/96195731/</loc>
+  <lastmod>2025-11-13T12:54:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850369/image-6178e24cb54216a61d54af4ae79aebfd.png
+    </video:thumbnail_loc>
+    <video:title>
+      むにじゅ(muniju) vs Chelsea, Paradise Cup #96 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch むにじゅ(muniju) vs Chelsea in Semi-Final of Paradise Cup #96, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617236331&amp;t=1h25m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>605</video:duration>
+    <video:publication_date>2025-11-13T12:27:51.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2025-11-21T12:27:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-96/set/96195730/</loc>
-  <lastmod>2025-11-13T12:18:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-13T12:38:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617236331&amp;t=1h15m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>919</video:duration>
+    <video:duration>561</video:duration>
     <video:publication_date>2025-11-13T12:18:14.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2025-11-21T12:18:14.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-18T21:30:59.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2025-10-26T21:30:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-october-2025/set/95182666/</loc>
-  <lastmod>2025-10-18T21:32:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835631/image-3f48f6c3559564d38de1060367512540.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4 | Musa vs Buddylikefriend, All Hands Monthly: October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4 | Musa vs Buddylikefriend in Winners Final of All Hands Monthly: October 2025, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595286608&amp;t=1h51m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1021</video:duration>
-    <video:publication_date>2025-10-18T21:00:45.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-10-26T21:00:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
