@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-190-norcal-street-fighter-6-weekly/set/96231473/</loc>
-  <lastmod>2025-11-14T04:24:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-190-norcal-street-fighter-6-weekly/set/96231474/</loc>
+  <lastmod>2025-11-14T04:49:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849653/image-ae1aef583066f280b0156823742271da.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | quiksilver vs FitS | SlyCoco, Guildhouse Fighters 190 - Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | quiksilver vs FitS | SlyCoco in Winners Quarter-Final of Guildhouse Fighters 190 - Norcal Street Fighter 6 weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617901153&amp;t=1h8m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1589</video:duration>
+    <video:publication_date>2025-11-14T04:49:33.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2025-11-22T04:49:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-190-norcal-street-fighter-6-weekly/set/96231473/</loc>
+  <lastmod>2025-11-14T04:56:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617901153&amp;t=0h44m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1624</video:duration>
+    <video:duration>455</video:duration>
     <video:publication_date>2025-11-14T04:24:47.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-11-22T04:24:47.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-18T23:11:29.000Z</video:publication_date>
     <video:uploader>Oakcityesports</video:uploader>
     <video:expiration_date>2025-10-26T23:11:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/saucy-saturday-80-sf6/set/95201765/</loc>
-  <lastmod>2025-10-18T23:18:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839817/image-e4adf1859ec945311b06da9544ff4610.png
-    </video:thumbnail_loc>
-    <video:title>
-      FinalBird vs Konk, Saucy Saturday #80 (SF6) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FinalBird vs Konk in Losers Round 3 of Saucy Saturday #80 (SF6), streamed by UGK4LIFE
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595429231&amp;t=0h30m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>389</video:duration>
-    <video:publication_date>2025-10-18T22:44:45.000Z</video:publication_date>
-    <video:uploader>UGK4LIFE</video:uploader>
-    <video:expiration_date>2025-10-26T22:44:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
