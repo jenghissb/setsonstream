@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-14-11-2025/set/96234758/</loc>
+  <lastmod>2025-11-14T16:09:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850842/image-fb1a0b243df4eb070debd53c1d70c6ce.png
+    </video:thumbnail_loc>
+    <video:title>
+      S1G | GarBel vs Zakream, CitiSmash 14/11/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch S1G | GarBel vs Zakream in Winners Round 2 of CitiSmash 14/11/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618223077&amp;t=0h25m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>614</video:duration>
+    <video:publication_date>2025-11-14T16:09:59.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-11-22T16:09:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-112-1/set/96233983/</loc>
   <lastmod>2025-11-14T13:23:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-06T19:46:29.000Z</video:publication_date>
     <video:uploader>smashalezmtp</video:uploader>
     <video:expiration_date>2025-11-14T19:46:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/saucismash-ng-238-la-100-me-au-puzzle-inn/set/95926635/</loc>
-  <lastmod>2025-11-06T20:00:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847137/image-c8501ac2d0b335f388e69534be5eac3d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Marvin vs DC | Sapinos, Saucismash[NG+] #238 - La 100ème au Puzzle Inn - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Marvin vs DC | Sapinos in Winners Round 3 of Saucismash[NG+] #238 - La 100ème au Puzzle Inn, streamed by Voltar_11
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2611365545&amp;t=1h29m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>550</video:duration>
-    <video:publication_date>2025-11-06T19:46:17.000Z</video:publication_date>
-    <video:uploader>Voltar_11</video:uploader>
-    <video:expiration_date>2025-11-14T19:46:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
