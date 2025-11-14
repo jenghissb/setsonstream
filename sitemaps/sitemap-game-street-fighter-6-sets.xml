@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rider-esports-resort-5/set/96251792/</loc>
+  <lastmod>2025-11-14T23:14:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850135/image-fdafc8faff164931c096a5d01f03745f.png
+    </video:thumbnail_loc>
+    <video:title>
+      EMPR | Bjr vs Stressedin, Rider Esports Resort #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EMPR | Bjr vs Stressedin in Winners Semi-Final of Rider Esports Resort #5, streamed by rideruniversity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618535320&amp;t=0h45m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>973</video:duration>
+    <video:publication_date>2025-11-14T23:14:52.000Z</video:publication_date>
+    <video:uploader>rideruniversity</video:uploader>
+    <video:expiration_date>2025-11-22T23:14:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-190-norcal-street-fighter-6-weekly/set/96231481/</loc>
   <lastmod>2025-11-14T06:59:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-19T00:57:36.000Z</video:publication_date>
     <video:uploader>omnitournaments</video:uploader>
     <video:expiration_date>2025-10-27T00:57:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/crucible-clash-1/set/95211665/</loc>
-  <lastmod>2025-10-19T00:59:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838243/image-f1642e0f05d717713c5411a22884075f.png
-    </video:thumbnail_loc>
-    <video:title>
-      ISTEALPS5/BIA | inMurphWeTrust vs SeaCaveArcade | Savion, Crucible Clash #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ISTEALPS5/BIA | inMurphWeTrust vs SeaCaveArcade | Savion in Losers Quarter-Final of Crucible Clash #1, streamed by omnitournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595300034&amp;t=5h8m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>285</video:duration>
-    <video:publication_date>2025-10-19T00:34:00.000Z</video:publication_date>
-    <video:uploader>omnitournaments</video:uploader>
-    <video:expiration_date>2025-10-27T00:34:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
