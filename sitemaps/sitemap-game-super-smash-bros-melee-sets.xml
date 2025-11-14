@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-123-1/set/96230421/</loc>
+  <lastmod>2025-11-14T03:21:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850793/image-2cd1dfc2bb54366d290637b3e4a7e0d1.png
+    </video:thumbnail_loc>
+    <video:title>
+      OBE | Haiku vs EEPY | The Fibbler, Rage Against the CRT #123 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OBE | Haiku vs EEPY | The Fibbler in Winners Round 1 of Rage Against the CRT #123, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617879950&amp;t=0h14m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1313</video:duration>
+    <video:publication_date>2025-11-14T03:21:48.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2025-11-22T03:21:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-eldritch-blast/set/96215687/</loc>
   <lastmod>2025-11-14T01:52:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -18,40 +42,64 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=revelstny&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3514</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2025-11-14T01:52:53.000Z</video:publication_date>
     <video:uploader>revelstny</video:uploader>
     <video:expiration_date>2025-11-22T01:52:53.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-4/set/96219936/</loc>
-  <lastmod>2025-11-14T02:16:41.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-197/set/96228467/</loc>
+  <lastmod>2025-11-14T03:26:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851667/image-b7df9dc961d54a5abf37a996aebf5563.png
+      https://images.start.gg/images/tournament/851379/image-7f7465bcafee1c3067fbe71fff99efde.png
     </video:thumbnail_loc>
     <video:title>
-      toontown veteran vs HoG | Lati, HoG: Phoenix 9.4 - Sets on Stream
+      GrayCode vs ! | robbie, DMGC Smash Bros Local #197 - Sets on Stream
     </video:title>
     <video:description>
-      Watch toontown veteran vs HoG | Lati in Losers Final of HoG: Phoenix 9.4, streamed by hog_ct
+      Watch GrayCode vs ! | robbie in Losers Semi-Final of DMGC Smash Bros Local #197, streamed by gray_code
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2617753155&amp;t=1h50m59s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2617830609&amp;t=0h46m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2086</video:duration>
-    <video:publication_date>2025-11-14T02:16:41.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-22T02:16:41.000Z</video:expiration_date>
+    <video:duration>1086</video:duration>
+    <video:publication_date>2025-11-14T02:47:36.000Z</video:publication_date>
+    <video:uploader>gray_code</video:uploader>
+    <video:expiration_date>2025-11-22T02:47:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-288/set/96222986/</loc>
+  <lastmod>2025-11-14T03:26:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851732/image-4af3eb3ecf3e62a214d5ddc29bcfc134.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fifi vs BloNo | Flyguy, Illinois State Smash Weekly #288 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fifi vs BloNo | Flyguy in Grand Final Reset of Illinois State Smash Weekly #288, streamed by isu_smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617750683&amp;t=2h22m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1052</video:duration>
+    <video:publication_date>2025-11-14T02:44:36.000Z</video:publication_date>
+    <video:uploader>isu_smash</video:uploader>
+    <video:expiration_date>2025-11-22T02:44:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-288/set/96223016/</loc>
-  <lastmod>2025-11-14T02:19:07.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-14T02:55:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +114,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617750683&amp;t=1h56m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1940</video:duration>
+    <video:duration>585</video:duration>
     <video:publication_date>2025-11-14T02:19:07.000Z</video:publication_date>
     <video:uploader>isu_smash</video:uploader>
     <video:expiration_date>2025-11-22T02:19:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-4/set/96219936/</loc>
+  <lastmod>2025-11-14T02:55:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851667/image-b7df9dc961d54a5abf37a996aebf5563.png
+    </video:thumbnail_loc>
+    <video:title>
+      toontown veteran vs HoG | Lati, HoG: Phoenix 9.4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch toontown veteran vs HoG | Lati in Losers Final of HoG: Phoenix 9.4, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617753155&amp;t=1h50m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1012</video:duration>
+    <video:publication_date>2025-11-14T02:16:41.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-11-22T02:16:41.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,78 +14422,6 @@
     <video:publication_date>2025-10-19T02:52:41.000Z</video:publication_date>
     <video:uploader>questagg</video:uploader>
     <video:expiration_date>2025-10-27T02:52:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/blast-zone-191/set/95219912/</loc>
-  <lastmod>2025-10-19T03:45:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      GG93 vs EyeQuill, Blast Zone #191 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GG93 vs EyeQuill in Losers Quarter-Final of Blast Zone #191, streamed by smashboundgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595475940&amp;t=3h26m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3223</video:duration>
-    <video:publication_date>2025-10-19T02:45:48.000Z</video:publication_date>
-    <video:uploader>smashboundgg</video:uploader>
-    <video:expiration_date>2025-10-27T02:45:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/q-house-2-year-anniversary/set/95219009/</loc>
-  <lastmod>2025-10-19T03:05:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841783/image-2b5496c85aed2a22bfbbd9885b2b450e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ismon vs Steinbreezy, Q House 2 Year Anniversary - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ismon vs Steinbreezy in Winners Quarter-Final of Q House 2 Year Anniversary, streamed by questagg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595575423&amp;t=1h6m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1218</video:duration>
-    <video:publication_date>2025-10-19T02:38:45.000Z</video:publication_date>
-    <video:uploader>questagg</video:uploader>
-    <video:expiration_date>2025-10-27T02:38:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/portland-retro-gaming-expo-2025-super-smash-bros-melee/set/95216083/</loc>
-  <lastmod>2025-10-19T02:43:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827909/image-47339dd96ee4545fd2c7efbbdcac29a6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Jiffy | Yamasaki vs Sandy, Portland Retro Gaming Expo 2025 Super Smash Bros. Melee - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jiffy | Yamasaki vs Sandy in Losers Round 4 of Portland Retro Gaming Expo 2025 Super Smash Bros. Melee, streamed by Satellitesmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595193367&amp;t=8h55m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1098</video:duration>
-    <video:publication_date>2025-10-19T02:19:46.000Z</video:publication_date>
-    <video:uploader>Satellitesmash</video:uploader>
-    <video:expiration_date>2025-10-27T02:19:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
