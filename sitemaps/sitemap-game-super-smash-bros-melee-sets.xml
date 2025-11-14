@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-123-1/set/96230433/</loc>
-  <lastmod>2025-11-14T03:52:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-123-1/set/96230435/</loc>
+  <lastmod>2025-11-14T04:10:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850793/image-2cd1dfc2bb54366d290637b3e4a7e0d1.png
+    </video:thumbnail_loc>
+    <video:title>
+      OBE | chopped snake vs GS | SubTails, Rage Against the CRT #123 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OBE | chopped snake vs GS | SubTails in Winners Quarter-Final of Rage Against the CRT #123, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617879950&amp;t=1h2m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1572</video:duration>
+    <video:publication_date>2025-11-14T04:10:12.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2025-11-22T04:10:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-123-1/set/96230433/</loc>
+  <lastmod>2025-11-14T04:22:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617879950&amp;t=0h44m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>599</video:duration>
+    <video:duration>533</video:duration>
     <video:publication_date>2025-11-14T03:52:02.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-11-22T03:52:02.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-19T03:09:37.000Z</video:publication_date>
     <video:uploader>questagg</video:uploader>
     <video:expiration_date>2025-10-27T03:09:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/new-horizon-2-28/set/95222689/</loc>
-  <lastmod>2025-10-19T03:26:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842161/image-1081c656ec460d2e9ff12f6333533a9d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hexis vs Joy, New Horizon 2.28 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hexis vs Joy in Winners Quarter-Final of New Horizon 2.28, streamed by Okayp_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595633086&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>984</video:duration>
-    <video:publication_date>2025-10-19T02:54:00.000Z</video:publication_date>
-    <video:uploader>Okayp_</video:uploader>
-    <video:expiration_date>2025-10-27T02:54:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

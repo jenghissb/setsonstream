@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heat-advisory/set/96224783/</loc>
-  <lastmod>2025-11-14T03:50:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/jaxsmash-weekly-leaderboard-11-13-25/set/96224377/</loc>
+  <lastmod>2025-11-14T04:13:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851722/image-0491e4ce72995473bb364795d1ebdeea.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dinosnores_lol vs Lumen, JaxSmash Weekly @ Leaderboard 11/13/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dinosnores_lol vs Lumen in Losers Final of JaxSmash Weekly @ Leaderboard 11/13/25, streamed by collisionseriestv2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2617788836&amp;t=3h5m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1351</video:duration>
+    <video:publication_date>2025-11-14T04:13:53.000Z</video:publication_date>
+    <video:uploader>collisionseriestv2</video:uploader>
+    <video:expiration_date>2025-11-22T04:13:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heat-advisory/set/96224783/</loc>
+  <lastmod>2025-11-14T04:18:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617782111&amp;t=2h49m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>715</video:duration>
+    <video:duration>763</video:duration>
     <video:publication_date>2025-11-14T03:50:06.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-11-22T03:50:06.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-12/set/96230599/</loc>
-  <lastmod>2025-11-14T03:38:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-14T04:18:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2617786312&amp;t=2h32m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1432</video:duration>
+    <video:duration>846</video:duration>
     <video:publication_date>2025-11-14T03:38:09.000Z</video:publication_date>
     <video:uploader>PenguinosBC</video:uploader>
     <video:expiration_date>2025-11-22T03:38:09.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-19T22:08:58.000Z</video:publication_date>
     <video:uploader>Muravi</video:uploader>
     <video:expiration_date>2025-10-27T22:08:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/muravi-games-house-of-aether-bi-weeklies-2/set/95244930/</loc>
-  <lastmod>2025-10-19T22:19:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837435/image-d5cb01630d48404d15cf7e583fd44a49.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MR | Tabian vs XG | Conde, Muravi Games: House of Aether Bi-Weeklies #2! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MR | Tabian vs XG | Conde in Losers Semi-Final of Muravi Games: House of Aether Bi-Weeklies #2!, streamed by Muravi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596211341&amp;t=2h1m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1408</video:duration>
-    <video:publication_date>2025-10-19T21:37:09.000Z</video:publication_date>
-    <video:uploader>Muravi</video:uploader>
-    <video:expiration_date>2025-10-27T21:37:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
