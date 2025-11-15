@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-17/set/96268210/</loc>
-  <lastmod>2025-11-15T02:13:45.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/flynn-s-arcade-181/set/96275425/</loc>
+  <lastmod>2025-11-15T03:04:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850323/image-0689d8306cc234518d05fa45fa39c219.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Z_Guy vs Rockbrauni-Br, Flynn&apos;s Arcade 181 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Z_Guy vs Rockbrauni-Br in Winners Semi-Final of Flynn&apos;s Arcade 181, streamed by flynnsgamingfl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618749968&amp;t=0h15m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1640</video:duration>
+    <video:publication_date>2025-11-15T03:04:10.000Z</video:publication_date>
+    <video:uploader>flynnsgamingfl</video:uploader>
+    <video:expiration_date>2025-11-23T03:04:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-17/set/96268210/</loc>
+  <lastmod>2025-11-15T03:06:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2618697319&amp;t=0h28m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1856</video:duration>
+    <video:duration>681</video:duration>
     <video:publication_date>2025-11-15T02:13:45.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-11-23T02:13:45.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-18T21:24:30.000Z</video:publication_date>
     <video:uploader>Oakcityesports</video:uploader>
     <video:expiration_date>2025-10-26T21:24:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-force-1/set/95190891/</loc>
-  <lastmod>2025-10-18T21:56:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839458/image-6ab236ac60acd12756aa4d33f8e88664.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      iR3mmy vs Fizzie18, Fight Force 1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch iR3mmy vs Fizzie18 in Losers Quarter-Final of Fight Force 1, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595121909&amp;t=5h24m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>590</video:duration>
-    <video:publication_date>2025-10-18T21:17:22.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2025-10-26T21:17:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

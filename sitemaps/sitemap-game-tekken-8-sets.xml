@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-181/set/96275790/</loc>
+  <lastmod>2025-11-15T03:20:42.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850323/image-0689d8306cc234518d05fa45fa39c219.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MCV vs ArmoredPenguin, Flynn&apos;s Arcade 181 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MCV vs ArmoredPenguin in Losers Quarter-Final of Flynn&apos;s Arcade 181, streamed by flynnsarcadefl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618752876&amp;t=0h27m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>648</video:duration>
+    <video:publication_date>2025-11-15T03:20:42.000Z</video:publication_date>
+    <video:uploader>flynnsarcadefl</video:uploader>
+    <video:expiration_date>2025-11-23T03:20:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-23/set/96201189/</loc>
   <lastmod>2025-11-13T22:49:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-22T05:39:59.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-30T05:39:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-77-norcal-2xko-tekken-8-weekly/set/95309918/</loc>
-  <lastmod>2025-10-22T05:45:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841680/image-82b508eff2a7cf7e5c55a7f716a7245f.png
-    </video:thumbnail_loc>
-    <video:title>
-      MADHouse | Dharc vs MADHouse | Tundra, Guildhouse Tuesday 77 - Norcal 2XKO &amp; Tekken 8 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MADHouse | Dharc vs MADHouse | Tundra in Grand Final of Guildhouse Tuesday 77 - Norcal 2XKO &amp; Tekken 8 weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598149210&amp;t=2h20m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1197</video:duration>
-    <video:publication_date>2025-10-22T05:19:48.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-10-30T05:19:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

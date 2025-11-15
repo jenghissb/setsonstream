@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-205/set/96258976/</loc>
-  <lastmod>2025-11-15T01:21:38.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850603/image-0ba3324083d04b282b4f9cae2a179e58.png
-    </video:thumbnail_loc>
-    <video:title>
-      Maya Papaya vs AUNTIE WOW | bleop, Smash Night at Prodigy #205 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Maya Papaya vs AUNTIE WOW | bleop in Losers Semi-Final of Smash Night at Prodigy #205, streamed by cg_conduitgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2618608714&amp;t=1h21m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-11-15T01:21:38.000Z</video:publication_date>
-    <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2025-11-23T01:21:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tripoint-304/set/96267261/</loc>
-  <lastmod>2025-11-15T01:24:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-15T02:59:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2618658398&amp;t=0h25m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
+    <video:duration>603</video:duration>
     <video:publication_date>2025-11-15T01:24:08.000Z</video:publication_date>
     <video:uploader>ugsgaming2</video:uploader>
     <video:expiration_date>2025-11-23T01:24:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-205/set/96258976/</loc>
+  <lastmod>2025-11-15T02:59:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850603/image-0ba3324083d04b282b4f9cae2a179e58.png
+    </video:thumbnail_loc>
+    <video:title>
+      Maya Papaya vs AUNTIE WOW | bleop, Smash Night at Prodigy #205 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Maya Papaya vs AUNTIE WOW | bleop in Losers Semi-Final of Smash Night at Prodigy #205, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618608714&amp;t=1h21m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>450</video:duration>
+    <video:publication_date>2025-11-15T01:21:38.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2025-11-23T01:21:38.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
