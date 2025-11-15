@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306484/</loc>
-  <lastmod>2025-11-15T14:59:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306496/</loc>
+  <lastmod>2025-11-15T15:29:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/786810/image-8536df6ae5258db95350b0076eed8f7d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zeke vs TS | Silly Puppy, Drowning Pools 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zeke vs TS | Silly Puppy in Losers Round 1 of Drowning Pools 2025, streamed by MerseysideFGC2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619037817&amp;t=2h56m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>755</video:duration>
+    <video:publication_date>2025-11-15T15:29:09.000Z</video:publication_date>
+    <video:uploader>MerseysideFGC2</video:uploader>
+    <video:expiration_date>2025-11-23T15:29:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306484/</loc>
+  <lastmod>2025-11-15T15:36:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619037817&amp;t=2h26m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1880</video:duration>
+    <video:duration>879</video:duration>
     <video:publication_date>2025-11-15T14:59:04.000Z</video:publication_date>
     <video:uploader>MerseysideFGC2</video:uploader>
     <video:expiration_date>2025-11-23T14:59:04.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-14T00:12:59.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-09-22T00:12:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-september-2025/set/93872680/</loc>
-  <lastmod>2025-09-14T00:52:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816995/image-5f0721cb2a28869170effbea16abdce3.png
-    </video:thumbnail_loc>
-    <video:title>
-      TILIN | yolksoup vs TILIN | Iago Garaitz, Astral Beatdown September 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TILIN | yolksoup vs TILIN | Iago Garaitz in Losers Round 1 of Astral Beatdown September 2025, streamed by norcalgranblue
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565761179&amp;t=2h47m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1755</video:duration>
-    <video:publication_date>2025-09-14T00:06:04.000Z</video:publication_date>
-    <video:uploader>norcalgranblue</video:uploader>
-    <video:expiration_date>2025-09-22T00:06:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
