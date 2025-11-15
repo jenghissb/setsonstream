@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/heat-wave-8-1/set/96344147/</loc>
-  <lastmod>2025-11-15T21:57:16.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-67/set/96349396/</loc>
+  <lastmod>2025-11-15T22:40:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842093/image-ee05a46cde80f3b35d710b15a8decfb9.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bone Figure vs Zee, NYC Tekken Monthly #67 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bone Figure vs Zee in Winners Round 2 of NYC Tekken Monthly #67, streamed by nyctekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619471064&amp;t=0h38m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>564</video:duration>
+    <video:publication_date>2025-11-15T22:40:19.000Z</video:publication_date>
+    <video:uploader>nyctekken</video:uploader>
+    <video:expiration_date>2025-11-23T22:40:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/heat-wave-8-1/set/96344147/</loc>
+  <lastmod>2025-11-15T22:43:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619279234&amp;t=3h41m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2633</video:duration>
+    <video:duration>752</video:duration>
     <video:publication_date>2025-11-15T21:57:16.000Z</video:publication_date>
     <video:uploader>Level1_TV</video:uploader>
     <video:expiration_date>2025-11-23T21:57:16.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-25T18:30:52.000Z</video:publication_date>
     <video:uploader>CROSSOVER_GG</video:uploader>
     <video:expiration_date>2025-11-02T18:30:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-october-2025/set/95457626/</loc>
-  <lastmod>2025-10-25T18:36:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831482/image-45b1ad77bc8b57905b21c2ed8b93fa5d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Falcon | Tetsu vs Sephiblack, Vermilion Gates October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Falcon | Tetsu vs Sephiblack in Winners Semi-Final of Vermilion Gates October 2025, streamed by CROSSOVER_GG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600989077&amp;t=3h42m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>594</video:duration>
-    <video:publication_date>2025-10-25T18:02:17.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_GG</video:uploader>
-    <video:expiration_date>2025-11-02T18:02:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
