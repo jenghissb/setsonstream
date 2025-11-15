@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+h1 {
+  margin: 0;
+  padding: 0;
+  margin-inline-start: 0 !important; 
+  margin-inline-end: 0 !important; 
+  margin-block-end: 0 !important;
+  margin-block-start: 0 !important;
+}
+
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -373,11 +382,11 @@ body {
 }
 
 .home2RouteRow {
-  margin-left: 8px;
-  margin-right: 4px;
-  margin-top: 8px;
-  margin-bottom: 8px;
-  height: 32px;
+  margin-left: 8px !important;
+  margin-right: 4px !important;
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+  height: 32px !important;
   /* height: 32px; */
   display: flex;
   flex-direction: row;
@@ -474,6 +483,7 @@ body {
 }
 
 .home2RouteGameIcon {
+  display: flex;
   height: 32px;
   width: 24px;
   align-self: center;
@@ -509,7 +519,8 @@ body {
 }
 
 .home2DotStyle {
-  font-size: 24px;
+  font-size: 24px !important;
+  font-weight: 400;
   color: var(--text-main-color-subdue-2);
   margin-left:4px;
   margin-right:4px;
@@ -527,12 +538,14 @@ body {
 }
 
 .home2-charemoji {
+  display:flex;
   height: 26px;
   width: 26px;
   margin-right: -6px;
 }
 
 .home2-charemojimatches {
+  display:flex;
   height: 26px;
   width: 26px;
   /* margin-left: -6px; */
@@ -541,6 +554,7 @@ body {
   box-shadow: 0px 0px 30px 2px rgb(170 255 255 / 0.8);
 }
 .home2-schuemoji {
+  display:flex;
   height: 26px;
   width: 26px;
   /* margin-left: -6px; */

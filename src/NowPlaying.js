@@ -125,14 +125,18 @@ export const NowPlaying = memo(({isHeader, minimal, extraOnSide, showExtra=true,
   const charString1WithParen = charArr1 != null && charArr1.length > 0 ? ` (${charArr1.join(", ")})` : ""
   const charArr2 = item.player2Info.charInfo?.map((item, index) => item.name)
   const charString2WithParen = charArr2 != null && charArr2.length > 0 ? ` (${charArr2.join(", ")})` : ""
+  const headerContents = <>{player1LinkElem} {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span>{player2LinkElem} {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}</>
   const ariaText = `${item.player1Info.nameWithRomaji}${charString1WithParen} vs ${item.player2Info.nameWithRomaji}${charString2WithParen}`
   return (
     <div className="nowPlayingRow" style={backgroundImageStyle}>
     <div className="nowPlaying-under-row" style={extraInCol ? {paddingBottom: "0px"} : {}}>
       <div className="nowPlaying-under-info" style={extraInCol ? {paddingBottom: "0px"} : {}}>
-        <h1 className="nowPlaying-set-row-4" aria-label={ariaText}>
-          {player1LinkElem} {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span>{player2LinkElem} {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
-        </h1>
+        {isHeader ? <h1 className="nowPlaying-set-row-4" aria-label={ariaText}>
+          {headerContents}
+        </h1> : <div className="nowPlaying-set-row-4" aria-label={ariaText}>
+          {headerContents}
+        </div>
+        }
         {RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, handlePlayPause, rewindReady})}
         <div className="nowPlaying-other-under-row">
           <Link className="nowPlaying-under-icon-link" to={channelLink} aria-label={`channel ${streamName}`}>{streamIcon && streamIcon.length > 0 && <img className="nowPlaying-under-icon" src={streamIcon}/>}</Link>

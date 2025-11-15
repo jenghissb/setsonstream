@@ -1892,7 +1892,7 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       supportsStar = true
       break;
     case HomeTypes.HOME:
-      routeText = "Home  "
+      routeText = "Home"
       title = `Home - Sets on Stream`
       description = `Watch live and recent matches from fighting game tournaments: Smash Ultimate, SF6, Rivals 2, Tekken 8, and more.`
       supportsStar = false
@@ -1948,7 +1948,8 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       keywords = `${player1Name}, ${player2Name} ${player1Slug}, ${player2Slug}, ${tourneyName}, ${tourneySlug}, ${channelName}, ${setId}, ${charKeywordStrs}${keywords}`
     }
   }
-  return <div className="home2RouteRow">
+  const useH1 = setParam == null
+  const innerContents = <>
     <Helmet key={`${homeType}_${routeText}`}>
       <title>{title}</title>
       <meta name="description" content={description} key="description"/>
@@ -1962,7 +1963,6 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       {useVideoTags && <meta property="og:video:height" content="720" data-rh="true"/>}
       {useVideoTags && <meta property="og:image" content={ogVideoThumb} data-rh="true"/>}
       {!useVideoTags && <meta property="og:image" content={OG_THUMB} data-rh="true"/>}
-
     </Helmet>
     <Link className="home2RouteHomeIcon" to={`/`} aria-label="Home">{renderHomeIcon({width:"100%", height: "100%"})}</Link>
     {gameParam && gameId && <div className="home2DotStyle">•</div>}
@@ -1977,6 +1977,11 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
     </div>}
     {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && charInfo && charEmojis(charInfo, gameId, "play1_")}
     {supportsStar && <div className="home2RouteStarIcon"><Star ariaLabel={isFavorite ? "Remove from favorites" : "Favorite for later"} ariaPressed={isFavorite} filled={isFavorite} onToggle={() => onFavorite(routeInfo)} /></div>}
+  </>
+  return useH1 ? <h1 className="home2RouteRow" aria-text={routeText}>
+    {innerContents}
+  </h1> : <div className="home2RouteRow">
+    {innerContents}
   </div>
 }
 
