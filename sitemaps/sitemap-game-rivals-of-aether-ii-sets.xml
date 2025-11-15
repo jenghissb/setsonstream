@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heat-wave-8-1/set/96339885/</loc>
-  <lastmod>2025-11-15T21:06:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96342381/</loc>
+  <lastmod>2025-11-15T21:36:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/814277/image-393bbe57693e60c72bd944bc4f9a929e.png
+    </video:thumbnail_loc>
+    <video:title>
+      VR | Narwhal vs Strong ARMy | Goated, SOAR 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VR | Narwhal vs Strong ARMy | Goated in Losers Round 2 of SOAR 2, streamed by SpiralMedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619351391&amp;t=1h56m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>822</video:duration>
+    <video:publication_date>2025-11-15T21:36:04.000Z</video:publication_date>
+    <video:uploader>SpiralMedia</video:uploader>
+    <video:expiration_date>2025-11-23T21:36:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heat-wave-8-1/set/96339885/</loc>
+  <lastmod>2025-11-15T21:41:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619208892&amp;t=4h15m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1844</video:duration>
+    <video:duration>1207</video:duration>
     <video:publication_date>2025-11-15T21:06:33.000Z</video:publication_date>
     <video:uploader>RivalsOfAether</video:uploader>
     <video:expiration_date>2025-11-23T21:06:33.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96327400/</loc>
-  <lastmod>2025-11-15T21:04:52.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-15T21:41:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619351391&amp;t=1h25m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1945</video:duration>
+    <video:duration>947</video:duration>
     <video:publication_date>2025-11-15T21:04:52.000Z</video:publication_date>
     <video:uploader>SpiralMedia</video:uploader>
     <video:expiration_date>2025-11-23T21:04:52.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-23T01:02:17.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-31T01:02:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-10-22-25/set/95326318/</loc>
-  <lastmod>2025-10-23T01:08:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843343/image-778630037b537c0569d315f7e0bf42f5.png
-    </video:thumbnail_loc>
-    <video:title>
-      GoTE | OatmealTime vs GoTE | Guard, GoTE Rivals 2 and more (10/22/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GoTE | OatmealTime vs GoTE | Guard in Round 8 of GoTE Rivals 2 and more (10/22/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598822177&amp;t=1h9m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>417</video:duration>
-    <video:publication_date>2025-10-23T00:36:58.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-10-31T00:36:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

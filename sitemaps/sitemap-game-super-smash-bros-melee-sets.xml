@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crouching-tigers-30/set/96339954/</loc>
-  <lastmod>2025-11-15T21:09:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crouching-tigers-30/set/96339953/</loc>
+  <lastmod>2025-11-15T21:43:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/837094/image-7ded79b664ca885aaf1f4921c74ec142.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bobakanoosh vs TDC | grain, Crouching Tigers 30 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bobakanoosh vs TDC | grain in Winners Quarter-Final of Crouching Tigers 30, streamed by rochestersmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619279210&amp;t=3h27m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>366</video:duration>
+    <video:publication_date>2025-11-15T21:43:40.000Z</video:publication_date>
+    <video:uploader>rochestersmash</video:uploader>
+    <video:expiration_date>2025-11-23T21:43:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crouching-tigers-30/set/96339954/</loc>
+  <lastmod>2025-11-15T21:46:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619279210&amp;t=2h53m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1662</video:duration>
+    <video:duration>792</video:duration>
     <video:publication_date>2025-11-15T21:09:35.000Z</video:publication_date>
     <video:uploader>rochestersmash</video:uploader>
     <video:expiration_date>2025-11-23T21:09:35.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/twin-tiers-comic-combat-4/set/96338683/</loc>
-  <lastmod>2025-11-15T21:04:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-15T21:46:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619350092&amp;t=1h26m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1964</video:duration>
+    <video:duration>876</video:duration>
     <video:publication_date>2025-11-15T21:04:33.000Z</video:publication_date>
     <video:uploader>revelstny</video:uploader>
     <video:expiration_date>2025-11-23T21:04:33.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-19T23:21:33.000Z</video:publication_date>
     <video:uploader>devdoggxx</video:uploader>
     <video:expiration_date>2025-10-27T23:21:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sdi-v-the-fall-of-rome/set/95239618/</loc>
-  <lastmod>2025-10-19T23:31:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837896/image-5abbdf65a6e72f58faa8ce03aa4030d8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Slowking vs Maple, SDI V: The Fall of Rome - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Slowking vs Maple in Winners Semi-Final of SDI V: The Fall of Rome, streamed by gdubsmp4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596246886&amp;t=2h46m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>687</video:duration>
-    <video:publication_date>2025-10-19T23:08:38.000Z</video:publication_date>
-    <video:uploader>gdubsmp4</video:uploader>
-    <video:expiration_date>2025-10-27T23:08:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
