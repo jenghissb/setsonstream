@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/twin-tiers-comic-combat-4/set/96327922/</loc>
+  <lastmod>2025-11-15T19:12:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830914/image-224d3cba3895a5d950fba7dd42f22c03.png
+    </video:thumbnail_loc>
+    <video:title>
+      C2F RVL | minolta vs 908 RVL | Blooky, Twin Tiers Comic Combat 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch C2F RVL | minolta vs 908 RVL | Blooky in Round 7 of Twin Tiers Comic Combat 4, streamed by revelstny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619317888&amp;t=0h12m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>650</video:duration>
+    <video:publication_date>2025-11-15T19:12:45.000Z</video:publication_date>
+    <video:uploader>revelstny</video:uploader>
+    <video:expiration_date>2025-11-23T19:12:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-200/set/96278335/</loc>
   <lastmod>2025-11-15T05:49:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-19T21:52:18.000Z</video:publication_date>
     <video:uploader>ryquegg</video:uploader>
     <video:expiration_date>2025-10-27T21:52:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monthly-on-the-grass-1/set/95250541/</loc>
-  <lastmod>2025-10-19T22:00:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837583/image-d0c7a8ab4a6451286851e38e6369e27c.png
-    </video:thumbnail_loc>
-    <video:title>
-      SuperGinger vs Bund, Monthly on the Grass #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SuperGinger vs Bund in Winners Quarter-Final of Monthly on the Grass #1, streamed by MDVA_Melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596087636&amp;t=4h27m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>473</video:duration>
-    <video:publication_date>2025-10-19T21:35:31.000Z</video:publication_date>
-    <video:uploader>MDVA_Melee</video:uploader>
-    <video:expiration_date>2025-10-27T21:35:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
