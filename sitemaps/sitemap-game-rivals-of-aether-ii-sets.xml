@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-4/set/96300088/</loc>
-  <lastmod>2025-11-15T13:11:16.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/avalon-encore/set/96301506/</loc>
+  <lastmod>2025-11-15T13:36:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/807610/image-80802071eca903d0d82ac15b6600e44d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Ludi vs dogpetter12, Avalon: Encore - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ludi vs dogpetter12 in Winners Quarter-Final of Avalon: Encore, streamed by ollie
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/U-3SoGbAapM?start=3699s
+    </video:player_loc>
+    <video:duration>807</video:duration>
+    <video:publication_date>2025-11-15T13:36:13.000Z</video:publication_date>
+    <video:uploader>ollie</video:uploader>
+    <video:expiration_date>2025-11-23T13:36:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-4/set/96300088/</loc>
+  <lastmod>2025-11-15T13:46:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619014884&amp;t=1h21m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1321</video:duration>
+    <video:duration>1361</video:duration>
     <video:publication_date>2025-11-15T13:11:16.000Z</video:publication_date>
     <video:uploader>fgcpucela</video:uploader>
     <video:expiration_date>2025-11-23T13:11:16.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-21T02:26:20.000Z</video:publication_date>
     <video:uploader>southsuburbanesports</video:uploader>
     <video:expiration_date>2025-10-29T02:26:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-tree-house-90/set/95282112/</loc>
-  <lastmod>2025-10-21T02:28:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842427/image-98d75b680bc186826f48ad60ffee220e.png
-    </video:thumbnail_loc>
-    <video:title>
-      egabbaC | Cabbage vs Groj, The Tree House #90 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch egabbaC | Cabbage vs Groj in Winners Final of The Tree House #90, streamed by southsuburbanesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597213607&amp;t=1h23m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1061</video:duration>
-    <video:publication_date>2025-10-21T01:55:55.000Z</video:publication_date>
-    <video:uploader>southsuburbanesports</video:uploader>
-    <video:expiration_date>2025-10-29T01:55:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
