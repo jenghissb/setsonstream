@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-98/set/96281098/</loc>
-  <lastmod>2025-11-15T04:14:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-98/set/96281100/</loc>
+  <lastmod>2025-11-15T04:40:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844748/image-b66e39036f332944fe506e8a322bb45e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Akeno vs PFaB | 8&amp;, SoCal Colosseum #98 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Akeno vs PFaB | 8&amp; in Winners Semi-Final of SoCal Colosseum #98, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618791457&amp;t=0h57m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>669</video:duration>
+    <video:publication_date>2025-11-15T04:40:44.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-11-23T04:40:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-98/set/96281098/</loc>
+  <lastmod>2025-11-15T04:46:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2618791457&amp;t=0h30m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1705</video:duration>
+    <video:duration>761</video:duration>
     <video:publication_date>2025-11-15T04:14:04.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-11-23T04:14:04.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/flynn-s-arcade-181/set/96275427/</loc>
-  <lastmod>2025-11-15T04:12:45.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-15T04:46:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2618749968&amp;t=1h23m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1784</video:duration>
+    <video:duration>673</video:duration>
     <video:publication_date>2025-11-15T04:12:45.000Z</video:publication_date>
     <video:uploader>flynnsgamingfl</video:uploader>
     <video:expiration_date>2025-11-23T04:12:45.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-19T00:22:15.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2025-10-27T00:22:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-11-ghost-oki/set/95207843/</loc>
-  <lastmod>2025-10-19T00:31:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/821921/image-b8827b9b6fe150562b4cafa6ffcece7a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Flamemaster vs FREE PALESTINE | Ellusiv, Backstreet Brawl #11 - Ghost Oki - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Flamemaster vs FREE PALESTINE | Ellusiv in Winners Round 2 of Backstreet Brawl #11 - Ghost Oki, streamed by HopOnPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595283613&amp;t=4h47m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>820</video:duration>
-    <video:publication_date>2025-10-18T23:53:41.000Z</video:publication_date>
-    <video:uploader>HopOnPNW</video:uploader>
-    <video:expiration_date>2025-10-26T23:53:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

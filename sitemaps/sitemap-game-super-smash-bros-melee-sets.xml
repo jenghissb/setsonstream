@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-200/set/96278330/</loc>
-  <lastmod>2025-11-15T04:08:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-200/set/96278333/</loc>
+  <lastmod>2025-11-15T04:28:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850834/image-3f9f6fa9fdfbb624513adb903451b623.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      flako vs HCRX | Tom_Riddle007, Fight Night Fridays #200 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch flako vs HCRX | Tom_Riddle007 in Losers Quarter-Final of Fight Night Fridays #200, streamed by cptwoodbeard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618751633&amp;t=1h36m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1427</video:duration>
+    <video:publication_date>2025-11-15T04:28:06.000Z</video:publication_date>
+    <video:uploader>cptwoodbeard</video:uploader>
+    <video:expiration_date>2025-11-23T04:28:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-200/set/96278330/</loc>
+  <lastmod>2025-11-15T04:42:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2618751633&amp;t=1h17m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2025</video:duration>
+    <video:duration>1104</video:duration>
     <video:publication_date>2025-11-15T04:08:44.000Z</video:publication_date>
     <video:uploader>cptwoodbeard</video:uploader>
     <video:expiration_date>2025-11-23T04:08:44.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-19T21:12:53.000Z</video:publication_date>
     <video:uploader>MDVA_Melee</video:uploader>
     <video:expiration_date>2025-10-27T21:12:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monthly-on-the-grass-1/set/95245847/</loc>
-  <lastmod>2025-10-19T20:55:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837583/image-d0c7a8ab4a6451286851e38e6369e27c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Juicebox vs shoelegend, Monthly on the Grass #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Juicebox vs shoelegend in Winners Semi-Final of Monthly on the Grass #1, streamed by MDVA_Melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2596087636&amp;t=3h22m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>356</video:duration>
-    <video:publication_date>2025-10-19T20:30:32.000Z</video:publication_date>
-    <video:uploader>MDVA_Melee</video:uploader>
-    <video:expiration_date>2025-10-27T20:30:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
