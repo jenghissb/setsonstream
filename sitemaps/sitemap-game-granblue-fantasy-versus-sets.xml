@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/battle-coliseum-2025/set/96324535/</loc>
-  <lastmod>2025-11-15T20:29:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/tournament-of-thrones-63-1/set/96326972/</loc>
+  <lastmod>2025-11-15T20:52:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843487/image-48e101b09cdfcde49d251848359d4f23.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Lucy the Lamia vs MayanRyan, Tournament of Thrones 63 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lucy the Lamia vs MayanRyan in Grand Final of Tournament of Thrones 63, streamed by Oakcityesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619274639&amp;t=2h42m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1225</video:duration>
+    <video:publication_date>2025-11-15T20:52:46.000Z</video:publication_date>
+    <video:uploader>Oakcityesports</video:uploader>
+    <video:expiration_date>2025-11-23T20:52:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/battle-coliseum-2025/set/96324535/</loc>
+  <lastmod>2025-11-15T21:03:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619058702&amp;t=7h21m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1238</video:duration>
+    <video:duration>431</video:duration>
     <video:publication_date>2025-11-15T20:29:12.000Z</video:publication_date>
     <video:uploader>zatefgc</video:uploader>
     <video:expiration_date>2025-11-23T20:29:12.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/quickdraw-brawl-51/set/96331669/</loc>
-  <lastmod>2025-11-15T20:26:55.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-15T21:03:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619319739&amp;t=1h24m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1375</video:duration>
+    <video:duration>788</video:duration>
     <video:publication_date>2025-11-15T20:26:55.000Z</video:publication_date>
     <video:uploader>quickdrawbrawl</video:uploader>
     <video:expiration_date>2025-11-23T20:26:55.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-20T20:01:54.000Z</video:publication_date>
     <video:uploader>stlfgc</video:uploader>
     <video:expiration_date>2025-09-28T20:01:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/dino-rush-september-20-2025/set/94122032/</loc>
-  <lastmod>2025-09-20T19:42:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827684/image-4a33e7679fda82ce61ddd3173442d553.png
-    </video:thumbnail_loc>
-    <video:title>
-      STL | [Nox] vs Merrick, Dino Rush (September 20, 2025) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch STL | [Nox] vs Merrick in Losers Quarter-Final of Dino Rush (September 20, 2025), streamed by stlfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2571406344&amp;t=0h57m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>674</video:duration>
-    <video:publication_date>2025-09-20T19:19:58.000Z</video:publication_date>
-    <video:uploader>stlfgc</video:uploader>
-    <video:expiration_date>2025-09-28T19:19:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
