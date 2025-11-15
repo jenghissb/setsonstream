@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-4/set/96300005/</loc>
+  <lastmod>2025-11-15T12:04:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843863/image-f70b01543b91b5f50d370b9f083a5393.png
+    </video:thumbnail_loc>
+    <video:title>
+      Glenco Mastantuono vs Mauro64, Floorhug Pucelano #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Glenco Mastantuono vs Mauro64 in Round 2 of Floorhug Pucelano #4, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619014884&amp;t=0h14m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1452</video:duration>
+    <video:publication_date>2025-11-15T12:04:22.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2025-11-23T12:04:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-prowling-grounds-112-off-week/set/96272595/</loc>
   <lastmod>2025-11-15T04:38:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-21T01:20:35.000Z</video:publication_date>
     <video:uploader>southsuburbanesports</video:uploader>
     <video:expiration_date>2025-10-29T01:20:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-271/set/95278596/</loc>
-  <lastmod>2025-10-21T01:32:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841910/image-9b3c2c705a21d7928d4e810f34ee6606.png
-    </video:thumbnail_loc>
-    <video:title>
-      sleet.gg | CheesyPotato vs vooni, Fusion #271 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch sleet.gg | CheesyPotato vs vooni in Winners Semi-Final of Fusion #271, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597182114&amp;t=1h7m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>911</video:duration>
-    <video:publication_date>2025-10-21T01:02:06.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2025-10-29T01:02:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
