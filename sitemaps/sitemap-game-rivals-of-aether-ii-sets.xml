@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96327335/</loc>
+  <lastmod>2025-11-15T19:35:30.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/814277/image-393bbe57693e60c72bd944bc4f9a929e.png
+    </video:thumbnail_loc>
+    <video:title>
+      GAW | RedShirt vs SpartanLv9, SOAR 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GAW | RedShirt vs SpartanLv9 in Winners Quarter-Final of SOAR 2, streamed by SpiralMedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=SpiralMedia&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>853</video:duration>
+    <video:publication_date>2025-11-15T19:35:30.000Z</video:publication_date>
+    <video:uploader>SpiralMedia</video:uploader>
+    <video:expiration_date>2025-11-23T19:35:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/avalon-encore/set/96316229/</loc>
   <lastmod>2025-11-15T19:12:00.000Z</lastmod>
   <changefreq>daily</changefreq>
