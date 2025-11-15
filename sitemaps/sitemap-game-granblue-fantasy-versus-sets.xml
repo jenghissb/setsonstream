@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306496/</loc>
-  <lastmod>2025-11-15T15:29:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306498/</loc>
+  <lastmod>2025-11-15T15:52:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/786810/image-8536df6ae5258db95350b0076eed8f7d.png
+    </video:thumbnail_loc>
+    <video:title>
+      releasebogus vs Zeke, Drowning Pools 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch releasebogus vs Zeke in Losers Quarter-Final of Drowning Pools 2025, streamed by MerseysideFGC2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619037817&amp;t=3h19m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1457</video:duration>
+    <video:publication_date>2025-11-15T15:52:37.000Z</video:publication_date>
+    <video:uploader>MerseysideFGC2</video:uploader>
+    <video:expiration_date>2025-11-23T15:52:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306496/</loc>
+  <lastmod>2025-11-15T16:03:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619037817&amp;t=2h56m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1269</video:duration>
+    <video:duration>983</video:duration>
     <video:publication_date>2025-11-15T15:29:09.000Z</video:publication_date>
     <video:uploader>MerseysideFGC2</video:uploader>
     <video:expiration_date>2025-11-23T15:29:09.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-14T00:44:14.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-09-22T00:44:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-25/set/93877719/</loc>
-  <lastmod>2025-09-14T00:52:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/817061/image-824c85e4e3c4275d256f6c3597ccbb1d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CRT | Phos vs HCH | E30, SoCal Colosseum Clash #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRT | Phos vs HCH | E30 in Winners Round 2 of SoCal Colosseum Clash #25, streamed by kondo3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565871323&amp;t=0h13m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>903</video:duration>
-    <video:publication_date>2025-09-14T00:12:59.000Z</video:publication_date>
-    <video:uploader>kondo3</video:uploader>
-    <video:expiration_date>2025-09-22T00:12:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
