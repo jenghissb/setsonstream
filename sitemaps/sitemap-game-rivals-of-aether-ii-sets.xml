@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96342389/</loc>
-  <lastmod>2025-11-15T22:47:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96357284/</loc>
+  <lastmod>2025-11-15T23:08:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/814277/image-393bbe57693e60c72bd944bc4f9a929e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ant vs AoC | Melon, SOAR 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ant vs AoC | Melon in Winners Semi-Final of SOAR 2, streamed by SpiralMedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619351391&amp;t=3h28m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1281</video:duration>
+    <video:publication_date>2025-11-15T23:08:00.000Z</video:publication_date>
+    <video:uploader>SpiralMedia</video:uploader>
+    <video:expiration_date>2025-11-23T23:08:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96342389/</loc>
+  <lastmod>2025-11-15T23:22:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619351391&amp;t=3h8m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1616</video:duration>
+    <video:duration>1047</video:duration>
     <video:publication_date>2025-11-15T22:47:28.000Z</video:publication_date>
     <video:uploader>SpiralMedia</video:uploader>
     <video:expiration_date>2025-11-23T22:47:28.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-23T01:53:20.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2025-10-31T01:53:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-10-22-25/set/95334819/</loc>
-  <lastmod>2025-10-23T02:05:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843343/image-778630037b537c0569d315f7e0bf42f5.png
-    </video:thumbnail_loc>
-    <video:title>
-      GoTE | OatmealTime vs GFU | No More Mr. Nicefire, GoTE Rivals 2 and more (10/22/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GoTE | OatmealTime vs GFU | No More Mr. Nicefire in Losers Semi-Final of GoTE Rivals 2 and more (10/22/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598822177&amp;t=2h0m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>826</video:duration>
-    <video:publication_date>2025-10-23T01:28:16.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-10-31T01:28:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
