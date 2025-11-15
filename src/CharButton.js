@@ -52,7 +52,7 @@ export function renderCharButton(filterInfo, onClick) {
   
   return (
     <div className="">
-      <div className="cb-filterButton"
+      <div className="cb-filterButton" aria-label="Character Select" title="Character Select"
         onClick={onClick}
         style={characters ? {
           background: "var(--bg-modal)",

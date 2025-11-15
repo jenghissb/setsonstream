@@ -38,7 +38,7 @@ export function getLumitierIcon(lumitier, conditionalStyles={}) {
 //   lumitier = "C+"
   if (lumitier != null && lumitier.length > 0) {
     var lumiColor = getLumiColor(lumitier)
-    return <span style={{background: lumiColor, fontSize: '13px', paddingLeft: '5px', paddingRight: '5px', paddingBottom: '2px' , borderRadius: '6px', border: '1px solid rgb(7, 41, 87)', ...conditionalStyles}}>{lumitier}</span>
+    return <span title aria-label={`${lumitier} tier tournament`} style={{background: lumiColor, fontSize: '13px', paddingLeft: '5px', paddingRight: '5px', paddingBottom: '2px' , borderRadius: '6px', border: '1px solid rgb(7, 41, 87)', ...conditionalStyles}}>{lumitier}</span>
   } else {
     return <span/>
   }

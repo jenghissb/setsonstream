@@ -34,7 +34,7 @@ function renderSvgReverse({width="40px", height="40px", color="#bbbbbb"}) {
 export function renderRewindSetButton(setUseLiveStream, fromMap) {
   // NOTE: setTimeout is needed so the map popup doesn't close itself.
   const color = fromMap ? "#575757" : "#bbbbbb"
-  return <div onClick={() => setTimeout(() => setUseLiveStream(false), 50)} className="rewindSetButton">
+  return <div onClick={() => setTimeout(() => setUseLiveStream(false), 50)} className="rewindSetButton" aria-label="Rewind to Vod" title="Rewind to Vod">
     {renderSvg({color})}
   </div>
 
@@ -46,7 +46,7 @@ export function renderRewindSetButton(setUseLiveStream, fromMap) {
 export function renderRewindShortButton(rewindSet, fromMap) {
   const secondsToRewind = 5;
   // const color = fromMap ? "#444444" : "#dddddd"
-  return <div onClick={() => rewindSet(5)} className="rewindShortButton">
+  return <div onClick={() => rewindSet(5)} className="rewindShortButton" aria-label="Rewind 5 seconds" title="Rewind 5 seconds">
     {renderSvg({width: "36px", height: "36px"})}
     <div className='rewindShortText' style={{color: "var(--text-main-color-subdue-3)"}}>{secondsToRewind}</div>
   </div>
@@ -55,7 +55,7 @@ export function renderRewindShortButton(rewindSet, fromMap) {
 export function renderRewindFrameButton(rewindSet, fromMap) {
   const secondsToRewind = 5;
   // const color = fromMap ? "#444444" : "#dddddd"
-  return <div onClick={() => rewindSet(1/60)} className="rewindShortButton" style={{marginRight: "10px"}}>
+  return <div onClick={() => rewindSet(1/60)} className="rewindShortButton" style={{marginRight: "10px"}} aria-label="Rewind 1 frame" title="Rewind 1 frame">
     {renderSvg({width: "36px", height: "36px"})}
     <div className='rewindShortText' style={{left: 0, color: "var(--text-main-color-subdue-3)"}}><span>1&frasl;60</span></div>
   </div>
@@ -64,7 +64,7 @@ export function renderRewindFrameButton(rewindSet, fromMap) {
 export function renderForwardFrameButton(rewindSet, fromMap) {
   const secondsToRewind = 5;
   // const color = fromMap ? "#444444" : "#dddddd"
-  return <div onClick={() => rewindSet(-1/60)} className="rewindShortButton">
+  return <div onClick={() => rewindSet(-1/60)} className="rewindShortButton" aria-label="Fast-Forward 1 frame" title="Fast-Forward 1 frame">
     {renderSvgReverse({width: "36px", height: "36px"})}
     <div className='forwardShortText' style={{right: 0, color: "var(--text-main-color-subdue-3)"}}><span>1&frasl;60</span></div>
   </div>
@@ -72,14 +72,14 @@ export function renderForwardFrameButton(rewindSet, fromMap) {
 export function renderForwardShortButton(rewindSet, fromMap) {
   const secondsToRewind = 5;
   // const color = fromMap ? "#444444" : "#dddddd"
-  return <div onClick={() => rewindSet(-5)} className="rewindShortButton">
+  return <div onClick={() => rewindSet(-5)} className="rewindShortButton" aria-label="Fast-Forward 5 seconds" title="Fast-Forward 5 seconds">
     {renderSvgReverse({width: "36px", height: "36px"})}
     <div className='forwardShortText' style={{right: 6, color: "var(--text-main-color-subdue-3)"}}>{"5"}</div>
   </div>
 }
 
 export function renderPlayPause(handlePlayPause) {
-  return <div onClick={() => (handlePlayPause && handlePlayPause())} className="rewindShortButton" style={{marginLeft: "4px"}}>
+  return <div onClick={() => (handlePlayPause && handlePlayPause())} className="rewindShortButton" style={{marginLeft: "4px"}} aria-label="Play/Pause" title="Play/Pause">
     <svg xmlns="http://www.w3.org/2000/svg" width="36px" height="36px" viewBox="100 -860 760 760" fill="var(--text-main-color-subdue-3)"><path d="M200-312v-336l240 168-240 168Zm320-8v-320h80v320h-80Zm160 0v-320h80v320h-80Z"/></svg>
   </div>
 }
@@ -122,7 +122,7 @@ function convertSecondstoTimeStr(given_seconds) {
 
 export function renderSetLiveButton(setUseLiveStream, fromMap) {
   const color = fromMap ? "#444444" : "var(--text-main-color-subdue-3)"
-  return <div onClick={() => setTimeout(() => setUseLiveStream(true))} className="rewindSetButton">
+  return <div onClick={() => setTimeout(() => setUseLiveStream(true))} className="rewindSetButton" aria-label="Return to Live" title="Return to Live">
     {renderLiveSvg({color})}
   </div>
 }
@@ -202,7 +202,7 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
   }
 
   const valueToUse = Math.floor(currentProgress)
-  return <div className="rewindSetRow">
+  return <div className="rewindSetRow" aria-label="Video player controls" title="Video player controls">
     {
       !showRewindStart && renderRewindShortButton(rewindShort, fromMap)
     }
@@ -218,7 +218,8 @@ const RewindControlRow = ({item, setUseLiveStream, useLiveStream, handleTimestam
       valueLabelFormat={(value) => convertSecondstoTimeStr(value)}
       marks={marks}
       value={valueToUse}
-      aria-label="Small"
+      aria-label="Match set time slider"
+      title="Match set time slider"
       valueLabelDisplay="auto"
     />
     {

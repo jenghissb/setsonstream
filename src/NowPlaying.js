@@ -8,7 +8,7 @@ import { renderFilterButton } from './FilterButton.js'
 import { Link } from 'react-router-dom';
 import { BracketIcon } from './SubEmbedControls.js'
 
-export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBracket, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
+export const NowPlaying = memo(({isHeader, minimal, extraOnSide, showExtra=true,setShowBracket, setShowFilterModal, item, filterInfo, useVideoInList, handleIndexChange, streamSubIndex=0, setStreamSubIndex, selected, mainVideoDim, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady}) => {
   const extraInCol = !extraOnSide
   const useBackgroundImage = false
   var preview = null
@@ -121,19 +121,24 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
     ) 
   }
   
+  const charArr1 = item.player1Info.charInfo?.map((item, index) => item.name)
+  const charString1WithParen = charArr1 != null && charArr1.length > 0 ? ` (${charArr1.join(", ")})` : ""
+  const charArr2 = item.player2Info.charInfo?.map((item, index) => item.name)
+  const charString2WithParen = charArr2 != null && charArr2.length > 0 ? ` (${charArr2.join(", ")})` : ""
+  const ariaText = `${item.player1Info.nameWithRomaji}${charString1WithParen} vs ${item.player2Info.nameWithRomaji}${charString2WithParen}`
   return (
     <div className="nowPlayingRow" style={backgroundImageStyle}>
     <div className="nowPlaying-under-row" style={extraInCol ? {paddingBottom: "0px"} : {}}>
       <div className="nowPlaying-under-info" style={extraInCol ? {paddingBottom: "0px"} : {}}>
-        <div className="nowPlaying-set-row-4">
+        <h1 className="nowPlaying-set-row-4" aria-label={ariaText}>
           {player1LinkElem} {charEmojis(item.player1Info.charInfo, item.bracketInfo.gameId, "play1_", filterInfo)}<span className='nowPlaying-vsText'> vs </span>{player2LinkElem} {charEmojis(item.player2Info.charInfo, item.bracketInfo.gameId, "play2_", filterInfo)}
-        </div>
+        </h1>
         {RewindAndLiveButtons({item, useLiveStream, setUseLiveStream, showVodsMode, shouldShow: selected, handleTimestampChange, handlePlayPause, rewindReady})}
         <div className="nowPlaying-other-under-row">
-          <Link className="nowPlaying-under-icon-link" to={channelLink}>{streamIcon && streamIcon.length > 0 && <img className="nowPlaying-under-icon" src={streamIcon}/>}</Link>
+          <Link className="nowPlaying-under-icon-link" to={channelLink} aria-label={`channel ${streamName}`}>{streamIcon && streamIcon.length > 0 && <img className="nowPlaying-under-icon" src={streamIcon}/>}</Link>
           <div className="nowPlaying-other-under-info">
             <div>
-              <Link className="" to={tourneyLink}style={{textDecoration: "none"}}><span className="nowPlaying-title-margin">{getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className={tourneyTitleClass}>{item.bracketInfo.tourneyName}</span></span></Link>
+              <Link className="" to={tourneyLink} style={{textDecoration: "none"}}><span className="nowPlaying-title-margin">{getLumitierIcon(item.bracketInfo.lumitier, {marginRight:'5px', paddingBottom: '1px', paddingTop: '1px', border: '2px solid #000', color: 'black', fontSize: 'large'})}<span className={tourneyTitleClass}>{item.bracketInfo.tourneyName}</span></span></Link>
             </div>
             <span style={{marginTop: "2px"}}>
               <Link className="" to={channelLink} style={{textDecoration: "none"}}><span className="nowPlaying-streamNameText">{streamName}</span></Link>
@@ -194,7 +199,7 @@ export const NowPlaying = memo(({minimal, extraOnSide, showExtra=true,setShowBra
           </div>
         </div>
         {
-          <div className="nowPlaying-bracketButton" onClick={() => setShowBracket(true)}>
+          <div className="nowPlaying-bracketButton" onClick={() => setShowBracket(true)} aria-label="Show bracket" title="Show bracket">
             <BracketIcon width={"42px"} height={"42px"} color={"var(--text-main-color-subdue-3"}/>
           </div>
         }
@@ -303,7 +308,7 @@ function charEmojiImage(name, gameId, key = "", filterInfo) {
   if (matchesFilter) {
     emojiClass = "nowPlaying-charemojimatches"
   }
-  return <Link key={key} to={charLink}><img className={emojiClass} key={key} src={charEmojiImagePath(name, gameId)}/></Link>
+  return <Link className="nowPlaying-charemojiHolder" key={key} to={charLink}><img alt={name} className={emojiClass} key={key} src={charEmojiImagePath(name, gameId)}/></Link>
 }
 function schuEmojiImage(name, key = "") {
   return <img className="nowPlaying-schuemoji" key={key} src={schuEmojiImagePath(name)}/>

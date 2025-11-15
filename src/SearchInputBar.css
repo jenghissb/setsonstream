@@ -1,3 +1,4 @@
+
 .searchInputBar {
   color: var(--text-main-color);
   font-size:small;
@@ -5,7 +6,6 @@
   text-decoration: none;
   max-lines: 1;
   background-color: var(--bg-modal);
-  /* background-color: #181c24; */
   border-radius: 12px;
   margin-left: 6px;
   padding: 8px;
@@ -16,6 +16,17 @@
   flex-grow: 1;
   flex-shrink: 1;
   align-self: center;
+}
+
+.searchInputBarForm {
+  height:fit-content;
+  align-self: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
 }
 
 .searchInputBar:focus {

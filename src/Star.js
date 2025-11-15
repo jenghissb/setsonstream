@@ -1,9 +1,12 @@
 import "./Star.css"; // same css from before
 
-export default function Star({ filled, onToggle }) {
+export default function Star({ filled, onToggle, ariaLabel, ariaPressed }) {
   return (
     <button
       className={`star-button ${filled ? "filled" : ""}`}
+      title={ariaLabel}
+      aria-label={ariaLabel}
+      aria-pressed={ariaPressed}
       onClick={onToggle}
     >
       <svg

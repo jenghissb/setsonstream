@@ -8,7 +8,7 @@ import { renderCharButton } from './CharButton.js'
 export function SearchInputBarWithIcon({ onSearch, filterInfo, toggleCharacter, suggestionsInfo, onPressCharButton}) {
   return <div className="searchRowContainer">
     <SearchInputBar onSearch={onSearch} filterInfo={filterInfo} toggleCharacter={toggleCharacter} suggestionsInfo={suggestionsInfo} isFilterBar={false} hasIcon={true}/>
-    <div className="searchIconContainer">
+    <div className="searchIconContainer" aria-label="Search" title="Search">
       {renderSearchIcon()}
     </div>
     {renderCharButton(filterInfo, onPressCharButton)}
@@ -116,18 +116,21 @@ export function SearchInputBar({ onSearch, filterInfo, toggleCharacter, suggesti
 
   return (
     <div className="outerContainer" ref={dropdownRef}>
-      <input
-        className={"searchInputBar"}
-        style={hasIcon ? {"borderBottomRightRadius": "0px", "borderTopRightRadius": "0px"} : {}}
-        ref={inputRef}
-        disabled={suggestionsInfo == null}
-        type="text"
-        placeholder="Search..."
-        value={searchTerm}
-        onKeyDown={handleKeyDown}
-        onChange={handleChange}
-        onFocus={() => setShowDropdown(true)}
-      />
+      <form className="searchInputBarForm" action="/results" role="search">
+        <input
+          className={"searchInputBar"}
+          name={"searchInputBar"}
+          style={hasIcon ? {"borderBottomRightRadius": "0px", "borderTopRightRadius": "0px"} : {}}
+          ref={inputRef}
+          disabled={suggestionsInfo == null}
+          type="text"
+          placeholder="Search players, characters, tourneys..."
+          value={searchTerm}
+          onKeyDown={handleKeyDown}
+          onChange={handleChange}
+          onFocus={() => setShowDropdown(true)}
+        />
+      </form>
 
       {showDropdown &&  (
         <ul className='dropdownList'>

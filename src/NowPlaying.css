@@ -1,3 +1,10 @@
+h1 {
+  margin: 0;
+  padding: 0;
+  margin-block-end: 0 !important;
+  margin-block-start: 0 !important;
+}
+
 .nowPlayingRow {
   display:flex;
   flex-direction: row;
@@ -122,6 +129,18 @@
 .nowPlaying-charemoji {
   height: 22px;
   width: 22px;
+  top:0px;
+  left:0px;
+}
+
+.nowPlaying-charemojiHolder {
+  display: flex;
+  height: 22px;
+  width: 22px;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  align-items: center;
 }
 
 .nowPlaying-charemojimatches {
@@ -346,12 +365,13 @@
 
 .nowPlaying-set-row-4 {
   display: flex;
-  flex-direction: row;
-  align-items: end;
-  align-content: end;
+  flex-direction: row !important;
+  align-items: end !important;
+  align-content: end !important;
+  vertical-align: bottom !important;
   height:fit-content;
-  margin-top: 2px;
-  margin-bottom: 4px;
+  margin-top: 2px !important;
+  margin-bottom: 4px !important;
   min-height: 22px;
   /* margin-bottom: 2px; */
   /* margin-bottom: 8px; */

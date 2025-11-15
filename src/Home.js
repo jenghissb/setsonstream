@@ -1566,7 +1566,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
           </div>
           {
-            previewItem && <NowPlaying {...{minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
+            previewItem && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
           }
           { 
             noData
@@ -1796,6 +1796,7 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
   } else {
     gameId = gameSlug ? gameInfo.id : null
   }
+  const gameName = gameInfo?.name ?? ""
   const gameIcon = gameInfo?.images?.at(-1)?.url ?? null
   const favSuggestion = getFavoriteSuggestionFromRoute(homeType, params, filterInfo);
   var useBootstrap = false
@@ -1963,19 +1964,19 @@ function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filter
       {!useVideoTags && <meta property="og:image" content={OG_THUMB} data-rh="true"/>}
 
     </Helmet>
-    <Link className="home2RouteHomeIcon" to={`/`}>{renderHomeIcon({width:"100%", height: "100%"})}</Link>
+    <Link className="home2RouteHomeIcon" to={`/`} aria-label="Home">{renderHomeIcon({width:"100%", height: "100%"})}</Link>
     {gameParam && gameId && <div className="home2DotStyle">•</div>}
-    {gameParam && gameId && <Link className="home2RouteGameIcon" to={`/game/${gameSlug}`}><img className="home2RouteGameIcon" src={gameIcon}/></Link>}
+    {gameParam && gameId && <Link className="home2RouteGameIcon" aria-label={gameName} to={`/game/${gameSlug}`}><img className="home2RouteGameIcon" src={gameIcon}/></Link>}
     {gameParam && gameId && homeType !== HomeTypes.GAME && <div className="home2DotStyle">•</div>}
     {iconSrc && <img className={iconClass} src={iconSrc}/>}
     {searchParam && <div className={iconClass}>{renderSearchIcon("28px")}</div>}
     <div className="home2RouteTitle" style={{marginLeft: titleMarginLeft}}>{routeText}</div>
-    {showGameSelector && <div className="home2RouteGameSelectContainer" onClick={openGameFilter}>
+    {showGameSelector && <div className="home2RouteGameSelectContainer" aria-label={`game selector (${gameInfo.displayName})`} onClick={openGameFilter}>
       <div className="home2RouteGameSelectIcon"><img className="home2RouteGameSelectIcon" src={gameIcon}/></div>
       <div className="home2RouteTitle">{`${gameInfo.displayName}`}</div>
     </div>}
     {supportsCharEmoji && <div style={{width:"5px"}}/>}{supportsCharEmoji && charInfo && charEmojis(charInfo, gameId, "play1_")}
-    {supportsStar && <div className="home2RouteStarIcon"><Star filled={isFavorite} onToggle={() => onFavorite(routeInfo)} /></div>}
+    {supportsStar && <div className="home2RouteStarIcon"><Star ariaLabel={isFavorite ? "Remove from favorites" : "Favorite for later"} ariaPressed={isFavorite} filled={isFavorite} onToggle={() => onFavorite(routeInfo)} /></div>}
   </div>
 }
 
@@ -2139,7 +2140,7 @@ function charEmojiImage(name, gameId, key = "", filterInfo) {
   if (matchesFilter) {
     emojiClass = "home2-charemojimatches"
   }
-  return <Link key={key} to={charLink}><img className={emojiClass} src={charEmojiImagePath(name, gameId)}/></Link>
+  return <Link aria-label={name} key={key} to={charLink}><img className={emojiClass} src={charEmojiImagePath(name, gameId)}/></Link>
 }
 function schuEmojiImage(name, key = "") {
   return <img className="home2-schuemoji" key={key} src={schuEmojiImagePath(name)}/>
