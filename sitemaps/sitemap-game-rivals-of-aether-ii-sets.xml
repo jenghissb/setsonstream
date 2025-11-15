@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/avalon-encore/set/96316196/</loc>
-  <lastmod>2025-11-15T16:55:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/avalon-encore/set/96316224/</loc>
+  <lastmod>2025-11-15T17:15:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/807610/image-80802071eca903d0d82ac15b6600e44d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Ludi vs Esper, Avalon: Encore - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ludi vs Esper in Losers Round 2 of Avalon: Encore, streamed by ollie
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/U-3SoGbAapM?start=16833s
+    </video:player_loc>
+    <video:duration>2074</video:duration>
+    <video:publication_date>2025-11-15T17:15:07.000Z</video:publication_date>
+    <video:uploader>ollie</video:uploader>
+    <video:expiration_date>2025-11-23T17:15:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/avalon-encore/set/96316196/</loc>
+  <lastmod>2025-11-15T17:40:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/U-3SoGbAapM?start=15652s
     </video:player_loc>
-    <video:duration>2581</video:duration>
+    <video:duration>1067</video:duration>
     <video:publication_date>2025-11-15T16:55:26.000Z</video:publication_date>
     <video:uploader>ollie</video:uploader>
     <video:expiration_date>2025-11-23T16:55:26.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-22T23:15:14.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-10-30T23:15:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-59/set/95321700/</loc>
-  <lastmod>2025-10-22T23:21:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838721/image-81a3613022bb01274ee3c267535ac64a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ampersand vs GhostEchoH, CU in Bracket 59 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ampersand vs GhostEchoH in Round 3 of CU in Bracket 59, streamed by topblastzoneny
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598726670&amp;t=1h33m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>752</video:duration>
-    <video:publication_date>2025-10-22T22:50:00.000Z</video:publication_date>
-    <video:uploader>topblastzoneny</video:uploader>
-    <video:expiration_date>2025-10-30T22:50:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
