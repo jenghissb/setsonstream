@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/heat-wave-8-1/set/96327157/</loc>
+  <lastmod>2025-11-15T20:03:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825973/image-68c4e9406bb1aa7e1ce85fd48f7a6c9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      WillGetPaid vs Jackzander, Heat Wave 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WillGetPaid vs Jackzander in Winners Round 2 of Heat Wave 8, streamed by Level1_TV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619279234&amp;t=1h47m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>744</video:duration>
+    <video:publication_date>2025-11-15T20:03:29.000Z</video:publication_date>
+    <video:uploader>Level1_TV</video:uploader>
+    <video:expiration_date>2025-11-23T20:03:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-7-road-to-mindset/set/96303064/</loc>
   <lastmod>2025-11-15T19:36:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-25T17:11:15.000Z</video:publication_date>
     <video:uploader>egxarena</video:uploader>
     <video:expiration_date>2025-11-02T17:11:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/arena-series/set/95441936/</loc>
-  <lastmod>2025-10-25T16:50:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835363/image-b9ac3ec5028792504b05dcdc1d3acbf9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kaneandtrench vs KRYP | Keebe Omega, Arena Series - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kaneandtrench vs KRYP | Keebe Omega in Winners Semi-Final of Arena Series, streamed by egxarena
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600866348&amp;t=5h36m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>682</video:duration>
-    <video:publication_date>2025-10-25T16:12:01.000Z</video:publication_date>
-    <video:uploader>egxarena</video:uploader>
-    <video:expiration_date>2025-11-02T16:12:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
