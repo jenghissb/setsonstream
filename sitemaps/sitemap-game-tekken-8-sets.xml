@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-98/set/96281192/</loc>
-  <lastmod>2025-11-15T04:00:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-98/set/96281205/</loc>
+  <lastmod>2025-11-15T04:31:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,42 +10,18 @@
       https://images.start.gg/images/tournament/844748/image-b66e39036f332944fe506e8a322bb45e.jpg
     </video:thumbnail_loc>
     <video:title>
-      CHAIN SHIFT | Commmanda Panda vs SR | gskki, SoCal Colosseum #98 - Sets on Stream
+      SR | Jawk_O vs McCree, SoCal Colosseum #98 - Sets on Stream
     </video:title>
     <video:description>
-      Watch CHAIN SHIFT | Commmanda Panda vs SR | gskki in Winners Round 1 of SoCal Colosseum #98, streamed by teakei
+      Watch SR | Jawk_O vs McCree in Winners Round 2 of SoCal Colosseum #98, streamed by teakei
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2618791410&amp;t=0h16m43s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2618791410&amp;t=0h48m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1130</video:duration>
-    <video:publication_date>2025-11-15T04:00:17.000Z</video:publication_date>
+    <video:duration>653</video:duration>
+    <video:publication_date>2025-11-15T04:31:36.000Z</video:publication_date>
     <video:uploader>teakei</video:uploader>
-    <video:expiration_date>2025-11-23T04:00:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-181/set/96275793/</loc>
-  <lastmod>2025-11-15T04:02:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850323/image-0689d8306cc234518d05fa45fa39c219.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      LAK vs MCV, Flynn&apos;s Arcade 181 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LAK vs MCV in Losers Final of Flynn&apos;s Arcade 181, streamed by flynnsarcadefl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2618752876&amp;t=1h9m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>985</video:duration>
-    <video:publication_date>2025-11-15T04:02:42.000Z</video:publication_date>
-    <video:uploader>flynnsarcadefl</video:uploader>
-    <video:expiration_date>2025-11-23T04:02:42.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-23T04:31:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -66,10 +42,58 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2618662074&amp;t=2h59m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1021</video:duration>
+    <video:duration>2423</video:duration>
     <video:publication_date>2025-11-15T04:02:06.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-11-23T04:02:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-181/set/96275793/</loc>
+  <lastmod>2025-11-15T04:34:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850323/image-0689d8306cc234518d05fa45fa39c219.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LAK vs MCV, Flynn&apos;s Arcade 181 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LAK vs MCV in Losers Final of Flynn&apos;s Arcade 181, streamed by flynnsarcadefl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618752876&amp;t=1h9m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>672</video:duration>
+    <video:publication_date>2025-11-15T04:02:42.000Z</video:publication_date>
+    <video:uploader>flynnsarcadefl</video:uploader>
+    <video:expiration_date>2025-11-23T04:02:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-98/set/96281192/</loc>
+  <lastmod>2025-11-15T04:34:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844748/image-b66e39036f332944fe506e8a322bb45e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CHAIN SHIFT | Commmanda Panda vs SR | gskki, SoCal Colosseum #98 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CHAIN SHIFT | Commmanda Panda vs SR | gskki in Winners Round 1 of SoCal Colosseum #98, streamed by teakei
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618791410&amp;t=0h16m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>628</video:duration>
+    <video:publication_date>2025-11-15T04:00:17.000Z</video:publication_date>
+    <video:uploader>teakei</video:uploader>
+    <video:expiration_date>2025-11-23T04:00:17.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-22T23:38:15.000Z</video:publication_date>
     <video:uploader>matchstickmelee</video:uploader>
     <video:expiration_date>2025-10-30T23:38:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/pixel-tekken-194/set/95311783/</loc>
-  <lastmod>2025-10-22T10:47:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843081/image-73b3a1d7d862764dec5d1f114e419648.png
-    </video:thumbnail_loc>
-    <video:title>
-      MT | Mosman vs Stranger Danger, Pixel Tekken #194 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MT | Mosman vs Stranger Danger in Losers Quarter-Final of Pixel Tekken #194, streamed by pixelbaraus
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598284147&amp;t=1h49m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>502</video:duration>
-    <video:publication_date>2025-10-22T10:25:53.000Z</video:publication_date>
-    <video:uploader>pixelbaraus</video:uploader>
-    <video:expiration_date>2025-10-30T10:25:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
