@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/geek-pop-fight-club-x-philippine-game-show-brawlfiesta/set/96286225/</loc>
+  <lastmod>2025-11-15T08:01:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846842/image-8e720486aa8253407e008e834e364b0f.png
+    </video:thumbnail_loc>
+    <video:title>
+      OSB | foxyouu vs 24c | AxA | Wax On Wax Off, GEEK+POP FIGHT CLUB x PHILIPPINE GAME SHOW - BRAWLFIESTA - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OSB | foxyouu vs 24c | AxA | Wax On Wax Off in Losers Final of GEEK+POP FIGHT CLUB x PHILIPPINE GAME SHOW - BRAWLFIESTA, streamed by Geek+Pop Fight Club
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/gAygl5MS7wQ?start=2420s
+    </video:player_loc>
+    <video:duration>1060</video:duration>
+    <video:publication_date>2025-11-15T08:01:14.000Z</video:publication_date>
+    <video:uploader>Geek+Pop Fight Club</video:uploader>
+    <video:expiration_date>2025-11-23T08:01:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-98/set/96284388/</loc>
   <lastmod>2025-11-15T07:25:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-23T02:13:02.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-10-31T02:13:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-71/set/95331797/</loc>
-  <lastmod>2025-10-23T02:25:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842902/image-575ee934bcfb14c9cb5a7ecee78bf996.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ghost | NOMAR vs ToBeFrank | FF | SLAYlor Moon, 4o4 by Sh33rZ: Tekken 8 #71 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ghost | NOMAR vs ToBeFrank | FF | SLAYlor Moon in Losers Semi-Final of 4o4 by Sh33rZ: Tekken 8 #71, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598864162&amp;t=1h40m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>809</video:duration>
-    <video:publication_date>2025-10-23T01:59:30.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-10-31T01:59:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
