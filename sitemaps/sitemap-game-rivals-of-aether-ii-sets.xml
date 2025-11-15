@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96342381/</loc>
-  <lastmod>2025-11-15T21:36:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96342326/</loc>
+  <lastmod>2025-11-15T22:06:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/814277/image-393bbe57693e60c72bd944bc4f9a929e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Manzana vs Alex828, SOAR 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Manzana vs Alex828 in Winners Semi-Final of SOAR 2, streamed by SpiralMedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619351391&amp;t=2h26m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1436</video:duration>
+    <video:publication_date>2025-11-15T22:06:03.000Z</video:publication_date>
+    <video:uploader>SpiralMedia</video:uploader>
+    <video:expiration_date>2025-11-23T22:06:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96342381/</loc>
+  <lastmod>2025-11-15T22:12:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619351391&amp;t=1h56m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2164</video:duration>
+    <video:duration>995</video:duration>
     <video:publication_date>2025-11-15T21:36:04.000Z</video:publication_date>
     <video:uploader>SpiralMedia</video:uploader>
     <video:expiration_date>2025-11-23T21:36:04.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-23T01:03:41.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2025-10-31T01:03:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-9-17/set/95326771/</loc>
-  <lastmod>2025-10-23T01:37:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843689/image-41290b32fbda1c8a1f38de32fd9775e9.png
-    </video:thumbnail_loc>
-    <video:title>
-      天 | Drewsephix(ten | Drewsephix) vs Kipper, HoG: Burn 9.17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 天 | Drewsephix(ten | Drewsephix) vs Kipper in Losers Final of HoG: Burn 9.17, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2598824850&amp;t=1h31m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>848</video:duration>
-    <video:publication_date>2025-10-23T01:02:17.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-10-31T01:02:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
