@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/battle-coliseum-2025/set/96321753/</loc>
+  <lastmod>2025-11-15T18:52:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/772830/image-673837b1856256991521f3f00f16b99a.png
+    </video:thumbnail_loc>
+    <video:title>
+      WG | Snow vs EC | supersonic, BATTLE COLISEUM 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WG | Snow vs EC | supersonic in Winners Semi-Final of BATTLE COLISEUM 2025, streamed by zatefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619058702&amp;t=5h44m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1113</video:duration>
+    <video:publication_date>2025-11-15T18:52:49.000Z</video:publication_date>
+    <video:uploader>zatefgc</video:uploader>
+    <video:expiration_date>2025-11-23T18:52:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/battle-coliseum-2025/set/96321746/</loc>
   <lastmod>2025-11-15T18:30:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-14T02:15:58.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-09-22T02:15:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-september-2025/set/93872670/</loc>
-  <lastmod>2025-09-14T02:42:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816995/image-5f0721cb2a28869170effbea16abdce3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nyantic vs TILIN | Iago Garaitz, Astral Beatdown September 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nyantic vs TILIN | Iago Garaitz in Grand Final of Astral Beatdown September 2025, streamed by norcalgranblue
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2565761179&amp;t=4h3m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-09-14T01:22:13.000Z</video:publication_date>
-    <video:uploader>norcalgranblue</video:uploader>
-    <video:expiration_date>2025-09-22T01:22:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
