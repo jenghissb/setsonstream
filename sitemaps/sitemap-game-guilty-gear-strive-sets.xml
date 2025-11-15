@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-132/set/96262658/</loc>
+  <lastmod>2025-11-15T00:47:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852139/image-89437ad45d239af995d4a1fae492763b.png
+    </video:thumbnail_loc>
+    <video:title>
+      SLG | Tyler vs CRAB | Helms, HoG: Moonlight #132 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SLG | Tyler vs CRAB | Helms in Winners Quarter-Final of HoG: Moonlight #132, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2618626380&amp;t=0h25m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1434</video:duration>
+    <video:publication_date>2025-11-15T00:47:19.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-11-23T00:47:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/neon-dreams-guilty-gear-strive-thursday-throwdown-monthly-24/set/96223733/</loc>
   <lastmod>2025-11-14T02:27:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-18T20:50:15.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2025-10-26T20:50:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-force-1/set/95190872/</loc>
-  <lastmod>2025-10-18T20:59:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839458/image-6ab236ac60acd12756aa4d33f8e88664.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Brady vs iR3mmy, Fight Force 1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Brady vs iR3mmy in Winners Quarter-Final of Fight Force 1, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595121909&amp;t=4h32m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>590</video:duration>
-    <video:publication_date>2025-10-18T20:25:04.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2025-10-26T20:25:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
