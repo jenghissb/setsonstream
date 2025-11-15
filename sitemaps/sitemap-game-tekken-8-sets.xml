@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/heat-wave-8-1/set/96327157/</loc>
-  <lastmod>2025-11-15T20:03:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/heat-wave-8-1/set/96327166/</loc>
+  <lastmod>2025-11-15T20:26:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825973/image-68c4e9406bb1aa7e1ce85fd48f7a6c9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shaundude vs Bean Head, Heat Wave 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shaundude vs Bean Head in Winners Quarter-Final of Heat Wave 8, streamed by Level1_TV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619279234&amp;t=2h10m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1425</video:duration>
+    <video:publication_date>2025-11-15T20:26:05.000Z</video:publication_date>
+    <video:uploader>Level1_TV</video:uploader>
+    <video:expiration_date>2025-11-23T20:26:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/heat-wave-8-1/set/96327157/</loc>
+  <lastmod>2025-11-15T20:37:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619279234&amp;t=1h47m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1742</video:duration>
+    <video:duration>687</video:duration>
     <video:publication_date>2025-11-15T20:03:29.000Z</video:publication_date>
     <video:uploader>Level1_TV</video:uploader>
     <video:expiration_date>2025-11-23T20:03:29.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-25T17:34:03.000Z</video:publication_date>
     <video:uploader>egxarena</video:uploader>
     <video:expiration_date>2025-11-02T17:34:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/arena-series/set/95441952/</loc>
-  <lastmod>2025-10-25T17:45:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835363/image-b9ac3ec5028792504b05dcdc1d3acbf9.png
-    </video:thumbnail_loc>
-    <video:title>
-      KRYP | Keebe Omega vs Mirage | Gosain, Arena Series - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KRYP | Keebe Omega vs Mirage | Gosain in Losers Semi-Final of Arena Series, streamed by egxarena
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600866348&amp;t=6h36m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1494</video:duration>
-    <video:publication_date>2025-10-25T17:11:15.000Z</video:publication_date>
-    <video:uploader>egxarena</video:uploader>
-    <video:expiration_date>2025-11-02T17:11:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
