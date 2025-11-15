@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/salty-soiree-2025-the-main-event/set/96344650/</loc>
-  <lastmod>2025-11-15T23:02:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/juicy-monthly-november-15th-2025/set/96355651/</loc>
+  <lastmod>2025-11-15T23:27:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839871/image-74ad0a284155e55af3f4e0cbbf96fdb5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      AJFA | kingnothing vs MrDarkIce, Juicy Monthly - November 15th, 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AJFA | kingnothing vs MrDarkIce in Losers Quarter-Final of Juicy Monthly - November 15th, 2025, streamed by JuicyGameNight
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619309909&amp;t=4h33m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>761</video:duration>
+    <video:publication_date>2025-11-15T23:27:05.000Z</video:publication_date>
+    <video:uploader>JuicyGameNight</video:uploader>
+    <video:expiration_date>2025-11-23T23:27:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/salty-soiree-2025-the-main-event/set/96344650/</loc>
+  <lastmod>2025-11-15T23:37:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619324187&amp;t=3h55m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1608</video:duration>
+    <video:duration>348</video:duration>
     <video:publication_date>2025-11-15T23:02:33.000Z</video:publication_date>
     <video:uploader>misspatriciaa</video:uploader>
     <video:expiration_date>2025-11-23T23:02:33.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-22T00:36:41.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-10-30T00:36:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-123/set/95299282/</loc>
-  <lastmod>2025-10-22T00:49:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843292/image-1a867aa056ef2fceb4478bbf29559107.png
-    </video:thumbnail_loc>
-    <video:title>
-      CT3 | T3 vs TRICKY | morg, HoG: Dragon #123 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CT3 | T3 vs TRICKY | morg in Winners Quarter-Final of HoG: Dragon #123, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597987928&amp;t=0h42m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>779</video:duration>
-    <video:publication_date>2025-10-22T00:11:03.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-10-30T00:11:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
