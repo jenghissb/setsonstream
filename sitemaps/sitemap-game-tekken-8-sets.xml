@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397856/</loc>
+  <lastmod>2025-11-16T21:01:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/794296/image-98a6562e4989c6d459235b9db0521ee1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mirage | Kaizur vs PCF | REV | Nick RM, Midwest Mixfest &apos;25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mirage | Kaizur vs PCF | REV | Nick RM in Winners Semi-Final of Midwest Mixfest &apos;25, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2620086857&amp;t=5h21m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>733</video:duration>
+    <video:publication_date>2025-11-16T21:01:46.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-24T21:01:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-monthly-november-15th-2025/set/96369203/</loc>
   <lastmod>2025-11-16T04:01:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-26T00:09:58.000Z</video:publication_date>
     <video:uploader>585FighterZ</video:uploader>
     <video:expiration_date>2025-11-03T00:09:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-esg-monthly-40-the-fgc-event/set/95498704/</loc>
-  <lastmod>2025-10-26T00:44:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835075/image-9f8517837748541477903a0b877f261b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Penalva vs LOCK | 1zei, The ESG Monthly #40: The FGC Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Penalva vs LOCK | 1zei in Winners Quarter-Final of The ESG Monthly #40: The FGC Event, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601169552&amp;t=5h47m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>428</video:duration>
-    <video:publication_date>2025-10-26T00:06:57.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2025-11-03T00:06:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
