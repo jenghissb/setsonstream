@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397870/</loc>
-  <lastmod>2025-11-16T21:26:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397872/</loc>
+  <lastmod>2025-11-16T21:46:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/794296/image-98a6562e4989c6d459235b9db0521ee1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mirage | Kaizur vs United | BigDame21, Midwest Mixfest &apos;25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mirage | Kaizur vs United | BigDame21 in Losers Quarter-Final of Midwest Mixfest &apos;25, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2620086857&amp;t=6h6m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1657</video:duration>
+    <video:publication_date>2025-11-16T21:46:48.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-24T21:46:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397870/</loc>
+  <lastmod>2025-11-16T21:52:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2620086857&amp;t=5h45m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1390</video:duration>
+    <video:duration>541</video:duration>
     <video:publication_date>2025-11-16T21:26:32.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-24T21:26:32.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-26T00:31:28.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-11-03T00:31:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/festival-of-fights-v/set/95476190/</loc>
-  <lastmod>2025-10-26T00:44:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800390/image-afd228bb2ab48f3a682175ec234e234a.png
-    </video:thumbnail_loc>
-    <video:title>
-      FT | Kaplurf vs Undeadfred, Festival of Fights V - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FT | Kaplurf vs Undeadfred in Losers Final of Festival of Fights V, streamed by crackinatkins
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601277906&amp;t=3h41m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>824</video:duration>
-    <video:publication_date>2025-10-26T00:10:36.000Z</video:publication_date>
-    <video:uploader>crackinatkins</video:uploader>
-    <video:expiration_date>2025-11-03T00:10:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
