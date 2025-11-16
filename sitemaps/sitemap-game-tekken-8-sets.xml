@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397858/</loc>
-  <lastmod>2025-11-16T22:16:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397873/</loc>
+  <lastmod>2025-11-16T22:42:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/794296/image-98a6562e4989c6d459235b9db0521ee1.png
+    </video:thumbnail_loc>
+    <video:title>
+      E1P1C vs Mirage | Kaizur, Midwest Mixfest &apos;25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch E1P1C vs Mirage | Kaizur in Losers Semi-Final of Midwest Mixfest &apos;25, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2620086857&amp;t=7h2m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>399</video:duration>
+    <video:publication_date>2025-11-16T22:42:59.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-24T22:42:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397858/</loc>
+  <lastmod>2025-11-16T22:44:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2620086857&amp;t=6h35m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1008</video:duration>
+    <video:duration>592</video:duration>
     <video:publication_date>2025-11-16T22:16:32.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-24T22:16:32.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-26T09:46:56.000Z</video:publication_date>
     <video:uploader>baaz_gg</video:uploader>
     <video:expiration_date>2025-11-03T09:46:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-esg-monthly-40-the-fgc-event/set/95498710/</loc>
-  <lastmod>2025-10-26T01:39:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835075/image-9f8517837748541477903a0b877f261b.png
-    </video:thumbnail_loc>
-    <video:title>
-      BES | C-Sticks vs CRAB | ZeperTheStar, The ESG Monthly #40: The FGC Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BES | C-Sticks vs CRAB | ZeperTheStar in Grand Final of The ESG Monthly #40: The FGC Event, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601169552&amp;t=6h50m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>826</video:duration>
-    <video:publication_date>2025-10-26T01:10:34.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2025-11-03T01:10:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
