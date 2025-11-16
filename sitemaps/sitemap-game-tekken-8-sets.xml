@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397856/</loc>
-  <lastmod>2025-11-16T21:01:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397870/</loc>
+  <lastmod>2025-11-16T21:26:32.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/794296/image-98a6562e4989c6d459235b9db0521ee1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Matt_Tekken vs United | BigDame21, Midwest Mixfest &apos;25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Matt_Tekken vs United | BigDame21 in Losers Round 1 of Midwest Mixfest &apos;25, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2620086857&amp;t=5h45m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>790</video:duration>
+    <video:publication_date>2025-11-16T21:26:32.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-24T21:26:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/midwest-mixfest-25/set/96397856/</loc>
+  <lastmod>2025-11-16T21:30:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2620086857&amp;t=5h21m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1647</video:duration>
+    <video:duration>672</video:duration>
     <video:publication_date>2025-11-16T21:01:46.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-24T21:01:46.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-26T00:10:36.000Z</video:publication_date>
     <video:uploader>crackinatkins</video:uploader>
     <video:expiration_date>2025-11-03T00:10:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/let-s-roc-13/set/95484207/</loc>
-  <lastmod>2025-10-26T00:44:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835814/image-310b67297d704fce83c5ebfd92d1d0d6.png
-    </video:thumbnail_loc>
-    <video:title>
-      585Z | Gibbs vs 585Z | Tyger, Let&apos;s ROC 13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 585Z | Gibbs vs 585Z | Tyger in Grand Final of Let&apos;s ROC 13, streamed by 585FighterZ
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601157980&amp;t=6h4m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1402</video:duration>
-    <video:publication_date>2025-10-26T00:09:58.000Z</video:publication_date>
-    <video:uploader>585FighterZ</video:uploader>
-    <video:expiration_date>2025-11-03T00:09:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
