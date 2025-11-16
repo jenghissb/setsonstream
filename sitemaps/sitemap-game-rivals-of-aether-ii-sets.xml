@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/npsc-presents-ray-s-double-doubles/set/96391405/</loc>
+  <lastmod>2025-11-16T19:53:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846035/image-08c2dcb44234cc50bb2a788cc8a865ea.png
+    </video:thumbnail_loc>
+    <video:title>
+      UniTy vs MRST | Ornik, NPSC Presents: ray&apos;s Double Doubles - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UniTy vs MRST | Ornik in Winners Quarter-Final of NPSC Presents: ray&apos;s Double Doubles, streamed by npsmashclub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2620166281&amp;t=2h27m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1366</video:duration>
+    <video:publication_date>2025-11-16T19:53:59.000Z</video:publication_date>
+    <video:uploader>npsmashclub</video:uploader>
+    <video:expiration_date>2025-11-24T19:53:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/slipstream-showdown-4/set/96359387/</loc>
   <lastmod>2025-11-16T02:31:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-25T16:39:08.000Z</video:publication_date>
     <video:uploader>skylord_guthix</video:uploader>
     <video:expiration_date>2025-11-02T16:39:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-3/set/95433047/</loc>
-  <lastmod>2025-10-25T16:27:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813286/image-99e3c13689bebee7fb7d4bfd7bceff59.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nibodax vs ELS DAT | Focus Miss, ARRIVAL 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nibodax vs ELS DAT | Focus Miss in Round 2 of ARRIVAL 3, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600906307&amp;t=3h47m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>857</video:duration>
-    <video:publication_date>2025-10-25T15:48:00.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2025-11-02T15:48:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
