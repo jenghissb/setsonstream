@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heat-wave-8-1/set/96399551/</loc>
+  <lastmod>2025-11-16T23:10:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825973/image-68c4e9406bb1aa7e1ce85fd48f7a6c9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dakpo vs Nbad, Heat Wave 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dakpo vs Nbad in Losers Round 3 of Heat Wave 8, streamed by RivalsOfAether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2620138197&amp;t=6h19m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>201</video:duration>
+    <video:publication_date>2025-11-16T23:10:55.000Z</video:publication_date>
+    <video:uploader>RivalsOfAether</video:uploader>
+    <video:expiration_date>2025-11-24T23:10:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/npsc-presents-ray-s-double-doubles/set/96391408/</loc>
   <lastmod>2025-11-16T20:47:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-25T17:07:20.000Z</video:publication_date>
     <video:uploader>VGBootCamp3</video:uploader>
     <video:expiration_date>2025-11-02T17:07:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-3/set/95448274/</loc>
-  <lastmod>2025-10-25T17:23:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813286/image-99e3c13689bebee7fb7d4bfd7bceff59.png
-    </video:thumbnail_loc>
-    <video:title>
-      AoC | Guthix vs dogpetter12, ARRIVAL 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AoC | Guthix vs dogpetter12 in Winners Round 2 of ARRIVAL 3, streamed by lastofmanny
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600958087&amp;t=3h18m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>755</video:duration>
-    <video:publication_date>2025-10-25T16:49:55.000Z</video:publication_date>
-    <video:uploader>lastofmanny</video:uploader>
-    <video:expiration_date>2025-11-02T16:49:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
