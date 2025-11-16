@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619600016&amp;t=3h47m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>252</video:duration>
+    <video:duration>823</video:duration>
     <video:publication_date>2025-11-16T04:40:39.000Z</video:publication_date>
     <video:uploader>TeamSaltillo</video:uploader>
     <video:expiration_date>2025-11-24T04:40:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platnite-183-on-a-saturday/set/96371148/</loc>
-  <lastmod>2025-11-16T04:21:15.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852135/image-d26043ec43d2f1f72cf3729df7b7987c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Benkatony vs NYC | Peluchito1, Platnite 183: On a Saturday! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Benkatony vs NYC | Peluchito1 in Losers Final of Platnite 183: On a Saturday!, streamed by UCO Esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/M3fdA7A5_a4?start=8928s
-    </video:player_loc>
-    <video:duration>1416</video:duration>
-    <video:publication_date>2025-11-16T04:21:15.000Z</video:publication_date>
-    <video:uploader>UCO Esports</video:uploader>
-    <video:expiration_date>2025-11-24T04:21:15.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -64,9 +40,9 @@
       Watch EWA | Fizzmint vs EWA | Cattail in Grand Final Reset of GEWA Summit @ Lumberyard, streamed by PalouseGaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619387839&amp;t=8h4m56s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?channel=PalouseGaming&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1251</video:duration>
+    <video:duration>1822</video:duration>
     <video:publication_date>2025-11-16T04:24:00.000Z</video:publication_date>
     <video:uploader>PalouseGaming</video:uploader>
     <video:expiration_date>2025-11-24T04:24:00.000Z</video:expiration_date>
@@ -74,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/crimson-collision-3-2/set/96372415/</loc>
-  <lastmod>2025-11-16T04:30:00.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-16T04:50:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -90,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619656776&amp;t=2h24m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>891</video:duration>
+    <video:duration>1027</video:duration>
     <video:publication_date>2025-11-16T04:30:00.000Z</video:publication_date>
     <video:uploader>nmstateesports</video:uploader>
     <video:expiration_date>2025-11-24T04:30:00.000Z</video:expiration_date>
@@ -118,6 +94,30 @@
     <video:publication_date>2025-11-16T04:21:56.000Z</video:publication_date>
     <video:uploader>TeamSaltillo</video:uploader>
     <video:expiration_date>2025-11-24T04:21:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platnite-183-on-a-saturday/set/96371148/</loc>
+  <lastmod>2025-11-16T04:47:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852135/image-d26043ec43d2f1f72cf3729df7b7987c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Benkatony vs NYC | Peluchito1, Platnite 183: On a Saturday! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Benkatony vs NYC | Peluchito1 in Losers Final of Platnite 183: On a Saturday!, streamed by UCO Esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/M3fdA7A5_a4?start=8928s
+    </video:player_loc>
+    <video:duration>1406</video:duration>
+    <video:publication_date>2025-11-16T04:21:15.000Z</video:publication_date>
+    <video:uploader>UCO Esports</video:uploader>
+    <video:expiration_date>2025-11-24T04:21:15.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
