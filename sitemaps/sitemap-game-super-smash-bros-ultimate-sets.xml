@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/4-96/set/96378290/</loc>
+  <lastmod>2025-11-16T09:38:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mkazu vs SNG | つゆだく(SNG | tsuyudaku), いろスマ#4 夜の部 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mkazu vs SNG | つゆだく(SNG | tsuyudaku) in Winners Quarter-Final of いろスマ#4 夜の部, streamed by かみら
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/h5LJPo8QjI0?start=276s
+    </video:player_loc>
+    <video:duration>668</video:duration>
+    <video:publication_date>2025-11-16T09:38:22.000Z</video:publication_date>
+    <video:uploader>かみら</video:uploader>
+    <video:expiration_date>2025-11-24T09:38:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-21-1/set/96376504/</loc>
   <lastmod>2025-11-16T09:11:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-08T21:17:29.000Z</video:publication_date>
     <video:uploader>VGBootCamp2</video:uploader>
     <video:expiration_date>2025-11-16T21:17:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muravi-games-house-of-salt-weeklies-133/set/96041650/</loc>
-  <lastmod>2025-11-08T21:40:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847259/image-8e03c2b4bbb85a3f921e9ce1593ef810.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ST6 | Juno vs PALO|RFG | Ghoul_R, Muravi Games: House of Salt Weeklies #133! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ST6 | Juno vs PALO|RFG | Ghoul_R in Winners Round 1 of Muravi Games: House of Salt Weeklies #133!, streamed by Muravi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613306562&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1070</video:duration>
-    <video:publication_date>2025-11-08T21:16:49.000Z</video:publication_date>
-    <video:uploader>Muravi</video:uploader>
-    <video:expiration_date>2025-11-16T21:16:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
