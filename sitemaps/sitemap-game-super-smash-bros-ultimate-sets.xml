@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=MindPlayMP&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2270</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2025-11-16T07:11:48.000Z</video:publication_date>
     <video:uploader>MindPlayMP</video:uploader>
     <video:expiration_date>2025-11-24T07:11:48.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-21-1/set/96376533/</loc>
-  <lastmod>2025-11-16T07:28:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-21-1/set/96376534/</loc>
+  <lastmod>2025-11-16T07:49:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840063/image-09e0934666b257f20a5dc8a2a4fa6cb1.png
+    </video:thumbnail_loc>
+    <video:title>
+      ラクス(rakusu) vs るみりお(rumirio), INNOSUMA!!#21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ラクス(rakusu) vs るみりお(rumirio) in Losers Final of INNOSUMA!!#21, streamed by 南大阪スマブラオフ大会「INNOSUMA!!」
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/wU9Kkmgha3Q?start=9435s
+    </video:player_loc>
+    <video:duration>1790</video:duration>
+    <video:publication_date>2025-11-16T07:49:46.000Z</video:publication_date>
+    <video:uploader>南大阪スマブラオフ大会「INNOSUMA!!」</video:uploader>
+    <video:expiration_date>2025-11-24T07:49:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-21-1/set/96376533/</loc>
+  <lastmod>2025-11-16T07:51:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/wU9Kkmgha3Q?start=8176s
     </video:player_loc>
-    <video:duration>1251</video:duration>
+    <video:duration>1244</video:duration>
     <video:publication_date>2025-11-16T07:28:47.000Z</video:publication_date>
     <video:uploader>南大阪スマブラオフ大会「INNOSUMA!!」</video:uploader>
     <video:expiration_date>2025-11-24T07:28:47.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-08T21:16:45.000Z</video:publication_date>
     <video:uploader>GWeekly_Smash</video:uploader>
     <video:expiration_date>2025-11-16T21:16:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rollaout-5-bracket-explosion-simulator/set/96035263/</loc>
-  <lastmod>2025-11-08T21:34:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818336/image-654bbd25665393ecb53632b1eef15515.png
-    </video:thumbnail_loc>
-    <video:title>
-      TCS BTV/WOD | Lost vs Garv, RollaOut 5: Bracket Explosion Simulator - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TCS BTV/WOD | Lost vs Garv in Round 7 of RollaOut 5: Bracket Explosion Simulator, streamed by MSTFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613153278&amp;t=2h58m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>598</video:duration>
-    <video:publication_date>2025-11-08T21:16:06.000Z</video:publication_date>
-    <video:uploader>MSTFGC</video:uploader>
-    <video:expiration_date>2025-11-16T21:16:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
