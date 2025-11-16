@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-monthly-november-15th-2025/set/96369202/</loc>
-  <lastmod>2025-11-16T02:46:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-monthly-november-15th-2025/set/96369203/</loc>
+  <lastmod>2025-11-16T03:36:35.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839871/image-74ad0a284155e55af3f4e0cbbf96fdb5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BREAD | Droopi_TV vs LAK, Juicy Monthly - November 15th, 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BREAD | Droopi_TV vs LAK in Grand Final of Juicy Monthly - November 15th, 2025, streamed by JuicyGameNight
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2619309909&amp;t=8h43m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>910</video:duration>
+    <video:publication_date>2025-11-16T03:36:35.000Z</video:publication_date>
+    <video:uploader>JuicyGameNight</video:uploader>
+    <video:expiration_date>2025-11-24T03:36:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-monthly-november-15th-2025/set/96369202/</loc>
+  <lastmod>2025-11-16T03:15:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2619309909&amp;t=7h53m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>791</video:duration>
+    <video:duration>546</video:duration>
     <video:publication_date>2025-11-16T02:46:49.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2025-11-24T02:46:49.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-26T00:06:57.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-11-03T00:06:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/festival-of-fights-v/set/95476189/</loc>
-  <lastmod>2025-10-26T00:13:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800390/image-afd228bb2ab48f3a682175ec234e234a.png
-    </video:thumbnail_loc>
-    <video:title>
-      FT | Hey It&apos;s Sage vs Undeadfred, Festival of Fights V - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FT | Hey It&apos;s Sage vs Undeadfred in Losers Semi-Final of Festival of Fights V, streamed by crackinatkins
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601277906&amp;t=3h1m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>879</video:duration>
-    <video:publication_date>2025-10-25T23:30:59.000Z</video:publication_date>
-    <video:uploader>crackinatkins</video:uploader>
-    <video:expiration_date>2025-11-02T23:30:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
