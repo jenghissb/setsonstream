@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/midwest-mixfest-25/set/96404379/</loc>
+  <lastmod>2025-11-17T01:02:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/794296/image-98a6562e4989c6d459235b9db0521ee1.png
+    </video:thumbnail_loc>
+    <video:title>
+      TheFatManatee vs Docmorales24, Midwest Mixfest &apos;25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TheFatManatee vs Docmorales24 in Losers Final of Midwest Mixfest &apos;25, streamed by TampaNeverSleeps
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2620086857&amp;t=9h21m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>702</video:duration>
+    <video:publication_date>2025-11-17T01:02:26.000Z</video:publication_date>
+    <video:uploader>TampaNeverSleeps</video:uploader>
+    <video:expiration_date>2025-11-25T01:02:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/battle-coliseum-2025/set/96387127/</loc>
   <lastmod>2025-11-16T19:24:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-25T03:54:21.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-11-02T03:54:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/reignited-82/set/95418375/</loc>
-  <lastmod>2025-10-25T04:21:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842974/image-7d9b6c1de1e82b18f26c1e7acf7d3912.png
-    </video:thumbnail_loc>
-    <video:title>
-      Troll vs Mr Noodles | Mr Noodels, Reignited #82 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Troll vs Mr Noodles | Mr Noodels in Winners Quarter-Final of Reignited #82, streamed by asuesportsofficial
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600694794&amp;t=0h5m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>550</video:duration>
-    <video:publication_date>2025-10-25T03:47:13.000Z</video:publication_date>
-    <video:uploader>asuesportsofficial</video:uploader>
-    <video:expiration_date>2025-11-02T03:47:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
