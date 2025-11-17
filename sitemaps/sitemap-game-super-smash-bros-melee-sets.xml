@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-85/set/96442340/</loc>
+  <lastmod>2025-11-17T19:48:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851844/image-607ed144998bfaba3dcff316f1d583a6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Busard vs djellaba luffy, KnockOut Zone #85 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Busard vs djellaba luffy in Winners Final of KnockOut Zone #85, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621017476&amp;t=1h37m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1783</video:duration>
+    <video:publication_date>2025-11-17T19:48:58.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-11-25T19:48:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-85/set/96442339/</loc>
   <lastmod>2025-11-17T19:48:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-22T01:50:45.000Z</video:publication_date>
     <video:uploader>dinksterlive</video:uploader>
     <video:expiration_date>2025-10-30T01:50:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/d20-melee-28/set/95303863/</loc>
-  <lastmod>2025-10-22T01:57:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842398/image-a419e08fbf49f7da3c31647668c9d3f4.png
-    </video:thumbnail_loc>
-    <video:title>
-      TEMU | Trashman vs Dinkster, D20 Melee 28 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TEMU | Trashman vs Dinkster in Losers Quarter-Final of D20 Melee 28, streamed by dinksterlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2597994444&amp;t=1h51m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1143</video:duration>
-    <video:publication_date>2025-10-22T01:28:38.000Z</video:publication_date>
-    <video:uploader>dinksterlive</video:uploader>
-    <video:expiration_date>2025-10-30T01:28:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
