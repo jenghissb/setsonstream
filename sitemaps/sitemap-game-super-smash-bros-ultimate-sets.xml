@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/17-323/set/96412689/</loc>
-  <lastmod>2025-11-17T11:24:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/17-323/set/96412690/</loc>
+  <lastmod>2025-11-17T11:36:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851168/image-efea27ab70e7fa34f7b6f5865813c052.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      fallan vs k-z, 17(月)上野スマコミ#323(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch fallan vs k-z in Winners Semi-Final of 17(月)上野スマコミ#323(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/PsdUi85A5FQ?start=2726s
+    </video:player_loc>
+    <video:duration>373</video:duration>
+    <video:publication_date>2025-11-17T11:36:19.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-11-25T11:36:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/17-323/set/96412689/</loc>
+  <lastmod>2025-11-17T11:37:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/PsdUi85A5FQ?start=2014s
     </video:player_loc>
-    <video:duration>376</video:duration>
+    <video:duration>685</video:duration>
     <video:publication_date>2025-11-17T11:24:27.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-25T11:24:27.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-09T20:26:14.000Z</video:publication_date>
     <video:uploader>GerikTreehouse</video:uploader>
     <video:expiration_date>2025-11-17T20:26:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tidal-waves-5-2250-pot-bonus-and-growing/set/96088912/</loc>
-  <lastmod>2025-11-09T20:58:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/814736/image-96e8523feb51fe0fe2839ccb936552ff.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NS | CaKe vs Z, Tidal Waves #5 + 2250$ Pot Bonus (and growing!) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NS | CaKe vs Z in Winners Semi-Final of Tidal Waves #5 + 2250$ Pot Bonus (and growing!), streamed by galintgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614035301&amp;t=2h40m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1766</video:duration>
-    <video:publication_date>2025-11-09T20:26:03.000Z</video:publication_date>
-    <video:uploader>galintgaming</video:uploader>
-    <video:expiration_date>2025-11-17T20:26:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
