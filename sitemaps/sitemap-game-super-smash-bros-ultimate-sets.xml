@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/17-323/set/96412692/</loc>
+  <lastmod>2025-11-17T12:54:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851168/image-efea27ab70e7fa34f7b6f5865813c052.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      k-z vs LG3 | ジャイロでいきます(LG3 | jairo deikimasu), 17(月)上野スマコミ#323(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch k-z vs LG3 | ジャイロでいきます(LG3 | jairo deikimasu) in Grand Final of 17(月)上野スマコミ#323(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/PsdUi85A5FQ?start=6515s
+    </video:player_loc>
+    <video:duration>803</video:duration>
+    <video:publication_date>2025-11-17T12:39:28.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-11-25T12:39:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/17-323/set/96412755/</loc>
-  <lastmod>2025-11-17T12:21:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-17T12:41:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/PsdUi85A5FQ?start=5416s
     </video:player_loc>
-    <video:duration>739</video:duration>
+    <video:duration>1078</video:duration>
     <video:publication_date>2025-11-17T12:21:09.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-11-25T12:21:09.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-09T20:37:40.000Z</video:publication_date>
     <video:uploader>capitalott</video:uploader>
     <video:expiration_date>2025-11-17T20:37:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torrente-smash-5/set/96088893/</loc>
-  <lastmod>2025-11-09T20:55:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847249/image-ccb9706bb24f34ce79c4d13a171debd7.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      EmiLoKiJu vs PG | Rocco, Torrente Smash #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EmiLoKiJu vs PG | Rocco in Losers Round 4 of Torrente Smash #5, streamed by pendulumgaming1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614093424&amp;t=1h38m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>969</video:duration>
-    <video:publication_date>2025-11-09T20:35:16.000Z</video:publication_date>
-    <video:uploader>pendulumgaming1</video:uploader>
-    <video:expiration_date>2025-11-17T20:35:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
