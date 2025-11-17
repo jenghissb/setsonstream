@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-85/set/96441920/</loc>
-  <lastmod>2025-11-17T22:21:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-85/set/96441793/</loc>
+  <lastmod>2025-11-17T22:39:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/851844/image-607ed144998bfaba3dcff316f1d583a6.jpg
     </video:thumbnail_loc>
     <video:title>
-      ExtraLife Café | Amiin vs SA | BG | Alasauce, KnockOut Zone #85 - Sets on Stream
+      ASURA | Mezcaul vs ExtraLife Café | Amiin, KnockOut Zone #85 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ExtraLife Café | Amiin vs SA | BG | Alasauce in Losers Final of KnockOut Zone #85, streamed by orbitalsheep
+      Watch ASURA | Mezcaul vs ExtraLife Café | Amiin in Grand Final of KnockOut Zone #85, streamed by orbitalsheep
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2621036097&amp;t=3h43m56s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2621036097&amp;t=4h1m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>840</video:duration>
-    <video:publication_date>2025-11-17T22:21:35.000Z</video:publication_date>
+    <video:duration>690</video:duration>
+    <video:publication_date>2025-11-17T22:39:00.000Z</video:publication_date>
     <video:uploader>orbitalsheep</video:uploader>
-    <video:expiration_date>2025-11-25T22:21:35.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-25T22:39:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dat-monday-meltdown-366/set/96444169/</loc>
+  <lastmod>2025-11-17T22:40:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851764/image-ee50686caf1ebc3f5ba11dfbc393518a.png
+    </video:thumbnail_loc>
+    <video:title>
+      GRNT | Skew vs Kendrick Olimar, DAT Monday Meltdown 366 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GRNT | Skew vs Kendrick Olimar in Grand Final of DAT Monday Meltdown 366, streamed by datteamlive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621055311&amp;t=3h39m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>613</video:duration>
+    <video:publication_date>2025-11-17T22:40:17.000Z</video:publication_date>
+    <video:uploader>datteamlive</video:uploader>
+    <video:expiration_date>2025-11-25T22:40:17.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dat-monday-meltdown-366/set/96444200/</loc>
-  <lastmod>2025-11-17T22:25:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-17T22:41:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2621055311&amp;t=3h24m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>621</video:duration>
+    <video:duration>890</video:duration>
     <video:publication_date>2025-11-17T22:25:14.000Z</video:publication_date>
     <video:uploader>datteamlive</video:uploader>
     <video:expiration_date>2025-11-25T22:25:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-85/set/96441920/</loc>
+  <lastmod>2025-11-17T22:41:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851844/image-607ed144998bfaba3dcff316f1d583a6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ExtraLife Café | Amiin vs SA | BG | Alasauce, KnockOut Zone #85 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ExtraLife Café | Amiin vs SA | BG | Alasauce in Losers Final of KnockOut Zone #85, streamed by orbitalsheep
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621036097&amp;t=3h43m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1013</video:duration>
+    <video:publication_date>2025-11-17T22:21:35.000Z</video:publication_date>
+    <video:uploader>orbitalsheep</video:uploader>
+    <video:expiration_date>2025-11-25T22:21:35.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-11-09T22:38:18.000Z</video:publication_date>
     <video:uploader>ttvMadison</video:uploader>
     <video:expiration_date>2025-11-17T22:38:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tec-in-place-4/set/96096898/</loc>
-  <lastmod>2025-11-09T23:02:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/648772/image-dec78bc2c80b8b6b4c9c8c1ea7da9eaf.png
-    </video:thumbnail_loc>
-    <video:title>
-      SK TG | Many vs Cosmic/EFG | SuperDog, Tec In Place #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SK TG | Many vs Cosmic/EFG | SuperDog in Winners Quarter-Final of Tec In Place #4, streamed by iniciativareset
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614200811&amp;t=1h32m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1185</video:duration>
-    <video:publication_date>2025-11-09T22:36:38.000Z</video:publication_date>
-    <video:uploader>iniciativareset</video:uploader>
-    <video:expiration_date>2025-11-17T22:36:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tidal-waves-5-2250-pot-bonus-and-growing/set/96095360/</loc>
-  <lastmod>2025-11-09T22:52:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/814736/image-96e8523feb51fe0fe2839ccb936552ff.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Veyoya vs GMBL | Bingledorf, Tidal Waves #5 + 2250$ Pot Bonus (and growing!) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Veyoya vs GMBL | Bingledorf in Losers Round 3 of Tidal Waves #5 + 2250$ Pot Bonus (and growing!), streamed by capitalott
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614010747&amp;t=5h23m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>677</video:duration>
-    <video:publication_date>2025-11-09T22:36:10.000Z</video:publication_date>
-    <video:uploader>capitalott</video:uploader>
-    <video:expiration_date>2025-11-17T22:36:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
