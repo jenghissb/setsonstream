@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463260/</loc>
-  <lastmod>2025-11-18T08:17:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463278/</loc>
+  <lastmod>2025-11-18T08:40:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aetos vs Method Man, WeeklyVac #250 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aetos vs Method Man in Winners Round 2 of WeeklyVac #250, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621542689&amp;t=1h4m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>460</video:duration>
+    <video:publication_date>2025-11-18T08:40:55.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-11-26T08:40:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463260/</loc>
+  <lastmod>2025-11-18T08:28:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2621542689&amp;t=0h41m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>247</video:duration>
+    <video:duration>559</video:duration>
     <video:publication_date>2025-11-18T08:17:49.000Z</video:publication_date>
     <video:uploader>bigcheese_gg</video:uploader>
     <video:expiration_date>2025-11-26T08:17:49.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-10T05:15:05.000Z</video:publication_date>
     <video:uploader>VGBootCamp</video:uploader>
     <video:expiration_date>2025-11-18T05:15:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-3/set/96112214/</loc>
-  <lastmod>2025-11-10T05:32:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848414/image-a55d7711c771dad261be0dcebfd29b76.png
-    </video:thumbnail_loc>
-    <video:title>
-      DT-EFG | MayloKING vs PSK | BICI, Reborn #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DT-EFG | MayloKING vs PSK | BICI in Losers Semi-Final of Reborn #3, streamed by xtrtj
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614373890&amp;t=4h3m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1082</video:duration>
-    <video:publication_date>2025-11-10T05:11:03.000Z</video:publication_date>
-    <video:uploader>xtrtj</video:uploader>
-    <video:expiration_date>2025-11-18T05:11:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
