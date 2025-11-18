@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-the-elm-24/set/96451085/</loc>
-  <lastmod>2025-11-18T04:08:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832710/image-72920eaafb4a436a6731548b9d2a4e75.png
-    </video:thumbnail_loc>
-    <video:title>
-      MATE | Kalvar vs N0va | hc | Coolslice, Melee At The Elm #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MATE | Kalvar vs N0va | hc | Coolslice in Grand Final of Melee At The Elm #24, streamed by 22Kteam
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=22Kteam&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-11-18T04:08:19.000Z</video:publication_date>
-    <video:uploader>22Kteam</video:uploader>
-    <video:expiration_date>2025-11-26T04:08:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-33-johnny-tsunami-1/set/96459961/</loc>
   <lastmod>2025-11-18T05:30:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -142,6 +118,30 @@
     <video:publication_date>2025-11-18T04:19:45.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2025-11-26T04:19:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-the-elm-24/set/96451085/</loc>
+  <lastmod>2025-11-18T06:12:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832710/image-72920eaafb4a436a6731548b9d2a4e75.png
+    </video:thumbnail_loc>
+    <video:title>
+      MATE | Kalvar vs N0va | hc | Coolslice, Melee At The Elm #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MATE | Kalvar vs N0va | hc | Coolslice in Grand Final of Melee At The Elm #24, streamed by 22Kteam
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621256742&amp;t=4h33m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-11-18T04:08:19.000Z</video:publication_date>
+    <video:uploader>22Kteam</video:uploader>
+    <video:expiration_date>2025-11-26T04:08:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
