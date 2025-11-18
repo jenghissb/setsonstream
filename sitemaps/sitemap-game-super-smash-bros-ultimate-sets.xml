@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463280/</loc>
+  <lastmod>2025-11-18T09:33:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Free Steve | SA Q vs FP | Heaven, WeeklyVac #250 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Free Steve | SA Q vs FP | Heaven in Winners Quarter-Final of WeeklyVac #250, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621542689&amp;t=1h52m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>214</video:duration>
+    <video:publication_date>2025-11-18T09:28:20.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-11-26T09:28:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463281/</loc>
   <lastmod>2025-11-18T09:02:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-10T05:43:34.000Z</video:publication_date>
     <video:uploader>xtrtj</video:uploader>
     <video:expiration_date>2025-11-18T05:43:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-3/set/96112215/</loc>
-  <lastmod>2025-11-10T05:45:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848414/image-a55d7711c771dad261be0dcebfd29b76.png
-    </video:thumbnail_loc>
-    <video:title>
-      PSK | Motomami vs PSK | BICI, Reborn #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PSK | Motomami vs PSK | BICI in Losers Final of Reborn #3, streamed by xtrtj
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614373890&amp;t=4h21m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>852</video:duration>
-    <video:publication_date>2025-11-10T05:29:11.000Z</video:publication_date>
-    <video:uploader>xtrtj</video:uploader>
-    <video:expiration_date>2025-11-18T05:29:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
