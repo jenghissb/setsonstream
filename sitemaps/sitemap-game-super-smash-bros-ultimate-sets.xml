@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463283/</loc>
+  <lastmod>2025-11-18T09:48:23.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      FP | pinky vs Free Steve | SA Q, WeeklyVac #250 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FP | pinky vs Free Steve | SA Q in Winners Semi-Final of WeeklyVac #250, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621542689&amp;t=2h12m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>241</video:duration>
+    <video:publication_date>2025-11-18T09:48:23.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-11-26T09:48:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463280/</loc>
   <lastmod>2025-11-18T09:33:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-10T06:00:10.000Z</video:publication_date>
     <video:uploader>VGBootCamp</video:uploader>
     <video:expiration_date>2025-11-18T06:00:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/reborn-3/set/96112184/</loc>
-  <lastmod>2025-11-10T05:55:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848414/image-a55d7711c771dad261be0dcebfd29b76.png
-    </video:thumbnail_loc>
-    <video:title>
-      OUT | PSK | WaKa vs PSK | BICI, Reborn #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OUT | PSK | WaKa vs PSK | BICI in Grand Final of Reborn #3, streamed by xtrtj
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614373890&amp;t=4h35m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>538</video:duration>
-    <video:publication_date>2025-11-10T05:43:34.000Z</video:publication_date>
-    <video:uploader>xtrtj</video:uploader>
-    <video:expiration_date>2025-11-18T05:43:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
