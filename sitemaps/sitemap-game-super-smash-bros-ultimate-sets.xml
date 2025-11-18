@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463281/</loc>
+  <lastmod>2025-11-18T09:02:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kaeru vs yellow, WeeklyVac #250 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaeru vs yellow in Winners Quarter-Final of WeeklyVac #250, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621542689&amp;t=1h19m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>345</video:duration>
+    <video:publication_date>2025-11-18T08:55:50.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-11-26T08:55:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463278/</loc>
-  <lastmod>2025-11-18T08:40:55.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-18T08:52:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2621542689&amp;t=1h4m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>460</video:duration>
+    <video:duration>560</video:duration>
     <video:publication_date>2025-11-18T08:40:55.000Z</video:publication_date>
     <video:uploader>bigcheese_gg</video:uploader>
     <video:expiration_date>2025-11-26T08:40:55.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-10T05:29:11.000Z</video:publication_date>
     <video:uploader>xtrtj</video:uploader>
     <video:expiration_date>2025-11-18T05:29:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/port-priority-9-10/set/96111075/</loc>
-  <lastmod>2025-11-10T06:02:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
-    </video:thumbnail_loc>
-    <video:title>
-      カルメロ(karumero) vs LG | Sonix, Port Priority 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch カルメロ(karumero) vs LG | Sonix in Winners Final of Port Priority 9, streamed by VGBootCamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614064511&amp;t=10h53m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2691</video:duration>
-    <video:publication_date>2025-11-10T05:15:05.000Z</video:publication_date>
-    <video:uploader>VGBootCamp</video:uploader>
-    <video:expiration_date>2025-11-18T05:15:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
