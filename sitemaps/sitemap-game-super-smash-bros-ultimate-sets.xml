@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-250/set/96463260/</loc>
+  <lastmod>2025-11-18T08:17:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      ET vs HeyitsAnto, WeeklyVac #250 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ET vs HeyitsAnto in Winners Round 1 of WeeklyVac #250, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2621542689&amp;t=0h41m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>247</video:duration>
+    <video:publication_date>2025-11-18T08:17:49.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-11-26T08:17:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-72-powered-by-gamer-latam/set/96460452/</loc>
   <lastmod>2025-11-18T07:21:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-10T05:11:03.000Z</video:publication_date>
     <video:uploader>xtrtj</video:uploader>
     <video:expiration_date>2025-11-18T05:11:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/port-priority-9-10/set/96111088/</loc>
-  <lastmod>2025-11-10T05:18:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
-    </video:thumbnail_loc>
-    <video:title>
-      ShopifyRebels | Light vs NU | Lui$, Port Priority 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ShopifyRebels | Light vs NU | Lui$ in Losers Quarter-Final of Port Priority 9, streamed by VGBootCamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614064511&amp;t=10h36m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1019</video:duration>
-    <video:publication_date>2025-11-10T04:58:01.000Z</video:publication_date>
-    <video:uploader>VGBootCamp</video:uploader>
-    <video:expiration_date>2025-11-18T04:58:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
