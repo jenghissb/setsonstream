@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-76/set/96495363/</loc>
+  <lastmod>2025-11-19T04:23:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851237/image-9180d2d2197bd3c9a0a51b5634e33806.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      4o4 | Musa vs Alex_dotdot, 4o4 by Sh33rZ: Street Fighter #76 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 4o4 | Musa vs Alex_dotdot in Grand Final of 4o4 by Sh33rZ: Street Fighter #76, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622152709&amp;t=3h6m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>392</video:duration>
+    <video:publication_date>2025-11-19T04:09:47.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2025-11-27T04:09:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-76/set/96495394/</loc>
-  <lastmod>2025-11-19T03:56:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-19T04:14:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622152709&amp;t=2h53m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>229</video:duration>
+    <video:duration>605</video:duration>
     <video:publication_date>2025-11-19T03:56:53.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-11-27T03:56:53.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-26T19:58:25.000Z</video:publication_date>
     <video:uploader>firstattackpr</video:uploader>
     <video:expiration_date>2025-11-03T19:58:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95542404/</loc>
-  <lastmod>2025-10-26T20:08:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Falcons | Craime vs GranTODAKAI, First Attack 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Falcons | Craime vs GranTODAKAI in Winners Quarter-Final of First Attack 2025, streamed by firstattackpr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601862023&amp;t=5h40m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>588</video:duration>
-    <video:publication_date>2025-10-26T19:38:25.000Z</video:publication_date>
-    <video:uploader>firstattackpr</video:uploader>
-    <video:expiration_date>2025-11-03T19:38:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
