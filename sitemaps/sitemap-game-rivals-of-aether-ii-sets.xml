@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-61/set/96514235/</loc>
-  <lastmod>2025-11-19T23:22:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-61/set/96514238/</loc>
+  <lastmod>2025-11-19T23:38:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854003/image-c238e00b40e44d3398a161227caa4ba4.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ampersand vs Shirayuri, CU in Bracket 61 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ampersand vs Shirayuri in Round 4 of CU in Bracket 61, streamed by topblastzoneny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622888920&amp;t=0h39m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>647</video:duration>
+    <video:publication_date>2025-11-19T23:38:59.000Z</video:publication_date>
+    <video:uploader>topblastzoneny</video:uploader>
+    <video:expiration_date>2025-11-27T23:38:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-61/set/96514235/</loc>
+  <lastmod>2025-11-19T23:38:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622888920&amp;t=0h23m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>498</video:duration>
+    <video:duration>887</video:duration>
     <video:publication_date>2025-11-19T23:22:51.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-11-27T23:22:51.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-25T20:31:57.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2025-11-02T20:31:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/taverna-do-smash-outubro-2025/set/95453179/</loc>
-  <lastmod>2025-10-25T20:09:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834459/image-60fc7a8a941479aaf09478a59b6e069d.png
-    </video:thumbnail_loc>
-    <video:title>
-      DASH | Bolinho vs ManyTheGuy, Taverna do Smash Outubro 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DASH | Bolinho vs ManyTheGuy in Losers Final of Taverna do Smash Outubro 2025, streamed by teamdashbr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601111229&amp;t=2h18m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1256</video:duration>
-    <video:publication_date>2025-10-25T19:27:46.000Z</video:publication_date>
-    <video:uploader>teamdashbr</video:uploader>
-    <video:expiration_date>2025-11-02T19:27:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
