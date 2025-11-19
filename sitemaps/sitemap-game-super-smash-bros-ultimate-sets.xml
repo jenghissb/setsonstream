@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-u-smash-6-2/set/96506775/</loc>
-  <lastmod>2025-11-19T17:12:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/teksmash-24/set/96507774/</loc>
+  <lastmod>2025-11-19T17:19:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847688/image-5167c5365ba9bd7b510209fbac14abfa.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kor vs DOULDOF, TekSmash #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kor vs DOULDOF in Winners Round 1 of TekSmash #24, streamed by originalssbu
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622640455&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>769</video:duration>
+    <video:publication_date>2025-11-19T17:19:09.000Z</video:publication_date>
+    <video:uploader>originalssbu</video:uploader>
+    <video:expiration_date>2025-11-27T17:19:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/quincenal-u-smash-6-2/set/96506775/</loc>
+  <lastmod>2025-11-19T17:26:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622601563&amp;t=0h47m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>186</video:duration>
+    <video:duration>798</video:duration>
     <video:publication_date>2025-11-19T17:12:29.000Z</video:publication_date>
     <video:uploader>xupapapaa</video:uploader>
     <video:expiration_date>2025-11-27T17:12:29.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-11T20:56:45.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-11-19T20:56:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-217/set/96145926/</loc>
-  <lastmod>2025-11-11T21:14:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850077/image-1da89699e1b86eb94ff3254f3fe9bdc2.png
-    </video:thumbnail_loc>
-    <video:title>
-      GCR | Neytram vs GCR | Luffy_samy, Magna Arena #217 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GCR | Neytram vs GCR | Luffy_samy in Losers Quarter-Final of Magna Arena #217, streamed by kuracow
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2615746363&amp;t=2h32m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1104</video:duration>
-    <video:publication_date>2025-11-11T20:53:47.000Z</video:publication_date>
-    <video:uploader>kuracow</video:uploader>
-    <video:expiration_date>2025-11-19T20:53:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
