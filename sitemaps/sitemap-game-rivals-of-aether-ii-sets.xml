@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-61/set/96514233/</loc>
+  <lastmod>2025-11-19T22:40:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854003/image-c238e00b40e44d3398a161227caa4ba4.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shirayuri vs Arepa, CU in Bracket 61 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shirayuri vs Arepa in Round 1 of CU in Bracket 61, streamed by topblastzoneny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622868736&amp;t=0h9m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>533</video:duration>
+    <video:publication_date>2025-11-19T22:40:34.000Z</video:publication_date>
+    <video:uploader>topblastzoneny</video:uploader>
+    <video:expiration_date>2025-11-27T22:40:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/game-quest-weekly-88/set/96495257/</loc>
   <lastmod>2025-11-19T01:33:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-25T19:15:21.000Z</video:publication_date>
     <video:uploader>meadowkasu</video:uploader>
     <video:expiration_date>2025-11-02T19:15:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-graveyard-2025/set/95456003/</loc>
-  <lastmod>2025-10-25T19:37:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/821079/image-773c9caa4ba3c8be566f211563ddf053.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MB | Mkok vs Godly, The Graveyard 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MB | Mkok vs Godly in Losers Semi-Final of The Graveyard 2025, streamed by VGBootCamp3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601106924&amp;t=2h0m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>633</video:duration>
-    <video:publication_date>2025-10-25T19:05:16.000Z</video:publication_date>
-    <video:uploader>VGBootCamp3</video:uploader>
-    <video:expiration_date>2025-11-02T19:05:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
