@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-15/set/96510627/</loc>
-  <lastmod>2025-11-19T20:52:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      SP | Red vs General Scales, VantagePoint 15 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SP | Red vs General Scales in Winners Final of VantagePoint 15, streamed by smashpointseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622729612&amp;t=1h32m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1446</video:duration>
-    <video:publication_date>2025-11-19T20:52:05.000Z</video:publication_date>
-    <video:uploader>smashpointseries</video:uploader>
-    <video:expiration_date>2025-11-27T20:52:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lucy-57-weekly/set/96510304/</loc>
-  <lastmod>2025-11-19T21:10:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-19T21:16:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622698956&amp;t=2h29m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>331</video:duration>
+    <video:duration>285</video:duration>
     <video:publication_date>2025-11-19T21:10:40.000Z</video:publication_date>
     <video:uploader>LuCyEsports</video:uploader>
     <video:expiration_date>2025-11-27T21:10:40.000Z</video:expiration_date>
@@ -50,8 +26,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/river-s-smash-weekly-6/set/96509773/</loc>
-  <lastmod>2025-11-19T20:56:47.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-19T21:27:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622688991&amp;t=2h29m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1164</video:duration>
+    <video:duration>1768</video:duration>
     <video:publication_date>2025-11-19T20:56:47.000Z</video:publication_date>
     <video:uploader>midz_m</video:uploader>
     <video:expiration_date>2025-11-27T20:56:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-15/set/96510627/</loc>
+  <lastmod>2025-11-19T21:16:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      SP | Red vs General Scales, VantagePoint 15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SP | Red vs General Scales in Winners Final of VantagePoint 15, streamed by smashpointseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622729612&amp;t=1h32m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1395</video:duration>
+    <video:publication_date>2025-11-19T20:52:05.000Z</video:publication_date>
+    <video:uploader>smashpointseries</video:uploader>
+    <video:expiration_date>2025-11-27T20:52:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
