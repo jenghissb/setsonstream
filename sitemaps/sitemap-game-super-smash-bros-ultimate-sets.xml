@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-209/set/96505173/</loc>
-  <lastmod>2025-11-19T11:30:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-209/set/96505296/</loc>
+  <lastmod>2025-11-19T11:46:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/851299/image-2e1ee5556c144f2f11af8a65b2e70a38.png
     </video:thumbnail_loc>
     <video:title>
-      SOL | Marcos/まるこす(SOL | Marcos/ marukosu) vs Mao, Weekly Smash Party ～スマパ～ #209 - Sets on Stream
+      Mao vs 黒船(kurofune), Weekly Smash Party ～スマパ～ #209 - Sets on Stream
     </video:title>
     <video:description>
-      Watch SOL | Marcos/まるこす(SOL | Marcos/ marukosu) vs Mao in Winners Quarter-Final of Weekly Smash Party ～スマパ～ #209, streamed by East Geek Smash
+      Watch Mao vs 黒船(kurofune) in Losers Round 5 of Weekly Smash Party ～スマパ～ #209, streamed by VGBootCamp
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/ywejiX5M-jg?start=5160s
+      https://player.twitch.tv/?video=2622416883&amp;t=1h47m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>670</video:duration>
-    <video:publication_date>2025-11-19T11:30:42.000Z</video:publication_date>
+    <video:duration>233</video:duration>
+    <video:publication_date>2025-11-19T11:46:39.000Z</video:publication_date>
+    <video:uploader>VGBootCamp</video:uploader>
+    <video:expiration_date>2025-11-27T11:46:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-209/set/96505175/</loc>
+  <lastmod>2025-11-19T11:46:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851299/image-2e1ee5556c144f2f11af8a65b2e70a38.png
+    </video:thumbnail_loc>
+    <video:title>
+      SZ | Asimo vs SOL | Marcos/まるこす(SOL | Marcos/ marukosu), Weekly Smash Party ～スマパ～ #209 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SZ | Asimo vs SOL | Marcos/まるこす(SOL | Marcos/ marukosu) in Winners Semi-Final of Weekly Smash Party ～スマパ～ #209, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/ywejiX5M-jg?start=6136s
+    </video:player_loc>
+    <video:duration>214</video:duration>
+    <video:publication_date>2025-11-19T11:46:58.000Z</video:publication_date>
     <video:uploader>East Geek Smash</video:uploader>
-    <video:expiration_date>2025-11-27T11:30:42.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-27T11:46:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-209/set/96505174/</loc>
-  <lastmod>2025-11-19T11:34:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-19T11:45:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622416883&amp;t=1h35m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>416</video:duration>
+    <video:duration>578</video:duration>
     <video:publication_date>2025-11-19T11:34:56.000Z</video:publication_date>
     <video:uploader>VGBootCamp</video:uploader>
     <video:expiration_date>2025-11-27T11:34:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-209/set/96505173/</loc>
+  <lastmod>2025-11-19T11:45:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851299/image-2e1ee5556c144f2f11af8a65b2e70a38.png
+    </video:thumbnail_loc>
+    <video:title>
+      SOL | Marcos/まるこす(SOL | Marcos/ marukosu) vs Mao, Weekly Smash Party ～スマパ～ #209 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SOL | Marcos/まるこす(SOL | Marcos/ marukosu) vs Mao in Winners Quarter-Final of Weekly Smash Party ～スマパ～ #209, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/ywejiX5M-jg?start=5160s
+    </video:player_loc>
+    <video:duration>786</video:duration>
+    <video:publication_date>2025-11-19T11:30:42.000Z</video:publication_date>
+    <video:uploader>East Geek Smash</video:uploader>
+    <video:expiration_date>2025-11-27T11:30:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-11-11T06:05:57.000Z</video:publication_date>
     <video:uploader>gamerlatammx</video:uploader>
     <video:expiration_date>2025-11-19T06:05:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-71-powered-by-gamer-latam/set/96141820/</loc>
-  <lastmod>2025-11-11T05:38:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846049/image-129e21efbc2ee15c84d86ef1e16e49ad.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tyranks vs Abe, Soul Melter Smash #71 - Powered by Gamer LatAm - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tyranks vs Abe in Winners Semi-Final of Soul Melter Smash #71 - Powered by Gamer LatAm, streamed by gamerlatammx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2615311460&amp;t=1h5m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1187</video:duration>
-    <video:publication_date>2025-11-11T05:14:10.000Z</video:publication_date>
-    <video:uploader>gamerlatammx</video:uploader>
-    <video:expiration_date>2025-11-19T05:14:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-71-powered-by-gamer-latam/set/96141821/</loc>
-  <lastmod>2025-11-11T05:18:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846049/image-129e21efbc2ee15c84d86ef1e16e49ad.png
-    </video:thumbnail_loc>
-    <video:title>
-      CS3 | Marvelous_Marco vs MyNameIs | Benji, Soul Melter Smash #71 - Powered by Gamer LatAm - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CS3 | Marvelous_Marco vs MyNameIs | Benji in Winners Semi-Final of Soul Melter Smash #71 - Powered by Gamer LatAm, streamed by gamerlatammx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2615311460&amp;t=0h41m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1457</video:duration>
-    <video:publication_date>2025-11-11T04:49:51.000Z</video:publication_date>
-    <video:uploader>gamerlatammx</video:uploader>
-    <video:expiration_date>2025-11-19T04:49:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
