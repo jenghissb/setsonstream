@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-117/set/96510883/</loc>
-  <lastmod>2025-11-19T21:40:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-117/set/96510820/</loc>
+  <lastmod>2025-11-19T22:04:41.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,96 @@
       https://images.start.gg/images/tournament/853030/image-e9e13187d93956daa1e382f76a1a6e8a.png
     </video:thumbnail_loc>
     <video:title>
-      GG | Aceman vs EDC | Spectral, D-LAY #117 - Sets on Stream
+      GG | Master vs GG | Aceman, D-LAY #117 - Sets on Stream
     </video:title>
     <video:description>
-      Watch GG | Aceman vs EDC | Spectral in Losers Final of D-LAY #117, streamed by asso_grab
+      Watch GG | Master vs GG | Aceman in Grand Final of D-LAY #117, streamed by asso_grab
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=asso_grab&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>547</video:duration>
-    <video:publication_date>2025-11-19T21:40:22.000Z</video:publication_date>
+    <video:duration>653</video:duration>
+    <video:publication_date>2025-11-19T22:04:41.000Z</video:publication_date>
     <video:uploader>asso_grab</video:uploader>
-    <video:expiration_date>2025-11-27T21:40:22.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-27T22:04:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-15/set/96510691/</loc>
+  <lastmod>2025-11-19T22:10:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      SP | Red vs GetHisAss | Zacerino, VantagePoint 15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SP | Red vs GetHisAss | Zacerino in Losers Final of VantagePoint 15, streamed by smashpointseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622729612&amp;t=2h50m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>289</video:duration>
+    <video:publication_date>2025-11-19T22:10:45.000Z</video:publication_date>
+    <video:uploader>smashpointseries</video:uploader>
+    <video:expiration_date>2025-11-27T22:10:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-180-smash-bros-ultimate/set/96513319/</loc>
+  <lastmod>2025-11-19T22:11:57.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852191/image-ff20642fde06bb21bc5c66d65d494b67.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GH | Mariet vs Elo, NOT DM #180 SMASH BROS ULTIMATE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GH | Mariet vs Elo in Winners Round 1 of NOT DM #180 SMASH BROS ULTIMATE, streamed by walito_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622849018&amp;t=0h9m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>217</video:duration>
+    <video:publication_date>2025-11-19T22:11:57.000Z</video:publication_date>
+    <video:uploader>walito_tv</video:uploader>
+    <video:expiration_date>2025-11-27T22:11:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-15/set/96510690/</loc>
+  <lastmod>2025-11-19T22:10:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aporeo vs GetHisAss | Zacerino, VantagePoint 15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aporeo vs GetHisAss | Zacerino in Losers Semi-Final of VantagePoint 15, streamed by smashpointseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622729612&amp;t=2h33m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>984</video:duration>
+    <video:publication_date>2025-11-19T21:53:10.000Z</video:publication_date>
+    <video:uploader>smashpointseries</video:uploader>
+    <video:expiration_date>2025-11-27T21:53:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-15/set/96510688/</loc>
-  <lastmod>2025-11-19T21:45:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-19T21:53:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +114,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622729612&amp;t=2h25m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>227</video:duration>
+    <video:duration>416</video:duration>
     <video:publication_date>2025-11-19T21:45:42.000Z</video:publication_date>
     <video:uploader>smashpointseries</video:uploader>
     <video:expiration_date>2025-11-27T21:45:42.000Z</video:expiration_date>
@@ -71950,78 +72022,6 @@
     <video:publication_date>2025-11-12T02:34:59.000Z</video:publication_date>
     <video:uploader>smashchester</video:uploader>
     <video:expiration_date>2025-11-20T02:34:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cfg-tuesday-trials-214-you-better-ccwes-or-he-ll-never-get-the-memo/set/96152207/</loc>
-  <lastmod>2025-11-12T02:58:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850740/image-70fa95668abfc7751efd0ec26f827a96.png
-    </video:thumbnail_loc>
-    <video:title>
-      Garfield Kart | LasagnalessBetenIGJ vs Spoof!, CFG Tuesday Trials 214: You Better CCWes or He&apos;ll Never Get The Memo! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Garfield Kart | LasagnalessBetenIGJ vs Spoof! in Losers Semi-Final of CFG Tuesday Trials 214: You Better CCWes or He&apos;ll Never Get The Memo!, streamed by quagglesz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2615996602&amp;t=2h58m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1288</video:duration>
-    <video:publication_date>2025-11-12T02:34:29.000Z</video:publication_date>
-    <video:uploader>quagglesz</video:uploader>
-    <video:expiration_date>2025-11-20T02:34:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/center-stage-110/set/96161021/</loc>
-  <lastmod>2025-11-12T02:54:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849593/image-bcb1f4be860e3199a1eb1fe15248cdfb.png
-    </video:thumbnail_loc>
-    <video:title>
-      CandyKongLover1 vs CS | LemonTio, Center Stage #110 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CandyKongLover1 vs CS | LemonTio in Winners Final of Center Stage #110, streamed by aka_ingmar
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2616057227&amp;t=1h43m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>973</video:duration>
-    <video:publication_date>2025-11-12T02:32:25.000Z</video:publication_date>
-    <video:uploader>aka_ingmar</video:uploader>
-    <video:expiration_date>2025-11-20T02:32:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/waypoint-warriors-241/set/96160497/</loc>
-  <lastmod>2025-11-12T02:37:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850098/image-5aa842767474acbc7c78722cd58a8940.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zomba vs Karflo, Waypoint Warriors 241 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zomba vs Karflo in Winners Semi-Final of Waypoint Warriors 241, streamed by WaypointCafeNYC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2615984496&amp;t=3h7m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>269</video:duration>
-    <video:publication_date>2025-11-12T02:27:54.000Z</video:publication_date>
-    <video:uploader>WaypointCafeNYC</video:uploader>
-    <video:expiration_date>2025-11-20T02:27:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
