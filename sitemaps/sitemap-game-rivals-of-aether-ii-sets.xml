@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/game-quest-weekly-88/set/96495257/</loc>
+  <lastmod>2025-11-19T01:33:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852857/image-6e502c209c71ad2b5dce08fd2bdc9349.png
+    </video:thumbnail_loc>
+    <video:title>
+      PG! | Da Peck vs EDPS | Skribblz, Game Quest Weekly #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PG! | Da Peck vs EDPS | Skribblz in Winners Quarter-Final of Game Quest Weekly #88, streamed by gamequestpg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622157498&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1435</video:duration>
+    <video:publication_date>2025-11-19T01:08:17.000Z</video:publication_date>
+    <video:uploader>gamequestpg</video:uploader>
+    <video:expiration_date>2025-11-27T01:08:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-274/set/96452952/</loc>
   <lastmod>2025-11-18T04:10:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-25T19:05:16.000Z</video:publication_date>
     <video:uploader>VGBootCamp3</video:uploader>
     <video:expiration_date>2025-11-02T19:05:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-3/set/95460163/</loc>
-  <lastmod>2025-10-25T19:37:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813286/image-99e3c13689bebee7fb7d4bfd7bceff59.png
-    </video:thumbnail_loc>
-    <video:title>
-      Neylax vs Kingu, ARRIVAL 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Neylax vs Kingu in Winners Semi-Final of ARRIVAL 3, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600906307&amp;t=7h1m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1000</video:duration>
-    <video:publication_date>2025-10-25T19:01:54.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2025-11-02T19:01:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
