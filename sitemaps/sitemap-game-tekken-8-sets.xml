@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-35/set/96511451/</loc>
-  <lastmod>2025-11-19T19:36:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-35/set/96511452/</loc>
+  <lastmod>2025-11-19T19:44:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851846/image-a1d995039d7f4f9962d3e50440b8fa6c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Rynew vs 4F | Hexen, Jam Session #35 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rynew vs 4F | Hexen in Winners Semi-Final of Jam Session #35, streamed by strikefiercefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2622734585&amp;t=0h17m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>337</video:duration>
+    <video:publication_date>2025-11-19T19:44:09.000Z</video:publication_date>
+    <video:uploader>strikefiercefgc</video:uploader>
+    <video:expiration_date>2025-11-27T19:44:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-35/set/96511451/</loc>
+  <lastmod>2025-11-19T19:47:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2622734585&amp;t=0h9m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>149</video:duration>
+    <video:duration>334</video:duration>
     <video:publication_date>2025-11-19T19:36:04.000Z</video:publication_date>
     <video:uploader>strikefiercefgc</video:uploader>
     <video:expiration_date>2025-11-27T19:36:04.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-10-26T18:26:51.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-03T18:26:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-5/set/95526369/</loc>
-  <lastmod>2025-10-26T18:31:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829900/image-b24d2f8541bbf7daf9d500df6887c3a0.png
-    </video:thumbnail_loc>
-    <video:title>
-      pelaaa vs GPE bode, Sea Dogs 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch pelaaa vs GPE bode in Losers Quarter-Final of Sea Dogs 5, streamed by CenciuNC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601861673&amp;t=4h4m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>692</video:duration>
-    <video:publication_date>2025-10-26T18:01:51.000Z</video:publication_date>
-    <video:uploader>CenciuNC</video:uploader>
-    <video:expiration_date>2025-11-03T18:01:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
