@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/enter-the-arena-12/set/96538580/</loc>
-  <lastmod>2025-11-20T17:10:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-bi-weekly-du-jeudi-65-rgb-douai/set/96538221/</loc>
+  <lastmod>2025-11-20T17:23:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852861/image-71a22d5c6a6ab734e9360000b834bdaa.png
+    </video:thumbnail_loc>
+    <video:title>
+      LGS | Shinuel vs OBZ | Lumay, La bi-weekly du jeudi #65 - RGB Douai - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LGS | Shinuel vs OBZ | Lumay in Winners Round 2 of La bi-weekly du jeudi #65 - RGB Douai, streamed by grorouch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2623473283&amp;t=0h17m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>457</video:duration>
+    <video:publication_date>2025-11-20T17:23:29.000Z</video:publication_date>
+    <video:uploader>grorouch</video:uploader>
+    <video:expiration_date>2025-11-28T17:23:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/enter-the-arena-12/set/96538580/</loc>
+  <lastmod>2025-11-20T17:29:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2623443874&amp;t=0h47m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>211</video:duration>
+    <video:duration>1091</video:duration>
     <video:publication_date>2025-11-20T17:10:04.000Z</video:publication_date>
     <video:uploader>smashil</video:uploader>
     <video:expiration_date>2025-11-28T17:10:04.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-bi-weekly-du-jeudi-65-rgb-douai/set/96538204/</loc>
-  <lastmod>2025-11-20T17:08:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-20T17:22:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2623473283&amp;t=0h2m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>331</video:duration>
+    <video:duration>737</video:duration>
     <video:publication_date>2025-11-20T17:08:04.000Z</video:publication_date>
     <video:uploader>grorouch</video:uploader>
     <video:expiration_date>2025-11-28T17:08:04.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-13T00:54:05.000Z</video:publication_date>
     <video:uploader>nopausetournaments</video:uploader>
     <video:expiration_date>2025-11-21T00:54:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/flashback-fightclub-226/set/96181778/</loc>
-  <lastmod>2025-11-13T01:10:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849308/image-a0dbed5312d7f8e713cc26575d8ec5c0.png
-    </video:thumbnail_loc>
-    <video:title>
-      BGA | KSU | WhopperFloppers vs KSU | RM | colorfulʚɞ(KSU | RM | colorful KSU | RM | colorful KSU | RM | colorful), Flashback Fightclub 226 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BGA | KSU | WhopperFloppers vs KSU | RM | colorfulʚɞ(KSU | RM | colorful KSU | RM | colorful KSU | RM | colorful) in Winners Round 2 of Flashback Fightclub 226, streamed by FlashbackFightclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2616937089&amp;t=0h8m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>723</video:duration>
-    <video:publication_date>2025-11-13T00:52:56.000Z</video:publication_date>
-    <video:uploader>FlashbackFightclub</video:uploader>
-    <video:expiration_date>2025-11-21T00:52:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
