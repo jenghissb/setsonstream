@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-359/set/96544252/</loc>
+  <lastmod>2025-11-20T22:46:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853616/image-638913407a67935f4a6baaacb5f757c5.png
+    </video:thumbnail_loc>
+    <video:title>
+      SC | Solanum vs YTP | corco, Salt Water Smash 359 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SC | Solanum vs YTP | corco in Round 3 of Salt Water Smash 359, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2623716323&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>700</video:duration>
+    <video:publication_date>2025-11-20T22:34:27.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2025-11-28T22:34:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-168-downloading-exe-files-off-dropbox/set/96532425/</loc>
   <lastmod>2025-11-20T07:06:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-26T18:12:19.000Z</video:publication_date>
     <video:uploader>MDVA_Melee</video:uploader>
     <video:expiration_date>2025-11-03T18:12:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/2big2dawg/set/95496916/</loc>
-  <lastmod>2025-10-26T03:55:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/793054/image-44529371cae818af8c1a5377d82451b3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dacky vs Salt, 2Big2Dawg - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dacky vs Salt in Grand Final of 2Big2Dawg, streamed by SatelliteMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601172542&amp;t=8h58m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>602</video:duration>
-    <video:publication_date>2025-10-26T03:22:21.000Z</video:publication_date>
-    <video:uploader>SatelliteMelee</video:uploader>
-    <video:expiration_date>2025-11-03T03:22:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
