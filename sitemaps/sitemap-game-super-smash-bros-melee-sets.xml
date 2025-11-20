@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-168-downloading-exe-files-off-dropbox/set/96532417/</loc>
-  <lastmod>2025-11-20T04:15:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-168-downloading-exe-files-off-dropbox/set/96532418/</loc>
+  <lastmod>2025-11-20T04:38:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853671/image-455d2212f2dbba85e2f6dfe05b8589cb.png
+    </video:thumbnail_loc>
+    <video:title>
+      Salt vs Broth, Adam&apos;s Smash Series #168 : &gt;downloading .exe files off dropbox - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Salt vs Broth in Winners Quarter-Final of Adam&apos;s Smash Series #168 : &gt;downloading .exe files off dropbox, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2623091426&amp;t=1h23m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>385</video:duration>
+    <video:publication_date>2025-11-20T04:38:01.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2025-11-28T04:38:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-168-downloading-exe-files-off-dropbox/set/96532417/</loc>
+  <lastmod>2025-11-20T04:33:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2623091426&amp;t=1h1m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>743</video:duration>
+    <video:duration>576</video:duration>
     <video:publication_date>2025-11-20T04:15:47.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2025-11-28T04:15:47.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-26T01:12:12.000Z</video:publication_date>
     <video:uploader>SatelliteMelee</video:uploader>
     <video:expiration_date>2025-11-03T01:12:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-29-arcane-necromancy/set/95481699/</loc>
-  <lastmod>2025-10-26T00:54:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/828795/image-21a3c129e3d3b2fc46c2da9f0c42ac24.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jacklyn vs LIL | Joey Donuts, Minnesota Monthly Melee #29: Arcane Necromancy - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jacklyn vs LIL | Joey Donuts in Losers Quarter-Final of Minnesota Monthly Melee #29: Arcane Necromancy, streamed by TeamOxy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601126126&amp;t=6h50m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>660</video:duration>
-    <video:publication_date>2025-10-26T00:19:29.000Z</video:publication_date>
-    <video:uploader>TeamOxy</video:uploader>
-    <video:expiration_date>2025-11-03T00:19:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
