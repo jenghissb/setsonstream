@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-fighter-6-le-dojo-club-1v1-55/set/96541034/</loc>
+  <lastmod>2025-11-20T20:59:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851924/image-5afa1f85d65484c19b3f8a53064f37e9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kaky vs Raging Coco, Street Fighter 6 - LE DOJO CLUB 1V1 #55 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaky vs Raging Coco in Losers Semi-Final of Street Fighter 6 - LE DOJO CLUB 1V1 #55, streamed by gl_abou
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2623622641&amp;t=0h20m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>727</video:duration>
+    <video:publication_date>2025-11-20T20:42:37.000Z</video:publication_date>
+    <video:uploader>gl_abou</video:uploader>
+    <video:expiration_date>2025-11-28T20:42:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-97/set/96535653/</loc>
   <lastmod>2025-11-20T12:26:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-27T00:47:59.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-04T00:47:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/first-attack-2025/set/95556123/</loc>
-  <lastmod>2025-10-27T01:09:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
-    </video:thumbnail_loc>
-    <video:title>
-      IWILLKEEELYOU vs blendoben, First Attack 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch IWILLKEEELYOU vs blendoben in Winners Semi-Final of First Attack 2025, streamed by TampaNeverSleeps
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601853376&amp;t=10h53m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>631</video:duration>
-    <video:publication_date>2025-10-27T00:37:24.000Z</video:publication_date>
-    <video:uploader>TampaNeverSleeps</video:uploader>
-    <video:expiration_date>2025-11-04T00:37:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
