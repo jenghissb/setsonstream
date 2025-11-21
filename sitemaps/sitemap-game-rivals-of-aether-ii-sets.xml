@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-13/set/96557624/</loc>
-  <lastmod>2025-11-21T03:04:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-13/set/96562135/</loc>
+  <lastmod>2025-11-21T03:38:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853245/image-c176c22d954656de5ddf00ce831c2655.png
+    </video:thumbnail_loc>
+    <video:title>
+      ceramic vs Penguinos, SFU RIVALS THURSDAYS #13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ceramic vs Penguinos in Winners Quarter-Final of SFU RIVALS THURSDAYS #13, streamed by PenguinosBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2623823487&amp;t=2h40m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1280</video:duration>
+    <video:publication_date>2025-11-21T03:38:00.000Z</video:publication_date>
+    <video:uploader>PenguinosBC</video:uploader>
+    <video:expiration_date>2025-11-29T03:38:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-13/set/96557624/</loc>
+  <lastmod>2025-11-21T03:50:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2623823487&amp;t=2h6m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2240</video:duration>
+    <video:duration>1992</video:duration>
     <video:publication_date>2025-11-21T03:04:22.000Z</video:publication_date>
     <video:uploader>PenguinosBC</video:uploader>
     <video:expiration_date>2025-11-29T03:04:22.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-31T02:55:00.000Z</video:publication_date>
     <video:uploader>PenguinosBC</video:uploader>
     <video:expiration_date>2025-11-08T02:55:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-46/set/95669963/</loc>
-  <lastmod>2025-10-31T03:38:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846386/image-edbf01b47e8b5941395b4be412006a4f.png
-    </video:thumbnail_loc>
-    <video:title>
-      GRL | Plastic Dinos vs IamFrogg, Wasteland Warriors #46 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GRL | Plastic Dinos vs IamFrogg in Losers Quarter-Final of Wasteland Warriors #46, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2605719202&amp;t=1h23m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1196</video:duration>
-    <video:publication_date>2025-10-31T02:53:40.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-11-08T02:53:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
