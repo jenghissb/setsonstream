@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-21-11-2025/set/96568977/</loc>
+  <lastmod>2025-11-21T16:44:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852924/image-23f75d4931a1b5b06c0cdd1168b5a03f.png
+    </video:thumbnail_loc>
+    <video:title>
+      XURRAS | columwing vs AlejanDraco, CitiSmash - 21/11/2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch XURRAS | columwing vs AlejanDraco in Winners Round 2 of CitiSmash - 21/11/2025, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624295610&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>620</video:duration>
+    <video:publication_date>2025-11-21T16:44:48.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2025-11-29T16:44:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/21-327/set/96566676/</loc>
   <lastmod>2025-11-21T13:07:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-14T02:33:59.000Z</video:publication_date>
     <video:uploader>sacred_zz</video:uploader>
     <video:expiration_date>2025-11-22T02:33:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kmlocal-38/set/96221209/</loc>
-  <lastmod>2025-11-14T03:04:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849888/image-6708965e8a6602eed741af3fb1f27963.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tae vs KML | Glory, KMLocal #38 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tae vs KML | Glory in Losers Quarter-Final of KMLocal #38, streamed by KMLTournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2617726742&amp;t=2h39m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1449</video:duration>
-    <video:publication_date>2025-11-14T02:32:30.000Z</video:publication_date>
-    <video:uploader>KMLTournaments</video:uploader>
-    <video:expiration_date>2025-11-22T02:32:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
