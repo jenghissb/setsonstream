@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/double-dunk-53-isthmian-gaming/set/96554140/</loc>
+  <lastmod>2025-11-21T01:00:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854100/image-5c78b3d6f8055be042527e418554b330.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dream vs DWD | KindaCupid, Double Dunk #53 @ Isthmian Gaming - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dream vs DWD | KindaCupid in Winners Quarter-Final of Double Dunk #53 @ Isthmian Gaming, streamed by IsthmianGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2623824509&amp;t=0h1m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>733</video:duration>
+    <video:publication_date>2025-11-21T01:00:07.000Z</video:publication_date>
+    <video:uploader>IsthmianGaming</video:uploader>
+    <video:expiration_date>2025-11-29T01:00:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-11-19-25/set/96528666/</loc>
   <lastmod>2025-11-20T03:20:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-30T00:03:45.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-07T00:03:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-10-29-25/set/95633410/</loc>
-  <lastmod>2025-10-30T00:18:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845809/image-3807d3e308fef0b4ca55949ceb049a72.png
-    </video:thumbnail_loc>
-    <video:title>
-      TMC vs Swarm, GoTE Rivals 2 and more (10/29/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TMC vs Swarm in Round 4 of GoTE Rivals 2 and more (10/29/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2604774951&amp;t=0h11m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>550</video:duration>
-    <video:publication_date>2025-10-29T23:46:13.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-11-06T23:46:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
