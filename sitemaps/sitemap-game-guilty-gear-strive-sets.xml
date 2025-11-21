@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-54-ggst-gbvsr/set/96546421/</loc>
+  <lastmod>2025-11-21T01:46:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853082/image-a1c53f27fdc2564cf84a9bc8d5df2203.png
+    </video:thumbnail_loc>
+    <video:title>
+      OMG | SGifto73 vs FNAF | Casper, Just Mids #54: GGST &amp; GBVSR - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OMG | SGifto73 vs FNAF | Casper in Winners Final of Just Mids #54: GGST &amp; GBVSR, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2623754507&amp;t=1h54m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>499</video:duration>
+    <video:publication_date>2025-11-21T01:22:16.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-11-29T01:22:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-54-ggst-gbvsr/set/96546450/</loc>
-  <lastmod>2025-11-21T01:03:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-21T01:29:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2623754507&amp;t=1h35m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>538</video:duration>
+    <video:duration>552</video:duration>
     <video:publication_date>2025-11-21T01:03:22.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-11-29T01:03:22.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-25T01:23:39.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-11-02T01:23:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-15/set/95404028/</loc>
-  <lastmod>2025-10-25T01:26:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842986/image-989dbd4d7ca824e12c34c89b1e3982cf.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Magic vs nettle, 4o4 by Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Magic vs nettle in Winners Quarter-Final of 4o4 by Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600533559&amp;t=0h38m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>901</video:duration>
-    <video:publication_date>2025-10-25T00:42:50.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2025-11-02T00:42:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
