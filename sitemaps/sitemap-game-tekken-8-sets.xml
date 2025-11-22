@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/emirates-showdown-2025/set/96627348/</loc>
-  <lastmod>2025-11-22T15:23:54.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/emirates-showdown-2025/set/96627349/</loc>
+  <lastmod>2025-11-22T15:37:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/778358/image-37d8a9e436f14986cb0d6cac44b95c0d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TM | Hafiz Tanveer vs TF | yOReDz, Emirates Showdown 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TM | Hafiz Tanveer vs TF | yOReDz in Losers Round 5 of Emirates Showdown 2025, streamed by Vslashesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624955237&amp;t=7h6m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>734</video:duration>
+    <video:publication_date>2025-11-22T15:37:23.000Z</video:publication_date>
+    <video:uploader>Vslashesports</video:uploader>
+    <video:expiration_date>2025-11-30T15:37:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ad-honorem/set/96631585/</loc>
+  <lastmod>2025-11-22T15:41:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831778/image-3e117b34a2b3facc38e3306514da050f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      5/67H8 | Epic_Minecraft vs Cram, AD HONOREM - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 5/67H8 | Epic_Minecraft vs Cram in Losers Final of AD HONOREM, streamed by Unigames
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Unigames&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>469</video:duration>
+    <video:publication_date>2025-11-22T15:41:48.000Z</video:publication_date>
+    <video:uploader>Unigames</video:uploader>
+    <video:expiration_date>2025-11-30T15:41:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/emirates-showdown-2025/set/96627348/</loc>
+  <lastmod>2025-11-22T15:44:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2624955237&amp;t=6h52m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1008</video:duration>
+    <video:duration>743</video:duration>
     <video:publication_date>2025-11-22T15:23:54.000Z</video:publication_date>
     <video:uploader>Vslashesports</video:uploader>
     <video:expiration_date>2025-11-30T15:23:54.000Z</video:expiration_date>
@@ -8374,30 +8422,6 @@
     <video:publication_date>2025-11-01T22:49:42.000Z</video:publication_date>
     <video:uploader>Guildhouse</video:uploader>
     <video:expiration_date>2025-11-09T22:49:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/gotgood-2025/set/95763290/</loc>
-  <lastmod>2025-11-01T23:29:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834875/image-ec998d311e1475d283ae2253862f334b.png
-    </video:thumbnail_loc>
-    <video:title>
-      UzcáTegui vs Awolkitty, GotGood 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UzcáTegui vs Awolkitty in Winners Semi-Final of GotGood 2025, streamed by getgoodfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607366040&amp;t=0h4m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>802</video:duration>
-    <video:publication_date>2025-11-01T22:49:01.000Z</video:publication_date>
-    <video:uploader>getgoodfgc</video:uploader>
-    <video:expiration_date>2025-11-09T22:49:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
