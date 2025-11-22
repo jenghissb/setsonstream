@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-99/set/96611108/</loc>
-  <lastmod>2025-11-22T05:26:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-99/set/96611133/</loc>
+  <lastmod>2025-11-22T05:36:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852382/image-0763420ff2dd99877c91bd5283a0f11b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      #PS | NoPHAPPER vs Alfa, SoCal Colosseum #99 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch #PS | NoPHAPPER vs Alfa in Losers Round 2 of SoCal Colosseum #99, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624812762&amp;t=1h53m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>756</video:duration>
+    <video:publication_date>2025-11-22T05:36:45.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-11-30T05:36:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-99/set/96611108/</loc>
+  <lastmod>2025-11-22T05:41:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2624812762&amp;t=1h43m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>411</video:duration>
+    <video:duration>565</video:duration>
     <video:publication_date>2025-11-22T05:26:40.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-11-30T05:26:40.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-26T00:24:10.000Z</video:publication_date>
     <video:uploader>firstattackpr</video:uploader>
     <video:expiration_date>2025-11-03T00:24:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-36/set/95487399/</loc>
-  <lastmod>2025-10-25T23:58:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842859/image-ae528ed2d774068def41e1a291774101.png
-    </video:thumbnail_loc>
-    <video:title>
-      DNBcool vs OGG | ElectricCherry, Calculated #36 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DNBcool vs OGG | ElectricCherry in Losers Final of Calculated #36, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601349527&amp;t=1h14m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>878</video:duration>
-    <video:publication_date>2025-10-25T23:21:38.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2025-11-02T23:21:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
