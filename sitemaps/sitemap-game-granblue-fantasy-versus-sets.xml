@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-12-take-a-seat/set/96666323/</loc>
-  <lastmod>2025-11-22T23:21:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-12-take-a-seat/set/96666293/</loc>
+  <lastmod>2025-11-22T23:42:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840486/image-c146e88c25a588a0ab266089adbb2a67.png
+    </video:thumbnail_loc>
+    <video:title>
+      adorabledragon vs Brigadier_BunBun, Backstreet Brawl #12 - Take a Seat - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch adorabledragon vs Brigadier_BunBun in Winners Final of Backstreet Brawl #12 - Take a Seat, streamed by HopOnPNW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625359469&amp;t=3h53m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>529</video:duration>
+    <video:publication_date>2025-11-22T23:42:19.000Z</video:publication_date>
+    <video:uploader>HopOnPNW</video:uploader>
+    <video:expiration_date>2025-11-30T23:42:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-12-take-a-seat/set/96666323/</loc>
+  <lastmod>2025-11-22T23:44:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625359469&amp;t=3h32m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1273</video:duration>
+    <video:duration>428</video:duration>
     <video:publication_date>2025-11-22T23:21:17.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2025-11-30T23:21:17.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-10-04T19:31:33.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-10-12T19:31:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-4/set/94643253/</loc>
-  <lastmod>2025-10-04T16:47:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827141/image-ffd77b49c817442501b6bdda4a9bc887.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Melliodama vs FTank, Arca-Sys #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Melliodama vs FTank in Grand Final of Arca-Sys #4, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582959070&amp;t=4h36m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1265</video:duration>
-    <video:publication_date>2025-10-04T16:21:40.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2025-10-12T16:21:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
