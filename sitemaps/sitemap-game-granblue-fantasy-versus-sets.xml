@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-12-take-a-seat/set/96666292/</loc>
-  <lastmod>2025-11-22T23:00:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-12-take-a-seat/set/96666323/</loc>
+  <lastmod>2025-11-22T23:21:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840486/image-c146e88c25a588a0ab266089adbb2a67.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lunchables vs BOKEHEM | DXG | EnzogXY, Backstreet Brawl #12 - Take a Seat - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lunchables vs BOKEHEM | DXG | EnzogXY in Losers Quarter-Final of Backstreet Brawl #12 - Take a Seat, streamed by HopOnPNW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625359469&amp;t=3h32m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>578</video:duration>
+    <video:publication_date>2025-11-22T23:21:17.000Z</video:publication_date>
+    <video:uploader>HopOnPNW</video:uploader>
+    <video:expiration_date>2025-11-30T23:21:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-12-take-a-seat/set/96666292/</loc>
+  <lastmod>2025-11-22T23:26:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625359469&amp;t=3h11m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>866</video:duration>
+    <video:duration>1539</video:duration>
     <video:publication_date>2025-11-22T23:00:28.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2025-11-30T23:00:28.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-10-04T16:21:40.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-10-12T16:21:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-4/set/94643283/</loc>
-  <lastmod>2025-10-04T16:27:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827141/image-ffd77b49c817442501b6bdda4a9bc887.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VSTAR | Bribrisan vs Ryori, Arca-Sys #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VSTAR | Bribrisan vs Ryori in Losers Semi-Final of Arca-Sys #4, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582959070&amp;t=4h9m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1056</video:duration>
-    <video:publication_date>2025-10-04T15:55:03.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2025-10-12T15:55:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

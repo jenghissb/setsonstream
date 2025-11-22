@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/99-raza/set/96653752/</loc>
-  <lastmod>2025-11-22T22:59:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/99-raza/set/96653754/</loc>
+  <lastmod>2025-11-22T23:20:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,42 @@
       https://images.start.gg/images/tournament/848617/image-8b39024e337d25bb44c93e9532d6842d.jpg
     </video:thumbnail_loc>
     <video:title>
-      Bucano vs El TIgre, 99 Raza - Sets on Stream
+      Dreamwalk | Chano vs El TIgre, 99 Raza - Sets on Stream
     </video:title>
     <video:description>
-      Watch Bucano vs El TIgre in Losers Round 1 of 99 Raza, streamed by delfinomaza
+      Watch Dreamwalk | Chano vs El TIgre in Losers Quarter-Final of 99 Raza, streamed by delfinomaza
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=delfinomaza&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>908</video:duration>
-    <video:publication_date>2025-11-22T22:59:46.000Z</video:publication_date>
+    <video:duration>626</video:duration>
+    <video:publication_date>2025-11-22T23:20:29.000Z</video:publication_date>
     <video:uploader>delfinomaza</video:uploader>
-    <video:expiration_date>2025-11-30T22:59:46.000Z</video:expiration_date>
+    <video:expiration_date>2025-11-30T23:20:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fits-8-sf6-monthly/set/96672174/</loc>
+  <lastmod>2025-11-22T23:22:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846505/image-5222b94b1a3ef89be02f505f566be853.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sage vs Stonks_tchrfgrss, FITS #8 - SF6 Monthly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sage vs Stonks_tchrfgrss in Winners Round 1 of FITS #8 - SF6 Monthly, streamed by studysessionlive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625491306&amp;t=0h48m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>527</video:duration>
+    <video:publication_date>2025-11-22T23:22:08.000Z</video:publication_date>
+    <video:uploader>studysessionlive</video:uploader>
+    <video:expiration_date>2025-11-30T23:22:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7198,30 +7222,6 @@
     <video:publication_date>2025-11-01T09:02:39.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2025-11-09T09:02:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-23/set/95716001/</loc>
-  <lastmod>2025-11-01T09:23:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841949/image-4fef54e1a32baa3f9a33be87a7ed6d93.png
-    </video:thumbnail_loc>
-    <video:title>
-      Eltannousss vs Antwerp, Drive Theory 23 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Eltannousss vs Antwerp in Losers Round 3 of Drive Theory 23, streamed by itschandarin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2606729257&amp;t=3h9m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1137</video:duration>
-    <video:publication_date>2025-11-01T08:46:42.000Z</video:publication_date>
-    <video:uploader>itschandarin</video:uploader>
-    <video:expiration_date>2025-11-09T08:46:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
