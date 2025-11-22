@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sunrise-trials/set/96645882/</loc>
+  <lastmod>2025-11-22T20:02:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/838537/image-176c504f7de7140cae780cc4e5cf7ce1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shrub vs OOTG | SilverLying, Sunrise Trials - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shrub vs OOTG | SilverLying in Winners Semi-Final of Sunrise Trials, streamed by PEI_FighterZ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625213292&amp;t=3h11m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>880</video:duration>
+    <video:publication_date>2025-11-22T20:02:04.000Z</video:publication_date>
+    <video:uploader>PEI_FighterZ</video:uploader>
+    <video:expiration_date>2025-11-30T20:02:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/battle-for-rdu-part-iv/set/96649156/</loc>
   <lastmod>2025-11-22T19:40:43.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-28T00:32:52.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-11-05T00:32:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-81/set/95574125/</loc>
-  <lastmod>2025-10-28T01:04:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844894/image-1f875e4d9c2641dc3bb288025bdf94bd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Samael vs Crimsonfox64, Block String @ Wonderfly #81 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Samael vs Crimsonfox64 in Losers Quarter-Final of Block String @ Wonderfly #81, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603095149&amp;t=0h49m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>661</video:duration>
-    <video:publication_date>2025-10-28T00:25:45.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-11-05T00:25:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
