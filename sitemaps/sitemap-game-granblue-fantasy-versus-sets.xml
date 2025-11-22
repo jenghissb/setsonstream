@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lisbon-knock-out-2025/set/96634074/</loc>
+  <lastmod>2025-11-22T16:03:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816491/image-a27f09f58c18b721aa0698c8ac14e5f9.png
+    </video:thumbnail_loc>
+    <video:title>
+      MinhoFGC | Rezi101 vs Daiki, Lisbon Knock Out 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MinhoFGC | Rezi101 vs Daiki in Winners Quarter-Final of Lisbon Knock Out 2025, streamed by rtparena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625168730&amp;t=0h16m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>872</video:duration>
+    <video:publication_date>2025-11-22T16:03:36.000Z</video:publication_date>
+    <video:uploader>rtparena</video:uploader>
+    <video:expiration_date>2025-11-30T16:03:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-171/set/96496424/</loc>
   <lastmod>2025-11-19T04:07:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-27T17:39:14.000Z</video:publication_date>
     <video:uploader>AlbionGamesCafe</video:uploader>
     <video:expiration_date>2025-10-05T17:39:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/umad-2025/set/94191124/</loc>
-  <lastmod>2025-09-21T22:30:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/760740/image-e3b73a6c7411b684eda96e63ee3a2ee1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Rickster vs Varis, UMAD 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rickster vs Varis in Losers Round 2 of UMAD 2025, streamed by downtownrumble
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2572293336&amp;t=3h44m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>688</video:duration>
-    <video:publication_date>2025-09-21T22:03:00.000Z</video:publication_date>
-    <video:uploader>downtownrumble</video:uploader>
-    <video:expiration_date>2025-09-29T22:03:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
