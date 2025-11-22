@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/battle-for-rdu-part-iv/set/96649158/</loc>
-  <lastmod>2025-11-22T19:13:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/battle-for-rdu-part-iv/set/96649156/</loc>
+  <lastmod>2025-11-22T19:20:27.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850528/image-2b9e3cd3af35dbc6afbb3d88934cf991.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bad Machines | Famine vs thirdistheword, Battle for RDU - Part IV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bad Machines | Famine vs thirdistheword in Round 1 of Battle for RDU - Part IV, streamed by mybadmachines
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625270463&amp;t=1h18m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>964</video:duration>
+    <video:publication_date>2025-11-22T19:20:27.000Z</video:publication_date>
+    <video:uploader>mybadmachines</video:uploader>
+    <video:expiration_date>2025-11-30T19:20:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/battle-for-rdu-part-iv/set/96649158/</loc>
+  <lastmod>2025-11-22T19:27:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625270463&amp;t=1h11m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>722</video:duration>
+    <video:duration>417</video:duration>
     <video:publication_date>2025-11-22T19:13:13.000Z</video:publication_date>
     <video:uploader>mybadmachines</video:uploader>
     <video:expiration_date>2025-11-30T19:13:13.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-28T00:25:45.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-11-05T00:25:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-81/set/95574110/</loc>
-  <lastmod>2025-10-28T00:37:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844894/image-1f875e4d9c2641dc3bb288025bdf94bd.png
-    </video:thumbnail_loc>
-    <video:title>
-      StitchFace vs Xyned, Block String @ Wonderfly #81 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch StitchFace vs Xyned in Winners Semi-Final of Block String @ Wonderfly #81, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603095149&amp;t=0h28m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>543</video:duration>
-    <video:publication_date>2025-10-28T00:04:35.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-11-05T00:04:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
