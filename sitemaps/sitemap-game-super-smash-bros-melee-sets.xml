@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-2/set/96608892/</loc>
+  <lastmod>2025-11-22T05:29:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849995/image-5de6ccb05ea8fe46d774b9a8bb2472dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tash vs Umarth, Kastle Smashers 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tash vs Umarth in Losers Round 7 of Kastle Smashers 2, streamed by NorCalMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624786807&amp;t=2h3m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>863</video:duration>
+    <video:publication_date>2025-11-22T05:12:14.000Z</video:publication_date>
+    <video:uploader>NorCalMelee</video:uploader>
+    <video:expiration_date>2025-11-30T05:12:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-2/set/96608767/</loc>
-  <lastmod>2025-11-22T04:56:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-22T05:17:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2624786807&amp;t=1h46m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1139</video:duration>
+    <video:duration>940</video:duration>
     <video:publication_date>2025-11-22T04:56:03.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2025-11-30T04:56:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guild-gauntlet-5/set/96605289/</loc>
-  <lastmod>2025-11-22T04:58:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853022/image-46cf2474403e3e0d8255a1ecfc2e2193.png
-    </video:thumbnail_loc>
-    <video:title>
-      Stockholm Syndrome vs Meow | MOF, Guild Gauntlet 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Stockholm Syndrome vs Meow | MOF in Grand Final of Guild Gauntlet 5, streamed by DKBattleLounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=DKBattleLounge&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>964</video:duration>
-    <video:publication_date>2025-11-22T04:58:58.000Z</video:publication_date>
-    <video:uploader>DKBattleLounge</video:uploader>
-    <video:expiration_date>2025-11-30T04:58:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14398,30 +14398,6 @@
     <video:publication_date>2025-10-31T00:48:46.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2025-11-08T00:48:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/flight-range-2-halloween-special/set/95666664/</loc>
-  <lastmod>2025-10-31T01:40:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846448/image-de44930e188494fbc6331ce37ef7b9bb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Snocc vs BloNo | Flyguy, Flight Range #2: Halloween Special - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Snocc vs BloNo | Flyguy in Winners Quarter-Final of Flight Range #2: Halloween Special, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2605615146&amp;t=1h22m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1436</video:duration>
-    <video:publication_date>2025-10-31T00:45:00.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2025-11-08T00:45:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
