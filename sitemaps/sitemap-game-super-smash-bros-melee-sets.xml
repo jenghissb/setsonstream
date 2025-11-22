@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/craicdown-13/set/96636601/</loc>
+  <lastmod>2025-11-22T18:34:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845799/image-b197fcb4d282ee3d952ef579ab5a1e71.png
+    </video:thumbnail_loc>
+    <video:title>
+      maXy vs Splendid | ItalianStallion, Craicdown 13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch maXy vs Splendid | ItalianStallion in Winners Semi-Final of Craicdown 13, streamed by SmashIreland
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625044705&amp;t=6h0m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>587</video:duration>
+    <video:publication_date>2025-11-22T18:15:20.000Z</video:publication_date>
+    <video:uploader>SmashIreland</video:uploader>
+    <video:expiration_date>2025-11-30T18:15:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/swansea-smackdown-2/set/96639587/</loc>
   <lastmod>2025-11-22T18:08:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-31T02:04:28.000Z</video:publication_date>
     <video:uploader>dinksterlive</video:uploader>
     <video:expiration_date>2025-11-08T02:04:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lynchburg-melee-weekly-142-10-30-25/set/95664456/</loc>
-  <lastmod>2025-10-31T02:46:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845645/image-39eed04cce308d1d163a8bbb88ec2724.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mae vs Corgi, Lynchburg Melee Weekly #142 (10/30/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mae vs Corgi in Grand Final Reset of Lynchburg Melee Weekly #142 (10/30/25), streamed by xdeathcon_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2605595059&amp;t=3h4m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>860</video:duration>
-    <video:publication_date>2025-10-31T02:02:55.000Z</video:publication_date>
-    <video:uploader>xdeathcon_</video:uploader>
-    <video:expiration_date>2025-11-08T02:02:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
