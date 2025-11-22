@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ad-honorem/set/96622357/</loc>
-  <lastmod>2025-11-22T09:38:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ad-honorem/set/96622361/</loc>
+  <lastmod>2025-11-22T10:02:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831778/image-3e117b34a2b3facc38e3306514da050f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NTSC | Kibioto vs NTSC | Feelgy, AD HONOREM - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NTSC | Kibioto vs NTSC | Feelgy in Winners Quarter-Final of AD HONOREM, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624981734&amp;t=0h17m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>760</video:duration>
+    <video:publication_date>2025-11-22T10:02:53.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-11-30T10:02:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ad-honorem/set/96622357/</loc>
+  <lastmod>2025-11-22T09:58:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,9 +40,9 @@
       Watch FF | AMELITHA vs DW LLC | Angelo in Winners Round 1 of AD HONOREM, streamed by SmashStrasbourg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624978015&amp;t=0h4m27s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2624981734&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>663</video:duration>
+    <video:duration>996</video:duration>
     <video:publication_date>2025-11-22T09:38:31.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-11-30T09:38:31.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-10-30T01:34:35.000Z</video:publication_date>
     <video:uploader>maxmode_fgc</video:uploader>
     <video:expiration_date>2025-11-07T01:34:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-2xko-73/set/95604803/</loc>
-  <lastmod>2025-10-29T03:35:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843956/image-53c68692e26c8382379cd3df69030ac2.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4Esports | CamPaine vs 4o4 | byronic zero, 4o4 by Sh33rZ: Street Fighter &amp; 2XKO #73 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4Esports | CamPaine vs 4o4 | byronic zero in Losers Final of 4o4 by Sh33rZ: Street Fighter &amp; 2XKO #73, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603971693&amp;t=2h49m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2025-10-29T03:04:43.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-11-06T03:04:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
