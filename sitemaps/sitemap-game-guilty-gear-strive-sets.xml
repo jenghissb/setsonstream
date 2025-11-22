@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tourist-trap-rematch-1750-pot-bonus/set/96575994/</loc>
-  <lastmod>2025-11-22T21:25:45.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tourist-trap-rematch-1750-pot-bonus/set/96575995/</loc>
+  <lastmod>2025-11-22T21:36:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/798207/image-0df06ab0f5c7745fc96e243c690eb18b.png
+    </video:thumbnail_loc>
+    <video:title>
+      OMG | SGifto73 vs OMG | Necron | Esteemed_Ruffian, Tourist Trap Rematch ($1750 POT BONUS) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OMG | SGifto73 vs OMG | Necron | Esteemed_Ruffian in Losers Final of Tourist Trap Rematch ($1750 POT BONUS), streamed by Incendiumgaming2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625157512&amp;t=6h6m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>818</video:duration>
+    <video:publication_date>2025-11-22T21:36:01.000Z</video:publication_date>
+    <video:uploader>Incendiumgaming2</video:uploader>
+    <video:expiration_date>2025-11-30T21:36:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tourist-trap-rematch-1750-pot-bonus/set/96575994/</loc>
+  <lastmod>2025-11-22T21:45:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625157512&amp;t=5h56m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>833</video:duration>
+    <video:duration>610</video:duration>
     <video:publication_date>2025-11-22T21:25:45.000Z</video:publication_date>
     <video:uploader>Incendiumgaming2</video:uploader>
     <video:expiration_date>2025-11-30T21:25:45.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-29T04:12:48.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-11-06T04:12:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-212-red-bull-presents-jeremiah-smith/set/95605311/</loc>
-  <lastmod>2025-10-29T04:17:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844506/image-251d18954749df531dfae409c71abd5b.png
-    </video:thumbnail_loc>
-    <video:title>
-      MUFG | WiseMysticTree vs VeganRoastedTurkey, CFG Tuesday Trials 212: Red Bull Presents Jeremiah Smith! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MUFG | WiseMysticTree vs VeganRoastedTurkey in Losers Semi-Final of CFG Tuesday Trials 212: Red Bull Presents Jeremiah Smith!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603881075&amp;t=5h19m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>713</video:duration>
-    <video:publication_date>2025-10-29T03:48:22.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-11-06T03:48:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
