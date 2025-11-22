@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sidetown-skirmish-ii/set/96613343/</loc>
+  <lastmod>2025-11-22T08:09:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846759/image-96fca94e1c9bfa82ebeca5ab4c8e7ece.png
+    </video:thumbnail_loc>
+    <video:title>
+      WayGamble vs BATTLELOUNGE | Blackfyre_, Sidetown Skirmish II - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WayGamble vs BATTLELOUNGE | Blackfyre_ in Grand Final Reset of Sidetown Skirmish II, streamed by battlelounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624874265&amp;t=2h31m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1118</video:duration>
+    <video:publication_date>2025-11-22T07:50:40.000Z</video:publication_date>
+    <video:uploader>battlelounge</video:uploader>
+    <video:expiration_date>2025-11-30T07:50:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/sidetown-skirmish-ii/set/96613342/</loc>
-  <lastmod>2025-11-22T07:40:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-22T07:53:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2624874265&amp;t=2h20m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>574</video:duration>
+    <video:duration>629</video:duration>
     <video:publication_date>2025-11-22T07:40:04.000Z</video:publication_date>
     <video:uploader>battlelounge</video:uploader>
     <video:expiration_date>2025-11-30T07:40:04.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-01T19:36:16.000Z</video:publication_date>
     <video:uploader>araragi298</video:uploader>
     <video:expiration_date>2025-11-09T19:36:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tlf-halloween-2025/set/95744115/</loc>
-  <lastmod>2025-11-01T19:49:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844194/image-5226418c12f4d2d99edba1d889d7c80a.png
-    </video:thumbnail_loc>
-    <video:title>
-      GrizzlayBear vs 24KFish, TLF Halloween 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GrizzlayBear vs 24KFish in Losers Quarter-Final of TLF Halloween 2025, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607134666&amp;t=1h6m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>963</video:duration>
-    <video:publication_date>2025-11-01T19:12:41.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2025-11-09T19:12:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
