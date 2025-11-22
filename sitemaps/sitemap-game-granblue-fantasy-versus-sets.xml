@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-deep-end-x/set/96648142/</loc>
+  <lastmod>2025-11-22T20:37:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847840/image-a492b549ca0f96d0b0d7d711683098f5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      gammothfox vs OME | Necco, The Deep End X - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch gammothfox vs OME | Necco in Losers Final of The Deep End X, streamed by olemissesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625313799&amp;t=1h23m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>444</video:duration>
+    <video:publication_date>2025-11-22T20:18:51.000Z</video:publication_date>
+    <video:uploader>olemissesports</video:uploader>
+    <video:expiration_date>2025-11-30T20:18:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/knox-out-25/set/96650846/</loc>
-  <lastmod>2025-11-22T20:04:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-22T20:22:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625181123&amp;t=4h1m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>707</video:duration>
+    <video:duration>520</video:duration>
     <video:publication_date>2025-11-22T20:04:57.000Z</video:publication_date>
     <video:uploader>majinobama</video:uploader>
     <video:expiration_date>2025-11-30T20:04:57.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-10-04T03:36:03.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-10-12T03:36:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-94-the-start-of-the-socal-colosseum-circuit/set/94632047/</loc>
-  <lastmod>2025-10-04T03:48:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831755/image-309bbf6d81416fc37c1f64bd84bb181f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PAR | Zane vs Phos, SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PAR | Zane vs Phos in Winners Semi-Final of SoCal Colosseum #94 - The Start of the SoCal Colosseum Circuit!, streamed by kondo3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2582703642&amp;t=0h47m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>497</video:duration>
-    <video:publication_date>2025-10-04T03:17:50.000Z</video:publication_date>
-    <video:uploader>kondo3</video:uploader>
-    <video:expiration_date>2025-10-12T03:17:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
