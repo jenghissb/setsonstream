@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/molten-merendero-iii/set/96632251/</loc>
-  <lastmod>2025-11-22T17:14:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/molten-merendero-iii/set/96632250/</loc>
+  <lastmod>2025-11-22T17:27:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/834708/image-d099493ee050ece4e2129028e07fef36.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Genarog vs DonCascone, Molten Merendero III - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Genarog vs DonCascone in Winners Semi-Final of Molten Merendero III, streamed by rivalsofaetheritalia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625106442&amp;t=3h20m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>772</video:duration>
+    <video:publication_date>2025-11-22T17:27:37.000Z</video:publication_date>
+    <video:uploader>rivalsofaetheritalia</video:uploader>
+    <video:expiration_date>2025-11-30T17:27:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/molten-merendero-iii/set/96632251/</loc>
+  <lastmod>2025-11-22T17:40:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625106442&amp;t=3h7m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>904</video:duration>
+    <video:duration>772</video:duration>
     <video:publication_date>2025-11-22T17:14:42.000Z</video:publication_date>
     <video:uploader>rivalsofaetheritalia</video:uploader>
     <video:expiration_date>2025-11-30T17:14:42.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-05T23:01:04.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-11-13T23:01:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-60/set/95899779/</loc>
-  <lastmod>2025-11-05T23:10:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847969/image-f7a66d0a71230d439b0608a4826b8db9.png
-    </video:thumbnail_loc>
-    <video:title>
-      TBZ | ManNeeTee12 vs Ampersand, CU in Bracket 60 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TBZ | ManNeeTee12 vs Ampersand in Round 3 of CU in Bracket 60, streamed by topblastzoneny
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610727852&amp;t=0h10m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>920</video:duration>
-    <video:publication_date>2025-11-05T22:45:14.000Z</video:publication_date>
-    <video:uploader>topblastzoneny</video:uploader>
-    <video:expiration_date>2025-11-13T22:45:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
