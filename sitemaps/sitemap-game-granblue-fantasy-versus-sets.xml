@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lisbon-knock-out-2025/set/96634138/</loc>
+  <lastmod>2025-11-22T17:11:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816491/image-a27f09f58c18b721aa0698c8ac14e5f9.png
+    </video:thumbnail_loc>
+    <video:title>
+      Daiki vs Exslide, Lisbon Knock Out 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Daiki vs Exslide in Losers Quarter-Final of Lisbon Knock Out 2025, streamed by rtparena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625168730&amp;t=1h8m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>781</video:duration>
+    <video:publication_date>2025-11-22T16:55:19.000Z</video:publication_date>
+    <video:uploader>rtparena</video:uploader>
+    <video:expiration_date>2025-11-30T16:55:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lisbon-knock-out-2025/set/96634137/</loc>
-  <lastmod>2025-11-22T16:38:43.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-22T17:11:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625168730&amp;t=0h52m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>850</video:duration>
+    <video:duration>1797</video:duration>
     <video:publication_date>2025-11-22T16:38:43.000Z</video:publication_date>
     <video:uploader>rtparena</video:uploader>
     <video:expiration_date>2025-11-30T16:38:43.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-09-27T22:18:14.000Z</video:publication_date>
     <video:uploader>Tampaneversleeps</video:uploader>
     <video:expiration_date>2025-10-05T22:18:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/norwich-knockout/set/94380854/</loc>
-  <lastmod>2025-09-27T18:29:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823917/image-0598875a4fa81eacb59e3e0a1d2bc4bd.png
-    </video:thumbnail_loc>
-    <video:title>
-      RainlRain vs Ayr, Norwich Knockout! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RainlRain vs Ayr in Winners Semi-Final of Norwich Knockout!, streamed by AlbionGamesCafe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2577180467&amp;t=1h58m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>901</video:duration>
-    <video:publication_date>2025-09-27T18:00:05.000Z</video:publication_date>
-    <video:uploader>AlbionGamesCafe</video:uploader>
-    <video:expiration_date>2025-10-05T18:00:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
