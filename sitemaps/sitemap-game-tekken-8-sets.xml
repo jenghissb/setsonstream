@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-99/set/96617025/</loc>
-  <lastmod>2025-11-22T05:37:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-99/set/96617026/</loc>
+  <lastmod>2025-11-22T06:04:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852382/image-0763420ff2dd99877c91bd5283a0f11b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CHAIN SHIFT | hidetone vs Jesandy, SoCal Colosseum #99 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CHAIN SHIFT | hidetone vs Jesandy in Winners Final of SoCal Colosseum #99, streamed by teakei
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624806607&amp;t=2h29m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1029</video:duration>
+    <video:publication_date>2025-11-22T06:04:26.000Z</video:publication_date>
+    <video:uploader>teakei</video:uploader>
+    <video:expiration_date>2025-11-30T06:04:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-99/set/96617025/</loc>
+  <lastmod>2025-11-22T05:56:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2624806607&amp;t=2h2m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>740</video:duration>
+    <video:duration>558</video:duration>
     <video:publication_date>2025-11-22T05:37:01.000Z</video:publication_date>
     <video:uploader>teakei</video:uploader>
     <video:expiration_date>2025-11-30T05:37:01.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-01T18:09:22.000Z</video:publication_date>
     <video:uploader>sikkify</video:uploader>
     <video:expiration_date>2025-11-09T18:09:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/2025-game-twt-dojo/set/95713821/</loc>
-  <lastmod>2025-11-01T12:43:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838399/image-ec52e6396f0c1684d2ca5b5a11a8dc37.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      日高小春(hidaka koharu) vs utadaking, 2025鬥聚 格GAME道場 TWT DOJO - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 日高小春(hidaka koharu) vs utadaking in Grand Final of 2025鬥聚 格GAME道場 TWT DOJO, streamed by kujo99
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2606847117&amp;t=0h59m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>891</video:duration>
-    <video:publication_date>2025-11-01T12:11:31.000Z</video:publication_date>
-    <video:uploader>kujo99</video:uploader>
-    <video:expiration_date>2025-11-09T12:11:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

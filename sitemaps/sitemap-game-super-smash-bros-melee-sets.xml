@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-2/set/96608769/</loc>
+  <lastmod>2025-11-22T05:59:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849995/image-5de6ccb05ea8fe46d774b9a8bb2472dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      mindGamez vs MOJOE, Kastle Smashers 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch mindGamez vs MOJOE in Winners Final of Kastle Smashers 2, streamed by NorCalMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624786807&amp;t=2h30m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1154</video:duration>
+    <video:publication_date>2025-11-22T05:39:31.000Z</video:publication_date>
+    <video:uploader>NorCalMelee</video:uploader>
+    <video:expiration_date>2025-11-30T05:39:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-2/set/96608892/</loc>
   <lastmod>2025-11-22T05:29:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-31T00:54:38.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-08T00:54:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-356/set/95660692/</loc>
-  <lastmod>2025-10-31T01:40:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846691/image-866f4ac989baa3fc2c7a4b31b0cbb255.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kip vs Fancey, Salt Water Smash 356 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kip vs Fancey in Losers Final of Salt Water Smash 356, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2605541826&amp;t=2h57m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1017</video:duration>
-    <video:publication_date>2025-10-31T00:48:46.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2025-11-08T00:48:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
