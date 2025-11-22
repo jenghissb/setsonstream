@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/holiday-havoc-2025/set/96656623/</loc>
-  <lastmod>2025-11-22T21:05:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/holiday-havoc-2025/set/96656624/</loc>
+  <lastmod>2025-11-22T21:17:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846750/image-5597b19456c34b665f1a9292d2863fe9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Poky | Unstable Hamster vs MMR | BakerFalcon, Holiday Havoc 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Poky | Unstable Hamster vs MMR | BakerFalcon in Winners Final of Holiday Havoc 2025, streamed by pocatellopugilistsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625396066&amp;t=0h47m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>657</video:duration>
+    <video:publication_date>2025-11-22T21:17:59.000Z</video:publication_date>
+    <video:uploader>pocatellopugilistsfgc</video:uploader>
+    <video:expiration_date>2025-11-30T21:17:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/holiday-havoc-2025/set/96656623/</loc>
+  <lastmod>2025-11-22T21:22:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625396066&amp;t=0h35m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>495</video:duration>
+    <video:duration>726</video:duration>
     <video:publication_date>2025-11-22T21:05:38.000Z</video:publication_date>
     <video:uploader>pocatellopugilistsfgc</video:uploader>
     <video:expiration_date>2025-11-30T21:05:38.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-02T02:19:50.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-11-10T02:19:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/colorado-mile-high-burst-monthly-november-2025/set/95783565/</loc>
-  <lastmod>2025-11-02T02:40:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841682/image-a706f00d8929a0df1155be54c72cf197.png
-    </video:thumbnail_loc>
-    <video:title>
-      SpiralKC vs tiktok | BreakfastTEKKEN, Colorado Mile High Burst Monthly November 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SpiralKC vs tiktok | BreakfastTEKKEN in Winners Final of Colorado Mile High Burst Monthly November 2025, streamed by akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607167593&amp;t=7h15m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1134</video:duration>
-    <video:publication_date>2025-11-02T02:04:25.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade</video:uploader>
-    <video:expiration_date>2025-11-10T02:04:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
