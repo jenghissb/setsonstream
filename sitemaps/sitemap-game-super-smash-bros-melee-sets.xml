@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/craicdown-13/set/96636602/</loc>
+  <lastmod>2025-11-22T18:55:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845799/image-b197fcb4d282ee3d952ef579ab5a1e71.png
+    </video:thumbnail_loc>
+    <video:title>
+      Frogchip vs maXy, Craicdown 13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Frogchip vs maXy in Winners Final of Craicdown 13, streamed by SmashIreland
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625044705&amp;t=6h40m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>986</video:duration>
+    <video:publication_date>2025-11-22T18:55:44.000Z</video:publication_date>
+    <video:uploader>SmashIreland</video:uploader>
+    <video:expiration_date>2025-11-30T18:55:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/craicdown-13/set/96636601/</loc>
   <lastmod>2025-11-22T18:34:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-31T02:08:37.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-08T02:08:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/yeti-weekly-454/set/95666344/</loc>
-  <lastmod>2025-10-31T02:46:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845559/image-9eefd3bf5199eb301cea636fa1287af3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Lins vs 3HUNA, Yeti Weekly 454 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lins vs 3HUNA in Losers Quarter-Final of Yeti Weekly 454, streamed by dinksterlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2605667695&amp;t=1h38m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>945</video:duration>
-    <video:publication_date>2025-10-31T02:04:28.000Z</video:publication_date>
-    <video:uploader>dinksterlive</video:uploader>
-    <video:expiration_date>2025-11-08T02:04:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
