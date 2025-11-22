@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/emirates-showdown-2025/set/96620115/</loc>
+  <lastmod>2025-11-22T09:10:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/778358/image-37d8a9e436f14986cb0d6cac44b95c0d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Z10 | SAINT vs Safar, Emirates Showdown 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Z10 | SAINT vs Safar in Winners Final of Emirates Showdown 2025, streamed by Vslashesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624955237&amp;t=0h23m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>580</video:duration>
+    <video:publication_date>2025-11-22T08:54:12.000Z</video:publication_date>
+    <video:uploader>Vslashesports</video:uploader>
+    <video:expiration_date>2025-11-30T08:54:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/emirates-showdown-2025/set/96620066/</loc>
   <lastmod>2025-11-22T08:52:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-01T19:42:36.000Z</video:publication_date>
     <video:uploader>sikkify</video:uploader>
     <video:expiration_date>2025-11-09T19:42:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tlf-halloween-2025/set/95744117/</loc>
-  <lastmod>2025-11-01T20:20:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844194/image-5226418c12f4d2d99edba1d889d7c80a.png
-    </video:thumbnail_loc>
-    <video:title>
-      GrizzlayBear vs CaptCalrissian, TLF Halloween 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GrizzlayBear vs CaptCalrissian in Losers Semi-Final of TLF Halloween 2025, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607134666&amp;t=1h34m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>927</video:duration>
-    <video:publication_date>2025-11-01T19:40:54.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2025-11-09T19:40:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
