@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ad-honorem/set/96630365/</loc>
+  <lastmod>2025-11-22T14:51:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831778/image-3e117b34a2b3facc38e3306514da050f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Xyfug_ vs Comodore, AD HONOREM - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Xyfug_ vs Comodore in Losers Round 3 of AD HONOREM, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625114523&amp;t=0h30m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1386</video:duration>
+    <video:publication_date>2025-11-22T14:51:14.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-11-30T14:51:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-99/set/96611111/</loc>
   <lastmod>2025-11-22T07:10:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-26T14:24:54.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-03T14:24:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guilty-gear-strive-october-2025-bundesbattle-qualifier-3/set/95526404/</loc>
-  <lastmod>2025-10-26T14:12:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831410/image-53d330d924bbc8f6675c3dbe7e167dd3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Warthy vs Saatuuurn, Guilty Gear Strive - October 2025 - BundesBattle Qualifier 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Warthy vs Saatuuurn in Winners Round 1 of Guilty Gear Strive - October 2025 - BundesBattle Qualifier 3, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601835852&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2922</video:duration>
-    <video:publication_date>2025-10-26T13:03:20.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-11-03T13:03:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
