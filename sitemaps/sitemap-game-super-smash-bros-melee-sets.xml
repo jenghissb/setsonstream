@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-2/set/96608770/</loc>
+  <lastmod>2025-11-22T06:27:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849995/image-5de6ccb05ea8fe46d774b9a8bb2472dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      mindGamez vs Aerius, Kastle Smashers 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch mindGamez vs Aerius in Grand Final of Kastle Smashers 2, streamed by NorCalMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624786807&amp;t=3h18m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1128</video:duration>
+    <video:publication_date>2025-11-22T06:27:59.000Z</video:publication_date>
+    <video:uploader>NorCalMelee</video:uploader>
+    <video:expiration_date>2025-11-30T06:27:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-2/set/96608769/</loc>
   <lastmod>2025-11-22T05:59:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-10-31T01:03:07.000Z</video:publication_date>
     <video:uploader>gdubsmp4</video:uploader>
     <video:expiration_date>2025-11-08T01:03:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-2/set/95660445/</loc>
-  <lastmod>2025-10-31T01:40:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846529/image-b642f9fa387d566127f4e9e78e4c821d.png
-    </video:thumbnail_loc>
-    <video:title>
-      THE BOIS | Arn255 vs Emperor of Evil, HoG: Phoenix 9.2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch THE BOIS | Arn255 vs Emperor of Evil in Winners Semi-Final of HoG: Phoenix 9.2, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2605617139&amp;t=1h29m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1047</video:duration>
-    <video:publication_date>2025-10-31T00:54:38.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-08T00:54:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
