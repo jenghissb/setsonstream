@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-99/set/96611111/</loc>
+  <lastmod>2025-11-22T07:10:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852382/image-0763420ff2dd99877c91bd5283a0f11b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PFaB | 8&amp; vs 真島建設 | Arcblade(mashima kensetsu | Arcblade), SoCal Colosseum #99 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PFaB | 8&amp; vs 真島建設 | Arcblade(mashima kensetsu | Arcblade) in Grand Final of SoCal Colosseum #99, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2624812762&amp;t=3h11m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>763</video:duration>
+    <video:publication_date>2025-11-22T06:54:29.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-11-30T06:54:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-99/set/96611142/</loc>
-  <lastmod>2025-11-22T06:38:21.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-22T07:00:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2624812762&amp;t=2h55m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>506</video:duration>
+    <video:duration>965</video:duration>
     <video:publication_date>2025-11-22T06:38:21.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-11-30T06:38:21.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-26T13:03:20.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-11-03T13:03:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/first-attack-2025/set/95470664/</loc>
-  <lastmod>2025-10-26T02:18:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/770549/image-1f43139c625c544030151efe93c8807e.png
-    </video:thumbnail_loc>
-    <video:title>
-      SpicyM0nk3y vs DarkLord04, First Attack 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SpicyM0nk3y vs DarkLord04 in Losers Round 2 of First Attack 2025, streamed by firstattackpr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2601047802&amp;t=9h54m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>662</video:duration>
-    <video:publication_date>2025-10-26T01:43:28.000Z</video:publication_date>
-    <video:uploader>firstattackpr</video:uploader>
-    <video:expiration_date>2025-11-03T01:43:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
