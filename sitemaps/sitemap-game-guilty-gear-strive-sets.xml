@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ad-honorem/set/96630339/</loc>
+  <lastmod>2025-11-22T16:41:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/831778/image-3e117b34a2b3facc38e3306514da050f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Prime Hunter vs NTSC | Feelgy, AD HONOREM - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Prime Hunter vs NTSC | Feelgy in Grand Final of AD HONOREM, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625114523&amp;t=1h59m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1211</video:duration>
+    <video:publication_date>2025-11-22T16:20:34.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-11-30T16:20:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ad-honorem/set/96630370/</loc>
-  <lastmod>2025-11-22T16:10:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-22T16:29:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625114523&amp;t=1h49m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>478</video:duration>
+    <video:duration>619</video:duration>
     <video:publication_date>2025-11-22T16:10:10.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-11-30T16:10:10.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-10-27T23:37:44.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-11-04T23:37:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/gatorlan-fall-2025/set/95542818/</loc>
-  <lastmod>2025-10-26T20:55:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/817439/image-ba90ec3fa7511ef658dd8e874d7ec239.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nikolai vs DODO | starhearth, GatorLAN Fall 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nikolai vs DODO | starhearth in Winners Quarter-Final of GatorLAN Fall 2025, streamed by tentaaaa_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2602147906&amp;t=0h15m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>653</video:duration>
-    <video:publication_date>2025-10-26T20:24:52.000Z</video:publication_date>
-    <video:uploader>tentaaaa_</video:uploader>
-    <video:expiration_date>2025-11-03T20:24:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
