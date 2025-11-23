@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/emirates-showdown-2025/set/96703716/</loc>
+  <lastmod>2025-11-23T11:27:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/778358/image-37d8a9e436f14986cb0d6cac44b95c0d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Abood bboy vs Swooshy, Emirates Showdown 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Abood bboy vs Swooshy in Winners Semi-Final of Emirates Showdown 2025, streamed by Vslashesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625859416&amp;t=2h49m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>531</video:duration>
+    <video:publication_date>2025-11-23T11:27:44.000Z</video:publication_date>
+    <video:uploader>Vslashesports</video:uploader>
+    <video:expiration_date>2025-12-01T11:27:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/emirates-showdown-2025/set/96701370/</loc>
   <lastmod>2025-11-23T11:07:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-02T21:53:30.000Z</video:publication_date>
     <video:uploader>SSE_FGC</video:uploader>
     <video:expiration_date>2025-11-10T21:53:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/dreamhack-atlanta-2025/set/95814197/</loc>
-  <lastmod>2025-11-02T22:23:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809964/image-31b40c15fb8669e13e2d5f0d497c1102.png
-    </video:thumbnail_loc>
-    <video:title>
-      SR NuckleDu vs Shine, DreamHack Atlanta 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SR NuckleDu vs Shine in Losers Round 1 of DreamHack Atlanta 2025, streamed by maxmode_fgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607964733&amp;t=5h11m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>913</video:duration>
-    <video:publication_date>2025-11-02T21:44:29.000Z</video:publication_date>
-    <video:uploader>maxmode_fgc</video:uploader>
-    <video:expiration_date>2025-11-10T21:44:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
