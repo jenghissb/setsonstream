@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/bronco-brawl-fall-2025/set/96721775/</loc>
-  <lastmod>2025-11-23T22:28:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/bronco-brawl-fall-2025/set/96721776/</loc>
+  <lastmod>2025-11-23T22:43:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836803/image-f82ef7bdb67e91ed46f0e089eafd3d03.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BILLALER vs FGC@UCLA | Elio, Bronco Brawl Fall 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BILLALER vs FGC@UCLA | Elio in Winners Quarter-Final of Bronco Brawl Fall 2025, streamed by chainshift_events
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2626353060&amp;t=1h1m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>370</video:duration>
+    <video:publication_date>2025-11-23T22:43:31.000Z</video:publication_date>
+    <video:uploader>chainshift_events</video:uploader>
+    <video:expiration_date>2025-12-01T22:43:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/bronco-brawl-fall-2025/set/96721775/</loc>
+  <lastmod>2025-11-23T22:45:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2626353060&amp;t=0h46m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>327</video:duration>
+    <video:duration>420</video:duration>
     <video:publication_date>2025-11-23T22:28:39.000Z</video:publication_date>
     <video:uploader>chainshift_events</video:uploader>
     <video:expiration_date>2025-12-01T22:28:39.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-06T01:05:29.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2025-11-14T01:05:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/donatos-fight-night-11-5-25/set/95908258/</loc>
-  <lastmod>2025-11-06T01:16:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848352/image-40da0985d377d15bb18eba7415d80951.png
-    </video:thumbnail_loc>
-    <video:title>
-      GrievousCube vs TRULY | Asylum, Donatos Fight Night - 11/5/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GrievousCube vs TRULY | Asylum in Winners Quarter-Final of Donatos Fight Night - 11/5/25, streamed by matchstickmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610823544&amp;t=0h5m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>713</video:duration>
-    <video:publication_date>2025-11-06T00:44:55.000Z</video:publication_date>
-    <video:uploader>matchstickmelee</video:uploader>
-    <video:expiration_date>2025-11-14T00:44:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
