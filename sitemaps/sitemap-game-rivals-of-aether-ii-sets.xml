@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/one-more-game-2/set/96716480/</loc>
-  <lastmod>2025-11-23T20:05:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/one-more-game-2/set/96716496/</loc>
+  <lastmod>2025-11-23T20:30:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,42 @@
       https://images.start.gg/images/tournament/795071/image-48bb2abdc33b7dd5be1efb2428cbca2d.png
     </video:thumbnail_loc>
     <video:title>
-      Birthdayninja vs SteveReen, One More Game - Sets on Stream
+      SPORK | maya vs Neutrino, One More Game - Sets on Stream
     </video:title>
     <video:description>
-      Watch Birthdayninja vs SteveReen in Winners Round 2 of One More Game, streamed by seatac_rivals
+      Watch SPORK | maya vs Neutrino in Winners Round 3 of One More Game, streamed by seatac_rivals
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=seatac_rivals&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>726</video:duration>
-    <video:publication_date>2025-11-23T20:05:28.000Z</video:publication_date>
+    <video:duration>610</video:duration>
+    <video:publication_date>2025-11-23T20:30:22.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
-    <video:expiration_date>2025-12-01T20:05:28.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-01T20:30:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ducky-s-quickies-hanggang-sa-huli/set/96718167/</loc>
+  <lastmod>2025-11-23T20:19:11.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846879/image-33612494ab600b285834813c95dcfbd1.png
+    </video:thumbnail_loc>
+    <video:title>
+      VIBE | Jessu vs PhoenixWrong, Ducky&apos;s Quickies: Hanggang Sa Huli - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VIBE | Jessu vs PhoenixWrong in Quarter-Final of Ducky&apos;s Quickies: Hanggang Sa Huli, streamed by GTA_Rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2626110973&amp;t=3h42m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1281</video:duration>
+    <video:publication_date>2025-11-23T20:19:11.000Z</video:publication_date>
+    <video:uploader>GTA_Rivals</video:uploader>
+    <video:expiration_date>2025-12-01T20:19:11.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4798,30 +4822,6 @@
     <video:publication_date>2025-11-06T01:02:47.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-11-14T01:02:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fries-on-a-salad-210-unlimited-fries-but-no-fries/set/95909149/</loc>
-  <lastmod>2025-11-06T01:54:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847766/image-84c183a8943bb097a9b872ebf71b8e30.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      T4T | Aurora vs clementine, Fries on a Salad #210: Unlimited Fries... But No Fries - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch T4T | Aurora vs clementine in Winners Quarter-Final of Fries on a Salad #210: Unlimited Fries... But No Fries, streamed by pghrivals
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610824300&amp;t=0h20m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1886</video:duration>
-    <video:publication_date>2025-11-06T01:00:48.000Z</video:publication_date>
-    <video:uploader>pghrivals</video:uploader>
-    <video:expiration_date>2025-11-14T01:00:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
