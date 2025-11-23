@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-12-take-a-seat/set/96672965/</loc>
+  <lastmod>2025-11-23T03:24:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840486/image-c146e88c25a588a0ab266089adbb2a67.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nom vs Negative Ellie, Backstreet Brawl #12 - Take a Seat - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nom vs Negative Ellie in Grand Final of Backstreet Brawl #12 - Take a Seat, streamed by HopOnPNW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625359469&amp;t=7h20m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>498</video:duration>
+    <video:publication_date>2025-11-23T03:09:09.000Z</video:publication_date>
+    <video:uploader>HopOnPNW</video:uploader>
+    <video:expiration_date>2025-12-01T03:09:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-12-take-a-seat/set/96672964/</loc>
-  <lastmod>2025-11-23T02:51:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-23T03:12:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625359469&amp;t=7h3m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1227</video:duration>
+    <video:duration>503</video:duration>
     <video:publication_date>2025-11-23T02:51:51.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2025-12-01T02:51:51.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-01T15:03:56.000Z</video:publication_date>
     <video:uploader>salamanderesport</video:uploader>
     <video:expiration_date>2025-11-09T15:03:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-12-bh3-x-joystick/set/95719241/</loc>
-  <lastmod>2025-11-01T15:08:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840595/image-ad52248174512eecfb2790c19e97ea86.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NOG | Hironamite vs NTSC | Kisald, Monthly FGC#12 - BH3 x JOYSTICK - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NOG | Hironamite vs NTSC | Kisald in Winners Semi-Final of Monthly FGC#12 - BH3 x JOYSTICK, streamed by salamanderesport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2606885498&amp;t=2h3m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>872</video:duration>
-    <video:publication_date>2025-11-01T14:36:32.000Z</video:publication_date>
-    <video:uploader>salamanderesport</video:uploader>
-    <video:expiration_date>2025-11-09T14:36:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
