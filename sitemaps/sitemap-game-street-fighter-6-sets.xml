@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/emirates-showdown-2025/set/96700166/</loc>
+  <lastmod>2025-11-23T10:06:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/778358/image-37d8a9e436f14986cb0d6cac44b95c0d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      EvilYoshi vs Hazz, Emirates Showdown 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EvilYoshi vs Hazz in Winners Semi-Final of Emirates Showdown 2025, streamed by Vslashesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625859416&amp;t=1h12m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>565</video:duration>
+    <video:publication_date>2025-11-23T09:50:39.000Z</video:publication_date>
+    <video:uploader>Vslashesports</video:uploader>
+    <video:expiration_date>2025-12-01T09:50:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/emirates-showdown-2025/set/96700163/</loc>
   <lastmod>2025-11-23T09:34:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-02T20:47:00.000Z</video:publication_date>
     <video:uploader>maxmode_fgc</video:uploader>
     <video:expiration_date>2025-11-10T20:47:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sse-fall-showcase-25-5000-pot-bonus/set/95812170/</loc>
-  <lastmod>2025-11-02T21:16:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/803063/image-0368cb380392f6ebf22b576f2cdbce97.png
-    </video:thumbnail_loc>
-    <video:title>
-      TeaSea vs NM-ISM | PresidentGator, SSE Fall Showcase &apos;25 | $5000+ Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TeaSea vs NM-ISM | PresidentGator in Winners Round 2 of SSE Fall Showcase &apos;25 | $5000+ Pot Bonus, streamed by SSE_FGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2608066298&amp;t=2h9m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>490</video:duration>
-    <video:publication_date>2025-11-02T20:46:51.000Z</video:publication_date>
-    <video:uploader>SSE_FGC</video:uploader>
-    <video:expiration_date>2025-11-10T20:46:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
