@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625893825&amp;t=1h18m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>474</video:duration>
+    <video:duration>1270</video:duration>
     <video:publication_date>2025-11-23T11:28:41.000Z</video:publication_date>
     <video:uploader>hfgcry</video:uploader>
     <video:expiration_date>2025-12-01T11:28:41.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/lisbon-knock-out-2025/set/96702782/</loc>
-  <lastmod>2025-11-23T11:23:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/lisbon-knock-out-2025/set/96702789/</loc>
+  <lastmod>2025-11-23T11:34:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816491/image-a27f09f58c18b721aa0698c8ac14e5f9.png
+    </video:thumbnail_loc>
+    <video:title>
+      uP | noxtherox vs remot3, Lisbon Knock Out 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch uP | noxtherox vs remot3 in Winners Quarter-Final of Lisbon Knock Out 2025, streamed by rtparena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625905398&amp;t=0h54m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>920</video:duration>
+    <video:publication_date>2025-11-23T11:34:31.000Z</video:publication_date>
+    <video:uploader>rtparena</video:uploader>
+    <video:expiration_date>2025-12-01T11:34:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/lisbon-knock-out-2025/set/96702782/</loc>
+  <lastmod>2025-11-23T11:42:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625905398&amp;t=0h43m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>778</video:duration>
+    <video:duration>642</video:duration>
     <video:publication_date>2025-11-23T11:23:37.000Z</video:publication_date>
     <video:uploader>rtparena</video:uploader>
     <video:expiration_date>2025-12-01T11:23:37.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-05T05:09:09.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-11-13T05:09:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-78-norcal-2xko-tekken-8-weekly/set/95890105/</loc>
-  <lastmod>2025-11-05T05:13:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846719/image-bc708ce97abf7299c88e7f5d565d208c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Frag | NanditoTheBandito vs MADHouse | Enenra, Guildhouse Tuesday 78 - Norcal 2XKO &amp; Tekken 8 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frag | NanditoTheBandito vs MADHouse | Enenra in Winners Semi-Final of Guildhouse Tuesday 78 - Norcal 2XKO &amp; Tekken 8 weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610143143&amp;t=0h40m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>514</video:duration>
-    <video:publication_date>2025-11-05T04:48:17.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-11-13T04:48:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
