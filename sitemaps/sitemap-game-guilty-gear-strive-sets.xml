@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/knox-out-25/set/96713439/</loc>
-  <lastmod>2025-11-23T19:18:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823960/image-770032d20c9337cc81e28ecf8a7b711e.png
-    </video:thumbnail_loc>
-    <video:title>
-      ATLRiot vs Envoy, KNOX-OUT &apos;25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ATLRiot vs Envoy in Winners Quarter-Final of KNOX-OUT &apos;25, streamed by teamsp00ky
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626238522&amp;t=0h2m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>490</video:duration>
-    <video:publication_date>2025-11-23T19:18:05.000Z</video:publication_date>
-    <video:uploader>teamsp00ky</video:uploader>
-    <video:expiration_date>2025-12-01T19:18:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/re-install-3/set/96702449/</loc>
-  <lastmod>2025-11-23T19:20:34.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-23T19:35:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625893825&amp;t=9h10m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>341</video:duration>
+    <video:duration>618</video:duration>
     <video:publication_date>2025-11-23T19:20:34.000Z</video:publication_date>
     <video:uploader>hfgcry</video:uploader>
     <video:expiration_date>2025-12-01T19:20:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/knox-out-25/set/96713439/</loc>
+  <lastmod>2025-11-23T19:35:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823960/image-770032d20c9337cc81e28ecf8a7b711e.png
+    </video:thumbnail_loc>
+    <video:title>
+      ATLRiot vs Envoy, KNOX-OUT &apos;25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ATLRiot vs Envoy in Winners Quarter-Final of KNOX-OUT &apos;25, streamed by teamsp00ky
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2626238522&amp;t=0h2m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>286</video:duration>
+    <video:publication_date>2025-11-23T19:18:05.000Z</video:publication_date>
+    <video:uploader>teamsp00ky</video:uploader>
+    <video:expiration_date>2025-12-01T19:18:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
