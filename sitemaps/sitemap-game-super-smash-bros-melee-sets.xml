@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bowled-over-2/set/96721349/</loc>
-  <lastmod>2025-11-23T21:02:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bowled-over-2/set/96721371/</loc>
+  <lastmod>2025-11-23T21:15:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845174/image-6e0d6f1a9730f5db7071118c36e5f99e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MKE | Kibby vs Vi | yuunia, Bowled Over #2! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MKE | Kibby vs Vi | yuunia in Round 2 of Bowled Over #2!, streamed by jessdang3r
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2626206874&amp;t=2h37m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>850</video:duration>
+    <video:publication_date>2025-11-23T21:15:33.000Z</video:publication_date>
+    <video:uploader>jessdang3r</video:uploader>
+    <video:expiration_date>2025-12-01T21:15:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bowled-over-2/set/96721349/</loc>
+  <lastmod>2025-11-23T21:21:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2626206874&amp;t=2h24m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>675</video:duration>
+    <video:duration>529</video:duration>
     <video:publication_date>2025-11-23T21:02:48.000Z</video:publication_date>
     <video:uploader>jessdang3r</video:uploader>
     <video:expiration_date>2025-12-01T21:02:48.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-01T21:59:04.000Z</video:publication_date>
     <video:uploader>cstatmelee</video:uploader>
     <video:expiration_date>2025-11-09T21:59:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-bird-house-14-winter-formal/set/95761663/</loc>
-  <lastmod>2025-11-01T22:09:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816692/image-3d9f142e14300ece28aff766c1734c25.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zamu vs SSBMR | Mouse, The Bird House 14: Winter Formal - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zamu vs SSBMR | Mouse in Winners Quarter-Final of The Bird House 14: Winter Formal, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607040497&amp;t=5h27m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>544</video:duration>
-    <video:publication_date>2025-11-01T21:30:02.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2025-11-09T21:30:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
