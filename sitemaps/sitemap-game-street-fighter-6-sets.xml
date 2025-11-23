@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/knox-out-25/set/96729353/</loc>
-  <lastmod>2025-11-23T23:26:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bronco-brawl-fall-2025/set/96724370/</loc>
+  <lastmod>2025-11-23T23:40:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836803/image-f82ef7bdb67e91ed46f0e089eafd3d03.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      axlshingo vs FSP | DjNova, Bronco Brawl Fall 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch axlshingo vs FSP | DjNova in Winners Semi-Final of Bronco Brawl Fall 2025, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2626360553&amp;t=1h47m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>608</video:duration>
+    <video:publication_date>2025-11-23T23:40:51.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2025-12-01T23:40:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/knox-out-25/set/96729353/</loc>
+  <lastmod>2025-11-23T23:45:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2626083698&amp;t=7h29m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>906</video:duration>
+    <video:duration>1065</video:duration>
     <video:publication_date>2025-11-23T23:26:58.000Z</video:publication_date>
     <video:uploader>tenomedia</video:uploader>
     <video:expiration_date>2025-12-01T23:26:58.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-02T23:23:51.000Z</video:publication_date>
     <video:uploader>Guildhouse</video:uploader>
     <video:expiration_date>2025-11-10T23:23:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/chop-chop-throwdown-13/set/95820768/</loc>
-  <lastmod>2025-11-02T23:53:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844910/image-a2fa25b43e82a80dd6470cb88ff67949.png
-    </video:thumbnail_loc>
-    <video:title>
-      zackrob vs PhreshPhil, Chop Chop Throwdown #13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch zackrob vs PhreshPhil in Winners Round 1 of Chop Chop Throwdown #13, streamed by BracketDemons
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2608291899&amp;t=0h2m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>394</video:duration>
-    <video:publication_date>2025-11-02T23:23:48.000Z</video:publication_date>
-    <video:uploader>BracketDemons</video:uploader>
-    <video:expiration_date>2025-11-10T23:23:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
