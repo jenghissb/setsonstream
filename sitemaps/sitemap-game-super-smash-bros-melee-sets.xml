@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mission-complete-05/set/96694595/</loc>
-  <lastmod>2025-11-23T05:08:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mission-complete-05/set/96694626/</loc>
+  <lastmod>2025-11-23T05:29:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853344/image-e12e33521db39023696d3dd00e1d2154.png
+    </video:thumbnail_loc>
+    <video:title>
+      OBE | sumi vs Steech | cliché, Mission Complete #05 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OBE | sumi vs Steech | cliché in Losers Semi-Final of Mission Complete #05, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2625716478&amp;t=1h48m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>688</video:duration>
+    <video:publication_date>2025-11-23T05:29:03.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2025-12-01T05:29:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mission-complete-05/set/96694595/</loc>
+  <lastmod>2025-11-23T05:38:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2625716478&amp;t=1h27m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>761</video:duration>
+    <video:duration>1253</video:duration>
     <video:publication_date>2025-11-23T05:08:06.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-12-01T05:08:06.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-01T21:26:39.000Z</video:publication_date>
     <video:uploader>Spiralmedia</video:uploader>
     <video:expiration_date>2025-11-09T21:26:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/cavalier-clash-6-7-670-pot-bonus/set/95747358/</loc>
-  <lastmod>2025-11-01T21:36:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/767053/image-7723a2e4063d13617b5bbe1b86558797.png
-    </video:thumbnail_loc>
-    <video:title>
-      S3C | RapMonster vs Hua, Cavalier Clash 6.7 | $670+ POT BONUS - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch S3C | RapMonster vs Hua in Grand Final of Cavalier Clash 6.7 | $670+ POT BONUS, streamed by kmltournaments2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607047539&amp;t=4h41m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>667</video:duration>
-    <video:publication_date>2025-11-01T20:54:38.000Z</video:publication_date>
-    <video:uploader>kmltournaments2</video:uploader>
-    <video:expiration_date>2025-11-09T20:54:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
