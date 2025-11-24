@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-86/set/96748774/</loc>
-  <lastmod>2025-11-24T20:01:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-86/set/96748747/</loc>
+  <lastmod>2025-11-24T20:19:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854577/image-8ff3e65fdbafd6491dba456622f1eb87.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Explo vs PSG | Busard, KnockOut Zone #86 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Explo vs PSG | Busard in Winners Final of KnockOut Zone #86, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2626989037&amp;t=2h14m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1258</video:duration>
+    <video:publication_date>2025-11-24T20:19:36.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-12-02T20:19:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-86/set/96748774/</loc>
+  <lastmod>2025-11-24T20:22:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2626989037&amp;t=1h56m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1057</video:duration>
+    <video:duration>1018</video:duration>
     <video:publication_date>2025-11-24T20:01:08.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-12-02T20:01:08.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-03T02:55:23.000Z</video:publication_date>
     <video:uploader>genesisgg</video:uploader>
     <video:expiration_date>2025-11-11T02:55:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/genesis-black-at-guildhouse-2025/set/95825197/</loc>
-  <lastmod>2025-11-03T03:05:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820767/image-b2d9fb49c53b0d88da93545bda93c2de.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aerius vs Muscoman, GENESIS: BLACK at Guildhouse 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aerius vs Muscoman in Winners Quarter-Final of GENESIS: BLACK at Guildhouse 2025, streamed by genesisgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2608248870&amp;t=3h57m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1389</video:duration>
-    <video:publication_date>2025-11-03T02:17:52.000Z</video:publication_date>
-    <video:uploader>genesisgg</video:uploader>
-    <video:expiration_date>2025-11-11T02:17:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
