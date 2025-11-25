@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-275-hampolo-s-birthday-bash/set/96758170/</loc>
-  <lastmod>2025-11-25T04:28:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-275-hampolo-s-birthday-bash/set/96758107/</loc>
+  <lastmod>2025-11-25T04:43:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854302/image-844846b40df51d1f98feeb25a8bc17a2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bbatts vs sleet.gg | CheesyPotato, Fusion #275 - HamPolo&apos;s Birthday BASH - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bbatts vs sleet.gg | CheesyPotato in Grand Final of Fusion #275 - HamPolo&apos;s Birthday BASH, streamed by CollisionSeriesTV2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627289951&amp;t=3h47m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>782</video:duration>
+    <video:publication_date>2025-11-25T04:43:06.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV2</video:uploader>
+    <video:expiration_date>2025-12-03T04:43:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-275-hampolo-s-birthday-bash/set/96758170/</loc>
+  <lastmod>2025-11-25T04:49:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627289951&amp;t=3h32m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1046</video:duration>
+    <video:duration>872</video:duration>
     <video:publication_date>2025-11-25T04:28:30.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV2</video:uploader>
     <video:expiration_date>2025-12-03T04:28:30.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-07T02:52:29.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-11-15T02:52:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/jaxsmash-weekly-leaderboard-11-6-25/set/95943881/</loc>
-  <lastmod>2025-11-07T03:36:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849164/image-446f9bd642f1a88e7e72adf32ccdbb45.png
-    </video:thumbnail_loc>
-    <video:title>
-      Phi vs SA | Fil, JaxSmash Weekly @ Leaderboard 11/6/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Phi vs SA | Fil in Losers Round 1 of JaxSmash Weekly @ Leaderboard 11/6/25, streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2611697766&amp;t=1h10m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1019</video:duration>
-    <video:publication_date>2025-11-07T02:49:34.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2025-11-15T02:49:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
