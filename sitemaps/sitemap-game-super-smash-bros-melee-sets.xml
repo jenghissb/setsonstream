@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-479/set/96762890/</loc>
-  <lastmod>2025-11-25T04:32:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-479/set/96762860/</loc>
+  <lastmod>2025-11-25T04:57:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855291/image-e9ea80e90dbc460cb23c2d9e9a1d4308.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pops | Pops vs FX | Fury, Monday Night Melee 479 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pops | Pops vs FX | Fury in Grand Final of Monday Night Melee 479, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627345098&amp;t=2h52m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1192</video:duration>
+    <video:publication_date>2025-11-25T04:57:22.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2025-12-03T04:57:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-479/set/96762890/</loc>
+  <lastmod>2025-11-25T04:59:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627345098&amp;t=2h26m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1435</video:duration>
+    <video:duration>1494</video:duration>
     <video:publication_date>2025-11-25T04:32:13.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-12-03T04:32:13.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-04T03:17:16.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-11-12T03:17:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-mondays-the-guild-9/set/95860768/</loc>
-  <lastmod>2025-11-04T03:55:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846702/image-a0aa39d975a7f37f033ac4c7dffcb983.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ryse vs oh, Melee Mondays @ The Guild #9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ryse vs oh in Losers Quarter-Final of Melee Mondays @ The Guild #9, streamed by theguildtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2609154287&amp;t=2h27m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1536</video:duration>
-    <video:publication_date>2025-11-04T03:07:11.000Z</video:publication_date>
-    <video:uploader>theguildtv</video:uploader>
-    <video:expiration_date>2025-11-12T03:07:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
