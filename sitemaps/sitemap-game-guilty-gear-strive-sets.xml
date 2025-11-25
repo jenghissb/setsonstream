@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-85/set/96755384/</loc>
+  <lastmod>2025-11-25T00:49:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854946/image-59e9fdfaa13b480dfc940a47d3dc1439.png
+    </video:thumbnail_loc>
+    <video:title>
+      Calhoun0763 vs Xyned, Block String @ Wonderfly #85 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Calhoun0763 vs Xyned in Winners Quarter-Final of Block String @ Wonderfly #85, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627278896&amp;t=0h7m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1411</video:duration>
+    <video:publication_date>2025-11-25T00:49:18.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2025-12-03T00:49:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/re-install-3/set/96702449/</loc>
   <lastmod>2025-11-23T19:35:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-01T17:06:22.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-11-09T17:06:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-5/set/95720559/</loc>
-  <lastmod>2025-11-01T16:19:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837498/image-7fd1d9142218f8778bb6818053bb0e35.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      WhetiStripi vs Pegasus974, Arca-Sys #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WhetiStripi vs Pegasus974 in Losers Round 3 of Arca-Sys #5, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2606896217&amp;t=2h59m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>799</video:duration>
-    <video:publication_date>2025-11-01T15:53:13.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2025-11-09T15:53:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
