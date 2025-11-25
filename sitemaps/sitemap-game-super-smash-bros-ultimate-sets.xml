@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-73-powered-by-gamer-latam-1/set/96765599/</loc>
-  <lastmod>2025-11-25T05:49:19.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-73-powered-by-gamer-latam-1/set/96765662/</loc>
+  <lastmod>2025-11-25T06:16:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853379/image-18967f61389074c89d9a796eda3d4197.png
+    </video:thumbnail_loc>
+    <video:title>
+      Abe vs Driver, Soul Melter Smash #73 - Powered by Gamer LatAm - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Abe vs Driver in Losers Semi-Final of Soul Melter Smash #73 - Powered by Gamer LatAm, streamed by gamerlatammx
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627421054&amp;t=2h14m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>557</video:duration>
+    <video:publication_date>2025-11-25T06:16:02.000Z</video:publication_date>
+    <video:uploader>gamerlatammx</video:uploader>
+    <video:expiration_date>2025-12-03T06:16:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-73-powered-by-gamer-latam-1/set/96765599/</loc>
+  <lastmod>2025-11-25T06:00:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627421054&amp;t=1h47m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>165</video:duration>
+    <video:duration>623</video:duration>
     <video:publication_date>2025-11-25T05:49:19.000Z</video:publication_date>
     <video:uploader>gamerlatammx</video:uploader>
     <video:expiration_date>2025-12-03T05:49:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lan-hero-monday-94-thank-you/set/96766137/</loc>
-  <lastmod>2025-11-25T05:45:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854094/image-7ff7b6a46b01a5da7ae7c3211b804bfd.png
-    </video:thumbnail_loc>
-    <video:title>
-      CS3 | Tree vs LH | Icemanruz, LAN Hero Monday #94 Thank you! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CS3 | Tree vs LH | Icemanruz in Round 1 of LAN Hero Monday #94 Thank you!, streamed by lan_hero
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=lan_hero&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>410</video:duration>
-    <video:publication_date>2025-11-25T05:45:14.000Z</video:publication_date>
-    <video:uploader>lan_hero</video:uploader>
-    <video:expiration_date>2025-12-03T05:45:14.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +71998,6 @@
     <video:publication_date>2025-11-16T23:45:20.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2025-11-24T23:45:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pummel-at-the-plemmons-22/set/96403661/</loc>
-  <lastmod>2025-11-17T00:01:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852112/image-038c603d03fce248c00cdcc6b9f31ddc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dish vs Morlorae, Pummel at The Plemmons 22 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dish vs Morlorae in Winners Quarter-Final of Pummel at The Plemmons 22, streamed by Boone_smashes
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2620420403&amp;t=0h57m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1059</video:duration>
-    <video:publication_date>2025-11-16T23:40:33.000Z</video:publication_date>
-    <video:uploader>Boone_smashes</video:uploader>
-    <video:expiration_date>2025-11-24T23:40:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

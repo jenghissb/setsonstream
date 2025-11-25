@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-34-let-it-shine/set/96765137/</loc>
-  <lastmod>2025-11-25T05:44:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-34-let-it-shine/set/96765199/</loc>
+  <lastmod>2025-11-25T05:56:15.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855075/image-ddc42f7138a5a0165c66c875116f2ea2.png
+    </video:thumbnail_loc>
+    <video:title>
+      System of a Downsmash vs Kopaka, McCloud&apos;s Melee Co. #34: Let It Shine - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch System of a Downsmash vs Kopaka in Losers Quarter-Final of McCloud&apos;s Melee Co. #34: Let It Shine, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627385331&amp;t=2h53m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1744</video:duration>
+    <video:publication_date>2025-11-25T05:56:15.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-12-03T05:56:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-34-let-it-shine/set/96765137/</loc>
+  <lastmod>2025-11-25T06:02:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627385331&amp;t=2h41m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>464</video:duration>
+    <video:duration>616</video:duration>
     <video:publication_date>2025-11-25T05:44:20.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2025-12-03T05:44:20.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-04T03:38:52.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-11-12T03:38:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kame-house-weekly-132-halloweenkamehouse3-arcadiankickoff/set/95858208/</loc>
-  <lastmod>2025-11-04T04:18:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846148/image-065ee489665e8e7956aad251b65b4b0f.png
-    </video:thumbnail_loc>
-    <video:title>
-      MCSMASH | fknsilver vs Silk | Den, Kame House Weekly #132 #HALLOWEENKAMEHOUSE3 #ARCADIANKICKOFF - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MCSMASH | fknsilver vs Silk | Den in Winners Final of Kame House Weekly #132 #HALLOWEENKAMEHOUSE3 #ARCADIANKICKOFF, streamed by vgbootcamp2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2609207126&amp;t=1h49m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1427</video:duration>
-    <video:publication_date>2025-11-04T03:36:16.000Z</video:publication_date>
-    <video:uploader>vgbootcamp2</video:uploader>
-    <video:expiration_date>2025-11-12T03:36:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
