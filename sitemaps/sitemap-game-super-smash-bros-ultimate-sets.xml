@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770395/</loc>
-  <lastmod>2025-11-25T20:30:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770398/</loc>
+  <lastmod>2025-11-25T20:47:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/855268/image-ad2a0533a1da559cc3cd9223ec8b5077.png
     </video:thumbnail_loc>
     <video:title>
-      GCR | ZeNo vs GCR | Nicooo, Magna Arena #219 - Sets on Stream
+      R-B | | Kilo Crimson vs GCR | Neytram, Magna Arena #219 - Sets on Stream
     </video:title>
     <video:description>
-      Watch GCR | ZeNo vs GCR | Nicooo in Losers Round 4 of Magna Arena #219, streamed by SmashStrasbourg
+      Watch R-B | | Kilo Crimson vs GCR | Neytram in Losers Quarter-Final of Magna Arena #219, streamed by SmashStrasbourg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2627798703&amp;t=2h33m0s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2627798703&amp;t=2h50m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>756</video:duration>
-    <video:publication_date>2025-11-25T20:30:10.000Z</video:publication_date>
+    <video:duration>290</video:duration>
+    <video:publication_date>2025-11-25T20:47:53.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2025-12-03T20:30:10.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-03T20:47:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-140-november-25th/set/96772959/</loc>
+  <lastmod>2025-11-25T20:47:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854635/image-e910ef30e15c05a3359be7e4260818cb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GalaxyEJ vs Bloop!, FightHouse Weeklies #140 - November 25th - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GalaxyEJ vs Bloop! in Winners Semi-Final of FightHouse Weeklies #140 - November 25th, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627876637&amp;t=1h8m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>316</video:duration>
+    <video:publication_date>2025-11-25T20:47:27.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-12-03T20:47:27.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-140-november-25th/set/96772956/</loc>
-  <lastmod>2025-11-25T20:35:13.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-25T20:49:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627876637&amp;t=0h56m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>453</video:duration>
+    <video:duration>704</video:duration>
     <video:publication_date>2025-11-25T20:35:13.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-12-03T20:35:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770395/</loc>
+  <lastmod>2025-11-25T20:49:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855268/image-ad2a0533a1da559cc3cd9223ec8b5077.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCR | ZeNo vs GCR | Nicooo, Magna Arena #219 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCR | ZeNo vs GCR | Nicooo in Losers Round 4 of Magna Arena #219, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627798703&amp;t=2h33m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1055</video:duration>
+    <video:publication_date>2025-11-25T20:30:10.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-12-03T20:30:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-11-17T00:07:52.000Z</video:publication_date>
     <video:uploader>Elemental</video:uploader>
     <video:expiration_date>2025-11-25T00:07:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/final-gambit/set/96276453/</loc>
-  <lastmod>2025-11-17T00:18:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/822740/image-a17e9eb35e18fe1b47154a9dbfe8216f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Toremitos | elchuky vs EΔ | Jojo(E Delta | Jojo), Final Gambit - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Toremitos | elchuky vs EΔ | Jojo(E Delta | Jojo) in Winners Quarter-Final of Final Gambit, streamed by ElementalMTY
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2620222228&amp;t=5h32m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>525</video:duration>
-    <video:publication_date>2025-11-17T00:06:27.000Z</video:publication_date>
-    <video:uploader>ElementalMTY</video:uploader>
-    <video:expiration_date>2025-11-25T00:06:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/back-from-the-ded-monthly-10-up-to-300-pot-bonus/set/96404616/</loc>
-  <lastmod>2025-11-17T00:27:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845878/image-99b55676faa8bdb16bf60ce675ba0c3e.png
-    </video:thumbnail_loc>
-    <video:title>
-      MOB | Sir Moves vs ENC | Shyguy, Back From the DED Monthly #10 (up to $300 Pot Bonus!) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MOB | Sir Moves vs ENC | Shyguy in Winners Quarter-Final of Back From the DED Monthly #10 (up to $300 Pot Bonus!), streamed by smashchester
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2620456096&amp;t=0h31m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1126</video:duration>
-    <video:publication_date>2025-11-17T00:05:33.000Z</video:publication_date>
-    <video:uploader>smashchester</video:uploader>
-    <video:expiration_date>2025-11-25T00:05:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
