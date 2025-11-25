@@ -76,8 +76,6 @@ function Layout() {
     <>
       {/* <header> */}
       <header style={{ top: 0, position: "sticky", zIndex: 2004 }}>
-        <h1 className="visuallyhidden">Setsonstream.tv - Watch Fighting Game Tournaments</h1>
-        <p className="visuallyhidden">Stream tournament sets from Smash Ultimate, Street Fighter 6, and more.</p>
         <AppNavBar toggleTheme={toggleTheme} setFeedbackOpen={setFeedbackOpen} />
       </header>
       <Outlet />
