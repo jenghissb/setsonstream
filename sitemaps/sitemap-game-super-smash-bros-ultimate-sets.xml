@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770333/</loc>
-  <lastmod>2025-11-25T19:09:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770331/</loc>
+  <lastmod>2025-11-25T19:24:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855268/image-ad2a0533a1da559cc3cd9223ec8b5077.png
+    </video:thumbnail_loc>
+    <video:title>
+      R-B | | Kilo Crimson vs GCR | ZeNo, Magna Arena #219 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch R-B | | Kilo Crimson vs GCR | ZeNo in Winners Quarter-Final of Magna Arena #219, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627798703&amp;t=1h27m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>301</video:duration>
+    <video:publication_date>2025-11-25T19:24:49.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-12-03T19:24:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770333/</loc>
+  <lastmod>2025-11-25T19:26:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627798703&amp;t=1h12m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>273</video:duration>
+    <video:duration>904</video:duration>
     <video:publication_date>2025-11-25T19:09:38.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-12-03T19:09:38.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-16T23:49:24.000Z</video:publication_date>
     <video:uploader>SoulArts (SoulArtsVGC)</video:uploader>
     <video:expiration_date>2025-11-24T23:49:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bring-more-setups-200-2d-hd-edition/set/96398417/</loc>
-  <lastmod>2025-11-17T00:18:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847303/image-a5d49d9f63bf52d326ff9c66e8f8279d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      smub vs IceBeRG | Ripcord, Bring More Setups #200: 2D-HD Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch smub vs IceBeRG | Ripcord in Winners Semi-Final of Bring More Setups #200: 2D-HD Edition, streamed by mason_esports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2620269314&amp;t=4h21m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1355</video:duration>
-    <video:publication_date>2025-11-16T23:48:57.000Z</video:publication_date>
-    <video:uploader>mason_esports2</video:uploader>
-    <video:expiration_date>2025-11-24T23:48:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
