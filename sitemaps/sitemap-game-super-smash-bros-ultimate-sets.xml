@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770337/</loc>
-  <lastmod>2025-11-25T21:41:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-140-november-25th/set/96772992/</loc>
+  <lastmod>2025-11-25T21:59:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854635/image-e910ef30e15c05a3359be7e4260818cb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GalaxyEJ vs Bloop!, FightHouse Weeklies #140 - November 25th - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GalaxyEJ vs Bloop! in Losers Final of FightHouse Weeklies #140 - November 25th, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2627876637&amp;t=2h20m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1008</video:duration>
+    <video:publication_date>2025-11-25T21:59:04.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-12-03T21:59:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-219/set/96770337/</loc>
+  <lastmod>2025-11-25T22:00:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627798703&amp;t=3h44m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>467</video:duration>
+    <video:duration>1012</video:duration>
     <video:publication_date>2025-11-25T21:41:51.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-12-03T21:41:51.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-140-november-25th/set/96772991/</loc>
-  <lastmod>2025-11-25T21:37:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-25T21:59:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2627876637&amp;t=1h59m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>712</video:duration>
+    <video:duration>1153</video:duration>
     <video:publication_date>2025-11-25T21:37:46.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-12-03T21:37:46.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-17T00:16:08.000Z</video:publication_date>
     <video:uploader>mason_esports2</video:uploader>
     <video:expiration_date>2025-11-25T00:16:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shield-breaker-28-valhallan-esports-louie-summit-qualifier/set/96404153/</loc>
-  <lastmod>2025-11-17T00:41:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851811/image-6b085b8f950719430aa47f4e3c5832b4.png
-    </video:thumbnail_loc>
-    <video:title>
-      FC | Stratas vs Raptor, Shield Breaker #28 @ Valhallan eSports - Louie Summit Qualifier - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FC | Stratas vs Raptor in Winners Round 2 of Shield Breaker #28 @ Valhallan eSports - Louie Summit Qualifier, streamed by SoulArts (SoulArtsVGC)
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/NuXZQ1e57EY?start=1324s
-    </video:player_loc>
-    <video:duration>1465</video:duration>
-    <video:publication_date>2025-11-17T00:12:46.000Z</video:publication_date>
-    <video:uploader>SoulArts (SoulArtsVGC)</video:uploader>
-    <video:expiration_date>2025-11-25T00:12:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
