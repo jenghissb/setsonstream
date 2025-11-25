@@ -1002,6 +1002,9 @@ function MainComponent({homeMode, homeType, darkMode}) {
     }
   }
 
+  const recentSeekThresh = 1800
+  const recentSeekRef = useRef({})
+
   const handleTimestampChange = useCallback((newSeconds, rewindAmount=0) => {
     // rewindAmount = -1.0/60
     if (currentPlayerRef.current?.player?.player?.seekTo ?? null != null) {
@@ -1009,7 +1012,11 @@ function MainComponent({homeMode, homeType, darkMode}) {
       const p=currentPlayerRef.current?.player?.player
       if (newSeconds == null && rewindAmount != null) {
         const currentTime = p?.getCurrentTime() ?? 0
-        p?.seekTo(currentTime - rewindAmount)
+        const lastTimeSet = recentSeekRef.current.lastTimeSet
+        const timeToUse = (lastTimeSet != null && Date.now() - lastTimeSet < recentSeekThresh) ? recentSeekRef.current.time : currentTime
+        const newTime = timeToUse - rewindAmount
+        recentSeekRef.current = {time: newTime, lastTimeSet: Date.now()}
+        p?.seekTo(newTime)
       } else {
           p?.seekTo(newSeconds)
       }
@@ -1018,7 +1025,11 @@ function MainComponent({homeMode, homeType, darkMode}) {
       const p = currentPlayerRef.current
       if (newSeconds == null && rewindAmount != null) {
         const currentTime = p?.getCurrentTime() ?? 0
-        p?.seek(currentTime - rewindAmount)
+        const lastTimeSet = recentSeekRef.current.lastTimeSet
+        const timeToUse = (lastTimeSet != null && Date.now() - lastTimeSet < recentSeekThresh) ? recentSeekRef.current.time : currentTime
+        const newTime = timeToUse - rewindAmount
+        recentSeekRef.current = {time: newTime, lastTimeSet: Date.now()}
+        p?.seek(newTime)
       } else {
         p?.seek(newSeconds)
       }
