@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2628863423&amp;t=0h25m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>234</video:duration>
+    <video:duration>764</video:duration>
     <video:publication_date>2025-11-26T23:38:01.000Z</video:publication_date>
     <video:uploader>nostyleesports</video:uploader>
     <video:expiration_date>2025-12-04T23:38:01.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-181-smash-bros-ultimate/set/96799702/</loc>
-  <lastmod>2025-11-26T23:32:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-181-smash-bros-ultimate/set/96799703/</loc>
+  <lastmod>2025-11-26T23:43:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855013/image-7811e037be4194d5c6c4e644d49d51f6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Harlonga vs PM | Tuxedo, NOT DM #181 SMASH BROS ULTIMATE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Harlonga vs PM | Tuxedo in Winners Final of NOT DM #181 SMASH BROS ULTIMATE, streamed by walito_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2628814934&amp;t=1h40m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>421</video:duration>
+    <video:publication_date>2025-11-26T23:43:44.000Z</video:publication_date>
+    <video:uploader>walito_tv</video:uploader>
+    <video:expiration_date>2025-12-04T23:43:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-181-smash-bros-ultimate/set/96799702/</loc>
+  <lastmod>2025-11-26T23:44:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2628814934&amp;t=1h29m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>582</video:duration>
+    <video:duration>680</video:duration>
     <video:publication_date>2025-11-26T23:32:13.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2025-12-04T23:32:13.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-18T03:04:56.000Z</video:publication_date>
     <video:uploader>eightooooooobears</video:uploader>
     <video:expiration_date>2025-11-26T03:04:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hog-shock-16-7/set/96450910/</loc>
-  <lastmod>2025-11-18T03:20:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852965/image-a85848f386ff383bbf58425727e14291.png
-    </video:thumbnail_loc>
-    <video:title>
-      MBS | Seel vs HMC | Bubbs, HoG: Shock 16.7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MBS | Seel vs HMC | Bubbs in Losers Semi-Final of HoG: Shock 16.7, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2621294087&amp;t=2h41m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>756</video:duration>
-    <video:publication_date>2025-11-18T03:04:10.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-26T03:04:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
