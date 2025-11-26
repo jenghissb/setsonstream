@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-36/set/96797344/</loc>
-  <lastmod>2025-11-26T20:27:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-36/set/96797345/</loc>
+  <lastmod>2025-11-26T20:36:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854665/image-419c92929523b672a218f690c893db1d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Jornn vs StF | Twin1, Jam Session #36 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jornn vs StF | Twin1 in Losers Final of Jam Session #36, streamed by strikefiercefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2628674995&amp;t=1h40m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>781</video:duration>
+    <video:publication_date>2025-11-26T20:36:49.000Z</video:publication_date>
+    <video:uploader>strikefiercefgc</video:uploader>
+    <video:expiration_date>2025-12-04T20:36:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-36/set/96797344/</loc>
+  <lastmod>2025-11-26T20:44:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2628674995&amp;t=1h31m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>658</video:duration>
+    <video:duration>516</video:duration>
     <video:publication_date>2025-11-26T20:27:46.000Z</video:publication_date>
     <video:uploader>strikefiercefgc</video:uploader>
     <video:expiration_date>2025-12-04T20:27:46.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-08T13:39:53.000Z</video:publication_date>
     <video:uploader>12hakobydeath</video:uploader>
     <video:expiration_date>2025-11-16T13:39:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-16/set/96008331/</loc>
-  <lastmod>2025-11-08T13:52:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840976/image-73fed30210099c1cb56c309185e08207.png
-    </video:thumbnail_loc>
-    <video:title>
-      TDB | TDB-JdoubleC vs KARKA, GROUND CONTROL 16 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TDB | TDB-JdoubleC vs KARKA in Winners Round 1 of GROUND CONTROL 16, streamed by gamingloods
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2612935687&amp;t=0h20m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>501</video:duration>
-    <video:publication_date>2025-11-08T13:24:45.000Z</video:publication_date>
-    <video:uploader>gamingloods</video:uploader>
-    <video:expiration_date>2025-11-16T13:24:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
