@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/l-orl-anoise-192/set/96794917/</loc>
+  <lastmod>2025-11-26T17:47:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854269/image-cb5fbbcd70be9ca2a87b1614df3c72f9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      over13 vs OP | PatateDouce, L&apos;Orléanoise #192 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch over13 vs OP | PatateDouce in Round 1 of L&apos;Orléanoise #192, streamed by Smash_DArc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2628606270&amp;t=0h12m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>652</video:duration>
+    <video:publication_date>2025-11-26T17:35:14.000Z</video:publication_date>
+    <video:uploader>Smash_DArc</video:uploader>
+    <video:expiration_date>2025-12-04T17:35:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-210/set/96793322/</loc>
   <lastmod>2025-11-26T13:16:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-18T01:03:21.000Z</video:publication_date>
     <video:uploader>spotlightkc</video:uploader>
     <video:expiration_date>2025-11-26T01:03:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/one-up-ultimate-11-17-25/set/96450099/</loc>
-  <lastmod>2025-11-18T01:21:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839246/image-60944d4ac513e29dda7c9cce28bdf866.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CF | JAVI ON EARTH vs Boogie Woogie | Splash Damage, One Up Ultimate 11.17.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CF | JAVI ON EARTH vs Boogie Woogie | Splash Damage in Winners Quarter-Final of One Up Ultimate 11.17.25, streamed by one_up_games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2621269593&amp;t=1h9m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1067</video:duration>
-    <video:publication_date>2025-11-18T01:02:17.000Z</video:publication_date>
-    <video:uploader>one_up_games</video:uploader>
-    <video:expiration_date>2025-11-26T01:02:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
