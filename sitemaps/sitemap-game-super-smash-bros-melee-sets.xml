@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-11/set/96799887/</loc>
+  <lastmod>2025-11-26T22:45:23.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854633/image-e0d7d4543cec346b4d961732cde0547c.png
+    </video:thumbnail_loc>
+    <video:title>
+      azureon vs BamSnoozled, Gould St. Gauntlet #11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch azureon vs BamSnoozled in Winners Quarter-Final of Gould St. Gauntlet #11, streamed by nostyleesports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2628835148&amp;t=0h12m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>271</video:duration>
+    <video:publication_date>2025-11-26T22:45:23.000Z</video:publication_date>
+    <video:uploader>nostyleesports2</video:uploader>
+    <video:expiration_date>2025-12-04T22:45:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-121-kegsgiving/set/96792148/</loc>
   <lastmod>2025-11-26T07:12:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-06T02:13:36.000Z</video:publication_date>
     <video:uploader>uwsmashclub</video:uploader>
     <video:expiration_date>2025-11-14T02:13:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-8-big-kahuna-pizza-time/set/95907708/</loc>
-  <lastmod>2025-11-06T02:27:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847803/image-f1acf7d263a854477d9a8c9b6cc17f75.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      KW | invalid vs Zoist | TheHungDynasty, UW Melee Weekly (Fall &apos;25) #8 - big kahuna pizza time - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KW | invalid vs Zoist | TheHungDynasty in Winners Semi-Final of UW Melee Weekly (Fall &apos;25) #8 - big kahuna pizza time, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2610772617&amp;t=2h20m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>736</video:duration>
-    <video:publication_date>2025-11-06T01:55:36.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2025-11-14T01:55:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
