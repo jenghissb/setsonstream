@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-6/set/96810217/</loc>
-  <lastmod>2025-11-27T03:56:44.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-27T04:15:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2628906303&amp;t=3h42m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>272</video:duration>
+    <video:duration>834</video:duration>
     <video:publication_date>2025-11-27T03:56:44.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-05T03:56:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-118/set/96803227/</loc>
-  <lastmod>2025-11-27T03:12:32.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854658/image-f9ab0dec0f89772d2757dc707ea19bb8.png
-    </video:thumbnail_loc>
-    <video:title>
-      AOC/GG | SD Paint vs 8===D | Jeff Fuel, Raptor Boost 118 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AOC/GG | SD Paint vs 8===D | Jeff Fuel in Losers Final of Raptor Boost 118, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628909118&amp;t=2h54m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2924</video:duration>
-    <video:publication_date>2025-11-27T03:12:32.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2025-12-05T03:12:32.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -142,6 +118,30 @@
     <video:publication_date>2025-11-27T03:26:06.000Z</video:publication_date>
     <video:uploader>uwsmashclub</video:uploader>
     <video:expiration_date>2025-12-05T03:26:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-118/set/96803227/</loc>
+  <lastmod>2025-11-27T04:22:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854658/image-f9ab0dec0f89772d2757dc707ea19bb8.png
+    </video:thumbnail_loc>
+    <video:title>
+      AOC/GG | SD Paint vs 8===D | Jeff Fuel, Raptor Boost 118 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AOC/GG | SD Paint vs 8===D | Jeff Fuel in Losers Final of Raptor Boost 118, streamed by GameGroveWV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2628909118&amp;t=2h54m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-11-27T03:12:32.000Z</video:publication_date>
+    <video:uploader>GameGroveWV</video:uploader>
+    <video:expiration_date>2025-12-05T03:12:32.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
