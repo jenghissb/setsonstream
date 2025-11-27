@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-140-maesuma-hit-140/set/96818015/</loc>
-  <lastmod>2025-11-27T10:38:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-140-maesuma-hit-140/set/96818021/</loc>
+  <lastmod>2025-11-27T10:49:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845432/image-2281f45d7afaa216826bd72a71af04ea.png
+    </video:thumbnail_loc>
+    <video:title>
+      MarK vs Kome, マエスマ&apos;HIT#140 / Maesuma&apos;HIT#140 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MarK vs Kome in Winners Quarter-Final of マエスマ&apos;HIT#140 / Maesuma&apos;HIT#140, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/REjWhiaTUpA?start=3007s
+    </video:player_loc>
+    <video:duration>385</video:duration>
+    <video:publication_date>2025-11-27T10:49:00.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-12-05T10:49:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-140-maesuma-hit-140/set/96818015/</loc>
+  <lastmod>2025-11-27T10:47:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/REjWhiaTUpA?start=2402s
     </video:player_loc>
-    <video:duration>389</video:duration>
+    <video:duration>480</video:duration>
     <video:publication_date>2025-11-27T10:38:55.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-12-05T10:38:55.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-19T01:22:13.000Z</video:publication_date>
     <video:uploader>sherbrookessb</video:uploader>
     <video:expiration_date>2025-11-27T01:22:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/more-than-friendlies-266/set/96493734/</loc>
-  <lastmod>2025-11-19T01:36:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853524/image-227715a449a6e9f7748d2994cd8298b8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NPT BBM | Beast vs Geometry Dash Enjoyer, More than Friendlies #266 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NPT BBM | Beast vs Geometry Dash Enjoyer in Winners Quarter-Final of More than Friendlies #266, streamed by gameqlounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622136988&amp;t=0h31m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>987</video:duration>
-    <video:publication_date>2025-11-19T01:17:46.000Z</video:publication_date>
-    <video:uploader>gameqlounge</video:uploader>
-    <video:expiration_date>2025-11-27T01:17:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
