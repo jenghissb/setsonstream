@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-203-norcal-ssbu-ggst-weekly/set/96814520/</loc>
-  <lastmod>2025-11-27T04:26:45.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-203-norcal-ssbu-ggst-weekly/set/96814535/</loc>
+  <lastmod>2025-11-27T04:39:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854407/image-b1b79f9de30d1aad18b766e091a126b6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      rin vs SJSU | Brone, Guildhouse Weekly 203 - Norcal SSBU &amp; GGST weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch rin vs SJSU | Brone in Losers Semi-Final of Guildhouse Weekly 203 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2629056581&amp;t=0h50m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>866</video:duration>
+    <video:publication_date>2025-11-27T04:39:09.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-12-05T04:39:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-203-norcal-ssbu-ggst-weekly/set/96814520/</loc>
+  <lastmod>2025-11-27T04:43:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2629056581&amp;t=0h37m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>633</video:duration>
+    <video:duration>736</video:duration>
     <video:publication_date>2025-11-27T04:26:45.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-12-05T04:26:45.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-01T23:40:25.000Z</video:publication_date>
     <video:uploader>flynnsgamingfl</video:uploader>
     <video:expiration_date>2025-11-09T23:40:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/osprey-campus-clash-54-costume-party/set/95776011/</loc>
-  <lastmod>2025-11-02T00:12:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846761/image-19c614b7dcfd64678e1904bdc63fbebd.png
-    </video:thumbnail_loc>
-    <video:title>
-      UNF TNS | tenta_ vs Fugo, Osprey Campus Clash #54 - Costume Party! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UNF TNS | tenta_ vs Fugo in Winners Round 1 of Osprey Campus Clash #54 - Costume Party!, streamed by tentaaaa_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607404301&amp;t=0h3m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>796</video:duration>
-    <video:publication_date>2025-11-01T23:40:13.000Z</video:publication_date>
-    <video:uploader>tentaaaa_</video:uploader>
-    <video:expiration_date>2025-11-09T23:40:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
