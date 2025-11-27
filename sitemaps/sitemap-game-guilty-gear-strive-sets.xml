@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-203-norcal-ssbu-ggst-weekly/set/96814515/</loc>
+  <lastmod>2025-11-27T04:00:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854407/image-b1b79f9de30d1aad18b766e091a126b6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Aubfox vs seawardbound, Guildhouse Weekly 203 - Norcal SSBU &amp; GGST weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aubfox vs seawardbound in Winners Quarter-Final of Guildhouse Weekly 203 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2629056581&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>492</video:duration>
+    <video:publication_date>2025-11-27T03:48:11.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-12-05T03:48:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-216-no-meaties-here-it-s-a-veganroastedturkey-thanksgiving/set/96783584/</loc>
   <lastmod>2025-11-26T04:02:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-01T22:07:12.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-11-09T22:07:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/get-reel-take-6/set/95762057/</loc>
-  <lastmod>2025-11-01T22:14:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837129/image-bd058f137a452332353cd482098b07e7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Avi vs ZenNoKiseki, Get Reel: Take 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Avi vs ZenNoKiseki in Winners Quarter-Final of Get Reel: Take 6, streamed by phantomalleygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607174767&amp;t=2h43m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>673</video:duration>
-    <video:publication_date>2025-11-01T21:40:25.000Z</video:publication_date>
-    <video:uploader>phantomalleygaming</video:uploader>
-    <video:expiration_date>2025-11-09T21:40:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
