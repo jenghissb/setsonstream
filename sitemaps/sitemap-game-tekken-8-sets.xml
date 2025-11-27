@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-24/set/96822873/</loc>
+  <lastmod>2025-11-27T21:27:35.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848808/image-c5c6aa1d9d401c587f26505cc0718426.png
+    </video:thumbnail_loc>
+    <video:title>
+      Koenji vs Ayorichie, Black Country Foundry #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Koenji vs Ayorichie in Grand Final of Black Country Foundry #24, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2629468999&amp;t=3h4m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>141</video:duration>
+    <video:publication_date>2025-11-27T21:27:35.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2025-12-05T21:27:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-24/set/96822935/</loc>
   <lastmod>2025-11-27T21:13:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-08T17:03:15.000Z</video:publication_date>
     <video:uploader>12hakobydeath</video:uploader>
     <video:expiration_date>2025-11-16T17:03:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/milan-clash-3/set/95952389/</loc>
-  <lastmod>2025-11-08T17:36:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840309/image-e81c4fa3df1d68c37eb32bf62b1c3c2c.png
-    </video:thumbnail_loc>
-    <video:title>
-      UMA | Inigo vs Perros | SantiagoCandyBoy, Milan Clash #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UMA | Inigo vs Perros | SantiagoCandyBoy in Losers Round 6 of Milan Clash #3, streamed by tekkenmilano
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613000379&amp;t=2h5m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1431</video:duration>
-    <video:publication_date>2025-11-08T16:59:27.000Z</video:publication_date>
-    <video:uploader>tekkenmilano</video:uploader>
-    <video:expiration_date>2025-11-16T16:59:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
