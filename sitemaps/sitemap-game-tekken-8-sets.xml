@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-24/set/96822866/</loc>
+  <lastmod>2025-11-27T20:11:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848808/image-c5c6aa1d9d401c587f26505cc0718426.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ayorichie vs Uberspy, Black Country Foundry #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ayorichie vs Uberspy in Winners Quarter-Final of Black Country Foundry #24, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2629468999&amp;t=1h34m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>328</video:duration>
+    <video:publication_date>2025-11-27T19:57:47.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2025-12-05T19:57:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-24/set/96822869/</loc>
-  <lastmod>2025-11-27T19:41:16.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-27T19:53:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2629468999&amp;t=1h17m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>489</video:duration>
+    <video:duration>527</video:duration>
     <video:publication_date>2025-11-27T19:41:16.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2025-12-05T19:41:16.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-08T16:37:50.000Z</video:publication_date>
     <video:uploader>gamingloods</video:uploader>
     <video:expiration_date>2025-11-16T16:37:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/milan-clash-3/set/95952264/</loc>
-  <lastmod>2025-11-08T17:06:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840309/image-e81c4fa3df1d68c37eb32bf62b1c3c2c.png
-    </video:thumbnail_loc>
-    <video:title>
-      TBG | Hikra vs IPN | Blood Talon, Milan Clash #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TBG | Hikra vs IPN | Blood Talon in Winners Semi-Final of Milan Clash #3, streamed by tekkenmilano
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613000379&amp;t=1h35m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>824</video:duration>
-    <video:publication_date>2025-11-08T16:29:41.000Z</video:publication_date>
-    <video:uploader>tekkenmilano</video:uploader>
-    <video:expiration_date>2025-11-16T16:29:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
