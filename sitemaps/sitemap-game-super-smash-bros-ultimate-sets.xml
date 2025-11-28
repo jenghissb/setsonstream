@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-avenue-r-182-secret-santa-draw-and-reverse-mains/set/96829057/</loc>
-  <lastmod>2025-11-28T05:12:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-avenue-r-182-secret-santa-draw-and-reverse-mains/set/96829058/</loc>
+  <lastmod>2025-11-28T05:25:14.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855616/image-deef105f66f660ba4e0a135d2c11720e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tempo Avenue | IrisZ vs romuhhh, Tempo Avenue R - 182 - Secret Santa Draw and Reverse Mains - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tempo Avenue | IrisZ vs romuhhh in Losers Semi-Final of Tempo Avenue R - 182 - Secret Santa Draw and Reverse Mains, streamed by tempoavenue
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2629730482&amp;t=4h3m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1048</video:duration>
+    <video:publication_date>2025-11-28T05:25:14.000Z</video:publication_date>
+    <video:uploader>tempoavenue</video:uploader>
+    <video:expiration_date>2025-12-06T05:25:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-avenue-r-182-secret-santa-draw-and-reverse-mains/set/96829057/</loc>
+  <lastmod>2025-11-28T05:27:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2629730482&amp;t=3h50m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>300</video:duration>
+    <video:duration>773</video:duration>
     <video:publication_date>2025-11-28T05:12:13.000Z</video:publication_date>
     <video:uploader>tempoavenue</video:uploader>
     <video:expiration_date>2025-12-06T05:12:13.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-19T05:37:25.000Z</video:publication_date>
     <video:uploader>ClubSmashTV</video:uploader>
     <video:expiration_date>2025-11-27T05:37:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-smash-parade-49-11-18-25/set/96500330/</loc>
-  <lastmod>2025-11-19T05:47:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853387/image-d8ba9984a6c539b3c672f9928a490b26.png
-    </video:thumbnail_loc>
-    <video:title>
-      DD | BigTurkeyNomNom vs EWA | Piff, The Smash Parade #49 (11/18/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DD | BigTurkeyNomNom vs EWA | Piff in Losers Semi-Final of The Smash Parade #49 (11/18/25), streamed by linkzeldalol
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622260283&amp;t=2h11m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>566</video:duration>
-    <video:publication_date>2025-11-19T05:37:20.000Z</video:publication_date>
-    <video:uploader>linkzeldalol</video:uploader>
-    <video:expiration_date>2025-11-27T05:37:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
