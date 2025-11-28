@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-avenue-r-182-secret-santa-draw-and-reverse-mains/set/96829056/</loc>
-  <lastmod>2025-11-28T04:49:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-avenue-r-182-secret-santa-draw-and-reverse-mains/set/96829057/</loc>
+  <lastmod>2025-11-28T05:12:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855616/image-deef105f66f660ba4e0a135d2c11720e.png
+    </video:thumbnail_loc>
+    <video:title>
+      romuhhh vs Sapling, Tempo Avenue R - 182 - Secret Santa Draw and Reverse Mains - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch romuhhh vs Sapling in Losers Quarter-Final of Tempo Avenue R - 182 - Secret Santa Draw and Reverse Mains, streamed by tempoavenue
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2629730482&amp;t=3h50m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>300</video:duration>
+    <video:publication_date>2025-11-28T05:12:13.000Z</video:publication_date>
+    <video:uploader>tempoavenue</video:uploader>
+    <video:expiration_date>2025-12-06T05:12:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tempo-avenue-r-182-secret-santa-draw-and-reverse-mains/set/96829056/</loc>
+  <lastmod>2025-11-28T05:13:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2629730482&amp;t=3h27m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>228</video:duration>
+    <video:duration>1388</video:duration>
     <video:publication_date>2025-11-28T04:49:02.000Z</video:publication_date>
     <video:uploader>tempoavenue</video:uploader>
     <video:expiration_date>2025-12-06T04:49:02.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-19T05:37:20.000Z</video:publication_date>
     <video:uploader>linkzeldalol</video:uploader>
     <video:expiration_date>2025-11-27T05:37:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/versus-reborn-231/set/96500852/</loc>
-  <lastmod>2025-11-19T05:45:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851541/image-8497e14eb8f5cc0711b39669811af942.png
-    </video:thumbnail_loc>
-    <video:title>
-      meo2k vs Twan, VERSUS Reborn #231 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch meo2k vs Twan in Losers Semi-Final of VERSUS Reborn #231, streamed by CapsuleEntertainment
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622262959&amp;t=1h56m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1007</video:duration>
-    <video:publication_date>2025-11-19T05:26:13.000Z</video:publication_date>
-    <video:uploader>CapsuleEntertainment</video:uploader>
-    <video:expiration_date>2025-11-27T05:26:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
