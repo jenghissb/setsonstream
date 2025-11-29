@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-otakut-n-2025/set/96881462/</loc>
-  <lastmod>2025-11-29T19:21:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sherry-showdown-8-zambomba-throne/set/96840480/</loc>
+  <lastmod>2025-11-29T19:25:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851524/image-9fe696a9a1a319d1c4a75f10d366e47a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GP | MSHN | eltonif79 vs GP | LREX | YunaLaPuffa, Sherry Showdown #8: Zambomba Throne - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GP | MSHN | eltonif79 vs GP | LREX | YunaLaPuffa in Grand Final of Sherry Showdown #8: Zambomba Throne, streamed by smashcadiz
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=smashcadiz&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>697</video:duration>
+    <video:publication_date>2025-11-29T19:25:03.000Z</video:publication_date>
+    <video:uploader>smashcadiz</video:uploader>
+    <video:expiration_date>2025-12-07T19:25:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-otakut-n-2025/set/96881459/</loc>
+  <lastmod>2025-11-29T19:26:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856882/image-81fa3d4dd5bb5279f0d5e6905b82f7a2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PG | TomboyLover vs L.I.A.N, Torneo Otakutón 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PG | TomboyLover vs L.I.A.N in Winners Quarter-Final of Torneo Otakutón 2025, streamed by alicemonki
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631158049&amp;t=0h26m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>592</video:duration>
+    <video:publication_date>2025-11-29T19:26:48.000Z</video:publication_date>
+    <video:uploader>alicemonki</video:uploader>
+    <video:expiration_date>2025-12-07T19:26:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-otakut-n-2025/set/96881462/</loc>
+  <lastmod>2025-11-29T19:28:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631158049&amp;t=0h21m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>322</video:duration>
+    <video:duration>368</video:duration>
     <video:publication_date>2025-11-29T19:21:02.000Z</video:publication_date>
     <video:uploader>alicemonki</video:uploader>
     <video:expiration_date>2025-12-07T19:21:02.000Z</video:expiration_date>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2025-11-21T03:24:04.000Z</video:publication_date>
     <video:uploader>SectorXGaming</video:uploader>
     <video:expiration_date>2025-11-29T03:24:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-snacks-34/set/96560497/</loc>
-  <lastmod>2025-11-21T03:32:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852769/image-8d50bb8da7f74cb9bcc9f17a6916ee44.png
-    </video:thumbnail_loc>
-    <video:title>
-      SHM/matca eS | RW vs SKL | Blee, Smash &amp; Snacks 34 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SHM/matca eS | RW vs SKL | Blee in Winners Round 2 of Smash &amp; Snacks 34, streamed by shm_ssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623917629&amp;t=0h23m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>380</video:duration>
-    <video:publication_date>2025-11-21T03:23:29.000Z</video:publication_date>
-    <video:uploader>shm_ssb</video:uploader>
-    <video:expiration_date>2025-11-29T03:23:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
