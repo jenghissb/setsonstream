@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mindset-2025/set/96872532/</loc>
-  <lastmod>2025-11-29T14:24:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mindset-2025/set/96872560/</loc>
+  <lastmod>2025-11-29T14:43:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/800469/image-4980fa41642954f6d9c2bf4e8a9ba9f8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Neia vs MKE | Lancelot, MINDSET 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Neia vs MKE | Lancelot in Losers Round 2 of MINDSET 2025, streamed by KayaneTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2630810340&amp;t=3h59m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>356</video:duration>
+    <video:publication_date>2025-11-29T14:43:30.000Z</video:publication_date>
+    <video:uploader>KayaneTV</video:uploader>
+    <video:expiration_date>2025-12-07T14:43:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mindset-2025/set/96872559/</loc>
+  <lastmod>2025-11-29T14:47:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/800469/image-4980fa41642954f6d9c2bf4e8a9ba9f8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Haisen vs BH3 | DarkIsNoBrain, MINDSET 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Haisen vs BH3 | DarkIsNoBrain in Losers Round 2 of MINDSET 2025, streamed by KayaneTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2630810340&amp;t=3h49m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>508</video:duration>
+    <video:publication_date>2025-11-29T14:33:58.000Z</video:publication_date>
+    <video:uploader>KayaneTV</video:uploader>
+    <video:expiration_date>2025-12-07T14:33:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mindset-2025/set/96872532/</loc>
+  <lastmod>2025-11-29T14:36:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2630810340&amp;t=3h40m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>482</video:duration>
+    <video:duration>486</video:duration>
     <video:publication_date>2025-11-29T14:24:52.000Z</video:publication_date>
     <video:uploader>KayaneTV</video:uploader>
     <video:expiration_date>2025-12-07T14:24:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-8-monthly-bern-07/set/96868911/</loc>
-  <lastmod>2025-11-29T14:11:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845345/image-64f1b8a9d7e759834c9e609edb00a6ce.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VTX | CHARDY-SAN vs Addicted | Carrulo, TEKKEN™8 Monthly Bern - 07 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VTX | CHARDY-SAN vs Addicted | Carrulo in Winners Quarter-Final of TEKKEN™8 Monthly Bern - 07, streamed by virtualetix
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630838741&amp;t=2h18m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1268</video:duration>
-    <video:publication_date>2025-11-29T14:11:46.000Z</video:publication_date>
-    <video:uploader>virtualetix</video:uploader>
-    <video:expiration_date>2025-12-07T14:11:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +94,30 @@
     <video:publication_date>2025-11-29T14:13:49.000Z</video:publication_date>
     <video:uploader>KayaneTV</video:uploader>
     <video:expiration_date>2025-12-07T14:13:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-8-monthly-bern-07/set/96868911/</loc>
+  <lastmod>2025-11-29T14:36:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/845345/image-64f1b8a9d7e759834c9e609edb00a6ce.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VTX | CHARDY-SAN vs Addicted | Carrulo, TEKKEN™8 Monthly Bern - 07 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VTX | CHARDY-SAN vs Addicted | Carrulo in Winners Quarter-Final of TEKKEN™8 Monthly Bern - 07, streamed by virtualetix
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2630838741&amp;t=2h18m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>848</video:duration>
+    <video:publication_date>2025-11-29T14:11:46.000Z</video:publication_date>
+    <video:uploader>virtualetix</video:uploader>
+    <video:expiration_date>2025-12-07T14:11:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8350,54 +8398,6 @@
     <video:publication_date>2025-11-09T22:05:03.000Z</video:publication_date>
     <video:uploader>HadoukenDojoGamer</video:uploader>
     <video:expiration_date>2025-11-17T22:05:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sidequest-showdown-24-tekken-8-tournament/set/96080224/</loc>
-  <lastmod>2025-11-09T16:24:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838768/image-4bf245140470e3bc35c70129e0e608a4.png
-    </video:thumbnail_loc>
-    <video:title>
-      naomix vs Shai, SideQuest Showdown 24 (Tekken 8 Tournament) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch naomix vs Shai in Losers Final of SideQuest Showdown 24 (Tekken 8 Tournament), streamed by SideQuestHub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613862102&amp;t=2h9m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1290</video:duration>
-    <video:publication_date>2025-11-09T15:39:46.000Z</video:publication_date>
-    <video:uploader>SideQuestHub</video:uploader>
-    <video:expiration_date>2025-11-17T15:39:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sidequest-showdown-24-tekken-8-tournament/set/96080223/</loc>
-  <lastmod>2025-11-09T16:01:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838768/image-4bf245140470e3bc35c70129e0e608a4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shai vs M.E.N | Rihaz, SideQuest Showdown 24 (Tekken 8 Tournament) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shai vs M.E.N | Rihaz in Losers Semi-Final of SideQuest Showdown 24 (Tekken 8 Tournament), streamed by SideQuestHub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613862102&amp;t=1h51m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1051</video:duration>
-    <video:publication_date>2025-11-09T15:21:50.000Z</video:publication_date>
-    <video:uploader>SideQuestHub</video:uploader>
-    <video:expiration_date>2025-11-17T15:21:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
