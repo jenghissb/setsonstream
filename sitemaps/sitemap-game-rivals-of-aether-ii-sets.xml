@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/da-banana-hut-2/set/96889230/</loc>
+  <lastmod>2025-11-29T23:03:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853223/image-d7b3d93bc782e179ea4952a0cfe5f425.png
+    </video:thumbnail_loc>
+    <video:title>
+      Krumpberry vs Acrator, Da Banana Hut 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Krumpberry vs Acrator in Winners Round 1 of Da Banana Hut 2, streamed by gta_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631351207&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>681</video:duration>
+    <video:publication_date>2025-11-29T23:03:17.000Z</video:publication_date>
+    <video:uploader>gta_rivals</video:uploader>
+    <video:expiration_date>2025-12-07T23:03:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/taverna-do-smash-novembro-2025/set/96879302/</loc>
   <lastmod>2025-11-29T20:50:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-09T02:38:07.000Z</video:publication_date>
     <video:uploader>iniciativareset</video:uploader>
     <video:expiration_date>2025-11-17T02:38:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/tec-in-place-4/set/96061368/</loc>
-  <lastmod>2025-11-09T02:43:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/648772/image-dec78bc2c80b8b6b4c9c8c1ea7da9eaf.png
-    </video:thumbnail_loc>
-    <video:title>
-      BKROG | Mr.R vs OUT | PSK | AlanDiss, Tec In Place #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BKROG | Mr.R vs OUT | PSK | AlanDiss in Winners Semi-Final of Tec In Place #4, streamed by iniciativareset
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613362618&amp;t=3h39m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>346</video:duration>
-    <video:publication_date>2025-11-09T02:09:15.000Z</video:publication_date>
-    <video:uploader>iniciativareset</video:uploader>
-    <video:expiration_date>2025-11-17T02:09:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
