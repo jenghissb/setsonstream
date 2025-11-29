@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mid-hudson-mayhem-40/set/96887540/</loc>
+  <lastmod>2025-11-29T21:07:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846306/image-b155e84ad75e5073e900aa3e08fd32c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      transfem carmine vs MrUnc2006, Mid Hudson Mayhem #40 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch transfem carmine vs MrUnc2006 in Winners Round 1 of Mid Hudson Mayhem #40, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631239712&amp;t=0h40m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>404</video:duration>
+    <video:publication_date>2025-11-29T21:07:16.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2025-12-07T21:07:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-109/set/96855687/</loc>
   <lastmod>2025-11-29T03:36:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-09T13:10:34.000Z</video:publication_date>
     <video:uploader>vasterasfgc</video:uploader>
     <video:expiration_date>2025-11-17T13:10:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/v-stersl-ss-6/set/96076051/</loc>
-  <lastmod>2025-11-09T13:17:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846662/image-801fb06d4f5ec43916f5b9df9a1ad1b1.png
-    </video:thumbnail_loc>
-    <video:title>
-      VFGC | Gussonic vs ÖFGC | Lama, VÄSterSlåss #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VFGC | Gussonic vs ÖFGC | Lama in Winners Quarter-Final of VÄSterSlåss #6, streamed by vasterasfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613824375&amp;t=0h26m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>451</video:duration>
-    <video:publication_date>2025-11-09T12:48:43.000Z</video:publication_date>
-    <video:uploader>vasterasfgc</video:uploader>
-    <video:expiration_date>2025-11-17T12:48:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
