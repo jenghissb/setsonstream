@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-otakut-n-2025/set/96881460/</loc>
-  <lastmod>2025-11-29T19:40:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-otakut-n-2025/set/96881464/</loc>
+  <lastmod>2025-11-29T20:02:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856882/image-81fa3d4dd5bb5279f0d5e6905b82f7a2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      vaiz vs PHX|GH | Shame, Torneo Otakutón 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch vaiz vs PHX|GH | Shame in Winners Semi-Final of Torneo Otakutón 2025, streamed by alicemonki
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631208592&amp;t=0h11m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>886</video:duration>
+    <video:publication_date>2025-11-29T20:02:19.000Z</video:publication_date>
+    <video:uploader>alicemonki</video:uploader>
+    <video:expiration_date>2025-12-07T20:02:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-otakut-n-2025/set/96881460/</loc>
+  <lastmod>2025-11-29T20:02:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,9 +40,9 @@
       Watch UDEC/ DSL | Webroder vs UDEC | alice in Winners Quarter-Final of Torneo Otakutón 2025, streamed by alicemonki
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631158049&amp;t=0h41m6s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2631208592&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>527</video:duration>
+    <video:duration>1217</video:duration>
     <video:publication_date>2025-11-29T19:40:55.000Z</video:publication_date>
     <video:uploader>alicemonki</video:uploader>
     <video:expiration_date>2025-12-07T19:40:55.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-21T03:27:30.000Z</video:publication_date>
     <video:uploader>sacred_zz</video:uploader>
     <video:expiration_date>2025-11-29T03:27:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/maverick-smash-night-43-1/set/96556425/</loc>
-  <lastmod>2025-11-21T03:39:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853755/image-79c21dbb8dbef5ba7568ac0c7a6c0bb5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shockers vs Revibe, Maverick Smash Night #43 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shockers vs Revibe in Winners Semi-Final of Maverick Smash Night #43, streamed by sacred_zz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623793952&amp;t=3h6m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>538</video:duration>
-    <video:publication_date>2025-11-21T03:26:51.000Z</video:publication_date>
-    <video:uploader>sacred_zz</video:uploader>
-    <video:expiration_date>2025-11-29T03:26:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

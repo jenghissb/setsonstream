@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rock-and-fights/set/96884086/</loc>
+  <lastmod>2025-11-29T20:09:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846061/image-faa88d0eb1bca5b1f5c17915fce6a5dc.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TTK | AnnieWeath vs APOLO, Rock And Fights - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TTK | AnnieWeath vs APOLO in Losers Round 1 of Rock And Fights, streamed by ttkteam
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631052352&amp;t=2h30m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>471</video:duration>
+    <video:publication_date>2025-11-29T20:09:15.000Z</video:publication_date>
+    <video:uploader>ttkteam</video:uploader>
+    <video:expiration_date>2025-12-07T20:09:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/rock-and-fights/set/96883115/</loc>
   <lastmod>2025-11-29T19:36:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-15T03:20:42.000Z</video:publication_date>
     <video:uploader>flynnsarcadefl</video:uploader>
     <video:expiration_date>2025-11-23T03:20:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-23/set/96201189/</loc>
-  <lastmod>2025-11-13T22:49:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848807/image-a0013bac1576cb82cedbc5ea2b4967b9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ayorichie vs Moku, Black Country Foundry #23 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ayorichie vs Moku in Grand Final of Black Country Foundry #23, streamed by bc_foundry
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2617620570&amp;t=0h30m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2658</video:duration>
-    <video:publication_date>2025-11-13T21:55:32.000Z</video:publication_date>
-    <video:uploader>bc_foundry</video:uploader>
-    <video:expiration_date>2025-11-21T21:55:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
