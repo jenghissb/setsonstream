@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-207/set/96850628/</loc>
+  <lastmod>2025-11-29T02:25:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856234/image-5808fb1f8f93b36ff89018b8c08af7f9.png
+    </video:thumbnail_loc>
+    <video:title>
+      hazelnut vs alex | oliomar player88(olimar), Smash Night at Prodigy #207 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hazelnut vs alex | oliomar player88(olimar) in Round 5 of Smash Night at Prodigy #207, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2630555543&amp;t=0h28m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1386</video:duration>
+    <video:publication_date>2025-11-29T02:25:07.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2025-12-07T02:25:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/glass-shards-2/set/96802330/</loc>
   <lastmod>2025-11-27T03:33:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-08T21:31:08.000Z</video:publication_date>
     <video:uploader>dunkdojogaming</video:uploader>
     <video:expiration_date>2025-11-16T21:31:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/dash-dance/set/96028209/</loc>
-  <lastmod>2025-11-08T21:48:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/775280/image-10378e43332ebc37a6446ade3d9f2025.png
-    </video:thumbnail_loc>
-    <video:title>
-      Watermint vs w0wells, Dash Dance - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Watermint vs w0wells in Losers Semi-Final of Dash Dance, streamed by UnrivaledTournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613085734&amp;t=4h9m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>935</video:duration>
-    <video:publication_date>2025-11-08T21:04:53.000Z</video:publication_date>
-    <video:uploader>UnrivaledTournaments</video:uploader>
-    <video:expiration_date>2025-11-16T21:04:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
