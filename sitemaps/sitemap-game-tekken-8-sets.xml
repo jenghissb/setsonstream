@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893878/</loc>
-  <lastmod>2025-11-29T23:12:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893886/</loc>
+  <lastmod>2025-11-29T23:35:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/846306/image-b155e84ad75e5073e900aa3e08fd32c0.png
     </video:thumbnail_loc>
     <video:title>
-      MHM | Phoenix vs ATMO | Mischief, Mid Hudson Mayhem #40 - Sets on Stream
+      xBlackoutz_ vs MHM | lito january13, Mid Hudson Mayhem #40 - Sets on Stream
     </video:title>
     <video:description>
-      Watch MHM | Phoenix vs ATMO | Mischief in Winners Round 1 of Mid Hudson Mayhem #40, streamed by midhudsonmayhem
+      Watch xBlackoutz_ vs MHM | lito january13 in Winners Quarter-Final of Mid Hudson Mayhem #40, streamed by midhudsonmayhem
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631331200&amp;t=0h39m6s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2631331200&amp;t=1h2m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1063</video:duration>
-    <video:publication_date>2025-11-29T23:12:56.000Z</video:publication_date>
+    <video:duration>400</video:duration>
+    <video:publication_date>2025-11-29T23:35:51.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2025-12-07T23:12:56.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-07T23:35:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893885/</loc>
+  <lastmod>2025-11-29T23:40:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846306/image-b155e84ad75e5073e900aa3e08fd32c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      Massacre vs MHM | Phoenix, Mid Hudson Mayhem #40 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Massacre vs MHM | Phoenix in Winners Quarter-Final of Mid Hudson Mayhem #40, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631331200&amp;t=0h53m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>513</video:duration>
+    <video:publication_date>2025-11-29T23:27:01.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2025-12-07T23:27:01.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893888/</loc>
-  <lastmod>2025-11-29T23:17:17.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-29T23:30:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631331200&amp;t=0h43m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>802</video:duration>
+    <video:duration>368</video:duration>
     <video:publication_date>2025-11-29T23:17:17.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2025-12-07T23:17:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893878/</loc>
+  <lastmod>2025-11-29T23:30:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846306/image-b155e84ad75e5073e900aa3e08fd32c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      MHM | Phoenix vs ATMO | Mischief, Mid Hudson Mayhem #40 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MHM | Phoenix vs ATMO | Mischief in Winners Round 1 of Mid Hudson Mayhem #40, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631331200&amp;t=0h39m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>830</video:duration>
+    <video:publication_date>2025-11-29T23:12:56.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2025-12-07T23:12:56.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8350,54 +8398,6 @@
     <video:publication_date>2025-11-15T12:49:02.000Z</video:publication_date>
     <video:uploader>MerseysideFGC2</video:uploader>
     <video:expiration_date>2025-11-23T12:49:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/geek-pop-fight-club-x-philippine-game-show-brawlfiesta/set/96289714/</loc>
-  <lastmod>2025-11-15T09:18:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846842/image-8e720486aa8253407e008e834e364b0f.png
-    </video:thumbnail_loc>
-    <video:title>
-      R4R3side | TunK904 vs &lt;Eastsports&gt; | HAPS, GEEK+POP FIGHT CLUB x PHILIPPINE GAME SHOW - BRAWLFIESTA - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch R4R3side | TunK904 vs &lt;Eastsports&gt; | HAPS in Losers Final of GEEK+POP FIGHT CLUB x PHILIPPINE GAME SHOW - BRAWLFIESTA, streamed by Geek+Pop Fight Club
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/gAygl5MS7wQ?start=5486s
-    </video:player_loc>
-    <video:duration>433</video:duration>
-    <video:publication_date>2025-11-15T08:52:20.000Z</video:publication_date>
-    <video:uploader>Geek+Pop Fight Club</video:uploader>
-    <video:expiration_date>2025-11-23T08:52:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/geek-pop-fight-club-x-philippine-game-show-brawlfiesta/set/96289690/</loc>
-  <lastmod>2025-11-15T09:00:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846842/image-8e720486aa8253407e008e834e364b0f.png
-    </video:thumbnail_loc>
-    <video:title>
-      AndroDioneVT vs R4R3side | TunKJr904, GEEK+POP FIGHT CLUB x PHILIPPINE GAME SHOW - BRAWLFIESTA - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AndroDioneVT vs R4R3side | TunKJr904 in Losers Semi-Final of GEEK+POP FIGHT CLUB x PHILIPPINE GAME SHOW - BRAWLFIESTA, streamed by Geek+Pop Fight Club
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/gAygl5MS7wQ?start=4467s
-    </video:player_loc>
-    <video:duration>533</video:duration>
-    <video:publication_date>2025-11-15T08:35:21.000Z</video:publication_date>
-    <video:uploader>Geek+Pop Fight Club</video:uploader>
-    <video:expiration_date>2025-11-23T08:35:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
