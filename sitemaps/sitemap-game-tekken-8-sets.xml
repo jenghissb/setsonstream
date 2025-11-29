@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893886/</loc>
-  <lastmod>2025-11-29T23:35:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893890/</loc>
+  <lastmod>2025-11-29T23:43:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846306/image-b155e84ad75e5073e900aa3e08fd32c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      MHM | HBE | Pandama vs DEER | Mayasma, Mid Hudson Mayhem #40 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MHM | HBE | Pandama vs DEER | Mayasma in Winners Semi-Final of Mid Hudson Mayhem #40, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631331200&amp;t=1h10m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>454</video:duration>
+    <video:publication_date>2025-11-29T23:43:52.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2025-12-07T23:43:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-40/set/96893886/</loc>
+  <lastmod>2025-11-29T23:49:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631331200&amp;t=1h2m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>400</video:duration>
+    <video:duration>465</video:duration>
     <video:publication_date>2025-11-29T23:35:51.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2025-12-07T23:35:51.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-15T13:33:41.000Z</video:publication_date>
     <video:uploader>MerseysideFGC2</video:uploader>
     <video:expiration_date>2025-11-23T13:33:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/drowning-pools-2025/set/96300842/</loc>
-  <lastmod>2025-11-15T13:18:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/786810/image-8536df6ae5258db95350b0076eed8f7d.png
-    </video:thumbnail_loc>
-    <video:title>
-      BSR | Sagax vs Pistachio, Drowning Pools 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BSR | Sagax vs Pistachio in Winners Round 2 of Drowning Pools 2025, streamed by MerseysideFGC2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619037817&amp;t=0h16m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>336</video:duration>
-    <video:publication_date>2025-11-15T12:49:02.000Z</video:publication_date>
-    <video:uploader>MerseysideFGC2</video:uploader>
-    <video:expiration_date>2025-11-23T12:49:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
