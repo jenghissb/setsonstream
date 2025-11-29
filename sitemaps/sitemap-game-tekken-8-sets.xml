@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-182/set/96855339/</loc>
+  <lastmod>2025-11-29T03:44:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855303/image-1c6557c4b515a2b9785eab6044b06262.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Armor Penguin vs MCV, Flynn&apos;s Arcade 182 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Armor Penguin vs MCV in Losers Semi-Final of Flynn&apos;s Arcade 182, streamed by flynnsgamingfl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2630597602&amp;t=0h49m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>907</video:duration>
+    <video:publication_date>2025-11-29T03:44:56.000Z</video:publication_date>
+    <video:uploader>flynnsgamingfl</video:uploader>
+    <video:expiration_date>2025-12-07T03:44:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/suplex-105/set/96854641/</loc>
   <lastmod>2025-11-29T03:40:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-08T19:13:21.000Z</video:publication_date>
     <video:uploader>DucEsport</video:uploader>
     <video:expiration_date>2025-11-16T19:13:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/get-to-the-top-2/set/96019930/</loc>
-  <lastmod>2025-11-08T19:19:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834198/image-162fa2f582967bf6c1aed8e1af78f9ab.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DoLeTourniquet vs GuealFox, GET TO THE TOP! 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DoLeTourniquet vs GuealFox in Winners Final of GET TO THE TOP! 2, streamed by DucEsport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613093099&amp;t=1h23m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1436</video:duration>
-    <video:publication_date>2025-11-08T18:27:04.000Z</video:publication_date>
-    <video:uploader>DucEsport</video:uploader>
-    <video:expiration_date>2025-11-16T18:27:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
