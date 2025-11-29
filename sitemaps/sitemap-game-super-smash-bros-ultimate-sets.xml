@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rayou-tournament/set/96878224/</loc>
-  <lastmod>2025-11-29T19:04:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/torneo-otakut-n-2025/set/96881462/</loc>
+  <lastmod>2025-11-29T19:21:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856882/image-81fa3d4dd5bb5279f0d5e6905b82f7a2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PHX|GH | Shame vs UDEC | roro, Torneo Otakutón 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PHX|GH | Shame vs UDEC | roro in Winners Quarter-Final of Torneo Otakutón 2025, streamed by alicemonki
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631158049&amp;t=0h21m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>322</video:duration>
+    <video:publication_date>2025-11-29T19:21:02.000Z</video:publication_date>
+    <video:uploader>alicemonki</video:uploader>
+    <video:expiration_date>2025-12-07T19:21:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rayou-tournament/set/96878224/</loc>
+  <lastmod>2025-11-29T19:20:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2630840221&amp;t=7h8m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>493</video:duration>
+    <video:duration>929</video:duration>
     <video:publication_date>2025-11-29T19:04:30.000Z</video:publication_date>
     <video:uploader>etoiles</video:uploader>
     <video:expiration_date>2025-12-07T19:04:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sherry-showdown-8-zambomba-throne/set/96840511/</loc>
-  <lastmod>2025-11-29T18:59:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851524/image-9fe696a9a1a319d1c4a75f10d366e47a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GP | LREX | YunaLaPuffa vs GP|FULLYA|MSHN | Manolo, Sherry Showdown #8: Zambomba Throne - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GP | LREX | YunaLaPuffa vs GP|FULLYA|MSHN | Manolo in Losers Final of Sherry Showdown #8: Zambomba Throne, streamed by smashcadiz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=smashcadiz&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>809</video:duration>
-    <video:publication_date>2025-11-29T18:59:14.000Z</video:publication_date>
-    <video:uploader>smashcadiz</video:uploader>
-    <video:expiration_date>2025-12-07T18:59:14.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +71998,6 @@
     <video:publication_date>2025-11-21T03:23:29.000Z</video:publication_date>
     <video:uploader>shm_ssb</video:uploader>
     <video:expiration_date>2025-11-29T03:23:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/believe-it-8/set/96561256/</loc>
-  <lastmod>2025-11-21T03:45:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852286/image-9618cac71510ed273dcaa8b6f51ac306.png
-    </video:thumbnail_loc>
-    <video:title>
-      slimestar! vs Toy, Believe it! #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch slimestar! vs Toy in Winners Quarter-Final of Believe it! #8, streamed by Jmar2704
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623861364&amp;t=1h37m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1129</video:duration>
-    <video:publication_date>2025-11-21T03:23:24.000Z</video:publication_date>
-    <video:uploader>Jmar2704</video:uploader>
-    <video:expiration_date>2025-11-29T03:23:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
