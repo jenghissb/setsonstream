@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96920645/</loc>
+  <lastmod>2025-11-30T11:30:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/800469/image-4980fa41642954f6d9c2bf4e8a9ba9f8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Skyll vs FT3 | Dudeakoff, MINDSET 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Skyll vs FT3 | Dudeakoff in Winners Semi-Final of MINDSET 2025, streamed by Pap_ounet
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631720265&amp;t=1h54m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>368</video:duration>
+    <video:publication_date>2025-11-30T11:30:18.000Z</video:publication_date>
+    <video:uploader>Pap_ounet</video:uploader>
+    <video:expiration_date>2025-12-08T11:30:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96919146/</loc>
   <lastmod>2025-11-30T11:17:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-10-09T05:50:40.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-10-17T05:50:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-196-norcal-ssbu-ggst-gbvsr/set/94811137/</loc>
-  <lastmod>2025-10-09T06:02:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837744/image-e5f63ed0c2d972ac01c07cadec09723b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TILIN POLLO | Iago Garaitz vs Nyantic, Guildhouse Weekly 196 - Norcal SSBU, GGST, GBVSR! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TILIN POLLO | Iago Garaitz vs Nyantic in Grand Final of Guildhouse Weekly 196 - Norcal SSBU, GGST, GBVSR!, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2586940695&amp;t=2h49m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>909</video:duration>
-    <video:publication_date>2025-10-09T05:35:22.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2025-10-17T05:35:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
