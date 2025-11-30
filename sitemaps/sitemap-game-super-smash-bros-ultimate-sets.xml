@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=mysticsquad_tv&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3482</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2025-11-30T15:46:12.000Z</video:publication_date>
     <video:uploader>mysticsquad_tv</video:uploader>
     <video:expiration_date>2025-12-08T15:46:12.000Z</video:expiration_date>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631812790&amp;t=3h33m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>570</video:duration>
+    <video:duration>1151</video:duration>
     <video:publication_date>2025-11-30T16:34:44.000Z</video:publication_date>
     <video:uploader>sbit2</video:uploader>
     <video:expiration_date>2025-12-08T16:34:44.000Z</video:expiration_date>
@@ -66,16 +66,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631811675&amp;t=3h38m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>412</video:duration>
+    <video:duration>993</video:duration>
     <video:publication_date>2025-11-30T16:37:22.000Z</video:publication_date>
     <video:uploader>smashbrositalia</video:uploader>
     <video:expiration_date>2025-12-08T16:37:22.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/coliseo-smash-amateur-divisio-ii/set/96924589/</loc>
-  <lastmod>2025-11-30T16:40:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/s-v-t-smash-vincere-tenebras-ix/set/96921107/</loc>
+  <lastmod>2025-11-30T16:48:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852896/image-406958cf7797b0c89217903e588646a4.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      REV | DnK | Olex vs SR | OsReish, S. V. T. : Smash Vincere Tenebras IX - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch REV | DnK | Olex vs SR | OsReish in Grand Final of S. V. T. : Smash Vincere Tenebras IX, streamed by aesulb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631766896&amp;t=5h20m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>299</video:duration>
+    <video:publication_date>2025-11-30T16:48:56.000Z</video:publication_date>
+    <video:uploader>aesulb</video:uploader>
+    <video:expiration_date>2025-12-08T16:48:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/coliseo-smash-amateur-divisio-ii/set/96924589/</loc>
+  <lastmod>2025-11-30T16:53:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -90,7 +114,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631874153&amp;t=1h51m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>236</video:duration>
+    <video:duration>687</video:duration>
     <video:publication_date>2025-11-30T16:40:18.000Z</video:publication_date>
     <video:uploader>coliseosmashcos</video:uploader>
     <video:expiration_date>2025-12-08T16:40:18.000Z</video:expiration_date>
@@ -98,8 +122,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/s-v-t-smash-vincere-tenebras-ix/set/96921234/</loc>
-  <lastmod>2025-11-30T16:26:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-30T16:44:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -114,7 +138,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631766896&amp;t=4h57m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1065</video:duration>
+    <video:duration>942</video:duration>
     <video:publication_date>2025-11-30T16:26:29.000Z</video:publication_date>
     <video:uploader>aesulb</video:uploader>
     <video:expiration_date>2025-12-08T16:26:29.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-21T20:47:39.000Z</video:publication_date>
     <video:uploader>datteamlive</video:uploader>
     <video:expiration_date>2025-11-29T20:47:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/front-runners-35/set/96574772/</loc>
-  <lastmod>2025-11-21T21:06:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849210/image-ba7698d1fa94d92b0d2220a0061eab66.png
-    </video:thumbnail_loc>
-    <video:title>
-      0-6 | Zangrix vs NARUTO UZUMAKI, Front Runners #35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 0-6 | Zangrix vs NARUTO UZUMAKI in Winners Quarter-Final of Front Runners #35, streamed by eastlondonsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624400232&amp;t=1h44m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1159</video:duration>
-    <video:publication_date>2025-11-21T20:45:11.000Z</video:publication_date>
-    <video:uploader>eastlondonsmash</video:uploader>
-    <video:expiration_date>2025-11-29T20:45:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
