@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96920663/</loc>
-  <lastmod>2025-11-30T13:26:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96920648/</loc>
+  <lastmod>2025-11-30T13:43:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/800469/image-4980fa41642954f6d9c2bf4e8a9ba9f8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Vivi vs Skyll, MINDSET 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vivi vs Skyll in Grand Final of MINDSET 2025, streamed by Pap_ounet
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631720265&amp;t=4h7m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>349</video:duration>
+    <video:publication_date>2025-11-30T13:43:48.000Z</video:publication_date>
+    <video:uploader>Pap_ounet</video:uploader>
+    <video:expiration_date>2025-12-08T13:43:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96920663/</loc>
+  <lastmod>2025-11-30T13:46:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631720265&amp;t=3h50m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>567</video:duration>
+    <video:duration>1005</video:duration>
     <video:publication_date>2025-11-30T13:26:24.000Z</video:publication_date>
     <video:uploader>Pap_ounet</video:uploader>
     <video:expiration_date>2025-12-08T13:26:24.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-10-11T23:07:32.000Z</video:publication_date>
     <video:uploader>lunarphaselive</video:uploader>
     <video:expiration_date>2025-10-19T23:07:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-october-2025/set/94941086/</loc>
-  <lastmod>2025-10-11T23:14:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829368/image-c78799c7f4e9a669fdd60855f7395db3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nyantic vs TBN | Sibyl, Astral Beatdown October 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nyantic vs TBN | Sibyl in Winners Quarter-Final of Astral Beatdown October 2025, streamed by norcalgranblue
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2589376369&amp;t=1h8m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>592</video:duration>
-    <video:publication_date>2025-10-11T22:42:24.000Z</video:publication_date>
-    <video:uploader>norcalgranblue</video:uploader>
-    <video:expiration_date>2025-10-19T22:42:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
