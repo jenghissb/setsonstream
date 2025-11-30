@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1309/set/96923990/</loc>
-  <lastmod>2025-11-30T15:09:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1309/set/96923994/</loc>
+  <lastmod>2025-11-30T15:40:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/853382/image-7bb3dd2e960ca532dcb09b6d19a2dcc0.jpg
     </video:thumbnail_loc>
     <video:title>
-      Nyxar Esports | Kyhudji vs QoF | Sangoran, Ranking #1309 - Sets on Stream
+      Nyxar Esports | Kyhudji vs Sacna, Ranking #1309 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Nyxar Esports | Kyhudji vs QoF | Sangoran in Losers Round 1 of Ranking #1309, streamed by keep_ladose
+      Watch Nyxar Esports | Kyhudji vs Sacna in Losers Round 2 of Ranking #1309, streamed by keep_ladose
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631851908&amp;t=0h59m42s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2631851908&amp;t=1h30m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1326</video:duration>
-    <video:publication_date>2025-11-30T15:09:34.000Z</video:publication_date>
+    <video:duration>550</video:duration>
+    <video:publication_date>2025-11-30T15:40:30.000Z</video:publication_date>
     <video:uploader>keep_ladose</video:uploader>
-    <video:expiration_date>2025-12-08T15:09:34.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-08T15:40:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1309/set/96923967/</loc>
+  <lastmod>2025-11-30T15:41:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853382/image-7bb3dd2e960ca532dcb09b6d19a2dcc0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ZPR | Karma vs OVERCRAFT | TimeUpH, Ranking #1309 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZPR | Karma vs OVERCRAFT | TimeUpH in Winners Final of Ranking #1309, streamed by keep_ladose
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631851908&amp;t=1h17m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>783</video:duration>
+    <video:publication_date>2025-11-30T15:27:21.000Z</video:publication_date>
+    <video:uploader>keep_ladose</video:uploader>
+    <video:expiration_date>2025-12-08T15:27:21.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1309/set/96923966/</loc>
-  <lastmod>2025-11-30T15:15:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-11-30T15:31:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631851908&amp;t=1h5m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>972</video:duration>
+    <video:duration>623</video:duration>
     <video:publication_date>2025-11-30T15:15:28.000Z</video:publication_date>
     <video:uploader>keep_ladose</video:uploader>
     <video:expiration_date>2025-12-08T15:15:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1309/set/96923990/</loc>
+  <lastmod>2025-11-30T15:31:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853382/image-7bb3dd2e960ca532dcb09b6d19a2dcc0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Nyxar Esports | Kyhudji vs QoF | Sangoran, Ranking #1309 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nyxar Esports | Kyhudji vs QoF | Sangoran in Losers Round 1 of Ranking #1309, streamed by keep_ladose
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631851908&amp;t=0h59m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1040</video:duration>
+    <video:publication_date>2025-11-30T15:09:34.000Z</video:publication_date>
+    <video:uploader>keep_ladose</video:uploader>
+    <video:expiration_date>2025-12-08T15:09:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8350,54 +8398,6 @@
     <video:publication_date>2025-11-15T17:26:53.000Z</video:publication_date>
     <video:uploader>CenciuNC</video:uploader>
     <video:expiration_date>2025-11-23T17:26:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-7-road-to-mindset/set/96303061/</loc>
-  <lastmod>2025-11-15T18:05:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848327/image-a0d7a8f7c87cb9f424172d7917dfe028.png
-    </video:thumbnail_loc>
-    <video:title>
-      NUUSH vs NicoR309, Brussels Gaming Fest 7: Road to Mindset - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NUUSH vs NicoR309 in Winners Semi-Final of Brussels Gaming Fest 7: Road to Mindset, streamed by Uzuraka
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619073058&amp;t=3h49m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>823</video:duration>
-    <video:publication_date>2025-11-15T17:22:39.000Z</video:publication_date>
-    <video:uploader>Uzuraka</video:uploader>
-    <video:expiration_date>2025-11-23T17:22:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-7-road-to-mindset/set/96303123/</loc>
-  <lastmod>2025-11-15T17:34:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848327/image-a0d7a8f7c87cb9f424172d7917dfe028.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wim vs sugan, Brussels Gaming Fest 7: Road to Mindset - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wim vs sugan in Losers Round 4 of Brussels Gaming Fest 7: Road to Mindset, streamed by Uzuraka
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619073058&amp;t=3h26m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1590</video:duration>
-    <video:publication_date>2025-11-15T16:59:22.000Z</video:publication_date>
-    <video:uploader>Uzuraka</video:uploader>
-    <video:expiration_date>2025-11-23T16:59:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
