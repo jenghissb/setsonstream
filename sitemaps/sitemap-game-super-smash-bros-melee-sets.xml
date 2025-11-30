@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-214/set/96932580/</loc>
-  <lastmod>2025-11-30T22:56:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-214/set/96932581/</loc>
+  <lastmod>2025-11-30T23:09:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/819019/image-f52d616de73ef47d76f82fd492d91146.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shad&amp;Joey | Jisp vs Ryse, The Construct 214 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shad&amp;Joey | Jisp vs Ryse in Grand Final Reset of The Construct 214, streamed by wisconsinsmash2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2632016968&amp;t=4h56m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1292</video:duration>
+    <video:publication_date>2025-11-30T23:09:23.000Z</video:publication_date>
+    <video:uploader>wisconsinsmash2</video:uploader>
+    <video:expiration_date>2025-12-08T23:09:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-214/set/96932580/</loc>
+  <lastmod>2025-11-30T23:15:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2632016968&amp;t=4h43m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1085</video:duration>
+    <video:duration>757</video:duration>
     <video:publication_date>2025-11-30T22:56:38.000Z</video:publication_date>
     <video:uploader>wisconsinsmash2</video:uploader>
     <video:expiration_date>2025-12-08T22:56:38.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-08T19:58:30.000Z</video:publication_date>
     <video:uploader>8VsSmash</video:uploader>
     <video:expiration_date>2025-11-16T19:58:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lesson-plan-next-class/set/96021527/</loc>
-  <lastmod>2025-11-08T20:07:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835375/image-0898640292b93047677606b150ab9762.png
-    </video:thumbnail_loc>
-    <video:title>
-      80HD vs BenGetsWeird | Broccoli, Lesson Plan: Next Class - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 80HD vs BenGetsWeird | Broccoli in Round 5 of Lesson Plan: Next Class, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613104145&amp;t=2h10m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>707</video:duration>
-    <video:publication_date>2025-11-08T19:28:36.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2025-11-16T19:28:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
