@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/no-style-skirmish-november-2025/set/96928397/</loc>
-  <lastmod>2025-11-30T18:59:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/no-style-skirmish-november-2025/set/96928398/</loc>
+  <lastmod>2025-11-30T19:17:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847555/image-cadaf489688fcf662b79074c8e01ff3c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rollsafe vs Calm | Chaotic, No Style Skirmish - November 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rollsafe vs Calm | Chaotic in Losers Final of No Style Skirmish - November 2025, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631998194&amp;t=1h26m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>582</video:duration>
+    <video:publication_date>2025-11-30T19:17:07.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2025-12-08T19:17:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/no-style-skirmish-november-2025/set/96928397/</loc>
+  <lastmod>2025-11-30T19:22:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2631998194&amp;t=1h9m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>770</video:duration>
+    <video:duration>1019</video:duration>
     <video:publication_date>2025-11-30T18:59:59.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2025-12-08T18:59:59.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-08T17:40:30.000Z</video:publication_date>
     <video:uploader>8VsSmash</video:uploader>
     <video:expiration_date>2025-11-16T17:40:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/braveheart-brawl-2025/set/96020042/</loc>
-  <lastmod>2025-11-08T18:19:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800319/image-939a1260dec7c5e74d46bdf8de368751.png
-    </video:thumbnail_loc>
-    <video:title>
-      PASS | NP8 vs 0161 | birdn3ck, Braveheart Brawl 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PASS | NP8 vs 0161 | birdn3ck in Winners Round 1 of Braveheart Brawl 2025, streamed by phoenixsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2612877899&amp;t=6h26m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1428</video:duration>
-    <video:publication_date>2025-11-08T17:33:13.000Z</video:publication_date>
-    <video:uploader>phoenixsmash</video:uploader>
-    <video:expiration_date>2025-11-16T17:33:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
