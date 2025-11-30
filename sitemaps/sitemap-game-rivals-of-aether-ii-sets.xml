@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/da-banana-hut-2/set/96889274/</loc>
+  <lastmod>2025-11-30T01:07:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853223/image-d7b3d93bc782e179ea4952a0cfe5f425.png
+    </video:thumbnail_loc>
+    <video:title>
+      WW | wult vs Glum, Da Banana Hut 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WW | wult vs Glum in Losers Semi-Final of Da Banana Hut 2, streamed by gta_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2631351207&amp;t=2h4m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>851</video:duration>
+    <video:publication_date>2025-11-30T01:07:40.000Z</video:publication_date>
+    <video:uploader>gta_rivals</video:uploader>
+    <video:expiration_date>2025-12-08T01:07:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/da-banana-hut-2/set/96889237/</loc>
   <lastmod>2025-11-29T23:50:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-09T03:01:13.000Z</video:publication_date>
     <video:uploader>iniciativareset</video:uploader>
     <video:expiration_date>2025-11-17T03:01:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96055808/</loc>
-  <lastmod>2025-11-09T03:32:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
-    </video:thumbnail_loc>
-    <video:title>
-      LG | Sandstorm vs darai, Port Priority 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LG | Sandstorm vs darai in Winners Round 1 of Port Priority 9, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613111588&amp;t=9h29m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1004</video:duration>
-    <video:publication_date>2025-11-09T02:57:36.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2025-11-17T02:57:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
