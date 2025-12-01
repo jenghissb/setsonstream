@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-87/set/96966058/</loc>
+  <lastmod>2025-12-01T18:59:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856738/image-903cfff5bc7af72e21a0de8924a253a9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      514flexx vs PSG | vlad, KnockOut Zone #87 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 514flexx vs PSG | vlad in Winners Quarter-Final of KnockOut Zone #87, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2632792856&amp;t=1h6m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1226</video:duration>
+    <video:publication_date>2025-12-01T18:59:29.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-12-09T18:59:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-214/set/96932581/</loc>
   <lastmod>2025-11-30T23:37:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-08T20:01:04.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2025-11-16T20:01:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-18/set/96015458/</loc>
-  <lastmod>2025-11-08T20:42:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825238/image-cd5ee6e078530613177392d9ac50683c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shroom vs Touffe, Arcamini 18 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shroom vs Touffe in Winners Semi-Final of Arcamini 18, streamed by 8VsSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2612832136&amp;t=10h52m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>910</video:duration>
-    <video:publication_date>2025-11-08T19:58:30.000Z</video:publication_date>
-    <video:uploader>8VsSmash</video:uploader>
-    <video:expiration_date>2025-11-16T19:58:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
