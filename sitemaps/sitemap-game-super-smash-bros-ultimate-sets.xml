@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/1-335/set/96962239/</loc>
-  <lastmod>2025-12-01T11:21:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/1-335/set/96962241/</loc>
+  <lastmod>2025-12-01T11:35:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856436/image-f806cc413b360946fc9f11bbfbbb9f32.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BUZZ | ライトニングいがらし(BUZZ | raitoningu igarashi) vs BUZZ | あぶ(BUZZ | abu), 1(月)上野スマコミ#335(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BUZZ | ライトニングいがらし(BUZZ | raitoningu igarashi) vs BUZZ | あぶ(BUZZ | abu) in Winners Semi-Final of 1(月)上野スマコミ#335(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/c1GhBXUblvI?start=3921s
+    </video:player_loc>
+    <video:duration>876</video:duration>
+    <video:publication_date>2025-12-01T11:35:19.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-09T11:35:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/1-335/set/96962239/</loc>
+  <lastmod>2025-12-01T11:36:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/c1GhBXUblvI?start=3091s
     </video:player_loc>
-    <video:duration>577</video:duration>
+    <video:duration>817</video:duration>
     <video:publication_date>2025-12-01T11:21:29.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-09T11:21:29.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-22T01:05:15.000Z</video:publication_date>
     <video:uploader>cavalryesports</video:uploader>
     <video:expiration_date>2025-11-30T01:05:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/how-do-i-get-good-at-smash-bros-the-early-advisory/set/96585752/</loc>
-  <lastmod>2025-11-22T01:21:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844330/image-3ed3a10a8d98e22e20e0a46f00abe9df.png
-    </video:thumbnail_loc>
-    <video:title>
-      OU | !. | Rob. vs Kalimba, How Do I Get Good at Smash Bros? - The Early Advisory - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OU | !. | Rob. vs Kalimba in Winners Round 3 of How Do I Get Good at Smash Bros? - The Early Advisory, streamed by chivalrygamingssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624594252&amp;t=1h53m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2025-11-22T01:04:41.000Z</video:publication_date>
-    <video:uploader>chivalrygamingssb</video:uploader>
-    <video:expiration_date>2025-11-30T01:04:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
