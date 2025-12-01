@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/1-335/set/96962237/</loc>
-  <lastmod>2025-12-01T11:08:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/1-335/set/96962239/</loc>
+  <lastmod>2025-12-01T11:21:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856436/image-f806cc413b360946fc9f11bbfbbb9f32.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LG3 | ジャイロでいきます(LG3 | jairo deikimasu) vs BUZZ | あぶ(BUZZ | abu), 1(月)上野スマコミ#335(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LG3 | ジャイロでいきます(LG3 | jairo deikimasu) vs BUZZ | あぶ(BUZZ | abu) in Winners Quarter-Final of 1(月)上野スマコミ#335(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/c1GhBXUblvI?start=3091s
+    </video:player_loc>
+    <video:duration>577</video:duration>
+    <video:publication_date>2025-12-01T11:21:29.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-09T11:21:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/1-335/set/96962237/</loc>
+  <lastmod>2025-12-01T11:24:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/c1GhBXUblvI?start=2288s
     </video:player_loc>
-    <video:duration>417</video:duration>
+    <video:duration>887</video:duration>
     <video:publication_date>2025-12-01T11:08:06.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-09T11:08:06.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-22T01:04:41.000Z</video:publication_date>
     <video:uploader>chivalrygamingssb</video:uploader>
     <video:expiration_date>2025-11-30T01:04:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/spartan-weekly-176/set/96588945/</loc>
-  <lastmod>2025-11-22T01:24:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853478/image-a65582d1fba369de6c430c4f39ad0d17.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MSU | Zammo vs MSU | Advanced Placement, Spartan Weekly 176 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MSU | Zammo vs MSU | Advanced Placement in Winners Quarter-Final of Spartan Weekly 176, streamed by msusmashult
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624611673&amp;t=1h30m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>927</video:duration>
-    <video:publication_date>2025-11-22T01:04:36.000Z</video:publication_date>
-    <video:uploader>msusmashult</video:uploader>
-    <video:expiration_date>2025-11-30T01:04:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
