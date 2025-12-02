@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-276/set/96975564/</loc>
-  <lastmod>2025-12-02T03:47:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-276/set/96975565/</loc>
+  <lastmod>2025-12-02T04:12:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856526/image-c229b218aa9ca0a0c8f41ea75e8d2c33.png
+    </video:thumbnail_loc>
+    <video:title>
+      Gekkingga vs nard, Fusion #276 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gekkingga vs nard in Losers Final of Fusion #276, streamed by CollisionSeriesTV2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2633119271&amp;t=2h54m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>885</video:duration>
+    <video:publication_date>2025-12-02T04:12:13.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV2</video:uploader>
+    <video:expiration_date>2025-12-10T04:12:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-276/set/96975564/</loc>
+  <lastmod>2025-12-02T04:18:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2633119271&amp;t=2h30m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>193</video:duration>
+    <video:duration>1461</video:duration>
     <video:publication_date>2025-12-02T03:47:52.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV2</video:uploader>
     <video:expiration_date>2025-12-10T03:47:52.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-09T21:43:56.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2025-11-17T21:43:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/port-priority-9-10/set/96088800/</loc>
-  <lastmod>2025-11-09T21:50:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797422/image-72ffd9a8430a3daf94b34b297186c161.png
-    </video:thumbnail_loc>
-    <video:title>
-      LG | Sandstorm vs Rongunshu, Port Priority 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LG | Sandstorm vs Rongunshu in Losers Semi-Final of Port Priority 9, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614057718&amp;t=3h3m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1408</video:duration>
-    <video:publication_date>2025-11-09T21:16:02.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2025-11-17T21:16:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
