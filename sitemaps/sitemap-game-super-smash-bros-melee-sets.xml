@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-35-the-thirteenth-year/set/96982171/</loc>
+  <lastmod>2025-12-02T07:11:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857329/image-91b493909d7548df01e1aa9e90f139ba.png
+    </video:thumbnail_loc>
+    <video:title>
+      Melee Stats | s-f vs hffc | jams, McCloud&apos;s Melee Co. #35: The Thirteenth Year - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Melee Stats | s-f vs hffc | jams in Losers Quarter-Final of McCloud&apos;s Melee Co. #35: The Thirteenth Year, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2633205109&amp;t=3h33m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1087</video:duration>
+    <video:publication_date>2025-12-02T06:49:08.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-12-10T06:49:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kame-house-weekly-136/set/96977203/</loc>
   <lastmod>2025-12-02T03:16:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-08T21:46:13.000Z</video:publication_date>
     <video:uploader>NMmelee</video:uploader>
     <video:expiration_date>2025-11-16T21:46:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-2025-ga-melee-arcadian-ga-tech/set/96034765/</loc>
-  <lastmod>2025-11-08T22:25:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/832757/image-361d74a8e8b7f3292653a4adce2d864c.png
-    </video:thumbnail_loc>
-    <video:title>
-      sanrio enjoyer vs diremaykr, The 2025 GA Melee Arcadian @ GA Tech - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch sanrio enjoyer vs diremaykr in Winners Semi-Final of The 2025 GA Melee Arcadian @ GA Tech, streamed by cardd_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613171535&amp;t=2h57m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1721</video:duration>
-    <video:publication_date>2025-11-08T21:38:01.000Z</video:publication_date>
-    <video:uploader>cardd_</video:uploader>
-    <video:expiration_date>2025-11-16T21:38:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
