@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-122/set/97005038/</loc>
+  <lastmod>2025-12-03T07:17:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856271/image-0f04a88644c3b285521ffeb48fb0be38.png
+    </video:thumbnail_loc>
+    <video:title>
+      TJGE | Megaman vs 69% | Rebel Scum, Melee @ Abbey Tavern #122 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TJGE | Megaman vs 69% | Rebel Scum in Losers Semi-Final of Melee @ Abbey Tavern #122, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2634011129&amp;t=4h22m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>659</video:duration>
+    <video:publication_date>2025-12-03T07:05:38.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-12-11T07:05:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-122/set/97005023/</loc>
-  <lastmod>2025-12-03T06:42:11.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-03T07:09:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2634011129&amp;t=3h59m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>703</video:duration>
+    <video:duration>1396</video:duration>
     <video:publication_date>2025-12-03T06:42:11.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-11T06:42:11.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-09T19:56:37.000Z</video:publication_date>
     <video:uploader>ligaaceesports</video:uploader>
     <video:expiration_date>2025-11-17T19:56:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tec-in-place-4/set/96073859/</loc>
-  <lastmod>2025-11-09T20:08:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/648772/image-dec78bc2c80b8b6b4c9c8c1ea7da9eaf.png
-    </video:thumbnail_loc>
-    <video:title>
-      radio vs Crispy RS HEX | Plastikmen, Tec In Place #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch radio vs Crispy RS HEX | Plastikmen in Winners Semi-Final of Tec In Place #4, streamed by ligaaceesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614094716&amp;t=0h27m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1232</video:duration>
-    <video:publication_date>2025-11-09T19:25:04.000Z</video:publication_date>
-    <video:uploader>ligaaceesports</video:uploader>
-    <video:expiration_date>2025-11-17T19:25:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
