@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/weekly-smash-party-211/set/97007784/</loc>
+  <lastmod>2025-12-03T11:24:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856468/image-8c8ae2b51c9196ea7f9f43531f435f76.png
+    </video:thumbnail_loc>
+    <video:title>
+      SDJ vs DHC | まっすん(DHC | massun), Weekly Smash Party ～スマパ～ #211 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SDJ vs DHC | まっすん(DHC | massun) in Winners Semi-Final of Weekly Smash Party ～スマパ～ #211, streamed by VGBootCamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2634215083&amp;t=0h46m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>433</video:duration>
+    <video:publication_date>2025-12-03T11:24:59.000Z</video:publication_date>
+    <video:uploader>VGBootCamp</video:uploader>
+    <video:expiration_date>2025-12-11T11:24:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-122/set/97005024/</loc>
   <lastmod>2025-12-03T07:48:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-09T23:36:36.000Z</video:publication_date>
     <video:uploader>nounsesports</video:uploader>
     <video:expiration_date>2025-11-17T23:36:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fast-fall-2025/set/96062869/</loc>
-  <lastmod>2025-11-09T23:53:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809397/image-c40fbb86584168baab373c2382d4be5b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SDJ vs RapMonster, FAST FALL$ 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SDJ vs RapMonster in Winners Quarter-Final of FAST FALL$ 2025, streamed by nounsesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614084060&amp;t=4h28m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1301</video:duration>
-    <video:publication_date>2025-11-09T23:14:25.000Z</video:publication_date>
-    <video:uploader>nounsesports</video:uploader>
-    <video:expiration_date>2025-11-17T23:14:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
