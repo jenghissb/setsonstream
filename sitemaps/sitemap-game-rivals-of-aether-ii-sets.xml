@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-62/set/97015189/</loc>
-  <lastmod>2025-12-03T23:24:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-62/set/97015191/</loc>
+  <lastmod>2025-12-03T23:37:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858631/image-f653a630e9db1e5354daea4c2c4a67ba.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ampersand vs TBZ | ManNeeTee12, CU in Bracket 62 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ampersand vs TBZ | ManNeeTee12 in Winners Final of CU in Bracket 62, streamed by topblastzoneny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2634654479&amp;t=1h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>730</video:duration>
+    <video:publication_date>2025-12-03T23:37:29.000Z</video:publication_date>
+    <video:uploader>topblastzoneny</video:uploader>
+    <video:expiration_date>2025-12-11T23:37:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-62/set/97015189/</loc>
+  <lastmod>2025-12-03T23:37:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2634654479&amp;t=0h47m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>365</video:duration>
+    <video:duration>702</video:duration>
     <video:publication_date>2025-12-03T23:24:58.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-12-11T23:24:58.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-13T00:56:52.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2025-11-21T00:56:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-236/set/96179891/</loc>
-  <lastmod>2025-11-13T01:36:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849812/image-1c7404e52422b92569fe6706480b27a8.png
-    </video:thumbnail_loc>
-    <video:title>
-      GeekyDave vs Bucketfullabiscuits, Wonderfly Weekly #236 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GeekyDave vs Bucketfullabiscuits in Winners Semi-Final of Wonderfly Weekly #236, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2616931196&amp;t=0h15m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1117</video:duration>
-    <video:publication_date>2025-11-13T00:51:32.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-11-21T00:51:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
