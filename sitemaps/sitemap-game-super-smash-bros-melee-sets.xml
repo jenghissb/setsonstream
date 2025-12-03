@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/weekly-smash-party-211/set/97007850/</loc>
+  <lastmod>2025-12-03T12:30:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856468/image-8c8ae2b51c9196ea7f9f43531f435f76.png
+    </video:thumbnail_loc>
+    <video:title>
+      TNC | n3zModGod vs Falpan, Weekly Smash Party ～スマパ～ #211 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TNC | n3zModGod vs Falpan in Losers Final of Weekly Smash Party ～スマパ～ #211, streamed by VGBootCamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2634215083&amp;t=1h52m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>230</video:duration>
+    <video:publication_date>2025-12-03T12:30:54.000Z</video:publication_date>
+    <video:uploader>VGBootCamp</video:uploader>
+    <video:expiration_date>2025-12-11T12:30:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/weekly-smash-party-211/set/97007784/</loc>
   <lastmod>2025-12-03T11:34:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-10T00:11:45.000Z</video:publication_date>
     <video:uploader>nounsesports</video:uploader>
     <video:expiration_date>2025-11-18T00:11:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fast-fall-2025/set/96062871/</loc>
-  <lastmod>2025-11-10T00:21:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809397/image-c40fbb86584168baab373c2382d4be5b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Free Agent | Trif vs Nouns | Junebug, FAST FALL$ 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Free Agent | Trif vs Nouns | Junebug in Winners Quarter-Final of FAST FALL$ 2025, streamed by nounsesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2614084060&amp;t=4h50m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1105</video:duration>
-    <video:publication_date>2025-11-09T23:36:36.000Z</video:publication_date>
-    <video:uploader>nounsesports</video:uploader>
-    <video:expiration_date>2025-11-17T23:36:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
