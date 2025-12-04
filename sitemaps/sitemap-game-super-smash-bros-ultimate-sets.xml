@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wild-smash-wednesday-166/set/97031609/</loc>
-  <lastmod>2025-12-04T06:41:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wild-smash-wednesday-166/set/97031624/</loc>
+  <lastmod>2025-12-04T07:02:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856437/image-b25869d9a7563f692119cf468704d35d.png
+    </video:thumbnail_loc>
+    <video:title>
+      LH | POW | Chowder vs Driver, Wild Smash Wednesday #166 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LH | POW | Chowder vs Driver in Losers Semi-Final of Wild Smash Wednesday #166, streamed by powgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2634916234&amp;t=2h21m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>941</video:duration>
+    <video:publication_date>2025-12-04T07:02:26.000Z</video:publication_date>
+    <video:uploader>powgaming</video:uploader>
+    <video:expiration_date>2025-12-12T07:02:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wild-smash-wednesday-166/set/97031609/</loc>
+  <lastmod>2025-12-04T06:54:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2634916234&amp;t=2h0m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>735</video:duration>
+    <video:duration>776</video:duration>
     <video:publication_date>2025-12-04T06:41:27.000Z</video:publication_date>
     <video:uploader>powgaming</video:uploader>
     <video:expiration_date>2025-12-12T06:41:27.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-22T22:27:33.000Z</video:publication_date>
     <video:uploader>CitadelCTG</video:uploader>
     <video:expiration_date>2025-11-30T22:27:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/all-mighty-42-3/set/96645465/</loc>
-  <lastmod>2025-11-22T22:54:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849802/image-ce54866a9a4168b541a709d3886dd249.png
-    </video:thumbnail_loc>
-    <video:title>
-      NGC | Nova vs TMT | Gimpel, All Mighty 42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NGC | Nova vs TMT | Gimpel in Grand Final of All Mighty 42, streamed by TMT_Smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625147569&amp;t=7h12m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1540</video:duration>
-    <video:publication_date>2025-11-22T22:25:41.000Z</video:publication_date>
-    <video:uploader>TMT_Smash</video:uploader>
-    <video:expiration_date>2025-11-30T22:25:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
