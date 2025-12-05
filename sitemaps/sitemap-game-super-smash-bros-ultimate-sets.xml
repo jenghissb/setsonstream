@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-115-1/set/97056713/</loc>
+  <lastmod>2025-12-05T10:31:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856161/image-a28e20e48de67945aabca984012c417b.png
+    </video:thumbnail_loc>
+    <video:title>
+      クウヤ(kuuya) vs みすみ(misumi), Smash薬院#115 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch クウヤ(kuuya) vs みすみ(misumi) in Winners Round 2 of Smash薬院#115, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/brXYUI7hpZI?start=85s
+    </video:player_loc>
+    <video:duration>788</video:duration>
+    <video:publication_date>2025-12-05T10:31:56.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-12-13T10:31:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-snacks-35/set/97054765/</loc>
   <lastmod>2025-12-05T06:49:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-23T11:06:09.000Z</video:publication_date>
     <video:uploader>ours_gang2</video:uploader>
     <video:expiration_date>2025-12-01T11:06:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-suite-7/set/96703010/</loc>
-  <lastmod>2025-11-23T11:20:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840102/image-1e38fd1baae61c519e92774136cfe4cf.png
-    </video:thumbnail_loc>
-    <video:title>
-      GAMIMAG | Pacifica vs KĐ | OVNI II | Zaccaouette(K K | OVNI II | Zaccaouette), La Suite #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GAMIMAG | Pacifica vs KĐ | OVNI II | Zaccaouette(K K | OVNI II | Zaccaouette) in Winners Quarter-Final of La Suite #7, streamed by smashgrenoble
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625873640&amp;t=1h48m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>810</video:duration>
-    <video:publication_date>2025-11-23T11:05:04.000Z</video:publication_date>
-    <video:uploader>smashgrenoble</video:uploader>
-    <video:expiration_date>2025-12-01T11:05:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
