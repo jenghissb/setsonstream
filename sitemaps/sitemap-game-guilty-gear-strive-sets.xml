@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-triple-crown-3-hosted-by-game-grove/set/97119034/</loc>
+  <lastmod>2025-12-06T18:02:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841175/image-fa2f6cca646e30b442a6a4d0241b0932.png
+    </video:thumbnail_loc>
+    <video:title>
+      AOC | Macho Magnus vs MTAnne, The Triple Crown #3- Hosted By Game Grove - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AOC | Macho Magnus vs MTAnne in Winners Round 1 of The Triple Crown #3- Hosted By Game Grove, streamed by GameGroveWV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637044630&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1120</video:duration>
+    <video:publication_date>2025-12-06T18:02:37.000Z</video:publication_date>
+    <video:uploader>GameGroveWV</video:uploader>
+    <video:expiration_date>2025-12-14T18:02:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-13-bh3-x-joystick/set/97100893/</loc>
   <lastmod>2025-12-06T17:11:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-13T02:02:44.000Z</video:publication_date>
     <video:uploader>edgegamerslounge</video:uploader>
     <video:expiration_date>2025-11-21T02:02:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/seasons-edge-59/set/96177847/</loc>
-  <lastmod>2025-11-13T02:15:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850132/image-93f51a2e3c4d40d2984c38a8e9a242e3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nakiitake vs xliquidvoid, Seasons Edge 59 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nakiitake vs xliquidvoid in Losers Semi-Final of Seasons Edge 59, streamed by edgegamerslounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2616909627&amp;t=1h26m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>891</video:duration>
-    <video:publication_date>2025-11-13T01:35:07.000Z</video:publication_date>
-    <video:uploader>edgegamerslounge</video:uploader>
-    <video:expiration_date>2025-11-21T01:35:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
