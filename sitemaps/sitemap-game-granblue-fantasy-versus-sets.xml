@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115160/</loc>
+  <lastmod>2025-12-06T19:09:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      TF | HUEBERT vs xX4n1m4LLuVRXx, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TF | HUEBERT vs xX4n1m4LLuVRXx in Winners Final of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=2h21m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>992</video:duration>
+    <video:publication_date>2025-12-06T19:09:36.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T19:09:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115221/</loc>
   <lastmod>2025-12-06T19:02:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-01T19:40:55.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-11-09T19:40:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/dreamhack-atlanta-2025/set/95736385/</loc>
-  <lastmod>2025-11-01T17:50:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809964/image-31b40c15fb8669e13e2d5f0d497c1102.png
-    </video:thumbnail_loc>
-    <video:title>
-      ONi | BlueSkyGuyBSG vs KANME | Teiga, DreamHack Atlanta 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ONi | BlueSkyGuyBSG vs KANME | Teiga in Losers Final of DreamHack Atlanta 2025, streamed by maxmode_fgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607037798&amp;t=0h50m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2152</video:duration>
-    <video:publication_date>2025-11-01T16:49:54.000Z</video:publication_date>
-    <video:uploader>maxmode_fgc</video:uploader>
-    <video:expiration_date>2025-11-09T16:49:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

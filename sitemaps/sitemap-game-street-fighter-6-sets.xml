@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/galactic-sessions-2-2025-2026/set/97121319/</loc>
+  <lastmod>2025-12-06T19:24:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855692/image-82511cedad90bb20f5d6574facf4e70e.png
+    </video:thumbnail_loc>
+    <video:title>
+      NTSC | MagiikFrancky vs Dante Liquid, Galactic Sessions #2 - 2025-2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NTSC | MagiikFrancky vs Dante Liquid in Round 3 of Galactic Sessions #2 - 2025-2026, streamed by association_ntsc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636847150&amp;t=5h53m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>490</video:duration>
+    <video:publication_date>2025-12-06T19:08:17.000Z</video:publication_date>
+    <video:uploader>association_ntsc</video:uploader>
+    <video:expiration_date>2025-12-14T19:08:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/galactic-sessions-2-2025-2026/set/97121316/</loc>
-  <lastmod>2025-12-06T18:55:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T19:12:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636847150&amp;t=5h40m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1000</video:duration>
+    <video:duration>446</video:duration>
     <video:publication_date>2025-12-06T18:55:56.000Z</video:publication_date>
     <video:uploader>association_ntsc</video:uploader>
     <video:expiration_date>2025-12-14T18:55:56.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-19T01:20:51.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-27T01:20:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-76/set/96495348/</loc>
-  <lastmod>2025-11-19T01:29:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851237/image-9180d2d2197bd3c9a0a51b5634e33806.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Alex_dotdot vs Pazure, 4o4 by Sh33rZ: Street Fighter #76 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Alex_dotdot vs Pazure in Winners Round 1 of 4o4 by Sh33rZ: Street Fighter #76, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622152709&amp;t=0h10m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>718</video:duration>
-    <video:publication_date>2025-11-19T01:13:15.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-11-27T01:13:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
