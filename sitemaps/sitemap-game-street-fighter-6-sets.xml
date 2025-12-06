@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-24/set/97097490/</loc>
+  <lastmod>2025-12-06T08:17:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851680/image-1e0a183172e60c1f735c04694aa4c452.png
+    </video:thumbnail_loc>
+    <video:title>
+      elieatscrayons vs Vollian, Drive Theory 24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch elieatscrayons vs Vollian in Winners Semi-Final of Drive Theory 24, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636646270&amp;t=2h40m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>214</video:duration>
+    <video:publication_date>2025-12-06T08:07:01.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2025-12-14T08:07:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-24/set/97094629/</loc>
   <lastmod>2025-12-06T07:37:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-16T02:13:10.000Z</video:publication_date>
     <video:uploader>LigaAceEsports</video:uploader>
     <video:expiration_date>2025-11-24T02:13:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/salty-soiree-2025-the-main-event/set/96364252/</loc>
-  <lastmod>2025-11-16T02:19:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825792/image-0cf17d7c35ecc7575cc331db00ca9ba9.png
-    </video:thumbnail_loc>
-    <video:title>
-      ONi | Naji vs IRONGRID | 4TW | Space Boy, Salty Soiree 2025 - The Main Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ONi | Naji vs IRONGRID | 4TW | Space Boy in Winners Final of Salty Soiree 2025 - The Main Event, streamed by misspatriciaa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619324187&amp;t=6h38m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>529</video:duration>
-    <video:publication_date>2025-11-16T01:45:48.000Z</video:publication_date>
-    <video:uploader>misspatriciaa</video:uploader>
-    <video:expiration_date>2025-11-24T01:45:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
