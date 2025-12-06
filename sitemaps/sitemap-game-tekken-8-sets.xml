@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/brawl-and-bites-at-bobby-v-s-2/set/97139619/</loc>
-  <lastmod>2025-12-06T23:19:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/brawl-and-bites-at-bobby-v-s-2/set/97139605/</loc>
+  <lastmod>2025-12-06T23:42:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844045/image-d6616095126cad8bef4c5ab1b957c59b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Penalva vs Blackknite, Brawl and bites at Bobby V&apos;s 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Penalva vs Blackknite in Grand Final of Brawl and bites at Bobby V&apos;s 2, streamed by gamersguildct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637244296&amp;t=1h29m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>526</video:duration>
+    <video:publication_date>2025-12-06T23:42:17.000Z</video:publication_date>
+    <video:uploader>gamersguildct</video:uploader>
+    <video:expiration_date>2025-12-14T23:42:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/brawl-and-bites-at-bobby-v-s-2/set/97139619/</loc>
+  <lastmod>2025-12-06T23:44:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2637244296&amp;t=1h6m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1403</video:duration>
+    <video:duration>741</video:duration>
     <video:publication_date>2025-12-06T23:19:14.000Z</video:publication_date>
     <video:uploader>gamersguildct</video:uploader>
     <video:expiration_date>2025-12-14T23:19:14.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-22T14:06:45.000Z</video:publication_date>
     <video:uploader>Vslashesports</video:uploader>
     <video:expiration_date>2025-11-30T14:06:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/emirates-showdown-2025/set/96627217/</loc>
-  <lastmod>2025-11-22T13:39:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/778358/image-37d8a9e436f14986cb0d6cac44b95c0d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Falcons | Farzeen vs DNF | CBM, Emirates Showdown 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Falcons | Farzeen vs DNF | CBM in Winners Round 1 of Emirates Showdown 2025, streamed by Vslashesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624955237&amp;t=4h54m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>670</video:duration>
-    <video:publication_date>2025-11-22T13:25:31.000Z</video:publication_date>
-    <video:uploader>Vslashesports</video:uploader>
-    <video:expiration_date>2025-11-30T13:25:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
