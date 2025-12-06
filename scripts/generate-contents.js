@@ -1,12 +1,13 @@
 // scripts/generate-content.js
 import fs from "fs"
 import path from "path"
-import { brotliDecompressSync } from "zlib";
+import { brotliDecompressSync, brotliCompressSync } from "zlib";
 import { VideoGameInfo, VideoGameInfoByGameSlug, GameKeywords, Characters, GamePublishers } from "../src/GameInfo.js"
 const BASE_URL = 'https://setsonstream.tv';
 // const DIST_DIR = path.join(__dirname, "..", "dist-static");
 // const DIST_DIR = path.join(__dirname, "..", "build");
 const DIST_DIR = "build"
+const DATA_DIR = "data"
 const SITEMAP_DIR = path.join(DIST_DIR, "sitemaps");
 const NUM_SETS_PER = 30
 // const NUM_SETS_PER = 10
@@ -129,10 +130,29 @@ function ensureDir(dir) {
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 }
 
+function readFile(filePath) {
+  return fs.readFileSync(filePath, "utf-8");
+}
+
 function writeFile(filePath, content) {
   ensureDir(path.dirname(filePath));
-  // fs.writeFileSync(filePath, content, "utf8");
-  fs.writeFileSync(filePath, content);
+  fs.writeFileSync(filePath, content, "utf8");
+  // fs.writeFileSync(filePath, content);
+}
+
+function readBrotliFile(filePath) {
+  const compressedData = fs.readFileSync(filePath);
+  const decompressedData = brotliDecompressSync(compressedData);
+  const originalString = decompressedData.toString('utf8');
+  const dataArchive = JSON.parse(originalString);
+  return dataArchive
+}
+
+function writeBrotliFile(filePath, dataToSave) {
+  ensureDir(path.dirname(filePath));
+  const inputBuffer = Buffer.from(dataToSave, 'utf8');
+  const compressedData = brotliCompressSync(inputBuffer);
+  fs.writeFileSync(filePath, compressedData);
 }
 
 function generatePage({templatePath, title, description, keywords, bootstrap={}, jsonLd, canonical, ogVideoUrl, ogVideoThumb}) {
@@ -415,7 +435,11 @@ function getLastMod(item) {
 
 async function main() {
   console.log("DIRS", DIST_DIR, SITEMAP_DIR, process.cwd())
+
+  console.log("Handling expired data")
+
   console.log("Fetching Firebase data...");
+  const dataArchivePath = path.join(DATA_DIR, "dataArchive.json")
   // Replace with your Firebase export endpoint or bot output
   // const res = await fetch("https://your-firebase-url/data.json");
   const res = await fetch("https://firestore.googleapis.com/v1/projects/setsonstream1/databases/\(default\)/documents/data1/allInfo2")
@@ -425,6 +449,32 @@ async function main() {
   if (data == null) {
     data = {}
   }
+
+  var dataArchive = readBrotliFile(dataArchivePath)
+  // var dataArchive = JSON.parse(readFile(dataArchivePath))
+  // if (dataArchive == null) {
+  //   dataArchive = {}
+  // }
+
+  processData(data)
+  updateHistoricalData(dataArchive, data)
+  writeBrotliFile(dataArchivePath, JSON.stringify(dataArchive));
+}
+
+function updateHistoricalData(dataArchive, data) {
+  Object.keys(data).forEach((key1) => {
+    if (dataArchive[key1] == null) {
+      dataArchive[key1] = {combined: []}
+    }
+    const combinedMap = new Map();
+    dataArchive[key1].combined.forEach(item => combinedMap.set(item.bracketInfo.setKey, item))
+    data[key1].combined.forEach(item => combinedMap.set(item.bracketInfo.setKey, item))
+    const combinedArr = Array.from(combinedMap.values())
+    dataArchive[key1].combined = combinedArr
+  })
+}
+
+async function processData(data, forExpired=false) {
   Object.keys(data).forEach((key1) => {
     Object.keys(data[key1]).forEach((key2) => {
       data[key1][key2].forEach(item => {
@@ -560,6 +610,7 @@ async function main() {
   const includeCharactersForGames = ["super-smash-bros-ultimate", "rivals-of-aether-ii", "guilty-gear-strive", "super-smash-bros-melee", "tekken-8"]
   const games = VideoGameInfo
   var keywords = GameKeywords["1386"]
+  var jsonLd = generateJsonLdAbout({})
   writeFile(
     path.join(DIST_DIR, "about", "index.html"),
     generatePage({
@@ -567,6 +618,7 @@ async function main() {
       title: `About - Sets on Stream`,
       description: `Watch live and recent matches from fighting game tournaments: Smash Ultimate, SF6, Rivals 2, Tekken 8, and more.`,
       keywords: keywords,
+      // jsonLd,
     })
   );
 
@@ -636,7 +688,7 @@ async function main() {
       // title: `${item.bracketInfo.tourneyName} - Sets on Stream`,
       // description: `Watch Live and Recent ${gameInfo?.name} Sets on Stream happening at Tournament ${item.bracketInfo.tourneyName}`,
       var url = `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/set/${setId}/`
-      var jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
+      jsonLd = generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache})
       const canonical = `https://setsonstream.tv/game/${gameSlug}/tournament/${tourneySlug}/set/${setId}/`
       writeFile(
         path.join(gameDir, "tournament", tourneySlug, "set", `${setId}`, "index.html"),
@@ -892,54 +944,56 @@ async function main() {
   //     );
   //   }
 
-  writeFile(
-    path.join(SITEMAP_DIR, "sitemap.xml"),
-    generateMainSitemap(games, includeCharactersForGames)
-  );
-  writeFile(
-    path.join(SITEMAP_DIR, "sitemap-top.xml"),
-    generateTopPagesSitemap()
-  );
-  writeFile(
-    path.join(SITEMAP_DIR, `sitemap-games.xml`),
-    generateGamesSitemap(games)
-  )
+  if (!forExpired) {
+    writeFile(
+      path.join(SITEMAP_DIR, "sitemap.xml"),
+      generateMainSitemap(games, includeCharactersForGames)
+    );
+    writeFile(
+      path.join(SITEMAP_DIR, "sitemap-top.xml"),
+      generateTopPagesSitemap()
+    );
+    writeFile(
+      path.join(SITEMAP_DIR, `sitemap-games.xml`),
+      generateGamesSitemap(games)
+    )
 
-  games.forEach((game) => {
-    const hasCharPages = includeCharactersForGames.includes(game.gameSlug)
-    // writeFile(
-    //   path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}.xml`),
-    //   generateGameSitemap(game, hasCharPages)
-    // )
-    // writeFile(
-    //   path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}.xml`),
-    //   generateGameLeafSitemap(game)
-    // )
-    const {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById, characterLastModById } = gameSubCats[game.id]
-    if (hasCharPages) {
+    games.forEach((game) => {
+      const hasCharPages = includeCharactersForGames.includes(game.gameSlug)
+      // writeFile(
+      //   path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}.xml`),
+      //   generateGameSitemap(game, hasCharPages)
+      // )
+      // writeFile(
+      //   path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}.xml`),
+      //   generateGameLeafSitemap(game)
+      // )
+      const {tourneyById, playerById, channelById, tourneyLastModById, playerLastModById, channelLastModById, characterLastModById } = gameSubCats[game.id]
+      if (hasCharPages) {
+        writeFile(
+          path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-characters.xml`),
+          generateCharacterSitemap(game, characterLastModById)
+        )
+      }
       writeFile(
-        path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-characters.xml`),
-        generateCharacterSitemap(game, characterLastModById)
+        path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-tournaments.xml`),
+        generateTourneySitemap(game, tourneyById, tourneyLastModById)
       )
-    }
-    writeFile(
-      path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-tournaments.xml`),
-      generateTourneySitemap(game, tourneyById, tourneyLastModById)
-    )
-    writeFile(
-      path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-channels.xml`),
-      generateChannelSitemap(game, channelById, channelLastModById)
-    )
-    writeFile(
-      path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-players.xml`),
-      generatePlayerSitemap(game, playerById, playerLastModById)
-    )
-    writeFile(
-      path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-sets.xml`),
-      generateSetSitemap(game, data[game.id].combined)
-    )
-  })
-  console.log("Generation complete.");
+      writeFile(
+        path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-channels.xml`),
+        generateChannelSitemap(game, channelById, channelLastModById)
+      )
+      writeFile(
+        path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-players.xml`),
+        generatePlayerSitemap(game, playerById, playerLastModById)
+      )
+      writeFile(
+        path.join(SITEMAP_DIR, `sitemap-game-${game.gameSlug}-sets.xml`),
+        generateSetSitemap(game, data[game.id].combined)
+      )
+    })
+    console.log("Generation complete.");
+  }
 }
 
 function generateJsonLdSet({item, gameInfo, url, videoObjectSummaryCache}) {
@@ -1692,6 +1746,82 @@ function generateJsonLdCharacter({item, gameInfo, charName, url, items, videoObj
     // ]
   }
 }
+
+function generateJsonLdAbout({}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Sets on Stream",
+    "url": "https://setsonstream.tv/",
+    // "logo": "https://setsonstream.tv/path/to/your/logo.png",
+    // "sameAs": [
+    //   "https://twitter.com/jenghi_ssb", 
+    // ],
+    "description": "Proprietary algorithmic aggregation of competitive fighting game tournament sets from Twitch and YouTube stream VODs."
+  }
+
+  // const gameSlug = gameInfo.gameSlug
+  // const gameName = gameInfo.name
+  // const gameDisplayName = gameInfo.displayName
+  // // const setItemList = Object.keys(items).slice(0, NUM_SETS_PER).map((key, index) => ({
+  // //   ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/char/${charName}/set/${items[key].bracketInfo.setKey}/`]),
+  // //   "position": index,
+  // // }))
+  // const setItemList = items && items.slice(0, NUM_SETS_PER).map((it, index) => ({
+  //   ...(videoObjectSummaryCache[`https://setsonstream.tv/game/${gameSlug}/char/${charName}/set/${it.bracketInfo.setKey}/`]),
+  //   "position": index,
+  // }))
+
+
+
+
+  // const itemList = (item != null) ? {
+  //     "hasPart": {
+  //       "@type": "ItemList",
+  //       "name": `Recent Sets for ${charName} in ${gameName}`,
+  //       "itemListOrder": "MostRecent",
+  //       "itemListElement": setItemList,
+  //     }
+  //   } : {}
+
+  // return {
+  //   "@context": "https://schema.org",
+  //   "@type": "CollectionPage",
+  //   "@id": url,
+  //   "url": url,
+  //   "name": `${gameDisplayName} - ${charName} Character Page`,
+  //   "description": `Watch competitive ${gameDisplayName} matches featuring ${charName}. Browse recent sets, players, and tournaments where ${charName} is played.`,
+  //   "about": {
+  //     "@type": "VideoGameCharacter",
+  //     "name": charName,
+  //     "url": url,
+  //     "characterAttribute": {
+  //       "@type": "Thing",
+  //       "name": gameDisplayName
+  //     }
+  //   },
+  //   "isPartOf": {
+  //     "@type": "VideoGame",
+  //     "name": gameDisplayName,
+  //     "url": `https://setsonstream.tv/game/${gameSlug}/`
+  //   },
+  //   ...itemList,
+  //   // "hasPart": [
+  //   //   {
+  //   //     "@type": "VideoObject",
+  //   //     "@id": "https://setsonstream.tv/game/super-smash-bros-ultimate/set/12345",
+  //   //     "name": "Player A vs Player B – Mario Match",
+  //   //     "thumbnailUrl": "https://img.youtube.com/vi/xxxx/hqdefault.jpg",
+  //   //     "uploadDate": "2025-09-13",
+  //   //     "description": "Competitive set featuring Mario in Super Smash Bros. Ultimate.",
+  //   //     "embedUrl": "https://www.youtube.com/embed/xxxx?start=1234",
+  //   //     // "inLanguage": "en"
+  //   //   }
+  //     /* …more VideoObjects for other sets … */
+  //   // ]
+  // }
+}
+
 
 function getIsoDuration(seconds) {
   const h = Math.floor(seconds / 3600);
