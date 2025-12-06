@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-110/set/97088437/</loc>
+  <lastmod>2025-12-06T03:09:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857753/image-eb5d734adecb5b8a757f1151bc76f366.png
+    </video:thumbnail_loc>
+    <video:title>
+      UrsaRising vs LAGr/UGNYC | Azure Dynamo, UP THE BLOCK #110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UrsaRising vs LAGr/UGNYC | Azure Dynamo in Losers Quarter-Final of UP THE BLOCK #110, streamed by UG_NYC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636484038&amp;t=1h6m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>773</video:duration>
+    <video:publication_date>2025-12-06T02:43:40.000Z</video:publication_date>
+    <video:uploader>UG_NYC</video:uploader>
+    <video:expiration_date>2025-12-14T02:43:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-110/set/97088436/</loc>
-  <lastmod>2025-12-06T02:32:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T02:52:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636484038&amp;t=0h55m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>859</video:duration>
+    <video:duration>649</video:duration>
     <video:publication_date>2025-12-06T02:32:36.000Z</video:publication_date>
     <video:uploader>UG_NYC</video:uploader>
     <video:expiration_date>2025-12-14T02:32:36.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-15T22:25:34.000Z</video:publication_date>
     <video:uploader>misspatriciaa</video:uploader>
     <video:expiration_date>2025-11-23T22:25:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-november-2025/set/96336513/</loc>
-  <lastmod>2025-11-15T23:04:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845401/image-e0b503347a3a0d3ce60ff26e75e182b3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4 | Yugo vs Buddylikefriend, All Hands Monthly: November 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4 | Yugo vs Buddylikefriend in Losers Final of All Hands Monthly: November 2025, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619384342&amp;t=2h6m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>744</video:duration>
-    <video:publication_date>2025-11-15T22:21:32.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-11-23T22:21:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
