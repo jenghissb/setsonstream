@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124770/</loc>
-  <lastmod>2025-12-06T21:06:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124771/</loc>
+  <lastmod>2025-12-06T21:16:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Stunstark vs SGifto73, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Stunstark vs SGifto73 in Winners Semi-Final of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=4h28m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>835</video:duration>
+    <video:publication_date>2025-12-06T21:16:10.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T21:16:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124770/</loc>
+  <lastmod>2025-12-06T21:21:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636982961&amp;t=4h19m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>421</video:duration>
+    <video:duration>554</video:duration>
     <video:publication_date>2025-12-06T21:06:53.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-12-14T21:06:53.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-15T00:47:19.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-23T00:47:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/neon-dreams-guilty-gear-strive-thursday-throwdown-monthly-24/set/96223733/</loc>
-  <lastmod>2025-11-14T02:27:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851587/image-7f872563dff8a521098c74f42be5d7e4.png
-    </video:thumbnail_loc>
-    <video:title>
-      I-nos_goodboy | HeadReceiver vs TrickyMister, Neon Dreams Guilty Gear: STRIVE Thursday Throwdown Monthly #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch I-nos_goodboy | HeadReceiver vs TrickyMister in Winners Semi-Final of Neon Dreams Guilty Gear: STRIVE Thursday Throwdown Monthly #24, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2617769956&amp;t=0h57m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>697</video:duration>
-    <video:publication_date>2025-11-14T01:44:34.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-11-22T01:44:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
