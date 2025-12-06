@@ -435,11 +435,8 @@ function getLastMod(item) {
 
 async function main() {
   console.log("DIRS", DIST_DIR, SITEMAP_DIR, process.cwd())
-
-  console.log("Handling expired data")
-
   console.log("Fetching Firebase data...");
-  const dataArchivePath = path.join(DATA_DIR, "dataArchive.json")
+  const dataArchivePath = path.join(DATA_DIR, "dataArchive.json.br")
   // Replace with your Firebase export endpoint or bot output
   // const res = await fetch("https://your-firebase-url/data.json");
   const res = await fetch("https://firestore.googleapis.com/v1/projects/setsonstream1/databases/\(default\)/documents/data1/allInfo2")
