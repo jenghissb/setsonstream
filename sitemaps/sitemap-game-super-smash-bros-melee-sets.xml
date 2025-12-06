@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97089791/</loc>
-  <lastmod>2025-12-06T07:19:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97088811/</loc>
+  <lastmod>2025-12-06T07:38:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852604/image-5a0e7d892eb2bd1a6f4020a644f1481f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Red Bull IFM | aMSa vs FLY | Jmook, Nounsvitational 2025 Tokyo - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Red Bull IFM | aMSa vs FLY | Jmook in Round 4 of Nounsvitational 2025 Tokyo, streamed by VGBootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636594496&amp;t=3h36m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>667</video:duration>
+    <video:publication_date>2025-12-06T07:38:40.000Z</video:publication_date>
+    <video:uploader>VGBootcamp</video:uploader>
+    <video:expiration_date>2025-12-14T07:38:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97089791/</loc>
+  <lastmod>2025-12-06T07:43:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636594496&amp;t=3h16m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1268</video:duration>
+    <video:duration>1145</video:duration>
     <video:publication_date>2025-12-06T07:19:31.000Z</video:publication_date>
     <video:uploader>VGBootcamp</video:uploader>
     <video:expiration_date>2025-12-14T07:19:31.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-16T03:10:02.000Z</video:publication_date>
     <video:uploader>raviannn</video:uploader>
     <video:expiration_date>2025-11-24T03:10:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/socal-sweep/set/96371525/</loc>
-  <lastmod>2025-11-16T03:46:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/827555/image-131a7533ee375d1fc7ba62a084efd521.png
-    </video:thumbnail_loc>
-    <video:title>
-      GGC | Gooms vs Aerius, SoCal Sweep - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GGC | Gooms vs Aerius in Winners Quarter-Final of SoCal Sweep, streamed by btssmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619347611&amp;t=7h26m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1381</video:duration>
-    <video:publication_date>2025-11-16T03:00:52.000Z</video:publication_date>
-    <video:uploader>btssmash</video:uploader>
-    <video:expiration_date>2025-11-24T03:00:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
