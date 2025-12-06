@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/galactic-sessions-2-2025-2026/set/97121815/</loc>
+  <lastmod>2025-12-06T19:46:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855692/image-82511cedad90bb20f5d6574facf4e70e.png
+    </video:thumbnail_loc>
+    <video:title>
+      NTSC | Jess vs ShadyManiac, Galactic Sessions #2 - 2025-2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NTSC | Jess vs ShadyManiac in Round 3 of Galactic Sessions #2 - 2025-2026, streamed by association_ntsc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636847150&amp;t=6h31m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>220</video:duration>
+    <video:publication_date>2025-12-06T19:46:14.000Z</video:publication_date>
+    <video:uploader>association_ntsc</video:uploader>
+    <video:expiration_date>2025-12-14T19:46:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/galactic-sessions-2-2025-2026/set/97121319/</loc>
   <lastmod>2025-12-06T19:24:02.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-19T01:25:04.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-11-27T01:25:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-127/set/96491393/</loc>
-  <lastmod>2025-11-19T01:39:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853603/image-2ba703a60e2cceab3d1f485a31b7cf9c.png
-    </video:thumbnail_loc>
-    <video:title>
-      860 | Kite vs CT3 | T3, HoG: Dragon #127 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 860 | Kite vs CT3 | T3 in Winners Semi-Final of HoG: Dragon #127, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622119859&amp;t=0h56m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>494</video:duration>
-    <video:publication_date>2025-11-19T01:20:51.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-27T01:20:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
