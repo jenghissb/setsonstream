@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-52/set/97133640/</loc>
-  <lastmod>2025-12-06T22:26:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-52/set/97133670/</loc>
+  <lastmod>2025-12-06T22:42:58.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855130/image-118277166d11dccfa221ecc5144f6064.png
+    </video:thumbnail_loc>
+    <video:title>
+      Paid Actor vs semi, Lunatic Perilune #52 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Paid Actor vs semi in Losers Quarter-Final of Lunatic Perilune #52, streamed by lunarphaselive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637231592&amp;t=0h46m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>390</video:duration>
+    <video:publication_date>2025-12-06T22:42:58.000Z</video:publication_date>
+    <video:uploader>lunarphaselive</video:uploader>
+    <video:expiration_date>2025-12-14T22:42:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-52/set/97133640/</loc>
+  <lastmod>2025-12-06T22:45:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2637231592&amp;t=0h30m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>462</video:duration>
+    <video:duration>573</video:duration>
     <video:publication_date>2025-12-06T22:26:46.000Z</video:publication_date>
     <video:uploader>lunarphaselive</video:uploader>
     <video:expiration_date>2025-12-14T22:26:46.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-02T02:27:48.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-11-10T02:27:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/genesis-black-at-guildhouse-2025/set/95788770/</loc>
-  <lastmod>2025-11-02T03:00:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820767/image-b2d9fb49c53b0d88da93545bda93c2de.png
-    </video:thumbnail_loc>
-    <video:title>
-      Vermillion vs Elysian, GENESIS: BLACK at Guildhouse 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Vermillion vs Elysian in Winners Semi-Final of GENESIS: BLACK at Guildhouse 2025, streamed by Guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607196714&amp;t=6h47m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1542</video:duration>
-    <video:publication_date>2025-11-02T02:10:16.000Z</video:publication_date>
-    <video:uploader>Guildhouse</video:uploader>
-    <video:expiration_date>2025-11-10T02:10:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
