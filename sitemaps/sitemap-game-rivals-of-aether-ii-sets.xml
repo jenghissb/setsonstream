@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-208/set/97080306/</loc>
+  <lastmod>2025-12-06T02:03:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858557/image-24ecc1b09a59719b0517490a18263774.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tiki vs GP | dracon_bullarum, Smash Night at Prodigy #208 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tiki vs GP | dracon_bullarum in Losers Quarter-Final of Smash Night at Prodigy #208, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636447433&amp;t=0h37m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>837</video:duration>
+    <video:publication_date>2025-12-06T01:30:52.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2025-12-14T01:30:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-49/set/97050456/</loc>
   <lastmod>2025-12-05T04:12:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-15T03:27:59.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2025-11-23T03:27:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-prowling-grounds-112-off-week/set/96272579/</loc>
-  <lastmod>2025-11-15T04:11:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851615/image-bc52a7177d36332bd0c2e06b0bf036c4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Play NAIR | Teridax vs Julie, The Prowling Grounds 112 Off-Week - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Play NAIR | Teridax vs Julie in Winners Final of The Prowling Grounds 112 Off-Week, streamed by ritsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2618625084&amp;t=2h59m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1137</video:duration>
-    <video:publication_date>2025-11-15T03:19:06.000Z</video:publication_date>
-    <video:uploader>ritsmashclub</video:uploader>
-    <video:expiration_date>2025-11-23T03:19:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
