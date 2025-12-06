@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-6-1/set/97105364/</loc>
-  <lastmod>2025-12-06T15:07:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-13-bh3-x-joystick/set/97100890/</loc>
+  <lastmod>2025-12-06T15:39:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848025/image-de269d523e33ecf7a431b2c8d5a5438d.jpg
+      https://images.start.gg/images/tournament/853421/image-6cb0c95bd5b60cd92498b935e590397b.jpg
     </video:thumbnail_loc>
     <video:title>
-      2B | Leif vs Justplay, Arca-Sys #6 - Sets on Stream
+      Noponleon vs BH3 | Rex, Monthly FGC#13 - BH3 x JOYSTICK - Sets on Stream
     </video:title>
     <video:description>
-      Watch 2B | Leif vs Justplay in Losers Quarter-Final of Arca-Sys #6, streamed by justplayfly
+      Watch Noponleon vs BH3 | Rex in Winners Semi-Final of Monthly FGC#13 - BH3 x JOYSTICK, streamed by bh3_esport
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636838291&amp;t=2h8m9s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2636801282&amp;t=3h50m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1441</video:duration>
-    <video:publication_date>2025-12-06T15:07:21.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2025-12-14T15:07:21.000Z</video:expiration_date>
+    <video:duration>637</video:duration>
+    <video:publication_date>2025-12-06T15:39:17.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2025-12-14T15:39:17.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -46,6 +46,30 @@
     <video:publication_date>2025-12-06T15:10:28.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-12-14T15:10:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-6-1/set/97105364/</loc>
+  <lastmod>2025-12-06T15:40:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848025/image-de269d523e33ecf7a431b2c8d5a5438d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      2B | Leif vs Justplay, Arca-Sys #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 2B | Leif vs Justplay in Losers Quarter-Final of Arca-Sys #6, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636838291&amp;t=2h8m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1314</video:duration>
+    <video:publication_date>2025-12-06T15:07:21.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2025-12-14T15:07:21.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-09T19:12:22.000Z</video:publication_date>
     <video:uploader>supercombogg</video:uploader>
     <video:expiration_date>2025-11-17T19:12:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/wfgc-11-08-2025-monthly-1/set/96066551/</loc>
-  <lastmod>2025-11-09T04:23:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838597/image-549b9094da87a86e7db7b569e649e3bf.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jeezi vs 7STRN | madam gup, WFGC 11/08/2025 Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jeezi vs 7STRN | madam gup in Losers Final of WFGC 11/08/2025 Monthly, streamed by wfgc02
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613275988&amp;t=7h19m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1107</video:duration>
-    <video:publication_date>2025-11-09T03:57:49.000Z</video:publication_date>
-    <video:uploader>wfgc02</video:uploader>
-    <video:expiration_date>2025-11-17T03:57:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
