@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/reignited-87/set/97093433/</loc>
-  <lastmod>2025-12-06T05:07:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-100/set/97092046/</loc>
+  <lastmod>2025-12-06T05:18:34.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855088/image-ccd39b4e5db8ae128b1504efbfffbf96.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PAR | Zane vs dave, SoCal Colosseum #100 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PAR | Zane vs dave in Grand Final of SoCal Colosseum #100, streamed by kondo3
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636564706&amp;t=1h57m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>978</video:duration>
+    <video:publication_date>2025-12-06T05:18:34.000Z</video:publication_date>
+    <video:uploader>kondo3</video:uploader>
+    <video:expiration_date>2025-12-14T05:18:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/reignited-87/set/97093433/</loc>
+  <lastmod>2025-12-06T05:18:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636493476&amp;t=3h18m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>467</video:duration>
+    <video:duration>477</video:duration>
     <video:publication_date>2025-12-06T05:07:58.000Z</video:publication_date>
     <video:uploader>asuesportsofficial</video:uploader>
     <video:expiration_date>2025-12-14T05:07:58.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-100/set/97092060/</loc>
-  <lastmod>2025-12-06T04:52:45.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T05:18:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636564706&amp;t=1h31m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1380</video:duration>
+    <video:duration>1531</video:duration>
     <video:publication_date>2025-12-06T04:52:45.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-12-14T04:52:45.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-10-25T20:23:52.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2025-11-02T20:23:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/oktoberfist-x/set/95438056/</loc>
-  <lastmod>2025-10-25T17:40:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815843/image-1e8c87f03b3cf0994977184087c3c2be.png
-    </video:thumbnail_loc>
-    <video:title>
-      GATK | Crothers vs RDE | Pizza time, Oktoberfist X - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GATK | Crothers vs RDE | Pizza time in Losers Final of Oktoberfist X, streamed by giantattackdundee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2600911675&amp;t=4h40m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1489</video:duration>
-    <video:publication_date>2025-10-25T16:50:18.000Z</video:publication_date>
-    <video:uploader>giantattackdundee</video:uploader>
-    <video:expiration_date>2025-11-02T16:50:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
