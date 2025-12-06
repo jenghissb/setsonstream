@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124771/</loc>
-  <lastmod>2025-12-06T21:16:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124832/</loc>
+  <lastmod>2025-12-06T21:28:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      BUNK | Nub vs NS | Kami99, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BUNK | Nub vs NS | Kami99 in Losers Round 5 of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=4h40m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>733</video:duration>
+    <video:publication_date>2025-12-06T21:28:20.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T21:28:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124771/</loc>
+  <lastmod>2025-12-06T21:34:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636982961&amp;t=4h28m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>835</video:duration>
+    <video:duration>724</video:duration>
     <video:publication_date>2025-12-06T21:16:10.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-12-14T21:16:10.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-15T01:27:45.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-23T01:27:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-132/set/96262658/</loc>
-  <lastmod>2025-11-15T01:36:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852139/image-89437ad45d239af995d4a1fae492763b.png
-    </video:thumbnail_loc>
-    <video:title>
-      SLG | Tyler vs CRAB | Helms, HoG: Moonlight #132 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SLG | Tyler vs CRAB | Helms in Winners Quarter-Final of HoG: Moonlight #132, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2618626380&amp;t=0h25m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>691</video:duration>
-    <video:publication_date>2025-11-15T00:47:19.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-23T00:47:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
