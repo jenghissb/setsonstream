@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-december-2025/set/97128782/</loc>
-  <lastmod>2025-12-06T20:34:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-december-2025/set/97128785/</loc>
+  <lastmod>2025-12-06T20:47:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853266/image-5ab429a25e3a842a76c864e6c72e3164.png
+    </video:thumbnail_loc>
+    <video:title>
+      Revenant vs Rize, Colorado Mile High Burst Monthly December 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Revenant vs Rize in Winners Quarter-Final of Colorado Mile High Burst Monthly December 2025, streamed by akihabaraarcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637119014&amp;t=1h11m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>130</video:duration>
+    <video:publication_date>2025-12-06T20:47:21.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade</video:uploader>
+    <video:expiration_date>2025-12-14T20:47:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-december-2025/set/97128782/</loc>
+  <lastmod>2025-12-06T20:48:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2637119014&amp;t=0h58m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>349</video:duration>
+    <video:duration>448</video:duration>
     <video:publication_date>2025-12-06T20:34:17.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2025-12-14T20:34:17.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-19T01:37:35.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-11-27T01:37:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-127/set/96491423/</loc>
-  <lastmod>2025-11-19T01:48:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853603/image-2ba703a60e2cceab3d1f485a31b7cf9c.png
-    </video:thumbnail_loc>
-    <video:title>
-      VashTS vs TRICKY | morg, HoG: Dragon #127 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VashTS vs TRICKY | morg in Losers Quarter-Final of HoG: Dragon #127, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622119859&amp;t=1h4m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>642</video:duration>
-    <video:publication_date>2025-11-19T01:28:40.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-27T01:28:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

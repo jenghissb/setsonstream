@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124759/</loc>
-  <lastmod>2025-12-06T20:26:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124769/</loc>
+  <lastmod>2025-12-06T20:38:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
     </video:thumbnail_loc>
     <video:title>
-      OMG | Necron | Esteemed_Ruffian vs Rossa, Plus Mids #5 - Sets on Stream
+      SGifto73 vs BUNK | Nub, Plus Mids #5 - Sets on Stream
     </video:title>
     <video:description>
-      Watch OMG | Necron | Esteemed_Ruffian vs Rossa in Winners Round 2 of Plus Mids #5, streamed by just_mids
+      Watch SGifto73 vs BUNK | Nub in Winners Quarter-Final of Plus Mids #5, streamed by just_mids
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636982961&amp;t=3h38m52s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2636982961&amp;t=3h50m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>811</video:duration>
-    <video:publication_date>2025-12-06T20:26:36.000Z</video:publication_date>
+    <video:duration>669</video:duration>
+    <video:publication_date>2025-12-06T20:38:22.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2025-12-14T20:26:36.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-14T20:38:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-triple-crown-3-hosted-by-game-grove/set/97119048/</loc>
+  <lastmod>2025-12-06T20:38:35.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841175/image-fa2f6cca646e30b442a6a4d0241b0932.png
+    </video:thumbnail_loc>
+    <video:title>
+      AOC | Help? vs Lil Gummy, The Triple Crown #3- Hosted By Game Grove - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AOC | Help? vs Lil Gummy in Grand Final of The Triple Crown #3- Hosted By Game Grove, streamed by GameGroveWV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637044630&amp;t=2h33m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>656</video:duration>
+    <video:publication_date>2025-12-06T20:38:35.000Z</video:publication_date>
+    <video:uploader>GameGroveWV</video:uploader>
+    <video:expiration_date>2025-12-14T20:38:35.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-triple-crown-3-hosted-by-game-grove/set/97119079/</loc>
-  <lastmod>2025-12-06T20:28:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T20:46:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2637044630&amp;t=2h23m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>725</video:duration>
+    <video:duration>624</video:duration>
     <video:publication_date>2025-12-06T20:28:02.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2025-12-14T20:28:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124759/</loc>
+  <lastmod>2025-12-06T20:46:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      OMG | Necron | Esteemed_Ruffian vs Rossa, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OMG | Necron | Esteemed_Ruffian vs Rossa in Winners Round 2 of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=3h38m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>697</video:duration>
+    <video:publication_date>2025-12-06T20:26:36.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T20:26:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4750,54 +4798,6 @@
     <video:publication_date>2025-11-14T01:15:26.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-11-22T01:15:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-53-guilty-gear-strive/set/96215798/</loc>
-  <lastmod>2025-11-14T01:52:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850608/image-46377959d09a75aac3e8396bbde5475c.png
-    </video:thumbnail_loc>
-    <video:title>
-      JM | Hotline vs Fat Goomba, Just Mids #53: Guilty Gear Strive - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JM | Hotline vs Fat Goomba in Losers Quarter-Final of Just Mids #53: Guilty Gear Strive, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2617704906&amp;t=1h46m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>744</video:duration>
-    <video:publication_date>2025-11-14T01:10:51.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2025-11-22T01:10:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-53-guilty-gear-strive/set/96215796/</loc>
-  <lastmod>2025-11-14T01:21:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850608/image-46377959d09a75aac3e8396bbde5475c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fat Goomba vs ABARE, Just Mids #53: Guilty Gear Strive - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fat Goomba vs ABARE in Losers Round 2 of Just Mids #53: Guilty Gear Strive, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2617704906&amp;t=1h21m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>674</video:duration>
-    <video:publication_date>2025-11-14T00:45:47.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2025-11-22T00:45:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
