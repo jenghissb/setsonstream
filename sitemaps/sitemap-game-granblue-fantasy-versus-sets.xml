@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115135/</loc>
-  <lastmod>2025-12-06T17:00:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115149/</loc>
+  <lastmod>2025-12-06T17:16:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,72 @@
       https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
     </video:thumbnail_loc>
     <video:title>
-      BigHandSam vs holly | monorail, Plus Mids #5 - Sets on Stream
+      BogeyAppreciator vs ahoyshmee, Plus Mids #5 - Sets on Stream
     </video:title>
     <video:description>
-      Watch BigHandSam vs holly | monorail in Winners Round 1 of Plus Mids #5, streamed by just_mids
+      Watch BogeyAppreciator vs ahoyshmee in Winners Round 2 of Plus Mids #5, streamed by just_mids
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636982961&amp;t=0h13m6s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2636982961&amp;t=0h29m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>773</video:duration>
-    <video:publication_date>2025-12-06T17:00:50.000Z</video:publication_date>
+    <video:duration>823</video:duration>
+    <video:publication_date>2025-12-06T17:16:52.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2025-12-14T17:00:50.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-14T17:16:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-6-1/set/97106692/</loc>
+  <lastmod>2025-12-06T17:19:00.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848025/image-de269d523e33ecf7a431b2c8d5a5438d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Melliodama vs Ryori, Arca-Sys #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Melliodama vs Ryori in Losers Semi-Final of Arca-Sys #6, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636838291&amp;t=4h19m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>695</video:duration>
+    <video:publication_date>2025-12-06T17:19:00.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2025-12-14T17:19:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115150/</loc>
+  <lastmod>2025-12-06T17:25:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      EDLN|FISH|YURI | Boombak vs SFGC | S4lt1ne, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EDLN|FISH|YURI | Boombak vs SFGC | S4lt1ne in Winners Round 2 of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=0h22m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>458</video:duration>
+    <video:publication_date>2025-12-06T17:10:15.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T17:10:15.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-6-1/set/97106629/</loc>
-  <lastmod>2025-12-06T17:02:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T17:25:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636838291&amp;t=4h2m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>698</video:duration>
+    <video:duration>1005</video:duration>
     <video:publication_date>2025-12-06T17:02:05.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-12-14T17:02:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115135/</loc>
+  <lastmod>2025-12-06T17:14:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      BigHandSam vs holly | monorail, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BigHandSam vs holly | monorail in Winners Round 1 of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=0h13m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>465</video:duration>
+    <video:publication_date>2025-12-06T17:00:50.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T17:00:50.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -2566,78 +2638,6 @@
     <video:publication_date>2025-10-29T03:32:12.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2025-11-06T03:32:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-122/set/95609088/</loc>
-  <lastmod>2025-10-29T03:39:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836336/image-48dd550dce5ccd9eb2847bc3e5a5c865.png
-    </video:thumbnail_loc>
-    <video:title>
-      Malleth vs JustJewel, Magic Pixel Weekly #122 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Malleth vs JustJewel in Losers Final of Magic Pixel Weekly #122, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2604040196&amp;t=1h31m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>777</video:duration>
-    <video:publication_date>2025-10-29T03:09:07.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2025-11-06T03:09:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/hog-dragon-124/set/95606689/</loc>
-  <lastmod>2025-10-29T03:14:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845898/image-7a277c92ef3df0574c488630593a4b63.png
-    </video:thumbnail_loc>
-    <video:title>
-      Swine vs EVIL | KyokuReset, HoG: Dragon #124 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Swine vs EVIL | KyokuReset in Losers Final of HoG: Dragon #124, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2603927466&amp;t=3h16m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>766</video:duration>
-    <video:publication_date>2025-10-29T02:41:28.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-06T02:41:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-122/set/95609072/</loc>
-  <lastmod>2025-10-29T02:51:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836336/image-48dd550dce5ccd9eb2847bc3e5a5c865.png
-    </video:thumbnail_loc>
-    <video:title>
-      Malleth vs Twoinone1, Magic Pixel Weekly #122 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Malleth vs Twoinone1 in Winners Final of Magic Pixel Weekly #122, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2604040196&amp;t=0h42m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>530</video:duration>
-    <video:publication_date>2025-10-29T02:20:36.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2025-11-06T02:20:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
