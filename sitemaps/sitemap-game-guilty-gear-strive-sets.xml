@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-6-1/set/97105298/</loc>
+  <lastmod>2025-12-06T14:08:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848025/image-de269d523e33ecf7a431b2c8d5a5438d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Yuri Jumpscare vs Justplay, Arca-Sys #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yuri Jumpscare vs Justplay in Winners Quarter-Final of Arca-Sys #6, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636838291&amp;t=0h50m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1065</video:duration>
+    <video:publication_date>2025-12-06T13:49:18.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2025-12-14T13:49:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-6-1/set/97105300/</loc>
-  <lastmod>2025-12-06T13:33:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T13:58:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636838291&amp;t=0h34m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>947</video:duration>
+    <video:duration>917</video:duration>
     <video:publication_date>2025-12-06T13:33:57.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2025-12-14T13:33:57.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-09T02:17:32.000Z</video:publication_date>
     <video:uploader>bostonbluebeat</video:uploader>
     <video:expiration_date>2025-11-17T02:17:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/holiday-havoc-season-3/set/96052644/</loc>
-  <lastmod>2025-11-09T02:53:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/801122/image-e8e42f61b0417f6292c93c72d1c7d120.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Collom vs JKLY | Cobalt, Holiday Havoc Season 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Collom vs JKLY | Cobalt in Grand Final of Holiday Havoc Season 3, streamed by Akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613239435&amp;t=6h20m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>911</video:duration>
-    <video:publication_date>2025-11-09T02:16:59.000Z</video:publication_date>
-    <video:uploader>Akihabaraarcade</video:uploader>
-    <video:expiration_date>2025-11-17T02:16:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

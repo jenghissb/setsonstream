@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-13-bh3-x-joystick/set/97100938/</loc>
+  <lastmod>2025-12-06T14:08:39.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853421/image-6cb0c95bd5b60cd92498b935e590397b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RollinStuns | Envy vs zehefy, Monthly FGC#13 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RollinStuns | Envy vs zehefy in Winners Semi-Final of Monthly FGC#13 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636801282&amp;t=2h19m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>332</video:duration>
+    <video:publication_date>2025-12-06T14:08:39.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2025-12-14T14:08:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-24/set/97097494/</loc>
   <lastmod>2025-12-06T10:16:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-18T02:52:56.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-11-26T02:52:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/midwest-mixfest-25/set/96404379/</loc>
-  <lastmod>2025-11-17T01:36:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/794296/image-98a6562e4989c6d459235b9db0521ee1.png
-    </video:thumbnail_loc>
-    <video:title>
-      TheFatManatee vs Docmorales24, Midwest Mixfest &apos;25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TheFatManatee vs Docmorales24 in Losers Final of Midwest Mixfest &apos;25, streamed by TampaNeverSleeps
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2620086857&amp;t=9h21m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>544</video:duration>
-    <video:publication_date>2025-11-17T01:02:26.000Z</video:publication_date>
-    <video:uploader>TampaNeverSleeps</video:uploader>
-    <video:expiration_date>2025-11-25T01:02:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
