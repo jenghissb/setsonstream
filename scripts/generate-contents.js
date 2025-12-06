@@ -155,7 +155,7 @@ function writeBrotliFile(filePath, dataToSave) {
   fs.writeFileSync(filePath, compressedData);
 }
 
-function generatePage({templatePath, title, description, keywords, bootstrap={}, jsonLd, canonical, ogVideoUrl, ogVideoThumb}) {
+function generatePage({templatePath, title, description, keywords, bootstrap={}, jsonLd, canonical, ogVideoUrl, ogVideoThumb, noIndex=false}) {
   let html = fs.readFileSync(templatePath, "utf-8");
 
   // 1️⃣ Update <title> only
@@ -181,6 +181,13 @@ function generatePage({templatePath, title, description, keywords, bootstrap={},
       `<meta property="og:video:width" content="1280" data-rh="true"/>`+
       `<meta property="og:video:height" content="720" data-rh="true"/></body>`
     );
+  }
+  if (noIndex) {
+    html = html.replace(
+      "</body>",
+      '<meta name="robots" content="noindex"></meta></body>'
+    )
+    // '<meta name="robots" content="noindex, nofollow"></meta>'
   }
   html = html.replace(
     "</body>",
@@ -448,6 +455,7 @@ async function main() {
   }
 
   var dataArchive = readBrotliFile(dataArchivePath)
+  processData(dataArchive, true)
   // var dataArchive = JSON.parse(readFile(dataArchivePath))
   // if (dataArchive == null) {
   //   dataArchive = {}
@@ -467,6 +475,9 @@ function updateHistoricalData(dataArchive, data) {
     dataArchive[key1].combined.forEach(item => combinedMap.set(item.bracketInfo.setKey, item))
     data[key1].combined.forEach(item => combinedMap.set(item.bracketInfo.setKey, item))
     const combinedArr = Array.from(combinedMap.values())
+    combinedArr.sort((a,b) => {
+      return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+    })
     dataArchive[key1].combined = combinedArr
   })
 }
@@ -488,22 +499,24 @@ async function processData(data, forExpired=false) {
     const combined = []
     const gameVids = data[key1]
     
-    gameVids.live.sort((a,b) => {
-      return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
-    })
-    gameVids.live.forEach(item => {
-      liveSet[item.bracketInfo.setKey] = true
-      combined.push(item);
-    })
-    gameVids.vods.sort((a,b) => {
-      return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
-    })
-    gameVids.vods.forEach(item => {
-      if (!(item.bracketInfo.setKey in liveSet)) {
+    if (!forExpired) {
+      gameVids.live.sort((a,b) => {
+        return compareIntegers(a.bracketInfo.numEntrants, b.bracketInfo.numEntrants) * -1
+      })
+      gameVids.live.forEach(item => {
+        liveSet[item.bracketInfo.setKey] = true
         combined.push(item);
-      }
-    })
-    gameVids.combined = combined
+      })
+      gameVids.vods.sort((a,b) => {
+        return compareIntegers(a.bracketInfo.startedAt, b.bracketInfo.startedAt) * -1
+      })
+      gameVids.vods.forEach(item => {
+        if (!(item.bracketInfo.setKey in liveSet)) {
+          combined.push(item);
+        }
+      })
+      gameVids.combined = combined
+    }
 
     var tourneyById = {}
     var playerById = {}
@@ -698,7 +711,8 @@ async function processData(data, forExpired=false) {
           jsonLd,
           canonical,
           ogVideoUrl,
-          ogVideoThumb, 
+          ogVideoThumb,
+          noIndex: forExpired,
         })
       )
       url = `https://setsonstream.tv/game/${gameSlug}/channel/${channelName}/set/${setId}/`
@@ -714,7 +728,8 @@ async function processData(data, forExpired=false) {
           jsonLd,
           canonical,
           ogVideoUrl,
-          ogVideoThumb, 
+          ogVideoThumb,
+          noIndex: forExpired,
         })
       )
       if (player1Slug != null) {
@@ -732,6 +747,7 @@ async function processData(data, forExpired=false) {
             canonical,
             ogVideoUrl,
             ogVideoThumb, 
+            noIndex: forExpired,
           })
         )
       }
@@ -750,6 +766,7 @@ async function processData(data, forExpired=false) {
             canonical,
             ogVideoUrl,
             ogVideoThumb, 
+            noIndex: forExpired,
           })
         )
       }
@@ -767,6 +784,7 @@ async function processData(data, forExpired=false) {
           canonical,
           ogVideoUrl,
           ogVideoThumb, 
+          noIndex: forExpired,
         })
       )
       charNames.forEach(charName => {
@@ -783,7 +801,8 @@ async function processData(data, forExpired=false) {
             jsonLd,
             canonical,
             ogVideoUrl,
-            ogVideoThumb, 
+            ogVideoThumb,
+            noIndex: forExpired,
           })
         )
       })
@@ -851,6 +870,7 @@ async function processData(data, forExpired=false) {
             keywords: `${item.bracketInfo.tourneyName}, ${key}, ${tourneySlug}, ${keywords}`,
             bootstrap,
             jsonLd,
+            noIndex: forExpired,
           })
         )
       }
@@ -909,8 +929,6 @@ async function processData(data, forExpired=false) {
       }
     })
   }
-
-
   
   // for (const game of games) {
   //   const gameDir = path.join(DIST_DIR, "game", game.id);

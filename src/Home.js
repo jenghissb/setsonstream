@@ -1426,12 +1426,15 @@ function MainComponent({homeMode, homeType, darkMode}) {
   }
   var itemKey = currentItemKey
   if (displayData.length > 0) {
-    if (itemKey == null) {
+    if (setMatch) {
+      // keep key
+    } else if (itemKey == null) {
       itemKey = displayData[0].bracketInfo.setKey
     } else if (!displayDataHasItemKey(displayData, itemKey)) {
       itemKey = displayData[0].bracketInfo.setKey
     }
   }
+
   var dropdownSuggestions = getDropdownSuggestions(data, filterInfo.currentGameId)
   var routeInfo = getRouteInfoFromSuggestions(homeType, params, dropdownSuggestions)
   const useHomeTypeLists = homeType === HomeTypes.HOME //homeType in [HomeTypes.HOME]
@@ -1504,7 +1507,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   if (useVideoIn.panel == true) {
     if (displayData.length > 0) {
       previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
-    } else if (setMatch) {
+    }
+    if (previewItem == null && setMatch) {
       previewItem = setMatch
     }
     const prevPreviewInfo = prevPreviewInfoRef.current
@@ -1534,7 +1538,10 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const shouldShowNoDataOver = shouldShowNoData && homeMode == HomeModes.FULLMAP
   if (homeMode != HomeModes.FULLMAP) {
     if (shouldShowNoData) {
-      noData = NoData(showVodsMode, setShowVodsMode, false, sayNoMatch)
+      const isBootstrapMatch = bootstrapMatchesCat(bootstrapInfo, homeType, params)
+      const bootstrapStr = isBootstrapMatch && getNoDataBootstrapString(homeType, params)
+      const bootstrapStr2 = isBootstrapMatch && getNoDataBootstrapString2(homeType, params)
+      noData = NoData(showVodsMode, setShowVodsMode, false, sayNoMatch, bootstrapStr, bootstrapStr2)
     } else {
       afterData = AfterData(showVodsMode, setShowVodsMode)
     }
@@ -1789,6 +1796,24 @@ const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoI
     {...{showItemMatches: true, padding: isRightPane? "0px": "4px", parentRef, parentRefCurrent:parentRef.current, items:jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
   />
 })
+
+function bootstrapMatchesCat(bootstrapInfo, homeType, params) {
+  const { gameParam, charParam, playerParam, tourneyParam, channelParam, searchParam, setParam } = params
+  var bootstrapMatches = false
+  switch(homeType) {
+    case HomeTypes.PLAYER:
+      bootstrapMatches = playerParam && playerParam == bootstrapInfo?.userSlug
+      break
+    case HomeTypes.TOURNAMENT:
+      bootstrapMatches = tourneyParam && tourneyParam == bootstrapInfo?.tourneySlug
+      break
+    case HomeTypes.CHANNEL:
+      bootstrapMatches = channelParam && channelParam == bootstrapInfo?.channelName
+      break
+    default:
+  }
+  return bootstrapMatches
+}
 
 function RouteInfo({homeType, params, setMatch, bootstrapInfo, routeInfo, filterInfo, dropdownSuggestions, onFavorite, openGameFilter}) {
   const routeName = getRouteName(homeType, params)
@@ -2103,7 +2128,32 @@ function Leafy(data, tourneyById, filterInfo, itemKey,  useLiveStream, showVodsM
     return <LeafMap {...{data, tourneyById, itemKey, gameId, filterType, timeRange, topOffset, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoInPopup, width, height, useFullView:homeMode === HomeModes.FULLMAP, showTimeScale: showTimeScale, streamSubIndex, setStreamSubIndex, vidWidth:mainVideoDim.width, vidHeight:mainVideoDim.height, onTimeRangeChanged, rewindReady, setUseLiveStream, handleTimestampChange, handleReady }}/>
 }
 
-function NoData(showVodsMode, setShowVodsMode, overMap, sayNoMatch) {
+function getNoDataBootstrapString(homeType) {
+  switch(homeType) {
+    case HomeTypes.PLAYER:
+      return "No recent sets found for player, check again in the future"
+    case HomeTypes.TOURNAMENT:
+      return "Tournament sets expired"
+    case HomeTypes.CHANNEL:
+      return "No sets found for channel currently, check again in the future"
+    default:
+      return null
+  }
+}
+function getNoDataBootstrapString2(homeType) {
+  switch(homeType) {
+    case HomeTypes.PLAYER:
+      return "Try searching another player, character, or tournament"
+    case HomeTypes.TOURNAMENT:
+      return "Try searching another tournament or channel!"
+    case HomeTypes.CHANNEL:
+      return "Try searching another channel, tournament, or character"
+    default:
+      return null
+  }
+}
+
+function NoData(showVodsMode, setShowVodsMode, overMap, sayNoMatch, bootstrapStr, bootstrapStr2) {
 
   var vodPrompt = null
   const textClassName = "home2app-inform" + (overMap? " home2app-inform-overMap" : "")
@@ -2111,10 +2161,12 @@ function NoData(showVodsMode, setShowVodsMode, overMap, sayNoMatch) {
     var vodPrompt = <span className={textClassName}><br/><p>Try watching <u onClick={() => setShowVodsMode(true)}>Recent sets</u> instead</p></span>
   }
   const firstLineText = sayNoMatch ? "No sets match" : "No sets found"
+  const secondLineText = bootstrapStr ? bootstrapStr : "Refresh again later to try again"
+  const thirdLineText = bootstrapStr2 ? bootstrapStr2 : "Some times of day have no sets sometimes, like after PST hours but before JST hours (pacific ocean is big)"
   return <div>
     <span className={textClassName}>{firstLineText}</span><br/>
-    <span className={textClassName}>Refresh again later to try again</span><br/>
-    <span className={textClassName}>Some times of day have no sets sometimes, like after PST hours but before JST hours (pacific ocean is big) </span>
+    <span className={textClassName}>{secondLineText}</span><br/>
+    <span className={textClassName}>{thirdLineText}</span>
     {vodPrompt}
   </div>
 }

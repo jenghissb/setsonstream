@@ -38,7 +38,7 @@ jobs:
           if git diff-index --quiet HEAD; then
             echo "No changes in data/dataArchive.json.br to commit. Exiting."
           else
-            git commit -m "Auto-generated update to dataArchive.json.br from cron job"
+            git commit -m "Auto-generated update to dataArchive.json.br"
             git push
             echo "Changes in data/dataArchive.json.br committed and pushed."
           fi
