@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-100/set/97091991/</loc>
+  <lastmod>2025-12-06T06:32:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855088/image-ccd39b4e5db8ae128b1504efbfffbf96.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      EDGE | Lēʻahi(EDGE | L EDGE | L EDGE | Lahi) vs YoKai | SCS | Botan, SoCal Colosseum #100 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EDGE | Lēʻahi(EDGE | L EDGE | L EDGE | Lahi) vs YoKai | SCS | Botan in Losers Final of SoCal Colosseum #100, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636578596&amp;t=2h34m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>751</video:duration>
+    <video:publication_date>2025-12-06T06:14:34.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-12-14T06:14:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-100/set/97091990/</loc>
-  <lastmod>2025-12-06T05:57:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T06:23:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636578596&amp;t=2h17m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1491</video:duration>
+    <video:duration>1015</video:duration>
     <video:publication_date>2025-12-06T05:57:29.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-12-14T05:57:29.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-09T01:47:42.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-11-17T01:47:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/boston-blue-beat-ver-november-2025/set/96052182/</loc>
-  <lastmod>2025-11-09T02:25:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839164/image-e3519db2eff31f1c20560092837a45c8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      EVIL | KyokuReset vs TROLLGANG | Itsy Bee, Boston Blue Beat ver. November 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EVIL | KyokuReset vs TROLLGANG | Itsy Bee in Winners Final of Boston Blue Beat ver. November 2025, streamed by bostonbluebeat
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613301975&amp;t=4h34m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>635</video:duration>
-    <video:publication_date>2025-11-09T01:44:27.000Z</video:publication_date>
-    <video:uploader>bostonbluebeat</video:uploader>
-    <video:expiration_date>2025-11-17T01:44:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
