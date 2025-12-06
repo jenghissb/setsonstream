@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-13-bh3-x-joystick/set/97100893/</loc>
+  <lastmod>2025-12-06T17:11:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853421/image-6cb0c95bd5b60cd92498b935e590397b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Noponleon vs DimenSyoHarmonia, Monthly FGC#13 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Noponleon vs DimenSyoHarmonia in Grand Final of Monthly FGC#13 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636801282&amp;t=5h5m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>870</video:duration>
+    <video:publication_date>2025-12-06T16:55:03.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2025-12-14T16:55:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-13-bh3-x-joystick/set/97100924/</loc>
-  <lastmod>2025-12-06T16:47:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T17:00:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636801282&amp;t=4h58m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>360</video:duration>
+    <video:duration>414</video:duration>
     <video:publication_date>2025-12-06T16:47:58.000Z</video:publication_date>
     <video:uploader>bh3_esport</video:uploader>
     <video:expiration_date>2025-12-14T16:47:58.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-13T01:35:07.000Z</video:publication_date>
     <video:uploader>edgegamerslounge</video:uploader>
     <video:expiration_date>2025-11-21T01:35:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/seasons-edge-59/set/96177832/</loc>
-  <lastmod>2025-11-13T01:45:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850132/image-93f51a2e3c4d40d2984c38a8e9a242e3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ganeon vs Cy, Seasons Edge 59 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ganeon vs Cy in Winners Final of Seasons Edge 59, streamed by edgegamerslounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2616909627&amp;t=1h2m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>688</video:duration>
-    <video:publication_date>2025-11-13T01:10:53.000Z</video:publication_date>
-    <video:uploader>edgegamerslounge</video:uploader>
-    <video:expiration_date>2025-11-21T01:10:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
