@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/brawl-and-bites-at-bobby-v-s-2/set/97139603/</loc>
-  <lastmod>2025-12-06T22:43:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-35/set/97134034/</loc>
+  <lastmod>2025-12-06T22:59:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854330/image-9f36d5bdae246f3fb2c5e91e142c9b6c.png
+    </video:thumbnail_loc>
+    <video:title>
+      HTL | Clam vs SUMRT1ME, RDU Tekken Monthly #35 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HTL | Clam vs SUMRT1ME in Grand Final of RDU Tekken Monthly #35, streamed by rdutekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637079537&amp;t=4h9m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>894</video:duration>
+    <video:publication_date>2025-12-06T22:59:57.000Z</video:publication_date>
+    <video:uploader>rdutekken</video:uploader>
+    <video:expiration_date>2025-12-14T22:59:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/brawl-and-bites-at-bobby-v-s-2/set/97139603/</loc>
+  <lastmod>2025-12-06T23:03:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2637244296&amp;t=0h30m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>370</video:duration>
+    <video:duration>504</video:duration>
     <video:publication_date>2025-12-06T22:43:18.000Z</video:publication_date>
     <video:uploader>gamersguildct</video:uploader>
     <video:expiration_date>2025-12-14T22:43:18.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-22T12:57:10.000Z</video:publication_date>
     <video:uploader>Vslashesports</video:uploader>
     <video:expiration_date>2025-11-30T12:57:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/emirates-showdown-2025/set/96626076/</loc>
-  <lastmod>2025-11-22T12:18:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/778358/image-37d8a9e436f14986cb0d6cac44b95c0d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      RiyadhSmashers | ZanZa vs Geppetto AE, Emirates Showdown 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RiyadhSmashers | ZanZa vs Geppetto AE in Winners Semi-Final of Emirates Showdown 2025, streamed by Vslashesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624955237&amp;t=3h31m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>342</video:duration>
-    <video:publication_date>2025-11-22T12:02:44.000Z</video:publication_date>
-    <video:uploader>Vslashesports</video:uploader>
-    <video:expiration_date>2025-11-30T12:02:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
