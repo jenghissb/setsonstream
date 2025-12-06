@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115161/</loc>
+  <lastmod>2025-12-06T20:14:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      TF | HUEBERT vs EDLN|FISH|YURI | Boombak, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TF | HUEBERT vs EDLN|FISH|YURI | Boombak in Grand Final of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=3h5m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>532</video:duration>
+    <video:publication_date>2025-12-06T19:52:57.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T19:52:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115224/</loc>
-  <lastmod>2025-12-06T19:37:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T20:01:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636982961&amp;t=2h49m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>756</video:duration>
+    <video:duration>934</video:duration>
     <video:publication_date>2025-12-06T19:37:18.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-12-14T19:37:18.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-02T00:43:49.000Z</video:publication_date>
     <video:uploader>getgoodfgc</video:uploader>
     <video:expiration_date>2025-11-10T00:43:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-27/set/95778746/</loc>
-  <lastmod>2025-11-02T01:15:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839826/image-40d5b503b1e68a1284a0dd29a88a86d3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      IRONGOD vs Zero-G | belialfan69, SoCal Colosseum Clash #27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch IRONGOD vs Zero-G | belialfan69 in Winners Quarter-Final of SoCal Colosseum Clash #27, streamed by kondo3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607421917&amp;t=0h38m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1037</video:duration>
-    <video:publication_date>2025-11-02T00:39:08.000Z</video:publication_date>
-    <video:uploader>kondo3</video:uploader>
-    <video:expiration_date>2025-11-10T00:39:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
