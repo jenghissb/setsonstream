@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97088816/</loc>
-  <lastmod>2025-12-06T08:35:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97088820/</loc>
+  <lastmod>2025-12-06T08:46:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852604/image-5a0e7d892eb2bd1a6f4020a644f1481f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Free Agent | Trif vs Goodie, Nounsvitational 2025 Tokyo - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Free Agent | Trif vs Goodie in Round 6 of Nounsvitational 2025 Tokyo, streamed by VGBootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636594496&amp;t=4h43m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>563</video:duration>
+    <video:publication_date>2025-12-06T08:46:31.000Z</video:publication_date>
+    <video:uploader>VGBootcamp</video:uploader>
+    <video:expiration_date>2025-12-14T08:46:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97088816/</loc>
+  <lastmod>2025-12-06T08:54:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636577082&amp;t=4h57m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>613</video:duration>
+    <video:duration>816</video:duration>
     <video:publication_date>2025-12-06T08:35:14.000Z</video:publication_date>
     <video:uploader>NounsEsports</video:uploader>
     <video:expiration_date>2025-12-14T08:35:14.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97089798/</loc>
-  <lastmod>2025-12-06T08:33:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T08:54:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636594496&amp;t=4h30m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>728</video:duration>
+    <video:duration>785</video:duration>
     <video:publication_date>2025-12-06T08:33:19.000Z</video:publication_date>
     <video:uploader>VGBootcamp</video:uploader>
     <video:expiration_date>2025-12-14T08:33:19.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-17T19:25:03.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-11-25T19:25:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-85/set/96442337/</loc>
-  <lastmod>2025-11-17T19:25:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851844/image-607ed144998bfaba3dcff316f1d583a6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      djellaba luffy vs RedScipio, KnockOut Zone #85 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch djellaba luffy vs RedScipio in Winners Quarter-Final of KnockOut Zone #85, streamed by orbitalgoats
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2621017476&amp;t=0h54m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>669</video:duration>
-    <video:publication_date>2025-11-17T19:05:51.000Z</video:publication_date>
-    <video:uploader>orbitalgoats</video:uploader>
-    <video:expiration_date>2025-11-25T19:05:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
