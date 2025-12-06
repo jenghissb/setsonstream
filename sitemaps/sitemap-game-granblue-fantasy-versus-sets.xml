@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115221/</loc>
+  <lastmod>2025-12-06T19:02:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      EDLN|FISH|YURI | Boombak vs 4Ender | EDLN | AuVerity, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EDLN|FISH|YURI | Boombak vs 4Ender | EDLN | AuVerity in Losers Quarter-Final of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=1h55m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>561</video:duration>
+    <video:publication_date>2025-12-06T18:43:22.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T18:43:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-5/set/97115220/</loc>
-  <lastmod>2025-12-06T18:31:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-06T18:51:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636982961&amp;t=1h44m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>893</video:duration>
+    <video:duration>675</video:duration>
     <video:publication_date>2025-12-06T18:31:51.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-12-14T18:31:51.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-01T16:49:54.000Z</video:publication_date>
     <video:uploader>maxmode_fgc</video:uploader>
     <video:expiration_date>2025-11-09T16:49:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/dreamhack-atlanta-2025/set/95736377/</loc>
-  <lastmod>2025-11-01T16:55:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809964/image-31b40c15fb8669e13e2d5f0d497c1102.png
-    </video:thumbnail_loc>
-    <video:title>
-      ONi | BlueSkyGuyBSG vs PM/MA | EdGoneBad, DreamHack Atlanta 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ONi | BlueSkyGuyBSG vs PM/MA | EdGoneBad in Winners Final of DreamHack Atlanta 2025, streamed by maxmode_fgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2607037798&amp;t=0h16m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>940</video:duration>
-    <video:publication_date>2025-11-01T16:15:45.000Z</video:publication_date>
-    <video:uploader>maxmode_fgc</video:uploader>
-    <video:expiration_date>2025-11-09T16:15:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
