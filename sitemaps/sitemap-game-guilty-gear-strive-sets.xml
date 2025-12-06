@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-100/set/97091954/</loc>
+  <lastmod>2025-12-06T04:30:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855088/image-ccd39b4e5db8ae128b1504efbfffbf96.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      EDGE | Lēʻahi(EDGE | L EDGE | L EDGE | Lahi) vs WabbaGhoul, SoCal Colosseum #100 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EDGE | Lēʻahi(EDGE | L EDGE | L EDGE | Lahi) vs WabbaGhoul in Winners Quarter-Final of SoCal Colosseum #100, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636578596&amp;t=0h49m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>746</video:duration>
+    <video:publication_date>2025-12-06T04:30:15.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-12-14T04:30:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-20/set/97083356/</loc>
   <lastmod>2025-12-06T02:30:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-09T00:45:16.000Z</video:publication_date>
     <video:uploader>Akihabaraarcade</video:uploader>
     <video:expiration_date>2025-11-17T00:45:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/osprey-campus-clash-55-soar-on-over/set/96060259/</loc>
-  <lastmod>2025-11-09T01:22:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849529/image-c9886e9a49cd70d18f4b8d435156800c.png
-    </video:thumbnail_loc>
-    <video:title>
-      PhonicS vs Darkeruser, Osprey Campus Clash #55 - Soar on Over - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PhonicS vs Darkeruser in Winners Quarter-Final of Osprey Campus Clash #55 - Soar on Over, streamed by tentaaaa_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2613431209&amp;t=0h41m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>391</video:duration>
-    <video:publication_date>2025-11-09T00:42:55.000Z</video:publication_date>
-    <video:uploader>tentaaaa_</video:uploader>
-    <video:expiration_date>2025-11-17T00:42:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
