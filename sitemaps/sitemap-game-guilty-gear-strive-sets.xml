@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124833/</loc>
-  <lastmod>2025-12-06T22:10:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124772/</loc>
+  <lastmod>2025-12-06T22:22:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848681/image-310fbefc0fe20a8d2de5b7e350d19f9f.png
+    </video:thumbnail_loc>
+    <video:title>
+      67 | BUSTA Rhymez vs Stunstark, Plus Mids #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 67 | BUSTA Rhymez vs Stunstark in Winners Final of Plus Mids #5, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636982961&amp;t=5h34m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>712</video:duration>
+    <video:publication_date>2025-12-06T22:22:36.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2025-12-14T22:22:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/plus-mids-5/set/97124833/</loc>
+  <lastmod>2025-12-06T22:26:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2636982961&amp;t=5h22m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>286</video:duration>
+    <video:duration>728</video:duration>
     <video:publication_date>2025-12-06T22:10:23.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-12-14T22:10:23.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-15T04:12:45.000Z</video:publication_date>
     <video:uploader>flynnsgamingfl</video:uploader>
     <video:expiration_date>2025-11-23T04:12:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/flynn-s-arcade-181/set/96275426/</loc>
-  <lastmod>2025-11-15T04:21:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850323/image-0689d8306cc234518d05fa45fa39c219.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NIF | Purple vs Z_Guy, Flynn&apos;s Arcade 181 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NIF | Purple vs Z_Guy in Winners Final of Flynn&apos;s Arcade 181, streamed by flynnsgamingfl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2618749968&amp;t=0h51m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>561</video:duration>
-    <video:publication_date>2025-11-15T03:40:21.000Z</video:publication_date>
-    <video:uploader>flynnsgamingfl</video:uploader>
-    <video:expiration_date>2025-11-23T03:40:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
