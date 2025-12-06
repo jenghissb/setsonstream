@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-100/set/97092045/</loc>
+  <lastmod>2025-12-06T04:38:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855088/image-ccd39b4e5db8ae128b1504efbfffbf96.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PAR | Zane vs dave, SoCal Colosseum #100 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PAR | Zane vs dave in Winners Final of SoCal Colosseum #100, streamed by kondo3
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636564706&amp;t=1h17m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>850</video:duration>
+    <video:publication_date>2025-12-06T04:38:20.000Z</video:publication_date>
+    <video:uploader>kondo3</video:uploader>
+    <video:expiration_date>2025-12-14T04:38:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-100/set/97092059/</loc>
   <lastmod>2025-12-06T04:37:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-10-19T02:06:13.000Z</video:publication_date>
     <video:uploader>BlazingBocchi</video:uploader>
     <video:expiration_date>2025-10-27T02:06:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guild-gauntlet-4/set/95214907/</loc>
-  <lastmod>2025-10-19T02:11:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839085/image-a71144e37e79e0723ee31da695a0e01e.png
-    </video:thumbnail_loc>
-    <video:title>
-      LGBTQ+Fighters | Rose Lockhart vs NIF | Purple, Guild Gauntlet 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LGBTQ+Fighters | Rose Lockhart vs NIF | Purple in Winners Final of Guild Gauntlet 4, streamed by BlazingBocchi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2595385143&amp;t=4h29m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1347</video:duration>
-    <video:publication_date>2025-10-19T01:43:08.000Z</video:publication_date>
-    <video:uploader>BlazingBocchi</video:uploader>
-    <video:expiration_date>2025-10-27T01:43:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
