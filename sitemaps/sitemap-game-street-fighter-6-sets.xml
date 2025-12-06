@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-24/set/97097507/</loc>
+  <lastmod>2025-12-06T09:31:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851680/image-1e0a183172e60c1f735c04694aa4c452.png
+    </video:thumbnail_loc>
+    <video:title>
+      ROF vs Vollian, Drive Theory 24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ROF vs Vollian in Losers Semi-Final of Drive Theory 24, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2636646270&amp;t=4h4m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1091</video:duration>
+    <video:publication_date>2025-12-06T09:31:32.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2025-12-14T09:31:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-24/set/97097506/</loc>
   <lastmod>2025-12-06T09:22:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-16T04:13:51.000Z</video:publication_date>
     <video:uploader>LigaAceEsports</video:uploader>
     <video:expiration_date>2025-11-24T04:13:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/astral-finish-2025/set/96373623/</loc>
-  <lastmod>2025-11-16T04:15:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/788383/image-81d667b1c1147103db6ca66992296e0e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hokuto vs EGHCO, Astral Finish 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hokuto vs EGHCO in Losers Round 3 of Astral Finish 2025, streamed by LigaAceEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619324245&amp;t=8h37m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>548</video:duration>
-    <video:publication_date>2025-11-16T03:44:52.000Z</video:publication_date>
-    <video:uploader>LigaAceEsports</video:uploader>
-    <video:expiration_date>2025-11-24T03:44:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
