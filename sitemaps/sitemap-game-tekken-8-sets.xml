@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-35/set/97124420/</loc>
+  <lastmod>2025-12-06T19:26:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854330/image-9f36d5bdae246f3fb2c5e91e142c9b6c.png
+    </video:thumbnail_loc>
+    <video:title>
+      ABG | Pussyboy vs tetsu, RDU Tekken Monthly #35 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ABG | Pussyboy vs tetsu in Winners Round 1 of RDU Tekken Monthly #35, streamed by rdutekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637079537&amp;t=0h35m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>602</video:duration>
+    <video:publication_date>2025-12-06T19:26:15.000Z</video:publication_date>
+    <video:uploader>rdutekken</video:uploader>
+    <video:expiration_date>2025-12-14T19:26:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2025-lcq-edition/set/97104915/</loc>
   <lastmod>2025-12-06T15:02:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-22T04:43:29.000Z</video:publication_date>
     <video:uploader>teakei</video:uploader>
     <video:expiration_date>2025-11-30T04:43:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-99/set/96610861/</loc>
-  <lastmod>2025-11-22T04:52:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852382/image-0763420ff2dd99877c91bd5283a0f11b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CHAIN SHIFT | hidetone vs CHAIN SHIFT | Commmanda Panda, SoCal Colosseum #99 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CHAIN SHIFT | hidetone vs CHAIN SHIFT | Commmanda Panda in Winners Quarter-Final of SoCal Colosseum #99, streamed by teakei
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624806607&amp;t=1h1m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>425</video:duration>
-    <video:publication_date>2025-11-22T04:35:54.000Z</video:publication_date>
-    <video:uploader>teakei</video:uploader>
-    <video:expiration_date>2025-11-30T04:35:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
