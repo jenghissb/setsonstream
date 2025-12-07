@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/area-zero-10/set/97164477/</loc>
+  <lastmod>2025-12-07T11:19:24.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846922/image-f68c08b890ea54b35c8bd41033b2f392.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VF | Snipero vs Madaratk, Area Zero #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VF | Snipero vs Madaratk in Losers Quarter-Final of Area Zero #10, streamed by mysticsquad_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637656097&amp;t=1h20m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>464</video:duration>
+    <video:publication_date>2025-12-07T11:19:24.000Z</video:publication_date>
+    <video:uploader>mysticsquad_tv</video:uploader>
+    <video:expiration_date>2025-12-15T11:19:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/area-zero-10/set/97164446/</loc>
   <lastmod>2025-12-07T11:11:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-22T23:27:02.000Z</video:publication_date>
     <video:uploader>tenomedia</video:uploader>
     <video:expiration_date>2025-11-30T23:27:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/let-s-roc-14/set/96671295/</loc>
-  <lastmod>2025-11-23T00:06:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848676/image-28b44f426a3fed97cd324b61dac6c5f7.png
-    </video:thumbnail_loc>
-    <video:title>
-      AresInferno vs truckS, Let&apos;s ROC 14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AresInferno vs truckS in Winners Quarter-Final of Let&apos;s ROC 14, streamed by 585FighterZ
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625501525&amp;t=0h34m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>390</video:duration>
-    <video:publication_date>2025-11-22T23:23:15.000Z</video:publication_date>
-    <video:uploader>585FighterZ</video:uploader>
-    <video:expiration_date>2025-11-30T23:23:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
