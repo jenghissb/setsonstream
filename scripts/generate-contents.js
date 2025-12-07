@@ -174,18 +174,18 @@ function generatePage({templatePath, title, description, keywords, bootstrap={},
   if (ogVideoThumb != null && ogVideoUrl != null) {
     updateMetaContent("og:image", ogVideoThumb);
     html = html.replace(
-      "</body>",
+      "</head>",
       `<meta property="og:video" content="${ogVideoUrl}" data-rh="true"/>`+
       `<meta property="og:video:url" content="${ogVideoUrl}" data-rh="true"/>`+
       `<meta property="og:video:type" content="text/html" data-rh="true"/>`+
       `<meta property="og:video:width" content="1280" data-rh="true"/>`+
-      `<meta property="og:video:height" content="720" data-rh="true"/></body>`
+      `<meta property="og:video:height" content="720" data-rh="true"/></head>`
     );
   }
   if (noIndex) {
     html = html.replace(
-      "</body>",
-      '<meta name="robots" content="noindex"></meta></body>'
+      "</head>",
+      '<meta name="robots" content="noindex"></meta></head>'
     )
     // '<meta name="robots" content="noindex, nofollow"></meta>'
   }
