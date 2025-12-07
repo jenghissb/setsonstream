@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97136683/</loc>
-  <lastmod>2025-12-07T10:32:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97136714/</loc>
+  <lastmod>2025-12-07T10:47:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852604/image-5a0e7d892eb2bd1a6f4020a644f1481f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zain vs Liquid | Hungrybox, Nounsvitational 2025 Tokyo - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zain vs Liquid | Hungrybox in Losers Semi-Final of Nounsvitational 2025 Tokyo, streamed by VGBootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637460716&amp;t=7h36m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1489</video:duration>
+    <video:publication_date>2025-12-07T10:47:59.000Z</video:publication_date>
+    <video:uploader>VGBootcamp</video:uploader>
+    <video:expiration_date>2025-12-15T10:47:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97136683/</loc>
+  <lastmod>2025-12-07T10:56:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2637460716&amp;t=7h21m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1062</video:duration>
+    <video:duration>938</video:duration>
     <video:publication_date>2025-12-07T10:32:15.000Z</video:publication_date>
     <video:uploader>VGBootcamp</video:uploader>
     <video:expiration_date>2025-12-15T10:32:15.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-20T01:05:34.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2025-11-28T01:05:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-10-perpetual-stew-2/set/96522369/</loc>
-  <lastmod>2025-11-20T01:11:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853944/image-34e706add972b8abb615d7e8785ecdc7.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SF | Jack vs porkmas, UW Melee Weekly (Fall &apos;25) #10 - perpetual stew 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SF | Jack vs porkmas in Winners Quarter-Final of UW Melee Weekly (Fall &apos;25) #10 - perpetual stew 2, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622917502&amp;t=1h17m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>800</video:duration>
-    <video:publication_date>2025-11-20T00:57:08.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2025-11-28T00:57:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
