@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sacramento-lanfest-fighting-game-jamboree/set/97159865/</loc>
-  <lastmod>2025-12-07T04:37:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sacramento-lanfest-fighting-game-jamboree/set/97159896/</loc>
+  <lastmod>2025-12-07T04:50:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853597/image-e731767f04080c84c9c688537ff0494b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sleepyhead vs Pulse | Toro, Sacramento LANFEST - Fighting Game Jamboree - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sleepyhead vs Pulse | Toro in Losers Semi-Final of Sacramento LANFEST - Fighting Game Jamboree, streamed by Beretentertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637211099&amp;t=7h22m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1643</video:duration>
+    <video:publication_date>2025-12-07T04:50:13.000Z</video:publication_date>
+    <video:uploader>Beretentertainment</video:uploader>
+    <video:expiration_date>2025-12-15T04:50:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sacramento-lanfest-fighting-game-jamboree/set/97159865/</loc>
+  <lastmod>2025-12-07T04:58:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2637211099&amp;t=7h9m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1213</video:duration>
+    <video:duration>734</video:duration>
     <video:publication_date>2025-12-07T04:37:04.000Z</video:publication_date>
     <video:uploader>Beretentertainment</video:uploader>
     <video:expiration_date>2025-12-15T04:37:04.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-22T21:28:05.000Z</video:publication_date>
     <video:uploader>pocatellopugilistsfgc</video:uploader>
     <video:expiration_date>2025-11-30T21:28:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/holiday-havoc-2025/set/96656624/</loc>
-  <lastmod>2025-11-22T21:37:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846750/image-5597b19456c34b665f1a9292d2863fe9.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Poky | Unstable Hamster vs MMR | BakerFalcon, Holiday Havoc 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Poky | Unstable Hamster vs MMR | BakerFalcon in Winners Final of Holiday Havoc 2025, streamed by pocatellopugilistsfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625396066&amp;t=0h47m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>549</video:duration>
-    <video:publication_date>2025-11-22T21:17:59.000Z</video:publication_date>
-    <video:uploader>pocatellopugilistsfgc</video:uploader>
-    <video:expiration_date>2025-11-30T21:17:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
