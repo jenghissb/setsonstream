@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/aksel-holder-rivals-turnering-i-fredericia-af-en-eller-anden-grund/set/97171072/</loc>
+  <lastmod>2025-12-07T16:41:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849228/image-55477a6e1bfc6871d0f754d1b5cc3a63.png
+    </video:thumbnail_loc>
+    <video:title>
+      NSB | Josi vs Lange Bro, Aksel Holder Rivals Turnering i Fredericia af En Eller Anden Grund - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NSB | Josi vs Lange Bro in Losers Round 2 of Aksel Holder Rivals Turnering i Fredericia af En Eller Anden Grund, streamed by akselerino
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637670850&amp;t=5h51m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>741</video:duration>
+    <video:publication_date>2025-12-07T16:28:05.000Z</video:publication_date>
+    <video:uploader>akselerino</video:uploader>
+    <video:expiration_date>2025-12-15T16:28:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/no-time-to-tilt-2025/set/97166489/</loc>
   <lastmod>2025-12-07T15:04:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-15T23:34:56.000Z</video:publication_date>
     <video:uploader>RivalsBC</video:uploader>
     <video:expiration_date>2025-11-23T23:34:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/soar-2-1/set/96357284/</loc>
-  <lastmod>2025-11-15T23:55:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/814277/image-393bbe57693e60c72bd944bc4f9a929e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ant vs AoC | Melon, SOAR 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ant vs AoC | Melon in Winners Semi-Final of SOAR 2, streamed by SpiralMedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619351391&amp;t=3h28m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>966</video:duration>
-    <video:publication_date>2025-11-15T23:08:00.000Z</video:publication_date>
-    <video:uploader>SpiralMedia</video:uploader>
-    <video:expiration_date>2025-11-23T23:08:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
