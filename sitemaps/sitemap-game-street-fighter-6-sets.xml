@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/red-line-fight-7-samurai-no-seiiki/set/97165104/</loc>
+  <lastmod>2025-12-07T15:29:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/822459/image-cf5a1af948977436a411a9a6677b6d0d.png
+    </video:thumbnail_loc>
+    <video:title>
+      SYG | Garnet vs Kastro, RED LINE FIGHT 7: Samurai no Seiiki - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SYG | Garnet vs Kastro in Winners Semi-Final of RED LINE FIGHT 7: Samurai no Seiiki, streamed by SYGESPORTSTEAM
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637721031&amp;t=3h3m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>675</video:duration>
+    <video:publication_date>2025-12-07T15:29:34.000Z</video:publication_date>
+    <video:uploader>SYGESPORTSTEAM</video:uploader>
+    <video:expiration_date>2025-12-15T15:29:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/red-line-fight-7-samurai-no-seiiki/set/97165085/</loc>
   <lastmod>2025-12-07T13:35:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-20T11:51:03.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2025-11-28T11:51:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-97/set/96535618/</loc>
-  <lastmod>2025-11-20T11:47:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852940/image-9d15693b35ebc3de1228a1e1240140e9.png
-    </video:thumbnail_loc>
-    <video:title>
-      にわとり(niwatori) vs ぷにぷに(punipuni), Paradise Cup #97 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch にわとり(niwatori) vs ぷにぷに(punipuni) in Round 2 of Paradise Cup #97, streamed by Vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623285347&amp;t=0h30m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>309</video:duration>
-    <video:publication_date>2025-11-20T11:39:13.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp</video:uploader>
-    <video:expiration_date>2025-11-28T11:39:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
