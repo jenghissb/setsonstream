@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/king-of-the-hill-2025-x-the-alley-final-round/set/97174434/</loc>
+  <lastmod>2025-12-07T19:27:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849326/image-43eefd97a9a9d715c8f1ae4d15762105.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      tskrBrian vs Gigaitachi, King of The Hill 2025 X The Alley: Final Round - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tskrBrian vs Gigaitachi in Losers Final of King of The Hill 2025 X The Alley: Final Round, streamed by DistrictEDC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637901932&amp;t=2h17m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>525</video:duration>
+    <video:publication_date>2025-12-07T19:27:36.000Z</video:publication_date>
+    <video:uploader>DistrictEDC</video:uploader>
+    <video:expiration_date>2025-12-15T19:27:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-monthly-december/set/97154290/</loc>
   <lastmod>2025-12-07T02:30:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-19T04:38:37.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2025-11-27T04:38:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/magic-pixel-weekly-125/set/96500476/</loc>
-  <lastmod>2025-11-19T04:37:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847938/image-657539792fb0e902f2bf0eca9e0bc808.png
-    </video:thumbnail_loc>
-    <video:title>
-      GER | Jembo vs Malleth, Magic Pixel Weekly #125 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GER | Jembo vs Malleth in Losers Quarter-Final of Magic Pixel Weekly #125, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622223573&amp;t=1h53m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>656</video:duration>
-    <video:publication_date>2025-11-19T04:26:16.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2025-11-27T04:26:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
