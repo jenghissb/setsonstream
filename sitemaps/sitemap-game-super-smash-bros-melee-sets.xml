@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204598/</loc>
+  <lastmod>2025-12-08T19:20:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858843/image-93477cf3600fadf664b068e97a00366c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | vlad vs CRG | Madady, KnockOut Zone #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | vlad vs CRG | Madady in Winners Quarter-Final of KnockOut Zone #88, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2638769319&amp;t=0h59m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1290</video:duration>
+    <video:publication_date>2025-12-08T19:20:19.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-12-16T19:20:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fireside-open-2025-powered-by-amd/set/97189030/</loc>
   <lastmod>2025-12-08T01:28:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-21T02:31:08.000Z</video:publication_date>
     <video:uploader>xdeathcon_</video:uploader>
     <video:expiration_date>2025-11-29T02:31:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-289/set/96554896/</loc>
-  <lastmod>2025-11-21T02:52:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854316/image-361ec6e2bae3f4f23a5692e9e397870c.png
-    </video:thumbnail_loc>
-    <video:title>
-      yeatfan446 vs SSBMR | drewlith, Illinois State Smash Weekly #289 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch yeatfan446 vs SSBMR | drewlith in Losers Quarter-Final of Illinois State Smash Weekly #289, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623790451&amp;t=2h5m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>980</video:duration>
-    <video:publication_date>2025-11-21T02:21:14.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2025-11-29T02:21:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
