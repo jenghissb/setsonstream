@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/8-340/set/97197721/</loc>
+  <lastmod>2025-12-08T11:11:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856442/image-65fcedf3be85f858e0420a42a3ec2a50.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      x4ta/かけした(x4ta/ kakeshita) vs かいデデデ(kai dedede), 8(月)上野スマコミ#340(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch x4ta/かけした(x4ta/ kakeshita) vs かいデデデ(kai dedede) in Winners Round 2 of 8(月)上野スマコミ#340(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/e6vh3lJOBVU?start=1415s
+    </video:player_loc>
+    <video:duration>958</video:duration>
+    <video:publication_date>2025-12-08T10:54:00.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-16T10:54:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-con-coca-4-la-ultima-coca/set/97195428/</loc>
   <lastmod>2025-12-08T05:35:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-29T01:18:38.000Z</video:publication_date>
     <video:uploader>HindsightNE</video:uploader>
     <video:expiration_date>2025-12-07T01:18:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/piranha-garden-7/set/96847772/</loc>
-  <lastmod>2025-11-29T01:29:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856492/image-cb75ff9de48816b13c0fe14c6e488e34.png
-    </video:thumbnail_loc>
-    <video:title>
-      Floripundo vs Ganonhorse, Piranha Garden #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Floripundo vs Ganonhorse in Losers Final of Piranha Garden #7, streamed by smashbros_cba
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630392755&amp;t=3h0m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>922</video:duration>
-    <video:publication_date>2025-11-29T01:11:03.000Z</video:publication_date>
-    <video:uploader>smashbros_cba</video:uploader>
-    <video:expiration_date>2025-12-07T01:11:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
