@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-at-mangafest-2025/set/97199233/</loc>
-  <lastmod>2025-12-08T15:36:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-at-mangafest-2025/set/97199410/</loc>
+  <lastmod>2025-12-08T15:45:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855877/image-cc5af5023a384b93d473029364adb629.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MSHN | Aleloco8 vs PEMM3 | avioneta, Smash at Mangafest 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MSHN | Aleloco8 vs PEMM3 | avioneta in Winners Semi-Final of Smash at Mangafest 2025, streamed by rpleague
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2638641666&amp;t=0h38m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>450</video:duration>
+    <video:publication_date>2025-12-08T15:45:17.000Z</video:publication_date>
+    <video:uploader>rpleague</video:uploader>
+    <video:expiration_date>2025-12-16T15:45:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-at-mangafest-2025/set/97199233/</loc>
+  <lastmod>2025-12-08T15:46:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2638641666&amp;t=0h28m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>420</video:duration>
+    <video:duration>531</video:duration>
     <video:publication_date>2025-12-08T15:36:06.000Z</video:publication_date>
     <video:uploader>rpleague</video:uploader>
     <video:expiration_date>2025-12-16T15:36:06.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-29T01:49:11.000Z</video:publication_date>
     <video:uploader>ugsgaming</video:uploader>
     <video:expiration_date>2025-12-07T01:49:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-grimer-s-oasis-151/set/96851226/</loc>
-  <lastmod>2025-11-29T02:07:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856243/image-22b94a90ed3844a162b557a63a760f72.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kwaz vs super6733, The Grimer’s Oasis #151 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kwaz vs super6733 in Winners Semi-Final of The Grimer’s Oasis #151, streamed by HindsightNE
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630501995&amp;t=1h2m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1068</video:duration>
-    <video:publication_date>2025-11-29T01:46:39.000Z</video:publication_date>
-    <video:uploader>HindsightNE</video:uploader>
-    <video:expiration_date>2025-12-07T01:46:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
