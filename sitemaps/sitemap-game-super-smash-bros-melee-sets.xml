@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204598/</loc>
-  <lastmod>2025-12-08T19:20:19.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204602/</loc>
+  <lastmod>2025-12-08T19:37:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858843/image-93477cf3600fadf664b068e97a00366c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Graham vs 514flexx, KnockOut Zone #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Graham vs 514flexx in Winners Semi-Final of KnockOut Zone #88, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2638769319&amp;t=1h16m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>790</video:duration>
+    <video:publication_date>2025-12-08T19:37:18.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-12-16T19:37:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204598/</loc>
+  <lastmod>2025-12-08T19:43:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2638769319&amp;t=0h59m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1290</video:duration>
+    <video:duration>739</video:duration>
     <video:publication_date>2025-12-08T19:20:19.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-12-16T19:20:19.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-21T02:32:17.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-29T02:32:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lynchburg-melee-weekly-145-11-20-25/set/96555604/</loc>
-  <lastmod>2025-11-21T02:52:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853797/image-60c311fc40f9155371dbb624cee440ce.png
-    </video:thumbnail_loc>
-    <video:title>
-      _____ | Tankra vs logi, Lynchburg Melee Weekly #145 (11/20/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch _____ | Tankra vs logi in Losers Semi-Final of Lynchburg Melee Weekly #145 (11/20/25), streamed by xdeathcon_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623777019&amp;t=2h32m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1212</video:duration>
-    <video:publication_date>2025-11-21T02:31:08.000Z</video:publication_date>
-    <video:uploader>xdeathcon_</video:uploader>
-    <video:expiration_date>2025-11-29T02:31:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
