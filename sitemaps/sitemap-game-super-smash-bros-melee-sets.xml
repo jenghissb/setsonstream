@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204602/</loc>
-  <lastmod>2025-12-08T19:37:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204603/</loc>
+  <lastmod>2025-12-08T20:05:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858843/image-93477cf3600fadf664b068e97a00366c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Busard vs Graham, KnockOut Zone #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Busard vs Graham in Winners Final of KnockOut Zone #88, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2638769319&amp;t=1h44m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>848</video:duration>
+    <video:publication_date>2025-12-08T20:05:07.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-12-16T20:05:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204602/</loc>
+  <lastmod>2025-12-08T20:06:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2638769319&amp;t=1h16m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>790</video:duration>
+    <video:duration>1238</video:duration>
     <video:publication_date>2025-12-08T19:37:18.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-12-16T19:37:18.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-21T02:33:33.000Z</video:publication_date>
     <video:uploader>gdubsmp4</video:uploader>
     <video:expiration_date>2025-11-29T02:33:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-5/set/96550984/</loc>
-  <lastmod>2025-11-21T02:52:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854338/image-ddb5a7a8bad9ec6763678e7d104a3098.png
-    </video:thumbnail_loc>
-    <video:title>
-      Warp9 | Sunlu vs Cyber bunny, HoG: Phoenix 9.5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Warp9 | Sunlu vs Cyber bunny in Round 4 of HoG: Phoenix 9.5, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623795478&amp;t=2h10m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1188</video:duration>
-    <video:publication_date>2025-11-21T02:32:17.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-29T02:32:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
