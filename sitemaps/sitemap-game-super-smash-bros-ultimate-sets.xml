@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-con-coca-4-la-ultima-coca/set/97195412/</loc>
-  <lastmod>2025-12-08T04:53:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-con-coca-4-la-ultima-coca/set/97195428/</loc>
+  <lastmod>2025-12-08T05:14:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850513/image-588c9ef8ca7d31b7ed2815bae6f00ed3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VAL | Sura_Plus vs Ban-Kai | Andra, Smash con Coca #4: La Ultima Coca - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VAL | Sura_Plus vs Ban-Kai | Andra in Losers Final of Smash con Coca #4: La Ultima Coca, streamed by smashbros_cba
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2638316016&amp;t=2h52m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>694</video:duration>
+    <video:publication_date>2025-12-08T05:14:49.000Z</video:publication_date>
+    <video:uploader>smashbros_cba</video:uploader>
+    <video:expiration_date>2025-12-16T05:14:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-con-coca-4-la-ultima-coca/set/97195412/</loc>
+  <lastmod>2025-12-08T05:16:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2638316016&amp;t=2h31m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>318</video:duration>
+    <video:duration>1205</video:duration>
     <video:publication_date>2025-12-08T04:53:36.000Z</video:publication_date>
     <video:uploader>smashbros_cba</video:uploader>
     <video:expiration_date>2025-12-16T04:53:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ramvitational-4/set/97189447/</loc>
-  <lastmod>2025-12-08T03:11:30.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859712/image-21e2aea05330f41db4aa4563e8800e47.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fool vs COBRA KAI | Entropy, Ramvitational 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fool vs COBRA KAI | Entropy in Grand Final of Ramvitational 4, streamed by smashatvcu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=smashatvcu&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-12-08T03:11:30.000Z</video:publication_date>
-    <video:uploader>smashatvcu</video:uploader>
-    <video:expiration_date>2025-12-16T03:11:30.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -382,6 +382,30 @@
     <video:publication_date>2025-12-08T03:24:11.000Z</video:publication_date>
     <video:uploader>smashbros_cba</video:uploader>
     <video:expiration_date>2025-12-16T03:24:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ramvitational-4/set/97189447/</loc>
+  <lastmod>2025-12-08T05:12:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859712/image-21e2aea05330f41db4aa4563e8800e47.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fool vs COBRA KAI | Entropy, Ramvitational 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fool vs COBRA KAI | Entropy in Grand Final of Ramvitational 4, streamed by smashatvcu
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2637971998&amp;t=8h31m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2025-12-08T03:11:30.000Z</video:publication_date>
+    <video:uploader>smashatvcu</video:uploader>
+    <video:expiration_date>2025-12-16T03:11:30.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-29T01:11:03.000Z</video:publication_date>
     <video:uploader>smashbros_cba</video:uploader>
     <video:expiration_date>2025-12-07T01:11:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ace-smash-125/set/96849209/</loc>
-  <lastmod>2025-11-29T01:34:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856404/image-c8894594d973d61c7ab85e2fc57015fe.png
-    </video:thumbnail_loc>
-    <video:title>
-      NS | CaKe vs 2k, ACE Smash #125 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NS | CaKe vs 2k in Winners Semi-Final of ACE Smash #125, streamed by Rocky_thepetrock
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630449046&amp;t=1h40m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1255</video:duration>
-    <video:publication_date>2025-11-29T01:10:59.000Z</video:publication_date>
-    <video:uploader>Rocky_thepetrock</video:uploader>
-    <video:expiration_date>2025-12-07T01:10:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
