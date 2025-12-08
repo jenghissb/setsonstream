@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204619/</loc>
-  <lastmod>2025-12-08T20:31:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204604/</loc>
+  <lastmod>2025-12-08T20:46:35.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858843/image-93477cf3600fadf664b068e97a00366c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Graham vs PSG | Busard, KnockOut Zone #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Graham vs PSG | Busard in Grand Final of KnockOut Zone #88, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2638769319&amp;t=2h25m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>496</video:duration>
+    <video:publication_date>2025-12-08T20:46:35.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2025-12-16T20:46:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-88/set/97204619/</loc>
+  <lastmod>2025-12-08T20:48:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2638769319&amp;t=2h10m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>727</video:duration>
+    <video:duration>894</video:duration>
     <video:publication_date>2025-12-08T20:31:35.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-12-16T20:31:35.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-21T02:49:15.000Z</video:publication_date>
     <video:uploader>dinksterlive</video:uploader>
     <video:expiration_date>2025-11-29T02:49:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bmw-152/set/96558247/</loc>
-  <lastmod>2025-11-21T03:10:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853049/image-a32d85576858a5373f2824e4cc856430.png
-    </video:thumbnail_loc>
-    <video:title>
-      GBUS | Dhoho vs THS | Muteki (無敵)(THS | Muteki ( muteki )), BMW #152 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GBUS | Dhoho vs THS | Muteki (無敵)(THS | Muteki ( muteki )) in Losers Round 4 of BMW #152, streamed by BaltimoreMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623825438&amp;t=1h46m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>791</video:duration>
-    <video:publication_date>2025-11-21T02:45:42.000Z</video:publication_date>
-    <video:uploader>BaltimoreMelee</video:uploader>
-    <video:expiration_date>2025-11-29T02:45:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
