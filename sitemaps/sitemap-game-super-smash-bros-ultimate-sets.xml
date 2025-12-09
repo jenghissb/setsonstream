@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-253/set/97222383/</loc>
+  <lastmod>2025-12-09T10:39:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      yellow vs Free Steve | SA Q, WeeklyVac #253 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch yellow vs Free Steve | SA Q in Grand Final of WeeklyVac #253, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639287608&amp;t=2h38m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>485</video:duration>
+    <video:publication_date>2025-12-09T10:39:54.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-12-17T10:39:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-253/set/97222378/</loc>
   <lastmod>2025-12-09T08:54:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-29T14:09:01.000Z</video:publication_date>
     <video:uploader>mysticsquad_tv</video:uploader>
     <video:expiration_date>2025-12-07T14:09:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/downtown-smash-4-1/set/96871387/</loc>
-  <lastmod>2025-11-29T14:25:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845491/image-0a530925efbd3508187735818b6a5c07.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nugat vs cosmolon, DOWNTOWN SMASH #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nugat vs cosmolon in Winners Quarter-Final of DOWNTOWN SMASH #4, streamed by Blaxk_Smoke
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630804445&amp;t=3h40m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>903</video:duration>
-    <video:publication_date>2025-11-29T14:08:36.000Z</video:publication_date>
-    <video:uploader>Blaxk_Smoke</video:uploader>
-    <video:expiration_date>2025-12-07T14:08:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
