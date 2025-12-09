@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2639577697&amp;t=2h18m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>663</video:duration>
+    <video:duration>1259</video:duration>
     <video:publication_date>2025-12-09T20:28:56.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-12-17T20:28:56.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-142-december-9th/set/97225835/</loc>
-  <lastmod>2025-12-09T20:31:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-142-december-9th/set/97225837/</loc>
+  <lastmod>2025-12-09T20:42:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859278/image-572eae58cc61c833512fd5012a7618ac.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Rosacrantz and Lumastern vs Majin Jamie, FightHouse Weeklies #142 - December 9th - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rosacrantz and Lumastern vs Majin Jamie in Winners Semi-Final of FightHouse Weeklies #142 - December 9th, streamed by FightHouseTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639659158&amp;t=0h45m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>449</video:duration>
+    <video:publication_date>2025-12-09T20:42:26.000Z</video:publication_date>
+    <video:uploader>FightHouseTV</video:uploader>
+    <video:expiration_date>2025-12-17T20:42:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fighthouse-weeklies-142-december-9th/set/97225835/</loc>
+  <lastmod>2025-12-09T20:44:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2639659158&amp;t=0h34m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>524</video:duration>
+    <video:duration>659</video:duration>
     <video:publication_date>2025-12-09T20:31:15.000Z</video:publication_date>
     <video:uploader>FightHouseTV</video:uploader>
     <video:expiration_date>2025-12-17T20:31:15.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-29T14:39:07.000Z</video:publication_date>
     <video:uploader>mysticsquad_tv</video:uploader>
     <video:expiration_date>2025-12-07T14:39:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/glory-4/set/96825413/</loc>
-  <lastmod>2025-11-29T14:52:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829219/image-4d2e030266a8f16aa86b95454ac2c45f.png
-    </video:thumbnail_loc>
-    <video:title>
-      BMS | Luugi vs Zant, GLORY 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BMS | Luugi vs Zant in Winners Round 3 of GLORY 4, streamed by toulouselaststock
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630795849&amp;t=4h33m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>740</video:duration>
-    <video:publication_date>2025-11-29T14:38:31.000Z</video:publication_date>
-    <video:uploader>toulouselaststock</video:uploader>
-    <video:expiration_date>2025-12-07T14:38:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
