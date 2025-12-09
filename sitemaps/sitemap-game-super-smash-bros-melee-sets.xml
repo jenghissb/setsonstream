@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-36-wendy-wu-homecoming-warrior/set/97220966/</loc>
+  <lastmod>2025-12-09T04:41:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859840/image-55a3ffdb9b98ad33de11f4b08340f62a.png
+    </video:thumbnail_loc>
+    <video:title>
+      RLE | mvlvchi vs y-hat, McCloud&apos;s Melee Co. #36: Wendy Wu Homecoming Warrior - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RLE | mvlvchi vs y-hat in Winners Quarter-Final of McCloud&apos;s Melee Co. #36: Wendy Wu Homecoming Warrior, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639176153&amp;t=1h1m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>454</video:duration>
+    <video:publication_date>2025-12-09T04:41:20.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-12-17T04:41:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kame-house-weekly-137/set/97215670/</loc>
   <lastmod>2025-12-09T03:21:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-21T04:17:14.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-11-29T04:17:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-124/set/96561922/</loc>
-  <lastmod>2025-11-21T04:25:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853208/image-a9c2bc073f7f557d664b74e02d621e0c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Khalid vs Mooshies, Rage Against the CRT #124 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Khalid vs Mooshies in Winners Quarter-Final of Rage Against the CRT #124, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623919144&amp;t=1h2m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>772</video:duration>
-    <video:publication_date>2025-11-21T04:04:16.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2025-11-29T04:04:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
