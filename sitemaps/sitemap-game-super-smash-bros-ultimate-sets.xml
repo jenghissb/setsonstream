@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-221/set/97224446/</loc>
+  <lastmod>2025-12-09T19:26:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859932/image-daf7149f720badb3517c82da9865f153.png
+    </video:thumbnail_loc>
+    <video:title>
+      3QI | WokS vs GCR | LC |3QI | mortal, Magna Arena#221 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 3QI | WokS vs GCR | LC |3QI | mortal in Round 4 of Magna Arena#221, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639577697&amp;t=1h16m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>660</video:duration>
+    <video:publication_date>2025-12-09T19:26:13.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-12-17T19:26:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-221/set/97224441/</loc>
   <lastmod>2025-12-09T19:25:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-29T14:28:00.000Z</video:publication_date>
     <video:uploader>toulouselaststock</video:uploader>
     <video:expiration_date>2025-12-07T14:28:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/glory-4/set/96825409/</loc>
-  <lastmod>2025-11-29T14:38:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829219/image-4d2e030266a8f16aa86b95454ac2c45f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chag vs WCUM | Wango, GLORY 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chag vs WCUM | Wango in Winners Round 2 of GLORY 4, streamed by mysticsquad_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630792351&amp;t=4h31m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>509</video:duration>
-    <video:publication_date>2025-11-29T14:27:50.000Z</video:publication_date>
-    <video:uploader>mysticsquad_tv</video:uploader>
-    <video:expiration_date>2025-12-07T14:27:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
