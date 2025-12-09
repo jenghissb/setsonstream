@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-277/set/97213615/</loc>
+  <lastmod>2025-12-09T01:12:09.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858518/image-3a78bb8aaef1bc60f09a3cfbdebe3681.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kevorkian vs Darkwolfoz47, Fusion #277 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kevorkian vs Darkwolfoz47 in Winners Round 1 of Fusion #277, streamed by CollisionSeriesTV2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639070098&amp;t=0h3m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>169</video:duration>
+    <video:publication_date>2025-12-09T01:12:09.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV2</video:uploader>
+    <video:expiration_date>2025-12-17T01:12:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/aksel-holder-rivals-turnering-i-fredericia-af-en-eller-anden-grund/set/97171072/</loc>
   <lastmod>2025-12-07T16:41:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-16T00:25:06.000Z</video:publication_date>
     <video:uploader>RivalsBC</video:uploader>
     <video:expiration_date>2025-11-24T00:25:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/slipstream-showdown-4/set/96359346/</loc>
-  <lastmod>2025-11-16T00:30:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842954/image-d71a0f0e7ea372e72a5035f2a61f11b7.png
-    </video:thumbnail_loc>
-    <video:title>
-      NDMRBLLTS | Flare2V vs Penguinos, Slipstream Showdown 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NDMRBLLTS | Flare2V vs Penguinos in Winners Round 1 of Slipstream Showdown 4, streamed by RivalsBC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619456815&amp;t=1h50m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1446</video:duration>
-    <video:publication_date>2025-11-15T23:34:56.000Z</video:publication_date>
-    <video:uploader>RivalsBC</video:uploader>
-    <video:expiration_date>2025-11-23T23:34:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
