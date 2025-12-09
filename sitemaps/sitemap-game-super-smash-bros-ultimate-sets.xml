@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-221/set/97224478/</loc>
+  <lastmod>2025-12-09T18:35:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859932/image-daf7149f720badb3517c82da9865f153.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCR | Neytram vs 3QI | Coucou c&apos;est moi, Magna Arena#221 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCR | Neytram vs 3QI | Coucou c&apos;est moi in Round 5 of Magna Arena#221, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639577697&amp;t=0h25m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>910</video:duration>
+    <video:publication_date>2025-12-09T18:35:25.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-12-17T18:35:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-throne-room-8/set/97223498/</loc>
   <lastmod>2025-12-09T18:19:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-29T14:20:01.000Z</video:publication_date>
     <video:uploader>bsktv_</video:uploader>
     <video:expiration_date>2025-12-07T14:20:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tws-ganon-s-castle/set/96871901/</loc>
-  <lastmod>2025-11-29T14:34:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797292/image-63ed305fe31eb88a5e906114b1fbb3f0.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FT | OmegaVitor vs Dreigel, TwS - Ganon&apos;s Castle - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FT | OmegaVitor vs Dreigel in Winners Round 2 of TwS - Ganon&apos;s Castle, streamed by twilight_squad
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630875856&amp;t=1h12m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>931</video:duration>
-    <video:publication_date>2025-11-29T14:17:56.000Z</video:publication_date>
-    <video:uploader>twilight_squad</video:uploader>
-    <video:expiration_date>2025-12-07T14:17:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
