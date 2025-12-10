@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-123/set/97240578/</loc>
-  <lastmod>2025-12-10T05:24:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-123/set/97240591/</loc>
+  <lastmod>2025-12-10T05:44:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858601/image-7830a2b5b175490920acf00d0c566fe0.png
+    </video:thumbnail_loc>
+    <video:title>
+      animepolice vs Iowndisgam, Melee @ Abbey Tavern #123 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch animepolice vs Iowndisgam in Losers Round 1 of Melee @ Abbey Tavern #123, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639957234&amp;t=3h10m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>515</video:duration>
+    <video:publication_date>2025-12-10T05:44:26.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-12-18T05:44:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-123/set/97240578/</loc>
+  <lastmod>2025-12-10T05:49:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2639957234&amp;t=2h51m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>707</video:duration>
+    <video:duration>1175</video:duration>
     <video:publication_date>2025-12-10T05:24:47.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-18T05:24:47.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-22T01:14:56.000Z</video:publication_date>
     <video:uploader>rutgers_melee</video:uploader>
     <video:expiration_date>2025-11-30T01:14:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rowan-ssbm-fall-2025-10x7-happy-birthday-melee/set/96589644/</loc>
-  <lastmod>2025-11-22T01:43:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849950/image-a9d65cbe2dc6611b8857787aed18b3ab.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fudge vs L7 | plush, Rowan SSBM Fall 2025 #10X7: Happy Birthday Melee! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fudge vs L7 | plush in Round 5 of Rowan SSBM Fall 2025 #10X7: Happy Birthday Melee!, streamed by slte_nj
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2624655989&amp;t=0h42m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>729</video:duration>
-    <video:publication_date>2025-11-22T01:11:34.000Z</video:publication_date>
-    <video:uploader>slte_nj</video:uploader>
-    <video:expiration_date>2025-11-30T01:11:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
