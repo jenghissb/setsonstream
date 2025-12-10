@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-18/set/97247134/</loc>
-  <lastmod>2025-12-10T21:39:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-18/set/97247071/</loc>
+  <lastmod>2025-12-10T21:58:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859985/image-944571bb5470ca8707bd80136115a078.png
+    </video:thumbnail_loc>
+    <video:title>
+      General Scales vs honey_o, VantagePoint 18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch General Scales vs honey_o in Grand Final of VantagePoint 18, streamed by smashpointseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2640396770&amp;t=4h3m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1139</video:duration>
+    <video:publication_date>2025-12-10T21:58:29.000Z</video:publication_date>
+    <video:uploader>smashpointseries</video:uploader>
+    <video:expiration_date>2025-12-18T21:58:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-18/set/97247134/</loc>
+  <lastmod>2025-12-10T21:55:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2640396770&amp;t=3h45m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>212</video:duration>
+    <video:duration>864</video:duration>
     <video:publication_date>2025-12-10T21:39:59.000Z</video:publication_date>
     <video:uploader>smashpointseries</video:uploader>
     <video:expiration_date>2025-12-18T21:39:59.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-30T10:32:37.000Z</video:publication_date>
     <video:uploader>toulouselaststock</video:uploader>
     <video:expiration_date>2025-12-08T10:32:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/glory-4/set/96881994/</loc>
-  <lastmod>2025-11-30T10:33:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829219/image-4d2e030266a8f16aa86b95454ac2c45f.png
-    </video:thumbnail_loc>
-    <video:title>
-      BMS | Luugi vs Raarchyor, GLORY 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BMS | Luugi vs Raarchyor in Winners Round 1 of GLORY 4, streamed by toulouselaststock
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631711606&amp;t=1h4m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>905</video:duration>
-    <video:publication_date>2025-11-30T10:17:27.000Z</video:publication_date>
-    <video:uploader>toulouselaststock</video:uploader>
-    <video:expiration_date>2025-12-08T10:17:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
