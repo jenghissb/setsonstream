@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-142/set/97239136/</loc>
-  <lastmod>2025-12-10T06:43:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857272/image-21e0f5bd55eee82351b5b29e1eb50f2c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Rafbox vs Muk.Lyfe | Marshall, Octagon #142 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rafbox vs Muk.Lyfe | Marshall in Losers Semi-Final of Octagon #142, streamed by satellitesmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639980693&amp;t=3h36m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>741</video:duration>
-    <video:publication_date>2025-12-10T06:43:04.000Z</video:publication_date>
-    <video:uploader>satellitesmash</video:uploader>
-    <video:expiration_date>2025-12-18T06:43:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-173-darude-sharkstorm/set/97241185/</loc>
-  <lastmod>2025-12-10T06:44:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-10T06:57:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2640040136&amp;t=1h56m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>657</video:duration>
+    <video:duration>648</video:duration>
     <video:publication_date>2025-12-10T06:44:28.000Z</video:publication_date>
     <video:uploader>ClubSmashTV</video:uploader>
     <video:expiration_date>2025-12-18T06:44:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-142/set/97239136/</loc>
+  <lastmod>2025-12-10T07:03:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857272/image-21e0f5bd55eee82351b5b29e1eb50f2c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Rafbox vs Muk.Lyfe | Marshall, Octagon #142 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rafbox vs Muk.Lyfe | Marshall in Losers Semi-Final of Octagon #142, streamed by satellitesmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639980693&amp;t=3h36m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1174</video:duration>
+    <video:publication_date>2025-12-10T06:43:04.000Z</video:publication_date>
+    <video:uploader>satellitesmash</video:uploader>
+    <video:expiration_date>2025-12-18T06:43:04.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
