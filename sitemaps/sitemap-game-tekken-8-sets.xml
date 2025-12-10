@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-83-norcal-2xko-tekken-weekly/set/97240054/</loc>
-  <lastmod>2025-12-10T05:42:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-83-norcal-2xko-tekken-weekly/set/97240057/</loc>
+  <lastmod>2025-12-10T06:18:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859529/image-95a9d20f2c945998e034b21e27c23060.png
+    </video:thumbnail_loc>
+    <video:title>
+      Chaime vs Madhouse | Dj norb, Guildhouse Tuesday 83 - Norcal 2XKO &amp; Tekken weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chaime vs Madhouse | Dj norb in Losers Final of Guildhouse Tuesday 83 - Norcal 2XKO &amp; Tekken weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2640019502&amp;t=2h10m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>495</video:duration>
+    <video:publication_date>2025-12-10T06:18:38.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-12-18T06:18:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-83-norcal-2xko-tekken-weekly/set/97240054/</loc>
+  <lastmod>2025-12-10T05:55:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2640019502&amp;t=1h33m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>652</video:duration>
+    <video:duration>753</video:duration>
     <video:publication_date>2025-12-10T05:42:09.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-12-18T05:42:09.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-24T00:37:46.000Z</video:publication_date>
     <video:uploader>DistrictEDC</video:uploader>
     <video:expiration_date>2025-12-02T00:37:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-alley-25-presented-by-hampton-inn/set/96725070/</loc>
-  <lastmod>2025-11-24T00:37:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849276/image-1415fcdebe36ebac42bde9916f8f4512.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Aeriqui vs Qsef, The Alley #25 Presented by Hampton Inn - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aeriqui vs Qsef in Winners Final of The Alley #25 Presented by Hampton Inn, streamed by DistrictEDC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626382309&amp;t=1h55m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1005</video:duration>
-    <video:publication_date>2025-11-24T00:19:41.000Z</video:publication_date>
-    <video:uploader>DistrictEDC</video:uploader>
-    <video:expiration_date>2025-12-02T00:19:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
