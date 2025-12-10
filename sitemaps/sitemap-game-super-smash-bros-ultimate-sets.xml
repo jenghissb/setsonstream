@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-212/set/97241997/</loc>
+  <lastmod>2025-12-10T10:17:38.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859066/image-43bf8c3e41734e140ca74f737cb290a8.png
+    </video:thumbnail_loc>
+    <video:title>
+      もちい(mochii) vs 8LX | HIKARU, Weekly Smash Party ～スマパ～ #212 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch もちい(mochii) vs 8LX | HIKARU in Winners Round 1 of Weekly Smash Party ～スマパ～ #212, streamed by VGBootCamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2640154952&amp;t=0h7m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>173</video:duration>
+    <video:publication_date>2025-12-10T10:17:38.000Z</video:publication_date>
+    <video:uploader>VGBootCamp</video:uploader>
+    <video:expiration_date>2025-12-18T10:17:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-173-darude-sharkstorm/set/97241201/</loc>
   <lastmod>2025-12-10T07:34:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-30T01:21:52.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-12-08T01:21:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platnite-185-thanksgiving-break/set/96904024/</loc>
-  <lastmod>2025-11-30T01:32:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856533/image-df6d9f1b343c0227f9c4eabed45dce11.png
-    </video:thumbnail_loc>
-    <video:title>
-      GRIND|MRL | Superberry vs Squishyballs12, Platnite 185: Thanksgiving Break! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GRIND|MRL | Superberry vs Squishyballs12 in Winners Round 1 of Platnite 185: Thanksgiving Break!, streamed by UCO Esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/VjkRZVQq6do?start=2425s
-    </video:player_loc>
-    <video:duration>576</video:duration>
-    <video:publication_date>2025-11-30T01:20:54.000Z</video:publication_date>
-    <video:uploader>UCO Esports</video:uploader>
-    <video:expiration_date>2025-12-08T01:20:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
