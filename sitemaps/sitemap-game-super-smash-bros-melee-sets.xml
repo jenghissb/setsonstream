@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/new-game-plus-revival-9-8/set/97230651/</loc>
+  <lastmod>2025-12-10T01:02:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860281/image-6c9bed859c1d8cbe3477fb3f2116bd7d.png
+    </video:thumbnail_loc>
+    <video:title>
+      hc | saucymain vs MOOP, New Game Plus Revival 9.8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hc | saucymain vs MOOP in Winners Round 2 of New Game Plus Revival 9.8, streamed by meleeboston
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2639875387&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>432</video:duration>
+    <video:publication_date>2025-12-10T00:50:36.000Z</video:publication_date>
+    <video:uploader>meleeboston</video:uploader>
+    <video:expiration_date>2025-12-18T00:50:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-36-wendy-wu-homecoming-warrior/set/97221098/</loc>
   <lastmod>2025-12-09T07:48:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-21T05:06:41.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-11-29T05:06:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bmw-152/set/96562822/</loc>
-  <lastmod>2025-11-21T05:06:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853049/image-a32d85576858a5373f2824e4cc856430.png
-    </video:thumbnail_loc>
-    <video:title>
-      Melen vs EddieTheKid, BMW #152 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Melen vs EddieTheKid in Losers Final of BMW #152, streamed by BaltimoreMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2623825438&amp;t=3h56m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>391</video:duration>
-    <video:publication_date>2025-11-21T04:55:49.000Z</video:publication_date>
-    <video:uploader>BaltimoreMelee</video:uploader>
-    <video:expiration_date>2025-11-29T04:55:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
