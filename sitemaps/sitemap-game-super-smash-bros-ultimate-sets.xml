@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-183-smash-bros-ultimate/set/97248814/</loc>
-  <lastmod>2025-12-10T23:04:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-183-smash-bros-ultimate/set/97248815/</loc>
+  <lastmod>2025-12-10T23:19:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860202/image-67038d4aa4004e37b804bb2bbe098751.png
+    </video:thumbnail_loc>
+    <video:title>
+      AXB | Neitor vs PM | Emilio, NOT DM #183 SMASH BROS ULTIMATE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AXB | Neitor vs PM | Emilio in Winners Semi-Final of NOT DM #183 SMASH BROS ULTIMATE, streamed by walito_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2640586499&amp;t=1h8m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>766</video:duration>
+    <video:publication_date>2025-12-10T23:19:17.000Z</video:publication_date>
+    <video:uploader>walito_tv</video:uploader>
+    <video:expiration_date>2025-12-18T23:19:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-183-smash-bros-ultimate/set/97248814/</loc>
+  <lastmod>2025-12-10T23:20:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2640586499&amp;t=0h53m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>582</video:duration>
+    <video:duration>875</video:duration>
     <video:publication_date>2025-12-10T23:04:51.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2025-12-18T23:04:51.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-30T11:12:44.000Z</video:publication_date>
     <video:uploader>toulouselaststock</video:uploader>
     <video:expiration_date>2025-12-08T11:12:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/glory-4/set/96882059/</loc>
-  <lastmod>2025-11-30T11:26:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/829219/image-4d2e030266a8f16aa86b95454ac2c45f.png
-    </video:thumbnail_loc>
-    <video:title>
-      AndresFn vs Joni, GLORY 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AndresFn vs Joni in Losers Round 3 of GLORY 4, streamed by mysticsquad_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631694130&amp;t=2h40m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1147</video:duration>
-    <video:publication_date>2025-11-30T11:06:17.000Z</video:publication_date>
-    <video:uploader>mysticsquad_tv</video:uploader>
-    <video:expiration_date>2025-12-08T11:06:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
