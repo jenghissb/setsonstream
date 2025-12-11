@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-142-maesuma-hit-142/set/97265150/</loc>
+  <lastmod>2025-12-11T12:50:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856671/image-61e610a2a88d0e69187a970ef4bcd118.png
+    </video:thumbnail_loc>
+    <video:title>
+      E36 | Hurt vs Kome, マエスマ&apos;HIT#142 / Maesuma&apos;HIT#142 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch E36 | Hurt vs Kome in Grand Final of マエスマ&apos;HIT#142 / Maesuma&apos;HIT#142, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/M0SbrAU2rJU?start=9492s
+    </video:player_loc>
+    <video:duration>678</video:duration>
+    <video:publication_date>2025-12-11T12:37:45.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-12-19T12:37:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-142-maesuma-hit-142/set/97265165/</loc>
-  <lastmod>2025-12-11T12:24:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-11T12:39:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/M0SbrAU2rJU?start=8676s
     </video:player_loc>
-    <video:duration>753</video:duration>
+    <video:duration>813</video:duration>
     <video:publication_date>2025-12-11T12:24:09.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-12-19T12:24:09.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-30T22:18:00.000Z</video:publication_date>
     <video:uploader>usuthf</video:uploader>
     <video:expiration_date>2025-12-08T22:18:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/no-style-skirmish-november-2025/set/96930746/</loc>
-  <lastmod>2025-11-30T22:30:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847555/image-cadaf489688fcf662b79074c8e01ff3c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bulldogg vs JP FS Syn! | Eclair, No Style Skirmish - November 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bulldogg vs JP FS Syn! | Eclair in Winners Semi-Final of No Style Skirmish - November 2025, streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631998194&amp;t=4h25m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>731</video:duration>
-    <video:publication_date>2025-11-30T22:16:00.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2025-12-08T22:16:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
