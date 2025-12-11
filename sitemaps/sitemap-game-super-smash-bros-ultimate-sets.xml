@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sigad-weekly-102/set/97277329/</loc>
+  <lastmod>2025-12-11T23:38:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860975/image-7ca074f3ad1d4b711793373aba2ccdca.png
+    </video:thumbnail_loc>
+    <video:title>
+      :( | Abacho vs Sulz, Sigad Weekly #102 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch :( | Abacho vs Sulz in Winners Round 2 of Sigad Weekly #102, streamed by DavoRaibu
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2641466265&amp;t=0h4m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>742</video:duration>
+    <video:publication_date>2025-12-11T23:38:05.000Z</video:publication_date>
+    <video:uploader>DavoRaibu</video:uploader>
+    <video:expiration_date>2025-12-19T23:38:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-allstars-11/set/97270577/</loc>
   <lastmod>2025-12-11T23:17:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-01T01:57:05.000Z</video:publication_date>
     <video:uploader>SoulArts (SoulArtsVGC)</video:uploader>
     <video:expiration_date>2025-12-09T01:57:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/true-fire-tactics-smash-70/set/96947321/</loc>
-  <lastmod>2025-12-01T02:00:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855465/image-ff6a0b57e4cfd31de692acc627f5da5f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Yummy vs RM | WFF | Uchiki, True Fire Tactics: Smash #70 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yummy vs RM | WFF | Uchiki in Winners Semi-Final of True Fire Tactics: Smash #70, streamed by TFT_Frank
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/V-sTzUeRBEA?start=6461s
-    </video:player_loc>
-    <video:duration>506</video:duration>
-    <video:publication_date>2025-12-01T01:50:53.000Z</video:publication_date>
-    <video:uploader>TFT_Frank</video:uploader>
-    <video:expiration_date>2025-12-09T01:50:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
