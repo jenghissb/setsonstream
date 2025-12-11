@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-142-maesuma-hit-142/set/97265148/</loc>
-  <lastmod>2025-12-11T11:23:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-142-maesuma-hit-142/set/97265149/</loc>
+  <lastmod>2025-12-11T11:47:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856671/image-61e610a2a88d0e69187a970ef4bcd118.png
+    </video:thumbnail_loc>
+    <video:title>
+      ス | スノー(su | sunoo) vs E36 | Hurt, マエスマ&apos;HIT#142 / Maesuma&apos;HIT#142 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ス | スノー(su | sunoo) vs E36 | Hurt in Winners Final of マエスマ&apos;HIT#142 / Maesuma&apos;HIT#142, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/M0SbrAU2rJU?start=6460s
+    </video:player_loc>
+    <video:duration>230</video:duration>
+    <video:publication_date>2025-12-11T11:47:13.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2025-12-19T11:47:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-142-maesuma-hit-142/set/97265148/</loc>
+  <lastmod>2025-12-11T11:46:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/M0SbrAU2rJU?start=5044s
     </video:player_loc>
-    <video:duration>615</video:duration>
+    <video:duration>1291</video:duration>
     <video:publication_date>2025-12-11T11:23:37.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2025-12-19T11:23:37.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-11-30T22:13:39.000Z</video:publication_date>
     <video:uploader>neondreamsarcade</video:uploader>
     <video:expiration_date>2025-12-08T22:13:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sunrise-league-5/set/96933297/</loc>
-  <lastmod>2025-11-30T22:19:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854005/image-0a03cdf5a5fb4d0c20cc74c420790d91.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kaiju.SHP | DIO vs DAMAGE | DontuB, SUNRISE LEAGUE #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kaiju.SHP | DIO vs DAMAGE | DontuB in Losers Quarter-Final of SUNRISE LEAGUE #5, streamed by usuthf
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631980880&amp;t=4h41m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>518</video:duration>
-    <video:publication_date>2025-11-30T22:08:46.000Z</video:publication_date>
-    <video:uploader>usuthf</video:uploader>
-    <video:expiration_date>2025-12-08T22:08:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
