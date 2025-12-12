@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-retro-collection-december-10th-11th-2025/set/97286901/</loc>
+  <lastmod>2025-12-12T06:31:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859860/image-4b42c1ff20f5aa6b5278f097eb18d279.png
+    </video:thumbnail_loc>
+    <video:title>
+      X&apos;avier vs FalcoVille | CheeseKerd, The Retro Collection: December 10th  - 11th, 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch X&apos;avier vs FalcoVille | CheeseKerd in Grand Final of The Retro Collection: December 10th  - 11th, 2025, streamed by OlyTRC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=OlyTRC&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1466</video:duration>
+    <video:publication_date>2025-12-12T06:31:08.000Z</video:publication_date>
+    <video:uploader>OlyTRC</video:uploader>
+    <video:expiration_date>2025-12-20T06:31:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/foco-ultimate-weekly-410/set/97287927/</loc>
   <lastmod>2025-12-12T05:44:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-02T02:43:14.000Z</video:publication_date>
     <video:uploader>battlefieldswoh</video:uploader>
     <video:expiration_date>2025-12-10T02:43:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-247/set/96978143/</loc>
-  <lastmod>2025-12-02T02:59:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857392/image-0ad862827e6f4b433048c378ed4070b6.png
-    </video:thumbnail_loc>
-    <video:title>
-      OU | !. | Rob. vs OU | Spectre, Movement Smash # 247 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OU | !. | Rob. vs OU | Spectre in Winners Quarter-Final of Movement Smash # 247, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2633136908&amp;t=1h1m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>876</video:duration>
-    <video:publication_date>2025-12-02T02:42:18.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2025-12-10T02:42:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
