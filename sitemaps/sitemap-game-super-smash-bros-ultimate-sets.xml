@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-116-3/set/97291448/</loc>
+  <lastmod>2025-12-12T11:30:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859111/image-f0eb193e2d7a74f657bffbeb7382d615.png
+    </video:thumbnail_loc>
+    <video:title>
+      Karaage vs むきむきがいこつ(mukimukigaikotsu), Smash薬院#116 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Karaage vs むきむきがいこつ(mukimukigaikotsu) in Winners Quarter-Final of Smash薬院#116, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/-y5r7F4Nzvg?start=1912s
+    </video:player_loc>
+    <video:duration>800</video:duration>
+    <video:publication_date>2025-12-12T11:16:39.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-12-20T11:16:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/12-344/set/97291546/</loc>
-  <lastmod>2025-12-12T11:14:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-12T11:34:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/tJoUW4jcXaI?start=2579s
     </video:player_loc>
-    <video:duration>123</video:duration>
+    <video:duration>1106</video:duration>
     <video:publication_date>2025-12-12T11:14:37.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-20T11:14:37.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-116-3/set/97291446/</loc>
-  <lastmod>2025-12-12T11:05:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-12T11:17:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/-y5r7F4Nzvg?start=1231s
     </video:player_loc>
-    <video:duration>682</video:duration>
+    <video:duration>607</video:duration>
     <video:publication_date>2025-12-12T11:05:18.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2025-12-20T11:05:18.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-02T02:54:20.000Z</video:publication_date>
     <video:uploader>thereplayrunback</video:uploader>
     <video:expiration_date>2025-12-10T02:54:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-143-heart-of-the-game/set/96970458/</loc>
-  <lastmod>2025-12-02T03:12:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856280/image-260e56b82200cb00c2b8a4b76d94bca7.png
-    </video:thumbnail_loc>
-    <video:title>
-      MRW vs 716 | KingCoreyFTW, Monday Night SmashBall 143 @ Heart Of The Game - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MRW vs 716 | KingCoreyFTW in Grand Final Reset of Monday Night SmashBall 143 @ Heart Of The Game, streamed by 716esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2633045150&amp;t=3h5m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1200</video:duration>
-    <video:publication_date>2025-12-02T02:49:01.000Z</video:publication_date>
-    <video:uploader>716esports</video:uploader>
-    <video:expiration_date>2025-12-10T02:49:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
