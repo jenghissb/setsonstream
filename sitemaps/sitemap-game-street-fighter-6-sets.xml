@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mhm-the-mini-mayhem-120/set/97283004/</loc>
+  <lastmod>2025-12-12T01:56:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860539/image-77f3fc1a9cb1f9175dea635e93f5d911.png
+    </video:thumbnail_loc>
+    <video:title>
+      Muhbeans vs MHM | Luminos, MHM: The Mini Mayhem #120 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Muhbeans vs MHM | Luminos in Winners Semi-Final of MHM: The Mini Mayhem #120, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2641502496&amp;t=1h30m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>638</video:duration>
+    <video:publication_date>2025-12-12T01:43:15.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2025-12-20T01:43:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-100/set/97265312/</loc>
   <lastmod>2025-12-11T12:07:02.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-23T00:46:41.000Z</video:publication_date>
     <video:uploader>studysessionlive</video:uploader>
     <video:expiration_date>2025-12-01T00:46:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sunrise-trials/set/96662291/</loc>
-  <lastmod>2025-11-23T01:08:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838537/image-176c504f7de7140cae780cc4e5cf7ce1.png
-    </video:thumbnail_loc>
-    <video:title>
-      EM | Teach vs Single Buuda, Sunrise Trials - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EM | Teach vs Single Buuda in Losers Quarter-Final of Sunrise Trials, streamed by PEI_FighterZ
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625213292&amp;t=7h52m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>575</video:duration>
-    <video:publication_date>2025-11-23T00:42:29.000Z</video:publication_date>
-    <video:uploader>PEI_FighterZ</video:uploader>
-    <video:expiration_date>2025-12-01T00:42:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
