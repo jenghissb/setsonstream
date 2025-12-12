@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-50/set/97283587/</loc>
+  <lastmod>2025-12-12T03:19:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860735/image-85c0ec02c00ef6cdf68375769aa67e7f.png
+    </video:thumbnail_loc>
+    <video:title>
+      CF | CPU0 vs IamFrogg, Wasteland Warriors #50 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CF | CPU0 vs IamFrogg in Winners Semi-Final of Wasteland Warriors #50, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2641566546&amp;t=1h30m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>503</video:duration>
+    <video:publication_date>2025-12-12T03:00:26.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2025-12-20T03:00:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-50/set/97283588/</loc>
-  <lastmod>2025-12-12T02:46:43.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-12T03:08:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2641566546&amp;t=1h17m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1296</video:duration>
+    <video:duration>767</video:duration>
     <video:publication_date>2025-12-12T02:46:43.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-12-20T02:46:43.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-20T01:20:13.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-11-28T01:20:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-9-21/set/96521455/</loc>
-  <lastmod>2025-11-20T01:23:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853894/image-6f5b2c1b3fc847588bede10f28c5a166.png
-    </video:thumbnail_loc>
-    <video:title>
-      Toxic vs Dice_R, HoG: Burn 9.21 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Toxic vs Dice_R in Round 5 of HoG: Burn 9.21, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622953992&amp;t=0h42m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>745</video:duration>
-    <video:publication_date>2025-11-20T01:07:25.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-11-28T01:07:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
