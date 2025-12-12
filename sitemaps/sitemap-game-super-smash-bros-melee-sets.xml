@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2641627660&amp;t=2h41m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>317</video:duration>
+    <video:duration>895</video:duration>
     <video:publication_date>2025-12-12T05:39:28.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-12-20T05:39:28.000Z</video:expiration_date>
@@ -42,16 +42,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2641669520&amp;t=1h31m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>301</video:duration>
+    <video:duration>879</video:duration>
     <video:publication_date>2025-12-12T05:39:44.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-12-20T05:39:44.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crt-legacy-14/set/97287607/</loc>
-  <lastmod>2025-12-12T05:32:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crt-legacy-14/set/97287639/</loc>
+  <lastmod>2025-12-12T05:45:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860444/image-c92e8c79e89acdfe23cf39dc30df0c6b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TUK | SpiritGun vs Bunnyx, CRT Legacy #14 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TUK | SpiritGun vs Bunnyx in Losers Final of CRT Legacy #14, streamed by flatmen
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2641676891&amp;t=1h25m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>518</video:duration>
+    <video:publication_date>2025-12-12T05:45:45.000Z</video:publication_date>
+    <video:uploader>flatmen</video:uploader>
+    <video:expiration_date>2025-12-20T05:45:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crt-legacy-14/set/97287607/</loc>
+  <lastmod>2025-12-12T05:50:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2641676891&amp;t=1h12m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>716</video:duration>
+    <video:duration>769</video:duration>
     <video:publication_date>2025-12-12T05:32:49.000Z</video:publication_date>
     <video:uploader>flatmen</video:uploader>
     <video:expiration_date>2025-12-20T05:32:49.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-24T00:12:20.000Z</video:publication_date>
     <video:uploader>cppmelee</video:uploader>
     <video:expiration_date>2025-12-02T00:12:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-3/set/96730227/</loc>
-  <lastmod>2025-11-24T00:30:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843016/image-3a27e10c5021e3477ff6580c2f5c3ca5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yeet | Womb! vs angst, Melee at Recess 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yeet | Womb! vs angst in Winners Semi-Final of Melee at Recess 3, streamed by devdoggxx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626362989&amp;t=2h15m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>598</video:duration>
-    <video:publication_date>2025-11-24T00:12:12.000Z</video:publication_date>
-    <video:uploader>devdoggxx</video:uploader>
-    <video:expiration_date>2025-12-02T00:12:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
