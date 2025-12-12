@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-116-3/set/97291425/</loc>
+  <lastmod>2025-12-12T10:44:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859111/image-f0eb193e2d7a74f657bffbeb7382d615.png
+    </video:thumbnail_loc>
+    <video:title>
+      たに(tani) vs りっちー(ritchii), Smash薬院#116 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch たに(tani) vs りっちー(ritchii) in Winners Round 1 of Smash薬院#116, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/-y5r7F4Nzvg?start=0s
+    </video:player_loc>
+    <video:duration>179</video:duration>
+    <video:publication_date>2025-12-12T10:44:28.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2025-12-20T10:44:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-retro-collection-december-10th-11th-2025/set/97286901/</loc>
   <lastmod>2025-12-12T07:05:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-02T02:43:36.000Z</video:publication_date>
     <video:uploader>Lylak_SSB</video:uploader>
     <video:expiration_date>2025-12-10T02:43:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/battlefield-swoh-37/set/96972035/</loc>
-  <lastmod>2025-12-02T03:24:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856953/image-0ef2f02f276718879504950451823bb9.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Phirbs Friend | ToastedArt vs Tweak, Battlefield SWOH #37 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Phirbs Friend | ToastedArt vs Tweak in Grand Final of Battlefield SWOH #37, streamed by battlefieldswoh
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2633074346&amp;t=2h22m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2301</video:duration>
-    <video:publication_date>2025-12-02T02:43:14.000Z</video:publication_date>
-    <video:uploader>battlefieldswoh</video:uploader>
-    <video:expiration_date>2025-12-10T02:43:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
