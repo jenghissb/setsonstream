@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fnac-ssbu-2/set/97325407/</loc>
+  <lastmod>2025-12-13T10:03:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859219/image-6d33238bbe43972d1d6971e56d9f24d2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      N Retro vs Inkling Park, FNAC SSBU #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch N Retro vs Inkling Park in Winners Round 1 of FNAC SSBU #2, streamed by smashasturias
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642684716&amp;t=0h2m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>758</video:duration>
+    <video:publication_date>2025-12-13T10:03:29.000Z</video:publication_date>
+    <video:uploader>smashasturias</video:uploader>
+    <video:expiration_date>2025-12-21T10:03:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-22/set/97323670/</loc>
   <lastmod>2025-12-13T08:58:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-04T03:13:21.000Z</video:publication_date>
     <video:uploader>nopausetournaments</video:uploader>
     <video:expiration_date>2025-12-12T03:13:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cu-in-bracket-62/set/97024715/</loc>
-  <lastmod>2025-12-04T03:23:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858631/image-f653a630e9db1e5354daea4c2c4a67ba.png
-    </video:thumbnail_loc>
-    <video:title>
-      ZARD | TBS Milkman vs C2F | Labubuminute, CU in Bracket 62 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZARD | TBS Milkman vs C2F | Labubuminute in Losers Semi-Final of CU in Bracket 62, streamed by topblastzoneny
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634654479&amp;t=4h31m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>709</video:duration>
-    <video:publication_date>2025-12-04T03:08:48.000Z</video:publication_date>
-    <video:uploader>topblastzoneny</video:uploader>
-    <video:expiration_date>2025-12-12T03:08:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
