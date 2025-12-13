@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bodied-12/set/97350511/</loc>
-  <lastmod>2025-12-13T20:23:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840816/image-bf4264bd04cf2f636355e9a917e45209.png
-    </video:thumbnail_loc>
-    <video:title>
-      Negat!ve vs Sheep, BODIED 12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Negat!ve vs Sheep in Winners Quarter-Final of BODIED 12, streamed by raviannn
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642966400&amp;t=2h22m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1049</video:duration>
-    <video:publication_date>2025-12-13T20:23:01.000Z</video:publication_date>
-    <video:uploader>raviannn</video:uploader>
-    <video:expiration_date>2025-12-21T20:23:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-05/set/97342688/</loc>
   <lastmod>2025-12-13T20:27:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -42,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642977283&amp;t=2h13m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>793</video:duration>
+    <video:duration>1364</video:duration>
     <video:publication_date>2025-12-13T20:27:17.000Z</video:publication_date>
     <video:uploader>kapa_team</video:uploader>
     <video:expiration_date>2025-12-21T20:27:17.000Z</video:expiration_date>
@@ -66,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642974455&amp;t=2h4m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1521</video:duration>
+    <video:duration>2092</video:duration>
     <video:publication_date>2025-12-13T20:15:09.000Z</video:publication_date>
     <video:uploader>rochestersmash</video:uploader>
     <video:expiration_date>2025-12-21T20:15:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bodied-12/set/97350511/</loc>
+  <lastmod>2025-12-13T20:40:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840816/image-bf4264bd04cf2f636355e9a917e45209.png
+    </video:thumbnail_loc>
+    <video:title>
+      Negat!ve vs Sheep, BODIED 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Negat!ve vs Sheep in Winners Quarter-Final of BODIED 12, streamed by raviannn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642966400&amp;t=2h22m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>890</video:duration>
+    <video:publication_date>2025-12-13T20:23:01.000Z</video:publication_date>
+    <video:uploader>raviannn</video:uploader>
+    <video:expiration_date>2025-12-21T20:23:01.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>

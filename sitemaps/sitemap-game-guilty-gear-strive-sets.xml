@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-26/set/97352653/</loc>
-  <lastmod>2025-12-13T20:20:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-26/set/97352663/</loc>
+  <lastmod>2025-12-13T20:37:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/835966/image-70a281fe604b0bba427b1cddef2f9b6c.png
+    </video:thumbnail_loc>
+    <video:title>
+      QUIZNOS | mooni vs Truly | Mangocopter, Tension x Shift 26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch QUIZNOS | mooni vs Truly | Mangocopter in Round 5 of Tension x Shift 26, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643019343&amp;t=1h32m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>757</video:duration>
+    <video:publication_date>2025-12-13T20:37:24.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2025-12-21T20:37:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-26/set/97352653/</loc>
+  <lastmod>2025-12-13T20:42:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643019343&amp;t=1h16m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1173</video:duration>
+    <video:duration>975</video:duration>
     <video:publication_date>2025-12-13T20:20:57.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-12-21T20:20:57.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-23T19:18:05.000Z</video:publication_date>
     <video:uploader>teamsp00ky</video:uploader>
     <video:expiration_date>2025-12-01T19:18:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-12-take-a-seat/set/96672965/</loc>
-  <lastmod>2025-11-23T03:24:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840486/image-c146e88c25a588a0ab266089adbb2a67.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nom vs Negative Ellie, Backstreet Brawl #12 - Take a Seat - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nom vs Negative Ellie in Grand Final of Backstreet Brawl #12 - Take a Seat, streamed by HopOnPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625359469&amp;t=7h20m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>498</video:duration>
-    <video:publication_date>2025-11-23T03:09:09.000Z</video:publication_date>
-    <video:uploader>HopOnPNW</video:uploader>
-    <video:expiration_date>2025-12-01T03:09:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
