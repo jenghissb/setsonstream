@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-arena-inferno-2025/set/97342430/</loc>
-  <lastmod>2025-12-13T19:05:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-arena-inferno-2025/set/97342431/</loc>
+  <lastmod>2025-12-13T19:15:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826686/image-19ca8bfa13d2470d248543ab2746922b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ThatGuySurfer vs Sharingan, The Arena: INFERNO 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ThatGuySurfer vs Sharingan in Losers Round 2 of The Arena: INFERNO 2025, streamed by gameheads_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642961420&amp;t=1h18m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>687</video:duration>
+    <video:publication_date>2025-12-13T19:15:03.000Z</video:publication_date>
+    <video:uploader>gameheads_tv</video:uploader>
+    <video:expiration_date>2025-12-21T19:15:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-arena-inferno-2025/set/97342430/</loc>
+  <lastmod>2025-12-13T19:16:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642961420&amp;t=1h8m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>451</video:duration>
+    <video:duration>337</video:duration>
     <video:publication_date>2025-12-13T19:05:08.000Z</video:publication_date>
     <video:uploader>gameheads_tv</video:uploader>
     <video:expiration_date>2025-12-21T19:05:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tension-x-shift-26/set/97347892/</loc>
-  <lastmod>2025-12-13T19:01:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835966/image-70a281fe604b0bba427b1cddef2f9b6c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jmryu vs ukr | woozy, Tension x Shift 26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jmryu vs ukr | woozy in Round 4 of Tension x Shift 26, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=GameArenaCo&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>676</video:duration>
-    <video:publication_date>2025-12-13T19:01:23.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-12-21T19:01:23.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7198,30 +7198,6 @@
     <video:publication_date>2025-11-23T22:22:59.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-12-01T22:22:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bronco-brawl-fall-2025/set/96724346/</loc>
-  <lastmod>2025-11-23T22:29:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836803/image-f82ef7bdb67e91ed46f0e089eafd3d03.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Mr. Bubbles vs Gragbag IV, Bronco Brawl Fall 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mr. Bubbles vs Gragbag IV in Winners Round 1 of Bronco Brawl Fall 2025, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626360553&amp;t=0h20m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>360</video:duration>
-    <video:publication_date>2025-11-23T22:13:26.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-12-01T22:13:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
