@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/holiday-bash-2025/set/97360590/</loc>
+  <lastmod>2025-12-13T23:41:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847553/image-1f602ebf2cfae3e04911a0a416fe9947.png
+    </video:thumbnail_loc>
+    <video:title>
+      Danikuma vs MaybeLater, Holiday Bash 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Danikuma vs MaybeLater in Losers Semi-Final of Holiday Bash 2025, streamed by PEI_FighterZ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642884106&amp;t=7h28m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>475</video:duration>
+    <video:publication_date>2025-12-13T23:41:41.000Z</video:publication_date>
+    <video:uploader>PEI_FighterZ</video:uploader>
+    <video:expiration_date>2025-12-21T23:41:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-december-2025/set/97356264/</loc>
   <lastmod>2025-12-13T23:02:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-24T02:34:29.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-12-02T02:34:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bronco-brawl-fall-2025/set/96736585/</loc>
-  <lastmod>2025-11-24T02:39:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836803/image-f82ef7bdb67e91ed46f0e089eafd3d03.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      joemon vs Abyssal, Bronco Brawl Fall 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch joemon vs Abyssal in Losers Round 1 of Bronco Brawl Fall 2025, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626360553&amp;t=4h31m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>513</video:duration>
-    <video:publication_date>2025-11-24T02:25:11.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-12-02T02:25:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

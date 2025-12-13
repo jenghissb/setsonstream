@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/zenith-san-diego-46-a-local-reborn/set/97373179/</loc>
+  <lastmod>2025-12-13T23:34:10.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851225/image-028bf50ce702d089db04f21e54562e1b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      2ADiego | ShadowEco vs JP, Zenith San Diego #46 | A Local Reborn - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 2ADiego | ShadowEco vs JP in Winners Quarter-Final of Zenith San Diego #46 | A Local Reborn, streamed by northcountyfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643206810&amp;t=0h31m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>927</video:duration>
+    <video:publication_date>2025-12-13T23:34:10.000Z</video:publication_date>
+    <video:uploader>northcountyfgc</video:uploader>
+    <video:expiration_date>2025-12-21T23:34:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-26/set/97352664/</loc>
   <lastmod>2025-12-13T21:17:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-25T01:36:25.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2025-12-03T01:36:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-85/set/96755384/</loc>
-  <lastmod>2025-11-25T01:13:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854946/image-59e9fdfaa13b480dfc940a47d3dc1439.png
-    </video:thumbnail_loc>
-    <video:title>
-      Calhoun0763 vs Xyned, Block String @ Wonderfly #85 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Calhoun0763 vs Xyned in Winners Quarter-Final of Block String @ Wonderfly #85, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2627278896&amp;t=0h7m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>796</video:duration>
-    <video:publication_date>2025-11-25T00:49:18.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-12-03T00:49:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
