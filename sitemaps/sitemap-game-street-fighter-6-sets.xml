@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-december-2025/set/97356293/</loc>
-  <lastmod>2025-12-13T22:02:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-december-2025/set/97356263/</loc>
+  <lastmod>2025-12-13T22:11:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857979/image-f687de051bcc1c9f62b60c294d8e460e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      4o4 | Musa vs Buddylikefriend, All Hands Monthly: December 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 4o4 | Musa vs Buddylikefriend in Winners Final of All Hands Monthly: December 2025, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643137667&amp;t=0h42m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1426</video:duration>
+    <video:publication_date>2025-12-13T22:11:07.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2025-12-21T22:11:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-december-2025/set/97356293/</loc>
+  <lastmod>2025-12-13T22:20:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643137667&amp;t=0h33m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>805</video:duration>
+    <video:duration>571</video:duration>
     <video:publication_date>2025-12-13T22:02:04.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-12-21T22:02:04.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-24T02:00:59.000Z</video:publication_date>
     <video:uploader>DistrictEDC</video:uploader>
     <video:expiration_date>2025-12-02T02:00:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bronco-brawl-fall-2025/set/96736572/</loc>
-  <lastmod>2025-11-24T02:19:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836803/image-f82ef7bdb67e91ed46f0e089eafd3d03.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Enzo vs SushiHeaven, Bronco Brawl Fall 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Enzo vs SushiHeaven in Winners Semi-Final of Bronco Brawl Fall 2025, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626360553&amp;t=4h5m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>646</video:duration>
-    <video:publication_date>2025-11-24T01:58:42.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-12-02T01:58:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

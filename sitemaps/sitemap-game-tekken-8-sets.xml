@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-infinite-oasis-kenjamin-s-shenanigans-edition/set/97366307/</loc>
-  <lastmod>2025-12-13T22:11:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-infinite-oasis-kenjamin-s-shenanigans-edition/set/97366308/</loc>
+  <lastmod>2025-12-13T22:21:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857147/image-d7fec3c9357de282d7b1beabf5e5a3c8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pineapple vs NO KINGS | CokeMilk, The Infinite Oasis: Kenjamin&apos;s Shenanigans Edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pineapple vs NO KINGS | CokeMilk in Winners Quarter-Final of The Infinite Oasis: Kenjamin&apos;s Shenanigans Edition, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642947712&amp;t=4h42m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>830</video:duration>
+    <video:publication_date>2025-12-13T22:21:03.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2025-12-21T22:21:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-infinite-oasis-kenjamin-s-shenanigans-edition/set/97366307/</loc>
+  <lastmod>2025-12-13T22:24:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642947712&amp;t=4h33m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>219</video:duration>
+    <video:duration>547</video:duration>
     <video:publication_date>2025-12-13T22:11:50.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-12-21T22:11:50.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-27T19:22:36.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2025-12-05T19:22:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-24/set/96822858/</loc>
-  <lastmod>2025-11-27T19:19:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848808/image-c5c6aa1d9d401c587f26505cc0718426.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ayorichie vs TR | WP | Cojax, Black Country Foundry #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ayorichie vs TR | WP | Cojax in Winners Round 2 of Black Country Foundry #24, streamed by bc_foundry
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2629468999&amp;t=0h38m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>532</video:duration>
-    <video:publication_date>2025-11-27T19:01:39.000Z</video:publication_date>
-    <video:uploader>bc_foundry</video:uploader>
-    <video:expiration_date>2025-12-05T19:01:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
