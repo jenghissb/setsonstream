@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-50/set/97333512/</loc>
-  <lastmod>2025-12-13T16:22:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-50/set/97333497/</loc>
+  <lastmod>2025-12-13T16:38:58.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856534/image-edb36fa9032d840df887cb0f71cc6d93.png
+    </video:thumbnail_loc>
+    <video:title>
+      DegruM vs Zeke, RogaFight #50 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DegruM vs Zeke in Grand Final of RogaFight #50, streamed by fgcrogaland
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642835379&amp;t=1h38m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1030</video:duration>
+    <video:publication_date>2025-12-13T16:38:58.000Z</video:publication_date>
+    <video:uploader>fgcrogaland</video:uploader>
+    <video:expiration_date>2025-12-21T16:38:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-50/set/97333512/</loc>
+  <lastmod>2025-12-13T16:47:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642835379&amp;t=1h21m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1411</video:duration>
+    <video:duration>1011</video:duration>
     <video:publication_date>2025-12-13T16:22:02.000Z</video:publication_date>
     <video:uploader>fgcrogaland</video:uploader>
     <video:expiration_date>2025-12-21T16:22:02.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-23T02:44:44.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2025-12-01T02:44:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-12-take-a-seat/set/96673025/</loc>
-  <lastmod>2025-11-23T02:46:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840486/image-c146e88c25a588a0ab266089adbb2a67.png
-    </video:thumbnail_loc>
-    <video:title>
-      FROG | Nyora vs Manoueverable, Backstreet Brawl #12 - Take a Seat - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FROG | Nyora vs Manoueverable in Losers Quarter-Final of Backstreet Brawl #12 - Take a Seat, streamed by HopOnPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625359469&amp;t=6h42m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>826</video:duration>
-    <video:publication_date>2025-11-23T02:30:30.000Z</video:publication_date>
-    <video:uploader>HopOnPNW</video:uploader>
-    <video:expiration_date>2025-12-01T02:30:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
