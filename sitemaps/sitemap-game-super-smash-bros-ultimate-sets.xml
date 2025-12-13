@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-22/set/97323684/</loc>
+  <lastmod>2025-12-13T08:15:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852359/image-13b621f13085ba00f28f9c1b814f2e8e.png
+    </video:thumbnail_loc>
+    <video:title>
+      K.O.G | エルオン(K . O . G | eruon) vs そるあ(sorua), INNOSUMA!!#22 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch K.O.G | エルオン(K . O . G | eruon) vs そるあ(sorua) in Losers Semi-Final of INNOSUMA!!#22, streamed by 南大阪スマブラオフ大会「INNOSUMA!!」
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/e36CZwVEFYc?start=10614s
+    </video:player_loc>
+    <video:duration>772</video:duration>
+    <video:publication_date>2025-12-13T08:01:15.000Z</video:publication_date>
+    <video:uploader>南大阪スマブラオフ大会「INNOSUMA!!」</video:uploader>
+    <video:expiration_date>2025-12-21T08:01:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-31/set/97319657/</loc>
-  <lastmod>2025-12-13T07:41:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-13T07:56:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642493778&amp;t=4h22m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>532</video:duration>
+    <video:duration>892</video:duration>
     <video:publication_date>2025-12-13T07:41:04.000Z</video:publication_date>
     <video:uploader>sonicbpro</video:uploader>
     <video:expiration_date>2025-12-21T07:41:04.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-04T03:06:25.000Z</video:publication_date>
     <video:uploader>thelegendarywes</video:uploader>
     <video:expiration_date>2025-12-12T03:06:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/jaxsmash-weekly-leaderboard-12-3-25/set/97021077/</loc>
-  <lastmod>2025-12-04T03:26:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858423/image-223de226726a7be39c89ccf19ca0c078.png
-    </video:thumbnail_loc>
-    <video:title>
-      AwDaSea vs chpstks, JaxSmash Weekly @ Leaderboard 12/3/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AwDaSea vs chpstks in Winners Final of JaxSmash Weekly @ Leaderboard 12/3/25, streamed by MorningTurtles
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634733273&amp;t=2h41m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1128</video:duration>
-    <video:publication_date>2025-12-04T03:06:18.000Z</video:publication_date>
-    <video:uploader>MorningTurtles</video:uploader>
-    <video:expiration_date>2025-12-12T03:06:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
