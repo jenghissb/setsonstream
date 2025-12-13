@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/fgc-meetups-110/set/97321628/</loc>
+  <lastmod>2025-12-13T05:07:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856005/image-e59d7e1ff79e87c5a2020f216b838a25.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      IPG | Aftaburn vs The Mayor, FGC Meetups 110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IPG | Aftaburn vs The Mayor in Winners Final of FGC Meetups 110, streamed by unrivaledtournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642466788&amp;t=2h2m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>783</video:duration>
+    <video:publication_date>2025-12-13T04:44:45.000Z</video:publication_date>
+    <video:uploader>unrivaledtournaments</video:uploader>
+    <video:expiration_date>2025-12-21T04:44:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/suplex-107/set/97316092/</loc>
-  <lastmod>2025-12-13T04:37:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-13T04:57:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642376294&amp;t=3h45m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>510</video:duration>
+    <video:duration>898</video:duration>
     <video:publication_date>2025-12-13T04:37:59.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-12-21T04:37:59.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-183/set/97317364/</loc>
-  <lastmod>2025-12-13T04:37:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-13T04:57:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642490282&amp;t=1h24m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>527</video:duration>
+    <video:duration>727</video:duration>
     <video:publication_date>2025-12-13T04:37:42.000Z</video:publication_date>
     <video:uploader>flynnsgamingfl</video:uploader>
     <video:expiration_date>2025-12-21T04:37:42.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-27T02:43:13.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2025-12-05T02:43:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-144/set/96808317/</loc>
-  <lastmod>2025-11-27T02:46:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855606/image-6f7a8c24399e18c209649ffe429e1891.png
-    </video:thumbnail_loc>
-    <video:title>
-      JFCA | JonConBoi vs LS | lil Empathy, Juicy Game Night #144 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JFCA | JonConBoi vs LS | lil Empathy in Losers Semi-Final of Juicy Game Night #144, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628949896&amp;t=1h13m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>861</video:duration>
-    <video:publication_date>2025-11-27T02:27:02.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2025-12-05T02:27:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
