@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642977283&amp;t=1h9m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>819</video:duration>
+    <video:duration>1599</video:duration>
     <video:publication_date>2025-12-13T19:23:13.000Z</video:publication_date>
     <video:uploader>kapa_team</video:uploader>
     <video:expiration_date>2025-12-21T19:23:13.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/jingle-bell-roc-2-2/set/97349851/</loc>
-  <lastmod>2025-12-13T19:26:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/jingle-bell-roc-2-2/set/97349864/</loc>
+  <lastmod>2025-12-13T19:38:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840849/image-cdcd14d9e6c6394276247bf87f4bf82c.png
+    </video:thumbnail_loc>
+    <video:title>
+      ROC | killerrobo vs Jboss, Jingle Bell ROC 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ROC | killerrobo vs Jboss in Losers Round 1 of Jingle Bell ROC 2, streamed by rochestersmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642974455&amp;t=1h28m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>661</video:duration>
+    <video:publication_date>2025-12-13T19:38:51.000Z</video:publication_date>
+    <video:uploader>rochestersmash</video:uploader>
+    <video:expiration_date>2025-12-21T19:38:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/jingle-bell-roc-2-2/set/97349851/</loc>
+  <lastmod>2025-12-13T19:44:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642974455&amp;t=1h15m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>638</video:duration>
+    <video:duration>676</video:duration>
     <video:publication_date>2025-12-13T19:26:14.000Z</video:publication_date>
     <video:uploader>rochestersmash</video:uploader>
     <video:expiration_date>2025-12-21T19:26:14.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-25T02:30:27.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-12-03T02:30:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-479/set/96762856/</loc>
-  <lastmod>2025-11-25T03:11:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855291/image-e9ea80e90dbc460cb23c2d9e9a1d4308.png
-    </video:thumbnail_loc>
-    <video:title>
-      ARC Raiders | Kaiki vs hi i&apos;m | kamuki, Monday Night Melee 479 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ARC Raiders | Kaiki vs hi i&apos;m | kamuki in Winners Quarter-Final of Monday Night Melee 479, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2627345098&amp;t=0h24m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2144</video:duration>
-    <video:publication_date>2025-11-25T02:29:40.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2025-12-03T02:29:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
