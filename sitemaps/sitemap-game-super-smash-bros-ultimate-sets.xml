@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/blazing-series-9/set/97301832/</loc>
-  <lastmod>2025-12-13T10:24:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/blazing-series-9/set/97301840/</loc>
+  <lastmod>2025-12-13T10:47:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/852964/image-7b6b6e1276638244a3499f35965e051f.jpg
     </video:thumbnail_loc>
     <video:title>
-      SUS | DaraenF vs Kami, Blazing Series 9 - Sets on Stream
+      Sen vs Moniaro, Blazing Series 9 - Sets on Stream
     </video:title>
     <video:description>
-      Watch SUS | DaraenF vs Kami in Winners Round 1 of Blazing Series 9, streamed by warpzonees
+      Watch Sen vs Moniaro in Winners Round 1 of Blazing Series 9, streamed by warpzonees
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642692018&amp;t=0h3m19s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2642692018&amp;t=0h27m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1099</video:duration>
-    <video:publication_date>2025-12-13T10:24:00.000Z</video:publication_date>
+    <video:duration>203</video:duration>
+    <video:publication_date>2025-12-13T10:47:56.000Z</video:publication_date>
     <video:uploader>warpzonees</video:uploader>
-    <video:expiration_date>2025-12-21T10:24:00.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-21T10:47:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fnac-ssbu-2/set/97325417/</loc>
+  <lastmod>2025-12-13T10:41:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859219/image-6d33238bbe43972d1d6971e56d9f24d2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VZ | Dovahkiin vs La cueva de Mun, FNAC SSBU #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VZ | Dovahkiin vs La cueva de Mun in Winners Quarter-Final of FNAC SSBU #2, streamed by smashasturias
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642689708&amp;t=0h27m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>591</video:duration>
+    <video:publication_date>2025-12-13T10:41:28.000Z</video:publication_date>
+    <video:uploader>smashasturias</video:uploader>
+    <video:expiration_date>2025-12-21T10:41:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fnac-ssbu-2/set/97325440/</loc>
-  <lastmod>2025-12-13T10:28:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-13T10:41:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642689708&amp;t=0h14m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>830</video:duration>
+    <video:duration>750</video:duration>
     <video:publication_date>2025-12-13T10:28:29.000Z</video:publication_date>
     <video:uploader>smashasturias</video:uploader>
     <video:expiration_date>2025-12-21T10:28:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/blazing-series-9/set/97301832/</loc>
+  <lastmod>2025-12-13T10:48:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852964/image-7b6b6e1276638244a3499f35965e051f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SUS | DaraenF vs Kami, Blazing Series 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SUS | DaraenF vs Kami in Winners Round 1 of Blazing Series 9, streamed by warpzonees
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642692018&amp;t=0h3m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1361</video:duration>
+    <video:publication_date>2025-12-13T10:24:00.000Z</video:publication_date>
+    <video:uploader>warpzonees</video:uploader>
+    <video:expiration_date>2025-12-21T10:24:00.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-04T03:20:40.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-12-12T03:20:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/phaze-fusion-44/set/97028630/</loc>
-  <lastmod>2025-12-04T03:43:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857878/image-7b3dca9712cd58671959aad5828ce8a5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Colorondo8 vs TF | Demi, PHAZE ➠ FUSION 44 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Colorondo8 vs TF | Demi in Winners Semi-Final of PHAZE ➠ FUSION 44, streamed by TV_Seven
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634750345&amp;t=2h31m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1364</video:duration>
-    <video:publication_date>2025-12-04T03:18:26.000Z</video:publication_date>
-    <video:uploader>TV_Seven</video:uploader>
-    <video:expiration_date>2025-12-12T03:18:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ursa-minor-68/set/97029333/</loc>
-  <lastmod>2025-12-04T03:26:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858296/image-99dce5c7613d6f053b3086b9f984bac2.png
-    </video:thumbnail_loc>
-    <video:title>
-      stiglord vs Crzy, URSA MINOR 68 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch stiglord vs Crzy in Winners Quarter-Final of URSA MINOR 68, streamed by SpringfieldSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634790775&amp;t=1h40m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>458</video:duration>
-    <video:publication_date>2025-12-04T03:16:24.000Z</video:publication_date>
-    <video:uploader>SpringfieldSmash</video:uploader>
-    <video:expiration_date>2025-12-12T03:16:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
