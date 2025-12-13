@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-arena-inferno-2025/set/97342396/</loc>
+  <lastmod>2025-12-13T18:14:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826686/image-19ca8bfa13d2470d248543ab2746922b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sharingan vs Channel 3 | conbeef, The Arena: INFERNO 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sharingan vs Channel 3 | conbeef in Winners Round 1 of The Arena: INFERNO 2025, streamed by gameheads_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642961420&amp;t=0h18m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>397</video:duration>
+    <video:publication_date>2025-12-13T18:14:46.000Z</video:publication_date>
+    <video:uploader>gameheads_tv</video:uploader>
+    <video:expiration_date>2025-12-21T18:14:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/flynn-s-arcade-183/set/97311742/</loc>
   <lastmod>2025-12-13T03:37:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-23T19:24:35.000Z</video:publication_date>
     <video:uploader>Incendiumgaming2</video:uploader>
     <video:expiration_date>2025-12-01T19:24:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/emirates-showdown-2025/set/96703716/</loc>
-  <lastmod>2025-11-23T11:49:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/778358/image-37d8a9e436f14986cb0d6cac44b95c0d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Abood bboy vs Swooshy, Emirates Showdown 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Abood bboy vs Swooshy in Winners Semi-Final of Emirates Showdown 2025, streamed by Vslashesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625859416&amp;t=2h49m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>933</video:duration>
-    <video:publication_date>2025-11-23T11:27:44.000Z</video:publication_date>
-    <video:uploader>Vslashesports</video:uploader>
-    <video:expiration_date>2025-12-01T11:27:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

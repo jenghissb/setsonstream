@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/holiday-bash-2025/set/97337302/</loc>
+  <lastmod>2025-12-13T18:19:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847553/image-1f602ebf2cfae3e04911a0a416fe9947.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nephetheus vs MaybeLater, Holiday Bash 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nephetheus vs MaybeLater in Grand Final of Holiday Bash 2025, streamed by PEI_FighterZ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642884106&amp;t=1h51m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>281</video:duration>
+    <video:publication_date>2025-12-13T18:05:18.000Z</video:publication_date>
+    <video:uploader>PEI_FighterZ</video:uploader>
+    <video:expiration_date>2025-12-21T18:05:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-128/set/97237867/</loc>
   <lastmod>2025-12-10T03:59:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-15T15:29:09.000Z</video:publication_date>
     <video:uploader>MerseysideFGC2</video:uploader>
     <video:expiration_date>2025-11-23T15:29:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306484/</loc>
-  <lastmod>2025-11-15T15:36:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/786810/image-8536df6ae5258db95350b0076eed8f7d.png
-    </video:thumbnail_loc>
-    <video:title>
-      FT3 | Dudeakoff vs releasebogus, Drowning Pools 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FT3 | Dudeakoff vs releasebogus in Winners Semi-Final of Drowning Pools 2025, streamed by MerseysideFGC2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619037817&amp;t=2h26m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>879</video:duration>
-    <video:publication_date>2025-11-15T14:59:04.000Z</video:publication_date>
-    <video:uploader>MerseysideFGC2</video:uploader>
-    <video:expiration_date>2025-11-23T14:59:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
