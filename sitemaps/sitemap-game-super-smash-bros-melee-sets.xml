@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-209/set/97306056/</loc>
+  <lastmod>2025-12-13T03:46:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860515/image-20ea2a69021acf2d7f7d99836a0ddc7d.png
+    </video:thumbnail_loc>
+    <video:title>
+      henghost vs kuro, Smash Night at Prodigy #209 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch henghost vs kuro in Grand Final Reset of Smash Night at Prodigy #209, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2642455442&amp;t=0h58m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>821</video:duration>
+    <video:publication_date>2025-12-13T03:25:58.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2025-12-21T03:25:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sbu-wolfie-wars-62/set/97307626/</loc>
-  <lastmod>2025-12-13T02:32:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-13T02:54:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2642315839&amp;t=2h58m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1165</video:duration>
+    <video:duration>834</video:duration>
     <video:publication_date>2025-12-13T02:32:49.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
     <video:expiration_date>2025-12-21T02:32:49.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-24T20:19:36.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2025-12-02T20:19:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-86/set/96748774/</loc>
-  <lastmod>2025-11-24T20:22:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854577/image-8ff3e65fdbafd6491dba456622f1eb87.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Graham vs LMQ2SB | 1pro, KnockOut Zone #86 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Graham vs LMQ2SB | 1pro in Losers Round 2 of KnockOut Zone #86, streamed by orbitalgoats
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626989037&amp;t=1h56m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1018</video:duration>
-    <video:publication_date>2025-11-24T20:01:08.000Z</video:publication_date>
-    <video:uploader>orbitalgoats</video:uploader>
-    <video:expiration_date>2025-12-02T20:01:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
