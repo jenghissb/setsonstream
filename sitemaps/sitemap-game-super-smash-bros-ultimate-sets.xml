@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-22/set/97323670/</loc>
+  <lastmod>2025-12-13T08:30:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852359/image-13b621f13085ba00f28f9c1b814f2e8e.png
+    </video:thumbnail_loc>
+    <video:title>
+      jin vs ジョニー(jonii), INNOSUMA!!#22 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch jin vs ジョニー(jonii) in Grand Final of INNOSUMA!!#22, streamed by 南大阪スマブラオフ大会「INNOSUMA!!」
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/e36CZwVEFYc?start=12388s
+    </video:player_loc>
+    <video:duration>916</video:duration>
+    <video:publication_date>2025-12-13T08:30:49.000Z</video:publication_date>
+    <video:uploader>南大阪スマブラオフ大会「INNOSUMA!!」</video:uploader>
+    <video:expiration_date>2025-12-21T08:30:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/innosuma-22/set/97323684/</loc>
   <lastmod>2025-12-13T08:15:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-04T03:08:48.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-12-12T03:08:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/game-night-at-dave-and-busters-76-50-prize-pool-ssbu/set/97019078/</loc>
-  <lastmod>2025-12-04T03:26:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858072/image-3e3fe023946983d5265c7ccd4eba1f7d.png
-    </video:thumbnail_loc>
-    <video:title>
-      SCB/Ug_nyc | FGCSusanoo vs MikemasterX10, Game Night at Dave and Busters #76 $50 prize pool SSBU - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SCB/Ug_nyc | FGCSusanoo vs MikemasterX10 in Winners Final of Game Night at Dave and Busters #76 $50 prize pool SSBU, streamed by thelegendarywes
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634735921&amp;t=2h38m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1116</video:duration>
-    <video:publication_date>2025-12-04T03:06:25.000Z</video:publication_date>
-    <video:uploader>thelegendarywes</video:uploader>
-    <video:expiration_date>2025-12-12T03:06:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
