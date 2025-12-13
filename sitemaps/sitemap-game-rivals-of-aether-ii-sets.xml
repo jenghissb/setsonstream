@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-9-isthmian-gaming/set/97363703/</loc>
-  <lastmod>2025-12-13T22:16:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-9-isthmian-gaming/set/97363676/</loc>
+  <lastmod>2025-12-13T22:38:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857868/image-eabb28624a6cf2e2d48e1a259184bf18.png
+    </video:thumbnail_loc>
+    <video:title>
+      GirthwormJim vs Ubergronk, Triple Dunk #9 @ Isthmian Gaming - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GirthwormJim vs Ubergronk in Winners Semi-Final of Triple Dunk #9 @ Isthmian Gaming, streamed by IsthmianGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643136762&amp;t=1h11m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>681</video:duration>
+    <video:publication_date>2025-12-13T22:38:39.000Z</video:publication_date>
+    <video:uploader>IsthmianGaming</video:uploader>
+    <video:expiration_date>2025-12-21T22:38:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-9-isthmian-gaming/set/97363703/</loc>
+  <lastmod>2025-12-13T22:42:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643136762&amp;t=0h48m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1129</video:duration>
+    <video:duration>644</video:duration>
     <video:publication_date>2025-12-13T22:16:04.000Z</video:publication_date>
     <video:uploader>IsthmianGaming</video:uploader>
     <video:expiration_date>2025-12-21T22:16:04.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-20T02:32:54.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2025-11-28T02:32:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-11-19-25/set/96528664/</loc>
-  <lastmod>2025-11-20T02:33:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853523/image-f18fb392cb292f10359de527ead82913.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rusy vs SPORK | Phantom, GoTE Rivals 2 and more (11/19/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rusy vs SPORK | Phantom in Winners Final of GoTE Rivals 2 and more (11/19/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622964482&amp;t=1h25m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1020</video:duration>
-    <video:publication_date>2025-11-20T02:03:47.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-11-28T02:03:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
