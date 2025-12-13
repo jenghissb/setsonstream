@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-grid-xxxix/set/97363505/</loc>
+  <lastmod>2025-12-13T21:42:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848865/image-0121eaf3b7cacad5d53472f2e1a78f5e.png
+    </video:thumbnail_loc>
+    <video:title>
+      PS | KungZero vs THG | Soft &amp; Wet, Iron Grid XXXIX - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PS | KungZero vs THG | Soft &amp; Wet in Winners Semi-Final of Iron Grid XXXIX, streamed by IronGridFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643029958&amp;t=2h25m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>449</video:duration>
+    <video:publication_date>2025-12-13T21:42:27.000Z</video:publication_date>
+    <video:uploader>IronGridFGC</video:uploader>
+    <video:expiration_date>2025-12-21T21:42:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/fgc-meetups-110/set/97321628/</loc>
   <lastmod>2025-12-13T05:07:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-27T03:00:50.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2025-12-05T03:00:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-144/set/96808318/</loc>
-  <lastmod>2025-11-27T03:02:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855606/image-6f7a8c24399e18c209649ffe429e1891.png
-    </video:thumbnail_loc>
-    <video:title>
-      Plum vs LS | lil Empathy, Juicy Game Night #144 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Plum vs LS | lil Empathy in Losers Final of Juicy Game Night #144, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628949896&amp;t=1h29m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>958</video:duration>
-    <video:publication_date>2025-11-27T02:43:13.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2025-12-05T02:43:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

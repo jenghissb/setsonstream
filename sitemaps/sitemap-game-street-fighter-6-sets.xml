@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-december-2025/set/97356290/</loc>
-  <lastmod>2025-12-13T21:28:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-december-2025/set/97356291/</loc>
+  <lastmod>2025-12-13T21:38:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857979/image-f687de051bcc1c9f62b60c294d8e460e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Burboovas vs Nato18, All Hands Monthly: December 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Burboovas vs Nato18 in Losers Round 2 of All Hands Monthly: December 2025, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643137667&amp;t=0h9m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>699</video:duration>
+    <video:publication_date>2025-12-13T21:38:17.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2025-12-21T21:38:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-december-2025/set/97356290/</loc>
+  <lastmod>2025-12-13T21:44:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643137667&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>763</video:duration>
+    <video:duration>611</video:duration>
     <video:publication_date>2025-12-13T21:28:25.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-12-21T21:28:25.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-24T01:46:12.000Z</video:publication_date>
     <video:uploader>DistrictEDC</video:uploader>
     <video:expiration_date>2025-12-02T01:46:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bronco-brawl-fall-2025/set/96730955/</loc>
-  <lastmod>2025-11-24T01:45:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836803/image-f82ef7bdb67e91ed46f0e089eafd3d03.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Abyssal vs ileftmywifeandkids, Bronco Brawl Fall 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Abyssal vs ileftmywifeandkids in Losers Quarter-Final of Bronco Brawl Fall 2025, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2626360553&amp;t=3h34m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>511</video:duration>
-    <video:publication_date>2025-11-24T01:28:14.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-12-02T01:28:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
