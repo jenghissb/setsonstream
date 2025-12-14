@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1310/set/97397129/</loc>
+  <lastmod>2025-12-14T17:01:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857669/image-905334027afbca4525f89d03dae4e11a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      OVERCRAFT | TimeUpH vs ZPR | Karma, Ranking #1310 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OVERCRAFT | TimeUpH vs ZPR | Karma in Grand Final of Ranking #1310, streamed by keep_ladose
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643671975&amp;t=3h42m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>797</video:duration>
+    <video:publication_date>2025-12-14T17:01:08.000Z</video:publication_date>
+    <video:uploader>keep_ladose</video:uploader>
+    <video:expiration_date>2025-12-22T17:01:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1310/set/97397191/</loc>
   <lastmod>2025-12-14T16:53:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-29T17:08:58.000Z</video:publication_date>
     <video:uploader>tekkenaustria</video:uploader>
     <video:expiration_date>2025-12-07T17:08:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-november-2025/set/96877567/</loc>
-  <lastmod>2025-11-29T17:24:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846263/image-a8293dcd74ff056180bb77b3c8fc0dbe.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sephiblack vs NX | Ciityc0bra, Vermilion Gates November 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sephiblack vs NX | Ciityc0bra in Winners Round 1 of Vermilion Gates November 2025, streamed by CROSSOVER_GG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630924060&amp;t=2h31m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>671</video:duration>
-    <video:publication_date>2025-11-29T17:03:46.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_GG</video:uploader>
-    <video:expiration_date>2025-12-07T17:03:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
