@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cycom-exp-dition-1/set/97394055/</loc>
-  <lastmod>2025-12-14T11:16:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cycom-exp-dition-1/set/97394065/</loc>
+  <lastmod>2025-12-14T11:40:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,42 +10,18 @@
       https://images.start.gg/images/tournament/825778/image-34fab92aac1f09cb5b88d3cc1c202e16.png
     </video:thumbnail_loc>
     <video:title>
-      Noko&apos; vs CRAW, Cycom Expédition #1 - Sets on Stream
+      BH3 | RyuKai vs Phoenix, Cycom Expédition #1 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Noko&apos; vs CRAW in Winners Round 2 of Cycom Expédition #1, streamed by cycom
+      Watch BH3 | RyuKai vs Phoenix in Winners Round 3 of Cycom Expédition #1, streamed by cycom
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643603537&amp;t=0h15m59s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2643603537&amp;t=0h40m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1334</video:duration>
-    <video:publication_date>2025-12-14T11:16:21.000Z</video:publication_date>
+    <video:duration>570</video:duration>
+    <video:publication_date>2025-12-14T11:40:23.000Z</video:publication_date>
     <video:uploader>cycom</video:uploader>
-    <video:expiration_date>2025-12-22T11:16:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ultima-arena-36/set/97394560/</loc>
-  <lastmod>2025-12-14T11:18:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855924/image-e8f893b079cb249ae298cc137ddd5884.png
-    </video:thumbnail_loc>
-    <video:title>
-      ARK | FYS | Mabipofroyastoche vs ARK | | OyaNo, Ultima Arena #36 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ARK | FYS | Mabipofroyastoche vs ARK | | OyaNo in Round 3 of Ultima Arena #36, streamed by kuracow
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643588215&amp;t=0h55m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1210</video:duration>
-    <video:publication_date>2025-12-14T11:18:25.000Z</video:publication_date>
-    <video:uploader>kuracow</video:uploader>
-    <video:expiration_date>2025-12-22T11:18:25.000Z</video:expiration_date>
+    <video:expiration_date>2025-12-22T11:40:23.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -66,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643607937&amp;t=0h20m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>457</video:duration>
+    <video:duration>1135</video:duration>
     <video:publication_date>2025-12-14T11:30:58.000Z</video:publication_date>
     <video:uploader>smashbrositalia</video:uploader>
     <video:expiration_date>2025-12-22T11:30:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ultima-arena-36/set/97394560/</loc>
+  <lastmod>2025-12-14T11:38:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855924/image-e8f893b079cb249ae298cc137ddd5884.png
+    </video:thumbnail_loc>
+    <video:title>
+      ARK | FYS | Mabipofroyastoche vs ARK | | OyaNo, Ultima Arena #36 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ARK | FYS | Mabipofroyastoche vs ARK | | OyaNo in Round 3 of Ultima Arena #36, streamed by kuracow
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643588215&amp;t=0h55m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1119</video:duration>
+    <video:publication_date>2025-12-14T11:18:25.000Z</video:publication_date>
+    <video:uploader>kuracow</video:uploader>
+    <video:expiration_date>2025-12-22T11:18:25.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -94,6 +94,30 @@
     <video:publication_date>2025-12-14T11:18:01.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-12-22T11:18:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cycom-exp-dition-1/set/97394055/</loc>
+  <lastmod>2025-12-14T11:41:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/825778/image-34fab92aac1f09cb5b88d3cc1c202e16.png
+    </video:thumbnail_loc>
+    <video:title>
+      Noko&apos; vs CRAW, Cycom Expédition #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Noko&apos; vs CRAW in Winners Round 2 of Cycom Expédition #1, streamed by cycom
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643603537&amp;t=0h15m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1434</video:duration>
+    <video:publication_date>2025-12-14T11:16:21.000Z</video:publication_date>
+    <video:uploader>cycom</video:uploader>
+    <video:expiration_date>2025-12-22T11:16:21.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-05T20:09:36.000Z</video:publication_date>
     <video:uploader>umbcesports</video:uploader>
     <video:expiration_date>2025-12-13T20:09:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/newgate-42/set/97062909/</loc>
-  <lastmod>2025-12-05T20:23:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858022/image-cadf275683a884e3af4ba5b9eb45b5b4.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      EDC | Spectral vs SBF | Haru, NewGate #42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDC | Spectral vs SBF | Haru in Winners Quarter-Final of NewGate #42, streamed by murcielago_ssbu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636172654&amp;t=1h6m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>761</video:duration>
-    <video:publication_date>2025-12-05T20:07:40.000Z</video:publication_date>
-    <video:uploader>murcielago_ssbu</video:uploader>
-    <video:expiration_date>2025-12-13T20:07:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
