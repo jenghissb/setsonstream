@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/defend-the-district-13/set/97414031/</loc>
-  <lastmod>2025-12-14T22:11:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/defend-the-district-13/set/97414035/</loc>
+  <lastmod>2025-12-14T22:34:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853021/image-42e76c13a16ee83cf93f413726ea598f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Frostbyte vs Juicebox, Defend the District 13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Frostbyte vs Juicebox in Winners Semi-Final of Defend the District 13, streamed by KMLTournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2644012422&amp;t=1h31m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>919</video:duration>
+    <video:publication_date>2025-12-14T22:34:59.000Z</video:publication_date>
+    <video:uploader>KMLTournaments</video:uploader>
+    <video:expiration_date>2025-12-22T22:34:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/defend-the-district-13/set/97414031/</loc>
+  <lastmod>2025-12-14T22:42:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2644012422&amp;t=1h8m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1394</video:duration>
+    <video:duration>1402</video:duration>
     <video:publication_date>2025-12-14T22:11:33.000Z</video:publication_date>
     <video:uploader>KMLTournaments</video:uploader>
     <video:expiration_date>2025-12-22T22:11:33.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-27T00:08:09.000Z</video:publication_date>
     <video:uploader>nostyleesports2</video:uploader>
     <video:expiration_date>2025-12-05T00:08:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-11/set/96799917/</loc>
-  <lastmod>2025-11-27T00:11:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854633/image-e0d7d4543cec346b4d961732cde0547c.png
-    </video:thumbnail_loc>
-    <video:title>
-      azureon vs Ween, Gould St. Gauntlet #11 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch azureon vs Ween in Losers Round 3 of Gould St. Gauntlet #11, streamed by nostyleesports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628835148&amp;t=1h24m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>632</video:duration>
-    <video:publication_date>2025-11-26T23:56:51.000Z</video:publication_date>
-    <video:uploader>nostyleesports2</video:uploader>
-    <video:expiration_date>2025-12-04T23:56:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
