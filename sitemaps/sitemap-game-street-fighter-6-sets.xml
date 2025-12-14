@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/commonwealth-cup-season-5/set/97411228/</loc>
+  <lastmod>2025-12-14T23:08:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856857/image-74bea5fb087fdf75c7ee10a772008aeb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CC | Steven2brazu vs Sniffulls, Commonwealth Cup: Season 5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CC | Steven2brazu vs Sniffulls in Losers Quarter-Final of Commonwealth Cup: Season 5, streamed by qcs606
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2644016317&amp;t=1h44m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>878</video:duration>
+    <video:publication_date>2025-12-14T22:53:03.000Z</video:publication_date>
+    <video:uploader>qcs606</video:uploader>
+    <video:expiration_date>2025-12-22T22:53:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/commonwealth-cup-season-5/set/97411198/</loc>
-  <lastmod>2025-12-14T22:34:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-14T22:57:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2644016317&amp;t=1h26m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>919</video:duration>
+    <video:duration>1052</video:duration>
     <video:publication_date>2025-12-14T22:34:59.000Z</video:publication_date>
     <video:uploader>qcs606</video:uploader>
     <video:expiration_date>2025-12-22T22:34:59.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-26T03:32:24.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-12-04T03:32:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-77/set/96784887/</loc>
-  <lastmod>2025-11-26T03:39:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853823/image-b6889059bd5786c97d06d4302bef4662.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4 | Musa vs 4o4 | MessatsuIM, 4o4 by Sh33rZ: Street Fighter #77 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4 | Musa vs 4o4 | MessatsuIM in Losers Semi-Final of 4o4 by Sh33rZ: Street Fighter #77, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628114138&amp;t=2h26m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>461</video:duration>
-    <video:publication_date>2025-11-26T03:24:32.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-12-04T03:24:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
