@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-28/set/97381503/</loc>
+  <lastmod>2025-12-14T01:11:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847414/image-423746746bcf2f9db467ea783e132cc5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      waverlyCraving vs Edgy Hipster, SoCal Colosseum Clash #28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch waverlyCraving vs Edgy Hipster in Winners Round 1 of SoCal Colosseum Clash #28, streamed by durrplants
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643294929&amp;t=0h9m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>641</video:duration>
+    <video:publication_date>2025-12-14T01:11:47.000Z</video:publication_date>
+    <video:uploader>durrplants</video:uploader>
+    <video:expiration_date>2025-12-22T01:11:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/holiday-bash-2025/set/97337302/</loc>
   <lastmod>2025-12-13T18:19:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-15T15:52:37.000Z</video:publication_date>
     <video:uploader>MerseysideFGC2</video:uploader>
     <video:expiration_date>2025-11-23T15:52:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/drowning-pools-2025/set/96306496/</loc>
-  <lastmod>2025-11-15T16:03:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/786810/image-8536df6ae5258db95350b0076eed8f7d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zeke vs TS | Silly Puppy, Drowning Pools 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zeke vs TS | Silly Puppy in Losers Round 1 of Drowning Pools 2025, streamed by MerseysideFGC2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2619037817&amp;t=2h56m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>983</video:duration>
-    <video:publication_date>2025-11-15T15:29:09.000Z</video:publication_date>
-    <video:uploader>MerseysideFGC2</video:uploader>
-    <video:expiration_date>2025-11-23T15:29:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
