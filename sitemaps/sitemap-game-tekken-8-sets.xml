@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ranking-1310/set/97397103/</loc>
+  <lastmod>2025-12-14T13:40:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857669/image-905334027afbca4525f89d03dae4e11a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Ibrahim-kazama vs Sangoran, Ranking #1310 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ibrahim-kazama vs Sangoran in Winners Round 1 of Ranking #1310, streamed by keep_ladose
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643671975&amp;t=0h21m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>639</video:duration>
+    <video:publication_date>2025-12-14T13:40:17.000Z</video:publication_date>
+    <video:uploader>keep_ladose</video:uploader>
+    <video:expiration_date>2025-12-22T13:40:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-tekken-8-saturday-bi-weekly-42/set/97383227/</loc>
   <lastmod>2025-12-14T05:41:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-29T15:10:51.000Z</video:publication_date>
     <video:uploader>CROSSOVER_GG</video:uploader>
     <video:expiration_date>2025-12-07T15:10:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-8-monthly-bern-07/set/96869039/</loc>
-  <lastmod>2025-11-29T15:19:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845345/image-64f1b8a9d7e759834c9e609edb00a6ce.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VTXA | IcoSam vs KB | Z3mRiK, TEKKEN™8 Monthly Bern - 07 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VTXA | IcoSam vs KB | Z3mRiK in Losers Round 6 of TEKKEN™8 Monthly Bern - 07, streamed by virtualetix
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2630838741&amp;t=3h10m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>414</video:duration>
-    <video:publication_date>2025-11-29T15:03:21.000Z</video:publication_date>
-    <video:uploader>virtualetix</video:uploader>
-    <video:expiration_date>2025-12-07T15:03:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
