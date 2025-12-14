@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-28/set/97390648/</loc>
+  <lastmod>2025-12-14T07:23:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847414/image-423746746bcf2f9db467ea783e132cc5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Axel vs Bracket Demons | Charlie, SoCal Colosseum Clash #28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Axel vs Bracket Demons | Charlie in Grand Final of SoCal Colosseum Clash #28, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643415943&amp;t=3h13m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>520</video:duration>
+    <video:publication_date>2025-12-14T07:09:59.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2025-12-22T07:09:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-28/set/97390662/</loc>
   <lastmod>2025-12-14T07:07:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-24T21:28:00.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2025-12-02T21:28:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-67/set/96748798/</loc>
-  <lastmod>2025-11-24T21:29:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845063/image-36241682fb5ceda289cd712f675dc893.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ARK | BigNecoArcFan8000! vs REALPGM, Toulouse Fighting Monday 67 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ARK | BigNecoArcFan8000! vs REALPGM in Losers Final of Toulouse Fighting Monday 67, streamed by toulousevsfighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2627073709&amp;t=1h18m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>762</video:duration>
-    <video:publication_date>2025-11-24T21:15:14.000Z</video:publication_date>
-    <video:uploader>toulousevsfighters</video:uploader>
-    <video:expiration_date>2025-12-02T21:15:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
