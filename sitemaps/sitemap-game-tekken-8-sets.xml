@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-arena-inferno-2025/set/97377071/</loc>
-  <lastmod>2025-12-14T21:20:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-arena-inferno-2025/set/97377040/</loc>
+  <lastmod>2025-12-14T21:30:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/826686/image-19ca8bfa13d2470d248543ab2746922b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      IES | Lucius vs RonAlexander, The Arena: INFERNO 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IES | Lucius vs RonAlexander in Grand Final of The Arena: INFERNO 2025, streamed by gameheads_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643888694&amp;t=2h57m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1175</video:duration>
+    <video:publication_date>2025-12-14T21:30:20.000Z</video:publication_date>
+    <video:uploader>gameheads_tv</video:uploader>
+    <video:expiration_date>2025-12-22T21:30:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-arena-inferno-2025/set/97377071/</loc>
+  <lastmod>2025-12-14T21:39:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643888694&amp;t=2h47m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>643</video:duration>
+    <video:duration>514</video:duration>
     <video:publication_date>2025-12-14T21:20:46.000Z</video:publication_date>
     <video:uploader>gameheads_tv</video:uploader>
     <video:expiration_date>2025-12-22T21:20:46.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-29T20:33:17.000Z</video:publication_date>
     <video:uploader>mllo_</video:uploader>
     <video:expiration_date>2025-12-07T20:33:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-november-2025/set/96882868/</loc>
-  <lastmod>2025-11-29T20:57:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846263/image-a8293dcd74ff056180bb77b3c8fc0dbe.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nino vs Sephiblack, Vermilion Gates November 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nino vs Sephiblack in Losers Final of Vermilion Gates November 2025, streamed by CROSSOVER_GG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631191866&amp;t=0h58m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1457</video:duration>
-    <video:publication_date>2025-11-29T20:29:45.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_GG</video:uploader>
-    <video:expiration_date>2025-12-07T20:29:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
