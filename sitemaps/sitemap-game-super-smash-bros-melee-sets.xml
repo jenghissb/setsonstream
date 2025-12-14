@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-super-all-stars/set/97399625/</loc>
-  <lastmod>2025-12-14T16:24:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-super-all-stars/set/97399622/</loc>
+  <lastmod>2025-12-14T16:40:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816779/image-674b771fbdc95161c18e12b4910f0e35.png
+    </video:thumbnail_loc>
+    <video:title>
+      smushmarth vs Rambok, Kappa Clash Super All-Stars - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch smushmarth vs Rambok in Winners Round 3 of Kappa Clash Super All-Stars, streamed by saftisblandis
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643664110&amp;t=3h35m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>903</video:duration>
+    <video:publication_date>2025-12-14T16:40:25.000Z</video:publication_date>
+    <video:uploader>saftisblandis</video:uploader>
+    <video:expiration_date>2025-12-22T16:40:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-super-all-stars/set/97399625/</loc>
+  <lastmod>2025-12-14T16:45:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643664110&amp;t=3h19m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1283</video:duration>
+    <video:duration>1095</video:duration>
     <video:publication_date>2025-12-14T16:24:06.000Z</video:publication_date>
     <video:uploader>saftisblandis</video:uploader>
     <video:expiration_date>2025-12-22T16:24:06.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-26T04:30:50.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-04T04:30:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-121-kegsgiving/set/96790796/</loc>
-  <lastmod>2025-11-26T04:33:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853993/image-f9a091049da53ba765c9a5d9c3751bea.png
-    </video:thumbnail_loc>
-    <video:title>
-      fap | battleshock vs animepolice, Melee @ Abbey Tavern #121 - Kegsgiving - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch fap | battleshock vs animepolice in Winners Quarter-Final of Melee @ Abbey Tavern #121 - Kegsgiving, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628233084&amp;t=0h33m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1069</video:duration>
-    <video:publication_date>2025-11-26T04:12:24.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-04T04:12:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
