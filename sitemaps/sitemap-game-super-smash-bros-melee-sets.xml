@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-super-all-stars/set/97399618/</loc>
-  <lastmod>2025-12-14T16:09:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-super-all-stars/set/97399625/</loc>
+  <lastmod>2025-12-14T16:24:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816779/image-674b771fbdc95161c18e12b4910f0e35.png
+    </video:thumbnail_loc>
+    <video:title>
+      DC | Tellmis vs Nisse, Kappa Clash Super All-Stars - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DC | Tellmis vs Nisse in Winners Round 3 of Kappa Clash Super All-Stars, streamed by saftisblandis
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2643664110&amp;t=3h19m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1283</video:duration>
+    <video:publication_date>2025-12-14T16:24:06.000Z</video:publication_date>
+    <video:uploader>saftisblandis</video:uploader>
+    <video:expiration_date>2025-12-22T16:24:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-super-all-stars/set/97399618/</loc>
+  <lastmod>2025-12-14T16:33:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2643664110&amp;t=3h5m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>551</video:duration>
+    <video:duration>877</video:duration>
     <video:publication_date>2025-12-14T16:09:55.000Z</video:publication_date>
     <video:uploader>saftisblandis</video:uploader>
     <video:expiration_date>2025-12-22T16:09:55.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-26T04:12:24.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-04T04:12:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-grail-x-last-summit-qualifier-sdcr/set/96786544/</loc>
-  <lastmod>2025-11-26T04:22:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813851/image-b0428146bb74b2993deec1a80fe73984.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Bap Slambino vs Relish, The Grail X (Last Summit Qualifier SDCR) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bap Slambino vs Relish in Losers Semi-Final of The Grail X (Last Summit Qualifier SDCR), streamed by religiousmommy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628133166&amp;t=2h45m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>685</video:duration>
-    <video:publication_date>2025-11-26T04:08:07.000Z</video:publication_date>
-    <video:uploader>religiousmommy</video:uploader>
-    <video:expiration_date>2025-12-04T04:08:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
