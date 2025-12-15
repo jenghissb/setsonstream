@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-230/set/97435032/</loc>
+  <lastmod>2025-12-15T23:31:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857938/image-948f46957ac850931bab3cc13fcde20e.png
+    </video:thumbnail_loc>
+    <video:title>
+      ESG | HOJU vs Blackknite, ESG Fight Night #230 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ESG | HOJU vs Blackknite in Winners Semi-Final of ESG Fight Night #230, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2644897551&amp;t=0h3m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>505</video:duration>
+    <video:publication_date>2025-12-15T23:31:52.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2025-12-23T23:31:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/the-arena-inferno-2025/set/97377040/</loc>
   <lastmod>2025-12-14T21:51:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-29T20:48:48.000Z</video:publication_date>
     <video:uploader>mllo_</video:uploader>
     <video:expiration_date>2025-12-07T20:48:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/norwich-knockout-2/set/96886150/</loc>
-  <lastmod>2025-11-29T20:49:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844261/image-a55ea0fe9caae6a8dacdb5d592ccf264.png
-    </video:thumbnail_loc>
-    <video:title>
-      inumaki. vs CC | Martian Stache, Norwich Knockout #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch inumaki. vs CC | Martian Stache in Winners Semi-Final of Norwich Knockout #2, streamed by mllo_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631145932&amp;t=1h38m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>910</video:duration>
-    <video:publication_date>2025-11-29T20:33:17.000Z</video:publication_date>
-    <video:uploader>mllo_</video:uploader>
-    <video:expiration_date>2025-12-07T20:33:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
