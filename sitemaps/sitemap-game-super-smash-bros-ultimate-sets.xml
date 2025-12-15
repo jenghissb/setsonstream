@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-8/set/97426748/</loc>
-  <lastmod>2025-12-15T05:15:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-8/set/97426753/</loc>
+  <lastmod>2025-12-15T05:32:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860671/image-7874feecc3a47c1423a82715dfcaf7bb.png
+    </video:thumbnail_loc>
+    <video:title>
+      LR | McQueso vs LR | Ciyro, Last Resort #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LR | McQueso vs LR | Ciyro in Round 2 of Last Resort #8, streamed by CiyroZ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2644309006&amp;t=0h58m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>945</video:duration>
+    <video:publication_date>2025-12-15T05:32:47.000Z</video:publication_date>
+    <video:uploader>CiyroZ</video:uploader>
+    <video:expiration_date>2025-12-23T05:32:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-8/set/97426748/</loc>
+  <lastmod>2025-12-15T05:31:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2644309006&amp;t=0h40m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>422</video:duration>
+    <video:duration>987</video:duration>
     <video:publication_date>2025-12-15T05:15:13.000Z</video:publication_date>
     <video:uploader>CiyroZ</video:uploader>
     <video:expiration_date>2025-12-23T05:15:13.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-06T02:13:47.000Z</video:publication_date>
     <video:uploader>ritsmashclub</video:uploader>
     <video:expiration_date>2025-12-14T02:13:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wwu-fall-finale-2025/set/97086841/</loc>
-  <lastmod>2025-12-06T02:23:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858663/image-d113f1e55bb1a6e13749bd659dfac446.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GOLF | jacob2 vs Voss Gang | Fragon, WWU Fall Finale 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GOLF | jacob2 vs Voss Gang | Fragon in Winners Round 1 of WWU Fall Finale 2025, streamed by bellinghamssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636498634&amp;t=0h17m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>380</video:duration>
-    <video:publication_date>2025-12-06T02:13:20.000Z</video:publication_date>
-    <video:uploader>bellinghamssb</video:uploader>
-    <video:expiration_date>2025-12-14T02:13:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
