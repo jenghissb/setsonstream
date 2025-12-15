@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/15-345/set/97429090/</loc>
+  <lastmod>2025-12-15T12:04:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860301/image-c761f74f1dfd7266da2f210743720422.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      こは(koha) vs AiZm, 15(月)上野スマコミ#345(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch こは(koha) vs AiZm in Round 6 of 15(月)上野スマコミ#345(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/LUWEI5CxPN4?start=5346s
+    </video:player_loc>
+    <video:duration>629</video:duration>
+    <video:publication_date>2025-12-15T11:52:13.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-23T11:52:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/15-345/set/97429086/</loc>
-  <lastmod>2025-12-15T11:41:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-15T11:53:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/LUWEI5CxPN4?start=4687s
     </video:player_loc>
-    <video:duration>579</video:duration>
+    <video:duration>639</video:duration>
     <video:publication_date>2025-12-15T11:41:14.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-23T11:41:14.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-06T02:14:49.000Z</video:publication_date>
     <video:uploader>msusmashult</video:uploader>
     <video:expiration_date>2025-12-14T02:14:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/crimson-clash-64/set/97086269/</loc>
-  <lastmod>2025-12-06T02:30:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858366/image-be410d66786e23863ab204c11b450cfb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Frosthnd vs Grim, Crimson Clash #64 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frosthnd vs Grim in Winners Quarter-Final of Crimson Clash #64, streamed by nmstateesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636489000&amp;t=0h30m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>680</video:duration>
-    <video:publication_date>2025-12-06T02:14:27.000Z</video:publication_date>
-    <video:uploader>nmstateesports</video:uploader>
-    <video:expiration_date>2025-12-14T02:14:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
