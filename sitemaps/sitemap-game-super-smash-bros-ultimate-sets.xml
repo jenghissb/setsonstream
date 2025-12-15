@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/15-345/set/97429078/</loc>
+  <lastmod>2025-12-15T11:08:23.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860301/image-c761f74f1dfd7266da2f210743720422.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LG3 | ジャイロでいきます(LG3 | jairo deikimasu) vs まさはる(masaharu), 15(月)上野スマコミ#345(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LG3 | ジャイロでいきます(LG3 | jairo deikimasu) vs まさはる(masaharu) in Round 3 of 15(月)上野スマコミ#345(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/LUWEI5CxPN4?start=2716s
+    </video:player_loc>
+    <video:duration>452</video:duration>
+    <video:publication_date>2025-12-15T11:08:23.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-23T11:08:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-8/set/97426753/</loc>
   <lastmod>2025-12-15T06:21:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-06T02:13:55.000Z</video:publication_date>
     <video:uploader>Tournameta</video:uploader>
     <video:expiration_date>2025-12-14T02:13:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-prowling-grounds-114/set/97081343/</loc>
-  <lastmod>2025-12-06T02:30:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855012/image-2ebc08d40f6a35c100c61d34b98746a7.png
-    </video:thumbnail_loc>
-    <video:title>
-      EMW ESPORTS | Baconator vs JackalopeKing, The Prowling Grounds 114 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EMW ESPORTS | Baconator vs JackalopeKing in Losers Round 3 of The Prowling Grounds 114, streamed by ritsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636450609&amp;t=1h16m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>819</video:duration>
-    <video:publication_date>2025-12-06T02:13:47.000Z</video:publication_date>
-    <video:uploader>ritsmashclub</video:uploader>
-    <video:expiration_date>2025-12-14T02:13:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
