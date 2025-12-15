@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-69-1/set/97433125/</loc>
-  <lastmod>2025-12-15T20:35:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-69-1/set/97434007/</loc>
+  <lastmod>2025-12-15T20:46:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853694/image-ad7e07d6b84a49ec3183090c4d570be0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MaxT vs galithil, Toulouse Fighting Monday 69 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MaxT vs galithil in Winners Semi-Final of Toulouse Fighting Monday 69, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2644722744&amp;t=1h24m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>639</video:duration>
+    <video:publication_date>2025-12-15T20:46:39.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2025-12-23T20:46:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-69-1/set/97433125/</loc>
+  <lastmod>2025-12-15T20:51:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2644722744&amp;t=1h13m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>595</video:duration>
+    <video:duration>653</video:duration>
     <video:publication_date>2025-12-15T20:35:32.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2025-12-23T20:35:32.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-11-30T13:52:37.000Z</video:publication_date>
     <video:uploader>Themixuplyon</video:uploader>
     <video:expiration_date>2025-12-08T13:52:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ranking-1309/set/96922158/</loc>
-  <lastmod>2025-11-30T13:54:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853382/image-7bb3dd2e960ca532dcb09b6d19a2dcc0.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Mansky vs Bonnet, Ranking #1309 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mansky vs Bonnet in Winners Round 2 of Ranking #1309, streamed by Themixuplyon
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631811501&amp;t=0h39m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>839</video:duration>
-    <video:publication_date>2025-11-30T13:38:26.000Z</video:publication_date>
-    <video:uploader>Themixuplyon</video:uploader>
-    <video:expiration_date>2025-12-08T13:38:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
