@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/15-345/set/97429079/</loc>
-  <lastmod>2025-12-15T11:28:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/15-345/set/97429086/</loc>
+  <lastmod>2025-12-15T11:41:14.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860301/image-c761f74f1dfd7266da2f210743720422.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      AiZm vs ヒマワリ(himawari), 15(月)上野スマコミ#345(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AiZm vs ヒマワリ(himawari) in Round 5 of 15(月)上野スマコミ#345(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/LUWEI5CxPN4?start=4687s
+    </video:player_loc>
+    <video:duration>579</video:duration>
+    <video:publication_date>2025-12-15T11:41:14.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-23T11:41:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/15-345/set/97429079/</loc>
+  <lastmod>2025-12-15T11:37:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/LUWEI5CxPN4?start=3911s
     </video:player_loc>
-    <video:duration>356</video:duration>
+    <video:duration>476</video:duration>
     <video:publication_date>2025-12-15T11:28:18.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-23T11:28:18.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-06T02:14:27.000Z</video:publication_date>
     <video:uploader>nmstateesports</video:uploader>
     <video:expiration_date>2025-12-14T02:14:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/eagle-s-nest-20/set/97078260/</loc>
-  <lastmod>2025-12-06T02:27:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858360/image-87cb5b116babcea328dcf2a760bb4b39.png
-    </video:thumbnail_loc>
-    <video:title>
-      glitch | GogetaSuperSaiyanBlue vs Edmund, Eagle&apos;s Nest 20 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch glitch | GogetaSuperSaiyanBlue vs Edmund in Winners Semi-Final of Eagle&apos;s Nest 20, streamed by backdashssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636509073&amp;t=0h6m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>678</video:duration>
-    <video:publication_date>2025-12-06T02:14:26.000Z</video:publication_date>
-    <video:uploader>backdashssb</video:uploader>
-    <video:expiration_date>2025-12-14T02:14:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
