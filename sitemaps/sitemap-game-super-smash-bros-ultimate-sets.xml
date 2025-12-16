@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-222/set/97452418/</loc>
-  <lastmod>2025-12-16T22:03:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861955/image-42519281ffbaefab2da174d8e1cdad0b.png
-    </video:thumbnail_loc>
-    <video:title>
-      ARK | Littlemonke vs Discodog, Magna Arena #222 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ARK | Littlemonke vs Discodog in Grand Final of Magna Arena #222, streamed by SmashStrasbourg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2645466297&amp;t=4h16m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>856</video:duration>
-    <video:publication_date>2025-12-16T22:03:05.000Z</video:publication_date>
-    <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2025-12-24T22:03:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-14-saison-2/set/97453610/</loc>
   <lastmod>2025-12-16T22:13:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -46,6 +22,30 @@
     <video:publication_date>2025-12-16T22:05:47.000Z</video:publication_date>
     <video:uploader>blossom_ssb</video:uploader>
     <video:expiration_date>2025-12-24T22:05:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-222/set/97452418/</loc>
+  <lastmod>2025-12-16T22:23:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861955/image-42519281ffbaefab2da174d8e1cdad0b.png
+    </video:thumbnail_loc>
+    <video:title>
+      ARK | Littlemonke vs Discodog, Magna Arena #222 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ARK | Littlemonke vs Discodog in Grand Final of Magna Arena #222, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2645466297&amp;t=4h16m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1137</video:duration>
+    <video:publication_date>2025-12-16T22:03:05.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-12-24T22:03:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
