@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-5-festive-play/set/97453329/</loc>
-  <lastmod>2025-12-16T21:34:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-5-festive-play/set/97453266/</loc>
+  <lastmod>2025-12-16T21:54:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860415/image-f3865daab6580b324c8efd4048fcbae5.png
+    </video:thumbnail_loc>
+    <video:title>
+      INSIM | Joefish vs Matt Masterman, Fowl Play! - 5: Festive Play! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch INSIM | Joefish vs Matt Masterman in Grand Final of Fowl Play! - 5: Festive Play!, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Jaysotee&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1398</video:duration>
+    <video:publication_date>2025-12-16T21:54:03.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2025-12-24T21:54:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-5-festive-play/set/97453329/</loc>
+  <lastmod>2025-12-16T21:58:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2645598876&amp;t=0h55m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1008</video:duration>
+    <video:duration>1162</video:duration>
     <video:publication_date>2025-12-16T21:34:33.000Z</video:publication_date>
     <video:uploader>Jaysotee</video:uploader>
     <video:expiration_date>2025-12-24T21:34:33.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-27T02:23:41.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2025-12-05T02:23:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-end-perpetual-stew-3/set/96803985/</loc>
-  <lastmod>2025-11-27T02:49:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855634/image-7a734d92b7469fa3274019953aebf0de.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      zoist | Ampp vs Andy Chung, UW Melee Weekly (Fall &apos;25) #END - perpetual stew 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch zoist | Ampp vs Andy Chung in Winners Final of UW Melee Weekly (Fall &apos;25) #END - perpetual stew 3, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628989520&amp;t=0h15m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1208</video:duration>
-    <video:publication_date>2025-11-27T02:22:43.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2025-12-05T02:22:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
