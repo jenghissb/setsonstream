@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-254/set/97450075/</loc>
-  <lastmod>2025-12-16T09:18:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-254/set/97450080/</loc>
+  <lastmod>2025-12-16T09:40:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Con_Gaming vs Free Steve | SA Q, WeeklyVac #254 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Con_Gaming vs Free Steve | SA Q in Winners Semi-Final of WeeklyVac #254, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2645198464&amp;t=1h27m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>421</video:duration>
+    <video:publication_date>2025-12-16T09:40:18.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2025-12-24T09:40:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-254/set/97450075/</loc>
+  <lastmod>2025-12-16T09:35:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2645198464&amp;t=1h6m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>257</video:duration>
+    <video:duration>928</video:duration>
     <video:publication_date>2025-12-16T09:18:40.000Z</video:publication_date>
     <video:uploader>bigcheese_gg</video:uploader>
     <video:expiration_date>2025-12-24T09:18:40.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-06T10:02:32.000Z</video:publication_date>
     <video:uploader>2BCU</video:uploader>
     <video:expiration_date>2025-12-14T10:02:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-barbecue-6/set/97098857/</loc>
-  <lastmod>2025-12-06T10:21:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848132/image-a1eb35ca39bd4fc3da9461e8d32e6e0b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DC | iKonoha vs KÐ | SimonF(K Eth | SimonF), Le Barbecue #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DC | iKonoha vs KÐ | SimonF(K Eth | SimonF) in Winners Quarter-Final of Le Barbecue #6, streamed by amelia_mp3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636737807&amp;t=0h46m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1532</video:duration>
-    <video:publication_date>2025-12-06T09:54:34.000Z</video:publication_date>
-    <video:uploader>amelia_mp3</video:uploader>
-    <video:expiration_date>2025-12-14T09:54:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
