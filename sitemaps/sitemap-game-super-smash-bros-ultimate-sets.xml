@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-222/set/97452478/</loc>
-  <lastmod>2025-12-16T21:06:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-222/set/97452480/</loc>
+  <lastmod>2025-12-16T21:23:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861955/image-42519281ffbaefab2da174d8e1cdad0b.png
+    </video:thumbnail_loc>
+    <video:title>
+      R-B | | Kilo Crimson vs ARK | 3QI | Piwix, Magna Arena #222 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch R-B | | Kilo Crimson vs ARK | 3QI | Piwix in Losers Semi-Final of Magna Arena #222, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2645466297&amp;t=3h37m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1053</video:duration>
+    <video:publication_date>2025-12-16T21:23:39.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2025-12-24T21:23:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-222/set/97452478/</loc>
+  <lastmod>2025-12-16T21:24:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2645466297&amp;t=3h20m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>653</video:duration>
+    <video:duration>1003</video:duration>
     <video:publication_date>2025-12-16T21:06:53.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-12-24T21:06:53.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-06T11:34:34.000Z</video:publication_date>
     <video:uploader>EnviSSB</video:uploader>
     <video:expiration_date>2025-12-14T11:34:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-barbecue-6/set/97099105/</loc>
-  <lastmod>2025-12-06T11:59:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848132/image-a1eb35ca39bd4fc3da9461e8d32e6e0b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nounouye vs 3arbi deluxe, Le Barbecue #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nounouye vs 3arbi deluxe in Winners Quarter-Final of Le Barbecue #6, streamed by amelia_mp3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636737807&amp;t=2h26m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1446</video:duration>
-    <video:publication_date>2025-12-06T11:33:46.000Z</video:publication_date>
-    <video:uploader>amelia_mp3</video:uploader>
-    <video:expiration_date>2025-12-14T11:33:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
