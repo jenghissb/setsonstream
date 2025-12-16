@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-481/set/97445531/</loc>
+  <lastmod>2025-12-16T05:27:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861838/image-7afe2cbded1ec9b90f05367bd9da71c4.png
+    </video:thumbnail_loc>
+    <video:title>
+      FX | Fury vs KB | cheunk tuah, Monday Night Melee 481 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FX | Fury vs KB | cheunk tuah in Grand Final of Monday Night Melee 481, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2645012468&amp;t=3h15m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>701</video:duration>
+    <video:publication_date>2025-12-16T05:13:07.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2025-12-24T05:13:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-37-the-ultimate-christmas-present/set/97448099/</loc>
-  <lastmod>2025-12-16T04:59:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-16T05:19:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2645073798&amp;t=1h33m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1211</video:duration>
+    <video:duration>1121</video:duration>
     <video:publication_date>2025-12-16T04:59:23.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2025-12-24T04:59:23.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-481/set/97445594/</loc>
-  <lastmod>2025-12-16T04:54:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-16T05:19:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2645012468&amp;t=2h56m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1531</video:duration>
+    <video:duration>1055</video:duration>
     <video:publication_date>2025-12-16T04:54:03.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-12-24T04:54:03.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-27T02:11:16.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2025-12-05T02:11:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-fall-25-end-perpetual-stew-3/set/96803984/</loc>
-  <lastmod>2025-11-27T02:22:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855634/image-7a734d92b7469fa3274019953aebf0de.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Andy Chung vs Nen, UW Melee Weekly (Fall &apos;25) #END - perpetual stew 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Andy Chung vs Nen in Winners Semi-Final of UW Melee Weekly (Fall &apos;25) #END - perpetual stew 3, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628989520&amp;t=0h3m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>578</video:duration>
-    <video:publication_date>2025-11-27T02:10:23.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2025-12-05T02:10:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
