@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-5-festive-play/set/97453329/</loc>
+  <lastmod>2025-12-16T21:34:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860415/image-f3865daab6580b324c8efd4048fcbae5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Matt Masterman vs lae, Fowl Play! - 5: Festive Play! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Matt Masterman vs lae in Losers Final of Fowl Play! - 5: Festive Play!, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2645598876&amp;t=0h55m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1008</video:duration>
+    <video:publication_date>2025-12-16T21:34:33.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2025-12-24T21:34:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-5-festive-play/set/97453260/</loc>
   <lastmod>2025-12-16T20:07:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-27T02:22:43.000Z</video:publication_date>
     <video:uploader>uwsmashclub</video:uploader>
     <video:expiration_date>2025-12-05T02:22:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-118/set/96803195/</loc>
-  <lastmod>2025-11-27T02:41:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854658/image-f9ab0dec0f89772d2757dc707ea19bb8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Freeway Exit | Henchman vs AOC/GG | SD Paint, Raptor Boost 118 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Freeway Exit | Henchman vs AOC/GG | SD Paint in Winners Final of Raptor Boost 118, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628909118&amp;t=1h54m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1486</video:duration>
-    <video:publication_date>2025-11-27T02:12:13.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2025-12-05T02:12:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
