@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lucy-60-weekly-1/set/97474239/</loc>
-  <lastmod>2025-12-17T18:42:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lost-level-smash-5/set/97476464/</loc>
+  <lastmod>2025-12-17T19:14:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856877/image-a0ee0ffcbba668e6627e5c2df48aa2ef.png
+    </video:thumbnail_loc>
+    <video:title>
+      YW | Yoshtix vs SG | PhazonX18, Lost Level Smash #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YW | Yoshtix vs SG | PhazonX18 in Winners Round 1 of Lost Level Smash #5, streamed by sidestream_pattiwins
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=sidestream_pattiwins&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>187</video:duration>
+    <video:publication_date>2025-12-17T19:14:13.000Z</video:publication_date>
+    <video:uploader>sidestream_pattiwins</video:uploader>
+    <video:expiration_date>2025-12-25T19:14:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vantagepoint-19/set/97475485/</loc>
+  <lastmod>2025-12-17T19:13:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862123/image-46d496d1e2f5d9bc8a05aabcd52a191b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Paige vs SP | Ginge, VantagePoint 19 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Paige vs SP | Ginge in Winners Round 1 of VantagePoint 19, streamed by smashpointseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2646327050&amp;t=0h21m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>781</video:duration>
+    <video:publication_date>2025-12-17T18:59:15.000Z</video:publication_date>
+    <video:uploader>smashpointseries</video:uploader>
+    <video:expiration_date>2025-12-25T18:59:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lucy-60-weekly-1/set/97474239/</loc>
+  <lastmod>2025-12-17T18:57:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2646325273&amp;t=0h7m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>790</video:duration>
+    <video:duration>804</video:duration>
     <video:publication_date>2025-12-17T18:42:39.000Z</video:publication_date>
     <video:uploader>LuCyEsports</video:uploader>
     <video:expiration_date>2025-12-25T18:42:39.000Z</video:expiration_date>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2025-12-06T19:05:31.000Z</video:publication_date>
     <video:uploader>sauesports</video:uploader>
     <video:expiration_date>2025-12-14T19:05:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/north-country-paw-fall-2025/set/97119793/</loc>
-  <lastmod>2025-12-06T19:18:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856142/image-f33da67d628b189afd62e8137160844f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ampersand vs VLNY | DDrakgo, North Country Paw Fall 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ampersand vs VLNY | DDrakgo in Winners Quarter-Final of North Country Paw Fall 2025, streamed by TBS_Milkman
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637047652&amp;t=0h55m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>785</video:duration>
-    <video:publication_date>2025-12-06T19:03:43.000Z</video:publication_date>
-    <video:uploader>TBS_Milkman</video:uploader>
-    <video:expiration_date>2025-12-14T19:03:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
