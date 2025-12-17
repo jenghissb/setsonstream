@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-131/set/97463102/</loc>
-  <lastmod>2025-12-17T03:47:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-131/set/97463071/</loc>
+  <lastmod>2025-12-17T04:06:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862345/image-af4553a0fe463624d0ee7a3e3588de9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      MTS | FiveFour vs HoG | Karlos98k, HoG: Dragon #131 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MTS | FiveFour vs HoG | Karlos98k in Grand Final of HoG: Dragon #131, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2645762272&amp;t=3h40m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1399</video:duration>
+    <video:publication_date>2025-12-17T04:06:57.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2025-12-25T04:06:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-131/set/97463102/</loc>
+  <lastmod>2025-12-17T04:00:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2645762272&amp;t=3h21m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>418</video:duration>
+    <video:duration>607</video:duration>
     <video:publication_date>2025-12-17T03:47:51.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-25T03:47:51.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-11-30T02:40:19.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-12-08T02:40:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-tekken-3-1-x-tekken-8-saturday-bi-weekly-41/set/96905677/</loc>
-  <lastmod>2025-11-30T02:43:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855844/image-f42ec73fca59bff44ed774cdac2d93de.png
-    </video:thumbnail_loc>
-    <video:title>
-      Neon Dreams | Quizikcal vs Carbene, Neon Dreams TEKKEN 3 #1 x TEKKEN 8 Saturday Bi-Weekly #41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Neon Dreams | Quizikcal vs Carbene in Winners Quarter-Final of Neon Dreams TEKKEN 3 #1 x TEKKEN 8 Saturday Bi-Weekly #41, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631468547&amp;t=0h37m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1297</video:duration>
-    <video:publication_date>2025-11-30T02:18:31.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-12-08T02:18:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
