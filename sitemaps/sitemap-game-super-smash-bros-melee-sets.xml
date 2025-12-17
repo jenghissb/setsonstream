@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-124-the-2025-abbey-awards/set/97467220/</loc>
+  <lastmod>2025-12-17T03:46:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858897/image-c12dbafef1ac48ba0aea7befd45b0260.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mario Baseball | LarsBars vs GROJ, Melee @ Abbey Tavern #124: The 2025 Abbey Awards! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mario Baseball | LarsBars vs GROJ in Winners Round 1 of Melee @ Abbey Tavern #124: The 2025 Abbey Awards!, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2645885641&amp;t=0h39m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>492</video:duration>
+    <video:publication_date>2025-12-17T03:46:37.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2025-12-25T03:46:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/d20-melee-32/set/97462296/</loc>
   <lastmod>2025-12-17T02:01:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-11-27T03:03:46.000Z</video:publication_date>
     <video:uploader>uwsmashclub</video:uploader>
     <video:expiration_date>2025-12-05T03:03:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-118/set/96803226/</loc>
-  <lastmod>2025-11-27T03:13:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854658/image-f9ab0dec0f89772d2757dc707ea19bb8.png
-    </video:thumbnail_loc>
-    <video:title>
-      AOC/MU | Rocki vs 8===D | Jeff Fuel, Raptor Boost 118 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AOC/MU | Rocki vs 8===D | Jeff Fuel in Losers Semi-Final of Raptor Boost 118, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628909118&amp;t=2h35m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1110</video:duration>
-    <video:publication_date>2025-11-27T02:53:55.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2025-12-05T02:53:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
