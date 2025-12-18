@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-41/set/97493342/</loc>
-  <lastmod>2025-12-18T09:17:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-41/set/97493374/</loc>
+  <lastmod>2025-12-18T09:40:34.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861911/image-8162f129f75b860b08eb1f3201d5af8b.png
+    </video:thumbnail_loc>
+    <video:title>
+      JamieBayo vs yellow, Smash @ Burnside #41 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JamieBayo vs yellow in Losers Quarter-Final of Smash @ Burnside #41, streamed by yauhhyeah
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2646836561&amp;t=1h36m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>453</video:duration>
+    <video:publication_date>2025-12-18T09:40:34.000Z</video:publication_date>
+    <video:uploader>yauhhyeah</video:uploader>
+    <video:expiration_date>2025-12-26T09:40:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-41/set/97493342/</loc>
+  <lastmod>2025-12-18T09:41:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2646836561&amp;t=1h13m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>340</video:duration>
+    <video:duration>1347</video:duration>
     <video:publication_date>2025-12-18T09:17:21.000Z</video:publication_date>
     <video:uploader>yauhhyeah</video:uploader>
     <video:expiration_date>2025-12-26T09:17:21.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-07T00:56:45.000Z</video:publication_date>
     <video:uploader>newpaltzesports</video:uploader>
     <video:expiration_date>2025-12-15T00:56:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/super-b-town-beatdown-27/set/97143736/</loc>
-  <lastmod>2025-12-07T01:18:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853481/image-896b07b0653145438e75e9afd97b3a64.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      + vs FANG | Muki, Super B-Town Beatdown #27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch + vs FANG | Muki in Losers Quarter-Final of Super B-Town Beatdown #27, streamed by SmashAtIUB
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637045004&amp;t=6h51m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1158</video:duration>
-    <video:publication_date>2025-12-07T00:56:23.000Z</video:publication_date>
-    <video:uploader>SmashAtIUB</video:uploader>
-    <video:expiration_date>2025-12-15T00:56:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
