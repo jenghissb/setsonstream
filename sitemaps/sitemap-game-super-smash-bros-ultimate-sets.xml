@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2647106387&amp;t=3h33m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>532</video:duration>
+    <video:duration>1297</video:duration>
     <video:publication_date>2025-12-18T21:22:09.000Z</video:publication_date>
     <video:uploader>openworldvienna</video:uploader>
     <video:expiration_date>2025-12-26T21:22:09.000Z</video:expiration_date>
@@ -42,16 +42,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=lacheckpoint_tv&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>615</video:duration>
+    <video:duration>1380</video:duration>
     <video:publication_date>2025-12-18T21:20:46.000Z</video:publication_date>
     <video:uploader>lacheckpoint_tv</video:uploader>
     <video:expiration_date>2025-12-26T21:20:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-191-xmas-special/set/97498552/</loc>
-  <lastmod>2025-12-18T21:25:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-191-xmas-special/set/97498583/</loc>
+  <lastmod>2025-12-18T21:40:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860112/image-3c33fdf5ecc2f0d7a3034b16ecce9174.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pist4chio vs SST | Lo, Weekly L #191 - XMAS SPECIAL - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pist4chio vs SST | Lo in Losers Semi-Final of Weekly L #191 - XMAS SPECIAL, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2647154566&amp;t=2h44m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>203</video:duration>
+    <video:publication_date>2025-12-18T21:40:23.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2025-12-26T21:40:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-l-191-xmas-special/set/97498552/</loc>
+  <lastmod>2025-12-18T21:42:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2647154566&amp;t=2h30m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>306</video:duration>
+    <video:duration>864</video:duration>
     <video:publication_date>2025-12-18T21:25:55.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2025-12-26T21:25:55.000Z</video:expiration_date>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2025-12-07T03:14:52.000Z</video:publication_date>
     <video:uploader>alaskagamers</video:uploader>
     <video:expiration_date>2025-12-15T03:14:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pissmas-6/set/97102958/</loc>
-  <lastmod>2025-12-07T03:32:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825531/image-504566804fa41afc91bbb4afc8c235b3.png
-    </video:thumbnail_loc>
-    <video:title>
-      JBA | stegz vs Lukas, Pissmas 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JBA | stegz vs Lukas in Losers Round 3 of Pissmas 6, streamed by Tournameta VODs
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/zy9F3xoPgRk?start=12175s
-    </video:player_loc>
-    <video:duration>1079</video:duration>
-    <video:publication_date>2025-12-07T03:12:39.000Z</video:publication_date>
-    <video:uploader>Tournameta VODs</video:uploader>
-    <video:expiration_date>2025-12-15T03:12:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
