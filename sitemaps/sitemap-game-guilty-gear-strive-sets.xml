@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/juicy-game-night-147/set/97481672/</loc>
+  <lastmod>2025-12-18T01:00:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861547/image-4aab748b8ef738c6b90489e3f627eb09.png
+    </video:thumbnail_loc>
+    <video:title>
+      Darián vs Martin Fury, Juicy Game Night #147 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Darián vs Martin Fury in Winners Quarter-Final of Juicy Game Night #147, streamed by westinite
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=westinite&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>839</video:duration>
+    <video:publication_date>2025-12-18T01:00:22.000Z</video:publication_date>
+    <video:uploader>westinite</video:uploader>
+    <video:expiration_date>2025-12-26T01:00:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/magic-pixel-weekly-129/set/97466850/</loc>
   <lastmod>2025-12-17T05:35:41.000Z</lastmod>
   <changefreq>daily</changefreq>
