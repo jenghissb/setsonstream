@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-bi-weekly-du-jeudi-67-rgb-douai/set/97496234/</loc>
+  <lastmod>2025-12-18T17:06:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861934/image-43114aa08bee1b81e5b27b153d553599.png
+    </video:thumbnail_loc>
+    <video:title>
+      LGS | Hervine vs Cuenty, La bi-weekly du jeudi #67 - RGB Douai - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LGS | Hervine vs Cuenty in Winners Round 1 of La bi-weekly du jeudi #67 - RGB Douai, streamed by taihenki_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2647079342&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>821</video:duration>
+    <video:publication_date>2025-12-18T17:06:53.000Z</video:publication_date>
+    <video:uploader>taihenki_</video:uploader>
+    <video:expiration_date>2025-12-26T17:06:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/18-347/set/97494183/</loc>
   <lastmod>2025-12-18T12:56:49.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-07T01:09:15.000Z</video:publication_date>
     <video:uploader>exoga_sjc</video:uploader>
     <video:expiration_date>2025-12-15T01:09:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-nc-arcadian-2025-further-beyond/set/97153788/</loc>
-  <lastmod>2025-12-07T01:28:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809540/image-b53aa6864d444215ef5f992eb5f2b8aa.png
-    </video:thumbnail_loc>
-    <video:title>
-      dtn8 | Kaminari vs Pyro, The NC Arcadian 2025: Further Beyond! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch dtn8 | Kaminari vs Pyro in Losers Round 1 of The NC Arcadian 2025: Further Beyond!, streamed by BuddBuds2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637030673&amp;t=7h16m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1191</video:duration>
-    <video:publication_date>2025-12-07T01:05:41.000Z</video:publication_date>
-    <video:uploader>BuddBuds2</video:uploader>
-    <video:expiration_date>2025-12-15T01:05:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
