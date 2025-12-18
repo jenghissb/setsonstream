@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-101/set/97494306/</loc>
+  <lastmod>2025-12-18T11:10:24.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862573/image-95b6d453dc52044c6576819f3198fbb3.png
+    </video:thumbnail_loc>
+    <video:title>
+      miLiq vs Ryus, Paradise Cup #101 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch miLiq vs Ryus in Round 1 of Paradise Cup #101, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2646895403&amp;t=0h5m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>331</video:duration>
+    <video:publication_date>2025-12-18T11:10:24.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2025-12-26T11:10:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-80/set/97462316/</loc>
   <lastmod>2025-12-17T04:06:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-05T04:41:13.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-12-13T04:41:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-191-norcal-street-fighter-6-weekly/set/97054343/</loc>
-  <lastmod>2025-12-05T04:46:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856589/image-224dc2b4760243e3e60126cb957f2782.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Anak FitS | Hakoian vs FitS | SodaCan, Guildhouse Fighters 191 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Anak FitS | Hakoian vs FitS | SodaCan in Winners Quarter-Final of Guildhouse Fighters 191 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2635713176&amp;t=0h56m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>352</video:duration>
-    <video:publication_date>2025-12-05T04:35:04.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2025-12-13T04:35:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
