@@ -413,3 +413,11 @@ function getLastModified(item) {
 export function itemHasUpdated(prevSet, newSet) {
   return (getLastModified(newSet) > getLastModified(prevSet))
 }
+
+export function DynamicContainer({ isHeading, children }) {
+  return isHeading ? (
+    <h1>{children}</h1>
+  ) : (
+    <div>{children}</div>
+  );
+}

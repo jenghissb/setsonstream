@@ -42,7 +42,7 @@ export const GameKeywords = Object.freeze({
   "49783": "Tekken 8, T8, competitive Tekken, Tekken tournaments, fighting game streams, Tekken sets, tournament matches, esports, characters, gameplay, live matches",
   "53945": "Rivals of Aether 2, RoA2, competitive Rivals of Aether, Rivals tournaments, fighting game streams, RoA sets, tournament matches, esports, characters, gameplay, live matches",
   "48548": "Granblue Fantasy Versus, GBVS, competitive Granblue Fantasy, GBVS tournaments, fighting game streams, GBVS sets, tournament matches, esports, characters, gameplay, live matches"
-  //"12345": "Fatal Fury City of the Wolves, Fatal Fury, competitive Fatal Fury, Fatal Fury tournaments, fighting game streams, Fatal Fury sets, tournament matches, esports, characters, gameplay, live matches"
+  //"73221": "Fatal Fury City of the Wolves, Fatal Fury, competitive Fatal Fury, Fatal Fury tournaments, fighting game streams, Fatal Fury sets, tournament matches, esports, characters, gameplay, live matches"
 });
 
 export const GamePublishers = Object.freeze({
