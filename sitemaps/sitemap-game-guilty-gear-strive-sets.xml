@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-206-norcal-ssbu-ggst-weekly/set/97491620/</loc>
-  <lastmod>2025-12-18T05:15:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-206-norcal-ssbu-ggst-weekly/set/97491621/</loc>
+  <lastmod>2025-12-18T05:33:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861367/image-143c27ca7e179e1b54325410632ce98b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      pr*m | Apho vs ANGL | Seri, Guildhouse Weekly 206 - Norcal SSBU &amp; GGST weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch pr*m | Apho vs ANGL | Seri in Grand Final of Guildhouse Weekly 206 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2646772744&amp;t=0h21m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>797</video:duration>
+    <video:publication_date>2025-12-18T05:33:49.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2025-12-26T05:33:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-206-norcal-ssbu-ggst-weekly/set/97491620/</loc>
+  <lastmod>2025-12-18T05:31:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2646772744&amp;t=0h3m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>752</video:duration>
+    <video:duration>718</video:duration>
     <video:publication_date>2025-12-18T05:15:32.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-12-26T05:15:32.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-03T01:16:05.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2025-12-11T01:16:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/smash-mizzou-172/set/96993240/</loc>
-  <lastmod>2025-12-03T01:23:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858144/image-687ce9d0b2f35054c83527996ac438d6.png
-    </video:thumbnail_loc>
-    <video:title>
-      GanonDegenerate vs Grass, Smash @ Mizzou 172 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GanonDegenerate vs Grass in Winners Semi-Final of Smash @ Mizzou 172, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2633895820&amp;t=0h47m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>542</video:duration>
-    <video:publication_date>2025-12-03T01:06:46.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2025-12-11T01:06:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
