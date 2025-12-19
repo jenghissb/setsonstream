@@ -203,9 +203,9 @@ export const NowPlaying = memo(({isHeader, minimal, extraOnSide, showExtra=true,
           </div>
         </div>
         {
-          <div className="nowPlaying-bracketButton" onClick={() => setShowBracket(true)} aria-label="Show bracket" title="Show bracket">
-            <BracketIcon width={"42px"} height={"42px"} color={"var(--text-main-color-subdue-3"}/>
-          </div>
+          // <div className="nowPlaying-bracketButton" onClick={() => setShowBracket(true)} aria-label="Show bracket" title="Show bracket">
+          //   <BracketIcon width={"42px"} height={"42px"} color={"var(--text-main-color-subdue-3"}/>
+          // </div>
         }
         {hasScore && <span className="nowPlaying-scoreText">
           <span className={score1Class}>{score[0]}</span>

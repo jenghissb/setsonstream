@@ -1556,7 +1556,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   }
 
 
-  const subEmbedTypes = chat != null ? [SubEmbeds.CHAT, SubEmbeds.BRACKET, SubEmbeds.MAP] : [SubEmbeds.BRACKET, SubEmbeds.MAP]
+  // const subEmbedTypes = chat != null ? [SubEmbeds.CHAT, SubEmbeds.BRACKET, SubEmbeds.MAP] : [SubEmbeds.BRACKET, SubEmbeds.MAP]
+  const subEmbedTypes = chat != null ? [SubEmbeds.CHAT, SubEmbeds.MAP] : [SubEmbeds.MAP]
   const subEmbedsExpanded = Object.values(subEmbedTypes).includes(subEmbedToggle)
   const subEmbedHeight = subEmbedsExpanded ? "240px" : "40px"
   const routeName = getRouteName(homeType, params)
@@ -1590,7 +1591,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
             noData
           }
           {
-            hasRightPane && previewItem && showLargeBracket && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth} onClose={() => setShowLargeBracket(false)}/>
+            hasRightPane && false && previewItem && showLargeBracket && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth} onClose={() => setShowLargeBracket(false)}/>
           }
           {!displayConfig.noDisplayData && showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
             <div className="home2SubEmbedChatContainer" style={subEmbedToggle==SubEmbeds.CHAT ? {} : {display: "none"}}>
@@ -1603,7 +1604,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
               }</div>
             }
             {
-            subEmbedToggle==SubEmbeds.BRACKET && previewItem && <div className="home2SubEmbedControlsContainer">
+            subEmbedToggle==SubEmbeds.BRACKET && false && previewItem && <div className="home2SubEmbedControlsContainer">
                 <BracketEmbed totalWidth={centerWidth} height={240} src={previewItem.bracketInfo.phaseGroupUrl}/>
               </div>
             }
