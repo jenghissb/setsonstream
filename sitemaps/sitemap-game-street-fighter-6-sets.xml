@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-193-norcal-street-fighter-6-weekly/set/97514856/</loc>
-  <lastmod>2025-12-19T05:25:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-193-norcal-street-fighter-6-weekly/set/97514857/</loc>
+  <lastmod>2025-12-19T05:39:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862424/image-5035e3f462a13d65d39c4d72fd96e1c3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Madhouse | Dj norb vs aki guy, Guildhouse Fighters 193 - Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Madhouse | Dj norb vs aki guy in Losers Semi-Final of Guildhouse Fighters 193 - Norcal Street Fighter 6 weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2647538294&amp;t=1h50m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>940</video:duration>
+    <video:publication_date>2025-12-19T05:39:20.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2025-12-27T05:39:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-193-norcal-street-fighter-6-weekly/set/97514856/</loc>
+  <lastmod>2025-12-19T05:47:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2647538294&amp;t=1h36m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1154</video:duration>
+    <video:duration>820</video:duration>
     <video:publication_date>2025-12-19T05:25:31.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-12-27T05:25:31.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-06T15:18:32.000Z</video:publication_date>
     <video:uploader>bh3_esport</video:uploader>
     <video:expiration_date>2025-12-14T15:18:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-13-bh3-x-joystick/set/97100939/</loc>
-  <lastmod>2025-12-06T15:09:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853421/image-6cb0c95bd5b60cd92498b935e590397b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Olibé vs RollinStuns | Envy, Monthly FGC#13 - BH3 x JOYSTICK - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Olibé vs RollinStuns | Envy in Winners Final of Monthly FGC#13 - BH3 x JOYSTICK, streamed by bh3_esport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636801282&amp;t=3h5m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>817</video:duration>
-    <video:publication_date>2025-12-06T14:54:36.000Z</video:publication_date>
-    <video:uploader>bh3_esport</video:uploader>
-    <video:expiration_date>2025-12-14T14:54:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
