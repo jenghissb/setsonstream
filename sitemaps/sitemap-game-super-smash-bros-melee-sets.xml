@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ultimate-flat-zone-4-christmas-edition/set/97554714/</loc>
-  <lastmod>2025-12-20T10:46:43.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ultimate-flat-zone-4-christmas-edition/set/97554720/</loc>
+  <lastmod>2025-12-20T11:13:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847712/image-db01050ca87ed9f97efa6e292b1d587c.png
+    </video:thumbnail_loc>
+    <video:title>
+      alwaysairways vs Komori, Ultimate Flat Zone #4 - Christmas Edition! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch alwaysairways vs Komori in Round 3 of Ultimate Flat Zone #4 - Christmas Edition!, streamed by SEiFNOPA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648554470&amp;t=0h15m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>913</video:duration>
+    <video:publication_date>2025-12-20T11:13:01.000Z</video:publication_date>
+    <video:uploader>SEiFNOPA</video:uploader>
+    <video:expiration_date>2025-12-28T11:13:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ultimate-flat-zone-4-christmas-edition/set/97554714/</loc>
+  <lastmod>2025-12-20T11:18:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648554470&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1616</video:duration>
+    <video:duration>1502</video:duration>
     <video:publication_date>2025-12-20T10:46:43.000Z</video:publication_date>
     <video:uploader>SEiFNOPA</video:uploader>
     <video:expiration_date>2025-12-28T10:46:43.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-04T02:48:55.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2025-12-12T02:48:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/midlane-melee-200/set/97028155/</loc>
-  <lastmod>2025-12-04T02:58:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855832/image-8a041c2d4860f596879341cc92c57f1a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ober vs Forest, Midlane Melee 200 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ober vs Forest in Winners Quarter-Final of Midlane Melee 200, streamed by ChicagoMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634757157&amp;t=1h46m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>927</video:duration>
-    <video:publication_date>2025-12-04T02:42:07.000Z</video:publication_date>
-    <video:uploader>ChicagoMelee</video:uploader>
-    <video:expiration_date>2025-12-12T02:42:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
