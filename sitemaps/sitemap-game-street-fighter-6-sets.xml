@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97566631/</loc>
-  <lastmod>2025-12-20T19:04:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97566641/</loc>
+  <lastmod>2025-12-20T19:23:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856274/image-39e8cc9792be9cf3dbf7fe67ceaa5111.png
+    </video:thumbnail_loc>
+    <video:title>
+      BoNe | Sark vs IRON GRD | T3MP3ST, Queen 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BoNe | Sark vs IRON GRD | T3MP3ST in Winners Quarter-Final of Queen 2025, streamed by collisionseriestv2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648849533&amp;t=0h20m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>837</video:duration>
+    <video:publication_date>2025-12-20T19:23:01.000Z</video:publication_date>
+    <video:uploader>collisionseriestv2</video:uploader>
+    <video:expiration_date>2025-12-28T19:23:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-december-2025/set/97574352/</loc>
+  <lastmod>2025-12-20T19:29:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853381/image-84124fdb6c72f4e506ff50b8f44487d5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mercviper vs Marsiv Nayr, Space City Beatdown - December 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mercviper vs Marsiv Nayr in Winners Round 1 of Space City Beatdown - December 2025, streamed by TXShowdownLive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=TXShowdownLive&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>433</video:duration>
+    <video:publication_date>2025-12-20T19:29:45.000Z</video:publication_date>
+    <video:uploader>TXShowdownLive</video:uploader>
+    <video:expiration_date>2025-12-28T19:29:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97566631/</loc>
+  <lastmod>2025-12-20T19:32:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648849533&amp;t=0h1m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1379</video:duration>
+    <video:duration>1007</video:duration>
     <video:publication_date>2025-12-20T19:04:03.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2025-12-28T19:04:03.000Z</video:expiration_date>
@@ -7174,30 +7222,6 @@
     <video:publication_date>2025-12-06T22:25:16.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2025-12-14T22:25:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-december-2025/set/97128853/</loc>
-  <lastmod>2025-12-06T22:42:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853266/image-5ab429a25e3a842a76c864e6c72e3164.png
-    </video:thumbnail_loc>
-    <video:title>
-      GalletaPR vs Revenant, Colorado Mile High Burst Monthly December 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GalletaPR vs Revenant in Losers Semi-Final of Colorado Mile High Burst Monthly December 2025, streamed by akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637119014&amp;t=2h46m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>605</video:duration>
-    <video:publication_date>2025-12-06T22:22:15.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade</video:uploader>
-    <video:expiration_date>2025-12-14T22:22:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
