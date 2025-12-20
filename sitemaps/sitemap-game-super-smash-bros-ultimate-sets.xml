@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vertex-style/set/97550786/</loc>
-  <lastmod>2025-12-20T08:28:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/aya-4/set/97551302/</loc>
+  <lastmod>2025-12-20T08:44:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851277/image-1cb6c0e4f9506ad027d92eac4ef45900.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      たこせんべい(takosenbei) vs wabu, 彩-aya- #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch たこせんべい(takosenbei) vs wabu in Losers Quarter-Final of 彩-aya- #4, streamed by 彩-aya-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/z_UM-jpj-dA?start=627s
+    </video:player_loc>
+    <video:duration>802</video:duration>
+    <video:publication_date>2025-12-20T08:44:20.000Z</video:publication_date>
+    <video:uploader>彩-aya-</video:uploader>
+    <video:expiration_date>2025-12-28T08:44:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vertex-style/set/97550786/</loc>
+  <lastmod>2025-12-20T08:54:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -13,14 +37,14 @@
       Noi vs RC | Shuton, Vertex Style - Sets on Stream
     </video:title>
     <video:description>
-      Watch Noi vs RC | Shuton in Losers Quarter-Final of Vertex Style, streamed by Vertex Style
+      Watch Noi vs RC | Shuton in Losers Quarter-Final of Vertex Style, streamed by ぷらずま
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/channel/UCSxPZHvs1VsO-RjySOjxS_g
+      https://www.youtube.com/embed/96OC1UcPC0A?start=21111s
     </video:player_loc>
-    <video:duration>1041</video:duration>
+    <video:duration>1391</video:duration>
     <video:publication_date>2025-12-20T08:28:48.000Z</video:publication_date>
-    <video:uploader>Vertex Style</video:uploader>
+    <video:uploader>ぷらずま</video:uploader>
     <video:expiration_date>2025-12-28T08:28:48.000Z</video:expiration_date>
   </video:video>
 </url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-09T01:55:17.000Z</video:publication_date>
     <video:uploader>Marshalltown Community College Esports</video:uploader>
     <video:expiration_date>2025-12-17T01:55:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/frame-trap-146-red-dragon-brewery-1/set/97212576/</loc>
-  <lastmod>2025-12-09T02:04:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859233/image-0e09ecd11cf2aa1dde396ef145be4cec.png
-    </video:thumbnail_loc>
-    <video:title>
-      USAE | C-ROD vs Spartacus, Frame Trap #146 @ Red Dragon Brewery! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch USAE | C-ROD vs Spartacus in Winners Semi-Final of Frame Trap #146 @ Red Dragon Brewery!, streamed by the_jokeofalltrades
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639084431&amp;t=0h21m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>803</video:duration>
-    <video:publication_date>2025-12-09T01:49:35.000Z</video:publication_date>
-    <video:uploader>the_jokeofalltrades</video:uploader>
-    <video:expiration_date>2025-12-17T01:49:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
