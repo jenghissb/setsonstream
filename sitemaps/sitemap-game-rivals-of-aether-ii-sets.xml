@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/banbury-bash-4-wi-summit-qualifier/set/97573488/</loc>
+  <lastmod>2025-12-20T19:11:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842541/image-5a4e5710d14888a39ab6c72de52b2fba.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tone vs Love Tub, Banbury Bash 4 - WI SUMMIT QUALIFIER - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tone vs Love Tub in Round 4 of Banbury Bash 4 - WI SUMMIT QUALIFIER, streamed by WisconsinSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648849354&amp;t=0h9m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>946</video:duration>
+    <video:publication_date>2025-12-20T19:11:16.000Z</video:publication_date>
+    <video:uploader>WisconsinSmash</video:uploader>
+    <video:expiration_date>2025-12-28T19:11:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-514/set/97534365/</loc>
   <lastmod>2025-12-20T02:44:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-22T17:45:55.000Z</video:publication_date>
     <video:uploader>rivalsofaetheritalia</video:uploader>
     <video:expiration_date>2025-11-30T17:45:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/molten-merendero-iii/set/96632250/</loc>
-  <lastmod>2025-11-22T17:53:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834708/image-d099493ee050ece4e2129028e07fef36.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Genarog vs DonCascone, Molten Merendero III - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Genarog vs DonCascone in Winners Semi-Final of Molten Merendero III, streamed by rivalsofaetheritalia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625106442&amp;t=3h20m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1093</video:duration>
-    <video:publication_date>2025-11-22T17:27:37.000Z</video:publication_date>
-    <video:uploader>rivalsofaetheritalia</video:uploader>
-    <video:expiration_date>2025-11-30T17:27:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
