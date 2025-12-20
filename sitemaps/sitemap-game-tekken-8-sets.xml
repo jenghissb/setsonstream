@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esc-95-the-esc-holiday-special/set/97571957/</loc>
+  <lastmod>2025-12-20T20:31:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860754/image-0c03b13b9ceba8b331f7d12b6a368291.png
+    </video:thumbnail_loc>
+    <video:title>
+      Owen Tua vs KUMA GAMING | deadite1001, ESC 95: The ESC Holiday Special - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Owen Tua vs KUMA GAMING | deadite1001 in Grand Final of ESC 95: The ESC Holiday Special, streamed by The129_UK
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648834937&amp;t=1h45m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1119</video:duration>
+    <video:publication_date>2025-12-20T20:31:27.000Z</video:publication_date>
+    <video:uploader>The129_UK</video:uploader>
+    <video:expiration_date>2025-12-28T20:31:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/the-reset-x/set/97501488/</loc>
   <lastmod>2025-12-20T20:15:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-04T02:37:06.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2025-12-12T02:37:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/pofc-76-tekken-8-1/set/97027104/</loc>
-  <lastmod>2025-12-04T02:43:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857882/image-5f3790655a11e85f53ed352dd9098df9.png
-    </video:thumbnail_loc>
-    <video:title>
-      ttacoguyy vs majestic_seven, POFC 76 - Tekken 8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ttacoguyy vs majestic_seven in Winners Quarter-Final of POFC 76 - Tekken 8, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634817625&amp;t=0h19m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>477</video:duration>
-    <video:publication_date>2025-12-04T02:28:29.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2025-12-12T02:28:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-30-last-dance/set/97578381/</loc>
+  <lastmod>2025-12-20T20:31:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/844656/image-47dbf52e1a8cc038df9f00ba6f83c5b7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jacklyn vs KIA, Minnesota Monthly Melee #30: Last Dance - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jacklyn vs KIA in Round 5 of Minnesota Monthly Melee #30: Last Dance, streamed by TeamOxy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648857170&amp;t=1h19m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1142</video:duration>
+    <video:publication_date>2025-12-20T20:31:04.000Z</video:publication_date>
+    <video:uploader>TeamOxy</video:uploader>
+    <video:expiration_date>2025-12-28T20:31:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-30-last-dance/set/97571977/</loc>
   <lastmod>2025-12-20T20:32:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-05T00:32:35.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-13T00:32:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-169-one-hundred-sixty-nines-yes/set/97029770/</loc>
-  <lastmod>2025-12-04T05:43:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858276/image-aa9022692b2ced313fe42946daed9081.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aura vs Pbag | Lop, Adam&apos;s Smash Series #169 : One hundred sixty nines #yes - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aura vs Pbag | Lop in Winners Semi-Final of Adam&apos;s Smash Series #169 : One hundred sixty nines #yes, streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634857604&amp;t=2h27m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>563</video:duration>
-    <video:publication_date>2025-12-04T05:31:34.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2025-12-12T05:31:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
