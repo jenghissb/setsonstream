@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-reset-x/set/97501484/</loc>
-  <lastmod>2025-12-20T16:16:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-reset-x/set/97501513/</loc>
+  <lastmod>2025-12-20T16:29:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815935/image-4074b308bd1942587c5b10ee2eb7288b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Addicted | Popi Nash vs VTXA | IcoSam, THE RESET X - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Addicted | Popi Nash vs VTXA | IcoSam in Losers Round 2 of THE RESET X, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648561999&amp;t=5h13m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>928</video:duration>
+    <video:publication_date>2025-12-20T16:29:47.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-12-28T16:29:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-reset-x/set/97501484/</loc>
+  <lastmod>2025-12-20T16:38:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648561999&amp;t=5h0m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>158</video:duration>
+    <video:duration>770</video:duration>
     <video:publication_date>2025-12-20T16:16:50.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-12-28T16:16:50.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-04T02:08:44.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2025-12-12T02:08:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/donatos-fight-night-12-3-25/set/97020012/</loc>
-  <lastmod>2025-12-04T04:06:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857473/image-f1379aef09f8dd5af9937aeba5af4101.png
-    </video:thumbnail_loc>
-    <video:title>
-      BGC | kurafuto vs JSwish, Donatos Fight Night - 12/3/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BGC | kurafuto vs JSwish in Losers Final of Donatos Fight Night - 12/3/25, streamed by matchstickmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634742310&amp;t=1h26m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-12-04T02:02:42.000Z</video:publication_date>
-    <video:uploader>matchstickmelee</video:uploader>
-    <video:expiration_date>2025-12-12T02:02:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
