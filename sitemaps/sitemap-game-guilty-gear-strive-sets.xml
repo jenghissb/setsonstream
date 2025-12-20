@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-101/set/97547307/</loc>
+  <lastmod>2025-12-20T05:08:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859501/image-328b5b30bb69c39df325fc2844dc3602.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ICDS vs #PS | DePHAPPER, SoCal Colosseum #101 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ICDS vs #PS | DePHAPPER in Winners Quarter-Final of SoCal Colosseum #101, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648360511&amp;t=1h17m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>465</video:duration>
+    <video:publication_date>2025-12-20T04:50:31.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2025-12-28T04:50:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-101/set/97547310/</loc>
-  <lastmod>2025-12-20T04:39:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-20T04:56:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648360511&amp;t=1h6m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>469</video:duration>
+    <video:duration>632</video:duration>
     <video:publication_date>2025-12-20T04:39:28.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2025-12-28T04:39:28.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-06T01:26:26.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-12-14T01:26:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-135/set/97077993/</loc>
-  <lastmod>2025-12-06T01:32:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859049/image-ffc6daf818fb3fd99e56715d681c13db.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRAB | SLG | ThatScrubDavid vs MLGF, HoG: Moonlight #135 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRAB | SLG | ThatScrubDavid vs MLGF in Winners Final of HoG: Moonlight #135, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636427728&amp;t=0h44m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>563</video:duration>
-    <video:publication_date>2025-12-06T01:12:39.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-12-14T01:12:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
