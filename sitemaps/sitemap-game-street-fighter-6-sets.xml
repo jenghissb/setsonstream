@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97566631/</loc>
+  <lastmod>2025-12-20T19:04:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856274/image-39e8cc9792be9cf3dbf7fe67ceaa5111.png
+    </video:thumbnail_loc>
+    <video:title>
+      EMPR | PEMDAS | Dijin vs JerryBerry, Queen 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EMPR | PEMDAS | Dijin vs JerryBerry in Winners Round 2 of Queen 2025, streamed by collisionseriestv2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648849533&amp;t=0h1m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>537</video:duration>
+    <video:publication_date>2025-12-20T19:04:03.000Z</video:publication_date>
+    <video:uploader>collisionseriestv2</video:uploader>
+    <video:expiration_date>2025-12-28T19:04:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sac-salty-arena-cup-street-fighter-6-7/set/97564285/</loc>
   <lastmod>2025-12-20T17:40:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-06T22:22:15.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2025-12-14T22:22:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/brooooook-brawwlllllll-2025/set/97134326/</loc>
-  <lastmod>2025-12-06T22:42:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859189/image-6df02dab31748e425dda650b2e192f8d.png
-    </video:thumbnail_loc>
-    <video:title>
-      &quot;Q&quot; vs narramoment, BROOOOOOK BRAWWLLLLLLL 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch &quot;Q&quot; vs narramoment in Losers Quarter-Final of BROOOOOOK BRAWWLLLLLLL 2025, streamed by sbusmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637123113&amp;t=2h39m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>593</video:duration>
-    <video:publication_date>2025-12-06T22:20:48.000Z</video:publication_date>
-    <video:uploader>sbusmash</video:uploader>
-    <video:expiration_date>2025-12-14T22:20:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
