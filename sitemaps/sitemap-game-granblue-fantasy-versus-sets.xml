@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/minimajor-especial-de-natal/set/97567100/</loc>
-  <lastmod>2025-12-20T22:58:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/minimajor-especial-de-natal/set/97567093/</loc>
+  <lastmod>2025-12-20T23:10:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855962/image-46e518774bbf48fb20a703ad737fdc00.png
+    </video:thumbnail_loc>
+    <video:title>
+      COMITÊ | Shirou vs EC | supersonic, Minimajor - Especial de Natal - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch COMITÊ | Shirou vs EC | supersonic in Grand Final of Minimajor - Especial de Natal, streamed by MINIMAJORBR
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648963051&amp;t=1h41m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1289</video:duration>
+    <video:publication_date>2025-12-20T23:10:28.000Z</video:publication_date>
+    <video:uploader>MINIMAJORBR</video:uploader>
+    <video:expiration_date>2025-12-28T23:10:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/minimajor-especial-de-natal/set/97567100/</loc>
+  <lastmod>2025-12-20T23:19:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648963051&amp;t=1h29m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1019</video:duration>
+    <video:duration>714</video:duration>
     <video:publication_date>2025-12-20T22:58:29.000Z</video:publication_date>
     <video:uploader>MINIMAJORBR</video:uploader>
     <video:expiration_date>2025-12-28T22:58:29.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-19T03:25:09.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2025-11-27T03:25:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-171/set/96496454/</loc>
-  <lastmod>2025-11-19T03:32:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853367/image-ed666cd9ef52764a3b39eaa83495402f.png
-    </video:thumbnail_loc>
-    <video:title>
-      HMQ | Fuzzy_Snugs vs GanonDegenerate, Smash @ Mizzou 171 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HMQ | Fuzzy_Snugs vs GanonDegenerate in Losers Semi-Final of Smash @ Mizzou 171, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2622117758&amp;t=2h57m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>323</video:duration>
-    <video:publication_date>2025-11-19T03:19:16.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2025-11-27T03:19:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

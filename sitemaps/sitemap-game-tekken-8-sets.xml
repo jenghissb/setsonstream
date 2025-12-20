@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-68/set/97586849/</loc>
-  <lastmod>2025-12-20T23:05:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/space-city-beatdown-december-2025/set/97588086/</loc>
+  <lastmod>2025-12-20T23:20:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853381/image-84124fdb6c72f4e506ff50b8f44487d5.png
+    </video:thumbnail_loc>
+    <video:title>
+      ShaukuArcade vs TS | F-X, Space City Beatdown - December 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ShaukuArcade vs TS | F-X in Winners Final of Space City Beatdown - December 2025, streamed by TXShowdownLive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648919022&amp;t=2h50m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>669</video:duration>
+    <video:publication_date>2025-12-20T23:20:48.000Z</video:publication_date>
+    <video:uploader>TXShowdownLive</video:uploader>
+    <video:expiration_date>2025-12-28T23:20:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-68/set/97586849/</loc>
+  <lastmod>2025-12-20T23:21:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2649001644&amp;t=0h40m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>623</video:duration>
+    <video:duration>558</video:duration>
     <video:publication_date>2025-12-20T23:05:05.000Z</video:publication_date>
     <video:uploader>nyctekken</video:uploader>
     <video:expiration_date>2025-12-28T23:05:05.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/space-city-beatdown-december-2025/set/97588098/</loc>
-  <lastmod>2025-12-20T22:55:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-20T23:21:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648919022&amp;t=2h25m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1218</video:duration>
+    <video:duration>841</video:duration>
     <video:publication_date>2025-12-20T22:55:10.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2025-12-28T22:55:10.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-04T03:26:04.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-12-12T03:26:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/pofc-76-tekken-8-1/set/97027134/</loc>
-  <lastmod>2025-12-04T03:35:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857882/image-5f3790655a11e85f53ed352dd9098df9.png
-    </video:thumbnail_loc>
-    <video:title>
-      majestic_seven vs Slow2right, POFC 76 - Tekken 8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch majestic_seven vs Slow2right in Losers Round 1 of POFC 76 - Tekken 8, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634817625&amp;t=1h7m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>759</video:duration>
-    <video:publication_date>2025-12-04T03:17:10.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2025-12-12T03:17:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

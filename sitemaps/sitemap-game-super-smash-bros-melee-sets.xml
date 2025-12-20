@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-55-and-the-truth-will-set-you-free/set/97591313/</loc>
+  <lastmod>2025-12-20T23:21:57.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836818/image-4c4350376f95fae2c170a91413f63f14.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Badboi vs BGIRL | Yifu, Mass Madness 55 - And The Truth Will Set You Free - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Badboi vs BGIRL | Yifu in Winners Round 2 of Mass Madness 55 - And The Truth Will Set You Free, streamed by GameUnderground
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2649008505&amp;t=0h47m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>600</video:duration>
+    <video:publication_date>2025-12-20T23:21:57.000Z</video:publication_date>
+    <video:uploader>GameUnderground</video:uploader>
+    <video:expiration_date>2025-12-28T23:21:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-30-last-dance/set/97582168/</loc>
   <lastmod>2025-12-20T22:58:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-05T01:23:56.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-13T01:23:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/yeti-weekly-458/set/97048945/</loc>
-  <lastmod>2025-12-05T01:41:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857478/image-9ae5fef39ca2af0393a317f79f7ced67.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TEMU | Trashman vs Dinkster, Yeti Weekly 458 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TEMU | Trashman vs Dinkster in Winners Round 1 of Yeti Weekly 458, streamed by dinksterlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2635555154&amp;t=1h17m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>779</video:duration>
-    <video:publication_date>2025-12-05T01:22:05.000Z</video:publication_date>
-    <video:uploader>dinksterlive</video:uploader>
-    <video:expiration_date>2025-12-13T01:22:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
