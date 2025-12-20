@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97584630/</loc>
-  <lastmod>2025-12-20T22:20:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97584642/</loc>
+  <lastmod>2025-12-20T22:45:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856274/image-39e8cc9792be9cf3dbf7fe67ceaa5111.png
+    </video:thumbnail_loc>
+    <video:title>
+      BC | SADDIMU973 vs BoNe | Sark, Queen 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BC | SADDIMU973 vs BoNe | Sark in Losers Round 1 of Queen 2025, streamed by collisionseriestv2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648922128&amp;t=2h11m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>289</video:duration>
+    <video:publication_date>2025-12-20T22:45:09.000Z</video:publication_date>
+    <video:uploader>collisionseriestv2</video:uploader>
+    <video:expiration_date>2025-12-28T22:45:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97584630/</loc>
+  <lastmod>2025-12-20T22:34:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648922128&amp;t=1h46m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>861</video:duration>
+    <video:duration>627</video:duration>
     <video:publication_date>2025-12-20T22:20:13.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2025-12-28T22:20:13.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-07T01:51:42.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2025-12-15T01:51:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neon-dreams-marvel-tokon-beta-tournament-2-x-sf6-bi-weekly-51-local/set/97155824/</loc>
-  <lastmod>2025-12-07T01:56:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859097/image-089e790a96add85145213b2b5798a1be.png
-    </video:thumbnail_loc>
-    <video:title>
-      H.G vs Ninjaadrian009, Neon Dreams Marvel TOKON Beta Tournament #2 x SF6 Bi-Weekly #51 LOCAL - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch H.G vs Ninjaadrian009 in Winners Semi-Final of Neon Dreams Marvel TOKON Beta Tournament #2 x SF6 Bi-Weekly #51 LOCAL, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637366029&amp;t=0h36m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>418</video:duration>
-    <video:publication_date>2025-12-07T01:37:27.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2025-12-15T01:37:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
