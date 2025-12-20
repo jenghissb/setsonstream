@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ultimate-flat-zone-4-christmas-edition/set/97554711/</loc>
+  <lastmod>2025-12-20T10:31:11.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847712/image-db01050ca87ed9f97efa6e292b1d587c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Komori vs Kins0&apos;s | schnitte, Ultimate Flat Zone #4 - Christmas Edition! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Komori vs Kins0&apos;s | schnitte in Round 1 of Ultimate Flat Zone #4 - Christmas Edition!, streamed by SEiFNOPA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648539380&amp;t=0h13m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>670</video:duration>
+    <video:publication_date>2025-12-20T10:31:11.000Z</video:publication_date>
+    <video:uploader>SEiFNOPA</video:uploader>
+    <video:expiration_date>2025-12-28T10:31:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-4/set/97545464/</loc>
   <lastmod>2025-12-20T05:52:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-04T02:27:47.000Z</video:publication_date>
     <video:uploader>ChicagoMelee</video:uploader>
     <video:expiration_date>2025-12-12T02:27:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-12-3-25/set/97019810/</loc>
-  <lastmod>2025-12-04T02:58:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839267/image-880a06991b403b5c9a8c7d04149fbc5e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Deadstock vs Grand, The Theft&apos;s Motto, One Up Melee 12.3.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Deadstock vs Grand, The Theft&apos;s Motto in Losers Final of One Up Melee 12.3.25, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634732764&amp;t=2h1m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1423</video:duration>
-    <video:publication_date>2025-12-04T02:25:05.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2025-12-12T02:25:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
