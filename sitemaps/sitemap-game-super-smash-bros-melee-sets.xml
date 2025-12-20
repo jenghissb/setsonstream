@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/good-christsmash-2/set/97560806/</loc>
-  <lastmod>2025-12-20T15:31:45.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/good-christsmash-2/set/97560776/</loc>
+  <lastmod>2025-12-20T16:00:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/850251/image-8c48b9457ef75c436c24c5c1eb45c1c8.png
+    </video:thumbnail_loc>
+    <video:title>
+      DerFasan vs GG Munich | Aolong, Good Christsmash #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DerFasan vs GG Munich | Aolong in Winners Final of Good Christsmash #2, streamed by german_melee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648531008&amp;t=6h5m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1137</video:duration>
+    <video:publication_date>2025-12-20T16:00:31.000Z</video:publication_date>
+    <video:uploader>german_melee</video:uploader>
+    <video:expiration_date>2025-12-28T16:00:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/good-christsmash-2/set/97560806/</loc>
+  <lastmod>2025-12-20T16:10:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648531008&amp;t=5h36m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1096</video:duration>
+    <video:duration>1710</video:duration>
     <video:publication_date>2025-12-20T15:31:45.000Z</video:publication_date>
     <video:uploader>german_melee</video:uploader>
     <video:expiration_date>2025-12-28T15:31:45.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-04T05:01:25.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2025-12-12T05:01:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-169-one-hundred-sixty-nines-yes/set/97029893/</loc>
-  <lastmod>2025-12-04T05:04:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858276/image-aa9022692b2ced313fe42946daed9081.png
-    </video:thumbnail_loc>
-    <video:title>
-      MikeyC vs mister_person, Adam&apos;s Smash Series #169 : One hundred sixty nines #yes - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MikeyC vs mister_person in Losers Round 5 of Adam&apos;s Smash Series #169 : One hundred sixty nines #yes, streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634857604&amp;t=1h45m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>675</video:duration>
-    <video:publication_date>2025-12-04T04:49:48.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2025-12-12T04:49:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
