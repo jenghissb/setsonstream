@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/blast-zone-198/set/97602446/</loc>
+  <lastmod>2025-12-21T04:24:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Durú vs Kiro, Blast Zone #198 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Durú vs Kiro in Losers Final of Blast Zone #198, streamed by smashboundgg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2649206731&amp;t=0h45m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>690</video:duration>
+    <video:publication_date>2025-12-21T04:08:00.000Z</video:publication_date>
+    <video:uploader>smashboundgg</video:uploader>
+    <video:expiration_date>2025-12-29T04:08:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/blast-zone-198/set/97602445/</loc>
-  <lastmod>2025-12-21T03:56:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-21T04:15:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2649206731&amp;t=0h33m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>747</video:duration>
+    <video:duration>621</video:duration>
     <video:publication_date>2025-12-21T03:56:14.000Z</video:publication_date>
     <video:uploader>smashboundgg</video:uploader>
     <video:expiration_date>2025-12-29T03:56:14.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-05T03:28:02.000Z</video:publication_date>
     <video:uploader>BaltimoreMelee</video:uploader>
     <video:expiration_date>2025-12-13T03:28:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-199/set/97050585/</loc>
-  <lastmod>2025-12-05T03:40:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858750/image-bbdd02459115ef473692c3f3c4851f92.png
-    </video:thumbnail_loc>
-    <video:title>
-      7 | GDubs vs ! | robbie, DMGC Smash Bros Local #199 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 7 | GDubs vs ! | robbie in Losers Final of DMGC Smash Bros Local #199, streamed by gdubsmp4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2635591546&amp;t=2h29m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>644</video:duration>
-    <video:publication_date>2025-12-05T03:22:22.000Z</video:publication_date>
-    <video:uploader>gdubsmp4</video:uploader>
-    <video:expiration_date>2025-12-13T03:22:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

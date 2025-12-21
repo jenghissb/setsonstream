@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/icebreaker-ii/set/97602187/</loc>
+  <lastmod>2025-12-21T04:48:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/788908/image-23b998439434f25930271746c274a80b.png
+    </video:thumbnail_loc>
+    <video:title>
+      MuteAce vs TCGG | | Yalmanac, ICEBREAKER II - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MuteAce vs TCGG | | Yalmanac in Grand Final of ICEBREAKER II, streamed by leeroysesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2648873711&amp;t=8h55m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1082</video:duration>
+    <video:publication_date>2025-12-21T04:28:52.000Z</video:publication_date>
+    <video:uploader>leeroysesports</video:uploader>
+    <video:expiration_date>2025-12-29T04:28:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/icebreaker-ii/set/97602205/</loc>
-  <lastmod>2025-12-21T04:06:43.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-21T04:29:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2648873711&amp;t=8h33m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>118</video:duration>
+    <video:duration>1276</video:duration>
     <video:publication_date>2025-12-21T04:06:43.000Z</video:publication_date>
     <video:uploader>leeroysesports</video:uploader>
     <video:expiration_date>2025-12-29T04:06:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/nokus-birthday-bash-3/set/97599687/</loc>
-  <lastmod>2025-12-21T04:02:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      SBU | Quidd vs ENC | Cee, Nokus Birthday Bash #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SBU | Quidd vs ENC | Cee in Losers Final of Nokus Birthday Bash #3, streamed by EncoreEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=EncoreEsports&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>343</video:duration>
-    <video:publication_date>2025-12-21T04:02:58.000Z</video:publication_date>
-    <video:uploader>EncoreEsports</video:uploader>
-    <video:expiration_date>2025-12-29T04:02:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +71998,6 @@
     <video:publication_date>2025-12-11T05:00:03.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-12-19T05:00:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-35/set/97262626/</loc>
-  <lastmod>2025-12-11T05:15:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860248/image-68ddb42a3d945b523f32543cc2d1a152.png
-    </video:thumbnail_loc>
-    <video:title>
-      FalcoVille | CheeseKerd vs TS | Buck, Split Neutral #35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FalcoVille | CheeseKerd vs TS | Buck in Winners Semi-Final of Split Neutral #35, streamed by SoniCBPrO
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640821309&amp;t=1h27m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1568</video:duration>
-    <video:publication_date>2025-12-11T04:48:12.000Z</video:publication_date>
-    <video:uploader>SoniCBPrO</video:uploader>
-    <video:expiration_date>2025-12-19T04:48:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
