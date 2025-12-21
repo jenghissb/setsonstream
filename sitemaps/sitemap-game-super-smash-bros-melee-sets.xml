@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-215/set/97620915/</loc>
-  <lastmod>2025-12-21T20:34:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-215/set/97620916/</loc>
+  <lastmod>2025-12-21T20:54:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/819020/image-ef8d351c40d7637009e63cb0ff69623f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Grab2Win vs Milwaukee | Jisp, The Construct 215 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Grab2Win vs Milwaukee | Jisp in Winners Semi-Final of The Construct 215, streamed by wisconsinsmash2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2649667011&amp;t=2h40m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1210</video:duration>
+    <video:publication_date>2025-12-21T20:54:25.000Z</video:publication_date>
+    <video:uploader>wisconsinsmash2</video:uploader>
+    <video:expiration_date>2025-12-29T20:54:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-215/set/97620915/</loc>
+  <lastmod>2025-12-21T20:59:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2649667011&amp;t=2h21m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1014</video:duration>
+    <video:duration>1161</video:duration>
     <video:publication_date>2025-12-21T20:34:46.000Z</video:publication_date>
     <video:uploader>wisconsinsmash2</video:uploader>
     <video:expiration_date>2025-12-29T20:34:46.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-05T04:46:02.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-12-13T04:46:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-125/set/97053426/</loc>
-  <lastmod>2025-12-05T04:52:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857917/image-80401a5885b477958a647da678c91969.png
-    </video:thumbnail_loc>
-    <video:title>
-      Khalid vs LuckyLadder569, Rage Against the CRT #125 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Khalid vs LuckyLadder569 in Winners Semi-Final of Rage Against the CRT #125, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2635690518&amp;t=1h22m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1197</video:duration>
-    <video:publication_date>2025-12-05T04:25:53.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2025-12-13T04:25:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
