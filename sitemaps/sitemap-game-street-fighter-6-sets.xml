@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-reset-x/set/97611572/</loc>
-  <lastmod>2025-12-21T15:07:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-reset-x/set/97611571/</loc>
+  <lastmod>2025-12-21T15:20:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/815935/image-4074b308bd1942587c5b10ee2eb7288b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Leek vs Luke, THE RESET X - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Leek vs Luke in Losers Quarter-Final of THE RESET X, streamed by hardreadch
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2649399850&amp;t=4h39m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>736</video:duration>
+    <video:publication_date>2025-12-21T15:20:46.000Z</video:publication_date>
+    <video:uploader>hardreadch</video:uploader>
+    <video:expiration_date>2025-12-29T15:20:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-reset-x/set/97611572/</loc>
+  <lastmod>2025-12-21T15:23:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2649399850&amp;t=4h26m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>473</video:duration>
+    <video:duration>769</video:duration>
     <video:publication_date>2025-12-21T15:07:52.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-12-29T15:07:52.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-07T18:25:57.000Z</video:publication_date>
     <video:uploader>spadagamer1</video:uploader>
     <video:expiration_date>2025-12-15T18:25:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rrg-champion-edition-2025-rio-retrogames/set/97169653/</loc>
-  <lastmod>2025-12-07T18:15:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833238/image-9fc50ea8401e5f3d0e3b7cc257b1a920.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ZSFIGHTERS | KastroBR vs Solid1, RRG Champion Edition 2025 - Rio Retrogames - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZSFIGHTERS | KastroBR vs Solid1 in Losers Round 1 of RRG Champion Edition 2025 - Rio Retrogames, streamed by spadagamer1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637902707&amp;t=0h39m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>851</video:duration>
-    <video:publication_date>2025-12-07T17:50:55.000Z</video:publication_date>
-    <video:uploader>spadagamer1</video:uploader>
-    <video:expiration_date>2025-12-15T17:50:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
