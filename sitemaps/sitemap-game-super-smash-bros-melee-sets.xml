@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/house-of-x-smash-2025/set/97612363/</loc>
+  <lastmod>2025-12-21T16:04:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860399/image-411025438ed315454c6b9f6305bbdef9.png
+    </video:thumbnail_loc>
+    <video:title>
+      voff3 vs SN | Martin, House of X-Smash 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch voff3 vs SN | Martin in Winners Semi-Final of House of X-Smash 2025, streamed by SmashNorge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2649438124&amp;t=3h54m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>896</video:duration>
+    <video:publication_date>2025-12-21T16:04:15.000Z</video:publication_date>
+    <video:uploader>SmashNorge</video:uploader>
+    <video:expiration_date>2025-12-29T16:04:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/blast-zone-198/set/97602446/</loc>
   <lastmod>2025-12-21T04:24:20.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-05T03:28:13.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-12-13T03:28:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bmw-153/set/97051480/</loc>
-  <lastmod>2025-12-05T03:52:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857966/image-f73e57138f16552f16d5d0b98cca3114.png
-    </video:thumbnail_loc>
-    <video:title>
-      Cloudy vs SuperGinger, BMW #153 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cloudy vs SuperGinger in Losers Final of BMW #153, streamed by BaltimoreMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2635606472&amp;t=2h18m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>977</video:duration>
-    <video:publication_date>2025-12-05T03:28:02.000Z</video:publication_date>
-    <video:uploader>BaltimoreMelee</video:uploader>
-    <video:expiration_date>2025-12-13T03:28:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
