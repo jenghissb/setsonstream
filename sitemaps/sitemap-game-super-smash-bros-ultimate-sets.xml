@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/22-350/set/97636929/</loc>
-  <lastmod>2025-12-22T11:11:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/22-350/set/97636931/</loc>
+  <lastmod>2025-12-22T11:29:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860305/image-2a5e7cb9643f7ef01568234204940a7f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GX | 日傘ぐろぴ(GX | higasa guropi) vs ユーノ(yuuno), 22(月)上野スマコミ#350(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GX | 日傘ぐろぴ(GX | higasa guropi) vs ユーノ(yuuno) in Winners Semi-Final of 22(月)上野スマコミ#350(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/yPGJsA5Jt8E?start=3655s
+    </video:player_loc>
+    <video:duration>138</video:duration>
+    <video:publication_date>2025-12-22T11:29:31.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-30T11:29:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/22-350/set/97636929/</loc>
+  <lastmod>2025-12-22T11:29:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/yPGJsA5Jt8E?start=2567s
     </video:player_loc>
-    <video:duration>261</video:duration>
+    <video:duration>1046</video:duration>
     <video:publication_date>2025-12-22T11:11:23.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-30T11:11:23.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-12T18:47:56.000Z</video:publication_date>
     <video:uploader>gecotrier</video:uploader>
     <video:expiration_date>2025-12-20T18:47:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rogasmash-349/set/97298667/</loc>
-  <lastmod>2025-12-12T19:09:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860781/image-f90ee859602bf32c4e5dd16079aa9cfa.png
-    </video:thumbnail_loc>
-    <video:title>
-      SoL vs Gzana, RogaSmash #349 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SoL vs Gzana in Winners Semi-Final of RogaSmash #349, streamed by smashrogaland
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642068261&amp;t=0h34m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1231</video:duration>
-    <video:publication_date>2025-12-12T18:47:10.000Z</video:publication_date>
-    <video:uploader>smashrogaland</video:uploader>
-    <video:expiration_date>2025-12-20T18:47:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
