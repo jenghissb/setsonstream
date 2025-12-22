@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/22-350/set/97636931/</loc>
-  <lastmod>2025-12-22T11:29:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/22-350/set/97636932/</loc>
+  <lastmod>2025-12-22T11:41:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860305/image-2a5e7cb9643f7ef01568234204940a7f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      はっせー(hassee) vs カナ(kana), 22(月)上野スマコミ#350(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch はっせー(hassee) vs カナ(kana) in Winners Semi-Final of 22(月)上野スマコミ#350(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/yPGJsA5Jt8E?start=4384s
+    </video:player_loc>
+    <video:duration>483</video:duration>
+    <video:publication_date>2025-12-22T11:41:40.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2025-12-30T11:41:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/22-350/set/97636931/</loc>
+  <lastmod>2025-12-22T11:42:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/yPGJsA5Jt8E?start=3655s
     </video:player_loc>
-    <video:duration>138</video:duration>
+    <video:duration>716</video:duration>
     <video:publication_date>2025-12-22T11:29:31.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-30T11:29:31.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-12T18:50:42.000Z</video:publication_date>
     <video:uploader>nicht_sansi</video:uploader>
     <video:expiration_date>2025-12-20T18:50:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hill-top-zone-82/set/97297621/</loc>
-  <lastmod>2025-12-12T18:58:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859905/image-818276725c962d749236f4ed3acfcf5a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Orkbolt vs GECO | Mineralwassa, Hill Top Zone - #82 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Orkbolt vs GECO | Mineralwassa in Round 3 of Hill Top Zone - #82, streamed by gecotrier
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642032369&amp;t=1h22m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>536</video:duration>
-    <video:publication_date>2025-12-12T18:47:56.000Z</video:publication_date>
-    <video:uploader>gecotrier</video:uploader>
-    <video:expiration_date>2025-12-20T18:47:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
