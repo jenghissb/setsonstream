@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/swansee-me-in-bracket-christmas-chaos/set/97639811/</loc>
-  <lastmod>2025-12-22T18:49:43.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/swansee-me-in-bracket-christmas-chaos/set/97639810/</loc>
+  <lastmod>2025-12-22T19:03:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863110/image-92e4b27018444fd2a26d95008e283be3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Samidge vs Japer, Swansee Me In Bracket: Christmas Chaos - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Samidge vs Japer in Winners Quarter-Final of Swansee Me In Bracket: Christmas Chaos, streamed by MrSneakyStreams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2650476166&amp;t=0h53m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>689</video:duration>
+    <video:publication_date>2025-12-22T19:03:51.000Z</video:publication_date>
+    <video:uploader>MrSneakyStreams</video:uploader>
+    <video:expiration_date>2025-12-30T19:03:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/swansee-me-in-bracket-christmas-chaos/set/97639811/</loc>
+  <lastmod>2025-12-22T19:01:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2650476166&amp;t=0h39m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>211</video:duration>
+    <video:duration>694</video:duration>
     <video:publication_date>2025-12-22T18:49:43.000Z</video:publication_date>
     <video:uploader>MrSneakyStreams</video:uploader>
     <video:expiration_date>2025-12-30T18:49:43.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-12T19:02:11.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2025-12-20T19:02:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-basement-42/set/97297642/</loc>
-  <lastmod>2025-12-12T19:07:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859668/image-57d131bdfb52b3c8e9a6460fa23063c1.png
-    </video:thumbnail_loc>
-    <video:title>
-      BE | Yahiko vs OX | JokePoke, The Basement #42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BE | Yahiko vs OX | JokePoke in Winners Semi-Final of The Basement #42, streamed by aesulb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642045150&amp;t=1h17m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>189</video:duration>
-    <video:publication_date>2025-12-12T19:01:50.000Z</video:publication_date>
-    <video:uploader>aesulb</video:uploader>
-    <video:expiration_date>2025-12-20T19:01:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
