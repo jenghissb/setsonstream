@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-s-bros-38/set/97632967/</loc>
+  <lastmod>2025-12-22T02:29:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852172/image-ad9c3d5e2ed33b9e5d8f155bf8f0faa0.png
+    </video:thumbnail_loc>
+    <video:title>
+      [RR] | BUNK | Brady? vs TGD | upBeat, Street&apos;s Bros 38 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch [RR] | BUNK | Brady? vs TGD | upBeat in Grand Final of Street&apos;s Bros 38, streamed by aozaru9
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2649964963&amp;t=1h13m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>502</video:duration>
+    <video:publication_date>2025-12-22T02:11:36.000Z</video:publication_date>
+    <video:uploader>aozaru9</video:uploader>
+    <video:expiration_date>2025-12-30T02:11:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/level-152-y-vgm-presentan-sushi-de-delf-n-tournament-el-presencial-13-1/set/97617849/</loc>
   <lastmod>2025-12-21T20:40:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-10T00:33:53.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-18T00:33:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/esg-fight-night-229/set/97218516/</loc>
-  <lastmod>2025-12-09T03:24:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857931/image-d7c8072ec18efeadde751752d5f98bb1.png
-    </video:thumbnail_loc>
-    <video:title>
-      B1oom vs ESG | HOJU, ESG Fight Night #229 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch B1oom vs ESG | HOJU in Grand Final of ESG Fight Night #229, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639015476&amp;t=3h8m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>786</video:duration>
-    <video:publication_date>2025-12-09T03:06:37.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2025-12-17T03:06:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
