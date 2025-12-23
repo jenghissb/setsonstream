@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-38-twas-the-night/set/97651228/</loc>
+  <lastmod>2025-12-23T05:10:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863679/image-758ada30eba8e24fb487ff852f9b1f68.png
+    </video:thumbnail_loc>
+    <video:title>
+      ABG | Zeo vs Josh Kano | deez, McCloud&apos;s Melee Co. #38: &apos;Twas The Night - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ABG | Zeo vs Josh Kano | deez in Winners Quarter-Final of McCloud&apos;s Melee Co. #38: &apos;Twas The Night, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2650877222&amp;t=1h36m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>585</video:duration>
+    <video:publication_date>2025-12-23T04:54:49.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-12-31T04:54:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-38-twas-the-night/set/97651220/</loc>
-  <lastmod>2025-12-23T04:42:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-23T05:02:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2650877222&amp;t=1h24m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>456</video:duration>
+    <video:duration>698</video:duration>
     <video:publication_date>2025-12-23T04:42:40.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2025-12-31T04:42:40.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-06T01:45:48.000Z</video:publication_date>
     <video:uploader>RochesterSmash</video:uploader>
     <video:expiration_date>2025-12-14T01:45:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rowan-ssbm-fall-2025-11-finale/set/97076686/</loc>
-  <lastmod>2025-12-06T02:07:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856983/image-7cb075775855f8c0578440dc3951d09d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jude vs Young Neil, Rowan SSBM Fall 2025 #11: Finale - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jude vs Young Neil in Winners Final of Rowan SSBM Fall 2025 #11: Finale, streamed by slte_nj
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636423146&amp;t=1h17m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>901</video:duration>
-    <video:publication_date>2025-12-06T01:39:30.000Z</video:publication_date>
-    <video:uploader>slte_nj</video:uploader>
-    <video:expiration_date>2025-12-14T01:39:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
