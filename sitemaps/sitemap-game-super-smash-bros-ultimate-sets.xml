@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-15-saison-2-les-bls-de-no-l-le-retour/set/97655062/</loc>
+  <lastmod>2025-12-23T18:46:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862568/image-7f341d8e8fa74bce239c868887fca8d0.png
+    </video:thumbnail_loc>
+    <video:title>
+      TLSE | toiny. vs BLS | Talion, Bloom #15 - Saison 2 : Les BLS de Noël (le retour) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TLSE | toiny. vs BLS | Talion in Winners Round 3 of Bloom #15 - Saison 2 : Les BLS de Noël (le retour), streamed by blossom_ssb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2651283963&amp;t=0h37m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>802</video:duration>
+    <video:publication_date>2025-12-23T18:32:17.000Z</video:publication_date>
+    <video:uploader>blossom_ssb</video:uploader>
+    <video:expiration_date>2025-12-31T18:32:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-15-saison-2-les-bls-de-no-l-le-retour/set/97655059/</loc>
-  <lastmod>2025-12-23T18:15:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-23T18:33:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2651283963&amp;t=0h20m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>577</video:duration>
+    <video:duration>990</video:duration>
     <video:publication_date>2025-12-23T18:15:24.000Z</video:publication_date>
     <video:uploader>blossom_ssb</video:uploader>
     <video:expiration_date>2025-12-31T18:15:24.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T01:06:57.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2025-12-21T01:06:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fnf-11-48/set/97311169/</loc>
-  <lastmod>2025-12-13T01:23:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854696/image-f6fff5dc8b9c7898e4da057168e35544.png
-    </video:thumbnail_loc>
-    <video:title>
-      Geo vs Bum, FNF 11.48 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Geo vs Bum in Winners Quarter-Final of FNF 11.48, streamed by evansville_esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642387671&amp;t=0h2m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>842</video:duration>
-    <video:publication_date>2025-12-13T01:06:27.000Z</video:publication_date>
-    <video:uploader>evansville_esports</video:uploader>
-    <video:expiration_date>2025-12-21T01:06:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
