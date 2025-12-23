@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-100-bonus-one-last-time-cap-50-powered-by-gamer-latam/set/97651484/</loc>
-  <lastmod>2025-12-23T07:13:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-100-bonus-one-last-time-cap-50-powered-by-gamer-latam/set/97651610/</loc>
+  <lastmod>2025-12-23T07:41:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862166/image-d7c83c187adaa0c64eff31abd99045af.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tyranks vs Abe, Soul Melter Smash: $100 BONUS: One Last Time [Cap @ 50] - Powered by Gamer LatAm - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tyranks vs Abe in Losers Quarter-Final of Soul Melter Smash: $100 BONUS: One Last Time [Cap @ 50] - Powered by Gamer LatAm, streamed by gamerlatammx
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2650898112&amp;t=3h48m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>707</video:duration>
+    <video:publication_date>2025-12-23T07:41:47.000Z</video:publication_date>
+    <video:uploader>gamerlatammx</video:uploader>
+    <video:expiration_date>2025-12-31T07:41:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/soul-melter-smash-100-bonus-one-last-time-cap-50-powered-by-gamer-latam/set/97651484/</loc>
+  <lastmod>2025-12-23T07:43:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2650898112&amp;t=3h20m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1811</video:duration>
+    <video:duration>1672</video:duration>
     <video:publication_date>2025-12-23T07:13:35.000Z</video:publication_date>
     <video:uploader>gamerlatammx</video:uploader>
     <video:expiration_date>2025-12-31T07:13:35.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T01:03:38.000Z</video:publication_date>
     <video:uploader>msusmashult</video:uploader>
     <video:expiration_date>2025-12-21T01:03:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/botanical-brawl-11-new-beginnings/set/97310772/</loc>
-  <lastmod>2025-12-13T01:27:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854491/image-047eb75fe7b9860cd3551f0d952d35ba.png
-    </video:thumbnail_loc>
-    <video:title>
-      SmU5h | Shaine vs Dirty Sprite 2, Botanical Brawl #11 - New Beginnings - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SmU5h | Shaine vs Dirty Sprite 2 in Winners Semi-Final of Botanical Brawl #11 - New Beginnings, streamed by syntaxssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642351280&amp;t=0h44m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1302</video:duration>
-    <video:publication_date>2025-12-13T01:03:10.000Z</video:publication_date>
-    <video:uploader>syntaxssb</video:uploader>
-    <video:expiration_date>2025-12-21T01:03:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
