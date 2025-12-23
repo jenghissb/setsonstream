@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-38-twas-the-night/set/97651358/</loc>
+  <lastmod>2025-12-23T07:13:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863679/image-758ada30eba8e24fb487ff852f9b1f68.png
+    </video:thumbnail_loc>
+    <video:title>
+      Melee Stats | s-f vs ABG | Zeo, McCloud&apos;s Melee Co. #38: &apos;Twas The Night - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Melee Stats | s-f vs ABG | Zeo in Losers Semi-Final of McCloud&apos;s Melee Co. #38: &apos;Twas The Night, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2650877222&amp;t=3h37m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>968</video:duration>
+    <video:publication_date>2025-12-23T06:56:21.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-12-31T06:56:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-38-twas-the-night/set/97651229/</loc>
   <lastmod>2025-12-23T06:20:29.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-06T02:24:54.000Z</video:publication_date>
     <video:uploader>QueenslandMelee</video:uploader>
     <video:expiration_date>2025-12-14T02:24:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/pissmas-6/set/97079071/</loc>
-  <lastmod>2025-12-06T02:27:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/825531/image-504566804fa41afc91bbb4afc8c235b3.png
-    </video:thumbnail_loc>
-    <video:title>
-      lapis vs woo | eterna, Pissmas 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch lapis vs woo | eterna in Winners Quarter-Final of Pissmas 6, streamed by QueenslandMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636493413&amp;t=0h13m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>782</video:duration>
-    <video:publication_date>2025-12-06T02:03:05.000Z</video:publication_date>
-    <video:uploader>QueenslandMelee</video:uploader>
-    <video:expiration_date>2025-12-14T02:03:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
