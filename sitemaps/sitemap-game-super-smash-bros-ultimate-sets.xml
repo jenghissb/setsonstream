@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=blossom_ssb&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2632</video:duration>
+    <video:duration>3203</video:duration>
     <video:publication_date>2025-12-23T21:58:28.000Z</video:publication_date>
     <video:uploader>blossom_ssb</video:uploader>
     <video:expiration_date>2025-12-31T21:58:28.000Z</video:expiration_date>
@@ -42,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2651465905&amp;t=0h24m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>739</video:duration>
+    <video:duration>1310</video:duration>
     <video:publication_date>2025-12-23T22:30:01.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2025-12-31T22:30:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-185-smash-bros-ultimate/set/97656906/</loc>
+  <lastmod>2025-12-23T22:49:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862734/image-95bd7756f705f837c08354ce0905b4af.png
+    </video:thumbnail_loc>
+    <video:title>
+      ALT+F4 | KingSheikah vs Broskee, NOT DM #185 SMASH BROS ULTIMATE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ALT+F4 | KingSheikah vs Broskee in Winners Round 2 of NOT DM #185 SMASH BROS ULTIMATE, streamed by walito_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2651465905&amp;t=0h43m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>169</video:duration>
+    <video:publication_date>2025-12-23T22:49:02.000Z</video:publication_date>
+    <video:uploader>walito_tv</video:uploader>
+    <video:expiration_date>2025-12-31T22:49:02.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T01:23:56.000Z</video:publication_date>
     <video:uploader>rhitssb</video:uploader>
     <video:expiration_date>2025-12-21T01:23:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fireball-fridays-170/set/97306391/</loc>
-  <lastmod>2025-12-13T01:46:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860551/image-7522f35a9101345fb829294e1f837ab8.png
-    </video:thumbnail_loc>
-    <video:title>
-      AfrosAlike vs BU | Nicksteve, Fireball Fridays #170 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AfrosAlike vs BU | Nicksteve in Winners Semi-Final of Fireball Fridays #170, streamed by cavalryesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642260105&amp;t=3h3m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1244</video:duration>
-    <video:publication_date>2025-12-13T01:23:12.000Z</video:publication_date>
-    <video:uploader>cavalryesports</video:uploader>
-    <video:expiration_date>2025-12-21T01:23:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
