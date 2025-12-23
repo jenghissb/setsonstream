@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-38-twas-the-night/set/97651226/</loc>
+  <lastmod>2025-12-23T05:46:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863679/image-758ada30eba8e24fb487ff852f9b1f68.png
+    </video:thumbnail_loc>
+    <video:title>
+      Melee Stats | s-f vs Gialla, McCloud&apos;s Melee Co. #38: &apos;Twas The Night - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Melee Stats | s-f vs Gialla in Winners Quarter-Final of McCloud&apos;s Melee Co. #38: &apos;Twas The Night, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2650877222&amp;t=2h1m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1220</video:duration>
+    <video:publication_date>2025-12-23T05:19:43.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2025-12-31T05:19:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-38-twas-the-night/set/97651228/</loc>
   <lastmod>2025-12-23T05:10:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-06T02:01:46.000Z</video:publication_date>
     <video:uploader>RochesterSmash</video:uploader>
     <video:expiration_date>2025-12-14T02:01:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-prowling-grounds-114/set/97079815/</loc>
-  <lastmod>2025-12-06T02:07:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855012/image-2ebc08d40f6a35c100c61d34b98746a7.png
-    </video:thumbnail_loc>
-    <video:title>
-      SwebBy vs Potfillers | Avie, The Prowling Grounds 114 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SwebBy vs Potfillers | Avie in Winners Quarter-Final of The Prowling Grounds 114, streamed by RochesterSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636384194&amp;t=2h12m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>104</video:duration>
-    <video:publication_date>2025-12-06T01:45:48.000Z</video:publication_date>
-    <video:uploader>RochesterSmash</video:uploader>
-    <video:expiration_date>2025-12-14T01:45:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
