@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/versus-reborn-236/set/97670123/</loc>
-  <lastmod>2025-12-24T07:29:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/versus-reborn-236/set/97670124/</loc>
+  <lastmod>2025-12-24T07:45:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863160/image-65e78b7101e4f22c32f9762ec5bff047.png
+    </video:thumbnail_loc>
+    <video:title>
+      TDC SJSU | Lammers44 vs NU | Lui$, VERSUS Reborn #236 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TDC SJSU | Lammers44 vs NU | Lui$ in Grand Final Reset of VERSUS Reborn #236, streamed by CapsuleEntertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2651704030&amp;t=3h59m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>492</video:duration>
+    <video:publication_date>2025-12-24T07:45:24.000Z</video:publication_date>
+    <video:uploader>CapsuleEntertainment</video:uploader>
+    <video:expiration_date>2026-01-01T07:45:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/versus-reborn-236/set/97670123/</loc>
+  <lastmod>2025-12-24T07:46:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2651704030&amp;t=3h43m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>854</video:duration>
+    <video:duration>937</video:duration>
     <video:publication_date>2025-12-24T07:29:28.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-01-01T07:29:28.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T03:29:41.000Z</video:publication_date>
     <video:uploader>ugsgaming</video:uploader>
     <video:expiration_date>2025-12-21T03:29:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-grimer-s-oasis-153/set/97309454/</loc>
-  <lastmod>2025-12-13T03:43:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861065/image-6c33e7d858904504b810e8b12539e782.png
-    </video:thumbnail_loc>
-    <video:title>
-      HST | Rocco vs skittles, The Grimer’s Oasis #153 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HST | Rocco vs skittles in Losers Final of The Grimer’s Oasis #153, streamed by HindsightNE
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642367773&amp;t=2h48m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>641</video:duration>
-    <video:publication_date>2025-12-13T03:29:34.000Z</video:publication_date>
-    <video:uploader>HindsightNE</video:uploader>
-    <video:expiration_date>2025-12-21T03:29:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
