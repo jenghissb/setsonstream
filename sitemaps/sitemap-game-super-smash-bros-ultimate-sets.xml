@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-214/set/97671779/</loc>
+  <lastmod>2025-12-24T10:15:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863061/image-23d74cf5fe3146b27631cb03a3c2ceda.png
+    </video:thumbnail_loc>
+    <video:title>
+      ひなかす(hinakasu) vs わしー(washii), Weekly Smash Party ～スマパ～ #214 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ひなかす(hinakasu) vs わしー(washii) in Winners Round 1 of Weekly Smash Party ～スマパ～ #214, streamed by VGBootCamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2651859045&amp;t=0h6m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>181</video:duration>
+    <video:publication_date>2025-12-24T10:15:45.000Z</video:publication_date>
+    <video:uploader>VGBootCamp</video:uploader>
+    <video:expiration_date>2026-01-01T10:15:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-175-the-twelve-fins-of-sharkmas/set/97671369/</loc>
   <lastmod>2025-12-24T09:00:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T03:40:48.000Z</video:publication_date>
     <video:uploader>setonhallshugs</video:uploader>
     <video:expiration_date>2025-12-21T03:40:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-grimer-s-oasis-153/set/97309391/</loc>
-  <lastmod>2025-12-13T04:00:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861065/image-6c33e7d858904504b810e8b12539e782.png
-    </video:thumbnail_loc>
-    <video:title>
-      sandy vs skittles, The Grimer’s Oasis #153 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch sandy vs skittles in Grand Final of The Grimer’s Oasis #153, streamed by HindsightNE
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642367773&amp;t=2h59m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1041</video:duration>
-    <video:publication_date>2025-12-13T03:40:20.000Z</video:publication_date>
-    <video:uploader>HindsightNE</video:uploader>
-    <video:expiration_date>2025-12-21T03:40:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
