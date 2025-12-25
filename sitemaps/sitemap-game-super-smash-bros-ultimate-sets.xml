@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-37/set/97675275/</loc>
+  <lastmod>2025-12-25T04:37:00.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863776/image-8b3a2b8eab33d7fc928e057a60cbe76f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nanoash vs JoJoDaHoBo, Split Neutral #37 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nanoash vs JoJoDaHoBo in Winners Semi-Final of Split Neutral #37, streamed by SoniCBPrO
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2652382867&amp;t=1h46m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>807</video:duration>
+    <video:publication_date>2025-12-25T04:37:00.000Z</video:publication_date>
+    <video:uploader>SoniCBPrO</video:uploader>
+    <video:expiration_date>2026-01-02T04:37:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-214/set/97671819/</loc>
   <lastmod>2025-12-24T13:15:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T04:53:37.000Z</video:publication_date>
     <video:uploader>ugsgaming</video:uploader>
     <video:expiration_date>2025-12-21T04:53:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/elite-smash-fridays-250/set/97320384/</loc>
-  <lastmod>2025-12-13T05:06:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860260/image-78f3755454ea3a8dd0f5e0b75ba39c17.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Squid vs KornDog | GeeMonee, Elite Smash Fridays #250 !!!!! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Squid vs KornDog | GeeMonee in Losers Quarter-Final of Elite Smash Fridays #250 !!!!!, streamed by cosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642462593&amp;t=2h13m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>961</video:duration>
-    <video:publication_date>2025-12-13T04:49:46.000Z</video:publication_date>
-    <video:uploader>cosmash</video:uploader>
-    <video:expiration_date>2025-12-21T04:49:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
