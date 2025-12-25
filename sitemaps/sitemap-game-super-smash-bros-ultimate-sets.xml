@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-143-maesuma-hit-143-1/set/97676207/</loc>
-  <lastmod>2025-12-25T10:31:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-143-maesuma-hit-143-1/set/97676211/</loc>
+  <lastmod>2025-12-25T10:46:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856673/image-43ddc77d31f14e77bcf5160cb042d949.png
+    </video:thumbnail_loc>
+    <video:title>
+      ラナオ(ranao) vs たんめん(tanmen), マエスマ&apos;HIT#143 / Maesuma&apos;HIT#143 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ラナオ(ranao) vs たんめん(tanmen) in Winners Round 2 of マエスマ&apos;HIT#143 / Maesuma&apos;HIT#143, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Mt5F7K8eUSk?start=2901s
+    </video:player_loc>
+    <video:duration>518</video:duration>
+    <video:publication_date>2025-12-25T10:46:48.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2026-01-02T10:46:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-143-maesuma-hit-143-1/set/97676207/</loc>
+  <lastmod>2025-12-25T10:46:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/Mt5F7K8eUSk?start=1954s
     </video:player_loc>
-    <video:duration>856</video:duration>
+    <video:duration>881</video:duration>
     <video:publication_date>2025-12-25T10:31:01.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2026-01-02T10:31:01.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T05:42:39.000Z</video:publication_date>
     <video:uploader>西条スマッシュ×広島大学スマブラサークル</video:uploader>
     <video:expiration_date>2025-12-21T05:42:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/5-77/set/97266099/</loc>
-  <lastmod>2025-12-13T05:51:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/842705/image-e52a9e1a15bb394bf0aa5540b3cfd643.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      鳥ちゃん(tori chan) vs 近藤ブレス(kondou buresu), あらいぶ杯オフライン#5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 鳥ちゃん(tori chan) vs 近藤ブレス(kondou buresu) in Round 5 of あらいぶ杯オフライン#5, streamed by あらいぶ
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/Wfo26ZTZJ4M?start=3501s
-    </video:player_loc>
-    <video:duration>514</video:duration>
-    <video:publication_date>2025-12-13T05:41:57.000Z</video:publication_date>
-    <video:uploader>あらいぶ</video:uploader>
-    <video:expiration_date>2025-12-21T05:41:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
