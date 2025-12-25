@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-37/set/97675274/</loc>
-  <lastmod>2025-12-25T04:57:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-37/set/97675337/</loc>
+  <lastmod>2025-12-25T05:42:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863776/image-8b3a2b8eab33d7fc928e057a60cbe76f.png
+    </video:thumbnail_loc>
+    <video:title>
+      JoJoDaHoBo vs WWA | JSAW, Split Neutral #37 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JoJoDaHoBo vs WWA | JSAW in Losers Quarter-Final of Split Neutral #37, streamed by SoniCBPrO
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2652382867&amp;t=2h51m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>246</video:duration>
+    <video:publication_date>2025-12-25T05:42:37.000Z</video:publication_date>
+    <video:uploader>SoniCBPrO</video:uploader>
+    <video:expiration_date>2026-01-02T05:42:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-37/set/97675274/</loc>
+  <lastmod>2025-12-25T05:20:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2652382867&amp;t=2h6m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1434</video:duration>
+    <video:duration>1357</video:duration>
     <video:publication_date>2025-12-25T04:57:22.000Z</video:publication_date>
     <video:uploader>SoniCBPrO</video:uploader>
     <video:expiration_date>2026-01-02T04:57:22.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T04:59:42.000Z</video:publication_date>
     <video:uploader>sonicbpro</video:uploader>
     <video:expiration_date>2025-12-21T04:59:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-31/set/97319711/</loc>
-  <lastmod>2025-12-13T05:12:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860782/image-aa9c3f9807d8770efe75d01836740293.png
-    </video:thumbnail_loc>
-    <video:title>
-      FalcoVille | CheeseKerd vs UW | Everest, The Super SmashBowl #31 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FalcoVille | CheeseKerd vs UW | Everest in Losers Round 4 of The Super SmashBowl #31, streamed by kn3vs
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642543068&amp;t=0h25m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>813</video:duration>
-    <video:publication_date>2025-12-13T04:57:01.000Z</video:publication_date>
-    <video:uploader>kn3vs</video:uploader>
-    <video:expiration_date>2025-12-21T04:57:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
