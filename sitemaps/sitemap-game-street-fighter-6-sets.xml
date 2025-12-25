@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-102/set/97676555/</loc>
+  <lastmod>2025-12-25T11:46:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863515/image-fc0388457b7fd2c668c7cbe994fe8788.png
+    </video:thumbnail_loc>
+    <video:title>
+      fubarduck vs Nozomi, Paradise Cup #102 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch fubarduck vs Nozomi in Round 2 of Paradise Cup #102, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2652574599&amp;t=0h33m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>501</video:duration>
+    <video:publication_date>2025-12-25T11:35:14.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-01-02T11:35:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-81/set/97666676/</loc>
   <lastmod>2025-12-24T03:01:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-10T05:41:43.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2025-12-18T05:41:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-14-biweekly-fighting-game-tournament-koreatown/set/97240274/</loc>
-  <lastmod>2025-12-10T05:44:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858317/image-95ba6bb6ea88a7bec48e4caa1d7be80c.png
-    </video:thumbnail_loc>
-    <video:title>
-      JB vs Samaro, DOWN BACK TUESDAYS @ MAMA LION #14 Biweekly Fighting Game Tournament - Koreatown - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JB vs Samaro in Winners Semi-Final of DOWN BACK TUESDAYS @ MAMA LION #14 Biweekly Fighting Game Tournament - Koreatown, streamed by DownBackClub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640040810&amp;t=0h36m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>781</video:duration>
-    <video:publication_date>2025-12-10T05:25:58.000Z</video:publication_date>
-    <video:uploader>DownBackClub</video:uploader>
-    <video:expiration_date>2025-12-18T05:25:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
