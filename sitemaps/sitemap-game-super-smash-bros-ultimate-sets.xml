@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dawnpath-s1-14/set/97685714/</loc>
-  <lastmod>2025-12-26T22:47:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dawnpath-s1-14/set/97685699/</loc>
+  <lastmod>2025-12-26T23:03:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864122/image-6af9e46638a3c403e35e3e93095dff39.png
+    </video:thumbnail_loc>
+    <video:title>
+      PeW vs CNM/BG | Ashgaar, Dawnpath S1 #14 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PeW vs CNM/BG | Ashgaar in Grand Final of Dawnpath S1 #14, streamed by Cycom
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2653563710&amp;t=3h46m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>751</video:duration>
+    <video:publication_date>2025-12-26T23:03:50.000Z</video:publication_date>
+    <video:uploader>Cycom</video:uploader>
+    <video:expiration_date>2026-01-03T23:03:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dawnpath-s1-14/set/97685714/</loc>
+  <lastmod>2025-12-26T23:04:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2653563710&amp;t=3h29m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>336</video:duration>
+    <video:duration>978</video:duration>
     <video:publication_date>2025-12-26T22:47:29.000Z</video:publication_date>
     <video:uploader>Cycom</video:uploader>
     <video:expiration_date>2026-01-03T22:47:29.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T13:55:55.000Z</video:publication_date>
     <video:uploader>smashultimatebe</video:uploader>
     <video:expiration_date>2025-12-21T13:55:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/frismash-christmas-cup-2025/set/97328616/</loc>
-  <lastmod>2025-12-13T14:23:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854934/image-16ea0fca9a27a1226866c6064b3ea309.png
-    </video:thumbnail_loc>
-    <video:title>
-      Addicted | FireXBoy97 vs Crunchy, Frismash Christmas Cup 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Addicted | FireXBoy97 vs Crunchy in Winners Quarter-Final of Frismash Christmas Cup 2025, streamed by frismash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642703169&amp;t=3h5m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1518</video:duration>
-    <video:publication_date>2025-12-13T13:55:29.000Z</video:publication_date>
-    <video:uploader>frismash</video:uploader>
-    <video:expiration_date>2025-12-21T13:55:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
