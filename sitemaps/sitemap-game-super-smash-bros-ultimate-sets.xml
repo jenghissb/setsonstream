@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dawnpath-s1-14/set/97685698/</loc>
+  <lastmod>2025-12-26T22:37:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864122/image-6af9e46638a3c403e35e3e93095dff39.png
+    </video:thumbnail_loc>
+    <video:title>
+      PeW vs CNM/BG | Ashgaar, Dawnpath S1 #14 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PeW vs CNM/BG | Ashgaar in Winners Final of Dawnpath S1 #14, streamed by Cycom
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2653563710&amp;t=3h4m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>908</video:duration>
+    <video:publication_date>2025-12-26T22:21:52.000Z</video:publication_date>
+    <video:uploader>Cycom</video:uploader>
+    <video:expiration_date>2026-01-03T22:21:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dawnpath-s1-14/set/97685713/</loc>
-  <lastmod>2025-12-26T21:53:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-26T22:22:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2653563710&amp;t=2h35m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1384</video:duration>
+    <video:duration>1678</video:duration>
     <video:publication_date>2025-12-26T21:53:46.000Z</video:publication_date>
     <video:uploader>Cycom</video:uploader>
     <video:expiration_date>2026-01-03T21:53:46.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T13:54:36.000Z</video:publication_date>
     <video:uploader>SmashSweden</video:uploader>
     <video:expiration_date>2025-12-21T13:54:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cosmic-zone-5/set/97330932/</loc>
-  <lastmod>2025-12-13T14:03:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845733/image-d9df996696f63cf28fe1976e35753111.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nebula | TheSoL vs CHAIKA, Cosmic Zone #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nebula | TheSoL vs CHAIKA in Winners Round 2 of Cosmic Zone #5, streamed by FR_7
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642781484&amp;t=0h24m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>487</video:duration>
-    <video:publication_date>2025-12-13T13:54:23.000Z</video:publication_date>
-    <video:uploader>FR_7</video:uploader>
-    <video:expiration_date>2025-12-21T13:54:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
