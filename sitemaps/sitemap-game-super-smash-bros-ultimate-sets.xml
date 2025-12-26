@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-118-1/set/97682671/</loc>
+  <lastmod>2025-12-26T10:37:09.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856165/image-38f91365fcb45bdba7651d775da8c2d3.png
+    </video:thumbnail_loc>
+    <video:title>
+      りっちー(ritchii) vs ゆたまる(yutamaru), Smash薬院#118 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch りっちー(ritchii) vs ゆたまる(yutamaru) in Winners Round 1 of Smash薬院#118, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/RvdJ6e4T7Ak?start=197s
+    </video:player_loc>
+    <video:duration>489</video:duration>
+    <video:publication_date>2025-12-26T10:37:09.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2026-01-03T10:37:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-143-maesuma-hit-143-1/set/97676606/</loc>
   <lastmod>2025-12-25T12:39:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T06:03:45.000Z</video:publication_date>
     <video:uploader>西条スマッシュ×広島大学スマブラサークル</video:uploader>
     <video:expiration_date>2025-12-21T06:03:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-31/set/97319717/</loc>
-  <lastmod>2025-12-13T06:17:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860782/image-aa9c3f9807d8770efe75d01836740293.png
-    </video:thumbnail_loc>
-    <video:title>
-      ditto vs UW | embo_z, The Super SmashBowl #31 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ditto vs UW | embo_z in Losers Quarter-Final of The Super SmashBowl #31, streamed by sonicbpro
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642493778&amp;t=2h41m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1016</video:duration>
-    <video:publication_date>2025-12-13T05:59:22.000Z</video:publication_date>
-    <video:uploader>sonicbpro</video:uploader>
-    <video:expiration_date>2025-12-21T05:59:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
