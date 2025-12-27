@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654123047&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>847</video:duration>
+    <video:duration>1482</video:duration>
     <video:publication_date>2025-12-27T11:25:24.000Z</video:publication_date>
     <video:uploader>team_vegacy</video:uploader>
     <video:expiration_date>2026-01-04T11:25:24.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97698137/</loc>
-  <lastmod>2025-12-27T11:32:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/c-stick-master-38/set/97698258/</loc>
+  <lastmod>2025-12-27T11:39:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861984/image-a149811d0da3a56e3d633e63898c604b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Llorien vs PLC | DailyRøxasClips(PLC | DailyR o xasClips), C-Stick Master #38 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Llorien vs PLC | DailyRøxasClips(PLC | DailyR o xasClips) in Winners Round 1 of C-Stick Master #38, streamed by smashasturias
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654122800&amp;t=0h6m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>615</video:duration>
+    <video:publication_date>2025-12-27T11:39:51.000Z</video:publication_date>
+    <video:uploader>smashasturias</video:uploader>
+    <video:expiration_date>2026-01-04T11:39:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97698137/</loc>
+  <lastmod>2025-12-27T11:48:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654100265&amp;t=0h57m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>433</video:duration>
+    <video:duration>941</video:duration>
     <video:publication_date>2025-12-27T11:32:18.000Z</video:publication_date>
     <video:uploader>smasheuskadi</video:uploader>
     <video:expiration_date>2026-01-04T11:32:18.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T21:12:18.000Z</video:publication_date>
     <video:uploader>smashmochis</video:uploader>
     <video:expiration_date>2025-12-21T21:12:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/howling-irl-10-250-pot-bonus/set/97361346/</loc>
-  <lastmod>2025-12-13T21:36:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847000/image-9711fbe2d318d2dab414591d515fd5a4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hiycks vs NS | Brohan, Howling IRL 10 ($250 Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hiycks vs NS | Brohan in Winners Round 2 of Howling IRL 10 ($250 Pot Bonus), streamed by IanTheMammoth
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642962373&amp;t=3h14m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1282</video:duration>
-    <video:publication_date>2025-12-13T21:12:00.000Z</video:publication_date>
-    <video:uploader>IanTheMammoth</video:uploader>
-    <video:expiration_date>2025-12-21T21:12:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
