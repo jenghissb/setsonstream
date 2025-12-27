@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/prodigy-classic-vii/set/97712410/</loc>
-  <lastmod>2025-12-27T23:23:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/prodigy-classic-vii/set/97712473/</loc>
+  <lastmod>2025-12-27T23:42:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836434/image-bbbfe2de68a5d5b430db2be13fd4c376.png
+    </video:thumbnail_loc>
+    <video:title>
+      Karils | Conflict vs funkyk0ng, Prodigy Classic VII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Karils | Conflict vs funkyk0ng in Losers Quarter-Final of Prodigy Classic VII, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654439816&amp;t=3h40m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>443</video:duration>
+    <video:publication_date>2025-12-27T23:42:38.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2026-01-04T23:42:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/prodigy-classic-vii/set/97712410/</loc>
+  <lastmod>2025-12-27T23:40:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654439816&amp;t=3h20m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>612</video:duration>
+    <video:duration>967</video:duration>
     <video:publication_date>2025-12-27T23:23:12.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2026-01-04T23:23:12.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-06T03:56:06.000Z</video:publication_date>
     <video:uploader>NounsEsports</video:uploader>
     <video:expiration_date>2025-12-14T03:56:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97088798/</loc>
-  <lastmod>2025-12-06T04:20:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852604/image-5a0e7d892eb2bd1a6f4020a644f1481f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zain vs Goodie, Nounsvitational 2025 Tokyo - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zain vs Goodie in Round 1 of Nounsvitational 2025 Tokyo, streamed by NounsEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636577082&amp;t=0h17m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1060</video:duration>
-    <video:publication_date>2025-12-06T03:56:00.000Z</video:publication_date>
-    <video:uploader>NounsEsports</video:uploader>
-    <video:expiration_date>2025-12-14T03:56:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
