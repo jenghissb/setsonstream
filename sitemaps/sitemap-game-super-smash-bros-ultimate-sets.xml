@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697891/</loc>
-  <lastmod>2025-12-27T10:47:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697892/</loc>
+  <lastmod>2025-12-27T11:07:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/842798/image-e50351207d98949d809f350be4add0ed.png
     </video:thumbnail_loc>
     <video:title>
-      BlackSoul vs N0TH0S, OMG 2025 - Sets on Stream
+      VGY | M.Pop0 vs Dracau, OMG 2025 - Sets on Stream
     </video:title>
     <video:description>
-      Watch BlackSoul vs N0TH0S in Winners Quarter-Final of OMG 2025, streamed by team_vegacy
+      Watch VGY | M.Pop0 vs Dracau in Winners Semi-Final of OMG 2025, streamed by team_vegacy
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654089615&amp;t=0h44m14s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2654089615&amp;t=1h4m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>333</video:duration>
-    <video:publication_date>2025-12-27T10:47:20.000Z</video:publication_date>
+    <video:duration>400</video:duration>
+    <video:publication_date>2025-12-27T11:07:25.000Z</video:publication_date>
     <video:uploader>team_vegacy</video:uploader>
-    <video:expiration_date>2026-01-04T10:47:20.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-04T11:07:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97697758/</loc>
+  <lastmod>2025-12-27T11:10:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860082/image-33b5f64e4b7a55e2204d041ecfc21ab7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Conito | NICHE vs King Vipper, Mendicraft 4#: Merry Christmas - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Conito | NICHE vs King Vipper in Winners Round 2 of Mendicraft 4#: Merry Christmas, streamed by smasheuskadi
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654100265&amp;t=0h35m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>240</video:duration>
+    <video:publication_date>2025-12-27T11:10:05.000Z</video:publication_date>
+    <video:uploader>smasheuskadi</video:uploader>
+    <video:expiration_date>2026-01-04T11:10:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97698129/</loc>
-  <lastmod>2025-12-27T10:48:27.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-27T11:01:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654100265&amp;t=0h14m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>266</video:duration>
+    <video:duration>672</video:duration>
     <video:publication_date>2025-12-27T10:48:27.000Z</video:publication_date>
     <video:uploader>smasheuskadi</video:uploader>
     <video:expiration_date>2026-01-04T10:48:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697891/</loc>
+  <lastmod>2025-12-27T11:07:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842798/image-e50351207d98949d809f350be4add0ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      BlackSoul vs N0TH0S, OMG 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BlackSoul vs N0TH0S in Winners Quarter-Final of OMG 2025, streamed by team_vegacy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654089615&amp;t=0h44m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1201</video:duration>
+    <video:publication_date>2025-12-27T10:47:20.000Z</video:publication_date>
+    <video:uploader>team_vegacy</video:uploader>
+    <video:expiration_date>2026-01-04T10:47:20.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-13T21:06:12.000Z</video:publication_date>
     <video:uploader>smashpe</video:uploader>
     <video:expiration_date>2025-12-21T21:06:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/key-to-victory-1-renaissance/set/97345518/</loc>
-  <lastmod>2025-12-13T21:23:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/831239/image-1c532bb6d0ae3249fe1744667c7583db.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mukuro~ vs Kieron, Key to Victory! #1 – Renaissance - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mukuro~ vs Kieron in Grand Final of Key to Victory! #1 – Renaissance, streamed by pacslash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642860724&amp;t=5h25m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>881</video:duration>
-    <video:publication_date>2025-12-13T21:06:00.000Z</video:publication_date>
-    <video:uploader>pacslash</video:uploader>
-    <video:expiration_date>2025-12-21T21:06:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/posada-gamer-2025/set/97350174/</loc>
-  <lastmod>2025-12-13T21:21:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830153/image-c4582b33904cb3af59cfbd2337a388d3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      LG CS3 VARS | MkLeo vs 0zwA, Posada Gamer 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LG CS3 VARS | MkLeo vs 0zwA in Winners Round 2 of Posada Gamer 2025, streamed by JEsportsGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642987487&amp;t=2h38m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>864</video:duration>
-    <video:publication_date>2025-12-13T21:05:53.000Z</video:publication_date>
-    <video:uploader>JEsportsGaming</video:uploader>
-    <video:expiration_date>2025-12-21T21:05:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
