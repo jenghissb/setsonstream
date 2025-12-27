@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mid-hudson-mayhem-41/set/97706873/</loc>
+  <lastmod>2025-12-27T19:40:24.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858132/image-ed78bb9c0e459669358a165a2bc8d591.png
+    </video:thumbnail_loc>
+    <video:title>
+      Akhos vs Genesis, Mid Hudson Mayhem #41 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Akhos vs Genesis in Winners Semi-Final of Mid Hudson Mayhem #41, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654390384&amp;t=0h39m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>573</video:duration>
+    <video:publication_date>2025-12-27T19:40:24.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2026-01-04T19:40:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mid-hudson-mayhem-41/set/97706861/</loc>
   <lastmod>2025-12-27T19:19:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-22T19:30:54.000Z</video:publication_date>
     <video:uploader>olemissesports</video:uploader>
     <video:expiration_date>2025-11-30T19:30:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/knox-out-25/set/96650817/</loc>
-  <lastmod>2025-11-22T19:45:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/823960/image-770032d20c9337cc81e28ecf8a7b711e.png
-    </video:thumbnail_loc>
-    <video:title>
-      PAR | TNS | LabyrinthZ vs Raich, KNOX-OUT &apos;25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PAR | TNS | LabyrinthZ vs Raich in Winners Quarter-Final of KNOX-OUT &apos;25, streamed by majinobama
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2625181123&amp;t=3h24m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>463</video:duration>
-    <video:publication_date>2025-11-22T19:27:51.000Z</video:publication_date>
-    <video:uploader>majinobama</video:uploader>
-    <video:expiration_date>2025-11-30T19:27:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
