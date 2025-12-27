@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mid-hudson-mayhem-41/set/97710661/</loc>
-  <lastmod>2025-12-27T22:44:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-esg-monthly-42-the-fgc-event/set/97714147/</loc>
+  <lastmod>2025-12-27T23:05:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858353/image-a16be55232089694ffb556eaa85ddb68.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jshroud vs bird, The ESG Monthly #42: The FGC Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jshroud vs bird in Winners Quarter-Final of The ESG Monthly #42: The FGC Event, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654402968&amp;t=3h48m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>634</video:duration>
+    <video:publication_date>2025-12-27T23:05:47.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-01-04T23:05:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mid-hudson-mayhem-41/set/97710661/</loc>
+  <lastmod>2025-12-27T22:56:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654390384&amp;t=3h43m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>446</video:duration>
+    <video:duration>733</video:duration>
     <video:publication_date>2025-12-27T22:44:26.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2026-01-04T22:44:26.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-13T01:15:47.000Z</video:publication_date>
     <video:uploader>flynnsgamingfl</video:uploader>
     <video:expiration_date>2025-12-21T01:15:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-192-norcal-melee-crt-and-sf6-tournament/set/97288251/</loc>
-  <lastmod>2025-12-12T07:31:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858385/image-b0b0b625135e2d7bbfee000d46b5f90c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FitS | quiksilver vs Anak FitS | Hakoian, Guildhouse Fighters 192 - Norcal Melee[CRT!] and SF6 tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FitS | quiksilver vs Anak FitS | Hakoian in Grand Final of Guildhouse Fighters 192 - Norcal Melee[CRT!] and SF6 tournament, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2641658537&amp;t=2h51m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2861</video:duration>
-    <video:publication_date>2025-12-12T06:40:27.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2025-12-20T06:40:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

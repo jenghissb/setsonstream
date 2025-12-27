@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-esg-monthly-42-the-fgc-event/set/97711150/</loc>
-  <lastmod>2025-12-27T22:46:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dash-bracket-fgc-6-happy-new-year/set/97713525/</loc>
+  <lastmod>2025-12-27T23:02:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858838/image-f263455df7bc26147d013370256cceab.png
+    </video:thumbnail_loc>
+    <video:title>
+      StitchFace vs Ashragi, Dash Bracket FGC #6 - Happy New Year - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch StitchFace vs Ashragi in Winners Quarter-Final of Dash Bracket FGC #6 - Happy New Year, streamed by nyxiadash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=nyxiadash&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>822</video:duration>
+    <video:publication_date>2025-12-27T23:02:39.000Z</video:publication_date>
+    <video:uploader>nyxiadash</video:uploader>
+    <video:expiration_date>2026-01-04T23:02:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-esg-monthly-42-the-fgc-event/set/97711151/</loc>
+  <lastmod>2025-12-27T23:10:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858353/image-a16be55232089694ffb556eaa85ddb68.png
+    </video:thumbnail_loc>
+    <video:title>
+      CRAB | SLG | ThatScrubDavid vs Rothicus, The ESG Monthly #42: The FGC Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CRAB | SLG | ThatScrubDavid vs Rothicus in Grand Final Reset of The ESG Monthly #42: The FGC Event, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654402968&amp;t=3h39m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>483</video:duration>
+    <video:publication_date>2025-12-27T22:56:32.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-01-04T22:56:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-esg-monthly-42-the-fgc-event/set/97711150/</loc>
+  <lastmod>2025-12-27T22:55:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654402968&amp;t=3h30m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>297</video:duration>
+    <video:duration>355</video:duration>
     <video:publication_date>2025-12-27T22:46:55.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2026-01-04T22:46:55.000Z</video:expiration_date>
@@ -4774,30 +4822,6 @@
     <video:publication_date>2025-12-06T23:21:58.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-12-14T23:21:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brooooook-brawwlllllll-2025/set/97145871/</loc>
-  <lastmod>2025-12-06T23:37:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859189/image-6df02dab31748e425dda650b2e192f8d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Senate0 vs Chocolate Princelonious, BROOOOOOK BRAWWLLLLLLL 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Senate0 vs Chocolate Princelonious in Winners Final of BROOOOOOK BRAWWLLLLLLL 2025, streamed by sbusmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637123113&amp;t=3h37m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1111</video:duration>
-    <video:publication_date>2025-12-06T23:18:48.000Z</video:publication_date>
-    <video:uploader>sbusmash</video:uploader>
-    <video:expiration_date>2025-12-14T23:18:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
