@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vii/set/97708399/</loc>
+  <lastmod>2025-12-27T21:58:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836434/image-bbbfe2de68a5d5b430db2be13fd4c376.png
+    </video:thumbnail_loc>
+    <video:title>
+      WDR | Triforce! vs AGENCY | shane, Prodigy Classic VII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WDR | Triforce! vs AGENCY | shane in Grand Final of Prodigy Classic VII, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654377983&amp;t=3h12m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1060</video:duration>
+    <video:publication_date>2025-12-27T21:58:16.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2026-01-04T21:58:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vii/set/97708413/</loc>
   <lastmod>2025-12-27T21:45:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-27T03:14:40.000Z</video:publication_date>
     <video:uploader>consent_is_badass</video:uploader>
     <video:expiration_date>2025-12-05T03:14:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/glass-shards-2/set/96802329/</loc>
-  <lastmod>2025-11-27T03:18:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852495/image-3878712ce0811db12d7a7d716d3fa405.png
-    </video:thumbnail_loc>
-    <video:title>
-      FSF | Consent is Badass vs TRANS RIGHTS | toothbrush, Glass Shards #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FSF | Consent is Badass vs TRANS RIGHTS | toothbrush in Grand Final of Glass Shards #2, streamed by consent_is_badass
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628904052&amp;t=2h57m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>386</video:duration>
-    <video:publication_date>2025-11-27T03:08:09.000Z</video:publication_date>
-    <video:uploader>consent_is_badass</video:uploader>
-    <video:expiration_date>2025-12-05T03:08:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
