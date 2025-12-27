@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-winter-special-2025/set/97696455/</loc>
-  <lastmod>2025-12-27T09:48:47.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697881/</loc>
+  <lastmod>2025-12-27T10:04:43.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842798/image-e50351207d98949d809f350be4add0ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      LGS | breuah vs SAWG, OMG 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LGS | breuah vs SAWG in Winners Round 1 of OMG 2025, streamed by team_vegacy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654089615&amp;t=0h1m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>756</video:duration>
+    <video:publication_date>2025-12-27T10:04:43.000Z</video:publication_date>
+    <video:uploader>team_vegacy</video:uploader>
+    <video:expiration_date>2026-01-04T10:04:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-winter-special-2025/set/97696455/</loc>
+  <lastmod>2025-12-27T10:11:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/gZyeBRyuGtg?start=17605s
     </video:player_loc>
-    <video:duration>82</video:duration>
+    <video:duration>1359</video:duration>
     <video:publication_date>2025-12-27T09:48:47.000Z</video:publication_date>
     <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
     <video:expiration_date>2026-01-04T09:48:47.000Z</video:expiration_date>
@@ -339,7 +363,7 @@
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/revival-7-2/set/97696398/</loc>
   <lastmod>2025-12-27T09:37:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T20:37:44.000Z</video:publication_date>
     <video:uploader>pacslash</video:uploader>
     <video:expiration_date>2025-12-21T20:37:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mdva-ultimate-arcadian-winter-2025-va-edition/set/97349100/</loc>
-  <lastmod>2025-12-13T21:03:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853731/image-99c90bd7d03d1165513a4ca62a27b3de.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SoMD | Brisket vs Big lando, MDVA Ultimate Arcadian: Winter 2025 VA Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SoMD | Brisket vs Big lando in Losers Quarter-Final of MDVA Ultimate Arcadian: Winter 2025 VA Edition, streamed by KMLTournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643006265&amp;t=1h46m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1438</video:duration>
-    <video:publication_date>2025-12-13T20:37:04.000Z</video:publication_date>
-    <video:uploader>KMLTournaments</video:uploader>
-    <video:expiration_date>2025-12-21T20:37:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
