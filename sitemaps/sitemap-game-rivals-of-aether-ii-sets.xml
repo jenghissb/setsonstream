@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vii/set/97708397/</loc>
-  <lastmod>2025-12-27T20:33:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vii/set/97708398/</loc>
+  <lastmod>2025-12-27T20:51:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836434/image-bbbfe2de68a5d5b430db2be13fd4c376.png
+    </video:thumbnail_loc>
+    <video:title>
+      WDR | Triforce! vs AGENCY | shane, Prodigy Classic VII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WDR | Triforce! vs AGENCY | shane in Winners Final of Prodigy Classic VII, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654377983&amp;t=2h5m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1383</video:duration>
+    <video:publication_date>2025-12-27T20:51:36.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2026-01-04T20:51:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vii/set/97708397/</loc>
+  <lastmod>2025-12-27T20:55:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654377983&amp;t=1h47m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1117</video:duration>
+    <video:duration>1000</video:duration>
     <video:publication_date>2025-12-27T20:33:36.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-04T20:33:36.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-27T02:48:15.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2025-12-05T02:48:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/glass-shards-2/set/96802360/</loc>
-  <lastmod>2025-11-27T03:11:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852495/image-3878712ce0811db12d7a7d716d3fa405.png
-    </video:thumbnail_loc>
-    <video:title>
-      TRANS RIGHTS | toothbrush vs Critz, Glass Shards #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TRANS RIGHTS | toothbrush vs Critz in Losers Final of Glass Shards #2, streamed by consent_is_badass
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628904052&amp;t=2h31m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1588</video:duration>
-    <video:publication_date>2025-11-27T02:41:39.000Z</video:publication_date>
-    <video:uploader>consent_is_badass</video:uploader>
-    <video:expiration_date>2025-12-05T02:41:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
