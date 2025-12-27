@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697834/</loc>
-  <lastmod>2025-12-27T10:28:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697891/</loc>
+  <lastmod>2025-12-27T10:47:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/842798/image-e50351207d98949d809f350be4add0ed.png
     </video:thumbnail_loc>
     <video:title>
-      Nekorio vs WCB | LeChatBleu, OMG 2025 - Sets on Stream
+      BlackSoul vs N0TH0S, OMG 2025 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Nekorio vs WCB | LeChatBleu in Winners Round 1 of OMG 2025, streamed by team_vegacy
+      Watch BlackSoul vs N0TH0S in Winners Quarter-Final of OMG 2025, streamed by team_vegacy
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654089615&amp;t=0h25m28s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2654089615&amp;t=0h44m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>886</video:duration>
-    <video:publication_date>2025-12-27T10:28:34.000Z</video:publication_date>
+    <video:duration>333</video:duration>
+    <video:publication_date>2025-12-27T10:47:20.000Z</video:publication_date>
     <video:uploader>team_vegacy</video:uploader>
-    <video:expiration_date>2026-01-04T10:28:34.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-04T10:47:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97698129/</loc>
+  <lastmod>2025-12-27T10:48:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860082/image-33b5f64e4b7a55e2204d041ecfc21ab7.png
+    </video:thumbnail_loc>
+    <video:title>
+      hiber vs Alter, Mendicraft 4#: Merry Christmas - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hiber vs Alter in Winners Round 1 of Mendicraft 4#: Merry Christmas, streamed by smasheuskadi
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654100265&amp;t=0h14m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>266</video:duration>
+    <video:publication_date>2025-12-27T10:48:27.000Z</video:publication_date>
+    <video:uploader>smasheuskadi</video:uploader>
+    <video:expiration_date>2026-01-04T10:48:27.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97697753/</loc>
-  <lastmod>2025-12-27T10:38:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-27T10:48:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654100265&amp;t=0h4m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>267</video:duration>
+    <video:duration>568</video:duration>
     <video:publication_date>2025-12-27T10:38:53.000Z</video:publication_date>
     <video:uploader>smasheuskadi</video:uploader>
     <video:expiration_date>2026-01-04T10:38:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697834/</loc>
+  <lastmod>2025-12-27T10:47:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842798/image-e50351207d98949d809f350be4add0ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nekorio vs WCB | LeChatBleu, OMG 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nekorio vs WCB | LeChatBleu in Winners Round 1 of OMG 2025, streamed by team_vegacy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654089615&amp;t=0h25m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1092</video:duration>
+    <video:publication_date>2025-12-27T10:28:34.000Z</video:publication_date>
+    <video:uploader>team_vegacy</video:uploader>
+    <video:expiration_date>2026-01-04T10:28:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-13T21:05:53.000Z</video:publication_date>
     <video:uploader>JEsportsGaming</video:uploader>
     <video:expiration_date>2025-12-21T21:05:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/recifight-2-1/set/97344614/</loc>
-  <lastmod>2025-12-13T21:07:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859136/image-4f1e5298b4ce7c3aea44b055c47a92d1.png
-    </video:thumbnail_loc>
-    <video:title>
-      DF | Jon vs yoq, Recifight 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DF | Jon vs yoq in Losers Semi-Final of Recifight 2, streamed by smashpe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642981540&amp;t=2h34m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>719</video:duration>
-    <video:publication_date>2025-12-13T20:54:07.000Z</video:publication_date>
-    <video:uploader>smashpe</video:uploader>
-    <video:expiration_date>2025-12-21T20:54:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/heavens-x-humber-december-edition/set/97353279/</loc>
-  <lastmod>2025-12-13T21:05:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852363/image-e373593daf70cb19437103c2260c7aee.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NS | CaKe vs Sumbra, heavens x humber: december edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NS | CaKe vs Sumbra in Winners Semi-Final of heavens x humber: december edition, streamed by haheavensarena
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642984743&amp;t=2h24m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>919</video:duration>
-    <video:publication_date>2025-12-13T20:48:04.000Z</video:publication_date>
-    <video:uploader>haheavensarena</video:uploader>
-    <video:expiration_date>2025-12-21T20:48:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
