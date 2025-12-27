@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-winter-special-2025/set/97696486/</loc>
-  <lastmod>2025-12-27T09:25:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-winter-special-2025/set/97696455/</loc>
+  <lastmod>2025-12-27T09:48:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862075/image-2dff0b41bd50009efcb9a8faf8a07efc.png
+    </video:thumbnail_loc>
+    <video:title>
+      maidan vs CrazyBosco, HKSBC Winter Special 冬日亂鬥祭 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch maidan vs CrazyBosco in Grand Final of HKSBC Winter Special 冬日亂鬥祭 2025, streamed by 香港大亂鬥同好會 - HKSBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/gZyeBRyuGtg?start=17605s
+    </video:player_loc>
+    <video:duration>82</video:duration>
+    <video:publication_date>2025-12-27T09:48:47.000Z</video:publication_date>
+    <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
+    <video:expiration_date>2026-01-04T09:48:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-winter-special-2025/set/97696486/</loc>
+  <lastmod>2025-12-27T09:48:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/gZyeBRyuGtg?start=16181s
     </video:player_loc>
-    <video:duration>930</video:duration>
+    <video:duration>1388</video:duration>
     <video:publication_date>2025-12-27T09:25:03.000Z</video:publication_date>
     <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
     <video:expiration_date>2026-01-04T09:25:03.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T20:37:04.000Z</video:publication_date>
     <video:uploader>KMLTournaments</video:uploader>
     <video:expiration_date>2025-12-21T20:37:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/recifight-2-1/set/97344613/</loc>
-  <lastmod>2025-12-13T20:53:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859136/image-4f1e5298b4ce7c3aea44b055c47a92d1.png
-    </video:thumbnail_loc>
-    <video:title>
-      yoq vs snk | bun | luchave, Recifight 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch yoq vs snk | bun | luchave in Losers Quarter-Final of Recifight 2, streamed by smashpe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642981540&amp;t=2h14m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1065</video:duration>
-    <video:publication_date>2025-12-13T20:34:21.000Z</video:publication_date>
-    <video:uploader>smashpe</video:uploader>
-    <video:expiration_date>2025-12-21T20:34:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
