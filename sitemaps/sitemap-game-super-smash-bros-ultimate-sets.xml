@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654089615&amp;t=1h4m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>400</video:duration>
+    <video:duration>1287</video:duration>
     <video:publication_date>2025-12-27T11:07:25.000Z</video:publication_date>
     <video:uploader>team_vegacy</video:uploader>
     <video:expiration_date>2026-01-04T11:07:25.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97697758/</loc>
-  <lastmod>2025-12-27T11:10:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/omg-2025-1/set/97697846/</loc>
+  <lastmod>2025-12-27T11:25:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/842798/image-e50351207d98949d809f350be4add0ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      OX | Xenesic vs R-B | Uvo, OMG 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OX | Xenesic vs R-B | Uvo in Winners Semi-Final of OMG 2025, streamed by team_vegacy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654089615&amp;t=1h22m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>208</video:duration>
+    <video:publication_date>2025-12-27T11:25:24.000Z</video:publication_date>
+    <video:uploader>team_vegacy</video:uploader>
+    <video:expiration_date>2026-01-04T11:25:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mendicraft-4-merry-christmas/set/97697758/</loc>
+  <lastmod>2025-12-27T11:26:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654100265&amp;t=0h35m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>240</video:duration>
+    <video:duration>912</video:duration>
     <video:publication_date>2025-12-27T11:10:05.000Z</video:publication_date>
     <video:uploader>smasheuskadi</video:uploader>
     <video:expiration_date>2026-01-04T11:10:05.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-13T21:10:49.000Z</video:publication_date>
     <video:uploader>KMLTournaments</video:uploader>
     <video:expiration_date>2025-12-21T21:10:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/recifight-2-1/set/97344615/</loc>
-  <lastmod>2025-12-13T21:29:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859136/image-4f1e5298b4ce7c3aea44b055c47a92d1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Danadan vs yoq, Recifight 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Danadan vs yoq in Losers Final of Recifight 2, streamed by smashpe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642981540&amp;t=2h46m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1335</video:duration>
-    <video:publication_date>2025-12-13T21:06:12.000Z</video:publication_date>
-    <video:uploader>smashpe</video:uploader>
-    <video:expiration_date>2025-12-21T21:06:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
