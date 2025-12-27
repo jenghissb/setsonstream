@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654132362&amp;t=3h0m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1095</video:duration>
+    <video:duration>2165</video:duration>
     <video:publication_date>2025-12-27T14:57:31.000Z</video:publication_date>
     <video:uploader>team_vegacy</video:uploader>
     <video:expiration_date>2026-01-04T14:57:31.000Z</video:expiration_date>
@@ -42,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654110384&amp;t=4h10m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>262</video:duration>
+    <video:duration>1332</video:duration>
     <video:publication_date>2025-12-27T15:11:24.000Z</video:publication_date>
     <video:uploader>haseh</video:uploader>
     <video:expiration_date>2026-01-04T15:11:24.000Z</video:expiration_date>
@@ -66,34 +66,58 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=smashcotebasque&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>208</video:duration>
+    <video:duration>1278</video:duration>
     <video:publication_date>2025-12-27T15:12:18.000Z</video:publication_date>
     <video:uploader>smashcotebasque</video:uploader>
     <video:expiration_date>2026-01-04T15:12:18.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-melting-pot-18/set/97701149/</loc>
-  <lastmod>2025-12-27T14:59:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/winter-solstice-smash-2025/set/97699394/</loc>
+  <lastmod>2025-12-27T15:26:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860716/image-5fb2391e9310a7306c973bf459204dec.png
+      https://images.start.gg/images/tournament/862354/image-2b397ab2982b906eaf678f0e76b7f6aa.jpg
     </video:thumbnail_loc>
     <video:title>
-      Chrille vs Wall.E, The Melting Pot #18 - Sets on Stream
+      Randomositydude vs stonecoldmiracle, Winter Solstice Smash 2025 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Chrille vs Wall.E in Winners Quarter-Final of The Melting Pot #18, streamed by SlurgglarN
+      Watch Randomositydude vs stonecoldmiracle in Losers Final of Winter Solstice Smash 2025, streamed by silsdensmashultimate
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654172496&amp;t=1h39m6s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2654171710&amp;t=2h7m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>964</video:duration>
-    <video:publication_date>2025-12-27T14:59:42.000Z</video:publication_date>
-    <video:uploader>SlurgglarN</video:uploader>
-    <video:expiration_date>2026-01-04T14:59:42.000Z</video:expiration_date>
+    <video:duration>439</video:duration>
+    <video:publication_date>2025-12-27T15:26:17.000Z</video:publication_date>
+    <video:uploader>silsdensmashultimate</video:uploader>
+    <video:expiration_date>2026-01-04T15:26:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/winter-solstice-smash-2025/set/97699378/</loc>
+  <lastmod>2025-12-27T15:27:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862354/image-2b397ab2982b906eaf678f0e76b7f6aa.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LJ vs Randomositydude, Winter Solstice Smash 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LJ vs Randomositydude in Winners Final of Winter Solstice Smash 2025, streamed by silsdensmashultimate
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654171710&amp;t=1h54m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>787</video:duration>
+    <video:publication_date>2025-12-27T15:13:05.000Z</video:publication_date>
+    <video:uploader>silsdensmashultimate</video:uploader>
+    <video:expiration_date>2026-01-04T15:13:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -118,6 +142,30 @@
     <video:publication_date>2025-12-27T15:00:18.000Z</video:publication_date>
     <video:uploader>SlurgglarN</video:uploader>
     <video:expiration_date>2026-01-04T15:00:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-melting-pot-18/set/97701149/</loc>
+  <lastmod>2025-12-27T15:17:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860716/image-5fb2391e9310a7306c973bf459204dec.png
+    </video:thumbnail_loc>
+    <video:title>
+      Chrille vs Wall.E, The Melting Pot #18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chrille vs Wall.E in Winners Quarter-Final of The Melting Pot #18, streamed by SlurgglarN
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654172496&amp;t=1h39m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1028</video:duration>
+    <video:publication_date>2025-12-27T14:59:42.000Z</video:publication_date>
+    <video:uploader>SlurgglarN</video:uploader>
+    <video:expiration_date>2026-01-04T14:59:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,54 +72022,6 @@
     <video:publication_date>2025-12-13T23:06:31.000Z</video:publication_date>
     <video:uploader>SBU Smash</video:uploader>
     <video:expiration_date>2025-12-21T23:06:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-sala-4/set/97368216/</loc>
-  <lastmod>2025-12-13T23:24:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851453/image-e124efbe5c50dbac7abd6bd89b2e89ac.png
-    </video:thumbnail_loc>
-    <video:title>
-      HONOR | sebayee vs HONOR | xSicko, La Sala 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HONOR | sebayee vs HONOR | xSicko in Winners Round 2 of La Sala 4, streamed by Vokexpr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643181198&amp;t=0h37m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>925</video:duration>
-    <video:publication_date>2025-12-13T23:05:18.000Z</video:publication_date>
-    <video:uploader>Vokexpr</video:uploader>
-    <video:expiration_date>2025-12-21T23:05:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/howling-irl-10-250-pot-bonus/set/97369535/</loc>
-  <lastmod>2025-12-13T23:24:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847000/image-9711fbe2d318d2dab414591d515fd5a4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Semi-Retired | Apple Reviewer vs Seel, Howling IRL 10 ($250 Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Semi-Retired | Apple Reviewer vs Seel in Winners Quarter-Final of Howling IRL 10 ($250 Pot Bonus), streamed by IanTheMammoth
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642962373&amp;t=5h3m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1200</video:duration>
-    <video:publication_date>2025-12-13T23:00:58.000Z</video:publication_date>
-    <video:uploader>IanTheMammoth</video:uploader>
-    <video:expiration_date>2025-12-21T23:00:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
