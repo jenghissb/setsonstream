@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vii/set/97705860/</loc>
+  <lastmod>2025-12-27T19:21:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836434/image-bbbfe2de68a5d5b430db2be13fd4c376.png
+    </video:thumbnail_loc>
+    <video:title>
+      thewaffleman vs ThatsCrazyBro, Prodigy Classic VII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch thewaffleman vs ThatsCrazyBro in Losers Round 1 of Prodigy Classic VII, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654377983&amp;t=0h26m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>585</video:duration>
+    <video:publication_date>2025-12-27T19:12:13.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2026-01-04T19:12:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-vii/set/97705806/</loc>
   <lastmod>2025-12-27T19:06:49.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-27T02:02:55.000Z</video:publication_date>
     <video:uploader>consent_is_badass</video:uploader>
     <video:expiration_date>2025-12-05T02:02:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/glass-shards-2/set/96802358/</loc>
-  <lastmod>2025-11-27T02:11:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852495/image-3878712ce0811db12d7a7d716d3fa405.png
-    </video:thumbnail_loc>
-    <video:title>
-      CLAMP vs Space, Glass Shards #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CLAMP vs Space in Losers Quarter-Final of Glass Shards #2, streamed by consent_is_badass
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2628904052&amp;t=1h36m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>964</video:duration>
-    <video:publication_date>2025-11-27T01:46:47.000Z</video:publication_date>
-    <video:uploader>consent_is_badass</video:uploader>
-    <video:expiration_date>2025-12-05T01:46:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
