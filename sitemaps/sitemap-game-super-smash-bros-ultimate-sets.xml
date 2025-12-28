@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-palmanyola-6/set/97729294/</loc>
+  <lastmod>2025-12-28T17:12:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858020/image-9bc52d9b042fb7b86b57899908ce2da8.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Raiden&apos;s | Marrob vs Maus, Smash Palmanyola #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Raiden&apos;s | Marrob vs Maus in Grand Final of Smash Palmanyola #6, streamed by smashbrosmallorca
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2655147929&amp;t=0h24m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1307</video:duration>
+    <video:publication_date>2025-12-28T17:12:03.000Z</video:publication_date>
+    <video:uploader>smashbrosmallorca</video:uploader>
+    <video:expiration_date>2026-01-05T17:12:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/house-of-smash-175-ultimate/set/97730380/</loc>
   <lastmod>2025-12-28T16:52:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-14T14:50:10.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2025-12-22T14:50:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xxxviii/set/97394010/</loc>
-  <lastmod>2025-12-14T15:05:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858328/image-c8b104cd251b5b11eb8afaff252f2b4d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Rio-ST vs Phoenix, Dehscension XXXVIII - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rio-ST vs Phoenix in Losers Quarter-Final of Dehscension XXXVIII, streamed by smashbrositalia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643607937&amp;t=3h36m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>897</video:duration>
-    <video:publication_date>2025-12-14T14:47:37.000Z</video:publication_date>
-    <video:uploader>smashbrositalia</video:uploader>
-    <video:expiration_date>2025-12-22T14:47:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
