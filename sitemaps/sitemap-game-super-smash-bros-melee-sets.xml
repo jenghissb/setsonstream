@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/swfl-no-bogeys-75/set/97721615/</loc>
+  <lastmod>2025-12-28T02:32:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864636/image-633d1584697a4ba14b63dff33c243490.png
+    </video:thumbnail_loc>
+    <video:title>
+      Soup vs Stew, SWFL: No Bogeys #75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Soup vs Stew in Winners Round 1 of SWFL: No Bogeys #75, streamed by notwffls
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654652220&amp;t=1h13m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1074</video:duration>
+    <video:publication_date>2025-12-28T02:09:04.000Z</video:publication_date>
+    <video:uploader>notwffls</video:uploader>
+    <video:expiration_date>2026-01-05T02:09:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/prodigy-classic-vii/set/97712412/</loc>
   <lastmod>2025-12-28T01:16:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-06T04:15:00.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2025-12-14T04:15:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97088800/</loc>
-  <lastmod>2025-12-06T04:43:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852604/image-5a0e7d892eb2bd1a6f4020a644f1481f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nouns | Aklo vs Red Bull IFM | aMSa, Nounsvitational 2025 Tokyo - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nouns | Aklo vs Red Bull IFM | aMSa in Round 1 of Nounsvitational 2025 Tokyo, streamed by VGBootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636594496&amp;t=0h11m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1009</video:duration>
-    <video:publication_date>2025-12-06T04:13:48.000Z</video:publication_date>
-    <video:uploader>VGBootcamp</video:uploader>
-    <video:expiration_date>2025-12-14T04:13:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
