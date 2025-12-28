@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-24-x-tekken-8-bi-weekly-43/set/97720445/</loc>
-  <lastmod>2025-12-28T04:27:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-24-x-tekken-8-bi-weekly-43/set/97720446/</loc>
+  <lastmod>2025-12-28T04:44:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864253/image-8528b6829741e4b2c4b9a7ff2f35778f.png
+    </video:thumbnail_loc>
+    <video:title>
+      CarToun vs Dandelion, Neon Dreams Soul Calibur 2 #24 x TEKKEN 8 Bi-Weekly #43 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CarToun vs Dandelion in Losers Final of Neon Dreams Soul Calibur 2 #24 x TEKKEN 8 Bi-Weekly #43, streamed by NeonDreamsArcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2654670719&amp;t=3h24m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1012</video:duration>
+    <video:publication_date>2025-12-28T04:44:25.000Z</video:publication_date>
+    <video:uploader>NeonDreamsArcade</video:uploader>
+    <video:expiration_date>2026-01-05T04:44:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-24-x-tekken-8-bi-weekly-43/set/97720445/</loc>
+  <lastmod>2025-12-28T04:49:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2654670719&amp;t=3h7m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>172</video:duration>
+    <video:duration>1000</video:duration>
     <video:publication_date>2025-12-28T04:27:40.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2026-01-05T04:27:40.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-07T02:11:24.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2025-12-15T02:11:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/colorado-mile-high-burst-monthly-december-2025/set/97157310/</loc>
-  <lastmod>2025-12-07T02:13:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853266/image-5ab429a25e3a842a76c864e6c72e3164.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yajiroke vs JOKG | Gerbil, Colorado Mile High Burst Monthly December 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yajiroke vs JOKG | Gerbil in Winners Semi-Final of Colorado Mile High Burst Monthly December 2025, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637119122&amp;t=6h21m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>553</video:duration>
-    <video:publication_date>2025-12-07T01:58:14.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2025-12-15T01:58:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
