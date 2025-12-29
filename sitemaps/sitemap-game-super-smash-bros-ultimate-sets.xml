@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/swansee-me-in-bracket-countdown-clash/set/97749945/</loc>
-  <lastmod>2025-12-29T19:14:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/swansee-me-in-bracket-countdown-clash/set/97749973/</loc>
+  <lastmod>2025-12-29T19:27:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863111/image-125f49175b3c54fc4f979494195082dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      GOOP | Hadderz vs WAR | Henry, Swansee Me In Bracket: Countdown Clash - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GOOP | Hadderz vs WAR | Henry in Losers Round 3 of Swansee Me In Bracket: Countdown Clash, streamed by MrSneakyStreams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2656048120&amp;t=1h0m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>824</video:duration>
+    <video:publication_date>2025-12-29T19:27:16.000Z</video:publication_date>
+    <video:uploader>MrSneakyStreams</video:uploader>
+    <video:expiration_date>2026-01-06T19:27:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/swansee-me-in-bracket-countdown-clash/set/97749945/</loc>
+  <lastmod>2025-12-29T19:31:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2656048120&amp;t=0h47m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>906</video:duration>
+    <video:duration>966</video:duration>
     <video:publication_date>2025-12-29T19:14:40.000Z</video:publication_date>
     <video:uploader>MrSneakyStreams</video:uploader>
     <video:expiration_date>2026-01-06T19:14:40.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-14T21:51:05.000Z</video:publication_date>
     <video:uploader>smashmochis</video:uploader>
     <video:expiration_date>2025-12-22T21:51:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/defend-the-district-13/set/97416279/</loc>
-  <lastmod>2025-12-14T22:06:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853021/image-42e76c13a16ee83cf93f413726ea598f.png
-    </video:thumbnail_loc>
-    <video:title>
-      focus vs GWU | NC2 | | chicken, Defend the District 13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch focus vs GWU | NC2 | | chicken in Winners Quarter-Final of Defend the District 13, streamed by KMLTournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2644012422&amp;t=0h46m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>939</video:duration>
-    <video:publication_date>2025-12-14T21:49:58.000Z</video:publication_date>
-    <video:uploader>KMLTournaments</video:uploader>
-    <video:expiration_date>2025-12-22T21:49:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
