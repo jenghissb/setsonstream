@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/contenderhv-smash-finale/set/97743773/</loc>
-  <lastmod>2025-12-29T04:33:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/contenderhv-smash-finale/set/97743647/</loc>
+  <lastmod>2025-12-29T05:05:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862750/image-ef7d99b5579d2b4f53a61f2f86f397f3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Team Vars | Free KayFlock vs BeatyBean, ContenderHV Smash FINALE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Team Vars | Free KayFlock vs BeatyBean in Grand Final Reset of ContenderHV Smash FINALE, streamed by ContenderHudsonValley
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2655219788&amp;t=10h41m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>103</video:duration>
+    <video:publication_date>2025-12-29T05:05:55.000Z</video:publication_date>
+    <video:uploader>ContenderHudsonValley</video:uploader>
+    <video:expiration_date>2026-01-06T05:05:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/contenderhv-smash-finale/set/97743773/</loc>
+  <lastmod>2025-12-29T04:43:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2655219788&amp;t=10h8m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>100</video:duration>
+    <video:duration>619</video:duration>
     <video:publication_date>2025-12-29T04:33:02.000Z</video:publication_date>
     <video:uploader>ContenderHudsonValley</video:uploader>
     <video:expiration_date>2026-01-06T04:33:02.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-14T21:41:11.000Z</video:publication_date>
     <video:uploader>Theoutlawgg</video:uploader>
     <video:expiration_date>2025-12-22T21:41:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/final-circuito-smash-ultimate-rd-2025/set/97402347/</loc>
-  <lastmod>2025-12-14T22:01:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851744/image-7ce2af31d0af220e4f82f5a6475e61ce.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      HONOR | Yourbro vs eFC | PUNISHER, Final Circuito Smash Ultimate RD 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HONOR | Yourbro vs eFC | PUNISHER in Round 9 of Final Circuito Smash Ultimate RD 2025, streamed by ezratl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643815660&amp;t=4h38m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1224</video:duration>
-    <video:publication_date>2025-12-14T21:38:21.000Z</video:publication_date>
-    <video:uploader>ezratl</video:uploader>
-    <video:expiration_date>2025-12-22T21:38:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
