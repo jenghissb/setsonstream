@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-280-the-final-2025-fusion/set/97757881/</loc>
+  <lastmod>2025-12-30T01:09:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863957/image-5150c98a5512fc05474cdb7ace1427bd.png
+    </video:thumbnail_loc>
+    <video:title>
+      CLAMP vs mTx | MOB | SteR ThA KiiD, Fusion #280 - The Final 2025 Fusion - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CLAMP vs mTx | MOB | SteR ThA KiiD in Winners Round 1 of Fusion #280 - The Final 2025 Fusion, streamed by CollisionSeriesTV2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2656351180&amp;t=0h7m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>523</video:duration>
+    <video:publication_date>2025-12-30T01:09:27.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV2</video:uploader>
+    <video:expiration_date>2026-01-07T01:09:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-finale/set/97736757/</loc>
   <lastmod>2025-12-28T23:16:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-11-29T20:15:39.000Z</video:publication_date>
     <video:uploader>teamdashbr</video:uploader>
     <video:expiration_date>2025-12-07T20:15:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/taverna-do-smash-novembro-2025/set/96879332/</loc>
-  <lastmod>2025-11-29T20:19:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845378/image-d9eae6364288ca072a09372c2480b30b.png
-    </video:thumbnail_loc>
-    <video:title>
-      ManyTheGuy vs LukeLeal, Taverna do Smash Novembro 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ManyTheGuy vs LukeLeal in Losers Final of Taverna do Smash Novembro 2025, streamed by teamdashbr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631029006&amp;t=2h47m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1156</video:duration>
-    <video:publication_date>2025-11-29T19:56:15.000Z</video:publication_date>
-    <video:uploader>teamdashbr</video:uploader>
-    <video:expiration_date>2025-12-07T19:56:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
