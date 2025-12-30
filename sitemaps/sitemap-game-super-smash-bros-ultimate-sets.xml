@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-186-smash-bros-ultimate/set/97767562/</loc>
-  <lastmod>2025-12-30T23:24:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-186-smash-bros-ultimate/set/97767565/</loc>
+  <lastmod>2025-12-30T23:32:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862743/image-7eb60021ced6511e97b939f489795ce7.png
+    </video:thumbnail_loc>
+    <video:title>
+      PM | Tuxedo vs PM | Emilio, NOT DM #186 SMASH BROS ULTIMATE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PM | Tuxedo vs PM | Emilio in Winners Quarter-Final of NOT DM #186 SMASH BROS ULTIMATE, streamed by walito_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2657066769&amp;t=1h26m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1064</video:duration>
+    <video:publication_date>2025-12-30T23:32:38.000Z</video:publication_date>
+    <video:uploader>walito_tv</video:uploader>
+    <video:expiration_date>2026-01-07T23:32:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-186-smash-bros-ultimate/set/97767562/</loc>
+  <lastmod>2025-12-30T23:34:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2657066769&amp;t=1h18m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>465</video:duration>
+    <video:duration>506</video:duration>
     <video:publication_date>2025-12-30T23:24:56.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2026-01-07T23:24:56.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mon-tournoi-est-il-une-sacoche/set/97766382/</loc>
-  <lastmod>2025-12-30T23:12:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-30T23:33:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2657078732&amp;t=0h49m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1227</video:duration>
+    <video:duration>1159</video:duration>
     <video:publication_date>2025-12-30T23:12:14.000Z</video:publication_date>
     <video:uploader>Neorel_exe</video:uploader>
     <video:expiration_date>2026-01-07T23:12:14.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-16T01:47:25.000Z</video:publication_date>
     <video:uploader>716esports</video:uploader>
     <video:expiration_date>2025-12-24T01:47:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/contenderhv-smash-220/set/97441198/</loc>
-  <lastmod>2025-12-16T02:05:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862049/image-40d937484dc8e9fb7fdb0ad06a54950f.png
-    </video:thumbnail_loc>
-    <video:title>
-      AREA67 | ドラフリーキー(AREA67 | dorafuriikii) vs ET | GODwithinAnthony, ContenderHV Smash #220 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AREA67 | ドラフリーキー(AREA67 | dorafuriikii) vs ET | GODwithinAnthony in Winners Quarter-Final of ContenderHV Smash #220, streamed by ContenderHudsonValley
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2644900555&amp;t=2h14m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>967</video:duration>
-    <video:publication_date>2025-12-16T01:47:03.000Z</video:publication_date>
-    <video:uploader>ContenderHudsonValley</video:uploader>
-    <video:expiration_date>2025-12-24T01:47:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
