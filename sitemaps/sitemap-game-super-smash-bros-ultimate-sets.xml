@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-223/set/97765465/</loc>
-  <lastmod>2025-12-30T19:33:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-223/set/97765463/</loc>
+  <lastmod>2025-12-30T19:53:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,72 @@
       https://images.start.gg/images/tournament/864944/image-bda5a12e9830e49152c776c9b3b48914.png
     </video:thumbnail_loc>
     <video:title>
-      GCR | Fendeavor vs QG | Pierolym, Magna Arena #223 - Sets on Stream
+      R-B | | Kilo Crimson vs R-B | GCR | Bigsinge, Magna Arena #223 - Sets on Stream
     </video:title>
     <video:description>
-      Watch GCR | Fendeavor vs QG | Pierolym in Winners Quarter-Final of Magna Arena #223, streamed by SmashStrasbourg
+      Watch R-B | | Kilo Crimson vs R-B | GCR | Bigsinge in Winners Quarter-Final of Magna Arena #223, streamed by SmashStrasbourg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2656892880&amp;t=1h13m36s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2656892880&amp;t=1h33m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>965</video:duration>
-    <video:publication_date>2025-12-30T19:33:52.000Z</video:publication_date>
+    <video:duration>1560</video:duration>
+    <video:publication_date>2025-12-30T19:53:42.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2026-01-07T19:33:52.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-07T19:53:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/jokoa-165/set/97766642/</loc>
+  <lastmod>2025-12-30T20:15:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864528/image-ab0abe3ee28b99ed69537e848bf11e32.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TGT | Ivan du chit vs ECR TCO | IbanTF, JOKOA #165 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TGT | Ivan du chit vs ECR TCO | IbanTF in Losers Semi-Final of JOKOA #165, streamed by smashcotebasque
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=smashcotebasque&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>268</video:duration>
+    <video:publication_date>2025-12-30T20:15:14.000Z</video:publication_date>
+    <video:uploader>smashcotebasque</video:uploader>
+    <video:expiration_date>2026-01-07T20:15:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mon-tournoi-est-il-une-sacoche/set/97766344/</loc>
+  <lastmod>2025-12-30T20:08:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865204/image-c30f235d6512e36e62c98f4103c82ace.png
+    </video:thumbnail_loc>
+    <video:title>
+      BZH | Martin vs ASU | Neorel, Mon tournoi est-il une sacoche ? - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BZH | Martin vs ASU | Neorel in Winners Round 1 of Mon tournoi est-il une sacoche ?, streamed by Neorel_exe
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2656907161&amp;t=1h11m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>888</video:duration>
+    <video:publication_date>2025-12-30T19:51:47.000Z</video:publication_date>
+    <video:uploader>Neorel_exe</video:uploader>
+    <video:expiration_date>2026-01-07T19:51:47.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mon-tournoi-est-il-une-sacoche/set/97766342/</loc>
-  <lastmod>2025-12-30T19:35:45.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2025-12-30T19:53:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2656907161&amp;t=0h55m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>852</video:duration>
+    <video:duration>958</video:duration>
     <video:publication_date>2025-12-30T19:35:45.000Z</video:publication_date>
     <video:uploader>Neorel_exe</video:uploader>
     <video:expiration_date>2026-01-07T19:35:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-223/set/97765465/</loc>
+  <lastmod>2025-12-30T19:54:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864944/image-bda5a12e9830e49152c776c9b3b48914.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCR | Fendeavor vs QG | Pierolym, Magna Arena #223 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCR | Fendeavor vs QG | Pierolym in Winners Quarter-Final of Magna Arena #223, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2656892880&amp;t=1h13m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1227</video:duration>
+    <video:publication_date>2025-12-30T19:33:52.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2026-01-07T19:33:52.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +72022,6 @@
     <video:publication_date>2025-12-16T01:19:04.000Z</video:publication_date>
     <video:uploader>Lylak_SSB</video:uploader>
     <video:expiration_date>2025-12-24T01:19:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/frame-trap-147-red-dragon-brewery/set/97441303/</loc>
-  <lastmod>2025-12-16T01:38:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861316/image-457223d2756d95922e31ed91195604b3.png
-    </video:thumbnail_loc>
-    <video:title>
-      work in progress vs DKBN | King J, Frame Trap #147 @ Red Dragon Brewery! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch work in progress vs DKBN | King J in Winners Round 2 of Frame Trap #147 @ Red Dragon Brewery!, streamed by the_jokeofalltrades
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2644964785&amp;t=0h19m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1091</video:duration>
-    <video:publication_date>2025-12-16T01:16:51.000Z</video:publication_date>
-    <video:uploader>the_jokeofalltrades</video:uploader>
-    <video:expiration_date>2025-12-24T01:16:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/one-up-ultimate-12-15-25/set/97436755/</loc>
-  <lastmod>2025-12-16T01:38:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856799/image-dd529e3f8130e886ff899197030a3186.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Hiycks vs Sin | Scot, One Up Ultimate 12.15.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hiycks vs Sin | Scot in Winners Final of One Up Ultimate 12.15.25, streamed by one_up_games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2644920688&amp;t=1h16m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1138</video:duration>
-    <video:publication_date>2025-12-16T01:16:17.000Z</video:publication_date>
-    <video:uploader>one_up_games</video:uploader>
-    <video:expiration_date>2025-12-24T01:16:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
