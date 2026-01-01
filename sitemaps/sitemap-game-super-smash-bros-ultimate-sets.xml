@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/long-island-summit/set/97795848/</loc>
-  <lastmod>2026-01-01T23:10:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/long-island-summit/set/97795851/</loc>
+  <lastmod>2026-01-01T23:36:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853258/image-655dd04d01baef0e342fa34bb32d8537.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SOUP-E | Moat vs SBU | MeKa, Long Island Summit - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SOUP-E | Moat vs SBU | MeKa in Round 1 of Long Island Summit, streamed by SBUsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=SBUsmash&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>255</video:duration>
+    <video:publication_date>2026-01-01T23:36:31.000Z</video:publication_date>
+    <video:uploader>SBUsmash</video:uploader>
+    <video:expiration_date>2026-01-09T23:36:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/long-island-summit/set/97795848/</loc>
+  <lastmod>2026-01-01T23:24:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2658697083&amp;t=0h8m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>389</video:duration>
+    <video:duration>769</video:duration>
     <video:publication_date>2026-01-01T23:10:42.000Z</video:publication_date>
     <video:uploader>SBUsmash</video:uploader>
     <video:expiration_date>2026-01-09T23:10:42.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/long-island-summit/set/97795850/</loc>
-  <lastmod>2026-01-01T23:07:35.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-01T23:23:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2658696986&amp;t=0h5m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>576</video:duration>
+    <video:duration>900</video:duration>
     <video:publication_date>2026-01-01T23:07:35.000Z</video:publication_date>
     <video:uploader>bop_it13</video:uploader>
     <video:expiration_date>2026-01-09T23:07:35.000Z</video:expiration_date>
