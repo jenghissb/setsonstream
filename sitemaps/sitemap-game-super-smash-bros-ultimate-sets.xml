@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tech-sur-la-moquette-68-bonne-ann-e-bonne-sant/set/97793519/</loc>
-  <lastmod>2026-01-01T19:28:16.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tech-sur-la-moquette-68-bonne-ann-e-bonne-sant/set/97793582/</loc>
+  <lastmod>2026-01-01T19:46:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865025/image-5d5df5727d3e5d0f7c0ec7852dfbf585.png
+    </video:thumbnail_loc>
+    <video:title>
+      GENESIS | Antoane vs zemboo, Tech sur la Moquette #68 : Bonne année, bonne santé ! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GENESIS | Antoane vs zemboo in Losers Round 3 of Tech sur la Moquette #68 : Bonne année, bonne santé !, streamed by smashgrenoble
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2658498228&amp;t=1h4m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>228</video:duration>
+    <video:publication_date>2026-01-01T19:46:21.000Z</video:publication_date>
+    <video:uploader>smashgrenoble</video:uploader>
+    <video:expiration_date>2026-01-09T19:46:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tech-sur-la-moquette-68-bonne-ann-e-bonne-sant/set/97793519/</loc>
+  <lastmod>2026-01-01T19:47:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2658498228&amp;t=0h46m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>753</video:duration>
+    <video:duration>1072</video:duration>
     <video:publication_date>2026-01-01T19:28:16.000Z</video:publication_date>
     <video:uploader>smashgrenoble</video:uploader>
     <video:expiration_date>2026-01-09T19:28:16.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-17T00:53:07.000Z</video:publication_date>
     <video:uploader>gameqlounge</video:uploader>
     <video:expiration_date>2025-12-25T00:53:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/share-stock-savage-27/set/97456650/</loc>
-  <lastmod>2025-12-17T01:12:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861259/image-4d28c77e86b6e12e203954e7dc97f594.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Share Stock | Drewtwo vs Geeg, Share Stock @ Savage #27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Share Stock | Drewtwo vs Geeg in Winners Semi-Final of Share Stock @ Savage #27, streamed by drewtwo18
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2645751072&amp;t=0h41m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1058</video:duration>
-    <video:publication_date>2025-12-17T00:52:54.000Z</video:publication_date>
-    <video:uploader>drewtwo18</video:uploader>
-    <video:expiration_date>2025-12-25T00:52:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
