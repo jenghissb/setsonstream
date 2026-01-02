@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kozlowski-smash-summit-v/set/97810851/</loc>
+  <lastmod>2026-01-02T21:26:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865220/image-6d8a5c86643cb79074c27896b39fac8c.png
+    </video:thumbnail_loc>
+    <video:title>
+      3B00M | Chenz vs Guts, Kozlowski Smash Summit V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 3B00M | Chenz vs Guts in Round 2 of Kozlowski Smash Summit V, streamed by ha1o
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Vi-aJBa-trM?start=683s
+    </video:player_loc>
+    <video:duration>1146</video:duration>
+    <video:publication_date>2026-01-02T21:07:48.000Z</video:publication_date>
+    <video:uploader>ha1o</video:uploader>
+    <video:expiration_date>2026-01-10T21:07:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-basement-45/set/97808872/</loc>
   <lastmod>2026-01-02T20:58:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-18T00:40:37.000Z</video:publication_date>
     <video:uploader>thelegendarywes</video:uploader>
     <video:expiration_date>2025-12-26T00:40:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/flashback-fightclub-231/set/97482523/</loc>
-  <lastmod>2025-12-18T00:48:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861819/image-7e5626bd7c221ef04ad3673da9cb3a7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zarek vs BGA | Bumpadumper, Flashback Fightclub #231 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zarek vs BGA | Bumpadumper in Winners Round 1 of Flashback Fightclub #231, streamed by FlashbackFightclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2646587338&amp;t=0h3m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>428</video:duration>
-    <video:publication_date>2025-12-18T00:39:43.000Z</video:publication_date>
-    <video:uploader>FlashbackFightclub</video:uploader>
-    <video:expiration_date>2025-12-26T00:39:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
