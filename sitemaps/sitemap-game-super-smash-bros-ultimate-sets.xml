@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kozlowski-smash-summit-v/set/97810852/</loc>
+  <lastmod>2026-01-02T22:32:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865220/image-6d8a5c86643cb79074c27896b39fac8c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Faze | FinishedBark38 vs Dreconoline, Kozlowski Smash Summit V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Faze | FinishedBark38 vs Dreconoline in Round 2 of Kozlowski Smash Summit V, streamed by ha1o
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Vi-aJBa-trM?start=5379s
+    </video:player_loc>
+    <video:duration>328</video:duration>
+    <video:publication_date>2026-01-02T22:26:04.000Z</video:publication_date>
+    <video:uploader>ha1o</video:uploader>
+    <video:expiration_date>2026-01-10T22:26:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kozlowski-smash-summit-v/set/97810853/</loc>
-  <lastmod>2026-01-02T22:09:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-02T22:27:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/Vi-aJBa-trM?start=4381s
     </video:player_loc>
-    <video:duration>460</video:duration>
+    <video:duration>1028</video:duration>
     <video:publication_date>2026-01-02T22:09:26.000Z</video:publication_date>
     <video:uploader>ha1o</video:uploader>
     <video:expiration_date>2026-01-10T22:09:26.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-18T00:49:13.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2025-12-26T00:49:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/flashback-fightclub-231/set/97482543/</loc>
-  <lastmod>2025-12-18T01:05:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861819/image-7e5626bd7c221ef04ad3673da9cb3a7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      LBE | CC | Savant vs PattyOats | ÆON(PattyOats | AE ON), Flashback Fightclub #231 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LBE | CC | Savant vs PattyOats | ÆON(PattyOats | AE ON) in Winners Round 2 of Flashback Fightclub #231, streamed by FlashbackFightclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2646587338&amp;t=0h11m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>916</video:duration>
-    <video:publication_date>2025-12-18T00:47:50.000Z</video:publication_date>
-    <video:uploader>FlashbackFightclub</video:uploader>
-    <video:expiration_date>2025-12-26T00:47:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
