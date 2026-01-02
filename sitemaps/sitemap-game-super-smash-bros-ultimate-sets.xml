@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-02-01-2026/set/97808122/</loc>
+  <lastmod>2026-01-02T16:44:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865253/image-ac1e0195c97beca50e1e5018eed52b78.png
+    </video:thumbnail_loc>
+    <video:title>
+      NX | Rocco vs KYC | Eslidraxx, CitiSmash - 02/01/2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NX | Rocco vs KYC | Eslidraxx in Winners Round 2 of CitiSmash - 02/01/2026, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659222180&amp;t=0h40m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>725</video:duration>
+    <video:publication_date>2026-01-02T16:31:50.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2026-01-10T16:31:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-02-01-2026/set/97808119/</loc>
-  <lastmod>2026-01-02T16:13:13.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-02T16:30:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2659222180&amp;t=0h22m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>444</video:duration>
+    <video:duration>978</video:duration>
     <video:publication_date>2026-01-02T16:13:13.000Z</video:publication_date>
     <video:uploader>citismash</video:uploader>
     <video:expiration_date>2026-01-10T16:13:13.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-17T23:21:09.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2025-12-25T23:21:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-184-smash-bros-ultimate/set/97478471/</loc>
-  <lastmod>2025-12-17T23:22:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860924/image-8541160fa447e2eb093b1e8ca176b6fa.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hb2 vs PHX | WLC | Gurin, NOT DM #184 SMASH BROS ULTIMATE - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hb2 vs PHX | WLC | Gurin in Winners Quarter-Final of NOT DM #184 SMASH BROS ULTIMATE, streamed by walito_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2646476489&amp;t=1h4m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>957</video:duration>
-    <video:publication_date>2025-12-17T23:04:51.000Z</video:publication_date>
-    <video:uploader>walito_tv</video:uploader>
-    <video:expiration_date>2025-12-25T23:04:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
