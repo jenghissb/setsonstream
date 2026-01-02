@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kozlowski-smash-summit-v/set/97810880/</loc>
-  <lastmod>2026-01-02T23:11:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kozlowski-smash-summit-v/set/97811757/</loc>
+  <lastmod>2026-01-02T23:29:43.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865220/image-6d8a5c86643cb79074c27896b39fac8c.png
+    </video:thumbnail_loc>
+    <video:title>
+      lilsbc vs JLee, Kozlowski Smash Summit V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch lilsbc vs JLee in Round 1 of Kozlowski Smash Summit V, streamed by ha1o
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Vi-aJBa-trM?start=9198s
+    </video:player_loc>
+    <video:duration>565</video:duration>
+    <video:publication_date>2026-01-02T23:29:43.000Z</video:publication_date>
+    <video:uploader>ha1o</video:uploader>
+    <video:expiration_date>2026-01-10T23:29:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kozlowski-smash-summit-v/set/97810880/</loc>
+  <lastmod>2026-01-02T23:29:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/Vi-aJBa-trM?start=8124s
     </video:player_loc>
-    <video:duration>277</video:duration>
+    <video:duration>1050</video:duration>
     <video:publication_date>2026-01-02T23:11:49.000Z</video:publication_date>
     <video:uploader>ha1o</video:uploader>
     <video:expiration_date>2026-01-10T23:11:49.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-18T00:53:05.000Z</video:publication_date>
     <video:uploader>nostyleesports</video:uploader>
     <video:expiration_date>2025-12-26T00:53:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/game-night-at-dave-and-busters-78-50-prize-pool-ssbu/set/97482266/</loc>
-  <lastmod>2025-12-18T01:01:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861729/image-5d6849949513652050ccdd1e945a2988.png
-    </video:thumbnail_loc>
-    <video:title>
-      PAG AoC | Gaius vs Aidn, Game Night at Dave and Busters #78 $50 prize pool SSBU - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PAG AoC | Gaius vs Aidn in Winners Round 2 of Game Night at Dave and Busters #78 $50 prize pool SSBU, streamed by sosgamersinc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2646582290&amp;t=0h21m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>478</video:duration>
-    <video:publication_date>2025-12-18T00:51:34.000Z</video:publication_date>
-    <video:uploader>sosgamersinc</video:uploader>
-    <video:expiration_date>2025-12-26T00:51:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
