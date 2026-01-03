@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tlf-new-years/set/97843125/</loc>
+  <lastmod>2026-01-03T23:29:21.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      JeansFGC vs Kwame Brown, TLF New Years - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JeansFGC vs Kwame Brown in Winners Round 2 of TLF New Years, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660454441&amp;t=0h42m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>244</video:duration>
+    <video:publication_date>2026-01-03T23:29:21.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-01-11T23:29:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/day-3-fgc-war-begins-on-the-third-day/set/97833719/</loc>
   <lastmod>2026-01-03T19:48:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-15T02:29:58.000Z</video:publication_date>
     <video:uploader>aozaru9</video:uploader>
     <video:expiration_date>2025-12-23T02:29:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-arena-inferno-2025/set/97342407/</loc>
-  <lastmod>2025-12-15T02:45:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826686/image-19ca8bfa13d2470d248543ab2746922b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      IES | XaXa vs Dawong, The Arena: INFERNO 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch IES | XaXa vs Dawong in Winners Final of The Arena: INFERNO 2025, streamed by gameheads_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643888694&amp;t=7h55m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>812</video:duration>
-    <video:publication_date>2025-12-15T02:28:13.000Z</video:publication_date>
-    <video:uploader>gameheads_tv</video:uploader>
-    <video:expiration_date>2025-12-23T02:28:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
