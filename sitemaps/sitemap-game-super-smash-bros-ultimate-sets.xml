@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/limit-break-39-ain-t-that-a-kick-in-the-head/set/97826617/</loc>
-  <lastmod>2026-01-03T06:36:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-8-4/set/97825618/</loc>
+  <lastmod>2026-01-03T07:05:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864855/image-c6e7cc353db76117ef75f58cae5762f0.png
+    </video:thumbnail_loc>
+    <video:title>
+      fbn | seira vs Syn! | Klad*//, Rage Quit #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch fbn | seira vs Syn! | Klad*// in Losers Final of Rage Quit #8, streamed by SacramentoEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659746539&amp;t=3h57m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>684</video:duration>
+    <video:publication_date>2026-01-03T07:05:16.000Z</video:publication_date>
+    <video:uploader>SacramentoEsports</video:uploader>
+    <video:expiration_date>2026-01-11T07:05:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/limit-break-39-ain-t-that-a-kick-in-the-head/set/97826619/</loc>
+  <lastmod>2026-01-03T07:15:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/865050/image-ce1a8233eb33877f50603de0f4f78ff9.jpg
     </video:thumbnail_loc>
     <video:title>
-      Yikes! | Atreus vs MG | Demon99, LIMIT/BREAK #39: Ain&apos;t that a Kick in The Head - Sets on Stream
+      MG | Demon99 vs CS3 | Marvelous_Marco, LIMIT/BREAK #39: Ain&apos;t that a Kick in The Head - Sets on Stream
     </video:title>
     <video:description>
-      Watch Yikes! | Atreus vs MG | Demon99 in Winners Semi-Final of LIMIT/BREAK #39: Ain&apos;t that a Kick in The Head, streamed by POWgaming
+      Watch MG | Demon99 vs CS3 | Marvelous_Marco in Winners Final of LIMIT/BREAK #39: Ain&apos;t that a Kick in The Head, streamed by POWgaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659811770&amp;t=1h55m4s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2659811770&amp;t=2h19m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>992</video:duration>
-    <video:publication_date>2026-01-03T06:36:34.000Z</video:publication_date>
+    <video:duration>777</video:duration>
+    <video:publication_date>2026-01-03T07:01:28.000Z</video:publication_date>
     <video:uploader>POWgaming</video:uploader>
-    <video:expiration_date>2026-01-11T06:36:34.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-11T07:01:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-8-4/set/97825617/</loc>
-  <lastmod>2026-01-03T06:45:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-03T07:06:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2659746539&amp;t=3h37m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>464</video:duration>
+    <video:duration>1186</video:duration>
     <video:publication_date>2026-01-03T06:45:22.000Z</video:publication_date>
     <video:uploader>SacramentoEsports</video:uploader>
     <video:expiration_date>2026-01-11T06:45:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/limit-break-39-ain-t-that-a-kick-in-the-head/set/97826617/</loc>
+  <lastmod>2026-01-03T06:59:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865050/image-ce1a8233eb33877f50603de0f4f78ff9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Yikes! | Atreus vs MG | Demon99, LIMIT/BREAK #39: Ain&apos;t that a Kick in The Head - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yikes! | Atreus vs MG | Demon99 in Winners Semi-Final of LIMIT/BREAK #39: Ain&apos;t that a Kick in The Head, streamed by POWgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659811770&amp;t=1h55m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1333</video:duration>
+    <video:publication_date>2026-01-03T06:36:34.000Z</video:publication_date>
+    <video:uploader>POWgaming</video:uploader>
+    <video:expiration_date>2026-01-11T06:36:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-18T18:36:23.000Z</video:publication_date>
     <video:uploader>smashil</video:uploader>
     <video:expiration_date>2025-12-26T18:36:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-open-world-14/set/97497820/</loc>
-  <lastmod>2025-12-18T18:57:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862089/image-6224420a457c4b32c0156cdffd4ffc9f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Alekssaske vs L-TAKER | Demate, Smash @ Open World #14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Alekssaske vs L-TAKER | Demate in Winners Round 1 of Smash @ Open World #14, streamed by openworldvienna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647106387&amp;t=0h47m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1169</video:duration>
-    <video:publication_date>2025-12-18T18:36:18.000Z</video:publication_date>
-    <video:uploader>openworldvienna</video:uploader>
-    <video:expiration_date>2025-12-26T18:36:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/manabar-weekly-2025-49/set/97498052/</loc>
-  <lastmod>2025-12-18T19:00:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861279/image-09fab3a2f9bdbee74a0629befb61047d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Washed vs MANATi, Manabar Weekly 2025 (#49) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Washed vs MANATi in Round 2 of Manabar Weekly 2025 (#49), streamed by 420_Ramen
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/9PRBjx4WgLY?start=7001s
-    </video:player_loc>
-    <video:duration>1549</video:duration>
-    <video:publication_date>2025-12-18T18:33:26.000Z</video:publication_date>
-    <video:uploader>420_Ramen</video:uploader>
-    <video:expiration_date>2025-12-26T18:33:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
