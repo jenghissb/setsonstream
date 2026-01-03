@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-102/set/97824490/</loc>
-  <lastmod>2026-01-03T05:34:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-102/set/97824491/</loc>
+  <lastmod>2026-01-03T05:48:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863368/image-56a0946b0b3d603652a34fb6f26f2fd3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      EGP | ST | jawknee vs Geno, SoCal Colosseum #102 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EGP | ST | jawknee vs Geno in Winners Quarter-Final of SoCal Colosseum #102, streamed by teakei
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659770057&amp;t=2h8m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>386</video:duration>
+    <video:publication_date>2026-01-03T05:48:28.000Z</video:publication_date>
+    <video:uploader>teakei</video:uploader>
+    <video:expiration_date>2026-01-11T05:48:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-102/set/97824490/</loc>
+  <lastmod>2026-01-03T05:53:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2659770057&amp;t=1h55m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>585</video:duration>
+    <video:duration>804</video:duration>
     <video:publication_date>2026-01-03T05:34:59.000Z</video:publication_date>
     <video:uploader>teakei</video:uploader>
     <video:expiration_date>2026-01-11T05:34:59.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-08T21:19:42.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2025-12-16T21:19:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-68/set/97205940/</loc>
-  <lastmod>2025-12-08T21:26:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851866/image-e95dabd5614bfc184a6fd2630b3686bd.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SS | | FZifu vs Kaza, Toulouse Fighting Monday 68 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SS | | FZifu vs Kaza in Winners Final of Toulouse Fighting Monday 68, streamed by toulousevsfighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2638807432&amp;t=1h57m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>622</video:duration>
-    <video:publication_date>2025-12-08T21:07:30.000Z</video:publication_date>
-    <video:uploader>toulousevsfighters</video:uploader>
-    <video:expiration_date>2025-12-16T21:07:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
