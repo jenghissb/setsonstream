@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/day-3-fgc-war-begins-on-the-third-day/set/97835721/</loc>
+  <lastmod>2026-01-03T21:19:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858884/image-bf741753da3d854fc55f238d5cac1c05.png
+    </video:thumbnail_loc>
+    <video:title>
+      Xeroken vs YCR | Alacszander, Day 3: FGC War begins on the third day - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Xeroken vs YCR | Alacszander in Losers Round 3 of Day 3: FGC War begins on the third day, streamed by torontotoptiers
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660241208&amp;t=2h50m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>768</video:duration>
+    <video:publication_date>2026-01-03T21:19:28.000Z</video:publication_date>
+    <video:uploader>torontotoptiers</video:uploader>
+    <video:expiration_date>2026-01-11T21:19:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-102/set/97826597/</loc>
   <lastmod>2026-01-03T06:57:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-09T00:20:45.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2025-12-17T00:20:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-229/set/97209890/</loc>
-  <lastmod>2025-12-09T00:27:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857931/image-d7c8072ec18efeadde751752d5f98bb1.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRAB | ZeperTheStar vs ESG | JAYDASH, ESG Fight Night #229 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRAB | ZeperTheStar vs ESG | JAYDASH in Winners Semi-Final of ESG Fight Night #229, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639015476&amp;t=0h11m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>611</video:duration>
-    <video:publication_date>2025-12-09T00:10:28.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2025-12-17T00:10:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
