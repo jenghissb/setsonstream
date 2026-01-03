@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-211/set/97813437/</loc>
+  <lastmod>2026-01-03T01:09:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865687/image-f81626e8f7ef3fa05e89559a230b5302.png
+    </video:thumbnail_loc>
+    <video:title>
+      alex | oliomar player89(olimar) vs ThatsCrazyBro, Smash Night at Prodigy #211 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch alex | oliomar player89(olimar) vs ThatsCrazyBro in Winners Quarter-Final of Smash Night at Prodigy #211, streamed by hazelnutroa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659632979&amp;t=0h3m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>696</video:duration>
+    <video:publication_date>2026-01-03T00:53:53.000Z</video:publication_date>
+    <video:uploader>hazelnutroa</video:uploader>
+    <video:expiration_date>2026-01-11T00:53:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/jaxsmash-2025-grand-finale-leaderboard-1-1-26-600-pot-bonus/set/97802116/</loc>
   <lastmod>2026-01-02T04:48:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-03T23:50:23.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2025-12-11T23:50:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-62/set/97015191/</loc>
-  <lastmod>2025-12-03T23:52:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858631/image-f653a630e9db1e5354daea4c2c4a67ba.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ampersand vs TBZ | ManNeeTee12, CU in Bracket 62 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ampersand vs TBZ | ManNeeTee12 in Winners Final of CU in Bracket 62, streamed by topblastzoneny
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2634654479&amp;t=1h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>764</video:duration>
-    <video:publication_date>2025-12-03T23:37:29.000Z</video:publication_date>
-    <video:uploader>topblastzoneny</video:uploader>
-    <video:expiration_date>2025-12-11T23:37:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
