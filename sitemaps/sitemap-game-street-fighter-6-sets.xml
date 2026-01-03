@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/day-3-fgc-war-begins-on-the-third-day/set/97833717/</loc>
+  <lastmod>2026-01-03T19:04:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858884/image-bf741753da3d854fc55f238d5cac1c05.png
+    </video:thumbnail_loc>
+    <video:title>
+      TTTTTO | nich vs Mufausa, Day 3: FGC War begins on the third day - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TTTTTO | nich vs Mufausa in Losers Quarter-Final of Day 3: FGC War begins on the third day, streamed by torontotoptiers
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660241208&amp;t=0h35m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>537</video:duration>
+    <video:publication_date>2026-01-03T19:04:17.000Z</video:publication_date>
+    <video:uploader>torontotoptiers</video:uploader>
+    <video:expiration_date>2026-01-11T19:04:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-25/set/97826748/</loc>
   <lastmod>2026-01-03T08:07:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-15T02:11:27.000Z</video:publication_date>
     <video:uploader>aozaru9</video:uploader>
     <video:expiration_date>2025-12-23T02:11:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-arena-inferno-2025/set/97342436/</loc>
-  <lastmod>2025-12-15T02:20:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826686/image-19ca8bfa13d2470d248543ab2746922b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Knucklebird vs IES | Monoko, The Arena: INFERNO 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Knucklebird vs IES | Monoko in Losers Quarter-Final of The Arena: INFERNO 2025, streamed by gameheads_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643888694&amp;t=7h31m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>535</video:duration>
-    <video:publication_date>2025-12-15T02:04:43.000Z</video:publication_date>
-    <video:uploader>gameheads_tv</video:uploader>
-    <video:expiration_date>2025-12-23T02:04:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
