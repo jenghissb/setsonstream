@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/jorhou5e-re-born/set/97840533/</loc>
+  <lastmod>2026-01-03T22:31:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860211/image-eeac1497eb0b61aa9d616bcdd377d543.png
+    </video:thumbnail_loc>
+    <video:title>
+      Khryke vs Jimbo, JorHou5e re:BORN - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Khryke vs Jimbo in Round 2 of JorHou5e re:BORN, streamed by arjunebug
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660381945&amp;t=1h1m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>579</video:duration>
+    <video:publication_date>2026-01-03T22:15:06.000Z</video:publication_date>
+    <video:uploader>arjunebug</video:uploader>
+    <video:expiration_date>2026-01-11T22:15:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/jorhou5e-re-born/set/97840537/</loc>
-  <lastmod>2026-01-03T22:03:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-03T22:22:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2660381945&amp;t=0h49m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>763</video:duration>
+    <video:duration>602</video:duration>
     <video:publication_date>2026-01-03T22:03:29.000Z</video:publication_date>
     <video:uploader>arjunebug</video:uploader>
     <video:expiration_date>2026-01-11T22:03:29.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-06T21:53:58.000Z</video:publication_date>
     <video:uploader>raviannn</video:uploader>
     <video:expiration_date>2025-12-14T21:53:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/soul-of-smash-ix-presented-by-spiral-esports/set/97131608/</loc>
-  <lastmod>2025-12-06T22:10:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851444/image-3aafe77f5168e074d357abf2db77ac51.png
-    </video:thumbnail_loc>
-    <video:title>
-      brokenyew vs OG Kid, Soul of Smash IX Presented by Spiral Esports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch brokenyew vs OG Kid in Winners Quarter-Final of Soul of Smash IX Presented by Spiral Esports, streamed by Spiralmedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637222166&amp;t=0h9m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>584</video:duration>
-    <video:publication_date>2025-12-06T21:53:01.000Z</video:publication_date>
-    <video:uploader>Spiralmedia</video:uploader>
-    <video:expiration_date>2025-12-14T21:53:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
