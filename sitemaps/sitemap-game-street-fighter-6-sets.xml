@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-25/set/97826494/</loc>
+  <lastmod>2026-01-03T05:39:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862591/image-c353362b56508e78948b979c872661c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      BBragi vs MediumBlock, Drive Theory 25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BBragi vs MediumBlock in Winners Round 1 of Drive Theory 25, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659830994&amp;t=0h26m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>317</video:duration>
+    <video:publication_date>2026-01-03T05:39:27.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-01-11T05:39:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-102/set/97823772/</loc>
   <lastmod>2026-01-03T04:43:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-14T23:11:03.000Z</video:publication_date>
     <video:uploader>qcs606</video:uploader>
     <video:expiration_date>2025-12-22T23:11:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/commonwealth-cup-season-5/set/97411228/</loc>
-  <lastmod>2025-12-14T23:08:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856857/image-74bea5fb087fdf75c7ee10a772008aeb.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CC | Steven2brazu vs Sniffulls, Commonwealth Cup: Season 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CC | Steven2brazu vs Sniffulls in Losers Quarter-Final of Commonwealth Cup: Season 5, streamed by qcs606
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2644016317&amp;t=1h44m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>878</video:duration>
-    <video:publication_date>2025-12-14T22:53:03.000Z</video:publication_date>
-    <video:uploader>qcs606</video:uploader>
-    <video:expiration_date>2025-12-22T22:53:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
