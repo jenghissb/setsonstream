@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-102/set/97824061/</loc>
+  <lastmod>2026-01-03T05:06:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863368/image-56a0946b0b3d603652a34fb6f26f2fd3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PFaB | 8&amp; vs Garlic Bread, SoCal Colosseum #102 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PFaB | 8&amp; vs Garlic Bread in Winners Semi-Final of SoCal Colosseum #102, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659765845&amp;t=1h32m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>705</video:duration>
+    <video:publication_date>2026-01-03T05:06:32.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2026-01-11T05:06:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-102/set/97824057/</loc>
   <lastmod>2026-01-03T04:51:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-11T04:56:07.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-12-19T04:56:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/side-seven-skirmish-16/set/97261380/</loc>
-  <lastmod>2025-12-11T05:02:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857027/image-defb1afe720333c06bb0011d4f1ef71e.png
-    </video:thumbnail_loc>
-    <video:title>
-      S7 | Wosernerd vs S7 | BoBobson, SIDE SEVEN SKIRMISH 16 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch S7 | Wosernerd vs S7 | BoBobson in Grand Final of SIDE SEVEN SKIRMISH 16, streamed by MEECHY72
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640802546&amp;t=1h53m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>725</video:duration>
-    <video:publication_date>2025-12-11T04:48:21.000Z</video:publication_date>
-    <video:uploader>MEECHY72</video:uploader>
-    <video:expiration_date>2025-12-19T04:48:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
