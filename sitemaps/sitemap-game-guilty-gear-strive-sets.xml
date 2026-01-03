@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pfl-galette-des-rois/set/97827731/</loc>
-  <lastmod>2026-01-03T13:37:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pfl-galette-des-rois/set/97827732/</loc>
+  <lastmod>2026-01-03T13:48:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864798/image-736f0bdd64971292f83f36c0b63c2bfe.png
+    </video:thumbnail_loc>
+    <video:title>
+      V STAR | Tsuku vs Platy | Daseinologist, PFL GALETTE DES ROIS  ! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch V STAR | Tsuku vs Platy | Daseinologist in Grand Final Reset of PFL GALETTE DES ROIS  !, streamed by nsxc_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659974476&amp;t=2h39m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>352</video:duration>
+    <video:publication_date>2026-01-03T13:48:44.000Z</video:publication_date>
+    <video:uploader>nsxc_tv</video:uploader>
+    <video:expiration_date>2026-01-11T13:48:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pfl-galette-des-rois/set/97827731/</loc>
+  <lastmod>2026-01-03T13:53:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2659974476&amp;t=2h28m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>451</video:duration>
+    <video:duration>634</video:duration>
     <video:publication_date>2026-01-03T13:37:56.000Z</video:publication_date>
     <video:uploader>nsxc_tv</video:uploader>
     <video:expiration_date>2026-01-11T13:37:56.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-13T03:00:29.000Z</video:publication_date>
     <video:uploader>flynnsarcadefl</video:uploader>
     <video:expiration_date>2025-12-21T03:00:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-136/set/97308440/</loc>
-  <lastmod>2025-12-13T03:23:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855049/image-88ad93a841a25e823553e921c0d29bcf.png
-    </video:thumbnail_loc>
-    <video:title>
-      MLGF vs KyokuReset, HoG: Moonlight #136 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MLGF vs KyokuReset in Grand Final of HoG: Moonlight #136, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642351974&amp;t=2h34m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>901</video:duration>
-    <video:publication_date>2025-12-13T02:54:37.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-12-21T02:54:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
