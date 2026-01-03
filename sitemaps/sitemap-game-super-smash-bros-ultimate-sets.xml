@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/blazing-series-10/set/97827054/</loc>
+  <lastmod>2026-01-03T11:13:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860661/image-b6b0e04a58e27948daa0931fade9a66f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RA | SUS | Tenshi vs Insanity Gamin | Teknoid, Blazing Series 10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RA | SUS | Tenshi vs Insanity Gamin | Teknoid in Winners Round 2 of Blazing Series 10, streamed by warpzonees
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659954541&amp;t=0h57m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>970</video:duration>
+    <video:publication_date>2026-01-03T11:13:37.000Z</video:publication_date>
+    <video:uploader>warpzonees</video:uploader>
+    <video:expiration_date>2026-01-11T11:13:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/limit-break-39-ain-t-that-a-kick-in-the-head/set/97826621/</loc>
   <lastmod>2026-01-03T08:42:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-18T19:06:14.000Z</video:publication_date>
     <video:uploader>taihenki_</video:uploader>
     <video:expiration_date>2025-12-26T19:06:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-open-world-14/set/97497822/</loc>
-  <lastmod>2025-12-18T19:15:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862089/image-6224420a457c4b32c0156cdffd4ffc9f.png
-    </video:thumbnail_loc>
-    <video:title>
-      buzi vs Sleep, Smash @ Open World #14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch buzi vs Sleep in Winners Quarter-Final of Smash @ Open World #14, streamed by openworldvienna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647106387&amp;t=1h15m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>614</video:duration>
-    <video:publication_date>2025-12-18T19:03:57.000Z</video:publication_date>
-    <video:uploader>openworldvienna</video:uploader>
-    <video:expiration_date>2025-12-26T19:03:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
