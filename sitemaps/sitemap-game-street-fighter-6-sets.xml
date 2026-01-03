@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-25/set/97826732/</loc>
+  <lastmod>2026-01-03T07:46:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862591/image-c353362b56508e78948b979c872661c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      elieatscrayons vs chill, Drive Theory 25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch elieatscrayons vs chill in Winners Final of Drive Theory 25, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659876821&amp;t=1h1m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>205</video:duration>
+    <video:publication_date>2026-01-03T07:46:41.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-01-11T07:46:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-25/set/97826745/</loc>
   <lastmod>2026-01-03T07:30:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-15T01:39:21.000Z</video:publication_date>
     <video:uploader>gameheads_tv</video:uploader>
     <video:expiration_date>2025-12-23T01:39:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/commonwealth-cup-season-5/set/97411201/</loc>
-  <lastmod>2025-12-15T00:17:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856857/image-74bea5fb087fdf75c7ee10a772008aeb.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CC | MissedInput.exe vs JCxF | Deznere, Commonwealth Cup: Season 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CC | MissedInput.exe vs JCxF | Deznere in Grand Final Reset of Commonwealth Cup: Season 5, streamed by qcs606
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2644016317&amp;t=2h53m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>748</video:duration>
-    <video:publication_date>2025-12-15T00:02:11.000Z</video:publication_date>
-    <video:uploader>qcs606</video:uploader>
-    <video:expiration_date>2025-12-23T00:02:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
