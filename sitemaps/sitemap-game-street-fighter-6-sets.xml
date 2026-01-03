@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-25/set/97826748/</loc>
+  <lastmod>2026-01-03T08:07:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862591/image-c353362b56508e78948b979c872661c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      chill vs ROF, Drive Theory 25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch chill vs ROF in Losers Final of Drive Theory 25, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2659876821&amp;t=1h12m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>406</video:duration>
+    <video:publication_date>2026-01-03T07:57:49.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-01-11T07:57:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-25/set/97826732/</loc>
-  <lastmod>2026-01-03T07:46:41.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-03T07:55:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2659876821&amp;t=1h1m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>205</video:duration>
+    <video:duration>444</video:duration>
     <video:publication_date>2026-01-03T07:46:41.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2026-01-11T07:46:41.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-15T02:04:43.000Z</video:publication_date>
     <video:uploader>gameheads_tv</video:uploader>
     <video:expiration_date>2025-12-23T02:04:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-arena-inferno-2025/set/97342405/</loc>
-  <lastmod>2025-12-15T01:49:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/826686/image-19ca8bfa13d2470d248543ab2746922b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Knucklebird vs IES | XaXa, The Arena: INFERNO 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Knucklebird vs IES | XaXa in Winners Semi-Final of The Arena: INFERNO 2025, streamed by gameheads_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643888694&amp;t=7h6m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>541</video:duration>
-    <video:publication_date>2025-12-15T01:39:21.000Z</video:publication_date>
-    <video:uploader>gameheads_tv</video:uploader>
-    <video:expiration_date>2025-12-23T01:39:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
