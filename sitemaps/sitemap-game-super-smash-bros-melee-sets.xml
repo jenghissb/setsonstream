@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lab-monster-83/set/97846847/</loc>
+  <lastmod>2026-01-04T01:21:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865467/image-394d2a7329a08bbfd500d72c8254fd66.png
+    </video:thumbnail_loc>
+    <video:title>
+      GUG | Matt, Vegas vs Noc, Lab Monster 83 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GUG | Matt, Vegas vs Noc in Winners Quarter-Final of Lab Monster 83, streamed by esobrev
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660451813&amp;t=2h25m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>257</video:duration>
+    <video:publication_date>2026-01-04T01:09:05.000Z</video:publication_date>
+    <video:uploader>esobrev</video:uploader>
+    <video:expiration_date>2026-01-12T01:09:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/jorhou5e-re-born/set/97840533/</loc>
   <lastmod>2026-01-03T22:31:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-06T21:55:30.000Z</video:publication_date>
     <video:uploader>rocky_fights</video:uploader>
     <video:expiration_date>2025-12-14T21:55:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bee-the-best/set/97132755/</loc>
-  <lastmod>2025-12-06T22:10:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/837609/image-61b1d0bd5d24c35012548c66b87acf58.png
-    </video:thumbnail_loc>
-    <video:title>
-      WillDaBeast vs Hollow, Bee The Best - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WillDaBeast vs Hollow in Winners Quarter-Final of Bee The Best, streamed by raviannn
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637042885&amp;t=3h51m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>778</video:duration>
-    <video:publication_date>2025-12-06T21:53:58.000Z</video:publication_date>
-    <video:uploader>raviannn</video:uploader>
-    <video:expiration_date>2025-12-14T21:53:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
