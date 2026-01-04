@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856877/</loc>
-  <lastmod>2026-01-04T15:31:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856879/</loc>
+  <lastmod>2026-01-04T15:46:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866272/image-2521096136616e21d3afa875a4e47fd1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lannoé vs ASK | SU | Phendra, MJV #75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lannoé vs ASK | SU | Phendra in Winners Final of MJV #75, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660958297&amp;t=2h13m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>245</video:duration>
+    <video:publication_date>2026-01-04T15:46:04.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-12T15:46:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fre-ndlies-sind-aus-8-3/set/97856625/</loc>
+  <lastmod>2026-01-04T15:32:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864586/image-b66671479b5a01143225ebb6fecb8c97.png
+    </video:thumbnail_loc>
+    <video:title>
+      FRE | K Kouga vs ViA | Xenomorph, FRE.ndlies sind aus #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FRE | K Kouga vs ViA | Xenomorph in Grand Final Reset of FRE.ndlies sind aus #8, streamed by FreiburgeSports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660894599&amp;t=4h8m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1070</video:duration>
+    <video:publication_date>2026-01-04T15:32:19.000Z</video:publication_date>
+    <video:uploader>FreiburgeSports</video:uploader>
+    <video:expiration_date>2026-01-12T15:32:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856877/</loc>
+  <lastmod>2026-01-04T15:46:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2660958297&amp;t=1h59m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>158</video:duration>
+    <video:duration>860</video:duration>
     <video:publication_date>2026-01-04T15:31:23.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-12T15:31:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856878/</loc>
-  <lastmod>2026-01-04T15:09:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866272/image-2521096136616e21d3afa875a4e47fd1.png
-    </video:thumbnail_loc>
-    <video:title>
-      ASK | SU | Phendra vs ARC | Dawn, MJV #75 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ASK | SU | Phendra vs ARC | Dawn in Winners Semi-Final of MJV #75, streamed by TeamAskalonn
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2660958297&amp;t=1h37m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1473</video:duration>
-    <video:publication_date>2026-01-04T15:09:28.000Z</video:publication_date>
-    <video:uploader>TeamAskalonn</video:uploader>
-    <video:expiration_date>2026-01-12T15:09:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +94,30 @@
     <video:publication_date>2026-01-04T15:12:23.000Z</video:publication_date>
     <video:uploader>FreiburgeSports</video:uploader>
     <video:expiration_date>2026-01-12T15:12:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856878/</loc>
+  <lastmod>2026-01-04T15:34:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866272/image-2521096136616e21d3afa875a4e47fd1.png
+    </video:thumbnail_loc>
+    <video:title>
+      ASK | SU | Phendra vs ARC | Dawn, MJV #75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ASK | SU | Phendra vs ARC | Dawn in Winners Semi-Final of MJV #75, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660958297&amp;t=1h37m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1385</video:duration>
+    <video:publication_date>2026-01-04T15:09:28.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-12T15:09:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-19T18:29:14.000Z</video:publication_date>
     <video:uploader>aesulb</video:uploader>
     <video:expiration_date>2025-12-27T18:29:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/area52-2025-ssbu-40/set/97523838/</loc>
-  <lastmod>2025-12-19T18:44:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862406/image-e5fef2c9935bd17597bd74c1f340c8f4.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      plan-B | Sansi vs Blue, Area52 - 2025 - SSBU #40 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch plan-B | Sansi vs Blue in Winners Semi-Final of Area52 - 2025 - SSBU #40, streamed by nicht_sansi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647885211&amp;t=1h29m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1035</video:duration>
-    <video:publication_date>2025-12-19T18:24:30.000Z</video:publication_date>
-    <video:uploader>nicht_sansi</video:uploader>
-    <video:expiration_date>2025-12-27T18:24:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-19-12-2025/set/97523162/</loc>
-  <lastmod>2025-12-19T18:32:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862254/image-db2988fbf6a95621432a804ce3cda440.png
-    </video:thumbnail_loc>
-    <video:title>
-      LC | FAROBRITO vs JotaSB, CitiSmash - 19/12/2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LC | FAROBRITO vs JotaSB in Losers Quarter-Final of CitiSmash - 19/12/2025, streamed by citismash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647843569&amp;t=2h31m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>597</video:duration>
-    <video:publication_date>2025-12-19T18:20:38.000Z</video:publication_date>
-    <video:uploader>citismash</video:uploader>
-    <video:expiration_date>2025-12-27T18:20:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
