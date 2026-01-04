@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856870/</loc>
-  <lastmod>2026-01-04T14:08:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856871/</loc>
+  <lastmod>2026-01-04T14:24:58.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/866272/image-2521096136616e21d3afa875a4e47fd1.png
     </video:thumbnail_loc>
     <video:title>
-      Droopyf vs ASK | SU | Phendra, MJV #75 - Sets on Stream
+      Kalisto vs ARC | Dawn, MJV #75 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Droopyf vs ASK | SU | Phendra in Winners Round 2 of MJV #75, streamed by TeamAskalonn
+      Watch Kalisto vs ARC | Dawn in Winners Round 2 of MJV #75, streamed by TeamAskalonn
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2660958297&amp;t=0h36m6s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2660958297&amp;t=0h52m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>434</video:duration>
-    <video:publication_date>2026-01-04T14:08:28.000Z</video:publication_date>
+    <video:duration>632</video:duration>
+    <video:publication_date>2026-01-04T14:24:58.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
-    <video:expiration_date>2026-01-12T14:08:28.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-12T14:24:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856866/</loc>
+  <lastmod>2026-01-04T14:26:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866272/image-2521096136616e21d3afa875a4e47fd1.png
+    </video:thumbnail_loc>
+    <video:title>
+      POM | OG | Adles vs Nathez, MJV #75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch POM | OG | Adles vs Nathez in Winners Round 2 of MJV #75, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660958297&amp;t=0h43m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>537</video:duration>
+    <video:publication_date>2026-01-04T14:15:40.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-12T14:15:40.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fre-ndlies-sind-aus-8-3/set/97856638/</loc>
-  <lastmod>2026-01-04T14:11:21.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-04T14:30:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2660894599&amp;t=2h47m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>261</video:duration>
+    <video:duration>1075</video:duration>
     <video:publication_date>2026-01-04T14:11:21.000Z</video:publication_date>
     <video:uploader>FreiburgeSports</video:uploader>
     <video:expiration_date>2026-01-12T14:11:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-75/set/97856870/</loc>
+  <lastmod>2026-01-04T14:17:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866272/image-2521096136616e21d3afa875a4e47fd1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Droopyf vs ASK | SU | Phendra, MJV #75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Droopyf vs ASK | SU | Phendra in Winners Round 2 of MJV #75, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2660958297&amp;t=0h36m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>454</video:duration>
+    <video:publication_date>2026-01-04T14:08:28.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-12T14:08:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-19T13:02:43.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2025-12-27T13:02:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/19-348/set/97518747/</loc>
-  <lastmod>2025-12-19T13:03:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860304/image-1cc98122df71b191c8e632d4460b3c4d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      INS | LiiMac vs mimo, 19(金)上野スマコミ#348(オープン) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch INS | LiiMac vs mimo in Losers Final of 19(金)上野スマコミ#348(オープン), streamed by BUZZ e-sports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/7l_IxFlgbtI?start=8581s
-    </video:player_loc>
-    <video:duration>378</video:duration>
-    <video:publication_date>2025-12-19T12:55:38.000Z</video:publication_date>
-    <video:uploader>BUZZ e-sports</video:uploader>
-    <video:expiration_date>2025-12-27T12:55:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/19-348/set/97518746/</loc>
-  <lastmod>2025-12-19T12:56:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860304/image-1cc98122df71b191c8e632d4460b3c4d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      mimo vs ZARIQ, 19(金)上野スマコミ#348(オープン) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch mimo vs ZARIQ in Losers Semi-Final of 19(金)上野スマコミ#348(オープン), streamed by BUZZ e-sports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/7l_IxFlgbtI?start=8138s
-    </video:player_loc>
-    <video:duration>434</video:duration>
-    <video:publication_date>2025-12-19T12:48:15.000Z</video:publication_date>
-    <video:uploader>BUZZ e-sports</video:uploader>
-    <video:expiration_date>2025-12-27T12:48:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
