@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/5-358/set/97874879/</loc>
+  <lastmod>2026-01-05T10:55:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865409/image-239538c08d9ac484186fb0bdac814e9e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      いわや(iwaya) vs PHNM | Ray, 5(月)上野スマコミ#358(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch いわや(iwaya) vs PHNM | Ray in Winners Round 2 of 5(月)上野スマコミ#358(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Ij4uVGRoQoY?start=1341s
+    </video:player_loc>
+    <video:duration>1290</video:duration>
+    <video:publication_date>2026-01-05T10:55:16.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-01-13T10:55:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/zenith-5-2/set/97867926/</loc>
   <lastmod>2026-01-05T02:47:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-20T01:57:58.000Z</video:publication_date>
     <video:uploader>HindsightNE</video:uploader>
     <video:expiration_date>2025-12-28T01:57:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/adventure-b-airs-514/set/97538346/</loc>
-  <lastmod>2025-12-20T02:08:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861765/image-0c02fb6ab02bd696ee08eb6e54eff033.png
-    </video:thumbnail_loc>
-    <video:title>
-      Alo! vs BAE | YBBurrus, Adventure B-Airs #514 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Alo! vs BAE | YBBurrus in Winners Round 3 of Adventure B-Airs #514, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648211926&amp;t=1h47m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2025-12-20T01:57:56.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2025-12-28T01:57:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
