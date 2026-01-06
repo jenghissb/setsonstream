@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=microspacing&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>467</video:duration>
+    <video:duration>2246</video:duration>
     <video:publication_date>2026-01-06T04:44:24.000Z</video:publication_date>
     <video:uploader>microspacing</video:uploader>
     <video:expiration_date>2026-01-14T04:44:24.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-251/set/97889011/</loc>
+  <lastmod>2026-01-06T05:11:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866451/image-d28c5075fcffad470a6dc7ebfebebe5b.png
+    </video:thumbnail_loc>
+    <video:title>
+      PHNM | Frostbyte vs EMU | Symphonies, Movement Smash #251 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PHNM | Frostbyte vs EMU | Symphonies in Losers Final of Movement Smash #251, streamed by MovementEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2662337139&amp;t=3h14m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1227</video:duration>
+    <video:publication_date>2026-01-06T04:49:39.000Z</video:publication_date>
+    <video:uploader>MovementEsports</video:uploader>
+    <video:expiration_date>2026-01-14T04:49:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/t-rough-n-tumble-4/set/97889842/</loc>
-  <lastmod>2026-01-06T04:34:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-06T04:54:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2662410538&amp;t=1h23m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1073</video:duration>
+    <video:duration>1130</video:duration>
     <video:publication_date>2026-01-06T04:34:18.000Z</video:publication_date>
     <video:uploader>troyusmash</video:uploader>
     <video:expiration_date>2026-01-14T04:34:18.000Z</video:expiration_date>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2025-12-20T08:06:18.000Z</video:publication_date>
     <video:uploader>vgbootcamp</video:uploader>
     <video:expiration_date>2025-12-28T08:06:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tripoint-smash-the-finale/set/97551167/</loc>
-  <lastmod>2025-12-20T08:16:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/850279/image-6a1b908d00b2f03e0687e625f1708502.png
-    </video:thumbnail_loc>
-    <video:title>
-      UGS | IceKnight vs ATATA, Tripoint Smash: The Finale - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UGS | IceKnight vs ATATA in Losers Final of Tripoint Smash: The Finale, streamed by ugsgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648253630&amp;t=6h57m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>706</video:duration>
-    <video:publication_date>2025-12-20T08:02:33.000Z</video:publication_date>
-    <video:uploader>ugsgaming</video:uploader>
-    <video:expiration_date>2025-12-28T08:02:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
