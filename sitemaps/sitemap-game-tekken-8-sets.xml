@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-416/set/97889623/</loc>
+  <lastmod>2026-01-06T03:48:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865586/image-7c05d89e8edd74d7dff5d1e05e882bd2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TS | Static vs TS | Lemon and Lime, Downtown Throwdown #416 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TS | Static vs TS | Lemon and Lime in Winners Semi-Final of Downtown Throwdown #416, streamed by KhanmandoFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2662291344&amp;t=2h56m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>444</video:duration>
+    <video:publication_date>2026-01-06T03:37:44.000Z</video:publication_date>
+    <video:uploader>KhanmandoFGC</video:uploader>
+    <video:expiration_date>2026-01-14T03:37:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-416/set/97889611/</loc>
-  <lastmod>2026-01-06T03:07:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-06T03:29:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2662291344&amp;t=2h26m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>357</video:duration>
+    <video:duration>762</video:duration>
     <video:publication_date>2026-01-06T03:07:56.000Z</video:publication_date>
     <video:uploader>KhanmandoFGC</video:uploader>
     <video:expiration_date>2026-01-14T03:07:56.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-12T00:55:28.000Z</video:publication_date>
     <video:uploader>bluesparkmd</video:uploader>
     <video:expiration_date>2025-12-20T00:55:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/blue-spark-rerolled-session-000/set/97278707/</loc>
-  <lastmod>2025-12-12T00:53:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857106/image-5daaaa619f9ae33d95ec1a2afdaff08b.png
-    </video:thumbnail_loc>
-    <video:title>
-      LassySenpai vs Satros, Blue Spark @ Rerolled - Session 000 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LassySenpai vs Satros in Losers Quarter-Final of Blue Spark @ Rerolled - Session 000, streamed by bluesparkmd
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2641488445&amp;t=0h39m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>435</video:duration>
-    <video:publication_date>2025-12-12T00:38:13.000Z</video:publication_date>
-    <video:uploader>bluesparkmd</video:uploader>
-    <video:expiration_date>2025-12-20T00:38:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
