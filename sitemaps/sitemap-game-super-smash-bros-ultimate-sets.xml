@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/drive-impact-45/set/97911646/</loc>
+  <lastmod>2026-01-06T23:14:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865827/image-0f42f7c16f62c3cf1cc4070876b7ab04.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mender vs Sterlo67, Drive Impact #45 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mender vs Sterlo67 in Winners Round 2 of Drive Impact #45, streamed by Drive_IMpact
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663044426&amp;t=0h43m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>605</video:duration>
+    <video:publication_date>2026-01-06T23:04:03.000Z</video:publication_date>
+    <video:uploader>Drive_IMpact</video:uploader>
+    <video:expiration_date>2026-01-14T23:04:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-209/set/97910873/</loc>
-  <lastmod>2026-01-06T22:52:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-06T23:00:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/O0lRcEnYTOI?start=8468s
     </video:player_loc>
-    <video:duration>240</video:duration>
+    <video:duration>416</video:duration>
     <video:publication_date>2026-01-06T22:52:29.000Z</video:publication_date>
     <video:uploader>Smash New Brunswick</video:uploader>
     <video:expiration_date>2026-01-14T22:52:29.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-20T11:23:04.000Z</video:publication_date>
     <video:uploader>phostream</video:uploader>
     <video:expiration_date>2025-12-28T11:23:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/genova-christmas-gauntlet/set/97554991/</loc>
-  <lastmod>2025-12-20T11:34:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858212/image-f39a7cd3d1852d9dc2f2555b1c80e24f.png
-    </video:thumbnail_loc>
-    <video:title>
-      AccelleratoreTriFiammata vs Phoenix, Genova Christmas Gauntlet - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AccelleratoreTriFiammata vs Phoenix in Winners Quarter-Final of Genova Christmas Gauntlet, streamed by smashbrositalia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648549735&amp;t=0h28m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>992</video:duration>
-    <video:publication_date>2025-12-20T11:14:43.000Z</video:publication_date>
-    <video:uploader>smashbrositalia</video:uploader>
-    <video:expiration_date>2025-12-28T11:14:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
