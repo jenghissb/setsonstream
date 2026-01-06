@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-1-saison-3/set/97909046/</loc>
-  <lastmod>2026-01-06T20:29:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-1-saison-3/set/97909047/</loc>
+  <lastmod>2026-01-06T20:45:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866189/image-d30b960e7f3eb8312a821856f5a8dcb7.png
+    </video:thumbnail_loc>
+    <video:title>
+      ECR BLS | Slacker vs BLS | Aspifouette, Bloom #1 - Saison 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ECR BLS | Slacker vs BLS | Aspifouette in Winners Semi-Final of Bloom #1 - Saison 3, streamed by blossom_ssb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2662849144&amp;t=2h38m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>550</video:duration>
+    <video:publication_date>2026-01-06T20:45:42.000Z</video:publication_date>
+    <video:uploader>blossom_ssb</video:uploader>
+    <video:expiration_date>2026-01-14T20:45:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-1-saison-3/set/97909046/</loc>
+  <lastmod>2026-01-06T20:44:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2662849144&amp;t=2h22m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>948</video:duration>
+    <video:duration>873</video:duration>
     <video:publication_date>2026-01-06T20:29:26.000Z</video:publication_date>
     <video:uploader>blossom_ssb</video:uploader>
     <video:expiration_date>2026-01-14T20:29:26.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-224/set/97902797/</loc>
-  <lastmod>2026-01-06T20:24:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-06T20:51:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2662823870&amp;t=2h49m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1218</video:duration>
+    <video:duration>1525</video:duration>
     <video:publication_date>2026-01-06T20:24:56.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2026-01-14T20:24:56.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-20T10:43:08.000Z</video:publication_date>
     <video:uploader>phostream</video:uploader>
     <video:expiration_date>2025-12-28T10:43:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/jurassik-smash-2/set/97553643/</loc>
-  <lastmod>2025-12-20T11:05:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843247/image-d63a47dd2eb95b2059aa3c04c8c3ed4a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mawa2005 vs DOUCHES | Libr&apos;aldi, Jurassik Smash 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mawa2005 vs DOUCHES | Libr&apos;aldi in Winners Round 1 of Jurassik Smash 2, streamed by psi_ades
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648529248&amp;t=0h48m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1471</video:duration>
-    <video:publication_date>2025-12-20T10:38:29.000Z</video:publication_date>
-    <video:uploader>psi_ades</video:uploader>
-    <video:expiration_date>2025-12-28T10:38:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
