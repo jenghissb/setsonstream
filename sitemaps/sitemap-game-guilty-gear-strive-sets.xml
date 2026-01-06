@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-88/set/97880587/</loc>
+  <lastmod>2026-01-06T00:59:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865759/image-08fb642b889aeb9e98f1fb37e21572a5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lightice vs Forced2EatCement, Block String @ Wonderfly #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lightice vs Forced2EatCement in Winners Semi-Final of Block String @ Wonderfly #88, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2662281561&amp;t=0h31m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1189</video:duration>
+    <video:publication_date>2026-01-06T00:59:53.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2026-01-14T00:59:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pfl-galette-des-rois/set/97827732/</loc>
   <lastmod>2026-01-03T13:59:51.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-13T03:06:29.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-12-21T03:06:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/flynn-s-arcade-183/set/97318042/</loc>
-  <lastmod>2025-12-13T03:23:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859788/image-c4314f04f5232cf9013307c6ce025ee5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Rockbrauni-Br vs NIF | Purple, Flynn&apos;s Arcade 183 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rockbrauni-Br vs NIF | Purple in Winners Semi-Final of Flynn&apos;s Arcade 183, streamed by flynnsarcadefl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642477621&amp;t=0h3m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>558</video:duration>
-    <video:publication_date>2025-12-13T03:00:29.000Z</video:publication_date>
-    <video:uploader>flynnsarcadefl</video:uploader>
-    <video:expiration_date>2025-12-21T03:00:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
