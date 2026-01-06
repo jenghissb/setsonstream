@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/teksmash-29/set/97899910/</loc>
+  <lastmod>2026-01-06T17:39:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866097/image-10eba1aec71f981f970d4e5f9c873771.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      DOULDOF vs ABG | Mickjeagle, TekSmash #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DOULDOF vs ABG | Mickjeagle in Winners Round 1 of TekSmash #29, streamed by originalssbu
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2662812762&amp;t=0h3m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>969</video:duration>
+    <video:publication_date>2026-01-06T17:22:16.000Z</video:publication_date>
+    <video:uploader>originalssbu</video:uploader>
+    <video:expiration_date>2026-01-14T17:22:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-251/set/97889011/</loc>
   <lastmod>2026-01-06T05:11:02.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-20T08:13:45.000Z</video:publication_date>
     <video:uploader>彩-aya-</video:uploader>
     <video:expiration_date>2025-12-28T08:13:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vertex-style/set/97550783/</loc>
-  <lastmod>2025-12-20T08:27:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/838777/image-641a2efc45e0889c0a278b571e2b8620.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ゴリオカ(gorioka) vs サンコッツ(sankottsu), Vertex Style - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ゴリオカ(gorioka) vs サンコッツ(sankottsu) in Losers Round 1 of Vertex Style, streamed by vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648325839&amp;t=5h23m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1164</video:duration>
-    <video:publication_date>2025-12-20T08:06:18.000Z</video:publication_date>
-    <video:uploader>vgbootcamp</video:uploader>
-    <video:expiration_date>2025-12-28T08:06:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
