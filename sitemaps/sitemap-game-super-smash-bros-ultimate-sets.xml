@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/drive-impact-45/set/97911626/</loc>
+  <lastmod>2026-01-06T23:30:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865827/image-0f42f7c16f62c3cf1cc4070876b7ab04.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tybo vs Wiigi, Drive Impact #45 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tybo vs Wiigi in Winners Round 1 of Drive Impact #45, streamed by Drive_IMpact
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663044426&amp;t=0h56m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>729</video:duration>
+    <video:publication_date>2026-01-06T23:17:11.000Z</video:publication_date>
+    <video:uploader>Drive_IMpact</video:uploader>
+    <video:expiration_date>2026-01-14T23:17:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/drive-impact-45/set/97911646/</loc>
   <lastmod>2026-01-06T23:14:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-20T11:23:55.000Z</video:publication_date>
     <video:uploader>SmashHannover</video:uploader>
     <video:expiration_date>2025-12-28T11:23:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-jacquard-2-0/set/97554066/</loc>
-  <lastmod>2025-12-20T11:45:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858083/image-c554d39cc77bc85552fdd2f6d01a39d0.png
-    </video:thumbnail_loc>
-    <video:title>
-      R-B | PHOCHIEN vs OX | RCBE | Kuze, Smash Jacquard 2.0 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch R-B | PHOCHIEN vs OX | RCBE | Kuze in Winners Quarter-Final of Smash Jacquard 2.0, streamed by phostream
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648528015&amp;t=1h37m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1197</video:duration>
-    <video:publication_date>2025-12-20T11:23:04.000Z</video:publication_date>
-    <video:uploader>phostream</video:uploader>
-    <video:expiration_date>2025-12-28T11:23:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
