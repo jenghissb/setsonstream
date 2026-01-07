@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-122/set/97930908/</loc>
-  <lastmod>2026-01-07T20:29:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-chaudron-54-le-retour/set/97931180/</loc>
+  <lastmod>2026-01-07T20:47:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865019/image-1445c97bf25e3bbc8ee6cbcbf4d298b1.png
+    </video:thumbnail_loc>
+    <video:title>
+      DEH | Lucho vs Lenni, Le Chaudron #54 - Le RETOUR ? - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DEH | Lucho vs Lenni in Grand Final of Le Chaudron #54 - Le RETOUR ?, streamed by OmniscienteSport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=OmniscienteSport&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1758</video:duration>
+    <video:publication_date>2026-01-07T20:47:40.000Z</video:publication_date>
+    <video:uploader>OmniscienteSport</video:uploader>
+    <video:expiration_date>2026-01-15T20:47:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-122/set/97930909/</loc>
+  <lastmod>2026-01-07T20:54:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,48 +34,24 @@
       https://images.start.gg/images/tournament/866457/image-d3dd9f7a65112553c20fa4ef1ccd76dd.png
     </video:thumbnail_loc>
     <video:title>
-      EDC | Spectral vs ?! | Belaf !, D-LAY #122 - Sets on Stream
+      11h07 | V A L D vs EDC | Astral, D-LAY #122 - Sets on Stream
     </video:title>
     <video:description>
-      Watch EDC | Spectral vs ?! | Belaf ! in Winners Semi-Final of D-LAY #122, streamed by asso_grab
+      Watch 11h07 | V A L D vs EDC | Astral in Winners Semi-Final of D-LAY #122, streamed by asso_grab
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2663757587&amp;t=1h24m46s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2663852410&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1066</video:duration>
-    <video:publication_date>2026-01-07T20:29:31.000Z</video:publication_date>
+    <video:duration>1367</video:duration>
+    <video:publication_date>2026-01-07T20:54:11.000Z</video:publication_date>
     <video:uploader>asso_grab</video:uploader>
-    <video:expiration_date>2026-01-15T20:29:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sourspot-24/set/97929737/</loc>
-  <lastmod>2026-01-07T20:33:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866534/image-db6746dac596c631db3ab17d059bb08a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yukinato vs Morgana, SourSpot #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yukinato vs Morgana in Grand Final of SourSpot #24, streamed by sweetspotva
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2663720085&amp;t=2h15m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>854</video:duration>
-    <video:publication_date>2026-01-07T20:33:03.000Z</video:publication_date>
-    <video:uploader>sweetspotva</video:uploader>
-    <video:expiration_date>2026-01-15T20:33:03.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-15T20:54:11.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lucy-61-weekly-1/set/97930439/</loc>
-  <lastmod>2026-01-07T20:39:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-07T20:54:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,58 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2663730449&amp;t=2h7m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>469</video:duration>
+    <video:duration>871</video:duration>
     <video:publication_date>2026-01-07T20:39:28.000Z</video:publication_date>
     <video:uploader>LucyEsports</video:uploader>
     <video:expiration_date>2026-01-15T20:39:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sourspot-24/set/97929737/</loc>
+  <lastmod>2026-01-07T20:52:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866534/image-db6746dac596c631db3ab17d059bb08a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yukinato vs Morgana, SourSpot #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yukinato vs Morgana in Grand Final of SourSpot #24, streamed by sweetspotva
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663720085&amp;t=2h15m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1098</video:duration>
+    <video:publication_date>2026-01-07T20:33:03.000Z</video:publication_date>
+    <video:uploader>sweetspotva</video:uploader>
+    <video:expiration_date>2026-01-15T20:33:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-122/set/97930908/</loc>
+  <lastmod>2026-01-07T20:54:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866457/image-d3dd9f7a65112553c20fa4ef1ccd76dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      EDC | Spectral vs ?! | Belaf !, D-LAY #122 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EDC | Spectral vs ?! | Belaf ! in Winners Semi-Final of D-LAY #122, streamed by asso_grab
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663757587&amp;t=1h24m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1469</video:duration>
+    <video:publication_date>2026-01-07T20:29:31.000Z</video:publication_date>
+    <video:uploader>asso_grab</video:uploader>
+    <video:expiration_date>2026-01-15T20:29:31.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2025-12-20T20:19:48.000Z</video:publication_date>
     <video:uploader>clashtournaments</video:uploader>
     <video:expiration_date>2025-12-28T20:19:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/birmingham-brawl-10/set/97577799/</loc>
-  <lastmod>2025-12-20T20:31:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858178/image-8d6951a90178835611c6346e355c60cf.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DDC | Jesse vs Bewareme428, Birmingham Brawl #10 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DDC | Jesse vs Bewareme428 in Winners Round 2 of Birmingham Brawl #10, streamed by UABSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648899900&amp;t=0h13m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>617</video:duration>
-    <video:publication_date>2025-12-20T20:18:25.000Z</video:publication_date>
-    <video:uploader>UABSmash</video:uploader>
-    <video:expiration_date>2025-12-28T20:18:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
