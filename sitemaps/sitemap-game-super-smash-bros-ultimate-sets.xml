@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-187-smash-bros-ultimate/set/97932616/</loc>
-  <lastmod>2026-01-07T22:38:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-122/set/97930911/</loc>
+  <lastmod>2026-01-07T22:47:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866457/image-d3dd9f7a65112553c20fa4ef1ccd76dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      EDC | Astral vs ?! | Belaf !, D-LAY #122 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EDC | Astral vs ?! | Belaf ! in Grand Final of D-LAY #122, streamed by asso_grab
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=asso_grab&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>537</video:duration>
+    <video:publication_date>2026-01-07T22:47:09.000Z</video:publication_date>
+    <video:uploader>asso_grab</video:uploader>
+    <video:expiration_date>2026-01-15T22:47:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/not-dm-187-smash-bros-ultimate/set/97932616/</loc>
+  <lastmod>2026-01-07T22:55:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2663893563&amp;t=0h35m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>375</video:duration>
+    <video:duration>928</video:duration>
     <video:publication_date>2026-01-07T22:38:46.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2026-01-15T22:38:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-122/set/97930974/</loc>
-  <lastmod>2026-01-07T22:20:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866457/image-d3dd9f7a65112553c20fa4ef1ccd76dd.png
-    </video:thumbnail_loc>
-    <video:title>
-      ?! | Belaf ! vs EDC | Spectral, D-LAY #122 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ?! | Belaf ! vs EDC | Spectral in Losers Final of D-LAY #122, streamed by asso_grab
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=asso_grab&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1491</video:duration>
-    <video:publication_date>2026-01-07T22:20:10.000Z</video:publication_date>
-    <video:uploader>asso_grab</video:uploader>
-    <video:expiration_date>2026-01-15T22:20:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +70,30 @@
     <video:publication_date>2026-01-07T22:22:39.000Z</video:publication_date>
     <video:uploader>walito_tv</video:uploader>
     <video:expiration_date>2026-01-15T22:22:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-122/set/97930974/</loc>
+  <lastmod>2026-01-07T22:47:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866457/image-d3dd9f7a65112553c20fa4ef1ccd76dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      ?! | Belaf ! vs EDC | Spectral, D-LAY #122 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ?! | Belaf ! vs EDC | Spectral in Losers Final of D-LAY #122, streamed by asso_grab
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663852410&amp;t=1h14m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1615</video:duration>
+    <video:publication_date>2026-01-07T22:20:10.000Z</video:publication_date>
+    <video:uploader>asso_grab</video:uploader>
+    <video:expiration_date>2026-01-15T22:20:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
