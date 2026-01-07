@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-222-taking-on-the-new-year-with-some-zeal/set/97921252/</loc>
+  <lastmod>2026-01-07T02:56:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866431/image-4eab0523e91bac4702ae4d52047201f2.png
+    </video:thumbnail_loc>
+    <video:title>
+      YoKai | Etholux vs VeganRoastedTurkey, CFG Tuesday Trials 222: Taking On The New Year With Some Zeal! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YoKai | Etholux vs VeganRoastedTurkey in Winners Semi-Final of CFG Tuesday Trials 222: Taking On The New Year With Some Zeal!, streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663104823&amp;t=3h14m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1037</video:duration>
+    <video:publication_date>2026-01-07T02:56:50.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2026-01-15T02:56:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-fight-night-233/set/97881188/</loc>
   <lastmod>2026-01-06T02:35:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-13T04:00:30.000Z</video:publication_date>
     <video:uploader>flynnsarcadefl</video:uploader>
     <video:expiration_date>2025-12-21T04:00:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/flynn-s-arcade-183/set/97318059/</loc>
-  <lastmod>2025-12-13T04:01:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859788/image-c4314f04f5232cf9013307c6ce025ee5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Rockbrauni-Br vs NIF | Purple, Flynn&apos;s Arcade 183 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rockbrauni-Br vs NIF | Purple in Losers Final of Flynn&apos;s Arcade 183, streamed by flynnsarcadefl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642477621&amp;t=0h45m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>552</video:duration>
-    <video:publication_date>2025-12-13T03:42:54.000Z</video:publication_date>
-    <video:uploader>flynnsarcadefl</video:uploader>
-    <video:expiration_date>2025-12-21T03:42:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
