@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/arkade-smash-weekly-264/set/97928779/</loc>
+  <lastmod>2026-01-07T17:04:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867291/image-80514ae3cbf876ad4130cfa8bfffcef7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kass vs Gohenko, Arkade Smash Weekly #264 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kass vs Gohenko in Winners Semi-Final of Arkade Smash Weekly #264, streamed by hakurissb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663626092&amp;t=0h50m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>430</video:duration>
+    <video:publication_date>2026-01-07T16:55:32.000Z</video:publication_date>
+    <video:uploader>hakurissb</video:uploader>
+    <video:expiration_date>2026-01-15T16:55:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-215/set/97928314/</loc>
   <lastmod>2026-01-07T13:25:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-20T19:39:35.000Z</video:publication_date>
     <video:uploader>rpleague</video:uploader>
     <video:expiration_date>2025-12-28T19:39:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/blue-series-3/set/97519403/</loc>
-  <lastmod>2025-12-20T19:41:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858541/image-a7044b800df5e3a7823fcd6c8a1dfe70.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FC | Vidad vs YunaLaPuffa, Blue Series 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FC | Vidad vs YunaLaPuffa in Winners Final of Blue Series 3, streamed by rpleague
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648537958&amp;t=9h23m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>97</video:duration>
-    <video:publication_date>2025-12-20T19:37:00.000Z</video:publication_date>
-    <video:uploader>rpleague</video:uploader>
-    <video:expiration_date>2025-12-28T19:37:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
