@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-chaudron-54-le-retour/set/97929561/</loc>
-  <lastmod>2026-01-07T18:17:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-chaudron-54-le-retour/set/97929571/</loc>
+  <lastmod>2026-01-07T18:52:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,96 @@
       https://images.start.gg/images/tournament/865019/image-1445c97bf25e3bbc8ee6cbcbf4d298b1.png
     </video:thumbnail_loc>
     <video:title>
-      Djacky vs OPCF/DEH | Crush, Le Chaudron #54 - Le RETOUR ? - Sets on Stream
+      DEH | Furydrack vs DEH | Chrono, Le Chaudron #54 - Le RETOUR ? - Sets on Stream
     </video:title>
     <video:description>
-      Watch Djacky vs OPCF/DEH | Crush in Winners Round 2 of Le Chaudron #54 - Le RETOUR ?, streamed by OmniscienteSport
+      Watch DEH | Furydrack vs DEH | Chrono in Winners Quarter-Final of Le Chaudron #54 - Le RETOUR ?, streamed by OmniscienteSport
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=OmniscienteSport&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>551</video:duration>
-    <video:publication_date>2026-01-07T18:17:55.000Z</video:publication_date>
+    <video:duration>211</video:duration>
+    <video:publication_date>2026-01-07T18:52:44.000Z</video:publication_date>
     <video:uploader>OmniscienteSport</video:uploader>
-    <video:expiration_date>2026-01-15T18:17:55.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-15T18:52:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sourspot-24/set/97929730/</loc>
+  <lastmod>2026-01-07T18:46:35.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866534/image-db6746dac596c631db3ab17d059bb08a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yukinato vs SwS | IRAW, SourSpot #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yukinato vs SwS | IRAW in Winners Quarter-Final of SourSpot #24, streamed by sweetspotva
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663720085&amp;t=0h28m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>580</video:duration>
+    <video:publication_date>2026-01-07T18:46:35.000Z</video:publication_date>
+    <video:uploader>sweetspotva</video:uploader>
+    <video:expiration_date>2026-01-15T18:46:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/l-orl-anoise-195/set/97929674/</loc>
+  <lastmod>2026-01-07T18:54:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865863/image-d576f2f19f3f0e1ba33c4be5af0ba872.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NEP | NFO | Donut vs Graou, L&apos;Orléanoise #195 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NEP | NFO | Donut vs Graou in Winners Final of L&apos;Orléanoise #195, streamed by Smash_DArc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663685651&amp;t=1h5m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>916</video:duration>
+    <video:publication_date>2026-01-07T18:38:22.000Z</video:publication_date>
+    <video:uploader>Smash_DArc</video:uploader>
+    <video:expiration_date>2026-01-15T18:38:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sourspot-24/set/97929733/</loc>
+  <lastmod>2026-01-07T18:47:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866534/image-db6746dac596c631db3ab17d059bb08a.png
+    </video:thumbnail_loc>
+    <video:title>
+      LGS | breuah vs LGS | Hervine, SourSpot #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LGS | breuah vs LGS | Hervine in Winners Quarter-Final of SourSpot #24, streamed by sweetspotva
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663720085&amp;t=0h16m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>741</video:duration>
+    <video:publication_date>2026-01-07T18:34:08.000Z</video:publication_date>
+    <video:uploader>sweetspotva</video:uploader>
+    <video:expiration_date>2026-01-15T18:34:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sourspot-24/set/97929727/</loc>
-  <lastmod>2026-01-07T18:18:20.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-07T18:33:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +114,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2663720085&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>526</video:duration>
+    <video:duration>846</video:duration>
     <video:publication_date>2026-01-07T18:18:20.000Z</video:publication_date>
     <video:uploader>sweetspotva</video:uploader>
     <video:expiration_date>2026-01-15T18:18:20.000Z</video:expiration_date>
@@ -71950,78 +72022,6 @@
     <video:publication_date>2025-12-20T19:45:53.000Z</video:publication_date>
     <video:uploader>SmashHannover</video:uploader>
     <video:expiration_date>2025-12-28T19:45:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/genova-christmas-gauntlet/set/97567459/</loc>
-  <lastmod>2025-12-20T21:47:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858212/image-f39a7cd3d1852d9dc2f2555b1c80e24f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Meercko vs TP | Burzof, Genova Christmas Gauntlet - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Meercko vs TP | Burzof in Losers Semi-Final of Genova Christmas Gauntlet, streamed by smashbrositalia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648586430&amp;t=7h34m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2025-12-20T19:45:27.000Z</video:publication_date>
-    <video:uploader>smashbrositalia</video:uploader>
-    <video:expiration_date>2025-12-28T19:45:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tko-25-the-big-one/set/97574803/</loc>
-  <lastmod>2025-12-20T19:56:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855715/image-e42ecdaebe52b9d6162f8c91e5d70b4d.png
-    </video:thumbnail_loc>
-    <video:title>
-      ToffeeCG vs Arcturus, TKO!!!#25: The Big One - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ToffeeCG vs Arcturus in Winners Round 2 of TKO!!!#25: The Big One, streamed by HindsightNE
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648783297&amp;t=2h7m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>569</video:duration>
-    <video:publication_date>2025-12-20T19:45:11.000Z</video:publication_date>
-    <video:uploader>HindsightNE</video:uploader>
-    <video:expiration_date>2025-12-28T19:45:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/all-mighty-43/set/97571129/</loc>
-  <lastmod>2025-12-20T20:10:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859995/image-0e81f3dd9beb347ac6bb8d5476a5ca75.png
-    </video:thumbnail_loc>
-    <video:title>
-      NGC | Cizs vs NGC | Swiftness, All Mighty 43 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NGC | Cizs vs NGC | Swiftness in Winners Quarter-Final of All Mighty 43, streamed by TMT_Smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648673423&amp;t=4h50m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1343</video:duration>
-    <video:publication_date>2025-12-20T19:45:02.000Z</video:publication_date>
-    <video:uploader>TMT_Smash</video:uploader>
-    <video:expiration_date>2025-12-28T19:45:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
