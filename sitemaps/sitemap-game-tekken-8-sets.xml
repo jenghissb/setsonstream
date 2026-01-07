@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-87-norcal-2xko-tekken-weekly/set/97925683/</loc>
-  <lastmod>2026-01-07T05:15:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-87-norcal-2xko-tekken-weekly/set/97925668/</loc>
+  <lastmod>2026-01-07T05:31:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866608/image-6b126c863327c75655ec8d7caf27aeef.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Paul Z vs Red9, Guildhouse Tuesday 87 - Norcal 2XKO &amp; Tekken weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Paul Z vs Red9 in Grand Final of Guildhouse Tuesday 87 - Norcal 2XKO &amp; Tekken weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663308460&amp;t=1h33m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1055</video:duration>
+    <video:publication_date>2026-01-07T05:31:00.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-01-15T05:31:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-87-norcal-2xko-tekken-weekly/set/97925683/</loc>
+  <lastmod>2026-01-07T05:36:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2663308460&amp;t=1h18m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>419</video:duration>
+    <video:duration>920</video:duration>
     <video:publication_date>2026-01-07T05:15:38.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-01-15T05:15:38.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-13T02:24:21.000Z</video:publication_date>
     <video:uploader>unrivaledtournaments</video:uploader>
     <video:expiration_date>2025-12-21T02:24:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-200-t8-weekly-200-pot-bonus/set/97289077/</loc>
-  <lastmod>2025-12-12T07:33:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853348/image-d72fc4799fe11aea2ea173ceba9fe855.png
-    </video:thumbnail_loc>
-    <video:title>
-      Acumajor vs tommyp, Tech City Tekken #200 - T8 Weekly/$200 POT BONUS - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Acumajor vs tommyp in Winners Final of Tech City Tekken #200 - T8 Weekly/$200 POT BONUS, streamed by CapsuleEntertainment
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2641704867&amp;t=1h50m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1458</video:duration>
-    <video:publication_date>2025-12-12T07:02:32.000Z</video:publication_date>
-    <video:uploader>CapsuleEntertainment</video:uploader>
-    <video:expiration_date>2025-12-20T07:02:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
