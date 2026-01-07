@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/new-game-plus-revival-9-10/set/97918835/</loc>
+  <lastmod>2026-01-07T01:06:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865957/image-e8e9a591566610d241906851e0c0c947.png
+    </video:thumbnail_loc>
+    <video:title>
+      Abel vs hc | kraft, New Game Plus Revival 9.10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Abel vs hc | kraft in Winners Round 3 of New Game Plus Revival 9.10, streamed by meleeboston
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2663081608&amp;t=1h55m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>761</video:duration>
+    <video:publication_date>2026-01-07T01:06:55.000Z</video:publication_date>
+    <video:uploader>meleeboston</video:uploader>
+    <video:expiration_date>2026-01-15T01:06:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-40-jump-in/set/97892003/</loc>
   <lastmod>2026-01-06T08:14:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-07T08:27:11.000Z</video:publication_date>
     <video:uploader>VGBootcamp</video:uploader>
     <video:expiration_date>2025-12-15T08:27:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nounsvitational-2025-tokyo/set/97136709/</loc>
-  <lastmod>2025-12-07T08:19:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852604/image-5a0e7d892eb2bd1a6f4020a644f1481f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tempo | Axe vs SDJ, Nounsvitational 2025 Tokyo - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tempo | Axe vs SDJ in Losers Round 2 of Nounsvitational 2025 Tokyo, streamed by VGBootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637460716&amp;t=4h41m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1424</video:duration>
-    <video:publication_date>2025-12-07T07:53:01.000Z</video:publication_date>
-    <video:uploader>VGBootcamp</video:uploader>
-    <video:expiration_date>2025-12-15T07:53:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
