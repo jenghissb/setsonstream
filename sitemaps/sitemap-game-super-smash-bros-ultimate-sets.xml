@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-144-maesuma-hit-144-1/set/97953538/</loc>
-  <lastmod>2026-01-08T11:13:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-144-maesuma-hit-144-1/set/97953539/</loc>
+  <lastmod>2026-01-08T11:37:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866765/image-7dde8f84de703cfbf429d6931ccf9277.png
+    </video:thumbnail_loc>
+    <video:title>
+      E36 | Hurt vs ス | スノー(su | sunoo), マエスマ&apos;HIT#144 / Maesuma&apos;HIT#144 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch E36 | Hurt vs ス | スノー(su | sunoo) in Winners Final of マエスマ&apos;HIT#144 / Maesuma&apos;HIT#144, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/nfU3R8czwb0?start=6240s
+    </video:player_loc>
+    <video:duration>261</video:duration>
+    <video:publication_date>2026-01-08T11:37:33.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2026-01-16T11:37:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-144-maesuma-hit-144-1/set/97953538/</loc>
+  <lastmod>2026-01-08T11:36:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/nfU3R8czwb0?start=4800s
     </video:player_loc>
-    <video:duration>290</video:duration>
+    <video:duration>1339</video:duration>
     <video:publication_date>2026-01-08T11:13:33.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2026-01-16T11:13:33.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-20T23:50:58.000Z</video:publication_date>
     <video:uploader>UABSmash</video:uploader>
     <video:expiration_date>2025-12-28T23:50:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/icebreaker-ii/set/97590177/</loc>
-  <lastmod>2025-12-21T00:05:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/788908/image-23b998439434f25930271746c274a80b.png
-    </video:thumbnail_loc>
-    <video:title>
-      EDLN | Salt King vs FRKS | FUG | Cheeks, ICEBREAKER II - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDLN | Salt King vs FRKS | FUG | Cheeks in Round 3 of ICEBREAKER II, streamed by leeroysesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648873711&amp;t=4h15m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>726</video:duration>
-    <video:publication_date>2025-12-20T23:48:46.000Z</video:publication_date>
-    <video:uploader>leeroysesports</video:uploader>
-    <video:expiration_date>2025-12-28T23:48:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
