@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-207-norcal-ssbu-gbvsr-ggst/set/97949676/</loc>
+  <lastmod>2026-01-08T05:08:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866612/image-20f58aebf93034fdc1f4b1cc09ae969d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SJSU | Brone vs Draken, Guildhouse Weekly 207 - Norcal SSBU, GBVSR &amp; GGST - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SJSU | Brone vs Draken in Grand Final of Guildhouse Weekly 207 - Norcal SSBU, GBVSR &amp; GGST, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2664162357&amp;t=1h7m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>651</video:duration>
+    <video:publication_date>2026-01-08T04:55:47.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-01-16T04:55:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-207-norcal-ssbu-gbvsr-ggst/set/97949691/</loc>
-  <lastmod>2026-01-08T04:45:35.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-08T04:59:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2664162357&amp;t=0h57m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>373</video:duration>
+    <video:duration>599</video:duration>
     <video:publication_date>2026-01-08T04:45:35.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-01-16T04:45:35.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-13T23:34:10.000Z</video:publication_date>
     <video:uploader>northcountyfgc</video:uploader>
     <video:expiration_date>2025-12-21T23:34:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-26/set/97352664/</loc>
-  <lastmod>2025-12-13T21:17:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835966/image-70a281fe604b0bba427b1cddef2f9b6c.png
-    </video:thumbnail_loc>
-    <video:title>
-      CCWESMONEY | VeganRoastedTurkey vs AxlDLowest, Tension x Shift 26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CCWESMONEY | VeganRoastedTurkey vs AxlDLowest in Round 5 of Tension x Shift 26, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643019343&amp;t=1h54m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>411</video:duration>
-    <video:publication_date>2025-12-13T20:59:19.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-12-21T20:59:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
