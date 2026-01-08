@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-207-norcal-ssbu-gbvsr-ggst/set/97949673/</loc>
-  <lastmod>2026-01-08T04:02:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-207-norcal-ssbu-gbvsr-ggst/set/97949691/</loc>
+  <lastmod>2026-01-08T04:45:35.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866612/image-20f58aebf93034fdc1f4b1cc09ae969d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Draken vs FROG | Squid!, Guildhouse Weekly 207 - Norcal SSBU, GBVSR &amp; GGST - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Draken vs FROG | Squid! in Losers Final of Guildhouse Weekly 207 - Norcal SSBU, GBVSR &amp; GGST, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2664162357&amp;t=0h57m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>373</video:duration>
+    <video:publication_date>2026-01-08T04:45:35.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-01-16T04:45:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-207-norcal-ssbu-gbvsr-ggst/set/97949673/</loc>
+  <lastmod>2026-01-08T04:26:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2664162357&amp;t=0h14m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>484</video:duration>
+    <video:duration>913</video:duration>
     <video:publication_date>2026-01-08T04:02:53.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-01-16T04:02:53.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-13T20:59:19.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2025-12-21T20:59:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tension-x-shift-26/set/97352660/</loc>
-  <lastmod>2025-12-13T21:05:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/835966/image-70a281fe604b0bba427b1cddef2f9b6c.png
-    </video:thumbnail_loc>
-    <video:title>
-      QUIZNOS | mooni vs CCWESMONEY | VeganRoastedTurkey, Tension x Shift 26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch QUIZNOS | mooni vs CCWESMONEY | VeganRoastedTurkey in Round 4 of Tension x Shift 26, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643019343&amp;t=1h42m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>653</video:duration>
-    <video:publication_date>2025-12-13T20:46:38.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2025-12-21T20:46:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
