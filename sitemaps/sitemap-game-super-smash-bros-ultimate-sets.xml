@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pyro-series-32/set/97993474/</loc>
-  <lastmod>2026-01-09T21:35:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pyro-series-32/set/97993505/</loc>
+  <lastmod>2026-01-09T21:48:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866454/image-e4ca6b5f44990e3f37df22e608e71aa2.png
+    </video:thumbnail_loc>
+    <video:title>
+      OX | Pipibox vs True | Marsh, Pyro Series #32 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OX | Pipibox vs True | Marsh in Losers Semi-Final of Pyro Series #32, streamed by rocalys_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665450530&amp;t=3h40m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>234</video:duration>
+    <video:publication_date>2026-01-09T21:48:04.000Z</video:publication_date>
+    <video:uploader>rocalys_esport</video:uploader>
+    <video:expiration_date>2026-01-17T21:48:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pyro-series-32/set/97993474/</loc>
+  <lastmod>2026-01-09T21:49:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2665450530&amp;t=3h28m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>396</video:duration>
+    <video:duration>754</video:duration>
     <video:publication_date>2026-01-09T21:35:21.000Z</video:publication_date>
     <video:uploader>rocalys_esport</video:uploader>
     <video:expiration_date>2026-01-17T21:35:21.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-22T01:23:16.000Z</video:publication_date>
     <video:uploader>KMLTournaments</video:uploader>
     <video:expiration_date>2025-12-30T01:23:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/midgard-mayhem-13-300-pot-bonus/set/97631195/</loc>
-  <lastmod>2025-12-22T01:37:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856600/image-bba6c2f6dc19124a9260059cdd4f2cba.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nya! | aWx5 | Dreamless vs Weeblewobs, Midgard Mayhem #13 ($300 Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nya! | aWx5 | Dreamless vs Weeblewobs in Losers Quarter-Final of Midgard Mayhem #13 ($300 Pot Bonus), streamed by csuvikes_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2649704881&amp;t=6h20m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>734</video:duration>
-    <video:publication_date>2025-12-22T01:22:18.000Z</video:publication_date>
-    <video:uploader>csuvikes_gg</video:uploader>
-    <video:expiration_date>2025-12-30T01:22:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
