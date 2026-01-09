@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991520/</loc>
-  <lastmod>2026-01-09T19:27:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991519/</loc>
+  <lastmod>2026-01-09T19:44:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843248/image-a6aa87e1d2be5763b1f1969e91cdff48.png
+    </video:thumbnail_loc>
+    <video:title>
+      Baggy vs Hartigan, SmashDown : Double or Nothing - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Baggy vs Hartigan in Losers Round 3 of SmashDown : Double or Nothing, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665522874&amp;t=0h8m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>373</video:duration>
+    <video:publication_date>2026-01-09T19:44:12.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-17T19:44:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991520/</loc>
+  <lastmod>2026-01-09T19:47:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2665516304&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>727</video:duration>
+    <video:duration>1039</video:duration>
     <video:publication_date>2026-01-09T19:27:52.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-17T19:27:52.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-19T01:45:54.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2025-12-27T01:45:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-25/set/97504582/</loc>
-  <lastmod>2025-12-19T02:01:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860830/image-40565f0cfded893b509fea728604e37a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CC | Steven2brazu vs ZYN || CC | BDC, Fight for the Aux #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CC | Steven2brazu vs ZYN || CC | BDC in Winners Quarter-Final of Fight for the Aux #25, streamed by fightfortheauxky
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647406131&amp;t=0h54m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1147</video:duration>
-    <video:publication_date>2025-12-19T01:37:25.000Z</video:publication_date>
-    <video:uploader>fightfortheauxky</video:uploader>
-    <video:expiration_date>2025-12-27T01:37:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
