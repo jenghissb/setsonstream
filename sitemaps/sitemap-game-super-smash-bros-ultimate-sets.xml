@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pyro-series-32/set/97993505/</loc>
-  <lastmod>2026-01-09T21:48:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/green-door-smash-177/set/97994923/</loc>
+  <lastmod>2026-01-09T22:08:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866215/image-bdebcd81b321882660c5a59547b20dcf.png
+    </video:thumbnail_loc>
+    <video:title>
+      M1das vs Monke_07, Green Door Smash #177 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch M1das vs Monke_07 in Winners Round 1 of Green Door Smash #177, streamed by SSBTheode
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=SSBTheode&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>517</video:duration>
+    <video:publication_date>2026-01-09T22:08:55.000Z</video:publication_date>
+    <video:uploader>SSBTheode</video:uploader>
+    <video:expiration_date>2026-01-17T22:08:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pyro-series-32/set/97993506/</loc>
+  <lastmod>2026-01-09T22:07:10.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866454/image-e4ca6b5f44990e3f37df22e608e71aa2.png
+    </video:thumbnail_loc>
+    <video:title>
+      ATC True | Bizaute vs True | Marsh, Pyro Series #32 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ATC True | Bizaute vs True | Marsh in Losers Final of Pyro Series #32, streamed by rocalys_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665450530&amp;t=3h59m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>622</video:duration>
+    <video:publication_date>2026-01-09T22:07:10.000Z</video:publication_date>
+    <video:uploader>rocalys_esport</video:uploader>
+    <video:expiration_date>2026-01-17T22:07:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pyro-series-32/set/97993505/</loc>
+  <lastmod>2026-01-09T22:07:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2665450530&amp;t=3h40m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>234</video:duration>
+    <video:duration>1141</video:duration>
     <video:publication_date>2026-01-09T21:48:04.000Z</video:publication_date>
     <video:uploader>rocalys_esport</video:uploader>
     <video:expiration_date>2026-01-17T21:48:04.000Z</video:expiration_date>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2025-12-22T01:23:59.000Z</video:publication_date>
     <video:uploader>smashchester</video:uploader>
     <video:expiration_date>2025-12-30T01:23:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-kml-holiday-special-2025/set/97624482/</loc>
-  <lastmod>2025-12-22T02:01:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852255/image-d2dcc4643e4cb0af70ada1bb8359f64d.png
-    </video:thumbnail_loc>
-    <video:title>
-      KML | Glory vs MBS | Squidplumber, The KML Holiday Special 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KML | Glory vs MBS | Squidplumber in Losers Semi-Final of The KML Holiday Special 2025, streamed by KMLTournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2649588716&amp;t=8h55m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2181</video:duration>
-    <video:publication_date>2025-12-22T01:23:16.000Z</video:publication_date>
-    <video:uploader>KMLTournaments</video:uploader>
-    <video:expiration_date>2025-12-30T01:23:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
