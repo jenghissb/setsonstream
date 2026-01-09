@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991522/</loc>
-  <lastmod>2026-01-09T19:58:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991524/</loc>
+  <lastmod>2026-01-09T20:25:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843248/image-a6aa87e1d2be5763b1f1969e91cdff48.png
+    </video:thumbnail_loc>
+    <video:title>
+      R-Dash | Jika vs R-Dash | Eleos, SmashDown : Double or Nothing - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch R-Dash | Jika vs R-Dash | Eleos in Losers Semi-Final of SmashDown : Double or Nothing, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665522874&amp;t=0h49m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1196</video:duration>
+    <video:publication_date>2026-01-09T20:25:40.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-17T20:25:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991522/</loc>
+  <lastmod>2026-01-09T20:26:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2665522874&amp;t=0h23m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1290</video:duration>
+    <video:duration>1353</video:duration>
     <video:publication_date>2026-01-09T19:58:58.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-17T19:58:58.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-19T01:57:41.000Z</video:publication_date>
     <video:uploader>tol_gaming_lounge</video:uploader>
     <video:expiration_date>2025-12-27T01:57:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-25/set/97504583/</loc>
-  <lastmod>2025-12-19T02:13:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860830/image-40565f0cfded893b509fea728604e37a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      buttinjector vs Splash, Fight for the Aux #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch buttinjector vs Splash in Winners Semi-Final of Fight for the Aux #25, streamed by fightfortheauxky
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647406131&amp;t=1h14m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>902</video:duration>
-    <video:publication_date>2025-12-19T01:57:25.000Z</video:publication_date>
-    <video:uploader>fightfortheauxky</video:uploader>
-    <video:expiration_date>2025-12-27T01:57:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
