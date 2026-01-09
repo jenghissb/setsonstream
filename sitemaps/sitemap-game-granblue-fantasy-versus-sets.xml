@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-56-ggst-gbvsr/set/97963273/</loc>
+  <lastmod>2026-01-09T00:04:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866073/image-bcb798601c39ad7d5ac0fe1993cdabd0.png
+    </video:thumbnail_loc>
+    <video:title>
+      JM | Hachiman vs JM | BeG04T, Just Mids #56: GGST &amp; GBVSR - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JM | Hachiman vs JM | BeG04T in Winners Quarter-Final of Just Mids #56: GGST &amp; GBVSR, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2664825404&amp;t=0h16m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>602</video:duration>
+    <video:publication_date>2026-01-08T23:53:48.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-01-16T23:53:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/suplex-109/set/97818654/</loc>
   <lastmod>2026-01-03T02:52:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-11-30T10:59:43.000Z</video:publication_date>
     <video:uploader>Pap_ounet</video:uploader>
     <video:expiration_date>2025-12-08T10:59:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96919021/</loc>
-  <lastmod>2025-11-30T11:01:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800469/image-4980fa41642954f6d9c2bf4e8a9ba9f8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Arefu vs Mordesai, MINDSET 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Arefu vs Mordesai in Winners Quarter-Final of MINDSET 2025, streamed by Pap_ounet
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631720265&amp;t=1h3m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1023</video:duration>
-    <video:publication_date>2025-11-30T10:39:26.000Z</video:publication_date>
-    <video:uploader>Pap_ounet</video:uploader>
-    <video:expiration_date>2025-12-08T10:39:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
