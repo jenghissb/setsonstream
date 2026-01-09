@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991462/</loc>
+  <lastmod>2026-01-09T21:13:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/843248/image-a6aa87e1d2be5763b1f1969e91cdff48.png
+    </video:thumbnail_loc>
+    <video:title>
+      tooru vs Akuroi, SmashDown : Double or Nothing - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tooru vs Akuroi in Grand Final of SmashDown : Double or Nothing, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665522874&amp;t=1h22m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>656</video:duration>
+    <video:publication_date>2026-01-09T20:58:00.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-17T20:58:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991525/</loc>
-  <lastmod>2026-01-09T20:49:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-09T21:04:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2665522874&amp;t=1h13m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>468</video:duration>
+    <video:duration>503</video:duration>
     <video:publication_date>2026-01-09T20:49:25.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-17T20:49:25.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-19T02:32:26.000Z</video:publication_date>
     <video:uploader>tol_gaming_lounge</video:uploader>
     <video:expiration_date>2025-12-27T02:32:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-25/set/97504584/</loc>
-  <lastmod>2025-12-19T02:25:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860830/image-40565f0cfded893b509fea728604e37a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CC | Mason_The_Ogre vs CC | Steven2brazu, Fight for the Aux #25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CC | Mason_The_Ogre vs CC | Steven2brazu in Winners Semi-Final of Fight for the Aux #25, streamed by fightfortheauxky
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647406131&amp;t=1h29m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>671</video:duration>
-    <video:publication_date>2025-12-19T02:12:52.000Z</video:publication_date>
-    <video:uploader>fightfortheauxky</video:uploader>
-    <video:expiration_date>2025-12-27T02:12:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
