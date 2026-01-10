@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-6/set/98011715/</loc>
-  <lastmod>2026-01-10T03:58:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-6/set/98011717/</loc>
+  <lastmod>2026-01-10T04:21:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866417/image-f198c93098cf37d6b2aee6198e157ee5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rob jr | blargh257 vs oomf | rainy, Kastle Smashers 6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rob jr | blargh257 vs oomf | rainy in Winners Semi-Final of Kastle Smashers 6, streamed by NorCalMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665903153&amp;t=1h8m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1590</video:duration>
+    <video:publication_date>2026-01-10T04:21:23.000Z</video:publication_date>
+    <video:uploader>NorCalMelee</video:uploader>
+    <video:expiration_date>2026-01-18T04:21:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-6/set/98011715/</loc>
+  <lastmod>2026-01-10T04:25:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2665903153&amp;t=0h45m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>352</video:duration>
+    <video:duration>1360</video:duration>
     <video:publication_date>2026-01-10T03:58:21.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-01-18T03:58:21.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-10T03:53:43.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-18T03:53:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-123/set/97239537/</loc>
-  <lastmod>2025-12-10T03:55:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858601/image-7830a2b5b175490920acf00d0c566fe0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yooj vs Tiny, Melee @ Abbey Tavern #123 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yooj vs Tiny in Winners Round 2 of Melee @ Abbey Tavern #123, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639957234&amp;t=1h0m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>803</video:duration>
-    <video:publication_date>2025-12-10T03:34:29.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-18T03:34:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

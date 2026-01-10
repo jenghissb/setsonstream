@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-254/set/98010257/</loc>
+  <lastmod>2026-01-10T04:34:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868036/image-ad09f0064ddceb44d4f0c12ab8bfab36.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CSG | SIke vs ThatBupGuy, Elite Smash Fridays #254 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CSG | SIke vs ThatBupGuy in Round 2 of Elite Smash Fridays #254, streamed by Colorado_ROA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665820683&amp;t=2h30m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1133</video:duration>
+    <video:publication_date>2026-01-10T04:05:12.000Z</video:publication_date>
+    <video:uploader>Colorado_ROA</video:uploader>
+    <video:expiration_date>2026-01-18T04:05:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-517/set/97998507/</loc>
   <lastmod>2026-01-10T03:59:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-11T02:20:31.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-19T02:20:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-12-10-25/set/97260379/</loc>
-  <lastmod>2025-12-11T02:36:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860161/image-1c29cbc26751a9cdebc333dd85aef33d.png
-    </video:thumbnail_loc>
-    <video:title>
-      GoTE | BACKPACK? vs Muttley, GoTE Rivals 2 and more (12/10/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GoTE | BACKPACK? vs Muttley in Winners Final of GoTE Rivals 2 and more (12/10/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640698511&amp;t=1h33m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>722</video:duration>
-    <video:publication_date>2025-12-11T02:15:17.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-12-19T02:15:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
