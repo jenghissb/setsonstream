@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-rumble-royale-14/set/98014470/</loc>
+  <lastmod>2026-01-10T07:38:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865264/image-01636eb938626edf229663e3036932bb.png
+    </video:thumbnail_loc>
+    <video:title>
+      L vs bluecat, HKSBC Rumble Royale 群魔亂武 #14 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch L vs bluecat in Losers Round 4 of HKSBC Rumble Royale 群魔亂武 #14, streamed by 香港大亂鬥同好會 - HKSBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/l0xyepq48h8?start=8194s
+    </video:player_loc>
+    <video:duration>1034</video:duration>
+    <video:publication_date>2026-01-10T07:19:10.000Z</video:publication_date>
+    <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
+    <video:expiration_date>2026-01-18T07:19:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-9-3/set/98013196/</loc>
   <lastmod>2026-01-10T07:11:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-24T00:37:00.000Z</video:publication_date>
     <video:uploader>KMLtournaments</video:uploader>
     <video:expiration_date>2026-01-01T00:37:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/waypoint-finale-the-last-warrior/set/97660555/</loc>
-  <lastmod>2025-12-24T00:37:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862931/image-18d543712c819c07f958d280f77058f4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Revo vs Lonesome, Waypoint Finale: The Last Warrior - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Revo vs Lonesome in Winners Round 1 of Waypoint Finale: The Last Warrior, streamed by WaypointCafeNYC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2651524317&amp;t=0h55m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>664</video:duration>
-    <video:publication_date>2025-12-24T00:25:56.000Z</video:publication_date>
-    <video:uploader>WaypointCafeNYC</video:uploader>
-    <video:expiration_date>2026-01-01T00:25:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
