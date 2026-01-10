@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cascade-cup/set/98028779/</loc>
+  <lastmod>2026-01-10T18:09:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847748/image-65cf1669630a8fa82c2d91232939f136.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      B. Bigalow vs JM | TTT | cptneccbrd, Cascade Cup - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch B. Bigalow vs JM | TTT | cptneccbrd in Losers Round 3 of Cascade Cup, streamed by Dkm_network
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666280598&amp;t=2h32m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>501</video:duration>
+    <video:publication_date>2026-01-10T17:56:50.000Z</video:publication_date>
+    <video:uploader>Dkm_network</video:uploader>
+    <video:expiration_date>2026-01-18T17:56:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cascade-cup/set/98028751/</loc>
-  <lastmod>2026-01-10T17:41:34.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-10T18:09:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666280598&amp;t=2h16m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>533</video:duration>
+    <video:duration>1083</video:duration>
     <video:publication_date>2026-01-10T17:41:34.000Z</video:publication_date>
     <video:uploader>Dkm_network</video:uploader>
     <video:expiration_date>2026-01-18T17:41:34.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-19T04:28:09.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-12-27T04:28:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-193-norcal-street-fighter-6-weekly/set/97514781/</loc>
-  <lastmod>2025-12-19T04:33:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862424/image-5035e3f462a13d65d39c4d72fd96e1c3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Madhouse | Dj norb vs ANGL | CG64, Guildhouse Fighters 193 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Madhouse | Dj norb vs ANGL | CG64 in Winners Round 2 of Guildhouse Fighters 193 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647538294&amp;t=0h32m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>393</video:duration>
-    <video:publication_date>2025-12-19T04:21:24.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2025-12-27T04:21:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

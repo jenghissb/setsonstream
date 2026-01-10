@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98024743/</loc>
-  <lastmod>2026-01-10T17:27:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98031713/</loc>
+  <lastmod>2026-01-10T18:07:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809728/image-b98322fcb4868d4e121c854fb800138d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      skullbro vs max, Free Luigi - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch skullbro vs max in Losers Round 1 of Free Luigi, streamed by sylphegaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666177435&amp;t=5h30m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>970</video:duration>
+    <video:publication_date>2026-01-10T18:07:30.000Z</video:publication_date>
+    <video:uploader>sylphegaming</video:uploader>
+    <video:expiration_date>2026-01-18T18:07:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98024743/</loc>
+  <lastmod>2026-01-10T17:55:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666177435&amp;t=4h49m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1400</video:duration>
+    <video:duration>1495</video:duration>
     <video:publication_date>2026-01-10T17:27:07.000Z</video:publication_date>
     <video:uploader>sylphegaming</video:uploader>
     <video:expiration_date>2026-01-18T17:27:07.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-11T00:43:53.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2025-12-19T00:43:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-12-10-25/set/97253890/</loc>
-  <lastmod>2025-12-11T01:08:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856823/image-b29bf06b08011ed60e598e2fa7a7499d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chimp&apos;s Friend | Saltzy vs UML | Blip Blip You Dip, One Up Melee 12.10.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chimp&apos;s Friend | Saltzy vs UML | Blip Blip You Dip in Winners Round 1 of One Up Melee 12.10.25, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640702303&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>944</video:duration>
-    <video:publication_date>2025-12-11T00:43:13.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2025-12-19T00:43:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
