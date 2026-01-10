@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-53/set/98040984/</loc>
+  <lastmod>2026-01-10T22:10:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860125/image-767cd47b7b7bcba1d0b1257555c7415a.png
+    </video:thumbnail_loc>
+    <video:title>
+      FISH | Gucci vs FISH | Pokee, Lunatic Perilune #53 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FISH | Gucci vs FISH | Pokee in Winners Final of Lunatic Perilune #53, streamed by lunarphaselive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666606539&amp;t=0h17m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>388</video:duration>
+    <video:publication_date>2026-01-10T22:10:07.000Z</video:publication_date>
+    <video:uploader>lunarphaselive</video:uploader>
+    <video:expiration_date>2026-01-18T22:10:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/quickdraw-brawl-52/set/98035405/</loc>
   <lastmod>2026-01-10T21:21:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-12-06T05:07:58.000Z</video:publication_date>
     <video:uploader>asuesportsofficial</video:uploader>
     <video:expiration_date>2025-12-14T05:07:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-100/set/97092060/</loc>
-  <lastmod>2025-12-06T05:18:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855088/image-ccd39b4e5db8ae128b1504efbfffbf96.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Tuck vs 620203405624 U | M-AS, SoCal Colosseum #100 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tuck vs 620203405624 U | M-AS in Losers Semi-Final of SoCal Colosseum #100, streamed by kondo3
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636564706&amp;t=1h31m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1531</video:duration>
-    <video:publication_date>2025-12-06T04:52:45.000Z</video:publication_date>
-    <video:uploader>kondo3</video:uploader>
-    <video:expiration_date>2025-12-14T04:52:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

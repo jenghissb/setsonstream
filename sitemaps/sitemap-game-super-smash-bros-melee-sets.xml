@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sunset-melee/set/98038593/</loc>
-  <lastmod>2026-01-10T21:30:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/cascade-cup/set/98039027/</loc>
+  <lastmod>2026-01-10T21:59:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847748/image-65cf1669630a8fa82c2d91232939f136.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NSE | Maher vs Medley, Cascade Cup - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NSE | Maher vs Medley in Winners Semi-Final of Cascade Cup, streamed by GalintGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666579949&amp;t=0h38m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1052</video:duration>
+    <video:publication_date>2026-01-10T21:59:03.000Z</video:publication_date>
+    <video:uploader>GalintGaming</video:uploader>
+    <video:expiration_date>2026-01-18T21:59:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/cascade-cup/set/98039282/</loc>
+  <lastmod>2026-01-10T21:50:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847748/image-65cf1669630a8fa82c2d91232939f136.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BlusterKTK vs OGAGO | Blue-Eyes White Quiggles, Cascade Cup - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BlusterKTK vs OGAGO | Blue-Eyes White Quiggles in Winners Semi-Final of Cascade Cup, streamed by GalintGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666579949&amp;t=0h29m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1588</video:duration>
+    <video:publication_date>2026-01-10T21:50:07.000Z</video:publication_date>
+    <video:uploader>GalintGaming</video:uploader>
+    <video:expiration_date>2026-01-18T21:50:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sunset-melee/set/98038620/</loc>
+  <lastmod>2026-01-10T22:06:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833769/image-2b5eed14fccc1e71d9e71cc81f706a9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ember vs PKK | Bongo, Sunset Melee - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ember vs PKK | Bongo in Losers Round 2 of Sunset Melee, streamed by Houseof3000
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666260331&amp;t=6h49m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1279</video:duration>
+    <video:publication_date>2026-01-10T21:45:05.000Z</video:publication_date>
+    <video:uploader>Houseof3000</video:uploader>
+    <video:expiration_date>2026-01-18T21:45:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sunset-melee/set/98038593/</loc>
+  <lastmod>2026-01-10T21:53:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666260331&amp;t=6h34m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1158</video:duration>
+    <video:duration>808</video:duration>
     <video:publication_date>2026-01-10T21:30:21.000Z</video:publication_date>
     <video:uploader>Houseof3000</video:uploader>
     <video:expiration_date>2026-01-18T21:30:21.000Z</video:expiration_date>
@@ -26,8 +98,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98031702/</loc>
-  <lastmod>2026-01-10T21:26:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-10T22:06:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -40,9 +112,9 @@
       Watch Jamie vs Jah Ridin&apos; in Grand Final of Free Luigi, streamed by sylphegaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666177435&amp;t=8h49m6s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2666601633&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1401</video:duration>
+    <video:duration>2042</video:duration>
     <video:publication_date>2026-01-10T21:26:18.000Z</video:publication_date>
     <video:uploader>sylphegaming</video:uploader>
     <video:expiration_date>2026-01-18T21:26:18.000Z</video:expiration_date>
@@ -14326,78 +14398,6 @@
     <video:publication_date>2025-12-11T02:07:42.000Z</video:publication_date>
     <video:uploader>KMLtournaments</video:uploader>
     <video:expiration_date>2025-12-19T02:07:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-120/set/97252348/</loc>
-  <lastmod>2025-12-11T02:18:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860755/image-410fb4ac2cd6c404dbd010c8ee0ddae7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rayn vs Oshabetta, Raptor Boost 120 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rayn vs Oshabetta in Losers Semi-Final of Raptor Boost 120, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640671945&amp;t=1h55m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>869</video:duration>
-    <video:publication_date>2025-12-11T02:01:44.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2025-12-19T02:01:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/birdbrained-melee-eavesdrop-brewery-2/set/97258730/</loc>
-  <lastmod>2025-12-11T02:07:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852425/image-4222543b43143f102310b13531932938.png
-    </video:thumbnail_loc>
-    <video:title>
-      S3C | RapMonster vs dojo | Stutter Step Steven, Birdbrained Melee @ Eavesdrop Brewery #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch S3C | RapMonster vs dojo | Stutter Step Steven in Winners Round 2 of Birdbrained Melee @ Eavesdrop Brewery #2, streamed by KMLtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640657881&amp;t=2h7m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>546</video:duration>
-    <video:publication_date>2025-12-11T01:57:42.000Z</video:publication_date>
-    <video:uploader>KMLtournaments</video:uploader>
-    <video:expiration_date>2025-12-19T01:57:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-12-10-25/set/97253901/</loc>
-  <lastmod>2025-12-11T02:28:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856823/image-b29bf06b08011ed60e598e2fa7a7499d.png
-    </video:thumbnail_loc>
-    <video:title>
-      regEx vs Eggnogsferatu, One Up Melee 12.10.25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch regEx vs Eggnogsferatu in Winners Semi-Final of One Up Melee 12.10.25, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2640702303&amp;t=1h9m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1301</video:duration>
-    <video:publication_date>2025-12-11T01:56:02.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2025-12-19T01:56:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
