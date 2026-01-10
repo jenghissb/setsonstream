@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98037099/</loc>
-  <lastmod>2026-01-10T20:30:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98037051/</loc>
+  <lastmod>2026-01-10T20:43:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833769/image-2b5eed14fccc1e71d9e71cc81f706a9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Switch vs Arkouda, Sunset Melee - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Switch vs Arkouda in Winners Semi-Final of Sunset Melee, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666328753&amp;t=4h11m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>550</video:duration>
+    <video:publication_date>2026-01-10T20:43:53.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2026-01-18T20:43:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98037099/</loc>
+  <lastmod>2026-01-10T20:47:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666328753&amp;t=3h58m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>732</video:duration>
+    <video:duration>673</video:duration>
     <video:publication_date>2026-01-10T20:30:56.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2026-01-18T20:30:56.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-12T03:00:26.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2025-12-20T03:00:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-50/set/97283588/</loc>
-  <lastmod>2025-12-12T03:08:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860735/image-85c0ec02c00ef6cdf68375769aa67e7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      GRL | Plastic Dinos vs KNWI | AZOG, Wasteland Warriors #50 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GRL | Plastic Dinos vs KNWI | AZOG in Winners Semi-Final of Wasteland Warriors #50, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2641566546&amp;t=1h17m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>767</video:duration>
-    <video:publication_date>2025-12-12T02:46:43.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-12-20T02:46:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

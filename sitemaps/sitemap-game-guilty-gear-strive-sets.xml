@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cascade-cup/set/98034708/</loc>
-  <lastmod>2026-01-10T20:28:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cascade-cup/set/98034707/</loc>
+  <lastmod>2026-01-10T20:44:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847748/image-65cf1669630a8fa82c2d91232939f136.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      yinshey vs Callie The Potato, Cascade Cup - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch yinshey vs Callie The Potato in Losers Quarter-Final of Cascade Cup, streamed by Dkm_network
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666538748&amp;t=0h11m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>512</video:duration>
+    <video:publication_date>2026-01-10T20:44:31.000Z</video:publication_date>
+    <video:uploader>Dkm_network</video:uploader>
+    <video:expiration_date>2026-01-18T20:44:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cascade-cup/set/98034708/</loc>
+  <lastmod>2026-01-10T20:52:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666538748&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>878</video:duration>
+    <video:duration>941</video:duration>
     <video:publication_date>2026-01-10T20:28:30.000Z</video:publication_date>
     <video:uploader>Dkm_network</video:uploader>
     <video:expiration_date>2026-01-18T20:28:30.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-19T00:23:30.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2025-12-27T00:23:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-55-ggst-gbvsr/set/97501743/</loc>
-  <lastmod>2025-12-19T00:28:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861380/image-217acf91c85c96cd1c3098f76b19927a.png
-    </video:thumbnail_loc>
-    <video:title>
-      OMG | SGifto73 vs CHD | A_Person, Just Mids #55: GGST &amp; GBVSR - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OMG | SGifto73 vs CHD | A_Person in Winners Final of Just Mids #55: GGST &amp; GBVSR, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647348967&amp;t=0h46m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>364</video:duration>
-    <video:publication_date>2025-12-19T00:12:39.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2025-12-27T00:12:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
