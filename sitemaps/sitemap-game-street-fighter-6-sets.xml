@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-29/set/98051060/</loc>
-  <lastmod>2026-01-10T23:19:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-29/set/98051061/</loc>
+  <lastmod>2026-01-10T23:31:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861782/image-c67b56304177e8df0d13cb525af00891.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MOTHMAN vs Abyssal, SoCal Colosseum Clash #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MOTHMAN vs Abyssal in Winners Semi-Final of SoCal Colosseum Clash #29, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666611592&amp;t=1h33m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1176</video:duration>
+    <video:publication_date>2026-01-10T23:31:07.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2026-01-18T23:31:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-29/set/98051060/</loc>
+  <lastmod>2026-01-10T23:43:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666611592&amp;t=1h21m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>838</video:duration>
+    <video:duration>666</video:duration>
     <video:publication_date>2026-01-10T23:19:52.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2026-01-18T23:19:52.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-20T04:50:23.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2025-12-28T04:50:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-101/set/97547215/</loc>
-  <lastmod>2025-12-20T04:47:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859501/image-328b5b30bb69c39df325fc2844dc3602.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MOTHMAN vs Bracket Demons | Exia, SoCal Colosseum #101 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MOTHMAN vs Bracket Demons | Exia in Winners Quarter-Final of SoCal Colosseum #101, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648363022&amp;t=0h55m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>515</video:duration>
-    <video:publication_date>2025-12-20T04:32:29.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2025-12-28T04:32:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

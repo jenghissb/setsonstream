@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/colorado-mile-high-burst-monthly-january-2026/set/98052294/</loc>
+  <lastmod>2026-01-10T23:35:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863155/image-7bcc99b5fe2425b7cd4a94b081ceb66d.png
+    </video:thumbnail_loc>
+    <video:title>
+      haruko vs PEMDAS | Hatsu, Colorado Mile High Burst Monthly January 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch haruko vs PEMDAS | Hatsu in Winners Semi-Final of Colorado Mile High Burst Monthly January 2026, streamed by akihabaraarcade2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666489857&amp;t=3h53m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>915</video:duration>
+    <video:publication_date>2026-01-10T23:35:28.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade2</video:uploader>
+    <video:expiration_date>2026-01-18T23:35:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dal-dungeon-67/set/98035080/</loc>
   <lastmod>2026-01-10T22:48:29.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-20T02:18:55.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2025-12-28T02:18:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-22/set/97539150/</loc>
-  <lastmod>2025-12-20T02:21:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861658/image-0098952d97c6eaf9369929c7a1116a14.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TG | Bigbootyman445 vs Psyro, 4o4 by Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TG | Bigbootyman445 vs Psyro in Winners Semi-Final of 4o4 by Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648263801&amp;t=0h45m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>970</video:duration>
-    <video:publication_date>2025-12-20T02:04:11.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2025-12-28T02:04:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
