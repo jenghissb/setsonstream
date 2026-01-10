@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-53/set/98041016/</loc>
+  <lastmod>2026-01-10T23:06:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860125/image-767cd47b7b7bcba1d0b1257555c7415a.png
+    </video:thumbnail_loc>
+    <video:title>
+      FISH | Pokee vs Hey!soulVrister, Lunatic Perilune #53 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FISH | Pokee vs Hey!soulVrister in Losers Final of Lunatic Perilune #53, streamed by lunarphaselive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666606539&amp;t=0h48m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>794</video:duration>
+    <video:publication_date>2026-01-10T22:40:47.000Z</video:publication_date>
+    <video:uploader>lunarphaselive</video:uploader>
+    <video:expiration_date>2026-01-18T22:40:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-53/set/98040984/</loc>
   <lastmod>2026-01-10T22:26:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-12-06T05:18:34.000Z</video:publication_date>
     <video:uploader>kondo3</video:uploader>
     <video:expiration_date>2025-12-14T05:18:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/reignited-87/set/97093433/</loc>
-  <lastmod>2025-12-06T05:18:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857879/image-0bb138fd6381149c4eb0d09c40ebe3de.png
-    </video:thumbnail_loc>
-    <video:title>
-      Troll vs Metro Poopin, Reignited #87 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Troll vs Metro Poopin in Losers Quarter-Final of Reignited #87, streamed by asuesportsofficial
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2636493476&amp;t=3h18m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>477</video:duration>
-    <video:publication_date>2025-12-06T05:07:58.000Z</video:publication_date>
-    <video:uploader>asuesportsofficial</video:uploader>
-    <video:expiration_date>2025-12-14T05:07:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
