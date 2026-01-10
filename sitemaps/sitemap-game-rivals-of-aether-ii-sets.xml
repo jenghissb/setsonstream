@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98038709/</loc>
-  <lastmod>2026-01-10T23:01:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98038740/</loc>
+  <lastmod>2026-01-10T23:15:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/833769/image-2b5eed14fccc1e71d9e71cc81f706a9d.png
     </video:thumbnail_loc>
     <video:title>
-      Bumba | Silver vs Gusta, Sunset Melee - Sets on Stream
+      Gusta vs Gary.A.M., Sunset Melee - Sets on Stream
     </video:title>
     <video:description>
-      Watch Bumba | Silver vs Gusta in Winners Semi-Final of Sunset Melee, streamed by cg_conduitgaming
+      Watch Gusta vs Gary.A.M. in Losers Quarter-Final of Sunset Melee, streamed by cg_conduitgaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666328753&amp;t=6h29m3s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2666328753&amp;t=6h43m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>914</video:duration>
-    <video:publication_date>2026-01-10T23:01:10.000Z</video:publication_date>
+    <video:duration>1075</video:duration>
+    <video:publication_date>2026-01-10T23:15:55.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2026-01-18T23:01:10.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-18T23:15:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/blazing-battlefield-7-finishing-touch/set/98044161/</loc>
+  <lastmod>2026-01-10T23:13:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863459/image-4353a1a319ba7ac71fe90c038b5ed8de.png
+    </video:thumbnail_loc>
+    <video:title>
+      Xena vs Red Roc | Penjib, Blazing Battlefield #7 - Finishing Touch - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Xena vs Red Roc | Penjib in Losers Round 4 of Blazing Battlefield #7 - Finishing Touch, streamed by SatelliteSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666585090&amp;t=1h47m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1224</video:duration>
+    <video:publication_date>2026-01-10T23:13:26.000Z</video:publication_date>
+    <video:uploader>SatelliteSmash</video:uploader>
+    <video:expiration_date>2026-01-18T23:13:26.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ggs-only-2/set/98038282/</loc>
-  <lastmod>2026-01-10T23:05:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-10T23:23:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666502107&amp;t=3h10m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>655</video:duration>
+    <video:duration>785</video:duration>
     <video:publication_date>2026-01-10T23:05:29.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-01-18T23:05:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98038709/</loc>
+  <lastmod>2026-01-10T23:23:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833769/image-2b5eed14fccc1e71d9e71cc81f706a9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bumba | Silver vs Gusta, Sunset Melee - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bumba | Silver vs Gusta in Winners Semi-Final of Sunset Melee, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666328753&amp;t=6h29m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>881</video:duration>
+    <video:publication_date>2026-01-10T23:01:10.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2026-01-18T23:01:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4750,54 +4798,6 @@
     <video:publication_date>2025-12-18T01:03:19.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2025-12-26T01:03:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-238/set/97481547/</loc>
-  <lastmod>2025-12-18T01:10:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861877/image-ade09b74c022c7ae72a493186ad4349f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Searing Arrow vs Windforce, Wonderfly Weekly #238 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Searing Arrow vs Windforce in Winners Semi-Final of Wonderfly Weekly #238, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2646578892&amp;t=0h28m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>618</video:duration>
-    <video:publication_date>2025-12-18T00:53:27.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2025-12-26T00:53:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-12-3-25-1/set/97484141/</loc>
-  <lastmod>2025-12-18T01:10:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862692/image-f71a435c30e59d6139bfbf7a759a30ce.png
-    </video:thumbnail_loc>
-    <video:title>
-      TMC vs KNine, GoTE Rivals 2 and more (12/3/25) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TMC vs KNine in Winners Round 1 of GoTE Rivals 2 and more (12/3/25), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2646593583&amp;t=0h3m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>826</video:duration>
-    <video:publication_date>2025-12-18T00:49:03.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2025-12-26T00:49:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
