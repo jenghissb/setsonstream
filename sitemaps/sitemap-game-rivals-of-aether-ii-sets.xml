@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98031570/</loc>
+  <lastmod>2026-01-10T19:19:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833769/image-2b5eed14fccc1e71d9e71cc81f706a9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Flower Fund | Jank vs stellice, Sunset Melee - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Flower Fund | Jank vs stellice in Losers Quarter-Final of Sunset Melee, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666328753&amp;t=2h47m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1180</video:duration>
+    <video:publication_date>2026-01-10T19:19:49.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2026-01-18T19:19:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98031537/</loc>
   <lastmod>2026-01-10T19:06:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-12T02:09:12.000Z</video:publication_date>
     <video:uploader>IsthmianGaming</video:uploader>
     <video:expiration_date>2025-12-20T02:09:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-50/set/97283580/</loc>
-  <lastmod>2025-12-12T02:14:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860735/image-85c0ec02c00ef6cdf68375769aa67e7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      MIA | Mason vs ShenShaun, Wasteland Warriors #50 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MIA | Mason vs ShenShaun in Winners Round 1 of Wasteland Warriors #50, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2641566546&amp;t=0h16m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1407</video:duration>
-    <video:publication_date>2025-12-12T01:46:22.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2025-12-20T01:46:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

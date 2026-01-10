@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cascade-cup/set/98034671/</loc>
+  <lastmod>2026-01-10T19:33:24.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847748/image-65cf1669630a8fa82c2d91232939f136.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      DKM | Sven vs The_BonelessOne, Cascade Cup - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DKM | Sven vs The_BonelessOne in Winners Round 1 of Cascade Cup, streamed by Dkm_network
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666280598&amp;t=4h8m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>365</video:duration>
+    <video:publication_date>2026-01-10T19:33:24.000Z</video:publication_date>
+    <video:uploader>Dkm_network</video:uploader>
+    <video:expiration_date>2026-01-18T19:33:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-7/set/98022575/</loc>
   <lastmod>2026-01-10T17:35:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-18T05:15:32.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2025-12-26T05:15:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/magic-pixel-weekly-129/set/97466850/</loc>
-  <lastmod>2025-12-17T05:35:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857323/image-8df247997bdb54d86bddde9251a40375.png
-    </video:thumbnail_loc>
-    <video:title>
-      TF | OoeyGooeyChewySnickers vs MM | Galanos, Magic Pixel Weekly #129 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TF | OoeyGooeyChewySnickers vs MM | Galanos in Grand Final of Magic Pixel Weekly #129, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2645857155&amp;t=2h54m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>455</video:duration>
-    <video:publication_date>2025-12-17T05:22:18.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2025-12-25T05:22:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
