@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-6/set/98011791/</loc>
+  <lastmod>2026-01-10T05:29:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866417/image-f198c93098cf37d6b2aee6198e157ee5.png
+    </video:thumbnail_loc>
+    <video:title>
+      S2J vs Umarth, Kastle Smashers 6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch S2J vs Umarth in Losers Semi-Final of Kastle Smashers 6, streamed by NorCalMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2665903153&amp;t=2h3m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>608</video:duration>
+    <video:publication_date>2026-01-10T05:16:34.000Z</video:publication_date>
+    <video:uploader>NorCalMelee</video:uploader>
+    <video:expiration_date>2026-01-18T05:16:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-6/set/98011790/</loc>
-  <lastmod>2026-01-10T05:02:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-10T05:19:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2665903153&amp;t=1h49m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>930</video:duration>
+    <video:duration>771</video:duration>
     <video:publication_date>2026-01-10T05:02:58.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-01-18T05:02:58.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-10T04:43:23.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-18T04:43:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-123/set/97239690/</loc>
-  <lastmod>2025-12-10T04:50:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858601/image-7830a2b5b175490920acf00d0c566fe0.png
-    </video:thumbnail_loc>
-    <video:title>
-      LanTurN vs Chetter, Melee @ Abbey Tavern #123 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LanTurN vs Chetter in Winners Quarter-Final of Melee @ Abbey Tavern #123, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639957234&amp;t=1h52m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1164</video:duration>
-    <video:publication_date>2025-12-10T04:26:16.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-18T04:26:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
