@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/autplayed-2026/set/98022155/</loc>
-  <lastmod>2026-01-10T13:36:31.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/795859/image-fd723f1d352ee4c49bdb2c963614b3e8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VDV | Owner vs Holmborn, AUTplayed 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VDV | Owner vs Holmborn in Winners Round 1 of AUTplayed 2026, streamed by autplayed_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666125099&amp;t=2h50m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>565</video:duration>
-    <video:publication_date>2026-01-10T13:36:31.000Z</video:publication_date>
-    <video:uploader>autplayed_gg</video:uploader>
-    <video:expiration_date>2026-01-18T13:36:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/autplayed-2026/set/98022009/</loc>
   <lastmod>2026-01-10T13:18:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -42,10 +18,82 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666125099&amp;t=2h32m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1660</video:duration>
+    <video:duration>2201</video:duration>
     <video:publication_date>2026-01-10T13:18:16.000Z</video:publication_date>
     <video:uploader>autplayed_gg</video:uploader>
     <video:expiration_date>2026-01-18T13:18:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-7/set/98021121/</loc>
+  <lastmod>2026-01-10T13:45:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859688/image-644a46070ed935472a4badefc5db28fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Melliodama vs LightningFox, Arca-Sys #7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Melliodama vs LightningFox in Winners Semi-Final of Arca-Sys #7, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666175068&amp;t=1h13m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>544</video:duration>
+    <video:publication_date>2026-01-10T13:45:53.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-01-18T13:45:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-7/set/98021122/</loc>
+  <lastmod>2026-01-10T13:45:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859688/image-644a46070ed935472a4badefc5db28fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ryori vs Frinity, Arca-Sys #7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ryori vs Frinity in Winners Semi-Final of Arca-Sys #7, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666175068&amp;t=1h12m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>581</video:duration>
+    <video:publication_date>2026-01-10T13:45:16.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-01-18T13:45:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/autplayed-2026/set/98022155/</loc>
+  <lastmod>2026-01-10T13:52:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/795859/image-fd723f1d352ee4c49bdb2c963614b3e8.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VDV | Owner vs Holmborn, AUTplayed 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VDV | Owner vs Holmborn in Winners Round 1 of AUTplayed 2026, streamed by autplayed_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666125099&amp;t=2h50m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>783</video:duration>
+    <video:publication_date>2026-01-10T13:36:31.000Z</video:publication_date>
+    <video:uploader>autplayed_gg</video:uploader>
+    <video:expiration_date>2026-01-18T13:36:31.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -2590,54 +2638,6 @@
     <video:publication_date>2025-11-30T12:53:21.000Z</video:publication_date>
     <video:uploader>Pap_ounet</video:uploader>
     <video:expiration_date>2025-12-08T12:53:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96920661/</loc>
-  <lastmod>2025-11-30T12:53:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800469/image-4980fa41642954f6d9c2bf4e8a9ba9f8.png
-    </video:thumbnail_loc>
-    <video:title>
-      FT3 | Dudeakoff vs V STAR | Poode, MINDSET 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FT3 | Dudeakoff vs V STAR | Poode in Losers Quarter-Final of MINDSET 2025, streamed by Pap_ounet
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631720265&amp;t=2h58m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1042</video:duration>
-    <video:publication_date>2025-11-30T12:34:00.000Z</video:publication_date>
-    <video:uploader>Pap_ounet</video:uploader>
-    <video:expiration_date>2025-12-08T12:34:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mindset-2025/set/96920660/</loc>
-  <lastmod>2025-11-30T12:38:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/800469/image-4980fa41642954f6d9c2bf4e8a9ba9f8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mordesai vs Zaveid, MINDSET 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mordesai vs Zaveid in Losers Quarter-Final of MINDSET 2025, streamed by Pap_ounet
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2631720265&amp;t=2h46m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>554</video:duration>
-    <video:publication_date>2025-11-30T12:22:50.000Z</video:publication_date>
-    <video:uploader>Pap_ounet</video:uploader>
-    <video:expiration_date>2025-12-08T12:22:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
