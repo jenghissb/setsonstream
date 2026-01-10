@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98024595/</loc>
+  <lastmod>2026-01-10T15:19:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809728/image-b98322fcb4868d4e121c854fb800138d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Happymealz vs Yruama, Free Luigi - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Happymealz vs Yruama in Winners Round 2 of Free Luigi, streamed by sylphegaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666177435&amp;t=2h42m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>926</video:duration>
+    <video:publication_date>2026-01-10T15:19:28.000Z</video:publication_date>
+    <video:uploader>sylphegaming</video:uploader>
+    <video:expiration_date>2026-01-18T15:19:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-por-deus-0-x-nese/set/98020674/</loc>
   <lastmod>2026-01-10T13:57:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-10T05:10:12.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-18T05:10:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-123/set/97240227/</loc>
-  <lastmod>2025-12-10T05:16:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858601/image-7830a2b5b175490920acf00d0c566fe0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chetter vs Fumanchu / フーマンチュウ(Fumanchu / fuumanchuu), Melee @ Abbey Tavern #123 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chetter vs Fumanchu / フーマンチュウ(Fumanchu / fuumanchuu) in Losers Round 2 of Melee @ Abbey Tavern #123, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639957234&amp;t=2h26m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>588</video:duration>
-    <video:publication_date>2025-12-10T05:00:10.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-18T05:00:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
