@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/97992013/</loc>
-  <lastmod>2026-01-10T14:21:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/97992018/</loc>
+  <lastmod>2026-01-10T14:40:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/824363/image-4410b0dac3a42c0ce03b4a0191aaeff0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Flower vs Nech0k, Invictus 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Flower vs Nech0k in Winners Round 3 of Invictus 2026, streamed by gamesparadiseesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666225616&amp;t=0h41m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>683</video:duration>
+    <video:publication_date>2026-01-10T14:40:25.000Z</video:publication_date>
+    <video:uploader>gamesparadiseesports</video:uploader>
+    <video:expiration_date>2026-01-18T14:40:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/97992013/</loc>
+  <lastmod>2026-01-10T14:37:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666225616&amp;t=0h22m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>888</video:duration>
+    <video:duration>809</video:duration>
     <video:publication_date>2026-01-10T14:21:13.000Z</video:publication_date>
     <video:uploader>gamesparadiseesports</video:uploader>
     <video:expiration_date>2026-01-18T14:21:13.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-14T00:45:57.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-12-22T00:45:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/all-hands-monthly-december-2025/set/97372380/</loc>
-  <lastmod>2025-12-14T01:02:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857979/image-f687de051bcc1c9f62b60c294d8e460e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Armanisaint vs Eternia Corp. | HBKdoza, All Hands Monthly: December 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Armanisaint vs Eternia Corp. | HBKdoza in Losers Round 4 of All Hands Monthly: December 2025, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643226403&amp;t=1h11m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>672</video:duration>
-    <video:publication_date>2025-12-14T00:42:21.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-12-22T00:42:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
