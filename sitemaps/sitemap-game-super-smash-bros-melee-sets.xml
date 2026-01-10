@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98024597/</loc>
-  <lastmod>2026-01-10T15:38:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98024603/</loc>
+  <lastmod>2026-01-10T16:04:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/809728/image-b98322fcb4868d4e121c854fb800138d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Famelee - | Mr.Rit vs Snouk, Free Luigi - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Famelee - | Mr.Rit vs Snouk in Winners Round 2 of Free Luigi, streamed by sylphegaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666177435&amp;t=3h27m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>908</video:duration>
+    <video:publication_date>2026-01-10T16:04:57.000Z</video:publication_date>
+    <video:uploader>sylphegaming</video:uploader>
+    <video:expiration_date>2026-01-18T16:04:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98024597/</loc>
+  <lastmod>2026-01-10T15:58:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666177435&amp;t=3h1m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>719</video:duration>
+    <video:duration>777</video:duration>
     <video:publication_date>2026-01-10T15:38:20.000Z</video:publication_date>
     <video:uploader>sylphegaming</video:uploader>
     <video:expiration_date>2026-01-18T15:38:20.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-10T05:44:26.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-18T05:44:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-123/set/97240578/</loc>
-  <lastmod>2025-12-10T05:49:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858601/image-7830a2b5b175490920acf00d0c566fe0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Snap vs TJGE | Megaman, Melee @ Abbey Tavern #123 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Snap vs TJGE | Megaman in Winners Semi-Final of Melee @ Abbey Tavern #123, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639957234&amp;t=2h51m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1175</video:duration>
-    <video:publication_date>2025-12-10T05:24:47.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-18T05:24:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
