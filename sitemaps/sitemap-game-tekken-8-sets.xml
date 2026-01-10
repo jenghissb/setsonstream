@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/97991743/</loc>
+  <lastmod>2026-01-10T11:24:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/824363/image-4410b0dac3a42c0ce03b4a0191aaeff0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Oracle_99 vs GPE | Xeon, Invictus 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Oracle_99 vs GPE | Xeon in Winners Round 3 of Invictus 2026, streamed by gamesparadiseesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666102825&amp;t=1h19m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>732</video:duration>
+    <video:publication_date>2026-01-10T11:07:24.000Z</video:publication_date>
+    <video:uploader>gamesparadiseesports</video:uploader>
+    <video:expiration_date>2026-01-18T11:07:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/97991745/</loc>
-  <lastmod>2026-01-10T11:01:55.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-10T11:15:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2666102825&amp;t=1h14m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>769</video:duration>
+    <video:duration>319</video:duration>
     <video:publication_date>2026-01-10T11:01:55.000Z</video:publication_date>
     <video:uploader>gamesparadiseesports</video:uploader>
     <video:expiration_date>2026-01-18T11:01:55.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-14T00:26:48.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2025-12-22T00:26:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/all-hands-monthly-december-2025/set/97372319/</loc>
-  <lastmod>2025-12-14T00:47:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857979/image-f687de051bcc1c9f62b60c294d8e460e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BOLT | KhalRhaego vs Iso.Dgaf, All Hands Monthly: December 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BOLT | KhalRhaego vs Iso.Dgaf in Winners Semi-Final of All Hands Monthly: December 2025, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643226403&amp;t=0h54m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>735</video:duration>
-    <video:publication_date>2025-12-14T00:25:13.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2025-12-22T00:25:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
