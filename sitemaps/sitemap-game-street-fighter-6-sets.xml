@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-january-2026/set/98037449/</loc>
+  <lastmod>2026-01-10T20:12:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863155/image-7bcc99b5fe2425b7cd4a94b081ceb66d.png
+    </video:thumbnail_loc>
+    <video:title>
+      WhatamIdoing vs SHINRA, Colorado Mile High Burst Monthly January 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WhatamIdoing vs SHINRA in Winners Round 2 of Colorado Mile High Burst Monthly January 2026, streamed by akihabaraarcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2666484646&amp;t=0h36m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>328</video:duration>
+    <video:publication_date>2026-01-10T20:12:52.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade</video:uploader>
+    <video:expiration_date>2026-01-18T20:12:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cascade-cup/set/98028779/</loc>
   <lastmod>2026-01-10T18:09:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-19T04:38:15.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2025-12-27T04:38:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-193-norcal-street-fighter-6-weekly/set/97514790/</loc>
-  <lastmod>2025-12-19T04:42:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862424/image-5035e3f462a13d65d39c4d72fd96e1c3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MadHouse | El Cubano Loco vs MAD | CoolWip, Guildhouse Fighters 193 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MadHouse | El Cubano Loco vs MAD | CoolWip in Winners Quarter-Final of Guildhouse Fighters 193 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647538294&amp;t=0h39m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>591</video:duration>
-    <video:publication_date>2025-12-19T04:28:09.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2025-12-27T04:28:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
