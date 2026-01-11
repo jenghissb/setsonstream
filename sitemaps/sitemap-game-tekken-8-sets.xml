@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/98085966/</loc>
-  <lastmod>2026-01-11T18:51:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/98085951/</loc>
+  <lastmod>2026-01-11T19:12:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/824363/image-4410b0dac3a42c0ce03b4a0191aaeff0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kaneandtrench vs FATE | Jodd, Invictus 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaneandtrench vs FATE | Jodd in Grand Final of Invictus 2026, streamed by gamesparadiseesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667299000&amp;t=2h30m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>915</video:duration>
+    <video:publication_date>2026-01-11T19:12:56.000Z</video:publication_date>
+    <video:uploader>gamesparadiseesports</video:uploader>
+    <video:expiration_date>2026-01-19T19:12:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/invictus-2026/set/98085966/</loc>
+  <lastmod>2026-01-11T19:17:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667299000&amp;t=2h8m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1340</video:duration>
+    <video:duration>1292</video:duration>
     <video:publication_date>2026-01-11T18:51:05.000Z</video:publication_date>
     <video:uploader>gamesparadiseesports</video:uploader>
     <video:expiration_date>2026-01-19T18:51:05.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-18T02:30:24.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2025-12-26T02:30:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/stun-city-12-17-2025-t8-sf6-and-casuals/set/97480505/</loc>
-  <lastmod>2025-12-18T02:31:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862274/image-6c6bc798a1e750f0557259db2b99f481.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ryu Housen vs LtHusky, Stun City 12/17/2025 - T8, SF6 and Casuals - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ryu Housen vs LtHusky in Losers Semi-Final of Stun City 12/17/2025 - T8, SF6 and Casuals, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2646579227&amp;t=1h53m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>389</video:duration>
-    <video:publication_date>2025-12-18T02:19:43.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2025-12-26T02:19:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
