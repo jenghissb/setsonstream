@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet-async";
 import { LeafMap } from './LeafMapMin.js'
 import { MediaPreview } from "./VideoEmbeds.js"
 import { MediaChat } from "./MediaChat.js"
-import { itemHasUpdated, getItemLink, checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath, getStreamEmbedUrl } from './Utilities.js'
+import { itemHasUpdated, getItemLink, checkPropsAreEqual, isThemeDark, textMatches, getChannelName, getTourneySlug, getLinkFromSearch, getCharUrl, charEmojiImagePath, renderHomeIcon, getCharLink, schuEmojiImagePath, getStreamEmbedUrl, renderExpandIcon } from './Utilities.js'
 import { GameIds, getDefaultTimeRange, VideoGameInfo, VideoGameInfoById, VideoGameInfoByGameSlug, charactersAsSuggestionArr, GameKeywords } from './GameInfo.js'
 import { FilterView } from './FilterView.js'
 import { SearchInputBar, SearchTerms, SearchInputBarWithIcon, renderSearchIcon } from "./SearchInputBar.js"
@@ -1448,6 +1448,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   if (!showSearchWithRoute) {
     titleStyle.paddingTop = "8px"
   }
+  const showExpand = !hasRightPane
   if (!hasRightPane) {
     chatWidth = "100%"
   } else {
@@ -1555,6 +1556,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
     previewStyle.maxWidth = "min(max(30%, 300px), 500px)"
   }
 
+  const previewItemTourneySlug = previewItem && getTourneySlug(previewItem.bracketInfo)
+  const previewItemLink = previewItem && getItemLink({searchTerm: {tourneySlug: previewItemTourneySlug}, gameId:previewItem.bracketInfo.gameId, setKey: previewItem.bracketInfo.setKey, tourneySlug: previewItemTourneySlug})
 
   // const subEmbedTypes = chat != null ? [SubEmbeds.CHAT, SubEmbeds.BRACKET, SubEmbeds.MAP] : [SubEmbeds.BRACKET, SubEmbeds.MAP]
   const subEmbedTypes = chat != null ? [SubEmbeds.CHAT, SubEmbeds.MAP] : [SubEmbeds.MAP]
@@ -1580,9 +1583,14 @@ function MainComponent({homeMode, homeType, darkMode}) {
               </div>
             </div>
           <div className="home2previewContainer" style={previewStyle}>
-          {
-            preview
-          }
+            {
+              preview
+            }
+            {
+              true && previewItemLink && showExpand && <div className="home2-previewExpandHolder"><Link to={previewItemLink} className="home2-previewExpandLink">
+                {renderExpandIcon({width: "32px", height: "32px"})}
+              </Link></div>
+            }
           </div>
           {
             previewItem && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />

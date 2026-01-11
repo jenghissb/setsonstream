@@ -379,7 +379,7 @@ export function renderHomeIcon({width, height}) {
 }
 
 export function renderExpandIcon({width="24px", height="24px"}) {
-  return <svg xmlns="http://www.w3.org/2000/svg" height={height} viewBox="0 -960 960 960" width="width" fill="var(--text-main-color-subdue-3"><path d="M120-120v-320h80v184l504-504H520v-80h320v320h-80v-184L256-200h184v80H120Z"/></svg>
+  return <svg xmlns="http://www.w3.org/2000/svg" height={height} width={width} viewBox="0 -960 960 960" fill="var(--text-main-color-subdue-3"><path d="M120-120v-320h80v184l504-504H520v-80h320v320h-80v-184L256-200h184v80H120Z"/></svg>
 }
 
 export function renderPlaylistIcon({width="14px", height="14px"}) {

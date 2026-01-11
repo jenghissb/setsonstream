@@ -560,3 +560,28 @@ body {
   /* margin-left: -6px; */
   margin-right: -6px;
 }
+
+.home2-previewExpandHolder {
+  position: absolute;
+  right: -44px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width:40px;
+  height: 40px;
+  background: var(--bg-over-image-walpha);
+ }
+.home2-previewExpandLink {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 32px;
+  width: 32px;
+  padding:0px;
+  transform: rotate(90deg);
+}
