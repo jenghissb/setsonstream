@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cross-ouest-2-1/set/98081529/</loc>
+  <lastmod>2026-01-11T13:59:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863133/image-c6281a82b8c4581fd6c41dc72e289734.png
+    </video:thumbnail_loc>
+    <video:title>
+      CLW | BiG_T vs Yobamox, CROSS OUEST #2.1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CLW | BiG_T vs Yobamox in Winners Final of CROSS OUEST #2.1, streamed by Claws_TV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Claws_TV&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1008</video:duration>
+    <video:publication_date>2026-01-11T13:59:13.000Z</video:publication_date>
+    <video:uploader>Claws_TV</video:uploader>
+    <video:expiration_date>2026-01-19T13:59:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/secret-labs-az-january-2026/set/98053944/</loc>
   <lastmod>2026-01-11T02:01:54.000Z</lastmod>
   <changefreq>daily</changefreq>
