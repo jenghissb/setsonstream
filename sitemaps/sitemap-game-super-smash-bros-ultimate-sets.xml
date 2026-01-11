@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/65-sp-1/set/98080340/</loc>
-  <lastmod>2026-01-11T10:41:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98081087/</loc>
+  <lastmod>2026-01-11T11:07:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Akagi vs Radagast, Splashborg Resort - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Akagi vs Radagast in Losers Round 1 of Splashborg Resort, streamed by kred_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667086970&amp;t=0h11m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>445</video:duration>
+    <video:publication_date>2026-01-11T11:07:04.000Z</video:publication_date>
+    <video:uploader>kred_tv</video:uploader>
+    <video:expiration_date>2026-01-19T11:07:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/65-sp-1/set/98080340/</loc>
+  <lastmod>2026-01-11T10:56:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/nFFpZc8XwPs?start=32695s
     </video:player_loc>
-    <video:duration>777</video:duration>
+    <video:duration>817</video:duration>
     <video:publication_date>2026-01-11T10:41:49.000Z</video:publication_date>
     <video:uploader>Westerlies Gaming(旧スマブラオフ大会配信チャンネル)</video:uploader>
     <video:expiration_date>2026-01-19T10:41:49.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-27T20:31:48.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-01-04T20:31:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-saturday-2/set/97708491/</loc>
-  <lastmod>2025-12-27T20:41:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861818/image-9768bbdda5677b499fc026b702c99205.png
-    </video:thumbnail_loc>
-    <video:title>
-      HFIL | DORIYAH vs Julio, Movement Smash Saturday # 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HFIL | DORIYAH vs Julio in Winners Round 1 of Movement Smash Saturday # 2, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654364184&amp;t=2h0m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>785</video:duration>
-    <video:publication_date>2025-12-27T20:26:49.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2026-01-04T20:26:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
