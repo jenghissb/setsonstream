@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98083824/</loc>
-  <lastmod>2026-01-11T15:30:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-76/set/98083175/</loc>
+  <lastmod>2026-01-11T16:09:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868555/image-e63b45ea564a234f25281ee9bc388e39.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kalisto vs CRC/SL | DouDou, MJV #76 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kalisto vs CRC/SL | DouDou in Winners Final of MJV #76, streamed by TeamAskalonn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667219626&amp;t=1h17m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>641</video:duration>
+    <video:publication_date>2026-01-11T16:09:47.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-19T16:09:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98083823/</loc>
+  <lastmod>2026-01-11T16:14:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
     </video:thumbnail_loc>
     <video:title>
-      GAMEING INC. | THE SCHMIXTAPE vs Rotaryon | Anbil, Splashborg Resort - Sets on Stream
+      Lancelot vs Pipwolf, Splashborg Resort - Sets on Stream
     </video:title>
     <video:description>
-      Watch GAMEING INC. | THE SCHMIXTAPE vs Rotaryon | Anbil in Winners Semi-Final of Splashborg Resort, streamed by kred_tv
+      Watch Lancelot vs Pipwolf in Winners Semi-Final of Splashborg Resort, streamed by kred_tv
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2667086970&amp;t=4h34m54s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2667086970&amp;t=4h58m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1247</video:duration>
-    <video:publication_date>2026-01-11T15:30:10.000Z</video:publication_date>
+    <video:duration>1191</video:duration>
+    <video:publication_date>2026-01-11T15:53:48.000Z</video:publication_date>
     <video:uploader>kred_tv</video:uploader>
-    <video:expiration_date>2026-01-19T15:30:10.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-19T15:53:48.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-76/set/98083236/</loc>
-  <lastmod>2026-01-11T15:46:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-11T16:12:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667219626&amp;t=0h53m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>275</video:duration>
+    <video:duration>1495</video:duration>
     <video:publication_date>2026-01-11T15:46:22.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-19T15:46:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98083824/</loc>
+  <lastmod>2026-01-11T15:55:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
+    </video:thumbnail_loc>
+    <video:title>
+      GAMEING INC. | THE SCHMIXTAPE vs Rotaryon | Anbil, Splashborg Resort - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GAMEING INC. | THE SCHMIXTAPE vs Rotaryon | Anbil in Winners Semi-Final of Splashborg Resort, streamed by kred_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667086970&amp;t=4h34m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1412</video:duration>
+    <video:publication_date>2026-01-11T15:30:10.000Z</video:publication_date>
+    <video:uploader>kred_tv</video:uploader>
+    <video:expiration_date>2026-01-19T15:30:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-27T22:16:13.000Z</video:publication_date>
     <video:uploader>jaxib</video:uploader>
     <video:expiration_date>2026-01-04T22:16:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-saturday-2/set/97711724/</loc>
-  <lastmod>2025-12-27T22:33:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861818/image-9768bbdda5677b499fc026b702c99205.png
-    </video:thumbnail_loc>
-    <video:title>
-      EMU | Symphonies vs AXE | jenghi, Movement Smash Saturday # 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EMU | Symphonies vs AXE | jenghi in Winners Quarter-Final of Movement Smash Saturday # 2, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654364184&amp;t=3h48m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>971</video:duration>
-    <video:publication_date>2025-12-27T22:15:27.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2026-01-04T22:15:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vesti-air-30-ultimate/set/97710159/</loc>
-  <lastmod>2025-12-27T22:39:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861986/image-e2fd20fc757c5cfc9bbaa8422134821a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Neeroz vs PeW, VESTI&apos;AIR #30 : ULTIMATE - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Neeroz vs PeW in Winners Final of VESTI&apos;AIR #30 : ULTIMATE, streamed by adrianpt94
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654292063&amp;t=5h24m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1646</video:duration>
-    <video:publication_date>2025-12-27T22:11:34.000Z</video:publication_date>
-    <video:uploader>adrianpt94</video:uploader>
-    <video:expiration_date>2026-01-04T22:11:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
