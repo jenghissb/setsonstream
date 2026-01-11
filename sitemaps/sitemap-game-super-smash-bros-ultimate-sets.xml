@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98083826/</loc>
-  <lastmod>2026-01-11T17:24:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98083827/</loc>
+  <lastmod>2026-01-11T17:41:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
     </video:thumbnail_loc>
     <video:title>
-      GAMEING INC. | THE SCHMIXTAPE vs Lancelot, Splashborg Resort - Sets on Stream
+      Lancelot vs GAMEING INC. | THE SCHMIXTAPE, Splashborg Resort - Sets on Stream
     </video:title>
     <video:description>
-      Watch GAMEING INC. | THE SCHMIXTAPE vs Lancelot in Grand Final of Splashborg Resort, streamed by kred_tv
+      Watch Lancelot vs GAMEING INC. | THE SCHMIXTAPE in Grand Final Reset of Splashborg Resort, streamed by kred_tv
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2667086970&amp;t=6h29m7s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2667086970&amp;t=6h46m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>544</video:duration>
-    <video:publication_date>2026-01-11T17:24:23.000Z</video:publication_date>
+    <video:duration>552</video:duration>
+    <video:publication_date>2026-01-11T17:41:38.000Z</video:publication_date>
     <video:uploader>kred_tv</video:uploader>
-    <video:expiration_date>2026-01-19T17:24:23.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-19T17:41:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-rj-awards/set/98083907/</loc>
+  <lastmod>2026-01-11T17:41:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865443/image-5c6da0efe99ea79dda47853257ed8c8f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Liryco vs SBF | Nick-IN, Smash RJ Awards - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Liryco vs SBF | Nick-IN in Round 2 of Smash RJ Awards, streamed by nebulafgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667208311&amp;t=3h7m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>554</video:duration>
+    <video:publication_date>2026-01-11T17:41:36.000Z</video:publication_date>
+    <video:uploader>nebulafgc</video:uploader>
+    <video:expiration_date>2026-01-19T17:41:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-76/set/98083176/</loc>
-  <lastmod>2026-01-11T17:24:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-11T17:35:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,16 +66,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667219626&amp;t=2h31m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>543</video:duration>
+    <video:duration>593</video:duration>
     <video:publication_date>2026-01-11T17:24:24.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-19T17:24:24.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98083826/</loc>
+  <lastmod>2026-01-11T17:40:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
+    </video:thumbnail_loc>
+    <video:title>
+      GAMEING INC. | THE SCHMIXTAPE vs Lancelot, Splashborg Resort - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GAMEING INC. | THE SCHMIXTAPE vs Lancelot in Grand Final of Splashborg Resort, streamed by kred_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667086970&amp;t=6h29m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>847</video:duration>
+    <video:publication_date>2026-01-11T17:24:23.000Z</video:publication_date>
+    <video:uploader>kred_tv</video:uploader>
+    <video:expiration_date>2026-01-19T17:24:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-smash-unicorn-13/set/98085596/</loc>
-  <lastmod>2026-01-11T17:20:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-11T17:33:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +114,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667303948&amp;t=0h30m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>793</video:duration>
+    <video:duration>738</video:duration>
     <video:publication_date>2026-01-11T17:20:14.000Z</video:publication_date>
     <video:uploader>PhenixPhoceen</video:uploader>
     <video:expiration_date>2026-01-19T17:20:14.000Z</video:expiration_date>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-27T23:19:08.000Z</video:publication_date>
     <video:uploader>jacqinora</video:uploader>
     <video:expiration_date>2026-01-04T23:19:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-saturday-2/set/97711726/</loc>
-  <lastmod>2025-12-27T23:20:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861818/image-9768bbdda5677b499fc026b702c99205.png
-    </video:thumbnail_loc>
-    <video:title>
-      OU | !. | Rob. vs EMU | Symphonies, Movement Smash Saturday # 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OU | !. | Rob. vs EMU | Symphonies in Winners Semi-Final of Movement Smash Saturday # 2, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654364184&amp;t=4h41m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>685</video:duration>
-    <video:publication_date>2025-12-27T23:08:09.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2026-01-04T23:08:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/4o4-by-sh33rz-final-smash-monthly/set/97709918/</loc>
-  <lastmod>2025-12-27T23:20:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857975/image-1d7bc43ea7a3f4a1807cb4e53f788897.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DGS | spickles vs SmU5h | Shaine, 4o4 by Sh33rZ: Final Smash Monthly! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DGS | spickles vs SmU5h | Shaine in Winners Quarter-Final of 4o4 by Sh33rZ: Final Smash Monthly!, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654464503&amp;t=2h31m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>857</video:duration>
-    <video:publication_date>2025-12-27T23:05:34.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-01-04T23:05:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
