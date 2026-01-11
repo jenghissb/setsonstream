@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98081277/</loc>
-  <lastmod>2026-01-11T14:36:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-76/set/98083173/</loc>
+  <lastmod>2026-01-11T15:05:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
+      https://images.start.gg/images/tournament/868555/image-e63b45ea564a234f25281ee9bc388e39.png
     </video:thumbnail_loc>
     <video:title>
-      Bambi vs RobbieAK, Splashborg Resort - Sets on Stream
+      BZH | Martin vs Kalisto, MJV #76 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Bambi vs RobbieAK in Losers Quarter-Final of Splashborg Resort, streamed by kred_tv
+      Watch BZH | Martin vs Kalisto in Winners Semi-Final of MJV #76, streamed by TeamAskalonn
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2667086970&amp;t=3h41m2s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2667219626&amp;t=0h13m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>939</video:duration>
-    <video:publication_date>2026-01-11T14:36:18.000Z</video:publication_date>
-    <video:uploader>kred_tv</video:uploader>
-    <video:expiration_date>2026-01-19T14:36:18.000Z</video:expiration_date>
+    <video:duration>656</video:duration>
+    <video:publication_date>2026-01-11T15:05:53.000Z</video:publication_date>
+    <video:uploader>TeamAskalonn</video:uploader>
+    <video:expiration_date>2026-01-19T15:05:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/stockless-69/set/98082983/</loc>
+  <lastmod>2026-01-11T15:09:23.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867254/image-a0605d3ee3f946fdd24d340d0dfbc31a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CDO | SacBøY(CDO | SacB o Y) vs CDO | SanglierSansGain, Stockless 69 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CDO | SacBøY(CDO | SacB o Y) vs CDO | SanglierSansGain in Winners Semi-Final of Stockless 69, streamed by shield_ang
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667173836&amp;t=1h29m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>446</video:duration>
+    <video:publication_date>2026-01-11T15:09:23.000Z</video:publication_date>
+    <video:uploader>shield_ang</video:uploader>
+    <video:expiration_date>2026-01-19T15:09:23.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mjv-76/set/98083170/</loc>
-  <lastmod>2026-01-11T14:43:11.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-11T15:02:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -40,9 +64,9 @@
       Watch CRC | Mister_Sheep vs Kalisto in Winners Quarter-Final of MJV #76, streamed by TeamAskalonn
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2667173353&amp;t=1h3m51s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2667219626&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>526</video:duration>
+    <video:duration>1101</video:duration>
     <video:publication_date>2026-01-11T14:43:11.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-19T14:43:11.000Z</video:expiration_date>
@@ -50,8 +74,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/stockless-69/set/98082981/</loc>
-  <lastmod>2026-01-11T14:43:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-11T14:56:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667173836&amp;t=1h2m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>534</video:duration>
+    <video:duration>643</video:duration>
     <video:publication_date>2026-01-11T14:43:03.000Z</video:publication_date>
     <video:uploader>shield_ang</video:uploader>
     <video:expiration_date>2026-01-19T14:43:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98081277/</loc>
+  <lastmod>2026-01-11T14:56:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bambi vs RobbieAK, Splashborg Resort - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bambi vs RobbieAK in Losers Quarter-Final of Splashborg Resort, streamed by kred_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667086970&amp;t=3h41m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1084</video:duration>
+    <video:publication_date>2026-01-11T14:36:18.000Z</video:publication_date>
+    <video:uploader>kred_tv</video:uploader>
+    <video:expiration_date>2026-01-19T14:36:18.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2025-12-27T21:50:26.000Z</video:publication_date>
     <video:uploader>MovementEsports</video:uploader>
     <video:expiration_date>2026-01-04T21:50:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vesti-air-30-ultimate/set/97710158/</loc>
-  <lastmod>2025-12-27T21:57:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861986/image-e2fd20fc757c5cfc9bbaa8422134821a.png
-    </video:thumbnail_loc>
-    <video:title>
-      MYS | Eru.reido vs PeW, VESTI&apos;AIR #30 : ULTIMATE - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MYS | Eru.reido vs PeW in Winners Semi-Final of VESTI&apos;AIR #30 : ULTIMATE, streamed by adrianpt94
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654292063&amp;t=4h59m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>609</video:duration>
-    <video:publication_date>2025-12-27T21:46:32.000Z</video:publication_date>
-    <video:uploader>adrianpt94</video:uploader>
-    <video:expiration_date>2026-01-04T21:46:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/yes-smash-open-100/set/97708603/</loc>
-  <lastmod>2025-12-27T22:01:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856094/image-92173c4c3e8479f52d0b81b6f2cf95f0.png
-    </video:thumbnail_loc>
-    <video:title>
-      YES! | apple vs Ray, YES! Smash Open #100 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch YES! | apple vs Ray in Winners Quarter-Final of YES! Smash Open #100, streamed by jaxib
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654501021&amp;t=0h22m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>946</video:duration>
-    <video:publication_date>2025-12-27T21:44:19.000Z</video:publication_date>
-    <video:uploader>jaxib</video:uploader>
-    <video:expiration_date>2026-01-04T21:44:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
