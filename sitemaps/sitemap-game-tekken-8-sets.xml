@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-brews/set/98099182/</loc>
+  <lastmod>2026-01-11T23:33:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852507/image-253646e8885333dfe619ad9a47090b8d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sunny vs savemeseth, Battle &amp; Brews - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sunny vs savemeseth in Winners Quarter-Final of Battle &amp; Brews, streamed by wavesanotherone
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667558843&amp;t=1h28m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>591</video:duration>
+    <video:publication_date>2026-01-11T23:21:00.000Z</video:publication_date>
+    <video:uploader>wavesanotherone</video:uploader>
+    <video:expiration_date>2026-01-19T23:21:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-brews/set/98099241/</loc>
-  <lastmod>2026-01-11T23:12:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-11T23:33:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667558843&amp;t=1h20m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>224</video:duration>
+    <video:duration>970</video:duration>
     <video:publication_date>2026-01-11T23:12:59.000Z</video:publication_date>
     <video:uploader>wavesanotherone</video:uploader>
     <video:expiration_date>2026-01-19T23:12:59.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-brews/set/98099243/</loc>
-  <lastmod>2026-01-11T23:09:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-11T23:33:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667558843&amp;t=1h17m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>413</video:duration>
+    <video:duration>917</video:duration>
     <video:publication_date>2026-01-11T23:09:50.000Z</video:publication_date>
     <video:uploader>wavesanotherone</video:uploader>
     <video:expiration_date>2026-01-19T23:09:50.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-19T02:28:22.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2025-12-27T02:28:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mhm-the-mini-mayhem-121/set/97510299/</loc>
-  <lastmod>2025-12-19T02:30:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862391/image-4b7a4348164e9d8db0c5a66cb8f480c1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Saihito vs TummyAche, MHM: The Mini Mayhem #121 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Saihito vs TummyAche in Winners Round 2 of MHM: The Mini Mayhem #121, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647335562&amp;t=3h4m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>696</video:duration>
-    <video:publication_date>2025-12-19T02:11:21.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2025-12-27T02:11:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
