@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-your-rival-presents-buttons-and-brews-1/set/98101590/</loc>
+  <lastmod>2026-01-11T22:45:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862478/image-e9012c7b9197e8586a3c8b65cfeead73.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FYR | Whoman vs CrazedOreo, Fight Your Rival Presents: Buttons and Brews #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FYR | Whoman vs CrazedOreo in Winners Round 1 of Fight Your Rival Presents: Buttons and Brews #1, streamed by fightyourrivalfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667590834&amp;t=0h9m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>473</video:duration>
+    <video:publication_date>2026-01-11T22:45:31.000Z</video:publication_date>
+    <video:uploader>fightyourrivalfgc</video:uploader>
+    <video:expiration_date>2026-01-19T22:45:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/secret-labs-az-january-2026/set/98053944/</loc>
   <lastmod>2026-01-11T02:01:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-20T19:39:05.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2025-12-28T19:39:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/queen-2025/set/97566641/</loc>
-  <lastmod>2025-12-20T19:45:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856274/image-39e8cc9792be9cf3dbf7fe67ceaa5111.png
-    </video:thumbnail_loc>
-    <video:title>
-      BoNe | Sark vs IRON GRD | T3MP3ST, Queen 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BoNe | Sark vs IRON GRD | T3MP3ST in Winners Quarter-Final of Queen 2025, streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648849533&amp;t=0h20m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>665</video:duration>
-    <video:publication_date>2025-12-20T19:23:01.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2025-12-28T19:23:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
