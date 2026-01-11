@@ -1617,7 +1617,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
           { 
             useHomeTypeLists && favkeysOrdered.length > 0 && favkeysOrdered.map((item, index) => {
-              return <div key={getSearchItemKey(item)}>
+              return <div key={getSearchItemKey(item)} style={{position: "relative"}}>
                 {HorizontalCatHeader({favSuggestion:item, onFavorite:onSearch, gameId: currentGameId})}
                 <DataHorizontal {...{catInfo: item, items:favMap.get(item), tourneyById, filterInfo: favFilterMap.get(item), useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
               </div>

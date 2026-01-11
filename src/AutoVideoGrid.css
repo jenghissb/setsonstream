@@ -23,3 +23,37 @@
   flex-wrap: wrap;
   overflow: hidden;
 }
+
+.avg-chevron-right-horiz-list-left {
+  position:absolute;
+  top: 90px;
+  left: 0px;
+  opacity: 0.9;
+  transform: rotate(270deg);
+  visibility: visible;
+  transition:
+    opacity 0.16s ease,
+    transform 0.16s ease,
+    visibility 0.16s;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.91));
+  -webkit-filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4));
+}
+
+.avg-chevron-right-horiz-list-right {
+  position:absolute;
+  top: 90px;
+  right: 0px;
+  opacity: 0.9;
+  transform: rotate(90deg);
+  transition:
+    opacity 0.16s ease,
+    transform 0.16s ease,
+    visibility 0.16s;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.91));
+  -webkit-filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4));
+}
+
+.avg-chevron-hidden {
+  opacity: 0;
+  visibility: hidden;
+}

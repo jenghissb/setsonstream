@@ -19,6 +19,13 @@ export function HorizontalVirtualList({
   });
   var stylename2 = "set-row-3-flex-small"
 
+  const classArrowLeft = "avg-chevron-right-horiz-list-left" +
+    ((virtualizer.scrollOffset > 100) ? "" :  " avg-chevron-hidden")
+  const classArrowRight = "avg-chevron-right-horiz-list-right" +
+    ((virtualizer.scrollOffset < (virtualizer.getTotalSize()-200-window.innerWidth)) ? "" : " avg-chevron-hidden")
+  const arrowOffset = Math.min(1200,window.innerWidth)
+  const useArrows = window.innerWidth >= 800;
+
   return (
     <div
       ref={parentRef}
@@ -27,7 +34,6 @@ export function HorizontalVirtualList({
         height: `${height}px`,
         overflowX: "auto",
         overflowY: "hidden",
-        position: "relative",
       }}
     >
       <div
@@ -71,8 +77,26 @@ export function HorizontalVirtualList({
           </div>
       })}
       </div>
+      { useArrows &&
+        <div className={classArrowLeft}
+          onClick={() => { console.log("left", virtualizer); virtualizer.scrollBy(-arrowOffset, { behavior: "smooth"})}}
+        >
+          <ChevronRight/>
+        </div>
+      }
+      { useArrows &&
+        <div className={classArrowRight}
+          onClick={() => { console.log("left", virtualizer); virtualizer.scrollBy(arrowOffset, { behavior: "smooth"})}}
+        >
+          <ChevronRight/>
+        </div>
+      }
     </div>
   );
+}
+
+const ChevronRight = ({width=60, height=60, color="var(--arrow-color)"}) => {
+  return <svg xmlns="http://www.w3.org/2000/svg" width={width} height={height} viewBox="0 0 448 448"><path fillOpacity="1" fill={color} strokeWidth="32" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="4" strokeDasharray="none" d="m384 871.925-37.46 36.437L224 789.17 101.46 908.362 64 871.925l37.426-36.403.034.033L224 716.362l122.54 119.193.034-.033z" transform="translate(0 -604.362)"/></svg>
 }
 
 export const AdaptiveVirtualVideoGrid2 = ({
