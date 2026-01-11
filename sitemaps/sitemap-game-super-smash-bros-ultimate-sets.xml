@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98081213/</loc>
-  <lastmod>2026-01-11T11:23:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98081041/</loc>
+  <lastmod>2026-01-11T11:43:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841348/image-66ff3c07995fad7b3ef95c261214382f.png
+    </video:thumbnail_loc>
+    <video:title>
+      JoyKong vs Doorman, Splashborg Resort - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JoyKong vs Doorman in Winners Quarter-Final of Splashborg Resort, streamed by kred_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667086970&amp;t=0h47m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>438</video:duration>
+    <video:publication_date>2026-01-11T11:43:00.000Z</video:publication_date>
+    <video:uploader>kred_tv</video:uploader>
+    <video:expiration_date>2026-01-19T11:43:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/splashborg-resort/set/98081213/</loc>
+  <lastmod>2026-01-11T11:42:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667086970&amp;t=0h27m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1106</video:duration>
+    <video:duration>1079</video:duration>
     <video:publication_date>2026-01-11T11:23:15.000Z</video:publication_date>
     <video:uploader>kred_tv</video:uploader>
     <video:expiration_date>2026-01-19T11:23:15.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-27T20:40:28.000Z</video:publication_date>
     <video:uploader>MovementEsports</video:uploader>
     <video:expiration_date>2026-01-04T20:40:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vesti-air-30-ultimate/set/97705595/</loc>
-  <lastmod>2025-12-27T20:52:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861986/image-e2fd20fc757c5cfc9bbaa8422134821a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Neeroz vs NEP | Lioka, VESTI&apos;AIR #30 : ULTIMATE - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Neeroz vs NEP | Lioka in Winners Quarter-Final of VESTI&apos;AIR #30 : ULTIMATE, streamed by adrianpt94
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654292063&amp;t=3h52m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>701</video:duration>
-    <video:publication_date>2025-12-27T20:39:49.000Z</video:publication_date>
-    <video:uploader>adrianpt94</video:uploader>
-    <video:expiration_date>2026-01-04T20:39:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
