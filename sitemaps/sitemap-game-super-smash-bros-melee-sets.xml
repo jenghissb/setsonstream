@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-90-1/set/98116388/</loc>
-  <lastmod>2026-01-12T20:11:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-90-1/set/98116373/</loc>
+  <lastmod>2026-01-12T20:33:43.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868266/image-ee0f1ad7eee1f851e0d53dd645faae26.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sabreur vs PSG | Busard, KnockOut Zone #90 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sabreur vs PSG | Busard in Grand Final of KnockOut Zone #90, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2668221325&amp;t=2h10m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>743</video:duration>
+    <video:publication_date>2026-01-12T20:33:43.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-01-20T20:33:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-90-1/set/98116388/</loc>
+  <lastmod>2026-01-12T20:37:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2668221325&amp;t=1h48m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>533</video:duration>
+    <video:duration>1298</video:duration>
     <video:publication_date>2026-01-12T20:11:56.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2026-01-20T20:11:56.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-13T01:27:40.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2025-12-21T01:27:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tripoint-308/set/97310795/</loc>
-  <lastmod>2025-12-13T01:42:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860171/image-f65ebba4182ae6609ec465603a836198.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fudds | Ferocitii vs feras, Tripoint 308 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fudds | Ferocitii vs feras in Winners Semi-Final of Tripoint 308, streamed by ugsgaming2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642383865&amp;t=0h25m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>513</video:duration>
-    <video:publication_date>2025-12-13T01:25:28.000Z</video:publication_date>
-    <video:uploader>ugsgaming2</video:uploader>
-    <video:expiration_date>2025-12-21T01:25:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
