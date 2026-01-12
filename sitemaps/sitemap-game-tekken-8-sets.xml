@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-brews/set/98099188/</loc>
+  <lastmod>2026-01-12T02:06:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852507/image-253646e8885333dfe619ad9a47090b8d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Surge vs MØB | Casita(M O B | Casita), Battle &amp; Brews - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Surge vs MØB | Casita(M O B | Casita) in Grand Final of Battle &amp; Brews, streamed by wavesanotherone
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2667558843&amp;t=3h54m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>793</video:duration>
+    <video:publication_date>2026-01-12T01:47:13.000Z</video:publication_date>
+    <video:uploader>wavesanotherone</video:uploader>
+    <video:expiration_date>2026-01-20T01:47:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-brews/set/98099250/</loc>
-  <lastmod>2026-01-12T01:12:21.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-12T01:36:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2667558843&amp;t=3h19m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>661</video:duration>
+    <video:duration>1042</video:duration>
     <video:publication_date>2026-01-12T01:12:21.000Z</video:publication_date>
     <video:uploader>wavesanotherone</video:uploader>
     <video:expiration_date>2026-01-20T01:12:21.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-20T05:08:30.000Z</video:publication_date>
     <video:uploader>teakei</video:uploader>
     <video:expiration_date>2025-12-28T05:08:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-101/set/97547954/</loc>
-  <lastmod>2025-12-20T05:14:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859501/image-328b5b30bb69c39df325fc2844dc3602.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      almightyGA vs Yung_Lumpia, SoCal Colosseum #101 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch almightyGA vs Yung_Lumpia in Winners Quarter-Final of SoCal Colosseum #101, streamed by teakei
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648367488&amp;t=1h13m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>632</video:duration>
-    <video:publication_date>2025-12-20T04:57:31.000Z</video:publication_date>
-    <video:uploader>teakei</video:uploader>
-    <video:expiration_date>2025-12-28T04:57:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
