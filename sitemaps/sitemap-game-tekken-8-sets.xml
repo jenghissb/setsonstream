@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-70/set/98117610/</loc>
-  <lastmod>2026-01-12T20:38:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-70/set/98117609/</loc>
+  <lastmod>2026-01-12T20:50:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863784/image-c3b0c2a6b74db4c9b9b065e926dc6683.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kaza vs SS | | FZifu, Toulouse Fighting Monday 70 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaza vs SS | | FZifu in Winners Semi-Final of Toulouse Fighting Monday 70, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2668255472&amp;t=1h45m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>498</video:duration>
+    <video:publication_date>2026-01-12T20:50:09.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-01-20T20:50:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-70/set/98117610/</loc>
+  <lastmod>2026-01-12T20:55:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2668255472&amp;t=1h33m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>483</video:duration>
+    <video:duration>676</video:duration>
     <video:publication_date>2026-01-12T20:38:03.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-01-20T20:38:03.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-20T16:16:50.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-12-28T16:16:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-reset-x/set/97501482/</loc>
-  <lastmod>2025-12-20T16:17:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815935/image-4074b308bd1942587c5b10ee2eb7288b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Addicted | Jormungandr vs HEE | Dustus, THE RESET X - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Addicted | Jormungandr vs HEE | Dustus in Winners Quarter-Final of THE RESET X, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648561999&amp;t=4h38m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>830</video:duration>
-    <video:publication_date>2025-12-20T15:54:11.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-12-28T15:54:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
