@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-70/set/98116648/</loc>
+  <lastmod>2026-01-12T19:27:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863784/image-c3b0c2a6b74db4c9b9b065e926dc6683.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kayamba vs Wwalla, Toulouse Fighting Monday 70 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kayamba vs Wwalla in Winners Round 1 of Toulouse Fighting Monday 70, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2668255472&amp;t=0h22m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>840</video:duration>
+    <video:publication_date>2026-01-12T19:27:03.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-01-20T19:27:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-brews/set/98099188/</loc>
   <lastmod>2026-01-12T02:06:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-20T05:10:06.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2025-12-28T05:10:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-101/set/97547953/</loc>
-  <lastmod>2025-12-20T05:26:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859501/image-328b5b30bb69c39df325fc2844dc3602.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CHAIN SHIFT | hidetone vs Scab, SoCal Colosseum #101 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CHAIN SHIFT | hidetone vs Scab in Winners Quarter-Final of SoCal Colosseum #101, streamed by teakei
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648367488&amp;t=1h24m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>567</video:duration>
-    <video:publication_date>2025-12-20T05:08:30.000Z</video:publication_date>
-    <video:uploader>teakei</video:uploader>
-    <video:expiration_date>2025-12-28T05:08:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
