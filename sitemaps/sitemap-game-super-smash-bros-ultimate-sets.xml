@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-210/set/98143368/</loc>
+  <lastmod>2026-01-13T23:37:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869320/image-a46544e43a07c58097231197508db3cb.png
+    </video:thumbnail_loc>
+    <video:title>
+      soh vs BBC | Mitsuki, Le Hub 210 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch soh vs BBC | Mitsuki in Winners Quarter-Final of Le Hub 210, streamed by Smash New Brunswick
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/JK8aDLZLxKg?start=9883s
+    </video:player_loc>
+    <video:duration>341</video:duration>
+    <video:publication_date>2026-01-13T23:29:29.000Z</video:publication_date>
+    <video:uploader>Smash New Brunswick</video:uploader>
+    <video:expiration_date>2026-01-21T23:29:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-210/set/98143363/</loc>
   <lastmod>2026-01-13T22:54:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2025-12-30T02:38:43.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-07T02:38:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ultimate-kick-back-40-1/set/97759883/</loc>
-  <lastmod>2025-12-30T02:58:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864875/image-ab882af8f5a9e739a24317282de24304.png
-    </video:thumbnail_loc>
-    <video:title>
-      Puffed vs failure, Ultimate Kick Back 40 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Puffed vs failure in Winners Semi-Final of Ultimate Kick Back 40, streamed by hindsightne
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2656304430&amp;t=2h35m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1121</video:duration>
-    <video:publication_date>2025-12-30T02:38:15.000Z</video:publication_date>
-    <video:uploader>hindsightne</video:uploader>
-    <video:expiration_date>2026-01-07T02:38:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
