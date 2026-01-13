@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-6/set/98141106/</loc>
+  <lastmod>2026-01-13T20:39:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867276/image-5bc05c2762474e3fff64c06840b84185.png
+    </video:thumbnail_loc>
+    <video:title>
+      Walsall Gaming | Tom? vs ASDA | My Dad, Fowl Play! - 6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Walsall Gaming | Tom? vs ASDA | My Dad in Losers Round 3 of Fowl Play! - 6, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2669128543&amp;t=0h59m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>868</video:duration>
+    <video:publication_date>2026-01-13T20:23:18.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2026-01-21T20:23:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-6/set/98141046/</loc>
-  <lastmod>2026-01-13T20:05:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-13T20:30:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2669128543&amp;t=0h41m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>922</video:duration>
+    <video:duration>1037</video:duration>
     <video:publication_date>2026-01-13T20:05:29.000Z</video:publication_date>
     <video:uploader>Jaysotee</video:uploader>
     <video:expiration_date>2026-01-21T20:05:29.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-13T19:57:14.000Z</video:publication_date>
     <video:uploader>kapa_team</video:uploader>
     <video:expiration_date>2025-12-21T19:57:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/jingle-bell-roc-2-2/set/97349864/</loc>
-  <lastmod>2025-12-13T20:06:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840849/image-cdcd14d9e6c6394276247bf87f4bf82c.png
-    </video:thumbnail_loc>
-    <video:title>
-      ROC | killerrobo vs Jboss, Jingle Bell ROC 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ROC | killerrobo vs Jboss in Losers Round 1 of Jingle Bell ROC 2, streamed by rochestersmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2642974455&amp;t=1h28m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1327</video:duration>
-    <video:publication_date>2025-12-13T19:38:51.000Z</video:publication_date>
-    <video:uploader>rochestersmash</video:uploader>
-    <video:expiration_date>2025-12-21T19:38:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
