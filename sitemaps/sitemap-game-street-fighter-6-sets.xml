@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/barro-s-beatdown-9/set/98137055/</loc>
+  <lastmod>2026-01-13T03:54:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866239/image-a1843cdacbd6795e04ec617c3288569f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      chinaman vs smut, Barro&apos;s Beatdown #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch chinaman vs smut in Winners Round 1 of Barro&apos;s Beatdown #9, streamed by barrosbeatdown
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2668658882&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>984</video:duration>
+    <video:publication_date>2026-01-13T03:54:56.000Z</video:publication_date>
+    <video:uploader>barrosbeatdown</video:uploader>
+    <video:expiration_date>2026-01-21T03:54:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-s-bros-39/set/98108557/</loc>
   <lastmod>2026-01-12T02:25:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-20T20:56:07.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2025-12-28T20:56:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-december-2025/set/97574430/</loc>
-  <lastmod>2025-12-20T21:01:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853381/image-84124fdb6c72f4e506ff50b8f44487d5.png
-    </video:thumbnail_loc>
-    <video:title>
-      ApexScrub vs Mercviper, Space City Beatdown - December 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ApexScrub vs Mercviper in Losers Round 3 of Space City Beatdown - December 2025, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648919022&amp;t=0h14m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>506</video:duration>
-    <video:publication_date>2025-12-20T20:44:45.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2025-12-28T20:44:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
