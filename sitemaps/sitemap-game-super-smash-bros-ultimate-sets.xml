@@ -18,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=lan_hero&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3416</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-01-13T06:30:22.000Z</video:publication_date>
     <video:uploader>lan_hero</video:uploader>
     <video:expiration_date>2026-01-21T06:30:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/arcade-time-knockout-smash-brothers-tournament-with-hungrybox/set/98138014/</loc>
+  <lastmod>2026-01-13T07:43:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864070/image-7954b2b755789b006b403fc07b800c4f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ROK | Karu! vs Epic_Gabriel, Arcade Time Knockout Smash Brothers Tournament With Hungrybox - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ROK | Karu! vs Epic_Gabriel in Losers Final of Arcade Time Knockout Smash Brothers Tournament With Hungrybox, streamed by HUNGRYBOX
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2668544698&amp;t=6h13m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>603</video:duration>
+    <video:publication_date>2026-01-13T07:31:30.000Z</video:publication_date>
+    <video:uploader>HUNGRYBOX</video:uploader>
+    <video:expiration_date>2026-01-21T07:31:30.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2025-12-30T01:48:55.000Z</video:publication_date>
     <video:uploader>thelegendarywes</video:uploader>
     <video:expiration_date>2026-01-07T01:48:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rookie-round-robin-40/set/97758671/</loc>
-  <lastmod>2025-12-30T02:03:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864868/image-bb9ae6ce0b126ed1367c59ca45d65490.png
-    </video:thumbnail_loc>
-    <video:title>
-      UE | DinoNuggies vs W.G. Farter, Rookie Round Robin #40 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UE | DinoNuggies vs W.G. Farter in Winners Quarter-Final of Rookie Round Robin #40, streamed by gamersgrovegg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2656322181&amp;t=1h22m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>774</video:duration>
-    <video:publication_date>2025-12-30T01:48:40.000Z</video:publication_date>
-    <video:uploader>gamersgrovegg</video:uploader>
-    <video:expiration_date>2026-01-07T01:48:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
