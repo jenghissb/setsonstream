@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/freeplay-taunton-10-2/set/98158177/</loc>
+  <lastmod>2026-01-14T04:09:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869198/image-1b6aab37ba29d89ef60216faa09a0e8f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tichinde925 vs Hayo, Freeplay Taunton #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tichinde925 vs Hayo in Losers Final of Freeplay Taunton #10, streamed by vanlatimore
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2669363703&amp;t=2h51m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2691</video:duration>
+    <video:publication_date>2026-01-14T03:17:23.000Z</video:publication_date>
+    <video:uploader>vanlatimore</video:uploader>
+    <video:expiration_date>2026-01-22T03:17:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/freeplay-taunton-10-2/set/98158169/</loc>
-  <lastmod>2026-01-14T03:11:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-14T03:24:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2669363703&amp;t=2h45m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>564</video:duration>
+    <video:duration>238</video:duration>
     <video:publication_date>2026-01-14T03:11:42.000Z</video:publication_date>
     <video:uploader>vanlatimore</video:uploader>
     <video:expiration_date>2026-01-22T03:11:42.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-14T01:13:22.000Z</video:publication_date>
     <video:uploader>ded__gaming</video:uploader>
     <video:expiration_date>2025-12-22T01:13:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wolfie-wars-monthly-17/set/97373767/</loc>
-  <lastmod>2025-12-14T01:35:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855866/image-fff72c97bbd74d58a429a3d40ba8d11b.png
-    </video:thumbnail_loc>
-    <video:title>
-      SP | Christian vs griffo, Wolfie Wars Monthly 17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SP | Christian vs griffo in Losers Quarter-Final of Wolfie Wars Monthly 17, streamed by sbumelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643208261&amp;t=2h4m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>893</video:duration>
-    <video:publication_date>2025-12-14T01:09:38.000Z</video:publication_date>
-    <video:uploader>sbumelee</video:uploader>
-    <video:expiration_date>2025-12-22T01:09:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
