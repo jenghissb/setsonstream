@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gould-st-gauntlet-13/set/98172109/</loc>
-  <lastmod>2026-01-14T23:26:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/buffalo-wild-wednesdays-106/set/98173374/</loc>
+  <lastmod>2026-01-14T23:38:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869811/image-e501dc440e02e6ed7af8cb2354f9268e.png
+    </video:thumbnail_loc>
+    <video:title>
+      SNHU | Frozen1ne vs UC | jaruca, Buffalo Wild Wednesdays #106 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SNHU | Frozen1ne vs UC | jaruca in Winners Round 1 of Buffalo Wild Wednesdays #106, streamed by vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=vgbootcamp&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>384</video:duration>
+    <video:publication_date>2026-01-14T23:38:23.000Z</video:publication_date>
+    <video:uploader>vgbootcamp</video:uploader>
+    <video:expiration_date>2026-01-22T23:38:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gould-st-gauntlet-13/set/98172109/</loc>
+  <lastmod>2026-01-14T23:43:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2670173253&amp;t=0h19m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>255</video:duration>
+    <video:duration>943</video:duration>
     <video:publication_date>2026-01-14T23:26:48.000Z</video:publication_date>
     <video:uploader>nostyleesports</video:uploader>
     <video:expiration_date>2026-01-22T23:26:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-side-deck-smash-278-1-14-26/set/98170844/</loc>
-  <lastmod>2026-01-14T23:06:16.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868933/image-ff238bbc24263e251eb8b30f6cbe087d.png
-    </video:thumbnail_loc>
-    <video:title>
-      PHNM | NoTag vs Shalom | Mercury, The Side Deck Smash #278 1/14/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PHNM | NoTag vs Shalom | Mercury in Winners Quarter-Final of The Side Deck Smash #278 1/14/26, streamed by Adachi4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2670115354&amp;t=1h16m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1487</video:duration>
-    <video:publication_date>2026-01-14T23:06:16.000Z</video:publication_date>
-    <video:uploader>Adachi4</video:uploader>
-    <video:expiration_date>2026-01-22T23:06:16.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -94,6 +94,30 @@
     <video:publication_date>2026-01-14T23:10:35.000Z</video:publication_date>
     <video:uploader>nostyleesports</video:uploader>
     <video:expiration_date>2026-01-22T23:10:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-side-deck-smash-278-1-14-26/set/98170844/</loc>
+  <lastmod>2026-01-14T23:38:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868933/image-ff238bbc24263e251eb8b30f6cbe087d.png
+    </video:thumbnail_loc>
+    <video:title>
+      PHNM | NoTag vs Shalom | Mercury, The Side Deck Smash #278 1/14/26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PHNM | NoTag vs Shalom | Mercury in Winners Quarter-Final of The Side Deck Smash #278 1/14/26, streamed by Adachi4
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2670115354&amp;t=1h16m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1824</video:duration>
+    <video:publication_date>2026-01-14T23:06:16.000Z</video:publication_date>
+    <video:uploader>Adachi4</video:uploader>
+    <video:expiration_date>2026-01-22T23:06:16.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
