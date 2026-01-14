@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-126/set/98162780/</loc>
+  <lastmod>2026-01-14T06:15:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867686/image-9df88e14b95a08f71d8a245d8830f98f.png
+    </video:thumbnail_loc>
+    <video:title>
+      TJGE | Megaman vs cozy, Melee @ Abbey Tavern #126 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TJGE | Megaman vs cozy in Winners Semi-Final of Melee @ Abbey Tavern #126, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2669458850&amp;t=3h41m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1009</video:duration>
+    <video:publication_date>2026-01-14T05:57:30.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2026-01-22T05:57:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-126/set/98162481/</loc>
-  <lastmod>2026-01-14T05:45:43.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-14T06:04:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2669458850&amp;t=3h29m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>589</video:duration>
+    <video:duration>550</video:duration>
     <video:publication_date>2026-01-14T05:45:43.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2026-01-22T05:45:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-126/set/98162482/</loc>
-  <lastmod>2026-01-14T05:45:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867686/image-9df88e14b95a08f71d8a245d8830f98f.png
-    </video:thumbnail_loc>
-    <video:title>
-      VTown | Jhib vs Mongoose, Melee @ Abbey Tavern #126 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VTown | Jhib vs Mongoose in Losers Round 3 of Melee @ Abbey Tavern #126, streamed by sidestream
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=sidestream&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>579</video:duration>
-    <video:publication_date>2026-01-14T05:45:53.000Z</video:publication_date>
-    <video:uploader>sidestream</video:uploader>
-    <video:expiration_date>2026-01-22T05:45:53.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14398,30 +14398,6 @@
     <video:publication_date>2025-12-14T16:24:06.000Z</video:publication_date>
     <video:uploader>saftisblandis</video:uploader>
     <video:expiration_date>2025-12-22T16:24:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-super-all-stars/set/97399618/</loc>
-  <lastmod>2025-12-14T16:33:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/816779/image-674b771fbdc95161c18e12b4910f0e35.png
-    </video:thumbnail_loc>
-    <video:title>
-      Eckie vs BDP | Dille, Kappa Clash Super All-Stars - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Eckie vs BDP | Dille in Winners Round 2 of Kappa Clash Super All-Stars, streamed by saftisblandis
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2643664110&amp;t=3h5m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>877</video:duration>
-    <video:publication_date>2025-12-14T16:09:55.000Z</video:publication_date>
-    <video:uploader>saftisblandis</video:uploader>
-    <video:expiration_date>2025-12-22T16:09:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
