@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-the-final-pummel/set/98163103/</loc>
-  <lastmod>2026-01-14T09:10:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-the-final-pummel/set/98163498/</loc>
+  <lastmod>2026-01-14T09:46:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868751/image-2c978e6cf171ac87cb72325e862ff71c.png
+    </video:thumbnail_loc>
+    <video:title>
+      I HATE YINK | Benedict vs cloom/Spag | #Brain#Power, Pincadia: The Final Pummel - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch I HATE YINK | Benedict vs cloom/Spag | #Brain#Power in Winners Semi-Final of Pincadia: The Final Pummel, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/channel/UCc4IdYnokV518U4O2-xi6RA
+    </video:player_loc>
+    <video:duration>324</video:duration>
+    <video:publication_date>2026-01-14T09:46:07.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2026-01-22T09:46:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-the-final-pummel/set/98163104/</loc>
+  <lastmod>2026-01-14T09:43:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868751/image-2c978e6cf171ac87cb72325e862ff71c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Luigi&apos;s Left Hand vs I HATE YINK | Benedict, Pincadia: The Final Pummel - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Luigi&apos;s Left Hand vs I HATE YINK | Benedict in Winners Quarter-Final of Pincadia: The Final Pummel, streamed by ScuffedSmashVods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/P4GmGHAwFXg?start=8040s
+    </video:player_loc>
+    <video:duration>726</video:duration>
+    <video:publication_date>2026-01-14T09:29:25.000Z</video:publication_date>
+    <video:uploader>ScuffedSmashVods</video:uploader>
+    <video:expiration_date>2026-01-22T09:29:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pincadia-the-final-pummel/set/98163103/</loc>
+  <lastmod>2026-01-14T09:30:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/P4GmGHAwFXg?start=6896s
     </video:player_loc>
-    <video:duration>943</video:duration>
+    <video:duration>1064</video:duration>
     <video:publication_date>2026-01-14T09:10:21.000Z</video:publication_date>
     <video:uploader>ScuffedSmashVods</video:uploader>
     <video:expiration_date>2026-01-22T09:10:21.000Z</video:expiration_date>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2025-12-31T04:47:00.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-01-08T04:47:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cooped-up-eavesdrop-brewery-18/set/97774100/</loc>
-  <lastmod>2025-12-31T04:56:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864582/image-28fa5a21063b4db24483b004b824049b.png
-    </video:thumbnail_loc>
-    <video:title>
-      BLZE | Wrap! vs SMFN | Joe, Cooped Up @ Eavesdrop Brewery #18 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BLZE | Wrap! vs SMFN | Joe in Losers Final of Cooped Up @ Eavesdrop Brewery #18, streamed by KMLtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2657174584&amp;t=4h16m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>606</video:duration>
-    <video:publication_date>2025-12-31T04:46:07.000Z</video:publication_date>
-    <video:uploader>KMLtournaments</video:uploader>
-    <video:expiration_date>2026-01-08T04:46:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
