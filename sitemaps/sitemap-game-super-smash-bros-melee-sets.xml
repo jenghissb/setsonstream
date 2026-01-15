@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-364/set/98203238/</loc>
+  <lastmod>2026-01-15T22:52:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869982/image-564a9046837746ac370c9e925d25e997.png
+    </video:thumbnail_loc>
+    <video:title>
+      Worn_Mittens vs Ouro, Salt Water Smash 364 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Worn_Mittens vs Ouro in Round 2 of Salt Water Smash 364, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2671014748&amp;t=0h14m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>222</video:duration>
+    <video:publication_date>2026-01-15T22:52:41.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-01-23T22:52:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-173-adams-smash-series-173/set/98188826/</loc>
   <lastmod>2026-01-15T06:03:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-17T04:54:34.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-25T04:54:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-124-the-2025-abbey-awards/set/97467373/</loc>
-  <lastmod>2025-12-17T04:57:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858897/image-c12dbafef1ac48ba0aea7befd45b0260.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rob jr | blargh257 vs Spotify | GaryOAKland, Melee @ Abbey Tavern #124: The 2025 Abbey Awards! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rob jr | blargh257 vs Spotify | GaryOAKland in Winners Round 2 of Melee @ Abbey Tavern #124: The 2025 Abbey Awards!, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2645885641&amp;t=1h39m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>465</video:duration>
-    <video:publication_date>2025-12-17T04:47:18.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-25T04:47:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
