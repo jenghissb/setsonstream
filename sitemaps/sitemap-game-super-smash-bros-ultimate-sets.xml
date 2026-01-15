@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189806/</loc>
-  <lastmod>2026-01-15T07:04:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189807/</loc>
+  <lastmod>2026-01-15T07:34:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868328/image-881dcac07c7b1c4b9b987b715dfb9795.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sho vs NU | Lui$, Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sho vs NU | Lui$ in Grand Final Reset of Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2670383958&amp;t=4h7m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>665</video:duration>
+    <video:publication_date>2026-01-15T07:34:13.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2026-01-23T07:34:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189806/</loc>
+  <lastmod>2026-01-15T07:36:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2670383958&amp;t=3h37m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1341</video:duration>
+    <video:duration>1784</video:duration>
     <video:publication_date>2026-01-15T07:04:15.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-01-23T07:04:15.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-02T17:45:51.000Z</video:publication_date>
     <video:uploader>smash_sevilla</video:uploader>
     <video:expiration_date>2026-01-10T17:45:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-basement-45/set/97808858/</loc>
-  <lastmod>2026-01-02T17:55:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864756/image-00ba915337690ab597363889d819eae2.png
-    </video:thumbnail_loc>
-    <video:title>
-      TigerLink vs Alex_Vramby, The Basement #45 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TigerLink vs Alex_Vramby in Winners Round 1 of The Basement #45, streamed by aesulb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659295297&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>772</video:duration>
-    <video:publication_date>2026-01-02T17:40:53.000Z</video:publication_date>
-    <video:uploader>aesulb</video:uploader>
-    <video:expiration_date>2026-01-10T17:40:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
