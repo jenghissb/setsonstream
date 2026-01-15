@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/pofc-79-street-fighter-6-the-return/set/98184757/</loc>
+  <lastmod>2026-01-15T05:15:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868162/image-e564bf499901f5d914e74e4d73ef41d9.png
+    </video:thumbnail_loc>
+    <video:title>
+      MEATCITY | Mr-MadGear vs Rodge, POFC 79 - Street Fighter 6: The Return! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MEATCITY | Mr-MadGear vs Rodge in Grand Final of POFC 79 - Street Fighter 6: The Return!, streamed by TXShowdownLive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2670340830&amp;t=2h25m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>753</video:duration>
+    <video:publication_date>2026-01-15T04:54:37.000Z</video:publication_date>
+    <video:uploader>TXShowdownLive</video:uploader>
+    <video:expiration_date>2026-01-23T04:54:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/pofc-79-street-fighter-6-the-return/set/98184820/</loc>
-  <lastmod>2026-01-15T04:43:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-15T04:57:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2670340830&amp;t=2h14m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>657</video:duration>
+    <video:duration>644</video:duration>
     <video:publication_date>2026-01-15T04:43:49.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2026-01-23T04:43:49.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-22T02:11:36.000Z</video:publication_date>
     <video:uploader>aozaru9</video:uploader>
     <video:expiration_date>2025-12-30T02:11:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/level-152-y-vgm-presentan-sushi-de-delf-n-tournament-el-presencial-13-1/set/97617849/</loc>
-  <lastmod>2025-12-21T20:40:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      NFMS | PATELANA vs ANV | Jindra, Level 152 y VGM Presentan: Sushi de Delfín Tournament EL PRESENCIAL #13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NFMS | PATELANA vs ANV | Jindra in Winners Quarter-Final of Level 152 y VGM Presentan: Sushi de Delfín Tournament EL PRESENCIAL #13, streamed by nickdogg_ddr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2649678977&amp;t=1h52m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>416</video:duration>
-    <video:publication_date>2025-12-21T20:21:56.000Z</video:publication_date>
-    <video:uploader>nickdogg_ddr</video:uploader>
-    <video:expiration_date>2025-12-29T20:21:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
