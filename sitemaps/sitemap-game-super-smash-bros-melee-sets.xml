@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-364/set/98203223/</loc>
-  <lastmod>2026-01-15T23:31:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-364/set/98203211/</loc>
+  <lastmod>2026-01-15T23:43:15.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869982/image-564a9046837746ac370c9e925d25e997.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shy vs RileyReads, Salt Water Smash 364 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shy vs RileyReads in Round 4 of Salt Water Smash 364, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2671014748&amp;t=1h4m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>537</video:duration>
+    <video:publication_date>2026-01-15T23:43:15.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-01-23T23:43:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-364/set/98203223/</loc>
+  <lastmod>2026-01-15T23:47:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2671014748&amp;t=0h53m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>634</video:duration>
+    <video:duration>673</video:duration>
     <video:publication_date>2026-01-15T23:31:49.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-01-23T23:31:49.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-17T06:25:42.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-25T06:25:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-124-the-2025-abbey-awards/set/97468665/</loc>
-  <lastmod>2025-12-17T06:24:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858897/image-c12dbafef1ac48ba0aea7befd45b0260.png
-    </video:thumbnail_loc>
-    <video:title>
-      Darksilence vs Mongoose, Melee @ Abbey Tavern #124: The 2025 Abbey Awards! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Darksilence vs Mongoose in Losers Round 1 of Melee @ Abbey Tavern #124: The 2025 Abbey Awards!, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2645885641&amp;t=3h5m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>627</video:duration>
-    <video:publication_date>2025-12-17T06:12:48.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-25T06:12:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
