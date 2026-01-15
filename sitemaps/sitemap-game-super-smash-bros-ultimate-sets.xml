@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189806/</loc>
+  <lastmod>2026-01-15T07:04:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868328/image-881dcac07c7b1c4b9b987b715dfb9795.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NU | Lui$ vs Sho, Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NU | Lui$ vs Sho in Grand Final of Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2670383958&amp;t=3h37m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1341</video:duration>
+    <video:publication_date>2026-01-15T07:04:15.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2026-01-23T07:04:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189836/</loc>
   <lastmod>2026-01-15T06:51:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-02T17:40:53.000Z</video:publication_date>
     <video:uploader>aesulb</video:uploader>
     <video:expiration_date>2026-01-10T17:40:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-02-01-2026/set/97808190/</loc>
-  <lastmod>2026-01-02T17:51:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865253/image-ac1e0195c97beca50e1e5018eed52b78.png
-    </video:thumbnail_loc>
-    <video:title>
-      NX | fran13 vs RA/MC | Drimbly, CitiSmash - 02/01/2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NX | fran13 vs RA/MC | Drimbly in Losers Round 5 of CitiSmash - 02/01/2026, streamed by citismash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659222180&amp;t=1h49m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>601</video:duration>
-    <video:publication_date>2026-01-02T17:40:26.000Z</video:publication_date>
-    <video:uploader>citismash</video:uploader>
-    <video:expiration_date>2026-01-10T17:40:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
