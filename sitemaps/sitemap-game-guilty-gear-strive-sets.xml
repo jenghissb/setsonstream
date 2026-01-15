@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189248/</loc>
+  <lastmod>2026-01-15T04:06:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868328/image-881dcac07c7b1c4b9b987b715dfb9795.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      esfc | prem vs TKOpher, Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch esfc | prem vs TKOpher in Winners Quarter-Final of Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2670395949&amp;t=0h3m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>511</video:duration>
+    <video:publication_date>2026-01-15T03:48:47.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-01-23T03:48:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-223-wish-upon-a-luckystar/set/98153970/</loc>
   <lastmod>2026-01-14T03:48:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-21T01:27:54.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2025-12-29T01:27:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-night-live-os-4/set/97592222/</loc>
-  <lastmod>2025-12-21T01:37:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845998/image-94290b275acd816b9c15da45f30ca271.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fly | NitroNY vs Mr.Mudkip, Fight Night Live @ OS #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fly | NitroNY vs Mr.Mudkip in Losers Final of Fight Night Live @ OS #4, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648946549&amp;t=4h13m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2025-12-21T01:19:51.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2025-12-29T01:19:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
