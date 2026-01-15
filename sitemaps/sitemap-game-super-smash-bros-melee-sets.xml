@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-173-adams-smash-series-173/set/98188826/</loc>
+  <lastmod>2026-01-15T06:03:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869497/image-cc61902c8b710623d294be3ee302b885.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sprite | Jiffy vs [ass] | Stiv, Adam&apos;s Smash Series #173: Adams Smash Series #173 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sprite | Jiffy vs [ass] | Stiv in Losers Semi-Final of Adam&apos;s Smash Series #173: Adams Smash Series #173, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2670352509&amp;t=3h2m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>786</video:duration>
+    <video:publication_date>2026-01-15T05:46:55.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2026-01-23T05:46:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-173-adams-smash-series-173/set/98188820/</loc>
   <lastmod>2026-01-15T05:12:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-17T04:47:18.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2025-12-25T04:47:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-124-the-2025-abbey-awards/set/97467425/</loc>
-  <lastmod>2025-12-17T04:48:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858897/image-c12dbafef1ac48ba0aea7befd45b0260.png
-    </video:thumbnail_loc>
-    <video:title>
-      KDA | Kaiser vs n8 | Mint, Melee @ Abbey Tavern #124: The 2025 Abbey Awards! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KDA | Kaiser vs n8 | Mint in Losers Round 1 of Melee @ Abbey Tavern #124: The 2025 Abbey Awards!, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2645885641&amp;t=1h31m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>459</video:duration>
-    <video:publication_date>2025-12-17T04:38:49.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2025-12-25T04:38:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
