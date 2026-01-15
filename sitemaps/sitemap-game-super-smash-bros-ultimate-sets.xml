@@ -1,33 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/salt-water-smash-364/set/98203270/</loc>
-  <lastmod>2026-01-15T23:13:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/battle-over-the-bridge-219/set/98204714/</loc>
+  <lastmod>2026-01-15T23:38:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868403/image-ac5f1e6c6cd9693d683a7d90ec1f998b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Donoxed vs FORTNITE, Battle Over The Bridge 219 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Donoxed vs FORTNITE in Winners Round 1 of Battle Over The Bridge 219, streamed by SectorXGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2671014234&amp;t=1h0m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>259</video:duration>
+    <video:publication_date>2026-01-15T23:38:04.000Z</video:publication_date>
+    <video:uploader>SectorXGaming</video:uploader>
+    <video:expiration_date>2026-01-23T23:38:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/salt-water-smash-364/set/98203280/</loc>
+  <lastmod>2026-01-15T23:40:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/869982/image-564a9046837746ac370c9e925d25e997.png
     </video:thumbnail_loc>
     <video:title>
-      DanielNL vs DadNL, Salt Water Smash 364 - Sets on Stream
+      SeaRabbits vs iWillEatYou, Salt Water Smash 364 - Sets on Stream
     </video:title>
     <video:description>
-      Watch DanielNL vs DadNL in Round 5 of Salt Water Smash 364, streamed by SmashNL_2
+      Watch SeaRabbits vs iWillEatYou in Round 5 of Salt Water Smash 364, streamed by SmashNL_2
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2671014693&amp;t=0h35m2s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2671014693&amp;t=0h54m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>263</video:duration>
-    <video:publication_date>2026-01-15T23:13:33.000Z</video:publication_date>
+    <video:duration>420</video:duration>
+    <video:publication_date>2026-01-15T23:32:35.000Z</video:publication_date>
     <video:uploader>SmashNL_2</video:uploader>
-    <video:expiration_date>2026-01-23T23:13:33.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-23T23:32:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/salt-water-smash-364/set/98203286/</loc>
+  <lastmod>2026-01-15T23:34:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869982/image-564a9046837746ac370c9e925d25e997.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jman Delt* vs Liro, Salt Water Smash 364 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jman Delt* vs Liro in Round 3 of Salt Water Smash 364, streamed by SmashNL_2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2671014693&amp;t=0h45m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>502</video:duration>
+    <video:publication_date>2026-01-15T23:24:21.000Z</video:publication_date>
+    <video:uploader>SmashNL_2</video:uploader>
+    <video:expiration_date>2026-01-23T23:24:21.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fragsmash-weekly-149-3-now-on-the-wii/set/98200528/</loc>
-  <lastmod>2026-01-15T23:14:47.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-15T23:38:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2670968723&amp;t=1h40m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>189</video:duration>
+    <video:duration>1390</video:duration>
     <video:publication_date>2026-01-15T23:14:47.000Z</video:publication_date>
     <video:uploader>fragsoc</video:uploader>
     <video:expiration_date>2026-01-23T23:14:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/salt-water-smash-364/set/98203270/</loc>
+  <lastmod>2026-01-15T23:22:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869982/image-564a9046837746ac370c9e925d25e997.png
+    </video:thumbnail_loc>
+    <video:title>
+      DanielNL vs DadNL, Salt Water Smash 364 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DanielNL vs DadNL in Round 5 of Salt Water Smash 364, streamed by SmashNL_2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2671014693&amp;t=0h35m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>486</video:duration>
+    <video:publication_date>2026-01-15T23:13:33.000Z</video:publication_date>
+    <video:uploader>SmashNL_2</video:uploader>
+    <video:expiration_date>2026-01-23T23:13:33.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71926,78 +71998,6 @@
     <video:publication_date>2026-01-03T03:05:58.000Z</video:publication_date>
     <video:uploader>cosmash</video:uploader>
     <video:expiration_date>2026-01-11T03:05:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-grimer-s-oasis-155/set/97815578/</loc>
-  <lastmod>2026-01-03T03:17:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865478/image-52b9fa2da89ca0393152c4275baf6422.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bertyboy vs TGO | Brogan, The Grimer’s Oasis #155 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bertyboy vs TGO | Brogan in Losers Semi-Final of The Grimer’s Oasis #155, streamed by HindsightNE
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659635726&amp;t=2h11m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>591</video:duration>
-    <video:publication_date>2026-01-03T03:05:41.000Z</video:publication_date>
-    <video:uploader>HindsightNE</video:uploader>
-    <video:expiration_date>2026-01-11T03:05:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fireball-fridays-171/set/97813058/</loc>
-  <lastmod>2026-01-03T03:13:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865526/image-7792a731730687ae1751b727a6f17167.png
-    </video:thumbnail_loc>
-    <video:title>
-      MSU | fair vs Liquid | IV, Fireball Fridays #171 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MSU | fair vs Liquid | IV in Losers Final of Fireball Fridays #171, streamed by cavalryesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659561719&amp;t=3h43m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>575</video:duration>
-    <video:publication_date>2026-01-03T03:02:38.000Z</video:publication_date>
-    <video:uploader>cavalryesports</video:uploader>
-    <video:expiration_date>2026-01-11T03:02:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/stargate-classic-2-up-to-1000-pot-bonus-new-years-hot-cocoa-provided/set/97821845/</loc>
-  <lastmod>2026-01-03T03:08:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865037/image-8e562c8dc4f31c3eb5c9a1ad355870b5.png
-    </video:thumbnail_loc>
-    <video:title>
-      RLz | FRIGGIN KRUGYO vs Festive Wind Jolly Fist, STARGATE CLASSIC #2 up to $1000 Pot Bonus! New Years Hot Cocoa Provided! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RLz | FRIGGIN KRUGYO vs Festive Wind Jolly Fist in Winners Quarter-Final of STARGATE CLASSIC #2 up to $1000 Pot Bonus! New Years Hot Cocoa Provided!, streamed by fuzzypixelgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659619009&amp;t=2h28m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>338</video:duration>
-    <video:publication_date>2026-01-03T03:00:35.000Z</video:publication_date>
-    <video:uploader>fuzzypixelgg</video:uploader>
-    <video:expiration_date>2026-01-11T03:00:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
