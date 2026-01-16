@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-195-norcal-street-fighter-6-weekly/set/98219758/</loc>
+  <lastmod>2026-01-16T05:41:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869868/image-e677aa914f1c359e111398f68b70efd7.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | chumpslayer vs SlyCoco, Guildhouse Fighters 195 - Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | chumpslayer vs SlyCoco in Winners Semi-Final of Guildhouse Fighters 195 - Norcal Street Fighter 6 weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2671253205&amp;t=1h44m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>862</video:duration>
+    <video:publication_date>2026-01-16T05:24:37.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2026-01-24T05:24:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-195-norcal-street-fighter-6-weekly/set/98219759/</loc>
-  <lastmod>2026-01-16T05:10:13.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-16T05:29:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2671253205&amp;t=1h29m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>734</video:duration>
+    <video:duration>851</video:duration>
     <video:publication_date>2026-01-16T05:10:13.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-01-24T05:10:13.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-24T01:50:55.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-01T01:50:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-220-it-s-time-for-a-holiday-mindset-merry-christmas/set/97659123/</loc>
-  <lastmod>2025-12-24T02:04:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863405/image-3780a54009f81d7eac4e1590f6cef5ca.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | Bran D. Galaxy vs MUOH | nekro, CFG Tuesday Trials 220: It&apos;s Time for a Holiday Mindset! Merry Christmas! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | Bran D. Galaxy vs MUOH | nekro in Winners Final of CFG Tuesday Trials 220: It&apos;s Time for a Holiday Mindset! Merry Christmas!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2651521094&amp;t=2h18m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>921</video:duration>
-    <video:publication_date>2025-12-24T01:44:59.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-01-01T01:44:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
