@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tiny-tekken-viii/set/98232661/</loc>
+  <lastmod>2026-01-16T22:50:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870378/image-de88e1c3a5ee1050089a83ab061f4752.png
+    </video:thumbnail_loc>
+    <video:title>
+      KILL | THEKILL812 vs I.O.N | Cybers_VHS, Tiny Tekken VIII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KILL | THEKILL812 vs I.O.N | Cybers_VHS in Winners Quarter-Final of Tiny Tekken VIII, streamed by Ciojely
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2671897053&amp;t=0h23m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1609</video:duration>
+    <video:publication_date>2026-01-16T22:50:37.000Z</video:publication_date>
+    <video:uploader>Ciojely</video:uploader>
+    <video:expiration_date>2026-01-24T22:50:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-203-t8-weekly/set/98220767/</loc>
   <lastmod>2026-01-16T06:33:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-27T15:15:53.000Z</video:publication_date>
     <video:uploader>gamingloods</video:uploader>
     <video:expiration_date>2026-01-04T15:15:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/loods-arena-2025/set/97701267/</loc>
-  <lastmod>2025-12-27T15:17:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856508/image-9e037fd3dd2234672dda62f47ca10435.png
-    </video:thumbnail_loc>
-    <video:title>
-      SHFT | ILIAS vs BUFFALO SOLDIER, Loods Arena 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SHFT | ILIAS vs BUFFALO SOLDIER in Winners Semi-Final of Loods Arena 2025, streamed by gamingloods
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654149260&amp;t=2h32m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>488</video:duration>
-    <video:publication_date>2025-12-27T15:06:43.000Z</video:publication_date>
-    <video:uploader>gamingloods</video:uploader>
-    <video:expiration_date>2026-01-04T15:06:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
