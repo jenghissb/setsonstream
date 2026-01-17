@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98272170/</loc>
-  <lastmod>2026-01-17T19:06:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98277761/</loc>
+  <lastmod>2026-01-17T19:23:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
+    </video:thumbnail_loc>
+    <video:title>
+      nitus vs BoboQC, Afterburner 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch nitus vs BoboQC in Losers Round 1 of Afterburner 2026, streamed by odysseyesports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672675276&amp;t=0h44m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>888</video:duration>
+    <video:publication_date>2026-01-17T19:23:50.000Z</video:publication_date>
+    <video:uploader>odysseyesports2</video:uploader>
+    <video:expiration_date>2026-01-25T19:23:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98272170/</loc>
+  <lastmod>2026-01-17T19:35:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672675276&amp;t=0h27m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1295</video:duration>
+    <video:duration>1025</video:duration>
     <video:publication_date>2026-01-17T19:06:40.000Z</video:publication_date>
     <video:uploader>odysseyesports2</video:uploader>
     <video:expiration_date>2026-01-25T19:06:40.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-19T03:01:36.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-27T03:01:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-9/set/97504793/</loc>
-  <lastmod>2025-12-19T03:02:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862940/image-09ff108a79906e5655c7519a03062a77.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sparda vs Karils | Conflict, HoG: Phoenix 9.9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sparda vs Karils | Conflict in Losers Semi-Final of HoG: Phoenix 9.9, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647394003&amp;t=2h17m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1042</video:duration>
-    <video:publication_date>2025-12-19T02:44:09.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-12-27T02:44:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
