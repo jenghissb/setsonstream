@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/frostfire-2026/set/98288582/</loc>
-  <lastmod>2026-01-17T23:14:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/frostfire-2026/set/98288587/</loc>
+  <lastmod>2026-01-17T23:30:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/839825/image-8541e05f4bb42c24c5ce95b470ed69e0.png
+    </video:thumbnail_loc>
+    <video:title>
+      ACSL vs RN | Don, Frostfire 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ACSL vs RN | Don in Losers Round 3 of Frostfire 2026, streamed by streamlandSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672726929&amp;t=3h57m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1245</video:duration>
+    <video:publication_date>2026-01-17T23:30:19.000Z</video:publication_date>
+    <video:uploader>streamlandSSB</video:uploader>
+    <video:expiration_date>2026-01-25T23:30:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raleigh-rewind/set/98288067/</loc>
+  <lastmod>2026-01-17T23:29:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849640/image-842542e4e2e2a28ba954a79c60097b9c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zasa vs Syched, Raleigh Rewind - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zasa vs Syched in Grand Final of Raleigh Rewind, streamed by BuddBuds
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=BuddBuds&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1270</video:duration>
+    <video:publication_date>2026-01-17T23:29:54.000Z</video:publication_date>
+    <video:uploader>BuddBuds</video:uploader>
+    <video:expiration_date>2026-01-25T23:29:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/frostfire-2026/set/98288582/</loc>
+  <lastmod>2026-01-17T23:41:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672726929&amp;t=3h41m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1117</video:duration>
+    <video:duration>715</video:duration>
     <video:publication_date>2026-01-17T23:14:56.000Z</video:publication_date>
     <video:uploader>streamlandSSB</video:uploader>
     <video:expiration_date>2026-01-25T23:14:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raleigh-rewind/set/98288082/</loc>
-  <lastmod>2026-01-17T23:05:35.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849640/image-842542e4e2e2a28ba954a79c60097b9c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zimberfizz vs Syched, Raleigh Rewind - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zimberfizz vs Syched in Losers Final of Raleigh Rewind, streamed by BuddBuds
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=BuddBuds&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1678</video:duration>
-    <video:publication_date>2026-01-17T23:05:35.000Z</video:publication_date>
-    <video:uploader>BuddBuds</video:uploader>
-    <video:expiration_date>2026-01-25T23:05:35.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14398,30 +14422,6 @@
     <video:publication_date>2025-12-19T04:39:44.000Z</video:publication_date>
     <video:uploader>flatmen</video:uploader>
     <video:expiration_date>2025-12-27T04:39:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-127/set/97513526/</loc>
-  <lastmod>2025-12-19T04:49:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862382/image-cd9eebecf6350efb7afc86806b52e404.png
-    </video:thumbnail_loc>
-    <video:title>
-      MF | KoDoRiN vs Team Elite | Breakfast, Rage Against the CRT #127 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MF | KoDoRiN vs Team Elite | Breakfast in Winners Semi-Final of Rage Against the CRT #127, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647502174&amp;t=1h40m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>889</video:duration>
-    <video:publication_date>2025-12-19T04:33:06.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2025-12-27T04:33:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-69/set/98293166/</loc>
-  <lastmod>2026-01-17T23:12:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-69/set/98293168/</loc>
+  <lastmod>2026-01-17T23:31:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863633/image-08d8bb9cf595745bd1fdf603a8d0e017.png
+    </video:thumbnail_loc>
+    <video:title>
+      LD | Shinkirou vs CoExist | Casual_NY, NYC Tekken Monthly #69 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LD | Shinkirou vs CoExist | Casual_NY in Winners Quarter-Final of NYC Tekken Monthly #69, streamed by nyctekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672845310&amp;t=1h45m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1167</video:duration>
+    <video:publication_date>2026-01-17T23:31:37.000Z</video:publication_date>
+    <video:uploader>nyctekken</video:uploader>
+    <video:expiration_date>2026-01-25T23:31:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyc-tekken-monthly-69/set/98293166/</loc>
+  <lastmod>2026-01-17T23:35:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672845310&amp;t=1h25m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1275</video:duration>
+    <video:duration>509</video:duration>
     <video:publication_date>2026-01-17T23:12:18.000Z</video:publication_date>
     <video:uploader>nyctekken</video:uploader>
     <video:expiration_date>2026-01-25T23:12:18.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-28T06:20:21.000Z</video:publication_date>
     <video:uploader>TheHotspotGamingCafe</video:uploader>
     <video:expiration_date>2026-01-05T06:20:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-8-december-dogfights-the-hot-spot-gaming-cafe/set/97726074/</loc>
-  <lastmod>2025-12-28T05:46:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862556/image-183b7bba131f050015e38c7dd6f3a32d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TKUDemarcus vs Ken--Sampo, Tekken 8 December Dogfights @ The Hot Spot Gaming Cafe - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TKUDemarcus vs Ken--Sampo in Winners Final of Tekken 8 December Dogfights @ The Hot Spot Gaming Cafe, streamed by TheHotspotGamingCafe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654734221&amp;t=2h45m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>370</video:duration>
-    <video:publication_date>2025-12-28T05:36:13.000Z</video:publication_date>
-    <video:uploader>TheHotspotGamingCafe</video:uploader>
-    <video:expiration_date>2026-01-05T05:36:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
