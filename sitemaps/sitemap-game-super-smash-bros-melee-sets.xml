@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98272170/</loc>
+  <lastmod>2026-01-17T19:06:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ober vs Homie House | Bard, Afterburner 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ober vs Homie House | Bard in Winners Semi-Final of Afterburner 2026, streamed by odysseyesports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672675276&amp;t=0h27m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1295</video:duration>
+    <video:publication_date>2026-01-17T19:06:40.000Z</video:publication_date>
+    <video:uploader>odysseyesports2</video:uploader>
+    <video:expiration_date>2026-01-25T19:06:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98272277/</loc>
   <lastmod>2026-01-17T18:59:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-19T02:44:09.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2025-12-27T02:44:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/yeti-weekly-460/set/97509837/</loc>
-  <lastmod>2025-12-19T03:02:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861852/image-5e8ec84d02a531ce47f856caef51bece.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Lins vs Wytch, Yeti Weekly 460 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lins vs Wytch in Losers Quarter-Final of Yeti Weekly 460, streamed by dinksterlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647437483&amp;t=1h20m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>962</video:duration>
-    <video:publication_date>2025-12-19T02:44:05.000Z</video:publication_date>
-    <video:uploader>dinksterlive</video:uploader>
-    <video:expiration_date>2025-12-27T02:44:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
