@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dal-dungeon-68/set/98280454/</loc>
+  <lastmod>2026-01-17T22:15:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870423/image-426d14698949771edf02a96581cfa10a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Shrub vs Jeezus, DAL DUNGEON #68 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shrub vs Jeezus in Losers Final of DAL DUNGEON #68, streamed by swagonium
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672732789&amp;t=2h6m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>542</video:duration>
+    <video:publication_date>2026-01-17T21:46:23.000Z</video:publication_date>
+    <video:uploader>swagonium</video:uploader>
+    <video:expiration_date>2026-01-25T21:46:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dal-dungeon-68/set/98280452/</loc>
   <lastmod>2026-01-17T21:27:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-27T03:04:34.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2026-01-04T03:04:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-23/set/97689909/</loc>
-  <lastmod>2025-12-27T03:06:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863324/image-6feae91e1bdc07dfebc21344f60ba0ea.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Zohma vs Magic, 4o4 by Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zohma vs Magic in Winners Final of 4o4 by Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2653823191&amp;t=1h35m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>619</video:duration>
-    <video:publication_date>2025-12-27T02:54:11.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2026-01-04T02:54:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
