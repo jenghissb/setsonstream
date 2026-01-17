@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/reignited-88/set/98253525/</loc>
-  <lastmod>2026-01-17T05:34:41.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/reignited-88/set/98253494/</loc>
+  <lastmod>2026-01-17T05:42:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869244/image-6f32221357652888f903b8349a54a347.png
+    </video:thumbnail_loc>
+    <video:title>
+      1Desu vs Sycophantam, Reignited #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 1Desu vs Sycophantam in Grand Final of Reignited #88, streamed by asuesportsofficial
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672064734&amp;t=3h57m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>631</video:duration>
+    <video:publication_date>2026-01-17T05:42:42.000Z</video:publication_date>
+    <video:uploader>asuesportsofficial</video:uploader>
+    <video:expiration_date>2026-01-25T05:42:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/reignited-88/set/98253525/</loc>
+  <lastmod>2026-01-17T05:47:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672064734&amp;t=3h49m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>545</video:duration>
+    <video:duration>473</video:duration>
     <video:publication_date>2026-01-17T05:34:41.000Z</video:publication_date>
     <video:uploader>asuesportsofficial</video:uploader>
     <video:expiration_date>2026-01-25T05:34:41.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-24T03:11:48.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-01-01T03:11:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-220-it-s-time-for-a-holiday-mindset-merry-christmas/set/97665848/</loc>
-  <lastmod>2025-12-24T03:17:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863405/image-3780a54009f81d7eac4e1590f6cef5ca.png
-    </video:thumbnail_loc>
-    <video:title>
-      VeganRoastedTurkey vs YoKai | Etholux, CFG Tuesday Trials 220: It&apos;s Time for a Holiday Mindset! Merry Christmas! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VeganRoastedTurkey vs YoKai | Etholux in Winners Final of CFG Tuesday Trials 220: It&apos;s Time for a Holiday Mindset! Merry Christmas!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2651521094&amp;t=3h29m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>976</video:duration>
-    <video:publication_date>2025-12-24T02:55:29.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-01-01T02:55:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
