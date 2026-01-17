@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/suplex-111/set/98249334/</loc>
+  <lastmod>2026-01-17T03:39:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870146/image-5728a5cc3ac519fb7b145dafd1f0552c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Trojan vs TheKingOfFriendZone, Suplex! #111 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Trojan vs TheKingOfFriendZone in Winners Semi-Final of Suplex! #111, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672029834&amp;t=2h15m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>886</video:duration>
+    <video:publication_date>2026-01-17T03:20:45.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2026-01-25T03:20:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/suplex-111/set/98249331/</loc>
-  <lastmod>2026-01-17T02:44:15.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-17T03:21:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672029834&amp;t=1h39m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1399</video:duration>
+    <video:duration>1598</video:duration>
     <video:publication_date>2026-01-17T02:44:15.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-01-25T02:44:15.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-27T23:38:48.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2026-01-04T23:38:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-41/set/97714561/</loc>
-  <lastmod>2025-12-27T23:53:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858132/image-ed78bb9c0e459669358a165a2bc8d591.png
-    </video:thumbnail_loc>
-    <video:title>
-      Xero vs Le Gief, Mid Hudson Mayhem #41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Xero vs Le Gief in Winners Round 2 of Mid Hudson Mayhem #41, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654390384&amp;t=4h37m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>494</video:duration>
-    <video:publication_date>2025-12-27T23:37:51.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2026-01-04T23:37:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
