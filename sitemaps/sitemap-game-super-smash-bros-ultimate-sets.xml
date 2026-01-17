@@ -18,7 +18,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=xperion_germany&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>241</video:duration>
+    <video:duration>876</video:duration>
     <video:publication_date>2026-01-17T16:41:19.000Z</video:publication_date>
     <video:uploader>xperion_germany</video:uploader>
     <video:expiration_date>2026-01-25T16:41:19.000Z</video:expiration_date>
@@ -42,15 +42,15 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672341012&amp;t=6h51m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>341</video:duration>
+    <video:duration>976</video:duration>
     <video:publication_date>2026-01-17T16:39:39.000Z</video:publication_date>
     <video:uploader>Krogad_Twitch</video:uploader>
     <video:expiration_date>2026-01-25T16:39:39.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/r20-premier-january-2026-ssbu/set/98268534/</loc>
-  <lastmod>2026-01-17T16:24:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/r20-premier-january-2026-ssbu/set/98268587/</loc>
+  <lastmod>2026-01-17T16:42:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -58,24 +58,72 @@
       https://images.start.gg/images/tournament/870946/image-5d6ffd6ea8bf0c9653521a7bd9d68a0f.png
     </video:thumbnail_loc>
     <video:title>
-      [RGC]BOZO vs [HHS]choc!, R20 Premier January 2026 SSBU - Sets on Stream
+      [BHS]Kageshiro vs [CHS]Rockyy22, R20 Premier January 2026 SSBU - Sets on Stream
     </video:title>
     <video:description>
-      Watch [RGC]BOZO vs [HHS]choc! in Winners Round 1 of R20 Premier January 2026 SSBU, streamed by R20Premier
+      Watch [BHS]Kageshiro vs [CHS]Rockyy22 in Losers Round 1 of R20 Premier January 2026 SSBU, streamed by R20Premier
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672543547&amp;t=0h27m12s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2672543547&amp;t=0h44m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1243</video:duration>
-    <video:publication_date>2026-01-17T16:24:37.000Z</video:publication_date>
+    <video:duration>825</video:duration>
+    <video:publication_date>2026-01-17T16:42:10.000Z</video:publication_date>
     <video:uploader>R20Premier</video:uploader>
-    <video:expiration_date>2026-01-25T16:24:37.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-25T16:42:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-bal-aisne-6/set/98262515/</loc>
+  <lastmod>2026-01-17T16:45:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857569/image-ece2d832173444de1b70dc31e69a0c08.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Indra vs COAL | YOUZLEX, La Bal’aisne #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Indra vs COAL | YOUZLEX in Losers Final of La Bal’aisne #6, streamed by besalty_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672463750&amp;t=2h48m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>643</video:duration>
+    <video:publication_date>2026-01-17T16:45:12.000Z</video:publication_date>
+    <video:uploader>besalty_</video:uploader>
+    <video:expiration_date>2026-01-25T16:45:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/umbrella-punch-9/set/98265489/</loc>
+  <lastmod>2026-01-17T16:46:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868337/image-9ab69bf04e3411d6ca9a5260f2cc5a36.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yu|Co | ThreeB vs N.H.Z, Umbrella Punch #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yu|Co | ThreeB vs N.H.Z in Losers Quarter-Final of Umbrella Punch #9, streamed by eruptionsolidaire
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=eruptionsolidaire&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>542</video:duration>
+    <video:publication_date>2026-01-17T16:46:53.000Z</video:publication_date>
+    <video:uploader>eruptionsolidaire</video:uploader>
+    <video:expiration_date>2026-01-25T16:46:53.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-bal-aisne-6/set/98262514/</loc>
-  <lastmod>2026-01-17T16:25:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-17T16:48:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -90,34 +138,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672463750&amp;t=2h28m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1184</video:duration>
+    <video:duration>1167</video:duration>
     <video:publication_date>2026-01-17T16:25:36.000Z</video:publication_date>
     <video:uploader>besalty_</video:uploader>
     <video:expiration_date>2026-01-25T16:25:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/umbrella-punch-9/set/98265459/</loc>
-  <lastmod>2026-01-17T16:19:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/r20-premier-january-2026-ssbu/set/98268534/</loc>
+  <lastmod>2026-01-17T16:46:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868337/image-9ab69bf04e3411d6ca9a5260f2cc5a36.png
+      https://images.start.gg/images/tournament/870946/image-5d6ffd6ea8bf0c9653521a7bd9d68a0f.png
     </video:thumbnail_loc>
     <video:title>
-      YuCo | Sakaï vs Tevaï, Umbrella Punch #9 - Sets on Stream
+      [RGC]BOZO vs [HHS]choc!, R20 Premier January 2026 SSBU - Sets on Stream
     </video:title>
     <video:description>
-      Watch YuCo | Sakaï vs Tevaï in Winners Semi-Final of Umbrella Punch #9, streamed by eruptionsolidaire
+      Watch [RGC]BOZO vs [HHS]choc! in Winners Round 1 of R20 Premier January 2026 SSBU, streamed by R20Premier
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=eruptionsolidaire&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2672543547&amp;t=0h27m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1524</video:duration>
-    <video:publication_date>2026-01-17T16:19:56.000Z</video:publication_date>
-    <video:uploader>eruptionsolidaire</video:uploader>
-    <video:expiration_date>2026-01-25T16:19:56.000Z</video:expiration_date>
+    <video:duration>1082</video:duration>
+    <video:publication_date>2026-01-17T16:24:37.000Z</video:publication_date>
+    <video:uploader>R20Premier</video:uploader>
+    <video:expiration_date>2026-01-25T16:24:37.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,54 +72046,6 @@
     <video:publication_date>2026-01-07T04:19:35.000Z</video:publication_date>
     <video:uploader>zouffle</video:uploader>
     <video:expiration_date>2026-01-15T04:19:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tgz-smashing-tuesdays-211/set/97923663/</loc>
-  <lastmod>2026-01-07T04:40:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867233/image-1f4e6256ec2fd19a9a28123ff433afcb.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Peridot vs Flip, TGZ Smashing Tuesdays 211 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Peridot vs Flip in Losers Round 5 of TGZ Smashing Tuesdays 211, streamed by The Gaming Zone
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/1EGJGUJy2I0?start=5631s
-    </video:player_loc>
-    <video:duration>1258</video:duration>
-    <video:publication_date>2026-01-07T04:17:24.000Z</video:publication_date>
-    <video:uploader>The Gaming Zone</video:uploader>
-    <video:expiration_date>2026-01-15T04:17:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-smash-parade-56-01-06-26/set/97924776/</loc>
-  <lastmod>2026-01-07T04:41:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867157/image-a5d9550da696c98b2019b3f06916a394.png
-    </video:thumbnail_loc>
-    <video:title>
-      Deva vs BedsideCheese, The Smash Parade #56 (01/06/26) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Deva vs BedsideCheese in Winners Final of The Smash Parade #56 (01/06/26), streamed by linkzeldalol
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2663269463&amp;t=1h14m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1567</video:duration>
-    <video:publication_date>2026-01-07T04:14:09.000Z</video:publication_date>
-    <video:uploader>linkzeldalol</video:uploader>
-    <video:expiration_date>2026-01-15T04:14:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
