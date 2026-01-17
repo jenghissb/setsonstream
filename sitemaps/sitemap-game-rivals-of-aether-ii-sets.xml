@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-10-isthmian-gaming-50-pot-bonus/set/98295283/</loc>
+  <lastmod>2026-01-17T23:12:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866020/image-8ff1b470c10b49ea113404ca3119eff9.png
+    </video:thumbnail_loc>
+    <video:title>
+      LoveParade vs Lord Sturm, Triple Dunk #10 @ Isthmian Gaming ($50 POT BONUS) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LoveParade vs Lord Sturm in Winners Round 1 of Triple Dunk #10 @ Isthmian Gaming ($50 POT BONUS), streamed by IsthmianGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672882788&amp;t=0h38m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1246</video:duration>
+    <video:publication_date>2026-01-17T23:12:47.000Z</video:publication_date>
+    <video:uploader>IsthmianGaming</video:uploader>
+    <video:expiration_date>2026-01-25T23:12:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-213/set/98238644/</loc>
   <lastmod>2026-01-17T03:07:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-28T21:40:30.000Z</video:publication_date>
     <video:uploader>ContenderHudsonValley</video:uploader>
     <video:expiration_date>2026-01-05T21:40:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/contenderhv-smash-finale/set/97736713/</loc>
-  <lastmod>2025-12-28T21:41:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862750/image-ef7d99b5579d2b4f53a61f2f86f397f3.png
-    </video:thumbnail_loc>
-    <video:title>
-      NP | UniTy vs Virgo, ContenderHV Smash FINALE - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NP | UniTy vs Virgo in Winners Round 1 of ContenderHV Smash FINALE, streamed by ContenderHudsonValley
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2655219788&amp;t=3h6m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>535</video:duration>
-    <video:publication_date>2025-12-28T21:30:44.000Z</video:publication_date>
-    <video:uploader>ContenderHudsonValley</video:uploader>
-    <video:expiration_date>2026-01-05T21:30:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
