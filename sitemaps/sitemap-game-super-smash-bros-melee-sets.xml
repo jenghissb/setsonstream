@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98277738/</loc>
-  <lastmod>2026-01-17T21:12:45.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98277770/</loc>
+  <lastmod>2026-01-17T21:43:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,18 @@
       https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
     </video:thumbnail_loc>
     <video:title>
-      Ober vs Happi | CBES | Chibe, Afterburner 2026 - Sets on Stream
+      Ober vs regEx, Afterburner 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Ober vs Happi | CBES | Chibe in Winners Final of Afterburner 2026, streamed by odysseyesports2
+      Watch Ober vs regEx in Losers Final of Afterburner 2026, streamed by odysseyesports2
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672675276&amp;t=2h33m49s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2672675276&amp;t=3h4m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1158</video:duration>
-    <video:publication_date>2026-01-17T21:12:45.000Z</video:publication_date>
+    <video:duration>423</video:duration>
+    <video:publication_date>2026-01-17T21:43:01.000Z</video:publication_date>
     <video:uploader>odysseyesports2</video:uploader>
-    <video:expiration_date>2026-01-25T21:12:45.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-25T21:43:01.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -42,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=BuddBuds&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>567</video:duration>
+    <video:duration>1648</video:duration>
     <video:publication_date>2026-01-17T21:22:36.000Z</video:publication_date>
     <video:uploader>BuddBuds</video:uploader>
     <video:expiration_date>2026-01-25T21:22:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/afterburner-2026/set/98277738/</loc>
+  <lastmod>2026-01-17T21:45:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ober vs Happi | CBES | Chibe, Afterburner 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ober vs Happi | CBES | Chibe in Winners Final of Afterburner 2026, streamed by odysseyesports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672675276&amp;t=2h33m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>890</video:duration>
+    <video:publication_date>2026-01-17T21:12:45.000Z</video:publication_date>
+    <video:uploader>odysseyesports2</video:uploader>
+    <video:expiration_date>2026-01-25T21:12:45.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14398,30 +14422,6 @@
     <video:publication_date>2025-12-19T03:49:28.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2025-12-27T03:49:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-127/set/97513525/</loc>
-  <lastmod>2025-12-19T03:55:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862382/image-cd9eebecf6350efb7afc86806b52e404.png
-    </video:thumbnail_loc>
-    <video:title>
-      ABG | Zeo vs Swiz, Rage Against the CRT #127 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ABG | Zeo vs Swiz in Winners Quarter-Final of Rage Against the CRT #127, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2647502174&amp;t=0h41m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>910</video:duration>
-    <video:publication_date>2025-12-19T03:34:06.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2025-12-27T03:34:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

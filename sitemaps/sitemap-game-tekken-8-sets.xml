@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/abq-barfights-30-return-of-rome-ans/set/98282386/</loc>
-  <lastmod>2026-01-17T21:14:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-45/set/98282131/</loc>
+  <lastmod>2026-01-17T21:31:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862775/image-ee781f8549c17a8aed3212c693bef323.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      WTI| | AzeemX vs Phenom, Just Us Baddies #45 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WTI| | AzeemX vs Phenom in Winners Quarter-Final of Just Us Baddies #45, streamed by hottrojan
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672712144&amp;t=2h14m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1134</video:duration>
+    <video:publication_date>2026-01-17T21:31:10.000Z</video:publication_date>
+    <video:uploader>hottrojan</video:uploader>
+    <video:expiration_date>2026-01-25T21:31:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/abq-barfights-30-return-of-rome-ans/set/98282386/</loc>
+  <lastmod>2026-01-17T21:37:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672711225&amp;t=1h58m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1043</video:duration>
+    <video:duration>1048</video:duration>
     <video:publication_date>2026-01-17T21:14:40.000Z</video:publication_date>
     <video:uploader>nmism</video:uploader>
     <video:expiration_date>2026-01-25T21:14:40.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-28T03:50:40.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2026-01-05T03:50:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-soul-calibur-2-24-x-tekken-8-bi-weekly-43/set/97720444/</loc>
-  <lastmod>2025-12-28T03:56:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864253/image-8528b6829741e4b2c4b9a7ff2f35778f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Neon Dreams | Quizikcal vs XEL | InitialB, Neon Dreams Soul Calibur 2 #24 x TEKKEN 8 Bi-Weekly #43 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Neon Dreams | Quizikcal vs XEL | InitialB in Losers Quarter-Final of Neon Dreams Soul Calibur 2 #24 x TEKKEN 8 Bi-Weekly #43, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654670719&amp;t=2h19m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>654</video:duration>
-    <video:publication_date>2025-12-28T03:39:29.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2026-01-05T03:39:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
