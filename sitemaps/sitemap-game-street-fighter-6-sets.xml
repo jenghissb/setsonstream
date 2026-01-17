@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-111/set/98245103/</loc>
+  <lastmod>2026-01-17T01:44:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870146/image-5728a5cc3ac519fb7b145dafd1f0552c.png
+    </video:thumbnail_loc>
+    <video:title>
+      SF | Sweetmamaschili vs iggy rose, Suplex! #111 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SF | Sweetmamaschili vs iggy rose in Round 2 of Suplex! #111, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672029834&amp;t=0h19m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>547</video:duration>
+    <video:publication_date>2026-01-17T01:24:08.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2026-01-25T01:24:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-111/set/98243936/</loc>
-  <lastmod>2026-01-17T01:10:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-17T01:28:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672029834&amp;t=0h5m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>376</video:duration>
+    <video:duration>464</video:duration>
     <video:publication_date>2026-01-17T01:10:40.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-01-25T01:10:40.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-24T02:14:28.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-01T02:14:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-220-it-s-time-for-a-holiday-mindset-merry-christmas/set/97659154/</loc>
-  <lastmod>2025-12-24T02:28:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863405/image-3780a54009f81d7eac4e1590f6cef5ca.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | Mangocopter vs TNSN | ARandomCat, CFG Tuesday Trials 220: It&apos;s Time for a Holiday Mindset! Merry Christmas! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | Mangocopter vs TNSN | ARandomCat in Losers Semi-Final of CFG Tuesday Trials 220: It&apos;s Time for a Holiday Mindset! Merry Christmas!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2651521094&amp;t=2h46m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>637</video:duration>
-    <video:publication_date>2025-12-24T02:13:04.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-01-01T02:13:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
