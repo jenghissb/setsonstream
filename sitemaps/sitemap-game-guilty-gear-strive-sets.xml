@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/reignited-88/set/98253486/</loc>
+  <lastmod>2026-01-17T04:18:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869244/image-6f32221357652888f903b8349a54a347.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fish Ye | Oopsy vs Zturtle102, Reignited #88 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fish Ye | Oopsy vs Zturtle102 in Winners Round 1 of Reignited #88, streamed by asuesportsofficial
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672064734&amp;t=2h17m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>644</video:duration>
+    <video:publication_date>2026-01-17T04:02:45.000Z</video:publication_date>
+    <video:uploader>asuesportsofficial</video:uploader>
+    <video:expiration_date>2026-01-25T04:02:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-140/set/98239211/</loc>
   <lastmod>2026-01-17T03:13:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2025-12-21T14:20:51.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2025-12-29T14:20:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-reset-x/set/97609488/</loc>
-  <lastmod>2025-12-21T14:22:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/815935/image-4074b308bd1942587c5b10ee2eb7288b.png
-    </video:thumbnail_loc>
-    <video:title>
-      SOS | Yoish vs HR | Valiser, THE RESET X - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SOS | Yoish vs HR | Valiser in Winners Final of THE RESET X, streamed by hardreadch
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2649399850&amp;t=3h25m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>839</video:duration>
-    <video:publication_date>2025-12-21T14:06:50.000Z</video:publication_date>
-    <video:uploader>hardreadch</video:uploader>
-    <video:expiration_date>2025-12-29T14:06:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
