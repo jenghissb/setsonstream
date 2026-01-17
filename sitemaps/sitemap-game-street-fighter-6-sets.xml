@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-infinite-oasis-1-17-25/set/98284226/</loc>
-  <lastmod>2026-01-17T21:52:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-infinite-oasis-1-17-25/set/98284290/</loc>
+  <lastmod>2026-01-17T22:17:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865225/image-bf95e90cff8d5a52fdaddf760ff02531.png
+    </video:thumbnail_loc>
+    <video:title>
+      BME | A$AP R1CKY vs Despair Bud, The Infinite Oasis 1/17/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BME | A$AP R1CKY vs Despair Bud in Losers Final of The Infinite Oasis 1/17/25, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672590162&amp;t=5h19m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1195</video:duration>
+    <video:publication_date>2026-01-17T22:17:55.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-01-25T22:17:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-infinite-oasis-1-17-25/set/98284226/</loc>
+  <lastmod>2026-01-17T22:18:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672590162&amp;t=4h54m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1431</video:duration>
+    <video:duration>409</video:duration>
     <video:publication_date>2026-01-17T21:52:34.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-01-25T21:52:34.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-25T11:35:14.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-01-02T11:35:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-81/set/97666676/</loc>
-  <lastmod>2025-12-24T03:01:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862539/image-68d2decbec32a59c5e16d77205862e77.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Alex_dotdot vs Noodle, 4o4 by Sh33rZ: Street Fighter #81 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Alex_dotdot vs Noodle in Losers Quarter-Final of 4o4 by Sh33rZ: Street Fighter #81, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2651592633&amp;t=1h41m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>603</video:duration>
-    <video:publication_date>2025-12-24T02:46:33.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-01-01T02:46:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
