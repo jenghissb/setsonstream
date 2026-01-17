@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/imperium-loads-1/set/98260212/</loc>
+  <lastmod>2026-01-17T13:07:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859650/image-8cac662febd0de923b6114877fc70b73.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Nech0k vs OCM | STERCATA LETALE, Imperium Loads - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nech0k vs OCM | STERCATA LETALE in Winners Quarter-Final of Imperium Loads, streamed by tekkenemilia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672385936&amp;t=1h15m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>468</video:duration>
+    <video:publication_date>2026-01-17T12:52:50.000Z</video:publication_date>
+    <video:uploader>tekkenemilia</video:uploader>
+    <video:expiration_date>2026-01-25T12:52:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/suplex-111/set/98249334/</loc>
   <lastmod>2026-01-17T03:39:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2025-12-27T23:46:11.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2026-01-04T23:46:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-41/set/97714566/</loc>
-  <lastmod>2025-12-27T23:53:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858132/image-ed78bb9c0e459669358a165a2bc8d591.png
-    </video:thumbnail_loc>
-    <video:title>
-      KingsTigBiddies vs 67 | Sty1e, Mid Hudson Mayhem #41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KingsTigBiddies vs 67 | Sty1e in Winners Round 2 of Mid Hudson Mayhem #41, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654390384&amp;t=4h38m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>666</video:duration>
-    <video:publication_date>2025-12-27T23:38:48.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2026-01-04T23:38:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
