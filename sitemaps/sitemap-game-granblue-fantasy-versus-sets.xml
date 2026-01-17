@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-1-17-25/set/98271467/</loc>
-  <lastmod>2026-01-17T18:17:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-1-17-25/set/98271468/</loc>
+  <lastmod>2026-01-17T18:24:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865225/image-bf95e90cff8d5a52fdaddf760ff02531.png
+    </video:thumbnail_loc>
+    <video:title>
+      DNBcool vs KoFrey, The Infinite Oasis 1/17/25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DNBcool vs KoFrey in Losers Final of The Infinite Oasis 1/17/25, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672590162&amp;t=1h26m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1544</video:duration>
+    <video:publication_date>2026-01-17T18:24:19.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-01-25T18:24:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-1-17-25/set/98271467/</loc>
+  <lastmod>2026-01-17T18:34:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672590162&amp;t=1h19m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>353</video:duration>
+    <video:duration>402</video:duration>
     <video:publication_date>2026-01-17T18:17:30.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-01-25T18:17:30.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-12-06T23:38:10.000Z</video:publication_date>
     <video:uploader>lunarphaselive</video:uploader>
     <video:expiration_date>2025-12-14T23:38:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-december-2025/set/97145168/</loc>
-  <lastmod>2025-12-06T23:56:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/841215/image-43b38cc2cf104d25a352330aa541e1aa.png
-    </video:thumbnail_loc>
-    <video:title>
-      TILIN | yolksoup vs NotGc | YoshiFTW, Astral Beatdown December 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TILIN | yolksoup vs NotGc | YoshiFTW in Winners Round 3 of Astral Beatdown December 2025, streamed by norcalgranblue
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637288157&amp;t=0h21m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>936</video:duration>
-    <video:publication_date>2025-12-06T23:35:23.000Z</video:publication_date>
-    <video:uploader>norcalgranblue</video:uploader>
-    <video:expiration_date>2025-12-14T23:35:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
