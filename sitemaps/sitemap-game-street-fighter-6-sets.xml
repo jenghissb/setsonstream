@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-circuit-3-finals/set/98309747/</loc>
+  <lastmod>2026-01-18T04:54:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830325/image-31a74a9a7ead71e7530ed96383a7a6f8.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Axel vs Bracket Demons | Charlie, SoCal Colosseum Circuit #3 Finals - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Axel vs Bracket Demons | Charlie in Grand Final of SoCal Colosseum Circuit #3 Finals, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2673039482&amp;t=2h26m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>502</video:duration>
+    <video:publication_date>2026-01-18T04:23:54.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2026-01-26T04:23:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-rush-hour-1-17/set/98315796/</loc>
-  <lastmod>2026-01-18T04:16:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-18T04:32:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2673116707&amp;t=0h39m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>715</video:duration>
+    <video:duration>225</video:duration>
     <video:publication_date>2026-01-18T04:16:50.000Z</video:publication_date>
     <video:uploader>gamerealms</video:uploader>
     <video:expiration_date>2026-01-26T04:16:50.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-circuit-3-finals/set/98309762/</loc>
-  <lastmod>2026-01-18T04:12:13.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-18T04:32:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2673039482&amp;t=2h15m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>992</video:duration>
+    <video:duration>705</video:duration>
     <video:publication_date>2026-01-18T04:12:13.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2026-01-26T04:12:13.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-27T04:41:32.000Z</video:publication_date>
     <video:uploader>unrivaledtournaments</video:uploader>
     <video:expiration_date>2026-01-04T04:41:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgc-meetups-111/set/97694122/</loc>
-  <lastmod>2025-12-27T04:44:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862157/image-a8492a775539e09094b36809e9453939.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PCH | Earl vs rave, FGC Meetups 111 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PCH | Earl vs rave in Winners Final of FGC Meetups 111, streamed by unrivaledtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2653846834&amp;t=2h37m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>599</video:duration>
-    <video:publication_date>2025-12-27T04:29:03.000Z</video:publication_date>
-    <video:uploader>unrivaledtournaments</video:uploader>
-    <video:expiration_date>2026-01-04T04:29:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

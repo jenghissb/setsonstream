@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/pataka-2026/set/98311990/</loc>
+  <lastmod>2026-01-18T04:50:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/849963/image-88454df75fc38043009bb7c2e8037c25.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PBAG | BSG | Graves vs Pbag, Pataka 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PBAG | BSG | Graves vs Pbag in Grand Final of Pataka 2026, streamed by galintgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2672798104&amp;t=7h39m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>930</video:duration>
+    <video:publication_date>2026-01-18T04:29:42.000Z</video:publication_date>
+    <video:uploader>galintgaming</video:uploader>
+    <video:expiration_date>2026-01-26T04:29:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/pataka-2026/set/98312005/</loc>
-  <lastmod>2026-01-18T04:07:34.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-18T04:39:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2672798104&amp;t=7h17m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1271</video:duration>
+    <video:duration>1318</video:duration>
     <video:publication_date>2026-01-18T04:07:34.000Z</video:publication_date>
     <video:uploader>galintgaming</video:uploader>
     <video:expiration_date>2026-01-26T04:07:34.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-20T10:31:11.000Z</video:publication_date>
     <video:uploader>SEiFNOPA</video:uploader>
     <video:expiration_date>2025-12-28T10:31:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-4/set/97545464/</loc>
-  <lastmod>2025-12-20T05:52:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859823/image-4cb970cc41d40b7e6a16d32bc3999f16.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rocky vs Typhoon, Kastle Smashers 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rocky vs Typhoon in Losers Final of Kastle Smashers 4, streamed by NorCalMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648340436&amp;t=2h23m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>926</video:duration>
-    <video:publication_date>2025-12-20T05:26:10.000Z</video:publication_date>
-    <video:uploader>NorCalMelee</video:uploader>
-    <video:expiration_date>2025-12-28T05:26:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
