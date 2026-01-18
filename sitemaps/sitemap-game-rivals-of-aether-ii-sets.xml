@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98327114/</loc>
-  <lastmod>2026-01-18T17:27:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98327113/</loc>
+  <lastmod>2026-01-18T17:39:15.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Uno Reverse | Card vs YBG | Jeffdaboss, Afterburner 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Uno Reverse | Card vs YBG | Jeffdaboss in Losers Quarter-Final of Afterburner 2026, streamed by odysseyesportsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2673559514&amp;t=0h34m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>684</video:duration>
+    <video:publication_date>2026-01-18T17:39:15.000Z</video:publication_date>
+    <video:uploader>odysseyesportsfgc</video:uploader>
+    <video:expiration_date>2026-01-26T17:39:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98327114/</loc>
+  <lastmod>2026-01-18T17:48:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2673559514&amp;t=0h23m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>356</video:duration>
+    <video:duration>1050</video:duration>
     <video:publication_date>2026-01-18T17:27:44.000Z</video:publication_date>
     <video:uploader>odysseyesportsfgc</video:uploader>
     <video:expiration_date>2026-01-26T17:27:44.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-02T03:40:16.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2026-01-10T03:40:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/jaxsmash-2025-grand-finale-leaderboard-1-1-26-600-pot-bonus/set/97802084/</loc>
-  <lastmod>2026-01-02T03:41:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864687/image-2c5ddcba5ff512d7042aee385799bf2e.png
-    </video:thumbnail_loc>
-    <video:title>
-      DMG | Burgers vs Afmbot, JaxSmash 2025 Grand Finale @ Leaderboard 1/1/26 ($600 Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DMG | Burgers vs Afmbot in Winners Quarter-Final of JaxSmash 2025 Grand Finale @ Leaderboard 1/1/26 ($600 Pot Bonus), streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2658807486&amp;t=1h55m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>805</video:duration>
-    <video:publication_date>2026-01-02T03:26:42.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2026-01-10T03:26:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
