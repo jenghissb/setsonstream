@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sac-salty-arena-cup-street-fighter-6-8/set/98324531/</loc>
+  <lastmod>2026-01-18T14:36:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865216/image-cb50fbfaca21d8847088c2271994fdeb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      DW LLC | Nozar8800 vs Mehawk, SAC : Salty Arena Cup Street Fighter 6 #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DW LLC | Nozar8800 vs Mehawk in Round 5 of SAC : Salty Arena Cup Street Fighter 6 #8, streamed by saltyarena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2673445131&amp;t=0h8m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>883</video:duration>
+    <video:publication_date>2026-01-18T14:36:16.000Z</video:publication_date>
+    <video:uploader>saltyarena</video:uploader>
+    <video:expiration_date>2026-01-26T14:36:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-rush-hour-1-17/set/98315809/</loc>
   <lastmod>2026-01-18T05:34:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-27T21:21:53.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2026-01-04T21:21:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mid-hudson-mayhem-41/set/97710574/</loc>
-  <lastmod>2025-12-27T21:26:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858132/image-ed78bb9c0e459669358a165a2bc8d591.png
-    </video:thumbnail_loc>
-    <video:title>
-      transfem carmine vs Anvilocity, Mid Hudson Mayhem #41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch transfem carmine vs Anvilocity in Winners Round 1 of Mid Hudson Mayhem #41, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654390384&amp;t=2h14m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>337</video:duration>
-    <video:publication_date>2025-12-27T21:15:12.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2026-01-04T21:15:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
