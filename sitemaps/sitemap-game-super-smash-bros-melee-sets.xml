@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gizmo-gauntlet/set/98325106/</loc>
-  <lastmod>2026-01-18T18:50:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gizmo-gauntlet/set/98325107/</loc>
+  <lastmod>2026-01-18T19:06:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847380/image-b0201204da2bd7334b055937a65470da.png
+    </video:thumbnail_loc>
+    <video:title>
+      AdamDutchie vs skullbro, Gizmo Gauntlet - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AdamDutchie vs skullbro in Losers Final of Gizmo Gauntlet, streamed by supersmashdelft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2673455082&amp;t=4h22m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1255</video:duration>
+    <video:publication_date>2026-01-18T19:06:56.000Z</video:publication_date>
+    <video:uploader>supersmashdelft</video:uploader>
+    <video:expiration_date>2026-01-26T19:06:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gizmo-gauntlet/set/98325106/</loc>
+  <lastmod>2026-01-18T19:12:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2673455082&amp;t=4h6m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1352</video:duration>
+    <video:duration>962</video:duration>
     <video:publication_date>2026-01-18T18:50:44.000Z</video:publication_date>
     <video:uploader>supersmashdelft</video:uploader>
     <video:expiration_date>2026-01-26T18:50:44.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-20T20:31:04.000Z</video:publication_date>
     <video:uploader>TeamOxy</video:uploader>
     <video:expiration_date>2025-12-28T20:31:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-30-last-dance/set/97571977/</loc>
-  <lastmod>2025-12-20T20:32:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/844656/image-47dbf52e1a8cc038df9f00ba6f83c5b7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Pumpz vs Kaditrix, Minnesota Monthly Melee #30: Last Dance - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Pumpz vs Kaditrix in Round 2 of Minnesota Monthly Melee #30: Last Dance, streamed by TeamOxy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2648857170&amp;t=1h6m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>569</video:duration>
-    <video:publication_date>2025-12-20T20:18:25.000Z</video:publication_date>
-    <video:uploader>TeamOxy</video:uploader>
-    <video:expiration_date>2025-12-28T20:18:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
