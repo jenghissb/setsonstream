@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98336799/</loc>
-  <lastmod>2026-01-18T20:00:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98336787/</loc>
+  <lastmod>2026-01-18T20:24:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shrug Club | Sophilo vs BLZE | elkiies, Afterburner 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shrug Club | Sophilo vs BLZE | elkiies in Winners Semi-Final of Afterburner 2026, streamed by odysseyesportsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2673559514&amp;t=3h20m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1149</video:duration>
+    <video:publication_date>2026-01-18T20:24:36.000Z</video:publication_date>
+    <video:uploader>odysseyesportsfgc</video:uploader>
+    <video:expiration_date>2026-01-26T20:24:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98336799/</loc>
+  <lastmod>2026-01-18T20:26:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2673559514&amp;t=2h56m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1120</video:duration>
+    <video:duration>669</video:duration>
     <video:publication_date>2026-01-18T20:00:31.000Z</video:publication_date>
     <video:uploader>odysseyesportsfgc</video:uploader>
     <video:expiration_date>2026-01-26T20:00:31.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T01:44:24.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-11T01:44:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-211/set/97813453/</loc>
-  <lastmod>2026-01-03T01:52:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865687/image-f81626e8f7ef3fa05e89559a230b5302.png
-    </video:thumbnail_loc>
-    <video:title>
-      ThatsCrazyBro vs YTP | Mintly, Smash Night at Prodigy #211 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ThatsCrazyBro vs YTP | Mintly in Losers Round 1 of Smash Night at Prodigy #211, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659632979&amp;t=0h25m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1616</video:duration>
-    <video:publication_date>2026-01-03T01:16:30.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-01-11T01:16:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
