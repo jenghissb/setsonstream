@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sac-salty-arena-cup-street-fighter-6-8/set/98326149/</loc>
-  <lastmod>2026-01-18T16:25:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sac-salty-arena-cup-street-fighter-6-8/set/98326150/</loc>
+  <lastmod>2026-01-18T16:59:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865216/image-cb50fbfaca21d8847088c2271994fdeb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      DD! | Tempo vs DGZ | TaoLeSinge, SAC : Salty Arena Cup Street Fighter 6 #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DD! | Tempo vs DGZ | TaoLeSinge in Losers Semi-Final of SAC : Salty Arena Cup Street Fighter 6 #8, streamed by saltyarena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2673445131&amp;t=2h31m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>893</video:duration>
+    <video:publication_date>2026-01-18T16:59:49.000Z</video:publication_date>
+    <video:uploader>saltyarena</video:uploader>
+    <video:expiration_date>2026-01-26T16:59:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sac-salty-arena-cup-street-fighter-6-8/set/98326149/</loc>
+  <lastmod>2026-01-18T16:46:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2673445131&amp;t=1h56m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1314</video:duration>
+    <video:duration>889</video:duration>
     <video:publication_date>2026-01-18T16:25:05.000Z</video:publication_date>
     <video:uploader>saltyarena</video:uploader>
     <video:expiration_date>2026-01-26T16:25:05.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-27T22:44:26.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2026-01-04T22:44:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mid-hudson-mayhem-41/set/97710660/</loc>
-  <lastmod>2025-12-27T22:42:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858132/image-ed78bb9c0e459669358a165a2bc8d591.png
-    </video:thumbnail_loc>
-    <video:title>
-      box vs MesaGordeau, Mid Hudson Mayhem #41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch box vs MesaGordeau in Losers Quarter-Final of Mid Hudson Mayhem #41, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654390384&amp;t=3h27m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>772</video:duration>
-    <video:publication_date>2025-12-27T22:28:37.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2026-01-04T22:28:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
