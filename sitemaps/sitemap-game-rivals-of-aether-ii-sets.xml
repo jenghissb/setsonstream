@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98336799/</loc>
+  <lastmod>2026-01-18T20:00:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Uno Reverse | Card vs Yeggy, Afterburner 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Uno Reverse | Card vs Yeggy in Losers Round 1 of Afterburner 2026, streamed by odysseyesportsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2673559514&amp;t=2h56m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1120</video:duration>
+    <video:publication_date>2026-01-18T20:00:31.000Z</video:publication_date>
+    <video:uploader>odysseyesportsfgc</video:uploader>
+    <video:expiration_date>2026-01-26T20:00:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98329691/</loc>
   <lastmod>2026-01-18T19:29:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T01:16:30.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-11T01:16:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-211/set/97813437/</loc>
-  <lastmod>2026-01-03T01:09:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865687/image-f81626e8f7ef3fa05e89559a230b5302.png
-    </video:thumbnail_loc>
-    <video:title>
-      alex | oliomar player89(olimar) vs ThatsCrazyBro, Smash Night at Prodigy #211 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch alex | oliomar player89(olimar) vs ThatsCrazyBro in Winners Quarter-Final of Smash Night at Prodigy #211, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659632979&amp;t=0h3m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>696</video:duration>
-    <video:publication_date>2026-01-03T00:53:53.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-01-11T00:53:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
