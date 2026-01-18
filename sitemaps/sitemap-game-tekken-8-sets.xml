@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/stamped/set/98318414/</loc>
-  <lastmod>2026-01-18T15:09:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/stamped/set/98318417/</loc>
+  <lastmod>2026-01-18T15:24:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,42 @@
       https://images.start.gg/images/tournament/833677/image-c42c4e17b7fa80328edbaf86a3ef3f2e.png
     </video:thumbnail_loc>
     <video:title>
-      D34 | | wagboy919 vs M.E.N | Crescent, STAMPED - Sets on Stream
+      Owen Tua vs T-PAC, STAMPED - Sets on Stream
     </video:title>
     <video:description>
-      Watch D34 | | wagboy919 vs M.E.N | Crescent in Losers Round 1 of STAMPED, streamed by Spag
+      Watch Owen Tua vs T-PAC in Losers Round 1 of STAMPED, streamed by Spag
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=Spag&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>429</video:duration>
-    <video:publication_date>2026-01-18T15:09:35.000Z</video:publication_date>
+    <video:duration>969</video:duration>
+    <video:publication_date>2026-01-18T15:24:08.000Z</video:publication_date>
     <video:uploader>Spag</video:uploader>
-    <video:expiration_date>2026-01-26T15:09:35.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-26T15:24:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/stamped/set/98318371/</loc>
+  <lastmod>2026-01-18T15:27:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833677/image-c42c4e17b7fa80328edbaf86a3ef3f2e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mirage | Gosain vs Ayorichie, STAMPED - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mirage | Gosain vs Ayorichie in Winners Round 1 of STAMPED, streamed by JoKa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=JoKa&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>756</video:duration>
+    <video:publication_date>2026-01-18T15:27:41.000Z</video:publication_date>
+    <video:uploader>JoKa</video:uploader>
+    <video:expiration_date>2026-01-26T15:27:41.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
