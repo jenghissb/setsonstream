@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-9/set/98361301/</loc>
-  <lastmod>2026-01-19T19:43:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-9/set/98361289/</loc>
+  <lastmod>2026-01-19T20:01:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871210/image-e72f497fa3ad7709eea9094410f2e659.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pup | Puppy vs The Greasy Men | gerg, Platform Camp #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pup | Puppy vs The Greasy Men | gerg in Winners Semi-Final of Platform Camp #9, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674493693&amp;t=1h42m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1134</video:duration>
+    <video:publication_date>2026-01-19T20:01:23.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-01-27T20:01:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-9/set/98361301/</loc>
+  <lastmod>2026-01-19T20:00:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674493693&amp;t=1h24m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>446</video:duration>
+    <video:duration>793</video:duration>
     <video:publication_date>2026-01-19T19:43:46.000Z</video:publication_date>
     <video:uploader>PlatformCampRivals</video:uploader>
     <video:expiration_date>2026-01-27T19:43:46.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T03:33:09.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-11T03:33:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-253-off-season/set/97821936/</loc>
-  <lastmod>2026-01-03T03:45:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864704/image-842b3520f78e513f5a5ae881661473be.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Khanya vs IamFrogg, Elite Smash Fridays #253 [OFF-SEASON] - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Khanya vs IamFrogg in Winners Semi-Final of Elite Smash Fridays #253 [OFF-SEASON], streamed by Colorado_ROA
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659680951&amp;t=1h34m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>950</video:duration>
-    <video:publication_date>2026-01-03T03:23:02.000Z</video:publication_date>
-    <video:uploader>Colorado_ROA</video:uploader>
-    <video:expiration_date>2026-01-11T03:23:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

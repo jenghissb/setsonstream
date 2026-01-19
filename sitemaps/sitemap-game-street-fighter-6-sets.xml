@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-71/set/98361872/</loc>
+  <lastmod>2026-01-19T20:06:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863790/image-f0053328b266f8ad4513fdc56560f64e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TLS / SINGES | CeBonVieuxPoring vs BEER | Rocks, Toulouse Fighting Monday 71 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TLS / SINGES | CeBonVieuxPoring vs BEER | Rocks in Winners Quarter-Final of Toulouse Fighting Monday 71, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674542151&amp;t=0h32m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>530</video:duration>
+    <video:publication_date>2026-01-19T19:45:59.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-01-27T19:45:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-71/set/98361871/</loc>
-  <lastmod>2026-01-19T19:38:20.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-19T19:54:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674542151&amp;t=0h24m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>772</video:duration>
+    <video:duration>416</video:duration>
     <video:publication_date>2026-01-19T19:38:20.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-01-27T19:38:20.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-31T00:57:13.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-08T00:57:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-133/set/97773779/</loc>
-  <lastmod>2025-12-31T00:59:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865245/image-6cb9dbe114ee7f4087136e1706a82e86.png
-    </video:thumbnail_loc>
-    <video:title>
-      TRICKY | morg vs ESG | HOJU, HoG: Dragon #133 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TRICKY | morg vs ESG | HOJU in Winners Quarter-Final of HoG: Dragon #133, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2657166075&amp;t=0h29m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>574</video:duration>
-    <video:publication_date>2025-12-31T00:48:01.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-01-08T00:48:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
