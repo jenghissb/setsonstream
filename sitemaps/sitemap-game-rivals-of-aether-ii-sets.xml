@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-9/set/98361288/</loc>
-  <lastmod>2026-01-19T20:16:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-9/set/98361290/</loc>
+  <lastmod>2026-01-19T20:38:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871210/image-e72f497fa3ad7709eea9094410f2e659.png
+    </video:thumbnail_loc>
+    <video:title>
+      The Greasy Men | soulcinder vs Pup | Puppy, Platform Camp #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch The Greasy Men | soulcinder vs Pup | Puppy in Winners Final of Platform Camp #9, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674493693&amp;t=2h19m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1103</video:duration>
+    <video:publication_date>2026-01-19T20:38:49.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-01-27T20:38:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-9/set/98361288/</loc>
+  <lastmod>2026-01-19T20:48:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674493693&amp;t=1h57m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1741</video:duration>
+    <video:duration>1327</video:duration>
     <video:publication_date>2026-01-19T20:16:11.000Z</video:publication_date>
     <video:uploader>PlatformCampRivals</video:uploader>
     <video:expiration_date>2026-01-27T20:16:11.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T04:19:24.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-11T04:19:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-211/set/97813442/</loc>
-  <lastmod>2026-01-03T04:22:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865687/image-f81626e8f7ef3fa05e89559a230b5302.png
-    </video:thumbnail_loc>
-    <video:title>
-      alex | oliomar player89(olimar) vs hazelnut, Smash Night at Prodigy #211 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch alex | oliomar player89(olimar) vs hazelnut in Grand Final of Smash Night at Prodigy #211, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659632979&amp;t=3h8m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1178</video:duration>
-    <video:publication_date>2026-01-03T03:58:42.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-01-11T03:58:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
