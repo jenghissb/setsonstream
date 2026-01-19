@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-smash-ultimate-9/set/98346747/</loc>
+  <lastmod>2026-01-19T01:40:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853503/image-8c3a439576497df66fab500b4f15359e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      eFC | Isaias vs PA | Rikar, McDonald&apos;s Smash Ultimate #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch eFC | Isaias vs PA | Rikar in Losers Final of McDonald&apos;s Smash Ultimate #9, streamed by BlizzStars
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/3g2oAKC8NhI?start=10422s
+    </video:player_loc>
+    <video:duration>278</video:duration>
+    <video:publication_date>2026-01-19T01:25:37.000Z</video:publication_date>
+    <video:uploader>BlizzStars</video:uploader>
+    <video:expiration_date>2026-01-27T01:25:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-smash-ultimate-9/set/98346746/</loc>
-  <lastmod>2026-01-19T01:12:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-19T01:29:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/3g2oAKC8NhI?start=9613s
     </video:player_loc>
-    <video:duration>753</video:duration>
+    <video:duration>672</video:duration>
     <video:publication_date>2026-01-19T01:12:08.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2026-01-27T01:12:08.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-31T00:42:58.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-08T00:42:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-133/set/97773770/</loc>
-  <lastmod>2025-12-31T00:44:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865245/image-6cb9dbe114ee7f4087136e1706a82e86.png
-    </video:thumbnail_loc>
-    <video:title>
-      Cosmo A vs Andross, HoG: Dragon #133 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cosmo A vs Andross in Winners Round 1 of HoG: Dragon #133, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2657166075&amp;t=0h13m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>443</video:duration>
-    <video:publication_date>2025-12-31T00:32:31.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-01-08T00:32:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
