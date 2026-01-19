@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-91/set/98361015/</loc>
-  <lastmod>2026-01-19T23:07:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-149-heart-of-the-game/set/98369454/</loc>
+  <lastmod>2026-01-19T23:38:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870459/image-ce829d6169b27fccb5068742302423fe.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fal | ShockFire101 vs MysticArts, Monday Night SmashBall 149 @ Heart Of The Game - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fal | ShockFire101 vs MysticArts in Winners Round 1 of Monday Night SmashBall 149 @ Heart Of The Game, streamed by 716esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=716esports&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>237</video:duration>
+    <video:publication_date>2026-01-19T23:38:10.000Z</video:publication_date>
+    <video:uploader>716esports</video:uploader>
+    <video:expiration_date>2026-01-27T23:38:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-91/set/98361015/</loc>
+  <lastmod>2026-01-19T23:33:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674515811&amp;t=4h21m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>641</video:duration>
+    <video:duration>1482</video:duration>
     <video:publication_date>2026-01-19T23:07:10.000Z</video:publication_date>
     <video:uploader>orbitalsheep</video:uploader>
     <video:expiration_date>2026-01-27T23:07:10.000Z</video:expiration_date>
