@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-9/set/98361285/</loc>
+  <lastmod>2026-01-19T19:31:10.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871210/image-e72f497fa3ad7709eea9094410f2e659.png
+    </video:thumbnail_loc>
+    <video:title>
+      easyprey vs cozy | eevee noises, Platform Camp #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch easyprey vs cozy | eevee noises in Winners Quarter-Final of Platform Camp #9, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674493693&amp;t=1h12m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>542</video:duration>
+    <video:publication_date>2026-01-19T19:31:10.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-01-27T19:31:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98336789/</loc>
   <lastmod>2026-01-19T00:24:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T03:11:42.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-11T03:11:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-211/set/97813456/</loc>
-  <lastmod>2026-01-03T03:15:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865687/image-f81626e8f7ef3fa05e89559a230b5302.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ham Sandwich vs ThatsCrazyBro, Smash Night at Prodigy #211 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ham Sandwich vs ThatsCrazyBro in Losers Semi-Final of Smash Night at Prodigy #211, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659632979&amp;t=2h12m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>458</video:duration>
-    <video:publication_date>2026-01-03T03:03:35.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-01-11T03:03:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
