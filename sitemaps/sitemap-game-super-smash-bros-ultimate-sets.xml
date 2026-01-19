@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/19-368/set/98356934/</loc>
+  <lastmod>2026-01-19T11:26:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869542/image-11d513428d399eceb0e4d75d0cb7ec8b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      まるもん(marumon) vs SLH-Shonic, 19(月)上野スマコミ#368(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch まるもん(marumon) vs SLH-Shonic in Winners Semi-Final of 19(月)上野スマコミ#368(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/channel/UC0CNxYESc0khvnecH7pKS2Q
+    </video:player_loc>
+    <video:duration>1085</video:duration>
+    <video:publication_date>2026-01-19T11:26:49.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-01-27T11:26:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/19-368/set/98356932/</loc>
   <lastmod>2026-01-19T11:15:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-10T19:03:14.000Z</video:publication_date>
     <video:uploader>SmashHannover</video:uploader>
     <video:expiration_date>2026-01-18T19:03:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/u-smash-daoss/set/98033406/</loc>
-  <lastmod>2026-01-10T19:13:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867029/image-ccba34938af6596107ad30c2380eb158.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Yuizz vs U-Smash | Fifo, U-Smash DAOSS - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yuizz vs U-Smash | Fifo in Winners Round 1 of U-Smash DAOSS, streamed by xupapapaa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666430442&amp;t=0h23m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>550</video:duration>
-    <video:publication_date>2026-01-10T19:00:15.000Z</video:publication_date>
-    <video:uploader>xupapapaa</video:uploader>
-    <video:expiration_date>2026-01-18T19:00:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
