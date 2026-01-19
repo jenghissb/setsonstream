@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-91/set/98361142/</loc>
-  <lastmod>2026-01-19T22:40:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-91/set/98361015/</loc>
+  <lastmod>2026-01-19T23:07:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870630/image-a7d5a709547910c8a4ce96d637f50782.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NEP ECR | ヤバラ(NEP ECR | yabara) vs PeW, KnockOut Zone #91 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NEP ECR | ヤバラ(NEP ECR | yabara) vs PeW in Grand Final of KnockOut Zone #91, streamed by orbitalsheep
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674515811&amp;t=4h21m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>641</video:duration>
+    <video:publication_date>2026-01-19T23:07:10.000Z</video:publication_date>
+    <video:uploader>orbitalsheep</video:uploader>
+    <video:expiration_date>2026-01-27T23:07:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-91/set/98361142/</loc>
+  <lastmod>2026-01-19T23:04:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674515811&amp;t=3h54m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>977</video:duration>
+    <video:duration>1383</video:duration>
     <video:publication_date>2026-01-19T22:40:10.000Z</video:publication_date>
     <video:uploader>orbitalsheep</video:uploader>
     <video:expiration_date>2026-01-27T22:40:10.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-10T22:49:30.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2026-01-18T22:49:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ragnarok-origins/set/98039960/</loc>
-  <lastmod>2026-01-10T23:06:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840171/image-bdae68ef190a21ee3a2986f8306be3b7.png
-    </video:thumbnail_loc>
-    <video:title>
-      UACH | PKLoveR vs LH | KG | Gasterw0lf, Ragnarok: Origins - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UACH | PKLoveR vs LH | KG | Gasterw0lf in Winners Semi-Final of Ragnarok: Origins, streamed by ThrustGamingCUU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666421559&amp;t=4h18m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1110</video:duration>
-    <video:publication_date>2026-01-10T22:44:14.000Z</video:publication_date>
-    <video:uploader>ThrustGamingCUU</video:uploader>
-    <video:expiration_date>2026-01-18T22:44:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
