@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-71/set/98361945/</loc>
+  <lastmod>2026-01-19T21:31:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863790/image-f0053328b266f8ad4513fdc56560f64e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TLS / SINGES | CeBonVieuxPoring vs galithil, Toulouse Fighting Monday 71 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TLS / SINGES | CeBonVieuxPoring vs galithil in Winners Final of Toulouse Fighting Monday 71, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674542151&amp;t=1h54m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>748</video:duration>
+    <video:publication_date>2026-01-19T21:08:11.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-01-27T21:08:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-71/set/98361959/</loc>
-  <lastmod>2026-01-19T20:55:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-19T21:18:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674542151&amp;t=1h41m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1364</video:duration>
+    <video:duration>741</video:duration>
     <video:publication_date>2026-01-19T20:55:24.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-01-27T20:55:24.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2025-12-31T01:35:12.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-08T01:35:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-82/set/97776592/</loc>
-  <lastmod>2025-12-31T01:38:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864075/image-c348985860a573f42c96bc317accc481.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Cole8bitCode vs 4o4 | CoNavySeal, 4o4 by Sh33rZ: Street Fighter #82 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cole8bitCode vs 4o4 | CoNavySeal in Winners Round 1 of 4o4 by Sh33rZ: Street Fighter #82, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2657208551&amp;t=0h14m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>686</video:duration>
-    <video:publication_date>2025-12-31T01:26:15.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-01-08T01:26:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
