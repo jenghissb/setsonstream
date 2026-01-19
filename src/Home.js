@@ -1448,7 +1448,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
   if (!showSearchWithRoute) {
     titleStyle.paddingTop = "8px"
   }
-  const showExpand = !hasRightPane
+  const showExpand = useHomeTypeLists
   if (!hasRightPane) {
     chatWidth = "100%"
   } else {
