@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-235/set/98369596/</loc>
+  <lastmod>2026-01-19T23:44:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867047/image-efd2114cfa25dc4192745ad580d7a51f.png
+    </video:thumbnail_loc>
+    <video:title>
+      ESG | JAYDASH vs CRAB | small funny, ESG Fight Night #235 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ESG | JAYDASH vs CRAB | small funny in Winners Quarter-Final of ESG Fight Night #235, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674758829&amp;t=0h4m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>550</video:duration>
+    <video:publication_date>2026-01-19T23:44:18.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-01-27T23:44:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/summer-fox-smackdown-24-fgc-monthly/set/98346055/</loc>
   <lastmod>2026-01-19T01:43:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-03T04:40:48.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-01-11T04:40:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-102/set/97824481/</loc>
-  <lastmod>2026-01-03T04:54:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863368/image-56a0946b0b3d603652a34fb6f26f2fd3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SR | Jawk_O vs Shadix8103, SoCal Colosseum #102 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SR | Jawk_O vs Shadix8103 in Winners Round 3 of SoCal Colosseum #102, streamed by teakei
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659770057&amp;t=1h0m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>479</video:duration>
-    <video:publication_date>2026-01-03T04:40:11.000Z</video:publication_date>
-    <video:uploader>teakei</video:uploader>
-    <video:expiration_date>2026-01-11T04:40:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

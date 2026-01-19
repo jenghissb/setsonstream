@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-149-heart-of-the-game/set/98369454/</loc>
-  <lastmod>2026-01-19T23:38:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-149-heart-of-the-game/set/98369474/</loc>
+  <lastmod>2026-01-19T23:38:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870459/image-ce829d6169b27fccb5068742302423fe.png
+    </video:thumbnail_loc>
+    <video:title>
+      716 | winters vs DG, Monday Night SmashBall 149 @ Heart Of The Game - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 716 | winters vs DG in Winners Round 2 of Monday Night SmashBall 149 @ Heart Of The Game, streamed by 716esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674757912&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>890</video:duration>
+    <video:publication_date>2026-01-19T23:38:38.000Z</video:publication_date>
+    <video:uploader>716esports</video:uploader>
+    <video:expiration_date>2026-01-27T23:38:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-149-heart-of-the-game/set/98369454/</loc>
+  <lastmod>2026-01-19T23:50:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,9 +40,9 @@
       Watch Fal | ShockFire101 vs MysticArts in Winners Round 1 of Monday Night SmashBall 149 @ Heart Of The Game, streamed by 716esports
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=716esports&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2674757912&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>237</video:duration>
+    <video:duration>681</video:duration>
     <video:publication_date>2026-01-19T23:38:10.000Z</video:publication_date>
     <video:uploader>716esports</video:uploader>
     <video:expiration_date>2026-01-27T23:38:10.000Z</video:expiration_date>
@@ -71974,54 +71998,6 @@
     <video:publication_date>2026-01-10T22:54:08.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-01-18T22:54:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knox-esports-weekly-17-1/set/98039188/</loc>
-  <lastmod>2026-01-10T23:08:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866558/image-2de0657dae9b97956be2392e089b7175.png
-    </video:thumbnail_loc>
-    <video:title>
-      TheCompany | storm vs BtB | Orex, Knox Esports Weekly 17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TheCompany | storm vs BtB | Orex in Winners Final of Knox Esports Weekly 17, streamed by Tennessee_Gorilla
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666565542&amp;t=1h46m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>916</video:duration>
-    <video:publication_date>2026-01-10T22:50:15.000Z</video:publication_date>
-    <video:uploader>Tennessee_Gorilla</video:uploader>
-    <video:expiration_date>2026-01-18T22:50:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cascade-cup/set/98046482/</loc>
-  <lastmod>2026-01-10T23:06:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/847748/image-65cf1669630a8fa82c2d91232939f136.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Marseille vs EMG | Blacktwins13, Cascade Cup - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Marseille vs EMG | Blacktwins13 in Losers Round 2 of Cascade Cup, streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666319192&amp;t=6h30m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>826</video:duration>
-    <video:publication_date>2026-01-10T22:49:30.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2026-01-18T22:49:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
