@@ -309,6 +309,30 @@ body {
   
 }
 
+.home2landscapePane {
+  flex: 1;
+  flex-direction: column;
+  overflow: hidden;
+  /* overflow-y: auto;
+  overflow-x: visible; */
+  /* max-width:120px; */
+  max-width:300px;
+  /* transform: scale(0.8); */
+  /* transform-origin: top left */
+}
+
+.home2landscapePaneInner {
+  flex: 1;
+  flex-direction: column;
+  height: 113.4%;
+  /* padding: 1rem; */
+  overflow-y: auto;
+  /* max-width:120px; */
+  width:340px;
+  /* transform: scale(0.882); */
+  transform: scale(0.882);
+  transform-origin: top left
+}
 
 .home2rawStyle {
   font-size: small

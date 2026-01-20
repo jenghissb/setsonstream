@@ -1438,10 +1438,18 @@ function MainComponent({homeMode, homeType, darkMode}) {
   var dropdownSuggestions = getDropdownSuggestions(data, filterInfo.currentGameId)
   var routeInfo = getRouteInfoFromSuggestions(homeType, params, dropdownSuggestions)
   const useHomeTypeLists = homeType === HomeTypes.HOME //homeType in [HomeTypes.HOME]
-  const useSingleList = !useHomeTypeLists
 
   const widthThresh = 600
   const notLowWidth = width > widthThresh
+  const needsLandscapeLayout = window.screen.orientation.type.startsWith('landscape') && window.screen.orientation.type.angle != 0 && window.screen.height < 700
+  const useLandscapeLayout = needsLandscapeLayout && setParam != null
+  const isPortrait = !notLowWidth;
+  const isMobileLayout = needsLandscapeLayout || isPortrait
+  
+  // const showPreviewOnHomePage = !isMobileLayout
+  // const showPreviewOnTopicPages = !isMobileLayout
+  const showPreviewOutsideOfSetPage = !isMobileLayout
+  const useSingleList = !useHomeTypeLists && !useLandscapeLayout
   const hasRightPane = notLowWidth && !useHomeTypeLists
   const showSearchWithRoute = notLowWidth
   const showSubEmbed = !notLowWidth && !useHomeTypeLists
@@ -1506,12 +1514,6 @@ function MainComponent({homeMode, homeType, darkMode}) {
   mapHeight = "240px"
   var chat = null
   var previewItem = null
-  const isLandscapeLayout = window.screen.orientation.type.startsWith('landscape') && window.screen.orientation.type.angle != 0 && window.screen.height < 700
-  const isPortrait = !notLowWidth;
-  const isMobileLayout = isLandscapeLayout || isPortrait
-  // const showPreviewOnHomePage = !isMobileLayout
-  // const showPreviewOnTopicPages = !isMobileLayout
-  const showPreviewOutsideOfSetPage = !isMobileLayout
   if (useVideoIn.panel == true && (showPreviewOutsideOfSetPage || setParam != null)) { // && notLowWidth
     if (displayData.length > 0) {
       previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
@@ -1558,9 +1560,14 @@ function MainComponent({homeMode, homeType, darkMode}) {
 
   const previewStyle = notLowWidth ? 
      {position: "sticky", top: useHomeTypeLists? "48px" : "0px", zIndex:30000, alignSelf: "center"}
-   : {position: "sticky", top: displayConfig.noRouteInfo ? "0px" : "104px", zIndex:30000, alignSelf: "center"}
+   : {position: "sticky", top: (displayConfig.noRouteInfo || useLandscapeLayout) ? "0px" : "104px", zIndex:30000, alignSelf: "center"}
   if (useHomeTypeLists) {
     previewStyle.maxWidth = "min(max(30%, 300px), 500px)"
+  }
+  if (useLandscapeLayout) {
+    // previewStyle.maxWidth = "calc(100dvw - 80px)"
+    previewStyle.maxWidth = "calc(100dvw - 80px)"
+    previewStyle.maxHeight = "calc(100dvh - 40px)"
   }
 
   const previewItemTourneySlug = previewItem && getTourneySlug(previewItem.bracketInfo)
@@ -1582,34 +1589,74 @@ function MainComponent({homeMode, homeType, darkMode}) {
       <div className="home2threePanes">
         <div className="home2centerPane" ref={centerPane}>
           <div style={titleStyle}>
-            {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo, onPressCharButton}} /> }
+            {!displayConfig.noRouteInfo && !useLandscapeLayout && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo, onPressCharButton}} /> }
             <div className="home2titleBar">
-              {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal({type:"game", gameId: currentGameId})}} />}
-              {!displayConfig.noRouteInfo && showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo, onPressCharButton}} /> }        
+              {!displayConfig.noRouteInfo && !useLandscapeLayout && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal({type:"game", gameId: currentGameId})}} />}
+              {!displayConfig.noRouteInfo && !useLandscapeLayout && showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo, onPressCharButton}} /> }        
               <div className="emptyDiv"/>
-              </div>
             </div>
+          </div>
           { preview != null &&
             <div className="home2previewContainer" style={previewStyle}>
               {
                 preview
               }
               {
-                true && previewItemLink && showExpand && <div className="home2-previewExpandHolder"><Link to={previewItemLink} className="home2-previewExpandLink">
+                previewItemLink && showExpand && <div className="home2-previewExpandHolder"><Link to={previewItemLink} className="home2-previewExpandLink">
                   {renderExpandIcon({width: "32px", height: "32px"})}
                 </Link></div>
+              }
+              {
+                // previewItem && useLandscapeLayout && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />             
               }
             </div>
           }
           {
-            previewItem && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
+            !useLandscapeLayout && previewItem && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
           }
           { 
             noData
           }
           {
-            hasRightPane && false && previewItem && showLargeBracket && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth} onClose={() => setShowLargeBracket(false)}/>
+            !useLandscapeLayout && hasRightPane && false && previewItem && showLargeBracket && <BracketEmbedAbs centerWidth={centerWidth} src={previewItem.bracketInfo.phaseGroupUrl} sideChatWidth={sideChatWidth} onClose={() => setShowLargeBracket(false)}/>
           }
+          {!useLandscapeLayout && !displayConfig.noDisplayData && showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
+            <div className="home2SubEmbedChatContainer" style={subEmbedToggle==SubEmbeds.CHAT ? {} : {display: "none"}}>
+              {
+                chat
+              }
+            </div>
+            {
+              subEmbedToggle==SubEmbeds.MAP && <div className="home2SubEmbedControlsContainer">{Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, "100dvw", mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+              }</div>
+            }
+            {
+            subEmbedToggle==SubEmbeds.BRACKET && false && previewItem && <div className="home2SubEmbedControlsContainer">
+                <BracketEmbed totalWidth={centerWidth} height={240} src={previewItem.bracketInfo.phaseGroupUrl}/>
+              </div>
+            }
+            <div className="home2SubEmbedControlsContainer">
+              <SubEmbedControls selectedControlType={subEmbedToggle} onPressControlType={setSubEmbedToggle} controlTypes={subEmbedTypes} />
+            </div>
+          </div>}
+          { 
+            !displayConfig.noDisplayData && !hasRightPane && useSingleList && <DataItems {...{useLandscapeLayout: false, parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey: setParam != null ? itemKey : null, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          }
+          { 
+            useHomeTypeLists && favkeysOrdered.length > 0 && favkeysOrdered.map((item, index) => {
+              return <div key={getSearchItemKey(item)} style={{position: "relative"}}>
+                {HorizontalCatHeader({favSuggestion:item, onFavorite:onSearch, gameId: currentGameId})}
+                <DataHorizontal {...{catInfo: item, items:favMap.get(item), tourneyById, filterInfo: favFilterMap.get(item), useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+              </div>
+            })
+          }
+
+        </div>
+        { useLandscapeLayout && <div className="home2landscapePane"><div className="home2landscapePaneInner" ref={rightPane}>
+          {
+            previewItem && useLandscapeLayout && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />             
+          }
+
           {!displayConfig.noDisplayData && showSubEmbed && <div className="home2SubEmbeds" style={{height: subEmbedHeight}}>
             <div className="home2SubEmbedChatContainer" style={subEmbedToggle==SubEmbeds.CHAT ? {} : {display: "none"}}>
               {
@@ -1630,28 +1677,37 @@ function MainComponent({homeMode, homeType, darkMode}) {
             </div>
           </div>}
           { 
-            !displayConfig.noDisplayData && !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey: setParam != null ? itemKey : null, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
-          }
-          { 
-            useHomeTypeLists && favkeysOrdered.length > 0 && favkeysOrdered.map((item, index) => {
-              return <div key={getSearchItemKey(item)} style={{position: "relative"}}>
-                {HorizontalCatHeader({favSuggestion:item, onFavorite:onSearch, gameId: currentGameId})}
-                <DataHorizontal {...{catInfo: item, items:favMap.get(item), tourneyById, filterInfo: favFilterMap.get(item), useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
-              </div>
-            })
+            // !displayConfig.noDisplayData && useSingleList && <DataItems {...{useLandscapeLayout: true, parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey: setParam != null ? itemKey : null, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
           }
 
-        </div>
-        { !displayConfig.noDisplayData && hasRightPane && <div className="home2rightPane" ref={rightPane}>
+
+
+
+          {/* {
+            useLandscapeLayout && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
+          }
+          {useLandscapeLayout && chat} */}
+          {
+            useLandscapeLayout && <DataItems {...{useLandscapeLayout: true, isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          }
+          {
+            useLandscapeLayout && useHomeTypeLists && <DataItems {...{useLandscapeLayout: true, isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+          }
+          {
+            useLandscapeLayout && afterData
+          }
+          </div></div>
+        }
+        { false && !displayConfig.noDisplayData && hasRightPane && <div className="home2rightPane" ref={rightPane}>
           {
             hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
           }
           {hasRightPane && chat}
           {
-            hasRightPane && useSingleList && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+            hasRightPane && useSingleList && <DataItems {...{useLandscapeLayout: false, isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
           }
           {
-            hasRightPane && useHomeTypeLists && <DataItems {...{isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+            hasRightPane && useHomeTypeLists && <DataItems {...{useLandscapeLayout: false, isRightPane: true, parentRef:rightPane, parentRefCurrent:rightPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
           }
           {
             hasRightPane && afterData
@@ -1805,13 +1861,13 @@ const DataHorizontal = memo(({catInfo, items, tourneyById, filterInfo, useVideoI
 })
 
 
-const DataItems = memo(({isRightPane, parentRef, jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
+const DataItems = memo(({isRightPane, useLandscapeLayout, parentRef, jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
   if (homeMode == HomeModes.FULLMAP) {
     return
   }
 
   return <AdaptiveVirtualVideoGrid2
-    {...{showItemMatches: true, padding: isRightPane? "0px": "4px", parentRef, parentRefCurrent:parentRef.current, items:jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
+    {...{heightMult: useLandscapeLayout? 1.133 : 1.0, showItemMatches: true, padding: isRightPane? "0px": "4px", parentRef, parentRefCurrent:parentRef.current, items:jsonData, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
   />
 })
 

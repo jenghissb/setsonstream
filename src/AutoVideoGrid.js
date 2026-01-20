@@ -106,7 +106,8 @@ export const AdaptiveVirtualVideoGrid2 = ({
   minItemWidth = 200,
   aspectRatio = 16 / 9,
   textHeightGuess = 124,
-  padding = "4px"
+  padding = "4px",
+  heightMult = 1.0,
 }) => {
   // console.log(" Rendering AdaptiveVirtualVideoGrid2")
 
@@ -203,7 +204,7 @@ export const AdaptiveVirtualVideoGrid2 = ({
                 position: "absolute",
                 top: 0,
                 left: 0,
-                transform: `translateY(${virtualRow.start}px)`,
+                transform: `translateY(${virtualRow.start*heightMult}px)`,
                 display: "grid",
                 gridTemplateColumns: `repeat(${columnCount}, 1fr)`,
                 // gap: "8  px",
