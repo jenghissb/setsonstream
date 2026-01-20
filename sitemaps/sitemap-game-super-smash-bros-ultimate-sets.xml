@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-226/set/98386558/</loc>
-  <lastmod>2026-01-20T20:56:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-226/set/98386559/</loc>
+  <lastmod>2026-01-20T21:24:14.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871362/image-4ff314d11a1c4c62c251d453949f8df2.png
+    </video:thumbnail_loc>
+    <video:title>
+      R-B | | Kilo Crimson vs QG | Pierolym, Magna Arena #226 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch R-B | | Kilo Crimson vs QG | Pierolym in Losers Semi-Final of Magna Arena #226, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2675341181&amp;t=3h35m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>282</video:duration>
+    <video:publication_date>2026-01-20T21:24:14.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2026-01-28T21:24:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-226/set/98386558/</loc>
+  <lastmod>2026-01-20T21:25:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2675341181&amp;t=3h8m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>252</video:duration>
+    <video:duration>1659</video:duration>
     <video:publication_date>2026-01-20T20:56:25.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2026-01-28T20:56:25.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-226/set/98386496/</loc>
-  <lastmod>2026-01-20T20:44:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-20T21:03:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2675341181&amp;t=2h55m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>993</video:duration>
+    <video:duration>975</video:duration>
     <video:publication_date>2026-01-20T20:44:04.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2026-01-28T20:44:04.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-11T04:56:41.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-01-19T04:56:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/in-9-1/set/98022667/</loc>
-  <lastmod>2026-01-11T04:58:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865171/image-7bdf5965f97c8c21150a50105ff76ec4.png
-    </video:thumbnail_loc>
-    <video:title>
-      ハツカミ/初雷(hatsukami / hatsu kaminari) vs デミヤ(demiya), 彩in池袋#9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ハツカミ/初雷(hatsukami / hatsu kaminari) vs デミヤ(demiya) in Winners Semi-Final of 彩in池袋#9, streamed by 彩-aya-
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/3KhhcLM3leo?start=5394s
-    </video:player_loc>
-    <video:duration>952</video:duration>
-    <video:publication_date>2026-01-11T04:40:04.000Z</video:publication_date>
-    <video:uploader>彩-aya-</video:uploader>
-    <video:expiration_date>2026-01-19T04:40:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
