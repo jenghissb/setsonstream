@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-226/set/98386560/</loc>
-  <lastmod>2026-01-20T21:48:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-226/set/98386497/</loc>
+  <lastmod>2026-01-20T22:10:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,18 @@
       https://images.start.gg/images/tournament/871362/image-4ff314d11a1c4c62c251d453949f8df2.png
     </video:thumbnail_loc>
     <video:title>
-      ARK | Littlemonke vs R-B | | Kilo Crimson, Magna Arena #226 - Sets on Stream
+      GCR | ZeNo vs ARK | Littlemonke, Magna Arena #226 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ARK | Littlemonke vs R-B | | Kilo Crimson in Losers Final of Magna Arena #226, streamed by SmashStrasbourg
+      Watch GCR | ZeNo vs ARK | Littlemonke in Grand Final of Magna Arena #226, streamed by SmashStrasbourg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2675341181&amp;t=4h0m5s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2675341181&amp;t=4h21m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>285</video:duration>
-    <video:publication_date>2026-01-20T21:48:29.000Z</video:publication_date>
+    <video:duration>578</video:duration>
+    <video:publication_date>2026-01-20T22:10:13.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2026-01-28T21:48:29.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-28T22:10:13.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -42,10 +42,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=umesportsclub&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1435</video:duration>
+    <video:duration>3032</video:duration>
     <video:publication_date>2026-01-20T21:29:19.000Z</video:publication_date>
     <video:uploader>umesportsclub</video:uploader>
     <video:expiration_date>2026-01-28T21:29:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-226/set/98386560/</loc>
+  <lastmod>2026-01-20T22:12:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871362/image-4ff314d11a1c4c62c251d453949f8df2.png
+    </video:thumbnail_loc>
+    <video:title>
+      ARK | Littlemonke vs R-B | | Kilo Crimson, Magna Arena #226 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ARK | Littlemonke vs R-B | | Kilo Crimson in Losers Final of Magna Arena #226, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2675341181&amp;t=4h0m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1297</video:duration>
+    <video:publication_date>2026-01-20T21:48:29.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2026-01-28T21:48:29.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +72022,6 @@
     <video:publication_date>2026-01-11T05:09:35.000Z</video:publication_date>
     <video:uploader>slosmash</video:uploader>
     <video:expiration_date>2026-01-19T05:09:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/in-9-1/set/98022668/</loc>
-  <lastmod>2026-01-11T05:12:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865171/image-7bdf5965f97c8c21150a50105ff76ec4.png
-    </video:thumbnail_loc>
-    <video:title>
-      KR | うっちー(KR | utchii) vs Aki, 彩in池袋#9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KR | うっちー(KR | utchii) vs Aki in Winners Semi-Final of 彩in池袋#9, streamed by 彩-aya-
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/3KhhcLM3leo?start=6437s
-    </video:player_loc>
-    <video:duration>735</video:duration>
-    <video:publication_date>2026-01-11T04:57:27.000Z</video:publication_date>
-    <video:uploader>彩-aya-</video:uploader>
-    <video:expiration_date>2026-01-19T04:57:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
