@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-42-the-color-of-friendship/set/98382027/</loc>
+  <lastmod>2026-01-20T07:34:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871291/image-3e768d6222417e295f71d2c541a21265.png
+    </video:thumbnail_loc>
+    <video:title>
+      GUG | Matt, Vegas vs yb | Friend, McCloud&apos;s Melee Co. #42: The Color Of Friendship - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GUG | Matt, Vegas vs yb | Friend in Losers Final of McCloud&apos;s Melee Co. #42: The Color Of Friendship, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674928065&amp;t=4h6m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>641</video:duration>
+    <video:publication_date>2026-01-20T07:19:30.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2026-01-28T07:19:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-42-the-color-of-friendship/set/98382024/</loc>
-  <lastmod>2026-01-20T06:47:15.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-20T07:06:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674928065&amp;t=3h34m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>941</video:duration>
+    <video:duration>1017</video:duration>
     <video:publication_date>2026-01-20T06:47:15.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2026-01-28T06:47:15.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2025-12-21T02:21:43.000Z</video:publication_date>
     <video:uploader>GameUnderground</video:uploader>
     <video:expiration_date>2025-12-29T02:21:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-55-and-the-truth-will-set-you-free/set/97597389/</loc>
-  <lastmod>2025-12-21T02:22:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836818/image-4c4350376f95fae2c170a91413f63f14.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Chitanda Neru vs Project, Mass Madness 55 - And The Truth Will Set You Free - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chitanda Neru vs Project in Winners Semi-Final of Mass Madness 55 - And The Truth Will Set You Free, streamed by GameUnderground
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2649008505&amp;t=3h32m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>860</video:duration>
-    <video:publication_date>2025-12-21T02:07:20.000Z</video:publication_date>
-    <video:uploader>GameUnderground</video:uploader>
-    <video:expiration_date>2025-12-29T02:07:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
