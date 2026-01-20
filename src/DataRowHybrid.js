@@ -104,7 +104,7 @@ export const DataRowHybrid = memo(({showItemMatches=true, catInfo, item, tourney
 
   // searchParams.set("set", page);
   // const newUrl = `${window.location.pathname}?${searchParams.toString()}`;
-  const itemLink = getItemLink({searchTerm: catInfo, gameId:item.bracketInfo.gameId, setKey: showNumSets? null : item.bracketInfo.setKey, tourneySlug: showNumSets? tourneySlug : null})
+  const itemLink = getItemLink({searchTerm: catInfo, gameId:item.bracketInfo.gameId, setKey: item.bracketInfo.setKey, tourneySlug: showNumSets? tourneySlug : null})
   const linkElemProps = {
     className: divClass,
     to: itemLink,

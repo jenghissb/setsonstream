@@ -1440,7 +1440,8 @@ function MainComponent({homeMode, homeType, darkMode}) {
   const useHomeTypeLists = homeType === HomeTypes.HOME //homeType in [HomeTypes.HOME]
   const useSingleList = !useHomeTypeLists
 
-  const notLowWidth = width > 600
+  const widthThresh = 600
+  const notLowWidth = width > widthThresh
   const hasRightPane = notLowWidth && !useHomeTypeLists
   const showSearchWithRoute = notLowWidth
   const showSubEmbed = !notLowWidth && !useHomeTypeLists
@@ -1505,7 +1506,13 @@ function MainComponent({homeMode, homeType, darkMode}) {
   mapHeight = "240px"
   var chat = null
   var previewItem = null
-  if (useVideoIn.panel == true) {
+  const isLandscapeLayout = window.screen.orientation.type.startsWith('landscape') && window.screen.orientation.type.angle != 0 && window.screen.height < 700
+  const isPortrait = !notLowWidth;
+  const isMobileLayout = isLandscapeLayout || isPortrait
+  // const showPreviewOnHomePage = !isMobileLayout
+  // const showPreviewOnTopicPages = !isMobileLayout
+  const showPreviewOutsideOfSetPage = !isMobileLayout
+  if (useVideoIn.panel == true && (showPreviewOutsideOfSetPage || setParam != null)) { // && notLowWidth
     if (displayData.length > 0) {
       previewItem = displayData.find(it => it.bracketInfo.setKey == itemKey)
     }
@@ -1582,16 +1589,18 @@ function MainComponent({homeMode, homeType, darkMode}) {
               <div className="emptyDiv"/>
               </div>
             </div>
-          <div className="home2previewContainer" style={previewStyle}>
-            {
-              preview
-            }
-            {
-              true && previewItemLink && showExpand && <div className="home2-previewExpandHolder"><Link to={previewItemLink} className="home2-previewExpandLink">
-                {renderExpandIcon({width: "32px", height: "32px"})}
-              </Link></div>
-            }
-          </div>
+          { preview != null &&
+            <div className="home2previewContainer" style={previewStyle}>
+              {
+                preview
+              }
+              {
+                true && previewItemLink && showExpand && <div className="home2-previewExpandHolder"><Link to={previewItemLink} className="home2-previewExpandLink">
+                  {renderExpandIcon({width: "32px", height: "32px"})}
+                </Link></div>
+              }
+            </div>
+          }
           {
             previewItem && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />
           }
@@ -1621,7 +1630,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
             </div>
           </div>}
           { 
-            !displayConfig.noDisplayData && !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
+            !displayConfig.noDisplayData && !hasRightPane && useSingleList && <DataItems {...{parentRef:centerPane, parentRefCurrent:centerPane.current, jsonData:displayData, filterInfo:displayDataFilterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey: setParam != null ? itemKey : null, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}/>
           }
           { 
             useHomeTypeLists && favkeysOrdered.length > 0 && favkeysOrdered.map((item, index) => {
@@ -1791,7 +1800,7 @@ function renderLink(jsonData, shouldShow) {
 const DataHorizontal = memo(({catInfo, items, tourneyById, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}) => {
   const showItemMatches = catInfo.gameSlug != null
   return <HorizontalVirtualList
-    {...{showItemMatches, catInfo, items, tourneyById, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
+    {...{showItemMatches, catInfo, items, tourneyById, filterInfo, useVideoInList, handleIndexChange, streamSubIndex, setStreamSubIndex, itemKey: null, homeMode, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, rewindReady, scrollUpRef}}
   />
 })
 
