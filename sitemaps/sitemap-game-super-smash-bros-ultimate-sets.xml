@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hog-shock-17-3/set/98372158/</loc>
-  <lastmod>2026-01-20T04:16:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871569/image-3c5479865d43ff5a9d9b87ddbdd9764f.png
-    </video:thumbnail_loc>
-    <video:title>
-      ZD | Ling vs SOUP-E | GRIT, HoG: Shock 17.3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZD | Ling vs SOUP-E | GRIT in Losers Final of HoG: Shock 17.3, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2674802716&amp;t=3h43m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>870</video:duration>
-    <video:publication_date>2026-01-20T04:16:46.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-01-28T04:16:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-bair-house-24/set/98375347/</loc>
   <lastmod>2026-01-20T04:07:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -40,17 +16,41 @@
       Watch 1G | Emdy vs Crzy in Grand Final of The Bair House #24, streamed by SpringfieldSmash
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2674964090&amp;t=0h0m0s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?channel=SpringfieldSmash&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1436</video:duration>
+    <video:duration>3429</video:duration>
     <video:publication_date>2026-01-20T04:07:20.000Z</video:publication_date>
     <video:uploader>SpringfieldSmash</video:uploader>
     <video:expiration_date>2026-01-28T04:07:20.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-24/set/98382333/</loc>
-  <lastmod>2026-01-20T04:24:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/t-rough-n-tumble-6/set/98380445/</loc>
+  <lastmod>2026-01-20T05:00:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871352/image-9a8a3a709d5092c2c4a03cb9a95e51be.png
+    </video:thumbnail_loc>
+    <video:title>
+      Arrakis vs lyra, T-Rough N Tumble #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Arrakis vs lyra in Grand Final Reset of T-Rough N Tumble #6, streamed by troyusmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674930083&amp;t=1h44m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>256</video:duration>
+    <video:publication_date>2026-01-20T05:00:13.000Z</video:publication_date>
+    <video:uploader>troyusmash</video:uploader>
+    <video:expiration_date>2026-01-28T05:00:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-24/set/98382328/</loc>
+  <lastmod>2026-01-20T04:52:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -58,24 +58,144 @@
       https://images.start.gg/images/tournament/871474/image-ff3da44b97d863d2eb9335b6dbeedec6.png
     </video:thumbnail_loc>
     <video:title>
-      Driva vs Simple Soul, Homebrew #24 - Sets on Stream
+      Elixir | Seven vs ?, Homebrew #24 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Driva vs Simple Soul in Round 4 of Homebrew #24, streamed by elixiresportsmedia
+      Watch Elixir | Seven vs ? in Round 2 of Homebrew #24, streamed by elixiresportsmedia
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2674944828&amp;t=0h45m26s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2674944828&amp;t=1h13m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>394</video:duration>
-    <video:publication_date>2026-01-20T04:24:42.000Z</video:publication_date>
+    <video:duration>731</video:duration>
+    <video:publication_date>2026-01-20T04:52:18.000Z</video:publication_date>
     <video:uploader>elixiresportsmedia</video:uploader>
-    <video:expiration_date>2026-01-28T04:24:42.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-28T04:52:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-9-5/set/98380789/</loc>
+  <lastmod>2026-01-20T04:57:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871337/image-d568cc45624bd1105467196a1b700897.png
+    </video:thumbnail_loc>
+    <video:title>
+      LR | Ciyro vs LR | McQueso, Last Resort 9.5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LR | Ciyro vs LR | McQueso in Round 2 of Last Resort 9.5, streamed by CiyroZ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674918172&amp;t=1h58m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>390</video:duration>
+    <video:publication_date>2026-01-20T04:57:59.000Z</video:publication_date>
+    <video:uploader>CiyroZ</video:uploader>
+    <video:expiration_date>2026-01-28T04:57:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/t-rough-n-tumble-6/set/98380444/</loc>
+  <lastmod>2026-01-20T05:02:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871352/image-9a8a3a709d5092c2c4a03cb9a95e51be.png
+    </video:thumbnail_loc>
+    <video:title>
+      lyra vs Arrakis, T-Rough N Tumble #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch lyra vs Arrakis in Grand Final of T-Rough N Tumble #6, streamed by troyusmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674930083&amp;t=1h33m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>645</video:duration>
+    <video:publication_date>2026-01-20T04:49:17.000Z</video:publication_date>
+    <video:uploader>troyusmash</video:uploader>
+    <video:expiration_date>2026-01-28T04:49:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-9-5/set/98380787/</loc>
+  <lastmod>2026-01-20T04:59:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871337/image-d568cc45624bd1105467196a1b700897.png
+    </video:thumbnail_loc>
+    <video:title>
+      LR | McQueso vs UPTILT!, Last Resort 9.5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LR | McQueso vs UPTILT! in Round 1 of Last Resort 9.5, streamed by CiyroZ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674918172&amp;t=1h38m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1171</video:duration>
+    <video:publication_date>2026-01-20T04:37:12.000Z</video:publication_date>
+    <video:uploader>CiyroZ</video:uploader>
+    <video:expiration_date>2026-01-28T04:37:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/t-rough-n-tumble-6/set/98380475/</loc>
+  <lastmod>2026-01-20T04:51:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871352/image-9a8a3a709d5092c2c4a03cb9a95e51be.png
+    </video:thumbnail_loc>
+    <video:title>
+      alphys&apos; husband vs Arrakis, T-Rough N Tumble #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch alphys&apos; husband vs Arrakis in Losers Final of T-Rough N Tumble #6, streamed by troyusmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674930083&amp;t=1h16m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>992</video:duration>
+    <video:publication_date>2026-01-20T04:32:33.000Z</video:publication_date>
+    <video:uploader>troyusmash</video:uploader>
+    <video:expiration_date>2026-01-28T04:32:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hog-shock-17-3/set/98372031/</loc>
+  <lastmod>2026-01-20T04:57:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871569/image-3c5479865d43ff5a9d9b87ddbdd9764f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bubbs vs SOUP-E | GRIT, HoG: Shock 17.3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bubbs vs SOUP-E | GRIT in Grand Final of HoG: Shock 17.3, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674802716&amp;t=3h58m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1383</video:duration>
+    <video:publication_date>2026-01-20T04:31:26.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-01-28T04:31:26.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-9-5/set/98380788/</loc>
-  <lastmod>2026-01-20T04:25:15.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-20T04:38:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -90,10 +210,58 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2674918172&amp;t=1h26m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>361</video:duration>
+    <video:duration>704</video:duration>
     <video:publication_date>2026-01-20T04:25:15.000Z</video:publication_date>
     <video:uploader>CiyroZ</video:uploader>
     <video:expiration_date>2026-01-28T04:25:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-24/set/98382333/</loc>
+  <lastmod>2026-01-20T04:36:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871474/image-ff3da44b97d863d2eb9335b6dbeedec6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Driva vs Simple Soul, Homebrew #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Driva vs Simple Soul in Round 4 of Homebrew #24, streamed by elixiresportsmedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674944828&amp;t=0h45m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>591</video:duration>
+    <video:publication_date>2026-01-20T04:24:42.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-01-28T04:24:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hog-shock-17-3/set/98372158/</loc>
+  <lastmod>2026-01-20T04:30:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871569/image-3c5479865d43ff5a9d9b87ddbdd9764f.png
+    </video:thumbnail_loc>
+    <video:title>
+      ZD | Ling vs SOUP-E | GRIT, HoG: Shock 17.3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZD | Ling vs SOUP-E | GRIT in Losers Final of HoG: Shock 17.3, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2674802716&amp;t=3h43m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>756</video:duration>
+    <video:publication_date>2026-01-20T04:16:46.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-01-28T04:16:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71830,174 +71998,6 @@
     <video:publication_date>2026-01-11T03:51:25.000Z</video:publication_date>
     <video:uploader>arkansauce4</video:uploader>
     <video:expiration_date>2026-01-19T03:51:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mission-complete-iii-philly-smash-regional-event/set/98066885/</loc>
-  <lastmod>2026-01-11T04:03:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/848355/image-752b985eb173ce580b139a646b12f187.png
-    </video:thumbnail_loc>
-    <video:title>
-      smub vs OE | Char, Mission Complete III - Philly Smash Regional Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch smub vs OE | Char in Losers Round 1 of Mission Complete III - Philly Smash Regional Event, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666398449&amp;t=9h45m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1050</video:duration>
-    <video:publication_date>2026-01-11T03:44:05.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2026-01-19T03:44:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/in-9-1/set/98022653/</loc>
-  <lastmod>2026-01-11T04:01:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865171/image-7bdf5965f97c8c21150a50105ff76ec4.png
-    </video:thumbnail_loc>
-    <video:title>
-      あきやす(akiyasu) vs Verity | lakia, 彩in池袋#9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch あきやす(akiyasu) vs Verity | lakia in Winners Round 1 of 彩in池袋#9, streamed by 彩-aya-
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/3KhhcLM3leo?start=1950s
-    </video:player_loc>
-    <video:duration>1043</video:duration>
-    <video:publication_date>2026-01-11T03:42:40.000Z</video:publication_date>
-    <video:uploader>彩-aya-</video:uploader>
-    <video:expiration_date>2026-01-19T03:42:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-arkadian-100-pot-bonus/set/98059567/</loc>
-  <lastmod>2026-01-11T03:53:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851584/image-fd3627ef8fd6e0af8040def7746cd4fb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bluebell vs Snickerdoodle, The ARKadian ($100+ Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bluebell vs Snickerdoodle in Winners Final of The ARKadian ($100+ Pot Bonus), streamed by arkansauce4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666378746&amp;t=10h5m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>652</video:duration>
-    <video:publication_date>2026-01-11T03:40:53.000Z</video:publication_date>
-    <video:uploader>arkansauce4</video:uploader>
-    <video:expiration_date>2026-01-19T03:40:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/slobroke-reborn-89/set/98064025/</loc>
-  <lastmod>2026-01-11T03:59:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867968/image-09f5b22dead76a397e6ad20c5362f4f5.png
-    </video:thumbnail_loc>
-    <video:title>
-      EmotionalDamage vs TM6 | stuff, SloBroke REBORN! #89 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EmotionalDamage vs TM6 | stuff in Losers Quarter-Final of SloBroke REBORN! #89, streamed by slosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666785077&amp;t=2h3m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1029</video:duration>
-    <video:publication_date>2026-01-11T03:40:13.000Z</video:publication_date>
-    <video:uploader>slosmash</video:uploader>
-    <video:expiration_date>2026-01-19T03:40:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/la-guzchoza-15-a-poco-hay-comunidad-en-sayula-edition/set/98063889/</loc>
-  <lastmod>2026-01-11T03:55:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867284/image-2de39c2ac4287e0c8325485c1a065d09.png
-    </video:thumbnail_loc>
-    <video:title>
-      QueenBee vs OUT-A | Dokja, La GuzChoza #15: ¿A poco hay comunidad en Sayula? Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch QueenBee vs OUT-A | Dokja in Grand Final of La GuzChoza #15: ¿A poco hay comunidad en Sayula? Edition, streamed by elzeroner
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666645165&amp;t=4h51m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1324</video:duration>
-    <video:publication_date>2026-01-11T03:32:25.000Z</video:publication_date>
-    <video:uploader>elzeroner</video:uploader>
-    <video:expiration_date>2026-01-19T03:32:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/st-jean-cup-s6-e10/set/98068153/</loc>
-  <lastmod>2026-01-11T03:41:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866633/image-1845eee3becf04d22af94d1f186ade39.png
-    </video:thumbnail_loc>
-    <video:title>
-      Babino vs Cj21, St-Jean cup S6 E10 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Babino vs Cj21 in Winners Final of St-Jean cup S6 E10, streamed by exoga_sjc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666703519&amp;t=3h33m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>590</video:duration>
-    <video:publication_date>2026-01-11T03:28:59.000Z</video:publication_date>
-    <video:uploader>exoga_sjc</video:uploader>
-    <video:expiration_date>2026-01-19T03:28:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platnite-187-on-a-saturday/set/98063354/</loc>
-  <lastmod>2026-01-11T03:49:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867749/image-02f9ff11a259f415708129e492b15b72.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jagmi / ジャグミ(Jagmi / jagumi) vs VF | Lorenzo, Platnite 187: On a Saturday! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jagmi / ジャグミ(Jagmi / jagumi) vs VF | Lorenzo in Losers Semi-Final of Platnite 187: On a Saturday!, streamed by UCO Esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/-fIZYcJqOgA?start=6217s
-    </video:player_loc>
-    <video:duration>1148</video:duration>
-    <video:publication_date>2026-01-11T03:27:05.000Z</video:publication_date>
-    <video:uploader>UCO Esports</video:uploader>
-    <video:expiration_date>2026-01-19T03:27:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
