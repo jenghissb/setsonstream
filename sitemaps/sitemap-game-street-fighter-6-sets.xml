@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-16-biweekly-fighting-game-tournament-los-angeles/set/98408038/</loc>
+  <lastmod>2026-01-21T06:26:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869899/image-6e0640f8774bfc3a6d2bea8ae7303672.png
+    </video:thumbnail_loc>
+    <video:title>
+      SushiHeaven vs Samaro, DOWN BACK TUESDAYS @ MAMA LION #16 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SushiHeaven vs Samaro in Grand Final of DOWN BACK TUESDAYS @ MAMA LION #16 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2675816115&amp;t=2h12m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>507</video:duration>
+    <video:publication_date>2026-01-21T06:08:22.000Z</video:publication_date>
+    <video:uploader>DownBackClub</video:uploader>
+    <video:expiration_date>2026-01-29T06:08:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-16-biweekly-fighting-game-tournament-los-angeles/set/98408069/</loc>
-  <lastmod>2026-01-21T05:55:32.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-21T06:07:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2675816115&amp;t=1h59m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>239</video:duration>
+    <video:duration>616</video:duration>
     <video:publication_date>2026-01-21T05:55:32.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-01-29T05:55:32.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-03T01:16:50.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-01-11T01:16:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/friday-fundies-18-1/set/97812774/</loc>
-  <lastmod>2026-01-03T01:21:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862909/image-156e4776da4860472e65596ec671780f.png
-    </video:thumbnail_loc>
-    <video:title>
-      AFAS | Mike Webb vs DeAnthrax, Friday Fundies #18 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AFAS | Mike Webb vs DeAnthrax in Winners Final of Friday Fundies #18, streamed by attackfromallsides
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659596199&amp;t=1h7m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>159</video:duration>
-    <video:publication_date>2026-01-03T01:11:04.000Z</video:publication_date>
-    <video:uploader>attackfromallsides</video:uploader>
-    <video:expiration_date>2026-01-11T01:11:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
