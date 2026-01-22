@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/desert-knights-11/set/98444876/</loc>
+  <lastmod>2026-01-22T21:08:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857199/image-e9abaeac35fee558d63f3ca96cde879e.png
+    </video:thumbnail_loc>
+    <video:title>
+      tunkkimuna vs Salt, Desert Knights 11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tunkkimuna vs Salt in Losers Quarter-Final of Desert Knights 11, streamed by esporttent
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2677216873&amp;t=0h24m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>659</video:duration>
+    <video:publication_date>2026-01-22T20:49:11.000Z</video:publication_date>
+    <video:uploader>esporttent</video:uploader>
+    <video:expiration_date>2026-01-30T20:49:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-174-bringing-back-the-milk/set/98438605/</loc>
   <lastmod>2026-01-22T06:27:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-01T01:29:21.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2026-01-09T01:29:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-122-new-years-edition/set/97788684/</loc>
-  <lastmod>2026-01-01T01:11:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864995/image-ca8450686ed1e56dac78d1b434010cf9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Eggplant Mask vs EDLN | AOC | Oops! (Ez Quinn), Raptor Boost 122 - New Years Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Eggplant Mask vs EDLN | AOC | Oops! (Ez Quinn) in Winners Round 1 of Raptor Boost 122 - New Years Edition, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2657969541&amp;t=0h22m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1093</video:duration>
-    <video:publication_date>2026-01-01T00:52:16.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2026-01-09T00:52:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
