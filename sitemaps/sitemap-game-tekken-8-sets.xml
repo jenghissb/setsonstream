@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-27/set/98447650/</loc>
+  <lastmod>2026-01-22T18:38:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865303/image-799f7177b4aebc71134fdef42cce9017.png
+    </video:thumbnail_loc>
+    <video:title>
+      MNOLTH vs TR | WP | Cojax, Black Country Foundry #27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MNOLTH vs TR | WP | Cojax in Winners Round 1 of Black Country Foundry #27, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2677117827&amp;t=0h12m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>454</video:duration>
+    <video:publication_date>2026-01-22T18:38:31.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2026-01-30T18:38:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-83/set/98431831/</loc>
   <lastmod>2026-01-22T04:02:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-07T02:27:10.000Z</video:publication_date>
     <video:uploader>Diecrazyhard</video:uploader>
     <video:expiration_date>2026-01-15T02:27:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-134/set/97921100/</loc>
-  <lastmod>2026-01-07T02:46:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867288/image-93dc69984b84f76eed9eb6881f85e81f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Lunacy vs HoG | Karlos98k, HoG: Dragon #134 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lunacy vs HoG | Karlos98k in Winners Final of HoG: Dragon #134, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2663137611&amp;t=1h57m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>988</video:duration>
-    <video:publication_date>2026-01-07T02:17:57.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-01-15T02:17:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
