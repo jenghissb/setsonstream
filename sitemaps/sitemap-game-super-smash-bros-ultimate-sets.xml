@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/desert-knights-11/set/98444567/</loc>
-  <lastmod>2026-01-22T16:58:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/jab-check-98/set/98445352/</loc>
+  <lastmod>2026-01-22T17:34:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871343/image-8c04cef61ae290c493ce9c5dd4a1a836.png
+    </video:thumbnail_loc>
+    <video:title>
+      LA MEUTE | NICOOOW vs Al bat, Jab Check #98 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LA MEUTE | NICOOOW vs Al bat in Winners Round 1 of Jab Check #98, streamed by lacheckpoint_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=lacheckpoint_tv&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>739</video:duration>
+    <video:publication_date>2026-01-22T17:34:08.000Z</video:publication_date>
+    <video:uploader>lacheckpoint_tv</video:uploader>
+    <video:expiration_date>2026-01-30T17:34:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/desert-knights-11/set/98444568/</loc>
+  <lastmod>2026-01-22T17:10:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857199/image-e9abaeac35fee558d63f3ca96cde879e.png
+    </video:thumbnail_loc>
+    <video:title>
+      OSF | Saturn vs RV, Desert Knights 11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OSF | Saturn vs RV in Losers Round 5 of Desert Knights 11, streamed by esporttent
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2677006597&amp;t=1h13m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2175</video:duration>
+    <video:publication_date>2026-01-22T17:10:12.000Z</video:publication_date>
+    <video:uploader>esporttent</video:uploader>
+    <video:expiration_date>2026-01-30T17:10:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/desert-knights-11/set/98444567/</loc>
+  <lastmod>2026-01-22T17:09:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2677006597&amp;t=1h1m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>251</video:duration>
+    <video:duration>604</video:duration>
     <video:publication_date>2026-01-22T16:58:06.000Z</video:publication_date>
     <video:uploader>esporttent</video:uploader>
     <video:expiration_date>2026-01-30T16:58:06.000Z</video:expiration_date>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2026-01-13T06:50:08.000Z</video:publication_date>
     <video:uploader>elixiresportsmedia</video:uploader>
     <video:expiration_date>2026-01-21T06:50:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-23/set/98138544/</loc>
-  <lastmod>2026-01-13T06:50:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867961/image-ea7c50f59b0d003ab9fbb1a2bb5e09d3.png
-    </video:thumbnail_loc>
-    <video:title>
-      jlib vs ?, Homebrew #23 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch jlib vs ? in Losers Final of Homebrew #23, streamed by elixiresportsmedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2668647729&amp;t=2h56m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>900</video:duration>
-    <video:publication_date>2026-01-13T06:34:23.000Z</video:publication_date>
-    <video:uploader>elixiresportsmedia</video:uploader>
-    <video:expiration_date>2026-01-21T06:34:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
