@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/side-seven-skirmish-21/set/98436072/</loc>
+  <lastmod>2026-01-22T03:44:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865987/image-14bd3bbfe1b02f76800590bb53cf463b.png
+    </video:thumbnail_loc>
+    <video:title>
+      S7 | Prince Peach vs Dr. K, SIDE SEVEN SKIRMISH 21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch S7 | Prince Peach vs Dr. K in Winners Semi-Final of SIDE SEVEN SKIRMISH 21, streamed by MEECHY72
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2676622118&amp;t=1h3m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>628</video:duration>
+    <video:publication_date>2026-01-22T03:30:16.000Z</video:publication_date>
+    <video:uploader>MEECHY72</video:uploader>
+    <video:expiration_date>2026-01-30T03:30:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/magic-pixel-weekly-134/set/98406938/</loc>
   <lastmod>2026-01-21T05:46:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T02:01:38.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2026-01-11T02:01:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-138/set/97814170/</loc>
-  <lastmod>2026-01-03T02:21:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864272/image-6f962952f9f4e28c4eb23ee92b1252d7.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRAB | SLG | ThatScrubDavid vs EVIL | KyokuReset, HoG: Moonlight #138 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRAB | SLG | ThatScrubDavid vs EVIL | KyokuReset in Winners Final of HoG: Moonlight #138, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659626047&amp;t=1h18m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>806</video:duration>
-    <video:publication_date>2026-01-03T01:59:52.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-01-11T01:59:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
