@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-27/set/98447662/</loc>
-  <lastmod>2026-01-22T19:36:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-27/set/98447750/</loc>
+  <lastmod>2026-01-22T20:03:34.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865303/image-799f7177b4aebc71134fdef42cce9017.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cububo vs Sillycord | Zoro, Black Country Foundry #27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cububo vs Sillycord | Zoro in Winners Round 1 of Black Country Foundry #27, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2677117827&amp;t=1h37m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1105</video:duration>
+    <video:publication_date>2026-01-22T20:03:34.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2026-01-30T20:03:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-27/set/98447662/</loc>
+  <lastmod>2026-01-22T19:55:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2677117827&amp;t=1h10m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1029</video:duration>
+    <video:duration>372</video:duration>
     <video:publication_date>2026-01-22T19:36:28.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2026-01-30T19:36:28.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-07T03:25:46.000Z</video:publication_date>
     <video:uploader>Diecrazyhard</video:uploader>
     <video:expiration_date>2026-01-15T03:25:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/dave-buster-s-tuesday-s-28/set/97920947/</loc>
-  <lastmod>2026-01-07T03:32:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866554/image-bd94d47194439fe3a9775eb77afa41c3.png
-    </video:thumbnail_loc>
-    <video:title>
-      156/Shira vs Saiche, Dave &amp; Buster&apos;s Tuesday&apos;s #28 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 156/Shira vs Saiche in Losers Semi-Final of Dave &amp; Buster&apos;s Tuesday&apos;s #28, streamed by Diecrazyhard
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2663179832&amp;t=2h7m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>545</video:duration>
-    <video:publication_date>2026-01-07T03:16:35.000Z</video:publication_date>
-    <video:uploader>Diecrazyhard</video:uploader>
-    <video:expiration_date>2026-01-15T03:16:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
