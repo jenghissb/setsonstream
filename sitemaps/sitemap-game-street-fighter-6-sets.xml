@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-105/set/98441845/</loc>
-  <lastmod>2026-01-22T11:09:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-105/set/98441879/</loc>
+  <lastmod>2026-01-22T11:43:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871999/image-9f93f8e545546dbf7d1b3c12b23bed8e.png
+    </video:thumbnail_loc>
+    <video:title>
+      ガウにい(gau nii) vs 阿修羅(ashura), Paradise Cup #105 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ガウにい(gau nii) vs 阿修羅(ashura) in Round 3 of Paradise Cup #105, streamed by ParadiseFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=ParadiseFGC&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>196</video:duration>
+    <video:publication_date>2026-01-22T11:43:51.000Z</video:publication_date>
+    <video:uploader>ParadiseFGC</video:uploader>
+    <video:expiration_date>2026-01-30T11:43:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-105/set/98441845/</loc>
+  <lastmod>2026-01-22T11:37:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2676856062&amp;t=0h11m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1214</video:duration>
+    <video:duration>249</video:duration>
     <video:publication_date>2026-01-22T11:09:33.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-01-30T11:09:33.000Z</video:expiration_date>
