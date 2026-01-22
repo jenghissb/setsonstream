@@ -18,15 +18,15 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=TV_Seven&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1490</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-01-22T05:22:35.000Z</video:publication_date>
     <video:uploader>TV_Seven</video:uploader>
     <video:expiration_date>2026-01-30T05:22:35.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wild-smash-wednesday-170/set/98440877/</loc>
-  <lastmod>2026-01-22T05:37:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wild-smash-wednesday-170/set/98440891/</loc>
+  <lastmod>2026-01-22T06:15:54.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -34,24 +34,120 @@
       https://images.start.gg/images/tournament/868863/image-ffa188932c401755d65cb4d9d958c3c2.png
     </video:thumbnail_loc>
     <video:title>
-      MG | Demon99 vs Lan Hero | SkillBrina Carpenter, Wild Smash Wednesday #170 - Sets on Stream
+      Lan Hero | SkillBrina Carpenter vs Monke Geek, Wild Smash Wednesday #170 - Sets on Stream
     </video:title>
     <video:description>
-      Watch MG | Demon99 vs Lan Hero | SkillBrina Carpenter in Winners Semi-Final of Wild Smash Wednesday #170, streamed by powgaming
+      Watch Lan Hero | SkillBrina Carpenter vs Monke Geek in Losers Quarter-Final of Wild Smash Wednesday #170, streamed by powgaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2676712052&amp;t=1h1m42s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2676712052&amp;t=1h40m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>616</video:duration>
-    <video:publication_date>2026-01-22T05:37:09.000Z</video:publication_date>
+    <video:duration>790</video:duration>
+    <video:publication_date>2026-01-22T06:15:54.000Z</video:publication_date>
     <video:uploader>powgaming</video:uploader>
-    <video:expiration_date>2026-01-30T05:37:09.000Z</video:expiration_date>
+    <video:expiration_date>2026-01-30T06:15:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/alleymania-alleybirthday/set/98439680/</loc>
+  <lastmod>2026-01-22T06:23:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872562/image-8874bedeabb996b3bc4e95fb9b5e2edb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      WeFarmFrank | Olive vs TFT | Frank, ALLEYMANIA: ALLEYBIRTHDAY! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WeFarmFrank | Olive vs TFT | Frank in Grand Final of ALLEYMANIA: ALLEYBIRTHDAY!, streamed by TFT_Frank
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/channel/UC7rEwiuSa0aKonCOlBoTGmg
+    </video:player_loc>
+    <video:duration>360</video:duration>
+    <video:publication_date>2026-01-22T06:23:04.000Z</video:publication_date>
+    <video:uploader>TFT_Frank</video:uploader>
+    <video:expiration_date>2026-01-30T06:23:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-39/set/98438845/</loc>
+  <lastmod>2026-01-22T06:16:09.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871833/image-e445a17cbd466a6f9ceda31db30b2cfa.png
+    </video:thumbnail_loc>
+    <video:title>
+      Clune vs FalcoVille | CheeseKerd, Split Neutral #39 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Clune vs FalcoVille | CheeseKerd in Losers Final of Split Neutral #39, streamed by SoniCBPrO
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2676657284&amp;t=3h4m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>775</video:duration>
+    <video:publication_date>2026-01-22T06:16:09.000Z</video:publication_date>
+    <video:uploader>SoniCBPrO</video:uploader>
+    <video:expiration_date>2026-01-30T06:16:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-39/set/98438844/</loc>
+  <lastmod>2026-01-22T06:17:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871833/image-e445a17cbd466a6f9ceda31db30b2cfa.png
+    </video:thumbnail_loc>
+    <video:title>
+      FalcoVille | CheeseKerd vs WWA | JSAW, Split Neutral #39 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FalcoVille | CheeseKerd vs WWA | JSAW in Losers Semi-Final of Split Neutral #39, streamed by SoniCBPrO
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2676657284&amp;t=2h48m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>990</video:duration>
+    <video:publication_date>2026-01-22T05:59:33.000Z</video:publication_date>
+    <video:uploader>SoniCBPrO</video:uploader>
+    <video:expiration_date>2026-01-30T05:59:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wild-smash-wednesday-170/set/98440876/</loc>
+  <lastmod>2026-01-22T06:17:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868863/image-ffa188932c401755d65cb4d9d958c3c2.png
+    </video:thumbnail_loc>
+    <video:title>
+      CS3 | Marvelous_Marco vs POW | ØWL | Flavor(POW | O WL | Flavor), Wild Smash Wednesday #170 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CS3 | Marvelous_Marco vs POW | ØWL | Flavor(POW | O WL | Flavor) in Winners Semi-Final of Wild Smash Wednesday #170, streamed by powgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2676712052&amp;t=1h21m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1143</video:duration>
+    <video:publication_date>2026-01-22T05:56:45.000Z</video:publication_date>
+    <video:uploader>powgaming</video:uploader>
+    <video:expiration_date>2026-01-30T05:56:45.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-39/set/98438842/</loc>
-  <lastmod>2026-01-22T05:40:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-22T05:59:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +162,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2676657284&amp;t=2h29m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>386</video:duration>
+    <video:duration>1049</video:duration>
     <video:publication_date>2026-01-22T05:40:59.000Z</video:publication_date>
     <video:uploader>SoniCBPrO</video:uploader>
     <video:expiration_date>2026-01-30T05:40:59.000Z</video:expiration_date>
@@ -94,6 +190,30 @@
     <video:publication_date>2026-01-22T05:38:16.000Z</video:publication_date>
     <video:uploader>SoniCBPrO</video:uploader>
     <video:expiration_date>2026-01-30T05:38:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wild-smash-wednesday-170/set/98440877/</loc>
+  <lastmod>2026-01-22T05:57:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868863/image-ffa188932c401755d65cb4d9d958c3c2.png
+    </video:thumbnail_loc>
+    <video:title>
+      MG | Demon99 vs Lan Hero | SkillBrina Carpenter, Wild Smash Wednesday #170 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MG | Demon99 vs Lan Hero | SkillBrina Carpenter in Winners Semi-Final of Wild Smash Wednesday #170, streamed by powgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2676712052&amp;t=1h1m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1169</video:duration>
+    <video:publication_date>2026-01-22T05:37:09.000Z</video:publication_date>
+    <video:uploader>powgaming</video:uploader>
+    <video:expiration_date>2026-01-30T05:37:09.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71902,102 +72022,6 @@
     <video:publication_date>2026-01-13T04:26:27.000Z</video:publication_date>
     <video:uploader>MovementEsports</video:uploader>
     <video:expiration_date>2026-01-21T04:26:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-replay-runback-115-1/set/98137746/</loc>
-  <lastmod>2026-01-13T04:39:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868914/image-5a1a89132fcdcbdeb911c533d0512049.png
-    </video:thumbnail_loc>
-    <video:title>
-      RPL | LanceT vs RPL | 86mercy, The Replay Runback #115 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RPL | LanceT vs RPL | 86mercy in Winners Semi-Final of The Replay Runback #115, streamed by thereplayrunback
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2668664884&amp;t=0h20m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>725</video:duration>
-    <video:publication_date>2026-01-13T04:25:40.000Z</video:publication_date>
-    <video:uploader>thereplayrunback</video:uploader>
-    <video:expiration_date>2026-01-21T04:25:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/arcade-time-knockout-smash-brothers-tournament-with-hungrybox/set/98128717/</loc>
-  <lastmod>2026-01-13T04:29:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864070/image-7954b2b755789b006b403fc07b800c4f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Plummet vs KABOOM! | Twilight, Arcade Time Knockout Smash Brothers Tournament With Hungrybox - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Plummet vs KABOOM! | Twilight in Winners Round 3 of Arcade Time Knockout Smash Brothers Tournament With Hungrybox, streamed by HUNGRYBOX
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2668544698&amp;t=3h6m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>179</video:duration>
-    <video:publication_date>2026-01-13T04:25:10.000Z</video:publication_date>
-    <video:uploader>HUNGRYBOX</video:uploader>
-    <video:expiration_date>2026-01-21T04:25:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-23/set/98136991/</loc>
-  <lastmod>2026-01-13T04:36:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867961/image-ea7c50f59b0d003ab9fbb1a2bb5e09d3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Elixir | Seven vs Jackfruit, Homebrew #23 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Elixir | Seven vs Jackfruit in Round 2 of Homebrew #23, streamed by elixiresportsmedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2668647729&amp;t=0h45m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>763</video:duration>
-    <video:publication_date>2026-01-13T04:22:45.000Z</video:publication_date>
-    <video:uploader>elixiresportsmedia</video:uploader>
-    <video:expiration_date>2026-01-21T04:22:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-252/set/98133028/</loc>
-  <lastmod>2026-01-13T04:27:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868883/image-70125b8ace6afcb8c3eebe0bc289505d.png
-    </video:thumbnail_loc>
-    <video:title>
-      OU | !. | Rob. vs Mott | thicc nicc, Movement Smash # 252 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OU | !. | Rob. vs Mott | thicc nicc in Losers Quarter-Final of Movement Smash # 252, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2668567858&amp;t=2h25m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>764</video:duration>
-    <video:publication_date>2026-01-13T04:13:24.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2026-01-21T04:13:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
