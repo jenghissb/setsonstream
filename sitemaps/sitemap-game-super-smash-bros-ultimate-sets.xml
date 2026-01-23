@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/desert-knights-11/set/98471844/</loc>
+  <lastmod>2026-01-23T14:45:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857199/image-e9abaeac35fee558d63f3ca96cde879e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zozef vs Natural N, Desert Knights 11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zozef vs Natural N in Winners Round 2 of Desert Knights 11, streamed by esporttent
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2677801735&amp;t=1h10m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>665</video:duration>
+    <video:publication_date>2026-01-23T14:32:03.000Z</video:publication_date>
+    <video:uploader>esporttent</video:uploader>
+    <video:expiration_date>2026-01-31T14:32:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/desert-knights-11/set/98471838/</loc>
-  <lastmod>2026-01-23T14:15:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-23T14:31:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2677801735&amp;t=0h53m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1057</video:duration>
+    <video:duration>951</video:duration>
     <video:publication_date>2026-01-23T14:15:01.000Z</video:publication_date>
     <video:uploader>esporttent</video:uploader>
     <video:expiration_date>2026-01-31T14:15:01.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-15T20:57:44.000Z</video:publication_date>
     <video:uploader>fragsoc</video:uploader>
     <video:expiration_date>2026-01-23T20:57:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-open-world-16/set/98200473/</loc>
-  <lastmod>2026-01-15T21:12:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869293/image-0542f3d4b5e4a3ab0b759e383eb4c3ea.png
-    </video:thumbnail_loc>
-    <video:title>
-      plan-B | Sansi vs plan-B | Yetey, Smash @ Open World #16 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch plan-B | Sansi vs plan-B | Yetey in Winners Final of Smash @ Open World #16, streamed by openworldvienna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2670907551&amp;t=0h41m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>997</video:duration>
-    <video:publication_date>2026-01-15T20:52:48.000Z</video:publication_date>
-    <video:uploader>openworldvienna</video:uploader>
-    <video:expiration_date>2026-01-23T20:52:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
