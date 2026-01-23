@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-the-vault-xlv/set/98470353/</loc>
-  <lastmod>2026-01-23T08:47:41.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-the-vault-xlv/set/98470226/</loc>
+  <lastmod>2026-01-23T09:15:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870812/image-7821ccb455885bd04256595b3cb1e809.png
+    </video:thumbnail_loc>
+    <video:title>
+      JEL | Arr_J vs Lan Hero | SkillBrina Carpenter, Smash @ The Vault XlV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JEL | Arr_J vs Lan Hero | SkillBrina Carpenter in Grand Final of Smash @ The Vault XlV, streamed by jelesport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=jelesport&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>677</video:duration>
+    <video:publication_date>2026-01-23T09:15:45.000Z</video:publication_date>
+    <video:uploader>jelesport</video:uploader>
+    <video:expiration_date>2026-01-31T09:15:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-the-vault-xlv/set/98470353/</loc>
+  <lastmod>2026-01-23T09:04:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2677663004&amp;t=1h33m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>431</video:duration>
+    <video:duration>894</video:duration>
     <video:publication_date>2026-01-23T08:47:41.000Z</video:publication_date>
     <video:uploader>jelesport</video:uploader>
     <video:expiration_date>2026-01-31T08:47:41.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-15T20:19:57.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-01-23T20:19:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/manabar-weekly-2026-2/set/98200742/</loc>
-  <lastmod>2026-01-15T20:47:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869150/image-673b99b7b220f18f082a7d144fa01138.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MANATi vs Galli, Manabar Weekly 2026 (#2) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MANATi vs Galli in Winners Semi-Final of Manabar Weekly 2026 (#2), streamed by 420_Ramen
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/zUrGPAhv8fc?start=14352s
-    </video:player_loc>
-    <video:duration>1560</video:duration>
-    <video:publication_date>2026-01-15T20:19:34.000Z</video:publication_date>
-    <video:uploader>420_Ramen</video:uploader>
-    <video:expiration_date>2026-01-23T20:19:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
