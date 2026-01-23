@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crt-legacy-18/set/98467899/</loc>
+  <lastmod>2026-01-23T06:07:39.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872248/image-5e80a6de4204558f57eb94f45dd0d783.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PBAG | BSG | Graves vs TUK | SpiritGun, CRT Legacy #18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PBAG | BSG | Graves vs TUK | SpiritGun in Grand Final of CRT Legacy #18, streamed by flatmen
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=flatmen&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1280</video:duration>
+    <video:publication_date>2026-01-23T06:07:39.000Z</video:publication_date>
+    <video:uploader>flatmen</video:uploader>
+    <video:expiration_date>2026-01-31T06:07:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-131/set/98467725/</loc>
   <lastmod>2026-01-23T05:30:07.000Z</lastmod>
   <changefreq>daily</changefreq>
