@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-57-ggst-gbvsr/set/98451535/</loc>
+  <lastmod>2026-01-23T01:17:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870979/image-8e8cd1531e6b4a5d71a863e4a8e120c5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Gbhforever vs JM | Hachiman, Just Mids #57: GGST &amp; GBVSR - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gbhforever vs JM | Hachiman in Grand Final of Just Mids #57: GGST &amp; GBVSR, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2677416358&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1072</video:duration>
+    <video:publication_date>2026-01-23T00:45:15.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-01-31T00:45:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-1-17-25/set/98271437/</loc>
   <lastmod>2026-01-17T19:06:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-12-06T23:56:20.000Z</video:publication_date>
     <video:uploader>norcalgranblue</video:uploader>
     <video:expiration_date>2025-12-14T23:56:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/winter-throwdown-2025/set/97139973/</loc>
-  <lastmod>2025-12-07T00:10:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853816/image-fc56bcad379e7e86ca43f0c345523a85.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Poky | Unstable Hamster vs The HarDe One, Winter Throwdown 2025 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Poky | Unstable Hamster vs The HarDe One in Losers Final of Winter Throwdown 2025, streamed by pocatellopugilistsfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2637288143&amp;t=0h40m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>794</video:duration>
-    <video:publication_date>2025-12-06T23:54:44.000Z</video:publication_date>
-    <video:uploader>pocatellopugilistsfgc</video:uploader>
-    <video:expiration_date>2025-12-14T23:54:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

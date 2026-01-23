@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tol-thursday-night-throwdown-84/set/98458805/</loc>
+  <lastmod>2026-01-23T01:04:51.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867592/image-ea00de68eb47c5b103f99bfed85a1004.png
+    </video:thumbnail_loc>
+    <video:title>
+      UnkemptStatue vs Nykillabee78, TOL Thursday Night Throwdown #84 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UnkemptStatue vs Nykillabee78 in Winners Round 1 of TOL Thursday Night Throwdown #84, streamed by tol_gaming_lounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2677435082&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>966</video:duration>
+    <video:publication_date>2026-01-23T01:04:51.000Z</video:publication_date>
+    <video:uploader>tol_gaming_lounge</video:uploader>
+    <video:expiration_date>2026-01-31T01:04:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-105/set/98441895/</loc>
   <lastmod>2026-01-22T12:10:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-03T02:04:44.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-01-11T02:04:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-114/set/97818151/</loc>
-  <lastmod>2026-01-03T02:15:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864812/image-ed845c46ce9215c887b54bfe85f2fd43.png
-    </video:thumbnail_loc>
-    <video:title>
-      UrsaRising vs flaccidpancak3, UP THE BLOCK #114 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UrsaRising vs flaccidpancak3 in Winners Quarter-Final of UP THE BLOCK #114, streamed by UG_NYC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659662012&amp;t=0h34m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>405</video:duration>
-    <video:publication_date>2026-01-03T01:59:04.000Z</video:publication_date>
-    <video:uploader>UG_NYC</video:uploader>
-    <video:expiration_date>2026-01-11T01:59:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
