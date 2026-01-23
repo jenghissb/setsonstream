@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-36/set/98488764/</loc>
+  <lastmod>2026-01-23T22:35:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866564/image-aa6d63598b951af64a13b34a460358f5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Chubb vs Kingu, Front Runners #36 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chubb vs Kingu in Losers Semi-Final of Front Runners #36, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678022007&amp;t=3h27m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>587</video:duration>
+    <video:publication_date>2026-01-23T22:13:54.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2026-01-31T22:13:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-36/set/98488761/</loc>
   <lastmod>2026-01-23T22:11:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-06T02:53:13.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2026-01-14T02:53:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kame-house-weekly-141-newyearnewmetypeshit/set/97886649/</loc>
-  <lastmod>2026-01-06T03:00:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865838/image-ac54d082970dc54d434269d88defb0c1.png
-    </video:thumbnail_loc>
-    <video:title>
-      MCSMASH | fknsilver vs N/a | C$, Kame House Weekly #141 #NEWYEARNEWMETYPESHIT - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MCSMASH | fknsilver vs N/a | C$ in Winners Semi-Final of Kame House Weekly #141 #NEWYEARNEWMETYPESHIT, streamed by vgbootcamp2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2662339461&amp;t=0h58m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>701</video:duration>
-    <video:publication_date>2026-01-06T02:36:50.000Z</video:publication_date>
-    <video:uploader>vgbootcamp2</video:uploader>
-    <video:expiration_date>2026-01-14T02:36:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
