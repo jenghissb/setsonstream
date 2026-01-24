@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-104/set/98516827/</loc>
+  <lastmod>2026-01-24T05:40:11.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871416/image-0618023d23d432514bc77bd7807b1883.png
+    </video:thumbnail_loc>
+    <video:title>
+      Geno vs UF|DB|SR|FT| | SKG | REV, SoCal Colosseum #104 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Geno vs UF|DB|SR|FT| | SKG | REV in Winners Quarter-Final of SoCal Colosseum #104, streamed by teakei
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678486465&amp;t=1h52m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>859</video:duration>
+    <video:publication_date>2026-01-24T05:40:11.000Z</video:publication_date>
+    <video:uploader>teakei</video:uploader>
+    <video:expiration_date>2026-02-01T05:40:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-104/set/98516822/</loc>
   <lastmod>2026-01-24T05:10:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-07T05:08:40.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-01-15T05:08:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-87-norcal-2xko-tekken-weekly/set/97925666/</loc>
-  <lastmod>2026-01-07T04:55:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866608/image-6b126c863327c75655ec8d7caf27aeef.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Red9 vs Cenizen, Guildhouse Tuesday 87 - Norcal 2XKO &amp; Tekken weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Red9 vs Cenizen in Winners Semi-Final of Guildhouse Tuesday 87 - Norcal 2XKO &amp; Tekken weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2663308460&amp;t=0h43m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>681</video:duration>
-    <video:publication_date>2026-01-07T04:40:44.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-01-15T04:40:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
