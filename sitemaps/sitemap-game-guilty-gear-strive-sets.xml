@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/steel-city-showdown-ii/set/98546630/</loc>
+  <lastmod>2026-01-24T21:00:11.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865127/image-1a798afc7f1c6f86fe00ce938f33982b.png
+    </video:thumbnail_loc>
+    <video:title>
+      FNAF | Casper vs JM | Hotline, Steel City Showdown II - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FNAF | Casper vs JM | Hotline in Grand Final of Steel City Showdown II, streamed by incendiumgaming2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678975245&amp;t=2h55m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>930</video:duration>
+    <video:publication_date>2026-01-24T21:00:11.000Z</video:publication_date>
+    <video:uploader>incendiumgaming2</video:uploader>
+    <video:expiration_date>2026-02-01T21:00:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-52/set/98531955/</loc>
   <lastmod>2026-01-24T16:49:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T13:24:20.000Z</video:publication_date>
     <video:uploader>nsxc_tv</video:uploader>
     <video:expiration_date>2026-01-11T13:24:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pfl-galette-des-rois/set/97827730/</loc>
-  <lastmod>2026-01-03T13:26:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864798/image-736f0bdd64971292f83f36c0b63c2bfe.png
-    </video:thumbnail_loc>
-    <video:title>
-      Platy | Daseinologist vs V STAR | Tsuku, PFL GALETTE DES ROIS  ! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Platy | Daseinologist vs V STAR | Tsuku in Winners Final of PFL GALETTE DES ROIS  !, streamed by nsxc_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659974476&amp;t=1h54m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1114</video:duration>
-    <video:publication_date>2026-01-03T13:03:09.000Z</video:publication_date>
-    <video:uploader>nsxc_tv</video:uploader>
-    <video:expiration_date>2026-01-11T13:03:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
