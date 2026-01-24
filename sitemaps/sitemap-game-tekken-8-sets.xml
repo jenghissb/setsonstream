@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-january-2026/set/98543049/</loc>
-  <lastmod>2026-01-24T19:08:54.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-january-2026/set/98543050/</loc>
+  <lastmod>2026-01-24T19:16:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863404/image-2fbcd4c7de4c3c365ce41143dc0380ca.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kirakira vs HEE | Hellsweep, Vermilion Gates January 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kirakira vs HEE | Hellsweep in Losers Round 1 of Vermilion Gates January 2026, streamed by CROSSOVER_GG
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678908679&amp;t=2h27m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>787</video:duration>
+    <video:publication_date>2026-01-24T19:16:28.000Z</video:publication_date>
+    <video:uploader>CROSSOVER_GG</video:uploader>
+    <video:expiration_date>2026-02-01T19:16:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-january-2026/set/98543049/</loc>
+  <lastmod>2026-01-24T19:23:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2678908679&amp;t=2h20m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>352</video:duration>
+    <video:duration>450</video:duration>
     <video:publication_date>2026-01-24T19:08:54.000Z</video:publication_date>
     <video:uploader>CROSSOVER_GG</video:uploader>
     <video:expiration_date>2026-02-01T19:08:54.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-08T03:17:19.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-01-16T03:17:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-148/set/97943562/</loc>
-  <lastmod>2026-01-08T03:15:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865740/image-0aac4d0045cff4e44224e4f3422101da.png
-    </video:thumbnail_loc>
-    <video:title>
-      Battery vs D1TortaPounder, Juicy Game Night #148 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Battery vs D1TortaPounder in Losers Final of Juicy Game Night #148, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664061993&amp;t=1h20m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>912</video:duration>
-    <video:publication_date>2026-01-08T02:56:40.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2026-01-16T02:56:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
