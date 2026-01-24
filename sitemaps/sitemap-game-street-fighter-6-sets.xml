@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/juicy-monthly-january-24th-2026/set/98544678/</loc>
+  <lastmod>2026-01-24T19:04:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865979/image-376dae34f4e37c2214c8ad31ab60649b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Rusty vs NikTheGit, Juicy Monthly - January 24th, 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rusty vs NikTheGit in Winners Round 2 of Juicy Monthly - January 24th, 2026, streamed by JuicyGameNight
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679028908&amp;t=0h3m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>627</video:duration>
+    <video:publication_date>2026-01-24T19:04:19.000Z</video:publication_date>
+    <video:uploader>JuicyGameNight</video:uploader>
+    <video:expiration_date>2026-02-01T19:04:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-friday-january-23-2026/set/98518485/</loc>
   <lastmod>2026-01-24T06:39:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-03T06:58:36.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2026-01-11T06:58:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-25/set/97826527/</loc>
-  <lastmod>2026-01-03T06:41:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862591/image-c353362b56508e78948b979c872661c0.png
-    </video:thumbnail_loc>
-    <video:title>
-      plum vs Tren&apos;s tallest soldier, Drive Theory 25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch plum vs Tren&apos;s tallest soldier in Losers Round 2 of Drive Theory 25, streamed by itschandarin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659830994&amp;t=1h5m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>570</video:duration>
-    <video:publication_date>2026-01-03T06:18:52.000Z</video:publication_date>
-    <video:uploader>itschandarin</video:uploader>
-    <video:expiration_date>2026-01-11T06:18:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
