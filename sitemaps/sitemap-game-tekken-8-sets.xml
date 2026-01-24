@@ -18,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2678908679&amp;t=0h40m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>323</video:duration>
+    <video:duration>1310</video:duration>
     <video:publication_date>2026-01-24T17:29:07.000Z</video:publication_date>
     <video:uploader>CROSSOVER_GG</video:uploader>
     <video:expiration_date>2026-02-01T17:29:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-january-2026/set/98537927/</loc>
+  <lastmod>2026-01-24T17:37:30.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863404/image-2fbcd4c7de4c3c365ce41143dc0380ca.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Tetsu vs KRYP | EmpressFGC, Vermilion Gates January 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tetsu vs KRYP | EmpressFGC in Winners Quarter-Final of Vermilion Gates January 2026, streamed by CROSSOVER_GG
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678908679&amp;t=0h48m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>807</video:duration>
+    <video:publication_date>2026-01-24T17:37:30.000Z</video:publication_date>
+    <video:uploader>CROSSOVER_GG</video:uploader>
+    <video:expiration_date>2026-02-01T17:37:30.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-08T02:26:47.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-01-16T02:26:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-148/set/97943498/</loc>
-  <lastmod>2026-01-08T02:40:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865740/image-0aac4d0045cff4e44224e4f3422101da.png
-    </video:thumbnail_loc>
-    <video:title>
-      Battery vs Reborn, Juicy Game Night #148 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Battery vs Reborn in Winners Final of Juicy Game Night #148, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664061993&amp;t=0h49m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>904</video:duration>
-    <video:publication_date>2026-01-08T02:25:02.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2026-01-16T02:25:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
