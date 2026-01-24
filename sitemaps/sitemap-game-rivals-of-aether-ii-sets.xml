@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-256/set/98510331/</loc>
+  <lastmod>2026-01-24T03:32:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872226/image-fde2f21d5eac79e09ad8ee099a69106b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Chimiso vs KornDog | GeeMonee, Elite Smash Fridays #256 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chimiso vs KornDog | GeeMonee in Losers Round 2 of Elite Smash Fridays #256, streamed by Colorado_ROA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678392672&amp;t=1h16m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>774</video:duration>
+    <video:publication_date>2026-01-24T03:14:10.000Z</video:publication_date>
+    <video:uploader>Colorado_ROA</video:uploader>
+    <video:expiration_date>2026-02-01T03:14:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-256/set/98510291/</loc>
   <lastmod>2026-01-24T02:57:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T00:00:25.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-01-18T00:00:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/solarpowered-20/set/97979517/</loc>
-  <lastmod>2026-01-09T05:43:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867630/image-fcffd7dde18e9a5e8a8f737faa5d5953.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fox vs UM | Jimbly, SOLARPOWERED #20 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fox vs UM | Jimbly in Winners Final of SOLARPOWERED #20, streamed by solarpoweredntx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664994695&amp;t=2h9m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1285</video:duration>
-    <video:publication_date>2026-01-09T05:15:50.000Z</video:publication_date>
-    <video:uploader>solarpoweredntx</video:uploader>
-    <video:expiration_date>2026-01-17T05:15:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
