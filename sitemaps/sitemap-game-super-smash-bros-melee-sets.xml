@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/greebcrib-winter-games-ii/set/98528081/</loc>
-  <lastmod>2026-01-24T13:01:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/greebcrib-winter-games-ii/set/98528097/</loc>
+  <lastmod>2026-01-24T13:21:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847320/image-4f1c2b5b60e368873e570df309575034.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Taco vs Tydde, GreebCrib – Winter Games II - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Taco vs Tydde in Round 7 of GreebCrib – Winter Games II, streamed by Smashtrondheim
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678715436&amp;t=1h30m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1619</video:duration>
+    <video:publication_date>2026-01-24T13:21:12.000Z</video:publication_date>
+    <video:uploader>Smashtrondheim</video:uploader>
+    <video:expiration_date>2026-02-01T13:21:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/greebcrib-winter-games-ii/set/98528081/</loc>
+  <lastmod>2026-01-24T13:25:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2678715436&amp;t=1h10m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1145</video:duration>
+    <video:duration>1393</video:duration>
     <video:publication_date>2026-01-24T13:01:28.000Z</video:publication_date>
     <video:uploader>Smashtrondheim</video:uploader>
     <video:expiration_date>2026-02-01T13:01:28.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-08T01:02:02.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-01-16T01:02:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nycmelee-s-stock-exchange-31/set/97938503/</loc>
-  <lastmod>2026-01-08T01:16:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866723/image-32cd7b2d497e4ddf41468d04ce7134af.png
-    </video:thumbnail_loc>
-    <video:title>
-      Anchor vs fraser, NYCMelee&apos;s Stock Exchange #31 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Anchor vs fraser in Winners Round 2 of NYCMelee&apos;s Stock Exchange #31, streamed by nycmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664005783&amp;t=0h25m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>669</video:duration>
-    <video:publication_date>2026-01-08T00:56:08.000Z</video:publication_date>
-    <video:uploader>nycmelee</video:uploader>
-    <video:expiration_date>2026-01-16T00:56:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
