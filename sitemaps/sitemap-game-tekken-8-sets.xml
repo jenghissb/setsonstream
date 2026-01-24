@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/lions-arena-v/set/98529290/</loc>
+  <lastmod>2026-01-24T15:13:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848347/image-baecb97245dda61621a0dc459c28b2dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kebab Drinker vs S3N0S_KLC, Lions Arena V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kebab Drinker vs S3N0S_KLC in Winners Round 2 of Lions Arena V, streamed by tekkenbrescia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678700513&amp;t=3h42m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>444</video:duration>
+    <video:publication_date>2026-01-24T14:59:43.000Z</video:publication_date>
+    <video:uploader>tekkenbrescia</video:uploader>
+    <video:expiration_date>2026-02-01T14:59:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/lions-arena-v/set/98527556/</loc>
   <lastmod>2026-01-24T12:24:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-08T02:00:02.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-01-16T02:00:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-148/set/97943497/</loc>
-  <lastmod>2026-01-08T02:16:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865740/image-0aac4d0045cff4e44224e4f3422101da.png
-    </video:thumbnail_loc>
-    <video:title>
-      D1TortaPounder vs Reborn, Juicy Game Night #148 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch D1TortaPounder vs Reborn in Winners Semi-Final of Juicy Game Night #148, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664061993&amp;t=0h23m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>615</video:duration>
-    <video:publication_date>2026-01-08T01:59:19.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2026-01-16T01:59:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
