@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-january-2026/set/98543039/</loc>
+  <lastmod>2026-01-24T20:44:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863404/image-2fbcd4c7de4c3c365ce41143dc0380ca.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Tetsu vs Kirakira, Vermilion Gates January 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tetsu vs Kirakira in Grand Final of Vermilion Gates January 2026, streamed by CROSSOVER_GG
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678908679&amp;t=3h55m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>540</video:duration>
+    <video:publication_date>2026-01-24T20:44:17.000Z</video:publication_date>
+    <video:uploader>CROSSOVER_GG</video:uploader>
+    <video:expiration_date>2026-02-01T20:44:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/vermilion-gates-january-2026/set/98543053/</loc>
   <lastmod>2026-01-24T20:31:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-10T02:39:13.000Z</video:publication_date>
     <video:uploader>unrivaledtournaments</video:uploader>
     <video:expiration_date>2026-01-18T02:39:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/fgc-meetups-112/set/98008742/</loc>
-  <lastmod>2026-01-10T02:42:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862978/image-f0beb6d97b6dab68e30798e7669cb611.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      mattheus vs Peach Clapper, FGC Meetups 112 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch mattheus vs Peach Clapper in Winners Round 1 of FGC Meetups 112, streamed by unrivaledtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2665841600&amp;t=0h18m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1225</video:duration>
-    <video:publication_date>2026-01-10T02:17:35.000Z</video:publication_date>
-    <video:uploader>unrivaledtournaments</video:uploader>
-    <video:expiration_date>2026-01-18T02:17:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
