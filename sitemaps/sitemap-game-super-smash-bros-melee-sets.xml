@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/port-authority-18/set/98548863/</loc>
+  <lastmod>2026-01-24T21:19:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860233/image-1fd1309b95c1cd834eb14f4477157f3b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kishoto vs Dusty, Port Authority - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kishoto vs Dusty in Winners Round 1 of Port Authority, streamed by nsmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=nsmelee&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>783</video:duration>
+    <video:publication_date>2026-01-24T21:19:46.000Z</video:publication_date>
+    <video:uploader>nsmelee</video:uploader>
+    <video:expiration_date>2026-02-01T21:19:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/greebcrib-winter-games-ii/set/98534570/</loc>
   <lastmod>2026-01-24T19:47:48.000Z</lastmod>
   <changefreq>daily</changefreq>
