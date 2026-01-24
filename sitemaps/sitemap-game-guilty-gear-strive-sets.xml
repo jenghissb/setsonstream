@@ -18,16 +18,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=westinite&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1710</video:duration>
+    <video:duration>3116</video:duration>
     <video:publication_date>2026-01-24T22:24:58.000Z</video:publication_date>
     <video:uploader>westinite</video:uploader>
     <video:expiration_date>2026-02-01T22:24:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-esg-monthly-43-the-fgc-event/set/98554220/</loc>
-  <lastmod>2026-01-24T22:45:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tsb-4-26/set/98555775/</loc>
+  <lastmod>2026-01-24T22:53:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866567/image-4d7ab8c0ddca02400a294fdd6f0404b3.png
+    </video:thumbnail_loc>
+    <video:title>
+      HOMESTUCK | Valentine vs Fichael, TSB 4.26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HOMESTUCK | Valentine vs Fichael in Losers Semi-Final of TSB 4.26, streamed by tsb_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678999954&amp;t=4h21m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1427</video:duration>
+    <video:publication_date>2026-01-24T22:53:07.000Z</video:publication_date>
+    <video:uploader>tsb_fgc</video:uploader>
+    <video:expiration_date>2026-02-01T22:53:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-esg-monthly-43-the-fgc-event/set/98554220/</loc>
+  <lastmod>2026-01-24T23:03:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2679042753&amp;t=3h30m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>479</video:duration>
+    <video:duration>452</video:duration>
     <video:publication_date>2026-01-24T22:45:29.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2026-02-01T22:45:29.000Z</video:expiration_date>
@@ -50,8 +74,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tsb-4-26/set/98555760/</loc>
-  <lastmod>2026-01-24T22:43:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-24T23:03:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,40 +90,16 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2678999954&amp;t=4h11m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>605</video:duration>
+    <video:duration>580</video:duration>
     <video:publication_date>2026-01-24T22:43:23.000Z</video:publication_date>
     <video:uploader>tsb_fgc</video:uploader>
     <video:expiration_date>2026-02-01T22:43:23.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/steel-city-showdown-ii/set/98546630/</loc>
-  <lastmod>2026-01-24T21:00:11.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865127/image-1a798afc7f1c6f86fe00ce938f33982b.png
-    </video:thumbnail_loc>
-    <video:title>
-      FNAF | Casper vs JM | Hotline, Steel City Showdown II - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FNAF | Casper vs JM | Hotline in Grand Final of Steel City Showdown II, streamed by incendiumgaming2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2679186938&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-01-24T21:00:11.000Z</video:publication_date>
-    <video:uploader>incendiumgaming2</video:uploader>
-    <video:expiration_date>2026-02-01T21:00:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dal-dungeon-69/set/98550372/</loc>
-  <lastmod>2026-01-24T22:41:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-24T23:03:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -114,7 +114,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2679074279&amp;t=2h52m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>723</video:duration>
+    <video:duration>739</video:duration>
     <video:publication_date>2026-01-24T22:41:25.000Z</video:publication_date>
     <video:uploader>swagonium</video:uploader>
     <video:expiration_date>2026-02-01T22:41:25.000Z</video:expiration_date>
@@ -310,6 +310,30 @@
     <video:publication_date>2026-01-24T21:19:08.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2026-02-01T21:19:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/steel-city-showdown-ii/set/98546630/</loc>
+  <lastmod>2026-01-24T23:03:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/865127/image-1a798afc7f1c6f86fe00ce938f33982b.png
+    </video:thumbnail_loc>
+    <video:title>
+      FNAF | Casper vs JM | Hotline, Steel City Showdown II - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FNAF | Casper vs JM | Hotline in Grand Final of Steel City Showdown II, streamed by incendiumgaming2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679186938&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-01-24T21:00:11.000Z</video:publication_date>
+    <video:uploader>incendiumgaming2</video:uploader>
+    <video:expiration_date>2026-02-01T21:00:11.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4798,30 +4822,6 @@
     <video:publication_date>2026-01-07T04:22:34.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2026-01-15T04:22:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-222-taking-on-the-new-year-with-some-zeal/set/97921253/</loc>
-  <lastmod>2026-01-07T03:49:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866431/image-4eab0523e91bac4702ae4d52047201f2.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fat vs YoKai | Etholux, CFG Tuesday Trials 222: Taking On The New Year With Some Zeal! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fat vs YoKai | Etholux in Winners Final of CFG Tuesday Trials 222: Taking On The New Year With Some Zeal!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2663104823&amp;t=3h47m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>584</video:duration>
-    <video:publication_date>2026-01-07T03:30:03.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-01-15T03:30:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

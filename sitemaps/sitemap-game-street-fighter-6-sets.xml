@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/no-god-no-neutral-offline-edition/set/98559277/</loc>
-  <lastmod>2026-01-24T22:45:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/no-god-no-neutral-offline-edition/set/98559296/</loc>
+  <lastmod>2026-01-24T22:59:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857852/image-169942c412435494ac7f1b88d7a2973e.png
+    </video:thumbnail_loc>
+    <video:title>
+      PS|4TW | RnV vs Bouzouki, No God No Neutral Offline Edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PS|4TW | RnV vs Bouzouki in Winners Round 3 of No God No Neutral Offline Edition, streamed by mikeygfxx
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679214456&amp;t=0h42m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1036</video:duration>
+    <video:publication_date>2026-01-24T22:59:38.000Z</video:publication_date>
+    <video:uploader>mikeygfxx</video:uploader>
+    <video:expiration_date>2026-02-01T22:59:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/no-god-no-neutral-offline-edition/set/98559277/</loc>
+  <lastmod>2026-01-24T23:06:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2679214456&amp;t=0h29m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>455</video:duration>
+    <video:duration>388</video:duration>
     <video:publication_date>2026-01-24T22:45:53.000Z</video:publication_date>
     <video:uploader>mikeygfxx</video:uploader>
     <video:expiration_date>2026-02-01T22:45:53.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-04T00:45:27.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-01-12T00:45:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tlf-new-years/set/97843200/</loc>
-  <lastmod>2026-01-04T00:46:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Retro Reload | Plight vs Golden Sour, TLF New Years - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Retro Reload | Plight vs Golden Sour in Losers Quarter-Final of TLF New Years, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2660454441&amp;t=1h49m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>261</video:duration>
-    <video:publication_date>2026-01-04T00:35:51.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-01-12T00:35:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
