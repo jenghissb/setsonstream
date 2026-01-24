@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/greebcrib-winter-games-ii/set/98528066/</loc>
+  <lastmod>2026-01-24T12:26:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847320/image-4f1c2b5b60e368873e570df309575034.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      JohsyJam vs Veldor, GreebCrib – Winter Games II - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JohsyJam vs Veldor in Round 7 of GreebCrib – Winter Games II, streamed by Smashtrondheim
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678715436&amp;t=0h35m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>388</video:duration>
+    <video:publication_date>2026-01-24T12:26:37.000Z</video:publication_date>
+    <video:uploader>Smashtrondheim</video:uploader>
+    <video:expiration_date>2026-02-01T12:26:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-7/set/98515621/</loc>
   <lastmod>2026-01-24T06:47:06.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-08T00:48:00.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-01-16T00:48:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-1-7-26/set/97939403/</loc>
-  <lastmod>2026-01-08T00:56:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866043/image-595e1279c78347902946ddd3dc656ae8.png
-    </video:thumbnail_loc>
-    <video:title>
-      PROD | funkyk0ng vs Watch(Regular), One Up Melee 1.7.26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PROD | funkyk0ng vs Watch(Regular) in Winners Round 2 of One Up Melee 1.7.26, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664003892&amp;t=0h3m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>953</video:duration>
-    <video:publication_date>2026-01-08T00:31:51.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2026-01-16T00:31:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

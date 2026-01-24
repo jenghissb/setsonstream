@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/lions-arena-v/set/98527556/</loc>
+  <lastmod>2026-01-24T12:24:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/848347/image-baecb97245dda61621a0dc459c28b2dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      HG | ErnieBowl vs TBG | Hikra, Lions Arena V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HG | ErnieBowl vs TBG | Hikra in Winners Round 2 of Lions Arena V, streamed by tekkenbrescia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678700513&amp;t=0h48m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>596</video:duration>
+    <video:publication_date>2026-01-24T12:05:30.000Z</video:publication_date>
+    <video:uploader>tekkenbrescia</video:uploader>
+    <video:expiration_date>2026-02-01T12:05:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-104/set/98522111/</loc>
   <lastmod>2026-01-24T08:18:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-08T01:59:19.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-01-16T01:59:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-81/set/97943941/</loc>
-  <lastmod>2026-01-08T02:02:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864200/image-e80b804fb1b07ea47fc053ff2163ff64.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Armanisaint vs Eternia Corp. | HBKdoza, 4o4 by Sh33rZ: Tekken 8 #81 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Armanisaint vs Eternia Corp. | HBKdoza in Winners Round 2 of 4o4 by Sh33rZ: Tekken 8 #81, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664044754&amp;t=0h28m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>603</video:duration>
-    <video:publication_date>2026-01-08T01:44:13.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-01-16T01:44:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
