@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tsb-4-26/set/98555761/</loc>
-  <lastmod>2026-01-24T23:17:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/scuffle-3-1/set/98562898/</loc>
+  <lastmod>2026-01-24T23:37:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/816314/image-98927e855af1747deb9b48d24fc8df2c.png
+    </video:thumbnail_loc>
+    <video:title>
+      TRULY | Kibotsu vs AtMyAxlLowest, Scuffle 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TRULY | Kibotsu vs AtMyAxlLowest in Winners Quarter-Final of Scuffle 3, streamed by zaney_w
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=zaney_w&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>847</video:duration>
+    <video:publication_date>2026-01-24T23:37:18.000Z</video:publication_date>
+    <video:uploader>zaney_w</video:uploader>
+    <video:expiration_date>2026-02-01T23:37:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tsb-4-26/set/98555761/</loc>
+  <lastmod>2026-01-24T23:41:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2678999954&amp;t=4h45m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1342</video:duration>
+    <video:duration>1344</video:duration>
     <video:publication_date>2026-01-24T23:17:51.000Z</video:publication_date>
     <video:uploader>tsb_fgc</video:uploader>
     <video:expiration_date>2026-02-01T23:17:51.000Z</video:expiration_date>
