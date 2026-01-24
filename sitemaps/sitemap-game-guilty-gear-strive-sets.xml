@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-104/set/98516990/</loc>
+  <lastmod>2026-01-24T04:25:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871416/image-0618023d23d432514bc77bd7807b1883.png
+    </video:thumbnail_loc>
+    <video:title>
+      YoKai | SCS | Botan vs LzzDoThis, SoCal Colosseum #104 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YoKai | SCS | Botan vs LzzDoThis in Winners Quarter-Final of SoCal Colosseum #104, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2678479086&amp;t=0h30m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>703</video:duration>
+    <video:publication_date>2026-01-24T04:08:45.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2026-02-01T04:08:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-104/set/98516985/</loc>
-  <lastmod>2026-01-24T03:53:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-24T04:11:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2678479086&amp;t=0h15m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>844</video:duration>
+    <video:duration>682</video:duration>
     <video:publication_date>2026-01-24T03:53:12.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2026-02-01T03:53:12.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-03T05:49:15.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2026-01-11T05:49:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-102/set/97824062/</loc>
-  <lastmod>2026-01-03T05:49:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863368/image-56a0946b0b3d603652a34fb6f26f2fd3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PFaB | AutisticDuck vs Garlic Bread, SoCal Colosseum #102 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PFaB | AutisticDuck vs Garlic Bread in Winners Final of SoCal Colosseum #102, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2659765845&amp;t=2h6m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>546</video:duration>
-    <video:publication_date>2026-01-03T05:40:02.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2026-01-11T05:40:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
