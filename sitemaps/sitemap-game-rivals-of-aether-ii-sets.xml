@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/guild-gauntlet-6/set/98560443/</loc>
+  <lastmod>2026-01-25T01:49:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871382/image-1a46dac5e2311b1a574f585b5005b463.png
+    </video:thumbnail_loc>
+    <video:title>
+      edgintheledge vs Doc, Guild Gauntlet 6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch edgintheledge vs Doc in Grand Final of Guild Gauntlet 6, streamed by GuildhallSFL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679120669&amp;t=4h55m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>772</video:duration>
+    <video:publication_date>2026-01-25T01:29:44.000Z</video:publication_date>
+    <video:uploader>GuildhallSFL</video:uploader>
+    <video:expiration_date>2026-02-02T01:29:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/guild-gauntlet-6/set/98560474/</loc>
-  <lastmod>2026-01-25T01:13:32.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-25T01:36:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2679120669&amp;t=4h39m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>883</video:duration>
+    <video:duration>965</video:duration>
     <video:publication_date>2026-01-25T01:13:32.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-02-02T01:13:32.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T00:50:16.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-01-18T00:50:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-517/set/97998501/</loc>
-  <lastmod>2026-01-10T01:18:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866576/image-c1c682aec341656e7aa9d7ec658cea9a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Punching Bag vs Scarab, Adventure B-Airs #517 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Punching Bag vs Scarab in Winners Quarter-Final of Adventure B-Airs #517, streamed by Bros. Calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/ETye8W-yC3s?start=2202s
-    </video:player_loc>
-    <video:duration>1205</video:duration>
-    <video:publication_date>2026-01-10T00:50:14.000Z</video:publication_date>
-    <video:uploader>Bros. Calamity</video:uploader>
-    <video:expiration_date>2026-01-18T00:50:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
