@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-8-tekken-god-sushi/set/98575607/</loc>
-  <lastmod>2026-01-25T16:37:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-8-tekken-god-sushi/set/98575670/</loc>
+  <lastmod>2026-01-25T17:00:41.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864818/image-23f74adea0a6c2671947e79c70aa00bd.png
+    </video:thumbnail_loc>
+    <video:title>
+      AspireJK vs Yato, Sea Dogs 8 : TEKKEN GOD SUSHI - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AspireJK vs Yato in Losers Semi-Final of Sea Dogs 8 : TEKKEN GOD SUSHI, streamed by CenciuNC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679759029&amp;t=3h56m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>877</video:duration>
+    <video:publication_date>2026-01-25T17:00:41.000Z</video:publication_date>
+    <video:uploader>CenciuNC</video:uploader>
+    <video:expiration_date>2026-02-02T17:00:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-8-tekken-god-sushi/set/98575607/</loc>
+  <lastmod>2026-01-25T17:03:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2679759029&amp;t=3h33m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>705</video:duration>
+    <video:duration>1367</video:duration>
     <video:publication_date>2026-01-25T16:37:31.000Z</video:publication_date>
     <video:uploader>CenciuNC</video:uploader>
     <video:expiration_date>2026-02-02T16:37:31.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-11T01:24:27.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2026-01-19T01:24:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-clash-29/set/98061010/</loc>
-  <lastmod>2026-01-11T01:39:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861782/image-c67b56304177e8df0d13cb525af00891.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SR | Swell vs FS | | LaVirgoBonita, SoCal Colosseum Clash #29 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SR | Swell vs FS | | LaVirgoBonita in Winners Round 2 of SoCal Colosseum Clash #29, streamed by teakei
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666753087&amp;t=0h18m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>586</video:duration>
-    <video:publication_date>2026-01-11T01:17:01.000Z</video:publication_date>
-    <video:uploader>teakei</video:uploader>
-    <video:expiration_date>2026-01-19T01:17:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

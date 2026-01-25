@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/let-s-make-big-moves-2026-7/set/98594247/</loc>
-  <lastmod>2026-01-25T16:35:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/let-s-make-big-moves-2026-7/set/98594234/</loc>
+  <lastmod>2026-01-25T16:56:10.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813640/image-59b1c6894a390b4e183dd856d653a8f1.png
+    </video:thumbnail_loc>
+    <video:title>
+      CakeAssault vs LG | Sandstorm, Let&apos;s Make BIG Moves 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CakeAssault vs LG | Sandstorm in Winners Semi-Final of Let&apos;s Make BIG Moves 2026, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679853646&amp;t=1h28m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1148</video:duration>
+    <video:publication_date>2026-01-25T16:56:10.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-02-02T16:56:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/let-s-make-big-moves-2026-7/set/98594247/</loc>
+  <lastmod>2026-01-25T17:05:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2679853646&amp;t=1h7m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>836</video:duration>
+    <video:duration>1269</video:duration>
     <video:publication_date>2026-01-25T16:35:20.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-02-02T16:35:20.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T01:42:09.000Z</video:publication_date>
     <video:uploader>Bros. Calamity</video:uploader>
     <video:expiration_date>2026-01-18T01:42:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-night-at-prodigy-212/set/98001292/</loc>
-  <lastmod>2026-01-10T01:32:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866149/image-081ea83c593c1f74459d753fee489bce.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ham Sandwich vs CG | Creestab, RIVALS Night at Prodigy #212 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ham Sandwich vs CG | Creestab in Round 2 of RIVALS Night at Prodigy #212, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2665776803&amp;t=0h30m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>209</video:duration>
-    <video:publication_date>2026-01-10T01:15:35.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-01-18T01:15:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
