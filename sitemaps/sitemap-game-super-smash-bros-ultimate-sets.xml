@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/55-3/set/98585144/</loc>
-  <lastmod>2026-01-25T06:58:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/beesmash-49/set/98584253/</loc>
+  <lastmod>2026-01-25T07:25:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870961/image-d43525f4503c4ec8d6456742ea654a88.png
+    </video:thumbnail_loc>
+    <video:title>
+      うっしー(usshii) vs mkえろ(mk ero), 渋谷BeeSmash 49 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch うっしー(usshii) vs mkえろ(mk ero) in Losers Semi-Final of 渋谷BeeSmash 49, streamed by BST.
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/y_nQwq11njQ?start=8518s
+    </video:player_loc>
+    <video:duration>989</video:duration>
+    <video:publication_date>2026-01-25T07:25:18.000Z</video:publication_date>
+    <video:uploader>BST.</video:uploader>
+    <video:expiration_date>2026-02-02T07:25:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/55-3/set/98585144/</loc>
+  <lastmod>2026-01-25T07:23:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/Fe-6lBkHRO8?start=19574s
     </video:player_loc>
-    <video:duration>1262</video:duration>
+    <video:duration>1438</video:duration>
     <video:publication_date>2026-01-25T06:58:31.000Z</video:publication_date>
     <video:uploader>晴れスマ</video:uploader>
     <video:expiration_date>2026-02-02T06:58:31.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-17T16:45:12.000Z</video:publication_date>
     <video:uploader>besalty_</video:uploader>
     <video:expiration_date>2026-01-25T16:45:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/r20-premier-january-2026-ssbu/set/98268587/</loc>
-  <lastmod>2026-01-17T16:59:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870946/image-5d6ffd6ea8bf0c9653521a7bd9d68a0f.png
-    </video:thumbnail_loc>
-    <video:title>
-      [BHS]Kageshiro vs [CHS]Rockyy22, R20 Premier January 2026 SSBU - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch [BHS]Kageshiro vs [CHS]Rockyy22 in Losers Round 1 of R20 Premier January 2026 SSBU, streamed by R20Premier
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672543547&amp;t=0h44m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>880</video:duration>
-    <video:publication_date>2026-01-17T16:42:10.000Z</video:publication_date>
-    <video:uploader>R20Premier</video:uploader>
-    <video:expiration_date>2026-01-25T16:42:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
