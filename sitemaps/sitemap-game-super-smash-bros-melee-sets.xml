@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/v-stersl-ss-8/set/98594441/</loc>
+  <lastmod>2026-01-25T17:32:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868778/image-3c31715e67409a70c8bd41366dcbaa89.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sharp vs Nisse, VÄSterSlåss #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sharp vs Nisse in Winners Final of VÄSterSlåss #8, streamed by vasterasfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679860297&amp;t=1h38m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>883</video:duration>
+    <video:publication_date>2026-01-25T17:16:05.000Z</video:publication_date>
+    <video:uploader>vasterasfgc</video:uploader>
+    <video:expiration_date>2026-02-02T17:16:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mission-complete-06/set/98580602/</loc>
   <lastmod>2026-01-25T05:47:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-09T00:15:44.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-01-17T00:15:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-363/set/97961815/</loc>
-  <lastmod>2026-01-09T00:16:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867310/image-34bbb56871af977de60f801d2b58c680.png
-    </video:thumbnail_loc>
-    <video:title>
-      LilFrogurt vs Shy, Salt Water Smash 363 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LilFrogurt vs Shy in Winners Semi-Final of Salt Water Smash 363, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664788954&amp;t=1h10m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>866</video:duration>
-    <video:publication_date>2026-01-09T00:00:36.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-01-17T00:00:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
