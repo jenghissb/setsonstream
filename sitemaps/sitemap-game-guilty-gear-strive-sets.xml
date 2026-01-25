@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-9/set/98590184/</loc>
+  <lastmod>2026-01-25T16:37:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870408/image-92b7f6445d8d031a164854b35a19c204.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ul7i vs Xenite, Brussels Gaming Fest 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ul7i vs Xenite in Losers Quarter-Final of Brussels Gaming Fest 9, streamed by xenite12000
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679857874&amp;t=1h3m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>734</video:duration>
+    <video:publication_date>2026-01-25T16:37:02.000Z</video:publication_date>
+    <video:uploader>xenite12000</video:uploader>
+    <video:expiration_date>2026-02-02T16:37:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-9/set/98590181/</loc>
   <lastmod>2026-01-25T15:41:29.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-08T04:02:53.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-01-16T04:02:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-1-7-26/set/97944156/</loc>
-  <lastmod>2026-01-08T03:40:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867589/image-e04b8b7e939a9c1958a19e6b5a5e4c06.png
-    </video:thumbnail_loc>
-    <video:title>
-      OTG | NMD | Link_FromZelda vs Grass, Columbia Parks &amp; Rec. Esports | Smash Ultimate/FGC Weekly | 1/7/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OTG | NMD | Link_FromZelda vs Grass in Losers Final of Columbia Parks &amp; Rec. Esports | Smash Ultimate/FGC Weekly | 1/7/26, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664038411&amp;t=2h15m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>586</video:duration>
-    <video:publication_date>2026-01-08T03:23:26.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-01-16T03:23:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

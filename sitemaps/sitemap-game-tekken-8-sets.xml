@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-8-tekken-god-sushi/set/98575666/</loc>
-  <lastmod>2026-01-25T16:03:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-8-tekken-god-sushi/set/98575607/</loc>
+  <lastmod>2026-01-25T16:37:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864818/image-23f74adea0a6c2671947e79c70aa00bd.png
+    </video:thumbnail_loc>
+    <video:title>
+      devilnin vs Enisslobby, Sea Dogs 8 : TEKKEN GOD SUSHI - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch devilnin vs Enisslobby in Winners Final of Sea Dogs 8 : TEKKEN GOD SUSHI, streamed by CenciuNC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2679759029&amp;t=3h33m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>705</video:duration>
+    <video:publication_date>2026-01-25T16:37:31.000Z</video:publication_date>
+    <video:uploader>CenciuNC</video:uploader>
+    <video:expiration_date>2026-02-02T16:37:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-8-tekken-god-sushi/set/98575666/</loc>
+  <lastmod>2026-01-25T16:25:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2679759029&amp;t=2h59m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1083</video:duration>
+    <video:duration>613</video:duration>
     <video:publication_date>2026-01-25T16:03:08.000Z</video:publication_date>
     <video:uploader>CenciuNC</video:uploader>
     <video:expiration_date>2026-02-02T16:03:08.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-11T01:17:01.000Z</video:publication_date>
     <video:uploader>teakei</video:uploader>
     <video:expiration_date>2026-01-19T01:17:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-clash-29/set/98060966/</loc>
-  <lastmod>2026-01-11T01:25:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861782/image-c67b56304177e8df0d13cb525af00891.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      B3 | Jeremy vs Mista_Nobody, SoCal Colosseum Clash #29 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch B3 | Jeremy vs Mista_Nobody in Winners Round 1 of SoCal Colosseum Clash #29, streamed by teakei
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666753087&amp;t=0h7m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>641</video:duration>
-    <video:publication_date>2026-01-11T01:05:50.000Z</video:publication_date>
-    <video:uploader>teakei</video:uploader>
-    <video:expiration_date>2026-01-19T01:05:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
