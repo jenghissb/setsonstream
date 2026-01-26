@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-10/set/98628151/</loc>
-  <lastmod>2026-01-26T19:06:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-10/set/98628152/</loc>
+  <lastmod>2026-01-26T19:23:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873426/image-dfd741981b94ea35599fee02c60de894.png
+    </video:thumbnail_loc>
+    <video:title>
+      The Greasy Men | soulcinder vs Corvus, Platform Camp #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch The Greasy Men | soulcinder vs Corvus in Round 3 of Platform Camp #10, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2680910030&amp;t=0h55m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1253</video:duration>
+    <video:publication_date>2026-01-26T19:23:28.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-02-03T19:23:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-10/set/98628151/</loc>
+  <lastmod>2026-01-26T19:27:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2680910030&amp;t=0h39m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>852</video:duration>
+    <video:duration>816</video:duration>
     <video:publication_date>2026-01-26T19:06:52.000Z</video:publication_date>
     <video:uploader>PlatformCampRivals</video:uploader>
     <video:expiration_date>2026-02-03T19:06:52.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T03:02:28.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-18T03:02:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-517/set/97998537/</loc>
-  <lastmod>2026-01-10T03:24:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866576/image-c1c682aec341656e7aa9d7ec658cea9a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Punching Bag vs Space, Adventure B-Airs #517 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Punching Bag vs Space in Losers Semi-Final of Adventure B-Airs #517, streamed by Bros. Calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/ETye8W-yC3s?start=10059s
-    </video:player_loc>
-    <video:duration>1013</video:duration>
-    <video:publication_date>2026-01-10T03:01:11.000Z</video:publication_date>
-    <video:uploader>Bros. Calamity</video:uploader>
-    <video:expiration_date>2026-01-18T03:01:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
