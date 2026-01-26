@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/26-373/set/98623624/</loc>
-  <lastmod>2026-01-26T10:46:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/26-373/set/98623637/</loc>
+  <lastmod>2026-01-26T11:11:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869545/image-6633984fc882bb29914c77b52384f8d7.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      いしポン(ishi pon) vs ルナ(runa), 26(月)上野スマコミ#373(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch いしポン(ishi pon) vs ルナ(runa) in Winners Round 2 of 26(月)上野スマコミ#373(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/BTn2KvKZnyY?start=2025s
+    </video:player_loc>
+    <video:duration>782</video:duration>
+    <video:publication_date>2026-01-26T11:11:53.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-02-03T11:11:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/26-373/set/98623624/</loc>
+  <lastmod>2026-01-26T11:09:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/BTn2KvKZnyY?start=480s
     </video:player_loc>
-    <video:duration>811</video:duration>
+    <video:duration>1275</video:duration>
     <video:publication_date>2026-01-26T10:46:08.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2026-02-03T10:46:08.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-17T22:05:15.000Z</video:publication_date>
     <video:uploader>GWeekly_Smash</video:uploader>
     <video:expiration_date>2026-01-25T22:05:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/afterburner-2026/set/98286827/</loc>
-  <lastmod>2026-01-17T22:25:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
-    </video:thumbnail_loc>
-    <video:title>
-      EDLN | Ravenking vs DLV, Afterburner 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDLN | Ravenking vs DLV in Winners Quarter-Final of Afterburner 2026, streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672719654&amp;t=2h39m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1067</video:duration>
-    <video:publication_date>2026-01-17T22:04:32.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2026-01-25T22:04:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
