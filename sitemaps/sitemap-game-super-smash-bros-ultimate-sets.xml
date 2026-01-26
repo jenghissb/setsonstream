@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/esportrn-hinterhof-smash-27/set/98625636/</loc>
+  <lastmod>2026-01-26T17:49:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873437/image-5a8640c1d26a57abc79df2bf2a9b662b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      eSportRN | Mr_Cookie vs TGM | Cocobutt, eSportRN Hinterhof Smash #27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch eSportRN | Mr_Cookie vs TGM | Cocobutt in Winners Round 2 of eSportRN Hinterhof Smash #27, streamed by esportrn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2680878152&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>643</video:duration>
+    <video:publication_date>2026-01-26T17:49:54.000Z</video:publication_date>
+    <video:uploader>esportrn</video:uploader>
+    <video:expiration_date>2026-02-03T17:49:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/26-373/set/98623647/</loc>
   <lastmod>2026-01-26T13:29:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-17T22:13:59.000Z</video:publication_date>
     <video:uploader>setonhallshugs</video:uploader>
     <video:expiration_date>2026-01-25T22:13:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/frostfire-2026/set/98284590/</loc>
-  <lastmod>2026-01-17T22:33:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/839825/image-8541e05f4bb42c24c5ce95b470ed69e0.png
-    </video:thumbnail_loc>
-    <video:title>
-      OC | Gae Bolg vs Whisker, Frostfire 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OC | Gae Bolg vs Whisker in Winners Semi-Final of Frostfire 2026, streamed by realmrobvious
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672632051&amp;t=4h21m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1042</video:duration>
-    <video:publication_date>2026-01-17T22:12:02.000Z</video:publication_date>
-    <video:uploader>realmrobvious</video:uploader>
-    <video:expiration_date>2026-01-25T22:12:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
