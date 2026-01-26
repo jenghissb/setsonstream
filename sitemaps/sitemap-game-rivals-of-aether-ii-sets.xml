@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-10/set/98628159/</loc>
+  <lastmod>2026-01-26T21:07:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873426/image-dfd741981b94ea35599fee02c60de894.png
+    </video:thumbnail_loc>
+    <video:title>
+      H&amp;H PUB | YABOIPICCOLO vs Pixelbushbebe, Platform Camp #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch H&amp;H PUB | YABOIPICCOLO vs Pixelbushbebe in Round 5 of Platform Camp #10, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2680910030&amp;t=2h27m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>649</video:duration>
+    <video:publication_date>2026-01-26T20:54:36.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-02-03T20:54:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-10/set/98628152/</loc>
   <lastmod>2026-01-26T19:50:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T03:19:06.000Z</video:publication_date>
     <video:uploader>Colorado_ROA</video:uploader>
     <video:expiration_date>2026-01-18T03:19:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-night-at-prodigy-212/set/98011077/</loc>
-  <lastmod>2026-01-10T03:24:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866149/image-081ea83c593c1f74459d753fee489bce.png
-    </video:thumbnail_loc>
-    <video:title>
-      hazelnut vs Tiki, RIVALS Night at Prodigy #212 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch hazelnut vs Tiki in Winners Semi-Final of RIVALS Night at Prodigy #212, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2665776803&amp;t=2h17m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>643</video:duration>
-    <video:publication_date>2026-01-10T03:02:28.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-01-18T03:02:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
