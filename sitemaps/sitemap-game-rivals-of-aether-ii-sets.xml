@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-10/set/98628154/</loc>
+  <lastmod>2026-01-26T18:38:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873426/image-dfd741981b94ea35599fee02c60de894.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pixelbushbebe vs The Greasy Men | gerg, Platform Camp #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pixelbushbebe vs The Greasy Men | gerg in Round 3 of Platform Camp #10, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2680910030&amp;t=0h10m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>551</video:duration>
+    <video:publication_date>2026-01-26T18:38:03.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-02-03T18:38:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/let-s-make-big-moves-2026-7/set/98594250/</loc>
   <lastmod>2026-01-25T17:54:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T02:20:15.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-01-18T02:20:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-517/set/97998536/</loc>
-  <lastmod>2026-01-10T03:12:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866576/image-c1c682aec341656e7aa9d7ec658cea9a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Space vs Arcos, Adventure B-Airs #517 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Space vs Arcos in Losers Quarter-Final of Adventure B-Airs #517, streamed by Bros. Calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/ETye8W-yC3s?start=6252s
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-01-10T01:57:44.000Z</video:publication_date>
-    <video:uploader>Bros. Calamity</video:uploader>
-    <video:expiration_date>2026-01-18T01:57:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
