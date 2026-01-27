@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-43-jumping-ship/set/98647453/</loc>
-  <lastmod>2026-01-27T06:35:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-43-jumping-ship/set/98647515/</loc>
+  <lastmod>2026-01-27T06:51:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873712/image-6e2ec0ccef449c6a96ddc555826f8368.png
+    </video:thumbnail_loc>
+    <video:title>
+      y-hat vs Glasper, McCloud&apos;s Melee Co. #43: Jumping Ship - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch y-hat vs Glasper in Losers Quarter-Final of McCloud&apos;s Melee Co. #43: Jumping Ship, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2681356611&amp;t=3h35m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>812</video:duration>
+    <video:publication_date>2026-01-27T06:51:26.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2026-02-04T06:51:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-43-jumping-ship/set/98647453/</loc>
+  <lastmod>2026-01-27T06:55:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2681356611&amp;t=3h19m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>366</video:duration>
+    <video:duration>941</video:duration>
     <video:publication_date>2026-01-27T06:35:02.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2026-02-04T06:35:02.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-09T01:12:57.000Z</video:publication_date>
     <video:uploader>NoStyleEsports2</video:uploader>
     <video:expiration_date>2026-01-17T01:12:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-363/set/97961848/</loc>
-  <lastmod>2026-01-09T01:30:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867310/image-34bbb56871af977de60f801d2b58c680.png
-    </video:thumbnail_loc>
-    <video:title>
-      LilFrogurt vs Shy, Salt Water Smash 363 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LilFrogurt vs Shy in Losers Final of Salt Water Smash 363, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664873662&amp;t=0h31m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1050</video:duration>
-    <video:publication_date>2026-01-09T01:07:58.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-01-17T01:07:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
