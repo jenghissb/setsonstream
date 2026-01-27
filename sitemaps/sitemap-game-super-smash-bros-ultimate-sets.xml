@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/drive-impact-46/set/98658074/</loc>
+  <lastmod>2026-01-27T23:40:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871457/image-c4f6e41f10373986709f0a265192c04e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mender vs Nugget, Drive Impact #46 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mender vs Nugget in Winners Round 1 of Drive Impact #46, streamed by Drive_Impact
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2682006027&amp;t=1h3m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>775</video:duration>
+    <video:publication_date>2026-01-27T23:26:58.000Z</video:publication_date>
+    <video:uploader>Drive_Impact</video:uploader>
+    <video:expiration_date>2026-02-04T23:26:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-212/set/98657258/</loc>
   <lastmod>2026-01-27T23:18:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-18T01:39:07.000Z</video:publication_date>
     <video:uploader>vgbootcamp</video:uploader>
     <video:expiration_date>2026-01-26T01:39:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platnite-188-on-a-saturday/set/98310438/</loc>
-  <lastmod>2026-01-18T01:48:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870743/image-3310e0016fae5c00592b2e54785677f4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zarcos vs Loafer0, Platnite 188: On a Saturday! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zarcos vs Loafer0 in Round 2 of Platnite 188: On a Saturday!, streamed by UCO Esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/-zr5JQNxxjk?start=1366s
-    </video:player_loc>
-    <video:duration>584</video:duration>
-    <video:publication_date>2026-01-18T01:34:49.000Z</video:publication_date>
-    <video:uploader>UCO Esports</video:uploader>
-    <video:expiration_date>2026-01-26T01:34:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
