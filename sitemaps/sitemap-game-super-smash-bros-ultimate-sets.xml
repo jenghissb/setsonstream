@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/l-orl-anoise-198/set/98678459/</loc>
+  <lastmod>2026-01-28T17:31:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873975/image-e43fa54a3ca3b4bc4283ca718d225262.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      over13 vs OP | PatateDouce, L&apos;Orléanoise #198 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch over13 vs OP | PatateDouce in Winners Round 1 of L&apos;Orléanoise #198, streamed by Smash_DArc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2682669508&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1482</video:duration>
+    <video:publication_date>2026-01-28T17:31:55.000Z</video:publication_date>
+    <video:uploader>Smash_DArc</video:uploader>
+    <video:expiration_date>2026-02-05T17:31:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-218/set/98676357/</loc>
   <lastmod>2026-01-28T13:14:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-18T13:47:29.000Z</video:publication_date>
     <video:uploader>frismash</video:uploader>
     <video:expiration_date>2026-01-26T13:47:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-ntnu-gl-shaugen-236/set/98323309/</loc>
-  <lastmod>2026-01-18T13:47:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869612/image-fb452dc5b9055622d26d4bbd366cc3f5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nezoxy vs MEEEPKing, Smash @ NTNU Gløshaugen 236 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nezoxy vs MEEEPKing in Winners Round 2 of Smash @ NTNU Gløshaugen 236, streamed by smashtrondheim
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2673394885&amp;t=0h29m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>538</video:duration>
-    <video:publication_date>2026-01-18T13:36:08.000Z</video:publication_date>
-    <video:uploader>smashtrondheim</video:uploader>
-    <video:expiration_date>2026-01-26T13:36:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
