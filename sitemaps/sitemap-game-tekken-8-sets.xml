@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-90-norcal-2xko-tekken-weekly/set/98673572/</loc>
+  <lastmod>2026-01-28T06:17:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872699/image-eab557cc353a43ffb7421bdd8d850ce8.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Paul Z vs MADHouse | Tundra, Guildhouse Tuesday 90 - Norcal 2XKO &amp; Tekken weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Paul Z vs MADHouse | Tundra in Grand Final of Guildhouse Tuesday 90 - Norcal 2XKO &amp; Tekken weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2682280876&amp;t=1h56m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1080</video:duration>
+    <video:publication_date>2026-01-28T05:58:57.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-02-05T05:58:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-90-norcal-2xko-tekken-weekly/set/98673603/</loc>
-  <lastmod>2026-01-28T05:41:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-28T06:07:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2682280876&amp;t=1h38m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1096</video:duration>
+    <video:duration>1012</video:duration>
     <video:publication_date>2026-01-28T05:41:48.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-02-05T05:41:48.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-11T02:17:19.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2026-01-19T02:17:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/up-the-block-115/set/98066824/</loc>
-  <lastmod>2026-01-11T02:33:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867083/image-acd8e987c2785c6f13e8df3b2712334d.png
-    </video:thumbnail_loc>
-    <video:title>
-      ayeayeron vs ShaedySGG, UP THE BLOCK #115 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ayeayeron vs ShaedySGG in Winners Round 1 of UP THE BLOCK #115, streamed by UG_NYC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666812206&amp;t=0h4m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>496</video:duration>
-    <video:publication_date>2026-01-11T02:14:27.000Z</video:publication_date>
-    <video:uploader>UG_NYC</video:uploader>
-    <video:expiration_date>2026-01-19T02:14:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
