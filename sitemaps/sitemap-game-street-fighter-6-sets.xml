@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sheerz-street-fighter-86/set/98667812/</loc>
+  <lastmod>2026-01-28T01:17:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872784/image-05ee2a49cf6cb22aabe52670ab263934.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TonyChopperMan vs Pazure, 4o4 By Sheerz: Street Fighter #86 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TonyChopperMan vs Pazure in Winners Round 1 of 4o4 By Sheerz: Street Fighter #86, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2682141935&amp;t=0h11m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>267</video:duration>
+    <video:publication_date>2026-01-28T01:17:40.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2026-02-05T01:17:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-s-bros-41/set/98618501/</loc>
   <lastmod>2026-01-26T02:33:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-08T12:15:20.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-01-16T12:15:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-103/set/97953613/</loc>
-  <lastmod>2026-01-08T12:18:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867124/image-bff8de2cae4d9ee32e3544641e5bf271.png
-    </video:thumbnail_loc>
-    <video:title>
-      乱れ蝶(midare chou) vs すさ(susa), Paradise Cup #103 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 乱れ蝶(midare chou) vs すさ(susa) in Quarter-Final of Paradise Cup #103, streamed by Vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2664334753&amp;t=1h5m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>142</video:duration>
-    <video:publication_date>2026-01-08T12:09:21.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp</video:uploader>
-    <video:expiration_date>2026-01-16T12:09:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
