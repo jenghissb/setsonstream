@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showdown-78/set/98694480/</loc>
+  <lastmod>2026-01-29T01:39:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872787/image-2e63a701b91999cce41f8998137c2955.png
+    </video:thumbnail_loc>
+    <video:title>
+      SLC | TopGunn4Hire vs EssasinG, Showdown #78 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SLC | TopGunn4Hire vs EssasinG in Winners Semi-Final of Showdown #78, streamed by NrettG
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=NrettG&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>620</video:duration>
+    <video:publication_date>2026-01-29T01:39:25.000Z</video:publication_date>
+    <video:uploader>NrettG</video:uploader>
+    <video:expiration_date>2026-02-06T01:39:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-225-stay-cozy-in-this-weather/set/98666647/</loc>
   <lastmod>2026-01-28T03:48:08.000Z</lastmod>
   <changefreq>daily</changefreq>
