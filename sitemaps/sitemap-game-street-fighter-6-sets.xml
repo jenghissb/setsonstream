@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-106/set/98703326/</loc>
+  <lastmod>2026-01-29T11:11:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874228/image-e816e13d2fdd4824dea7c01624f8faef.png
+    </video:thumbnail_loc>
+    <video:title>
+      たかだか(takadaka) vs kumashock, Paradise Cup #106 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch たかだか(takadaka) vs kumashock in Round 1 of Paradise Cup #106, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2683327103&amp;t=0h3m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>479</video:duration>
+    <video:publication_date>2026-01-29T11:11:15.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-02-06T11:11:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/winterblitz-2026/set/98696312/</loc>
   <lastmod>2026-01-29T03:46:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-09T19:58:58.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-01-17T19:58:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/smashdown-double-or-nothing/set/97991519/</loc>
-  <lastmod>2026-01-09T20:06:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/843248/image-a6aa87e1d2be5763b1f1969e91cdff48.png
-    </video:thumbnail_loc>
-    <video:title>
-      Baggy vs Hartigan, SmashDown : Double or Nothing - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Baggy vs Hartigan in Losers Round 3 of SmashDown : Double or Nothing, streamed by TeamAskalonn
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2665522874&amp;t=0h8m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>879</video:duration>
-    <video:publication_date>2026-01-09T19:44:12.000Z</video:publication_date>
-    <video:uploader>TeamAskalonn</video:uploader>
-    <video:expiration_date>2026-01-17T19:44:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
