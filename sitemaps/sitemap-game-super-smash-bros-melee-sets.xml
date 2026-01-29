@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-366/set/98713148/</loc>
+  <lastmod>2026-01-29T23:27:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/875321/image-aa55702863a8d4d4bf5a797d59009cd3.png
+    </video:thumbnail_loc>
+    <video:title>
+      sandon05 vs A-Pow, Salt Water Smash 366 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch sandon05 vs A-Pow in Round 1 of Salt Water Smash 366, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2683786087&amp;t=0h18m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>920</video:duration>
+    <video:publication_date>2026-01-29T23:06:08.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-02-06T23:06:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-175-yalli-in-prison-check-twitter/set/98700252/</loc>
   <lastmod>2026-01-29T05:32:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-10T19:07:17.000Z</video:publication_date>
     <video:uploader>sylphegaming</video:uploader>
     <video:expiration_date>2026-01-18T19:07:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/free-luigi/set/98031712/</loc>
-  <lastmod>2026-01-10T18:41:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/809728/image-b98322fcb4868d4e121c854fb800138d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GG vs Psylo, Free Luigi - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GG vs Psylo in Losers Round 1 of Free Luigi, streamed by sylphegaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666177435&amp;t=5h41m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>971</video:duration>
-    <video:publication_date>2026-01-10T18:18:55.000Z</video:publication_date>
-    <video:uploader>sylphegaming</video:uploader>
-    <video:expiration_date>2026-01-18T18:18:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
