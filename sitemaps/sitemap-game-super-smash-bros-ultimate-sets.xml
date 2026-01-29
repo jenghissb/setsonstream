@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/29-376/set/98703286/</loc>
+  <lastmod>2026-01-29T13:16:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869547/image-5a5aa2cb3c3a1e0bb734ed3b18113923.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      UZUZ | Ryuk vs あらー(araa), 29(木)上野スマコミ#376(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UZUZ | Ryuk vs あらー(araa) in Grand Final of 29(木)上野スマコミ#376(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/5aRQhdBu1t4?start=8433s
+    </video:player_loc>
+    <video:duration>1009</video:duration>
+    <video:publication_date>2026-01-29T12:59:06.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-02-06T12:59:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-147-maesuma-hit-147/set/98703384/</loc>
-  <lastmod>2026-01-29T12:38:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-29T12:52:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/km9rDzLVA2A?start=9901s
     </video:player_loc>
-    <video:duration>514</video:duration>
+    <video:duration>752</video:duration>
     <video:publication_date>2026-01-29T12:38:25.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2026-02-06T12:38:25.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-18T21:34:26.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2026-01-26T21:34:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pataka-2026/set/98339000/</loc>
-  <lastmod>2026-01-18T21:54:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849963/image-88454df75fc38043009bb7c2e8037c25.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NS | Jome vs UW | Everest, Pataka 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NS | Jome vs UW | Everest in Winners Round 3 of Pataka 2026, streamed by Galint Gaming VODs
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/pH2DzzCEIiY?start=2295s
-    </video:player_loc>
-    <video:duration>1008</video:duration>
-    <video:publication_date>2026-01-18T21:33:20.000Z</video:publication_date>
-    <video:uploader>Galint Gaming VODs</video:uploader>
-    <video:expiration_date>2026-01-26T21:33:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
