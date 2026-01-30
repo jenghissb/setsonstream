@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/top-2-pre-local-maesuma-top-2/set/98732570/</loc>
+  <lastmod>2026-01-30T09:59:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      みらくるあんぱん(mirakuruanpan) vs にやえ(niyae), プレローカル マエスマ’TOP#2 / Pre-Local Maesuma’TOP#2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch みらくるあんぱん(mirakuruanpan) vs にやえ(niyae) in Winners Round 1 of プレローカル マエスマ’TOP#2 / Pre-Local Maesuma’TOP#2, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/RNvfaeeSnHI?start=398s
+    </video:player_loc>
+    <video:duration>815</video:duration>
+    <video:publication_date>2026-01-30T09:44:15.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2026-02-07T09:44:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/runback-thursday-4-masher-up/set/98730924/</loc>
   <lastmod>2026-01-30T07:00:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-20T03:58:03.000Z</video:publication_date>
     <video:uploader>troyusmash</video:uploader>
     <video:expiration_date>2026-01-28T03:58:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-bair-house-24/set/98375410/</loc>
-  <lastmod>2026-01-20T04:09:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871069/image-28cb2977c63ab61ee0d8fbd6b40507dc.png
-    </video:thumbnail_loc>
-    <video:title>
-      1G | Acida vs Crzy, The Bair House #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 1G | Acida vs Crzy in Losers Final of The Bair House #24, streamed by SpringfieldSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2674945164&amp;t=0h7m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1176</video:duration>
-    <video:publication_date>2026-01-20T03:47:35.000Z</video:publication_date>
-    <video:uploader>SpringfieldSmash</video:uploader>
-    <video:expiration_date>2026-01-28T03:47:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
