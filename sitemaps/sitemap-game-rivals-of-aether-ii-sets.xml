@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807554/</loc>
-  <lastmod>2026-01-31T19:05:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807553/</loc>
+  <lastmod>2026-01-31T19:20:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857101/image-2a739c9bc529d40c737314e31a1255dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Glenco Mastantuono vs Mauro64, Floorhug Pucelano #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Glenco Mastantuono vs Mauro64 in Losers Quarter-Final of Floorhug Pucelano #5, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685302473&amp;t=3h30m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1266</video:duration>
+    <video:publication_date>2026-01-31T19:20:42.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2026-02-08T19:20:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807554/</loc>
+  <lastmod>2026-01-31T19:29:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685302473&amp;t=3h15m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>929</video:duration>
+    <video:duration>911</video:duration>
     <video:publication_date>2026-01-31T19:05:26.000Z</video:publication_date>
     <video:uploader>fgcpucela</video:uploader>
     <video:expiration_date>2026-02-08T19:05:26.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T23:15:55.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2026-01-18T23:15:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/blazing-battlefield-7-finishing-touch/set/98044161/</loc>
-  <lastmod>2026-01-10T23:36:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863459/image-4353a1a319ba7ac71fe90c038b5ed8de.png
-    </video:thumbnail_loc>
-    <video:title>
-      Xena vs Red Roc | Penjib, Blazing Battlefield #7 - Finishing Touch - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Xena vs Red Roc | Penjib in Losers Round 4 of Blazing Battlefield #7 - Finishing Touch, streamed by SatelliteSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666585090&amp;t=1h47m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1304</video:duration>
-    <video:publication_date>2026-01-10T23:13:26.000Z</video:publication_date>
-    <video:uploader>SatelliteSmash</video:uploader>
-    <video:expiration_date>2026-01-18T23:13:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
