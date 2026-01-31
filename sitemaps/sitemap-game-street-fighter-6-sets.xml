@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bar-fight-by-kabum/set/98814178/</loc>
+  <lastmod>2026-01-31T22:11:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/875322/image-aa527b07fbc9557d839e4a7757107a43.png
+    </video:thumbnail_loc>
+    <video:title>
+      E1Sports | NotPedro vs NieL_, Bar Fight by Kabum!!! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch E1Sports | NotPedro vs NieL_ in Grand Final of Bar Fight by Kabum!!!, streamed by fgcsaopaulo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=fgcsaopaulo&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2239</video:duration>
+    <video:publication_date>2026-01-31T22:11:01.000Z</video:publication_date>
+    <video:uploader>fgcsaopaulo</video:uploader>
+    <video:expiration_date>2026-02-08T22:11:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bar-fight-by-kabum/set/98814177/</loc>
   <lastmod>2026-01-31T22:02:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-14T02:00:47.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-01-22T02:00:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-84/set/98154511/</loc>
-  <lastmod>2026-01-14T02:05:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867814/image-1bb010521edbd7ebfc22c413669d0c17.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4 | byronic zero vs Air | Airplanes, 4o4 By Sh33rz: Street Fighter #84 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4 | byronic zero vs Air | Airplanes in Winners Round 2 of 4o4 By Sh33rz: Street Fighter #84, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2669404154&amp;t=0h35m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>794</video:duration>
-    <video:publication_date>2026-01-14T01:47:44.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-01-22T01:47:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
