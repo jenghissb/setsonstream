@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98814906/</loc>
-  <lastmod>2026-01-31T18:09:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98814908/</loc>
+  <lastmod>2026-01-31T18:40:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830777/image-eb28816567c0a0e145994c25affbac32.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Falcons | AQEEL9 vs Kaneandtrench, TEKKEN World Tour 2025 Global Finals - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Falcons | AQEEL9 vs Kaneandtrench in Losers Quarter-Final of TEKKEN World Tour 2025 Global Finals, streamed by tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685092969&amp;t=9h27m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1060</video:duration>
+    <video:publication_date>2026-01-31T18:40:28.000Z</video:publication_date>
+    <video:uploader>tekken</video:uploader>
+    <video:expiration_date>2026-02-08T18:40:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98814906/</loc>
+  <lastmod>2026-01-31T18:29:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685092969&amp;t=8h56m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1254</video:duration>
+    <video:duration>735</video:duration>
     <video:publication_date>2026-01-31T18:09:04.000Z</video:publication_date>
     <video:uploader>tekken</video:uploader>
     <video:expiration_date>2026-02-08T18:09:04.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/azure-3/set/98810439/</loc>
-  <lastmod>2026-01-31T17:59:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-31T18:29:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685205727&amp;t=4h38m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1840</video:duration>
+    <video:duration>1816</video:duration>
     <video:publication_date>2026-01-31T17:59:18.000Z</video:publication_date>
     <video:uploader>zuuluu_</video:uploader>
     <video:expiration_date>2026-02-08T17:59:18.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-15T02:26:06.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2026-01-23T02:26:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-149/set/98181005/</loc>
-  <lastmod>2026-01-15T02:52:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867854/image-9a9b97618d7634fed8cd4fd0a4e92cb1.png
-    </video:thumbnail_loc>
-    <video:title>
-      bohnte vs fbb, Juicy Game Night #149 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bohnte vs fbb in Losers Semi-Final of Juicy Game Night #149, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2670284573&amp;t=1h2m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>954</video:duration>
-    <video:publication_date>2026-01-15T02:25:00.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2026-01-23T02:25:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
