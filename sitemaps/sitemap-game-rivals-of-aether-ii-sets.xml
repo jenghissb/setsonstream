@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807525/</loc>
+  <lastmod>2026-01-31T21:06:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857101/image-2a739c9bc529d40c737314e31a1255dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ukelele vs Glenco Mastantuono, Floorhug Pucelano #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ukelele vs Glenco Mastantuono in Grand Final of Floorhug Pucelano #5, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685302473&amp;t=4h52m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>986</video:duration>
+    <video:publication_date>2026-01-31T20:42:31.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2026-02-08T20:42:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807556/</loc>
   <lastmod>2026-01-31T20:31:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685302473&amp;t=4h21m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1160</video:duration>
+    <video:duration>1804</video:duration>
     <video:publication_date>2026-01-31T20:12:20.000Z</video:publication_date>
     <video:uploader>fgcpucela</video:uploader>
     <video:expiration_date>2026-02-08T20:12:20.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T23:59:00.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2026-01-18T23:59:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/blazing-battlefield-7-finishing-touch/set/98044101/</loc>
-  <lastmod>2026-01-11T00:45:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863459/image-4353a1a319ba7ac71fe90c038b5ed8de.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mystery Sol vs Sawstep, Blazing Battlefield #7 - Finishing Touch - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mystery Sol vs Sawstep in Winners Final of Blazing Battlefield #7 - Finishing Touch, streamed by SatelliteSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666585090&amp;t=2h31m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1970</video:duration>
-    <video:publication_date>2026-01-10T23:57:58.000Z</video:publication_date>
-    <video:uploader>SatelliteSmash</video:uploader>
-    <video:expiration_date>2026-01-18T23:57:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
