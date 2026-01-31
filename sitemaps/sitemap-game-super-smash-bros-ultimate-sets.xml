@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-11-hdr-monthly/set/98792901/</loc>
+  <lastmod>2026-01-31T08:34:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873844/image-ba97917cbe2353307fe68ae192ab22fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      NU | Kurama vs ebs | Widara, Rage Quit #11 (HDR Monthly) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NU | Kurama vs ebs | Widara in Grand Final of Rage Quit #11 (HDR Monthly), streamed by SacramentoEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2684908223&amp;t=5h4m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>618</video:duration>
+    <video:publication_date>2026-01-31T08:23:25.000Z</video:publication_date>
+    <video:uploader>SacramentoEsports</video:uploader>
+    <video:expiration_date>2026-02-08T08:23:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-11-hdr-monthly/set/98792964/</loc>
-  <lastmod>2026-01-31T08:07:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-31T08:25:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2684908223&amp;t=4h49m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1043</video:duration>
+    <video:duration>918</video:duration>
     <video:publication_date>2026-01-31T08:07:57.000Z</video:publication_date>
     <video:uploader>SacramentoEsports</video:uploader>
     <video:expiration_date>2026-02-08T08:07:57.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-22T19:45:36.000Z</video:publication_date>
     <video:uploader>smashgrenoble</video:uploader>
     <video:expiration_date>2026-01-30T19:45:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-allstars-15/set/98447618/</loc>
-  <lastmod>2026-01-22T20:05:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870942/image-9ee6993ffdef78462e1ae6052141da33.png
-    </video:thumbnail_loc>
-    <video:title>
-      OX | Pipibox vs RoadTop100 | Steerlix, MUC AllStars #15 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OX | Pipibox vs RoadTop100 | Steerlix in Losers Round 2 of MUC AllStars #15, streamed by yume__12
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2677157048&amp;t=0h30m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1201</video:duration>
-    <video:publication_date>2026-01-22T19:42:46.000Z</video:publication_date>
-    <video:uploader>yume__12</video:uploader>
-    <video:expiration_date>2026-01-30T19:42:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
