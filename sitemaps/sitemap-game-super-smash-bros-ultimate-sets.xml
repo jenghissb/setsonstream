@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-masters-2/set/98734155/</loc>
-  <lastmod>2026-01-31T09:11:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-masters-2/set/98734163/</loc>
+  <lastmod>2026-01-31T09:35:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/852990/image-e9fd4e27afa6d38a20e7abfcea8ed8b3.png
+    </video:thumbnail_loc>
+    <video:title>
+      TZ | ARK | layzz vs Ekip | Blackyr, MUC MASTERS #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TZ | ARK | layzz vs Ekip | Blackyr in Winners Round 1 of MUC MASTERS #2, streamed by smashalezmtp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685089205&amp;t=0h32m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>945</video:duration>
+    <video:publication_date>2026-01-31T09:35:08.000Z</video:publication_date>
+    <video:uploader>smashalezmtp</video:uploader>
+    <video:expiration_date>2026-02-08T09:35:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-masters-2/set/98734155/</loc>
+  <lastmod>2026-01-31T09:37:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685089205&amp;t=0h9m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>773</video:duration>
+    <video:duration>1387</video:duration>
     <video:publication_date>2026-01-31T09:11:56.000Z</video:publication_date>
     <video:uploader>smashalezmtp</video:uploader>
     <video:expiration_date>2026-02-08T09:11:56.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-22T19:51:06.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2026-01-30T19:51:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/vars-ultimate-summit-1-the-return-of-smash-summit/set/98442937/</loc>
-  <lastmod>2026-01-22T20:05:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845366/image-52dded48d0a298f157ae03c9c39f33f3.png
-    </video:thumbnail_loc>
-    <video:title>
-      SZ | Asimo vs OE | Yeast 3, Vars Ultimate Summit #1 - The Return Of Smash Summit - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SZ | Asimo vs OE | Yeast 3 in Round 1 of Vars Ultimate Summit #1 - The Return Of Smash Summit, streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2677176624&amp;t=0h12m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>785</video:duration>
-    <video:publication_date>2026-01-22T19:49:29.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2026-01-30T19:49:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

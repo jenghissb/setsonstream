@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/fighters-fest-3/set/98798987/</loc>
-  <lastmod>2026-01-31T09:19:51.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/fighters-fest-3/set/98798989/</loc>
+  <lastmod>2026-01-31T09:33:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/819459/image-0f840c47bd8ded035af28c79abedc5b6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VMP vs LF | Berlinprisoner, Fighters Fest 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VMP vs LF | Berlinprisoner in Winners Round 2 of Fighters Fest 3, streamed by fightersfest
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685100332&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1049</video:duration>
+    <video:publication_date>2026-01-31T09:33:24.000Z</video:publication_date>
+    <video:uploader>fightersfest</video:uploader>
+    <video:expiration_date>2026-02-08T09:33:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/fighters-fest-3/set/98798987/</loc>
+  <lastmod>2026-01-31T09:40:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,9 +40,9 @@
       Watch MUC | Thomas Pain vs LF | Nero in Winners Round 2 of Fighters Fest 3, streamed by fightersfest
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2685092665&amp;t=0h8m5s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2685096796&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>298</video:duration>
+    <video:duration>807</video:duration>
     <video:publication_date>2026-01-31T09:19:51.000Z</video:publication_date>
     <video:uploader>fightersfest</video:uploader>
     <video:expiration_date>2026-02-08T09:19:51.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-12T01:47:13.000Z</video:publication_date>
     <video:uploader>wavesanotherone</video:uploader>
     <video:expiration_date>2026-01-20T01:47:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-brews/set/98099250/</loc>
-  <lastmod>2026-01-12T01:36:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852507/image-253646e8885333dfe619ad9a47090b8d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sunny vs New Metal Game | PaprcutRadiation, Battle &amp; Brews - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sunny vs New Metal Game | PaprcutRadiation in Losers Semi-Final of Battle &amp; Brews, streamed by wavesanotherone
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2667558843&amp;t=3h19m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1042</video:duration>
-    <video:publication_date>2026-01-12T01:12:21.000Z</video:publication_date>
-    <video:uploader>wavesanotherone</video:uploader>
-    <video:expiration_date>2026-01-20T01:12:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
