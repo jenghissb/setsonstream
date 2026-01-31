@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/top-2-maesuma-top-2/set/98797157/</loc>
-  <lastmod>2026-01-31T07:43:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-11-hdr-monthly/set/98792964/</loc>
+  <lastmod>2026-01-31T08:07:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873844/image-ba97917cbe2353307fe68ae192ab22fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      ebs | Widara vs Spd! | Jimrude, Rage Quit #11 (HDR Monthly) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ebs | Widara vs Spd! | Jimrude in Losers Final of Rage Quit #11 (HDR Monthly), streamed by SacramentoEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2684908223&amp;t=4h49m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1043</video:duration>
+    <video:publication_date>2026-01-31T08:07:57.000Z</video:publication_date>
+    <video:uploader>SacramentoEsports</video:uploader>
+    <video:expiration_date>2026-02-08T08:07:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/top-2-maesuma-top-2/set/98797157/</loc>
+  <lastmod>2026-01-31T07:59:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/767zRzV16xo?start=20223s
     </video:player_loc>
-    <video:duration>754</video:duration>
+    <video:duration>827</video:duration>
     <video:publication_date>2026-01-31T07:43:55.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2026-02-08T07:43:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/game-lab-smash-203-3-pot-bonus/set/98795750/</loc>
-  <lastmod>2026-01-31T07:46:16.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/875576/image-741c8096f34f62f219ddcbf6e2afcae6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Illusory | Pyro vs 1MFG | Lil Razzle, Game Lab Smash #203 ($3 Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Illusory | Pyro vs 1MFG | Lil Razzle in Grand Final Reset of Game Lab Smash #203 ($3 Pot Bonus), streamed by Thebackyardsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=Thebackyardsmash&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>613</video:duration>
-    <video:publication_date>2026-01-31T07:46:16.000Z</video:publication_date>
-    <video:uploader>Thebackyardsmash</video:uploader>
-    <video:expiration_date>2026-02-08T07:46:16.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +71998,6 @@
     <video:publication_date>2026-01-22T19:42:46.000Z</video:publication_date>
     <video:uploader>yume__12</video:uploader>
     <video:expiration_date>2026-01-30T19:42:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/muc-allstars-15/set/98447560/</loc>
-  <lastmod>2026-01-22T20:03:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870942/image-9ee6993ffdef78462e1ae6052141da33.png
-    </video:thumbnail_loc>
-    <video:title>
-      MES | Her | Tyzoute vs Boîte2Shaco, MUC AllStars #15 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MES | Her | Tyzoute vs Boîte2Shaco in Winners Round 2 of MUC AllStars #15, streamed by smashalezmtp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2677128635&amp;t=1h2m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1055</video:duration>
-    <video:publication_date>2026-01-22T19:42:41.000Z</video:publication_date>
-    <video:uploader>smashalezmtp</video:uploader>
-    <video:expiration_date>2026-01-30T19:42:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
