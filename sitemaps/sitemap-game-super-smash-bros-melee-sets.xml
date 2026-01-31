@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sbu-wolfie-wars-63/set/98767207/</loc>
+  <lastmod>2026-01-31T02:28:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/875814/image-248b829bc99be9edfd59cd8aa5fa063b.png
+    </video:thumbnail_loc>
+    <video:title>
+      SBU | Nelubra vs Griffo, SBU Wolfie Wars 63 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SBU | Nelubra vs Griffo in Losers Final of SBU Wolfie Wars 63, streamed by sbumelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2684725054&amp;t=2h14m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>917</video:duration>
+    <video:publication_date>2026-01-31T02:01:51.000Z</video:publication_date>
+    <video:uploader>sbumelee</video:uploader>
+    <video:expiration_date>2026-02-08T02:01:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sbu-wolfie-wars-63/set/98767169/</loc>
   <lastmod>2026-01-31T00:59:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-11T18:34:23.000Z</video:publication_date>
     <video:uploader>Houseof3000</video:uploader>
     <video:expiration_date>2026-01-19T18:34:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sunset-melee/set/98085173/</loc>
-  <lastmod>2026-01-11T18:59:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833769/image-2b5eed14fccc1e71d9e71cc81f706a9d.png
-    </video:thumbnail_loc>
-    <video:title>
-      LG | Louis vs MG / NHPR | Golden, Sunset Melee - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LG | Louis vs MG / NHPR | Golden in Losers Round 2 of Sunset Melee, streamed by n0va_esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2667319893&amp;t=1h26m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>807</video:duration>
-    <video:publication_date>2026-01-11T18:34:17.000Z</video:publication_date>
-    <video:uploader>n0va_esports</video:uploader>
-    <video:expiration_date>2026-01-19T18:34:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
