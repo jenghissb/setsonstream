@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/face-the-fax-2/set/98811170/</loc>
+  <lastmod>2026-01-31T16:40:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846600/image-571b82a345c87f40c43715ad0ca72a9a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TehBlueOne vs Moorcas, Face the &apos;FAX 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TehBlueOne vs Moorcas in Grand Final of Face the &apos;FAX 2, streamed by swagonium
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685289487&amp;t=1h9m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1219</video:duration>
+    <video:publication_date>2026-01-31T16:40:37.000Z</video:publication_date>
+    <video:uploader>swagonium</video:uploader>
+    <video:expiration_date>2026-02-08T16:40:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-175/set/98669626/</loc>
   <lastmod>2026-01-28T04:04:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-12-10T03:04:17.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2025-12-18T03:04:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/hog-dragon-130/set/97235539/</loc>
-  <lastmod>2025-12-10T03:16:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860463/image-14f1c43174854d59e4e568d6722d2b21.png
-    </video:thumbnail_loc>
-    <video:title>
-      Swine vs Wyrmidon, HoG: Dragon #130 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Swine vs Wyrmidon in Grand Final of HoG: Dragon #130, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2639858560&amp;t=2h24m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>875</video:duration>
-    <video:publication_date>2025-12-10T02:53:58.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2025-12-18T02:53:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

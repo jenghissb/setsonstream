@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807516/</loc>
-  <lastmod>2026-01-31T16:27:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807518/</loc>
+  <lastmod>2026-01-31T16:55:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857101/image-2a739c9bc529d40c737314e31a1255dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Petrikillos vs Bo5 | Yhu, Floorhug Pucelano #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Petrikillos vs Bo5 | Yhu in Winners Quarter-Final of Floorhug Pucelano #5, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685302473&amp;t=1h4m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>350</video:duration>
+    <video:publication_date>2026-01-31T16:55:06.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2026-02-08T16:55:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807516/</loc>
+  <lastmod>2026-01-31T16:44:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685302473&amp;t=0h37m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>354</video:duration>
+    <video:duration>817</video:duration>
     <video:publication_date>2026-01-31T16:27:48.000Z</video:publication_date>
     <video:uploader>fgcpucela</video:uploader>
     <video:expiration_date>2026-02-08T16:27:48.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T22:50:51.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-01-18T22:50:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sunset-melee/set/98038707/</loc>
-  <lastmod>2026-01-10T23:10:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/833769/image-2b5eed14fccc1e71d9e71cc81f706a9d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gusta vs Twisty, Sunset Melee - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gusta vs Twisty in Winners Quarter-Final of Sunset Melee, streamed by cg_conduitgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666328753&amp;t=6h16m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>694</video:duration>
-    <video:publication_date>2026-01-10T22:48:36.000Z</video:publication_date>
-    <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2026-01-18T22:48:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
