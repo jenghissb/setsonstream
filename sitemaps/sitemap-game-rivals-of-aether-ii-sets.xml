@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807554/</loc>
+  <lastmod>2026-01-31T19:05:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/857101/image-2a739c9bc529d40c737314e31a1255dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nyrane vs Petrikillos, Floorhug Pucelano #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nyrane vs Petrikillos in Losers Quarter-Final of Floorhug Pucelano #5, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685302473&amp;t=3h15m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>929</video:duration>
+    <video:publication_date>2026-01-31T19:05:26.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2026-02-08T19:05:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floorhug-pucelano-5/set/98807552/</loc>
   <lastmod>2026-01-31T18:17:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T23:13:26.000Z</video:publication_date>
     <video:uploader>SatelliteSmash</video:uploader>
     <video:expiration_date>2026-01-18T23:13:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ggs-only-2/set/98038282/</loc>
-  <lastmod>2026-01-10T23:23:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830207/image-dc67ef9960091b6427984f97407e068f.png
-    </video:thumbnail_loc>
-    <video:title>
-      KNWI | AZOG vs KiwiSTG, GGs Only #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KNWI | AZOG vs KiwiSTG in Losers Quarter-Final of GGs Only #2, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666502107&amp;t=3h10m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>785</video:duration>
-    <video:publication_date>2026-01-10T23:05:29.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2026-01-18T23:05:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
