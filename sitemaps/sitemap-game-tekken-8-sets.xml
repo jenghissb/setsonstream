@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98799576/</loc>
-  <lastmod>2026-01-31T11:31:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98799867/</loc>
+  <lastmod>2026-01-31T11:44:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830777/image-eb28816567c0a0e145994c25affbac32.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      D.F.P. vs cupofnoodles, TEKKEN World Tour 2025 Global Finals - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch D.F.P. vs cupofnoodles in Winners Semi-Final of TEKKEN World Tour 2025 Global Finals, streamed by tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685092969&amp;t=2h31m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>626</video:duration>
+    <video:publication_date>2026-01-31T11:44:01.000Z</video:publication_date>
+    <video:uploader>tekken</video:uploader>
+    <video:expiration_date>2026-02-08T11:44:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98799576/</loc>
+  <lastmod>2026-01-31T11:50:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685092969&amp;t=2h18m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>673</video:duration>
+    <video:duration>740</video:duration>
     <video:publication_date>2026-01-31T11:31:25.000Z</video:publication_date>
     <video:uploader>tekken</video:uploader>
     <video:expiration_date>2026-02-08T11:31:25.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-12T21:53:05.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-01-20T21:53:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-70/set/98117611/</loc>
-  <lastmod>2026-01-12T21:45:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863784/image-c3b0c2a6b74db4c9b9b065e926dc6683.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Kaza vs Siphonia, Toulouse Fighting Monday 70 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kaza vs Siphonia in Winners Final of Toulouse Fighting Monday 70, streamed by toulousevsfighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2668255472&amp;t=2h26m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>821</video:duration>
-    <video:publication_date>2026-01-12T21:31:30.000Z</video:publication_date>
-    <video:uploader>toulousevsfighters</video:uploader>
-    <video:expiration_date>2026-01-20T21:31:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
