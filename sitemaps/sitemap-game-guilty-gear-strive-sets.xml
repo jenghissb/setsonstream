@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/face-the-fax-2/set/98823868/</loc>
+  <lastmod>2026-01-31T22:18:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/846600/image-571b82a345c87f40c43715ad0ca72a9a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Charms | Mephisto vs loft | pillowss, Face the &apos;FAX 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Charms | Mephisto vs loft | pillowss in Grand Final of Face the &apos;FAX 2, streamed by swagonium
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2685607042&amp;t=0h10m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1113</video:duration>
+    <video:publication_date>2026-01-31T21:51:01.000Z</video:publication_date>
+    <video:uploader>swagonium</video:uploader>
+    <video:expiration_date>2026-02-08T21:51:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fighters-fest-3/set/98820047/</loc>
-  <lastmod>2026-01-31T21:36:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-01-31T22:00:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2685596213&amp;t=0h8m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1164</video:duration>
+    <video:duration>739</video:duration>
     <video:publication_date>2026-01-31T21:36:23.000Z</video:publication_date>
     <video:uploader>fightersfest</video:uploader>
     <video:expiration_date>2026-02-08T21:36:23.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-10T15:47:22.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-01-18T15:47:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-25/set/98005294/</loc>
-  <lastmod>2026-01-10T05:21:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866367/image-f4bdd5bebad2521880bb6524fca44f43.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      JD | Crescendo vs RUSH | WILD, 4o4 by Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JD | Crescendo vs RUSH | WILD in Grand Final of 4o4 by Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2665809111&amp;t=3h37m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>956</video:duration>
-    <video:publication_date>2026-01-10T04:59:08.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2026-01-18T04:59:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
