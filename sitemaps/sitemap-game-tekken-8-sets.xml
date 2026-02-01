@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98874725/</loc>
-  <lastmod>2026-02-01T18:16:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98874711/</loc>
+  <lastmod>2026-02-01T18:43:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/830777/image-eb28816567c0a0e145994c25affbac32.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Virtus.pro | Mangja vs Falcons | ATIF, TEKKEN World Tour 2025 Global Finals - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Virtus.pro | Mangja vs Falcons | ATIF in Winners Final of TEKKEN World Tour 2025 Global Finals, streamed by tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2686037042&amp;t=10h31m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1097</video:duration>
+    <video:publication_date>2026-02-01T18:43:51.000Z</video:publication_date>
+    <video:uploader>tekken</video:uploader>
+    <video:expiration_date>2026-02-09T18:43:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-world-tour-2025-global-finals/set/98874725/</loc>
+  <lastmod>2026-02-01T18:49:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2686037042&amp;t=10h3m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>776</video:duration>
+    <video:duration>1304</video:duration>
     <video:publication_date>2026-02-01T18:16:31.000Z</video:publication_date>
     <video:uploader>tekken</video:uploader>
     <video:expiration_date>2026-02-09T18:16:31.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-17T19:21:02.000Z</video:publication_date>
     <video:uploader>tekkenemilia</video:uploader>
     <video:expiration_date>2026-01-25T19:21:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/imperium-loads-1/set/98272304/</loc>
-  <lastmod>2026-01-17T19:29:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859650/image-8cac662febd0de923b6114877fc70b73.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GPE | Xeon vs GPE | FakePotter, Imperium Loads - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GPE | Xeon vs GPE | FakePotter in Losers Semi-Final of Imperium Loads, streamed by tekkenemilia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672385936&amp;t=7h22m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1239</video:duration>
-    <video:publication_date>2026-01-17T19:00:33.000Z</video:publication_date>
-    <video:uploader>tekkenemilia</video:uploader>
-    <video:expiration_date>2026-01-25T19:00:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
