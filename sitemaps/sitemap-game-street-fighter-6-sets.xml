@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fighters-fest-3/set/98801888/</loc>
+  <lastmod>2026-02-01T16:41:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/819459/image-0f840c47bd8ded035af28c79abedc5b6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VDV | Dizflash vs MDZ | emptysys, Fighters Fest 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VDV | Dizflash vs MDZ | emptysys in Grand Final Reset of Fighters Fest 3, streamed by fightersfest
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2686241662&amp;t=1h22m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>559</video:duration>
+    <video:publication_date>2026-02-01T16:26:53.000Z</video:publication_date>
+    <video:uploader>fightersfest</video:uploader>
+    <video:expiration_date>2026-02-09T16:26:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fighters-fest-3/set/98802014/</loc>
-  <lastmod>2026-02-01T16:03:32.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-01T16:29:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2686241662&amp;t=0h59m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1511</video:duration>
+    <video:duration>870</video:duration>
     <video:publication_date>2026-02-01T16:03:32.000Z</video:publication_date>
     <video:uploader>fightersfest</video:uploader>
     <video:expiration_date>2026-02-09T16:03:32.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-16T04:01:56.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-01-24T04:01:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-104/set/98192301/</loc>
-  <lastmod>2026-01-15T12:17:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869453/image-1555f1c0684f128d4887a180e1f2db5a.png
-    </video:thumbnail_loc>
-    <video:title>
-      DFM | Itabashi Zangief vs どらやきカノン(dorayaki kanon), Paradise Cup #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DFM | Itabashi Zangief vs どらやきカノン(dorayaki kanon) in Round 4 of Paradise Cup #104, streamed by Vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2670565122&amp;t=1h2m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>344</video:duration>
-    <video:publication_date>2026-01-15T12:01:33.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp</video:uploader>
-    <video:expiration_date>2026-01-23T12:01:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
