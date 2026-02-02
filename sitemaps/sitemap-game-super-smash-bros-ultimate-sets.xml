@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/2-380/set/98903256/</loc>
+  <lastmod>2026-02-02T12:24:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874899/image-35017636dad7478c3d4eaaece3c8554a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Yuzha vs はっせー(hassee), 2(月)上野スマコミ#380(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yuzha vs はっせー(hassee) in Winners Final of 2(月)上野スマコミ#380(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/ZZsItp1GY5Y?start=4675s
+    </video:player_loc>
+    <video:duration>1813</video:duration>
+    <video:publication_date>2026-02-02T11:52:05.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-02-10T11:52:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/2-380/set/98903255/</loc>
-  <lastmod>2026-02-02T11:38:39.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-02T11:54:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/ZZsItp1GY5Y?start=3869s
     </video:player_loc>
-    <video:duration>762</video:duration>
+    <video:duration>800</video:duration>
     <video:publication_date>2026-02-02T11:38:39.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2026-02-10T11:38:39.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-01-24T21:56:48.000Z</video:publication_date>
     <video:uploader>quagglesz</video:uploader>
     <video:expiration_date>2026-02-01T21:56:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rootown-rumble-5-1700-pot-bonus/set/98542664/</loc>
-  <lastmod>2026-01-24T22:20:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/840688/image-61cf6431067f8a1d733ce15186a07892.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CTG | Dice vs RetroLazer, Rootown Rumble 5 ($1700+ Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CTG | Dice vs RetroLazer in Winners Round 3 of Rootown Rumble 5 ($1700+ Pot Bonus), streamed by quagglesz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2678973571&amp;t=3h10m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1003</video:duration>
-    <video:publication_date>2026-01-24T21:12:58.000Z</video:publication_date>
-    <video:uploader>quagglesz</video:uploader>
-    <video:expiration_date>2026-02-01T21:12:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
