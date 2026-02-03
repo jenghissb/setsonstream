@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-replay-runback-118/set/98925160/</loc>
-  <lastmod>2026-02-03T05:05:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-26/set/98926088/</loc>
+  <lastmod>2026-02-03T06:06:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876413/image-a02f77a1180ceffadcc55fa2b9358db7.png
+      https://images.start.gg/images/tournament/874413/image-06a583201da12500f68276956d30db04.png
     </video:thumbnail_loc>
     <video:title>
-      RPL | 86mercy vs RPL | PainShane, The Replay Runback #118 - Sets on Stream
+      ? vs jlib, Homebrew #26 - Sets on Stream
     </video:title>
     <video:description>
-      Watch RPL | 86mercy vs RPL | PainShane in Losers Semi-Final of The Replay Runback #118, streamed by thereplayrunback
+      Watch ? vs jlib in Winners Semi-Final of Homebrew #26, streamed by elixiresportsmedia
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2687732240&amp;t=0h10m13s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2687693951&amp;t=2h20m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1005</video:duration>
-    <video:publication_date>2026-02-03T05:05:13.000Z</video:publication_date>
-    <video:uploader>thereplayrunback</video:uploader>
-    <video:expiration_date>2026-02-11T05:05:13.000Z</video:expiration_date>
+    <video:duration>242</video:duration>
+    <video:publication_date>2026-02-03T06:06:53.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-02-11T06:06:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-26/set/98926083/</loc>
+  <lastmod>2026-02-03T06:07:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874413/image-06a583201da12500f68276956d30db04.png
+    </video:thumbnail_loc>
+    <video:title>
+      Driva vs Elixir | EchoSpaceZ, Homebrew #26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Driva vs Elixir | EchoSpaceZ in Winners Quarter-Final of Homebrew #26, streamed by elixiresportsmedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2687693951&amp;t=2h8m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>704</video:duration>
+    <video:publication_date>2026-02-03T05:55:02.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-02-11T05:55:02.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-254/set/98924367/</loc>
-  <lastmod>2026-02-03T05:11:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-03T05:33:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2687601735&amp;t=3h26m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>639</video:duration>
+    <video:duration>1207</video:duration>
     <video:publication_date>2026-02-03T05:11:19.000Z</video:publication_date>
     <video:uploader>MovementEsports</video:uploader>
     <video:expiration_date>2026-02-11T05:11:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-replay-runback-118/set/98925160/</loc>
+  <lastmod>2026-02-03T05:31:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876413/image-a02f77a1180ceffadcc55fa2b9358db7.png
+    </video:thumbnail_loc>
+    <video:title>
+      RPL | 86mercy vs RPL | PainShane, The Replay Runback #118 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RPL | 86mercy vs RPL | PainShane in Losers Semi-Final of The Replay Runback #118, streamed by thereplayrunback
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2687732240&amp;t=0h10m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1455</video:duration>
+    <video:publication_date>2026-02-03T05:05:13.000Z</video:publication_date>
+    <video:uploader>thereplayrunback</video:uploader>
+    <video:expiration_date>2026-02-11T05:05:13.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2026-01-26T01:14:32.000Z</video:publication_date>
     <video:uploader>IniciativaReset</video:uploader>
     <video:expiration_date>2026-02-03T01:14:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/let-s-make-big-moves-2026-7/set/98607584/</loc>
-  <lastmod>2026-01-26T01:26:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813640/image-59b1c6894a390b4e183dd856d653a8f1.png
-    </video:thumbnail_loc>
-    <video:title>
-      CTG | MuteAce vs LG | Sonix, Let&apos;s Make BIG Moves 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CTG | MuteAce vs LG | Sonix in Winners Semi-Final of Let&apos;s Make BIG Moves 2026, streamed by Vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2679853646&amp;t=9h40m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>987</video:duration>
-    <video:publication_date>2026-01-26T01:08:14.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp</video:uploader>
-    <video:expiration_date>2026-02-03T01:08:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/botanical-brawl-16-oki-s-return/set/98618326/</loc>
-  <lastmod>2026-01-26T01:30:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871659/image-fa4bc940ec64ba940a37b81af093f3e6.png
-    </video:thumbnail_loc>
-    <video:title>
-      wiccan vs Thundr | Oki, Botanical Brawl #16 - Oki&apos;s Return - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch wiccan vs Thundr | Oki in Winners Semi-Final of Botanical Brawl #16 - Oki&apos;s Return, streamed by syntaxssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2680299510&amp;t=1h6m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1470</video:duration>
-    <video:publication_date>2026-01-26T01:03:24.000Z</video:publication_date>
-    <video:uploader>syntaxssb</video:uploader>
-    <video:expiration_date>2026-02-03T01:03:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
