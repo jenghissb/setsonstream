@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-16/set/98960969/</loc>
+  <lastmod>2026-02-04T23:36:42.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876002/image-c4dc3f7d5f78cbcd35cc77e5f04ac600.png
+    </video:thumbnail_loc>
+    <video:title>
+      PMG | Ju5t1n vs azureon, Gould St. Gauntlet #16 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PMG | Ju5t1n vs azureon in Winners Round 2 of Gould St. Gauntlet #16, streamed by nostyleesports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2689215853&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>865</video:duration>
+    <video:publication_date>2026-02-04T23:36:42.000Z</video:publication_date>
+    <video:uploader>nostyleesports2</video:uploader>
+    <video:expiration_date>2026-02-12T23:36:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-129/set/98949602/</loc>
   <lastmod>2026-02-04T08:22:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-15T02:03:25.000Z</video:publication_date>
     <video:uploader>KMLtournaments</video:uploader>
     <video:expiration_date>2026-01-23T02:03:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-winter-26-1-stew-in-perpetuity/set/98175437/</loc>
-  <lastmod>2026-01-15T02:32:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867730/image-fc1bc7bf7372e10527ad33563823286d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Markokop vs SMT | Blaziken, UW Melee Weekly (Winter &apos;26) #1 - stew in perpetuity - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Markokop vs SMT | Blaziken in Losers Quarter-Final of UW Melee Weekly (Winter &apos;26) #1 - stew in perpetuity, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2670320175&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1076</video:duration>
-    <video:publication_date>2026-01-15T02:01:32.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2026-01-23T02:01:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
