@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-36/set/99088609/</loc>
-  <lastmod>2026-02-07T21:39:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-36/set/99088611/</loc>
+  <lastmod>2026-02-07T21:55:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876027/image-635b14d9b2541f9345b8ec7e93746975.png
+    </video:thumbnail_loc>
+    <video:title>
+      TOT | | Trueinstincts_ vs Ingress, RDU Tekken Monthly #36 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TOT | | Trueinstincts_ vs Ingress in Losers Quarter-Final of RDU Tekken Monthly #36, streamed by rdutekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691691323&amp;t=2h50m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1620</video:duration>
+    <video:publication_date>2026-02-07T21:55:11.000Z</video:publication_date>
+    <video:uploader>rdutekken</video:uploader>
+    <video:expiration_date>2026-02-15T21:55:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-36/set/99088609/</loc>
+  <lastmod>2026-02-07T22:03:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2691691323&amp;t=2h35m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>587</video:duration>
+    <video:duration>498</video:duration>
     <video:publication_date>2026-02-07T21:39:58.000Z</video:publication_date>
     <video:uploader>rdutekken</video:uploader>
     <video:expiration_date>2026-02-15T21:39:58.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-22T20:03:34.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2026-01-30T20:03:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-27/set/98447662/</loc>
-  <lastmod>2026-01-22T19:55:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865303/image-799f7177b4aebc71134fdef42cce9017.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gaer Gaeaf vs cupofnoodles, Black Country Foundry #27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gaer Gaeaf vs cupofnoodles in Winners Semi-Final of Black Country Foundry #27, streamed by bc_foundry
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2677117827&amp;t=1h10m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>372</video:duration>
-    <video:publication_date>2026-01-22T19:36:28.000Z</video:publication_date>
-    <video:uploader>bc_foundry</video:uploader>
-    <video:expiration_date>2026-01-30T19:36:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
