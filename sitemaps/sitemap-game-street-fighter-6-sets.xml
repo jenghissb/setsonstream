@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-26/set/99057327/</loc>
+  <lastmod>2026-02-07T08:39:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866358/image-c883d1b92ce6fab4da9b105fae17b308.png
+    </video:thumbnail_loc>
+    <video:title>
+      Valerie vs Chun Fun, Drive Theory 26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Valerie vs Chun Fun in Losers Round 3 of Drive Theory 26, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691276642&amp;t=1h23m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>292</video:duration>
+    <video:publication_date>2026-02-07T08:25:30.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-02-15T08:25:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-26/set/99057323/</loc>
-  <lastmod>2026-02-07T08:07:21.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-07T08:28:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2691276642&amp;t=1h5m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1164</video:duration>
+    <video:duration>644</video:duration>
     <video:publication_date>2026-02-07T08:07:21.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2026-02-15T08:07:21.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-21T00:51:53.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-29T00:51:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-136/set/98395359/</loc>
-  <lastmod>2026-01-21T00:59:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872136/image-fdc66478ba8923e0b05fa49d96c91802.png
-    </video:thumbnail_loc>
-    <video:title>
-      Myles vs AbsoLucian, HoG: Dragon #136 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Myles vs AbsoLucian in Winners Round 1 of HoG: Dragon #136, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2675653775&amp;t=0h6m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>920</video:duration>
-    <video:publication_date>2026-01-21T00:36:01.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-01-29T00:36:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
