@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/black-hills-spring-2026-4/set/99090910/</loc>
-  <lastmod>2026-02-07T22:46:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/colorado-mile-high-burst-monthly-february-2026/set/99092433/</loc>
+  <lastmod>2026-02-07T23:19:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873553/image-6ecb3d771188cf6bf12bd9e2909bd39f.png
+    </video:thumbnail_loc>
+    <video:title>
+      JKLY | Cobalt vs PEMDAS | Hatsu, Colorado Mile High Burst Monthly February 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JKLY | Cobalt vs PEMDAS | Hatsu in Winners Semi-Final of Colorado Mile High Burst Monthly February 2026, streamed by akihabaraarcade2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691700260&amp;t=4h5m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>387</video:duration>
+    <video:publication_date>2026-02-07T23:19:45.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade2</video:uploader>
+    <video:expiration_date>2026-02-15T23:19:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/black-hills-spring-2026-4/set/99090910/</loc>
+  <lastmod>2026-02-07T23:06:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2691826782&amp;t=1h8m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>461</video:duration>
+    <video:duration>1036</video:duration>
     <video:publication_date>2026-02-07T22:46:44.000Z</video:publication_date>
     <video:uploader>NuggetKiwi</video:uploader>
     <video:expiration_date>2026-02-15T22:46:44.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-17T12:01:46.000Z</video:publication_date>
     <video:uploader>flashno47</video:uploader>
     <video:expiration_date>2026-01-25T12:01:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/parisienne-fighting-ligue-saison-5-6/set/98260091/</loc>
-  <lastmod>2026-01-17T12:09:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863956/image-266245e8c244c34e0da4cdb44398f037.png
-    </video:thumbnail_loc>
-    <video:title>
-      THE FOOL | JunkBezoul vs Noponleon, PARISIENNE FIGHTING LIGUE - SAISON 5 #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch THE FOOL | JunkBezoul vs Noponleon in Winners Round 1 of PARISIENNE FIGHTING LIGUE - SAISON 5 #6, streamed by flashno47
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672380493&amp;t=0h22m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>770</video:duration>
-    <video:publication_date>2026-01-17T11:47:47.000Z</video:publication_date>
-    <video:uploader>flashno47</video:uploader>
-    <video:expiration_date>2026-01-25T11:47:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
