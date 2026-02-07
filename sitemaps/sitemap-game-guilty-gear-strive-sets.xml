@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-8-1/set/99060817/</loc>
+  <lastmod>2026-02-07T13:24:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869579/image-dfa702cc1ac1578d958e3c963042f224.png
+    </video:thumbnail_loc>
+    <video:title>
+      Poyo vs TWT | Nokuza, Arca-Sys #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Poyo vs TWT | Nokuza in Winners Round 1 of Arca-Sys #8, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691420971&amp;t=0h6m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>690</video:duration>
+    <video:publication_date>2026-02-07T12:58:39.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-02-15T12:58:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-106/set/99051826/</loc>
   <lastmod>2026-02-07T06:29:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-14T02:45:20.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-01-22T02:45:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-fight-night-234/set/98128997/</loc>
-  <lastmod>2026-01-13T03:12:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867044/image-749e8a98729204a699849caf8fb07da9.png
-    </video:thumbnail_loc>
-    <video:title>
-      bird vs CRAB | IceCar78, ESG Fight Night #234 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bird vs CRAB | IceCar78 in Grand Final of ESG Fight Night #234, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2668471630&amp;t=2h33m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2411</video:duration>
-    <video:publication_date>2026-01-13T02:24:02.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2026-01-21T02:24:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
