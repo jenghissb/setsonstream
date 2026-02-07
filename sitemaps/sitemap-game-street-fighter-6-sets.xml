@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/perfect-storm-2026/set/99067857/</loc>
+  <lastmod>2026-02-07T17:19:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/823102/image-60f5818a81167c837ad19543cc6639ee.png
+    </video:thumbnail_loc>
+    <video:title>
+      MGI | zBlazer vs WTF, Perfect Storm 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MGI | zBlazer vs WTF in Winners Quarter-Final of Perfect Storm 2026, streamed by battlecityottawa
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691533892&amp;t=1h10m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>550</video:duration>
+    <video:publication_date>2026-02-07T17:03:04.000Z</video:publication_date>
+    <video:uploader>battlecityottawa</video:uploader>
+    <video:expiration_date>2026-02-15T17:03:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-26/set/99057711/</loc>
   <lastmod>2026-02-07T09:23:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-21T01:16:01.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-29T01:16:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-85/set/98400255/</loc>
-  <lastmod>2026-01-21T01:39:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869936/image-efd6b9ce782cf51d21afa03c37155603.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Frokuu vs Leon Nights, 4o4 By Sh33rz: Street Fighter #85 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frokuu vs Leon Nights in Winners Round 2 of 4o4 By Sh33rz: Street Fighter #85, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2675690896&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1059</video:duration>
-    <video:publication_date>2026-01-21T01:11:32.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-01-29T01:11:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
