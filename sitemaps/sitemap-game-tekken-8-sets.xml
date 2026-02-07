@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-17/set/99066924/</loc>
+  <lastmod>2026-02-07T17:28:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863113/image-12c96035749e975ef87df39705825fa9.png
+    </video:thumbnail_loc>
+    <video:title>
+      ILIAS vs FOX | Sin, GROUND CONTROL 17 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ILIAS vs FOX | Sin in Winners Final of GROUND CONTROL 17, streamed by gamingloods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691427209&amp;t=4h27m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1400</video:duration>
+    <video:publication_date>2026-02-07T17:28:45.000Z</video:publication_date>
+    <video:uploader>gamingloods</video:uploader>
+    <video:expiration_date>2026-02-15T17:28:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-17/set/99066938/</loc>
   <lastmod>2026-02-07T17:24:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-22T02:39:04.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-01-30T02:39:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/donatos-fight-night-1-21-26/set/98426422/</loc>
-  <lastmod>2026-01-22T02:57:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871264/image-30cba83b45be1cebc0dce6181e569b41.png
-    </video:thumbnail_loc>
-    <video:title>
-      BGC | kurafuto vs Cobb, Donatos Fight Night - 1/21/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BGC | kurafuto vs Cobb in Losers Semi-Final of Donatos Fight Night - 1/21/26, streamed by matchstickmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2676521338&amp;t=2h7m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>861</video:duration>
-    <video:publication_date>2026-01-22T02:38:27.000Z</video:publication_date>
-    <video:uploader>matchstickmelee</video:uploader>
-    <video:expiration_date>2026-01-30T02:38:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

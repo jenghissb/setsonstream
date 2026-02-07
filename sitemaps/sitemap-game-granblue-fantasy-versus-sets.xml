@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-8-1/set/99063123/</loc>
-  <lastmod>2026-02-07T17:17:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-8-1/set/99063125/</loc>
+  <lastmod>2026-02-07T17:43:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869579/image-dfa702cc1ac1578d958e3c963042f224.png
+    </video:thumbnail_loc>
+    <video:title>
+      Melliodama vs Larry51, Arca-Sys #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Melliodama vs Larry51 in Losers Semi-Final of Arca-Sys #8, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691420971&amp;t=4h52m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>494</video:duration>
+    <video:publication_date>2026-02-07T17:43:51.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-02-15T17:43:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-8-1/set/99063042/</loc>
+  <lastmod>2026-02-07T17:50:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869579/image-dfa702cc1ac1578d958e3c963042f224.png
+    </video:thumbnail_loc>
+    <video:title>
+      Vivi vs Arefu, Arca-Sys #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vivi vs Arefu in Winners Final of Arca-Sys #8, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691420971&amp;t=4h38m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>788</video:duration>
+    <video:publication_date>2026-02-07T17:30:36.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-02-15T17:30:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-8-1/set/99063123/</loc>
+  <lastmod>2026-02-07T17:35:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2691420971&amp;t=4h25m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>602</video:duration>
+    <video:duration>774</video:duration>
     <video:publication_date>2026-02-07T17:17:05.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-02-15T17:17:05.000Z</video:expiration_date>
@@ -2590,54 +2638,6 @@
     <video:publication_date>2025-12-24T03:30:36.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2026-01-01T03:30:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-130/set/97668675/</loc>
-  <lastmod>2025-12-24T03:36:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857327/image-3bc38cc987fad946d86a94106ca17c20.png
-    </video:thumbnail_loc>
-    <video:title>
-      Malleth vs httpriestess, Magic Pixel Weekly #130 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Malleth vs httpriestess in Losers Final of Magic Pixel Weekly #130, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2651654875&amp;t=0h45m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>802</video:duration>
-    <video:publication_date>2025-12-24T03:17:03.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2026-01-01T03:17:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-130/set/97668659/</loc>
-  <lastmod>2025-12-24T03:19:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857327/image-3bc38cc987fad946d86a94106ca17c20.png
-    </video:thumbnail_loc>
-    <video:title>
-      Malleth vs cavitae, Magic Pixel Weekly #130 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Malleth vs cavitae in Winners Final of Magic Pixel Weekly #130, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2651654875&amp;t=0h37m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>491</video:duration>
-    <video:publication_date>2025-12-24T03:08:37.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2026-01-01T03:08:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
