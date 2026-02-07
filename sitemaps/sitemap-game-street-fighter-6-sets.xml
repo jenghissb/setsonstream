@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/norwich-knockout-3/set/99071015/</loc>
-  <lastmod>2026-02-07T17:43:19.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/northern-battles-02-07-2026-toronto-s-fighting-game-monthly/set/99071673/</loc>
+  <lastmod>2026-02-07T18:11:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867655/image-f84c72c4be9a3647e9b93fcf81280176.png
+    </video:thumbnail_loc>
+    <video:title>
+      UF | HMB | Aynim vs 716 | Zambo, Northern Battles 02/07/2026: Toronto&apos;s Fighting Game Monthly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UF | HMB | Aynim vs 716 | Zambo in Winners Quarter-Final of Northern Battles 02/07/2026: Toronto&apos;s Fighting Game Monthly, streamed by torontotoptiers
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=torontotoptiers&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1111</video:duration>
+    <video:publication_date>2026-02-07T18:11:05.000Z</video:publication_date>
+    <video:uploader>torontotoptiers</video:uploader>
+    <video:expiration_date>2026-02-15T18:11:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/norwich-knockout-3/set/99071015/</loc>
+  <lastmod>2026-02-07T18:02:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2691587402&amp;t=0h41m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>526</video:duration>
+    <video:duration>901</video:duration>
     <video:publication_date>2026-02-07T17:43:19.000Z</video:publication_date>
     <video:uploader>mllo_</video:uploader>
     <video:expiration_date>2026-02-15T17:43:19.000Z</video:expiration_date>
