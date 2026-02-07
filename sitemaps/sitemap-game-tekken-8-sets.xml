@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/bacaro-brawl/set/99063133/</loc>
-  <lastmod>2026-02-07T14:33:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/bacaro-brawl/set/99063138/</loc>
+  <lastmod>2026-02-07T14:47:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/871828/image-831b6acf990fa9f3e63a1ad0eaf9f55c.jpg
     </video:thumbnail_loc>
     <video:title>
-      gallo | gallo vs GPE | VxP | Mikee, Bacaro Brawl - Sets on Stream
+      StrongGym | Zava vs TKBO | | Frostex, Bacaro Brawl - Sets on Stream
     </video:title>
     <video:description>
-      Watch gallo | gallo vs GPE | VxP | Mikee in Winners Round 3 of Bacaro Brawl, streamed by tekkenveneto
+      Watch StrongGym | Zava vs TKBO | | Frostex in Winners Round 3 of Bacaro Brawl, streamed by tekkenveneto
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691453104&amp;t=0h46m3s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2691453104&amp;t=0h59m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>736</video:duration>
-    <video:publication_date>2026-02-07T14:33:22.000Z</video:publication_date>
+    <video:duration>857</video:duration>
+    <video:publication_date>2026-02-07T14:47:07.000Z</video:publication_date>
     <video:uploader>tekkenveneto</video:uploader>
-    <video:expiration_date>2026-02-15T14:33:22.000Z</video:expiration_date>
+    <video:expiration_date>2026-02-15T14:47:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-17/set/99061360/</loc>
+  <lastmod>2026-02-07T14:52:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863113/image-12c96035749e975ef87df39705825fa9.png
+    </video:thumbnail_loc>
+    <video:title>
+      BUFFALO SOLDIER vs DNC | faccboi, GROUND CONTROL 17 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BUFFALO SOLDIER vs DNC | faccboi in Winners Quarter-Final of GROUND CONTROL 17, streamed by gamingloods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691427209&amp;t=1h51m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>531</video:duration>
+    <video:publication_date>2026-02-07T14:52:33.000Z</video:publication_date>
+    <video:uploader>gamingloods</video:uploader>
+    <video:expiration_date>2026-02-15T14:52:33.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-17/set/99061359/</loc>
-  <lastmod>2026-02-07T14:40:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-07T14:56:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2691427209&amp;t=1h39m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>336</video:duration>
+    <video:duration>694</video:duration>
     <video:publication_date>2026-02-07T14:40:02.000Z</video:publication_date>
     <video:uploader>gamingloods</video:uploader>
     <video:expiration_date>2026-02-15T14:40:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/bacaro-brawl/set/99063133/</loc>
+  <lastmod>2026-02-07T14:56:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871828/image-831b6acf990fa9f3e63a1ad0eaf9f55c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      gallo | gallo vs GPE | VxP | Mikee, Bacaro Brawl - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch gallo | gallo vs GPE | VxP | Mikee in Winners Round 3 of Bacaro Brawl, streamed by tekkenveneto
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691453104&amp;t=0h46m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>700</video:duration>
+    <video:publication_date>2026-02-07T14:33:22.000Z</video:publication_date>
+    <video:uploader>tekkenveneto</video:uploader>
+    <video:expiration_date>2026-02-15T14:33:22.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8350,54 +8398,6 @@
     <video:publication_date>2026-01-22T01:51:50.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-01-30T01:51:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-150/set/98429311/</loc>
-  <lastmod>2026-01-22T02:13:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870539/image-518f6e4da731f7fcc2f6268654ca16f9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Battery vs MØB | The Chamberlain(M O B | The Chamberlain), Juicy Game Night #150 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Battery vs MØB | The Chamberlain(M O B | The Chamberlain) in Winners Final of Juicy Game Night #150, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2676552654&amp;t=0h39m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>801</video:duration>
-    <video:publication_date>2026-01-22T01:45:53.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2026-01-30T01:45:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-game-night-150/set/98429310/</loc>
-  <lastmod>2026-01-22T01:58:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870539/image-518f6e4da731f7fcc2f6268654ca16f9.png
-    </video:thumbnail_loc>
-    <video:title>
-      MØB | The Chamberlain(M O B | The Chamberlain) vs Dr. M, Juicy Game Night #150 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MØB | The Chamberlain(M O B | The Chamberlain) vs Dr. M in Winners Semi-Final of Juicy Game Night #150, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2676552654&amp;t=0h32m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>385</video:duration>
-    <video:publication_date>2026-01-22T01:39:02.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2026-01-30T01:39:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
