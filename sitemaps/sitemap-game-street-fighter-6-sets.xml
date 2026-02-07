@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-116/set/99038773/</loc>
+  <lastmod>2026-02-07T01:22:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869105/image-fe97a6d572dc463c72da462a7f4cf2ec.png
+    </video:thumbnail_loc>
+    <video:title>
+      Whim vs lilgurt, UP THE BLOCK #116 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Whim vs lilgurt in Winners Round 1 of UP THE BLOCK #116, streamed by UG_NYC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691045228&amp;t=0h3m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1171</video:duration>
+    <video:publication_date>2026-02-07T01:22:36.000Z</video:publication_date>
+    <video:uploader>UG_NYC</video:uploader>
+    <video:expiration_date>2026-02-15T01:22:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-197-norcal-street-fighter-6-weekly/set/99006714/</loc>
   <lastmod>2026-02-06T06:25:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-19T00:00:06.000Z</video:publication_date>
     <video:uploader>galintgaming</video:uploader>
     <video:expiration_date>2026-01-27T00:00:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-smash-ultimate-9/set/98346742/</loc>
-  <lastmod>2026-01-19T00:18:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853503/image-8c3a439576497df66fab500b4f15359e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Fulgri vs Meminz, McDonald&apos;s Smash Ultimate #9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fulgri vs Meminz in Losers Round 1 of McDonald&apos;s Smash Ultimate #9, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/3g2oAKC8NhI?start=5113s
-    </video:player_loc>
-    <video:duration>1036</video:duration>
-    <video:publication_date>2026-01-18T23:57:08.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
-    <video:expiration_date>2026-01-26T23:57:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

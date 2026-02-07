@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-143/set/99033229/</loc>
+  <lastmod>2026-02-07T01:18:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/878259/image-5d9c29f8c3c3dad645397af57d7ca4c2.png
+    </video:thumbnail_loc>
+    <video:title>
+      CRAB | SLG | ThatScrubDavid vs MLGF, HoG: Moonlight #143 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CRAB | SLG | ThatScrubDavid vs MLGF in Winners Semi-Final of HoG: Moonlight #143, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2690996337&amp;t=0h55m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1431</video:duration>
+    <video:publication_date>2026-02-07T01:18:16.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-02-15T01:18:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-211-norcal-ssbu-gbvsr-ggst/set/98977984/</loc>
   <lastmod>2026-02-05T06:01:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-11T00:01:41.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2026-01-19T00:01:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/colorado-mile-high-burst-monthly-january-2026/set/98052293/</loc>
-  <lastmod>2026-01-11T00:08:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863155/image-7bcc99b5fe2425b7cd4a94b081ceb66d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Cobalt vs DRO MOTION, Colorado Mile High Burst Monthly January 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cobalt vs DRO MOTION in Winners Semi-Final of Colorado Mile High Burst Monthly January 2026, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666489857&amp;t=4h4m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>857</video:duration>
-    <video:publication_date>2026-01-10T23:47:01.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2026-01-18T23:47:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
