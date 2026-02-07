@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-8-1/set/99060910/</loc>
+  <lastmod>2026-02-07T15:54:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869579/image-dfa702cc1ac1578d958e3c963042f224.png
+    </video:thumbnail_loc>
+    <video:title>
+      Platy|RB | Daseinologist vs PAM | WhilemButter, Arca-Sys #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Platy|RB | Daseinologist vs PAM | WhilemButter in Losers Final of Arca-Sys #8, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691420971&amp;t=3h2m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>211</video:duration>
+    <video:publication_date>2026-02-07T15:54:14.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-02-15T15:54:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-8-1/set/99060908/</loc>
   <lastmod>2026-02-07T15:30:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-15T05:02:33.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-01-23T05:02:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189283/</loc>
-  <lastmod>2026-01-15T05:04:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868328/image-881dcac07c7b1c4b9b987b715dfb9795.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Draken vs Aubfox, Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Draken vs Aubfox in Losers Final of Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2670395949&amp;t=1h6m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>656</video:duration>
-    <video:publication_date>2026-01-15T04:51:22.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-01-23T04:51:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
