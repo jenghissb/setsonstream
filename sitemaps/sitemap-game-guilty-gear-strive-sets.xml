@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/kami-con-season-17-battle-royale/set/99072834/</loc>
+  <lastmod>2026-02-07T18:46:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/853790/image-698202ef31fb84fa269ee4956e8ecd7a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sir An0n vs 8Bit | Raccoon, Kami-Con Season 17: Battle Royale - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sir An0n vs 8Bit | Raccoon in Winners Round 1 of Kami-Con Season 17: Battle Royale, streamed by nca_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691627236&amp;t=0h28m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>505</video:duration>
+    <video:publication_date>2026-02-07T18:21:50.000Z</video:publication_date>
+    <video:uploader>nca_fgc</video:uploader>
+    <video:expiration_date>2026-02-15T18:21:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-8-1/set/99060910/</loc>
   <lastmod>2026-02-07T16:22:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-17T00:32:57.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-01-25T00:32:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-208-norcal-ssbu-ggst-weekly/set/98189252/</loc>
-  <lastmod>2026-01-15T05:22:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868328/image-881dcac07c7b1c4b9b987b715dfb9795.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SJSU | Brone vs Draken, Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SJSU | Brone vs Draken in Grand Final of Guildhouse Weekly 208 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2670395949&amp;t=1h17m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>698</video:duration>
-    <video:publication_date>2026-01-15T05:02:33.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-01-23T05:02:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
