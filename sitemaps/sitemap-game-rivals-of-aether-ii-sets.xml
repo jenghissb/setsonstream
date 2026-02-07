@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ring-of-valor-12/set/99074256/</loc>
+  <lastmod>2026-02-07T21:10:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876600/image-dc460b14c140d17c079999cfecf76dd2.png
+    </video:thumbnail_loc>
+    <video:title>
+      !DUNK | DunkDaddy vs !DUNK | IWU | Crackle, Ring of Valor #12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch !DUNK | DunkDaddy vs !DUNK | IWU | Crackle in Round 3 of Ring of Valor #12, streamed by dunkdojogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691786729&amp;t=0h19m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>738</video:duration>
+    <video:publication_date>2026-02-07T21:10:20.000Z</video:publication_date>
+    <video:uploader>dunkdojogaming</video:uploader>
+    <video:expiration_date>2026-02-15T21:10:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-258/set/99045933/</loc>
   <lastmod>2026-02-07T05:20:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-17T23:36:26.000Z</video:publication_date>
     <video:uploader>IsthmianGaming</video:uploader>
     <video:expiration_date>2026-01-25T23:36:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/pataka-2026/set/98298473/</loc>
-  <lastmod>2026-01-17T23:56:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/849963/image-88454df75fc38043009bb7c2e8037c25.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      トール(tooru) vs YoRHa | Spikefire, Pataka 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch トール(tooru) vs YoRHa | Spikefire in Losers Round 1 of Pataka 2026, streamed by galintgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672798104&amp;t=2h34m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1152</video:duration>
-    <video:publication_date>2026-01-17T23:24:59.000Z</video:publication_date>
-    <video:uploader>galintgaming</video:uploader>
-    <video:expiration_date>2026-01-25T23:24:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
