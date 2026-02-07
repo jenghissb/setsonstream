@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-106/set/99055199/</loc>
+  <lastmod>2026-02-07T06:21:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876042/image-af6683eb9d71dd1c1e24f3c1fab86e7c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Vita | noot vs Bracket Demons | JettSett, SoCal Colosseum #106 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vita | noot vs Bracket Demons | JettSett in Grand Final of SoCal Colosseum #106, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691164389&amp;t=2h38m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1082</video:duration>
+    <video:publication_date>2026-02-07T06:21:08.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2026-02-15T06:21:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-106/set/99055213/</loc>
   <lastmod>2026-02-07T05:54:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-20T01:56:05.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2026-01-28T01:56:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/esg-fight-night-235/set/98378789/</loc>
-  <lastmod>2026-01-20T02:06:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867047/image-efd2114cfa25dc4192745ad580d7a51f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mimno vs Rizzy, ESG Fight Night #235 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mimno vs Rizzy in Round 2 of ESG Fight Night #235, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2674758829&amp;t=1h59m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>970</video:duration>
-    <video:publication_date>2026-01-20T01:39:43.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2026-01-28T01:39:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
