@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ranking-battle-f-vrier-2026/set/99125049/</loc>
+  <lastmod>2026-02-08T17:41:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872194/image-92eeb1d95761e62ed8b1c5cc8f67c83f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      tooru vs BB44 | JP-Mwouisman, Ranking Battle Février 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tooru vs BB44 | JP-Mwouisman in Winners Final of Ranking Battle Février 2026, streamed by RDashAsso
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2692390155&amp;t=3h50m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>690</video:duration>
+    <video:publication_date>2026-02-08T17:17:24.000Z</video:publication_date>
+    <video:uploader>RDashAsso</video:uploader>
+    <video:expiration_date>2026-02-16T17:17:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-14-bh3-x-joystick/set/99070907/</loc>
   <lastmod>2026-02-08T16:06:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-24T05:14:52.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2026-02-01T05:14:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-104/set/98519046/</loc>
-  <lastmod>2026-01-24T05:30:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871416/image-0618023d23d432514bc77bd7807b1883.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bracket Demons | wRath vs Bracket Demons | JettSett, SoCal Colosseum #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bracket Demons | wRath vs Bracket Demons | JettSett in Winners Final of SoCal Colosseum #104, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2678474388&amp;t=1h42m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>539</video:duration>
-    <video:publication_date>2026-01-24T05:14:23.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2026-02-01T05:14:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
