@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-14-bh3-x-joystick/set/99070906/</loc>
+  <lastmod>2026-02-08T15:03:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866748/image-4642962f401c5e6cd1831e36723ab16b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BH3 Ichiban vs RollinStuns | Envy, Monthly FGC#14 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BH3 Ichiban vs RollinStuns | Envy in Winners Final of Monthly FGC#14 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2692360436&amp;t=2h6m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>842</video:duration>
+    <video:publication_date>2026-02-08T14:42:25.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2026-02-16T14:42:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/central-coast-salty-saturdays-13/set/99118178/</loc>
   <lastmod>2026-02-08T07:00:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-24T04:34:24.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2026-02-01T04:34:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-104/set/98516731/</loc>
-  <lastmod>2026-01-24T04:40:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871416/image-0618023d23d432514bc77bd7807b1883.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bracket Demons | JettSett vs Gerald, SoCal Colosseum #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bracket Demons | JettSett vs Gerald in Winners Quarter-Final of SoCal Colosseum #104, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2678474388&amp;t=0h52m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>455</video:duration>
-    <video:publication_date>2026-01-24T04:24:15.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2026-02-01T04:24:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
