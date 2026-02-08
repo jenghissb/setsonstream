@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/npsc-spring-2026-weekly-2/set/99136128/</loc>
+  <lastmod>2026-02-08T19:30:11.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877768/image-6a70d5c53b87ba3c4c2661c73aaa5580.png
+    </video:thumbnail_loc>
+    <video:title>
+      NP | woosy vs Ronox, NPSC Spring 2026 Weekly #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NP | woosy vs Ronox in Winners Round 1 of NPSC Spring 2026 Weekly #2, streamed by npsmashclub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2692666370&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1499</video:duration>
+    <video:publication_date>2026-02-08T19:30:11.000Z</video:publication_date>
+    <video:uploader>npsmashclub</video:uploader>
+    <video:expiration_date>2026-02-16T19:30:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/famarillo-friendship-2026/set/99092363/</loc>
   <lastmod>2026-02-08T01:40:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-18T16:34:34.000Z</video:publication_date>
     <video:uploader>odysseyesportsfgc</video:uploader>
     <video:expiration_date>2026-01-26T16:34:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/afterburner-2026/set/98327077/</loc>
-  <lastmod>2026-01-18T16:54:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/806744/image-d5068c634e4c90676c120e1f5dba22b2.png
-    </video:thumbnail_loc>
-    <video:title>
-      WU | KornDog | CJFrozen vs Qwertycookies, Afterburner 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WU | KornDog | CJFrozen vs Qwertycookies in Winners Round 1 of Afterburner 2026, streamed by odysseyesportsfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2673521701&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1617</video:duration>
-    <video:publication_date>2026-01-18T16:10:45.000Z</video:publication_date>
-    <video:uploader>odysseyesportsfgc</video:uploader>
-    <video:expiration_date>2026-01-26T16:10:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
