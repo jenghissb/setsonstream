@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/end-of-heights-4/set/99098424/</loc>
+  <lastmod>2026-02-08T01:02:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871871/image-c212a90eef0d4c031c45de7e53abfb81.png
+    </video:thumbnail_loc>
+    <video:title>
+      GBGR | JunDLTA vs Avi, End of Heights 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GBGR | JunDLTA vs Avi in Winners Final of End of Heights 4, streamed by sfuea
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2691828323&amp;t=2h59m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>706</video:duration>
+    <video:publication_date>2026-02-08T00:39:59.000Z</video:publication_date>
+    <video:uploader>sfuea</video:uploader>
+    <video:expiration_date>2026-02-16T00:39:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-8-1/set/99063043/</loc>
   <lastmod>2026-02-07T18:35:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2025-12-27T19:40:24.000Z</video:publication_date>
     <video:uploader>midhudsonmayhem</video:uploader>
     <video:expiration_date>2026-01-04T19:40:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/mid-hudson-mayhem-41/set/97706861/</loc>
-  <lastmod>2025-12-27T19:19:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858132/image-ed78bb9c0e459669358a165a2bc8d591.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gozer vs 22Ace, Mid Hudson Mayhem #41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gozer vs 22Ace in Winners Round 1 of Mid Hudson Mayhem #41, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2654390384&amp;t=0h6m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>326</video:duration>
-    <video:publication_date>2025-12-27T19:07:42.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2026-01-04T19:07:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
