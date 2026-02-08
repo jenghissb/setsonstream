@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-14-bh3-x-joystick/set/99070668/</loc>
+  <lastmod>2026-02-08T14:29:21.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866748/image-4642962f401c5e6cd1831e36723ab16b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Noponleon vs NOG | Hironamite, Monthly FGC#14 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Noponleon vs NOG | Hironamite in Winners Final of Monthly FGC#14 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2692360436&amp;t=1h53m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1106</video:duration>
+    <video:publication_date>2026-02-08T14:29:21.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2026-02-16T14:29:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ranking-battle-f-vrier-2026/set/99122390/</loc>
   <lastmod>2026-02-08T13:57:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-18T00:57:45.000Z</video:publication_date>
     <video:uploader>ziggyboggy</video:uploader>
     <video:expiration_date>2026-01-26T00:57:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-1-17-25/set/98303890/</loc>
-  <lastmod>2026-01-18T01:19:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865225/image-bf95e90cff8d5a52fdaddf760ff02531.png
-    </video:thumbnail_loc>
-    <video:title>
-      BAH | Maddalellc01 vs DNBcool, The Infinite Oasis 1/17/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BAH | Maddalellc01 vs DNBcool in Winners Quarter-Final of The Infinite Oasis 1/17/25, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672590162&amp;t=7h50m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>968</video:duration>
-    <video:publication_date>2026-01-18T00:48:48.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-01-26T00:48:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
