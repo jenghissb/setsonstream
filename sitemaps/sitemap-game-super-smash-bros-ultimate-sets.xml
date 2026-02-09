@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-94/set/99156844/</loc>
-  <lastmod>2026-02-09T22:43:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-09T23:04:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2693402362&amp;t=3h59m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>941</video:duration>
+    <video:duration>1148</video:duration>
     <video:publication_date>2026-02-09T22:43:10.000Z</video:publication_date>
     <video:uploader>orbitalsheep</video:uploader>
     <video:expiration_date>2026-02-17T22:43:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dundee-fundies-148-wiml-dafoe-or-wiml-dafriend/set/99156228/</loc>
-  <lastmod>2026-02-09T21:26:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879037/image-e53773e72309e895fd4ff4aadb67a0cc.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kirb0 vs FTG | Jodgers, Dundee Fundies #148: Wiml dafoe or Wiml dafriend? - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kirb0 vs FTG | Jodgers in Grand Final of Dundee Fundies #148: Wiml dafoe or Wiml dafriend?, streamed by DundeeSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=DundeeSmash&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-02-09T21:26:08.000Z</video:publication_date>
-    <video:uploader>DundeeSmash</video:uploader>
-    <video:expiration_date>2026-02-17T21:26:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -238,6 +214,30 @@
     <video:publication_date>2026-02-09T21:29:36.000Z</video:publication_date>
     <video:uploader>ducesport</video:uploader>
     <video:expiration_date>2026-02-17T21:29:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dundee-fundies-148-wiml-dafoe-or-wiml-dafriend/set/99156228/</loc>
+  <lastmod>2026-02-09T23:26:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879037/image-e53773e72309e895fd4ff4aadb67a0cc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kirb0 vs FTG | Jodgers, Dundee Fundies #148: Wiml dafoe or Wiml dafriend? - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kirb0 vs FTG | Jodgers in Grand Final of Dundee Fundies #148: Wiml dafoe or Wiml dafriend?, streamed by DundeeSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2693391789&amp;t=2h57m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-02-09T21:26:08.000Z</video:publication_date>
+    <video:uploader>DundeeSmash</video:uploader>
+    <video:expiration_date>2026-02-17T21:26:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
