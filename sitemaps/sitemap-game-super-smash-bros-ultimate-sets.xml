@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-smashball-151-heart-of-the-game/set/99165243/</loc>
+  <lastmod>2026-02-09T23:57:38.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/878485/image-d460806da36c344dcc4e01e55b2dc1cc.png
+    </video:thumbnail_loc>
+    <video:title>
+      TTD | SWISH vs DREAM BIG | liakk, Monday Night SmashBall 151 @ Heart Of The Game - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TTD | SWISH vs DREAM BIG | liakk in Winners Round 2 of Monday Night SmashBall 151 @ Heart Of The Game, streamed by 716esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2693635105&amp;t=0h4m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>553</video:duration>
+    <video:publication_date>2026-02-09T23:57:38.000Z</video:publication_date>
+    <video:uploader>716esports</video:uploader>
+    <video:expiration_date>2026-02-17T23:57:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-94/set/99156844/</loc>
   <lastmod>2026-02-09T23:04:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -219,7 +243,7 @@
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dundee-fundies-148-wiml-dafoe-or-wiml-dafriend/set/99156228/</loc>
   <lastmod>2026-02-09T23:26:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-01T23:07:48.000Z</video:publication_date>
     <video:uploader>ElementalMTY</video:uploader>
     <video:expiration_date>2026-02-09T23:07:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/npsc-spring-2026-weekly-1/set/98886375/</loc>
-  <lastmod>2026-02-01T23:17:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874829/image-83f9c0d45adf0e3295a41f1d866194ac.png
-    </video:thumbnail_loc>
-    <video:title>
-      Obey Your Master vs ChubbyWanaSoup, NPSC Spring 2026 Weekly #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Obey Your Master vs ChubbyWanaSoup in Losers Final of NPSC Spring 2026 Weekly #1, streamed by npsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2686459021&amp;t=3h33m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>742</video:duration>
-    <video:publication_date>2026-02-01T23:02:27.000Z</video:publication_date>
-    <video:uploader>npsmashclub</video:uploader>
-    <video:expiration_date>2026-02-09T23:02:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
