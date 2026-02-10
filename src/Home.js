@@ -1653,6 +1653,11 @@ function MainComponent({homeMode, homeType, darkMode}) {
 
         </div>
         { useLandscapeLayout && <div className="home2landscapePane"><div className="home2landscapePaneInner" ref={rightPane}>
+          {!displayConfig.noRouteInfo && !showSearchWithRoute && <SearchBar {...{navigate: navigate, onSearch: ()=> {}, toggleCharacter: () => {}, dropdownSuggestions: dropdownSuggestions, filterInfo: filterInfo, onPressCharButton}} /> }
+          <div className="home2titleBar">
+            {!displayConfig.noRouteInfo && <RouteInfo {...{routeInfo, homeType, setMatch, bootstrapInfo, params, filterInfo, dropdownSuggestions, onFavorite:onSearch, openGameFilter:() => setShowFilterModal({type:"game", gameId: currentGameId})}} />}
+            <div className="emptyDiv"/>
+          </div>
           {
             previewItem && useLandscapeLayout && <NowPlaying {...{isHeader: setParam != null, minimal: displayConfig.noControls, setShowBracket: setShowLargeBracket, extraOnSide: hasRightPane, showExtra:!useHomeTypeLists, setShowFilterModal: setShowFilterModal, item: previewItem, filterInfo, useVideoInList: useVideoIn.list, handleIndexChange, streamSubIndex: itemStreamSubIndex, setStreamSubIndex, selected: itemKey == previewItem.bracketInfo.setKey, width, height, useLiveStream, setUseLiveStream, showVodsMode, handleTimestampChange, handlePlayPause, rewindReady,}} />             
           }
@@ -1698,7 +1703,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
           }
           </div></div>
         }
-        { false && !displayConfig.noDisplayData && hasRightPane && <div className="home2rightPane" ref={rightPane}>
+        {!displayConfig.noDisplayData && hasRightPane && <div className="home2rightPane" ref={rightPane}>
           {
             hasRightPane && Leafy(displayData, tourneyById, filterInfo, itemKey, useLiveStream, showVodsMode, handleIndexChangeNav, useVideoIn.popup, mapWidth, mapHeight, homeMode, homeType, streamSubIndex, setStreamSubIndex, mainVideoDim, onTimeRangeChanged, rewindReadyMap, setUseLiveStream, handleTimestampChange, handleReady)
           }
