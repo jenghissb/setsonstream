@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-44/set/99213674/</loc>
+  <lastmod>2026-02-11T20:33:09.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869984/image-7e0180be13e7f9530c34cf29ca9af3e6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jornn vs StF | AnimanKS, Jam Session #44 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jornn vs StF | AnimanKS in Losers Final of Jam Session #44, streamed by strikefiercefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=strikefiercefgc&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1804</video:duration>
+    <video:publication_date>2026-02-11T20:33:09.000Z</video:publication_date>
+    <video:uploader>strikefiercefgc</video:uploader>
+    <video:expiration_date>2026-02-19T20:33:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-44/set/99213640/</loc>
   <lastmod>2026-02-11T19:56:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-29T04:41:06.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2026-02-06T04:41:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/pofc-81-tekken-8/set/98697812/</loc>
-  <lastmod>2026-01-29T04:50:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873070/image-259aac8c21981d0122102d174817aba1.png
-    </video:thumbnail_loc>
-    <video:title>
-      CakeAndMilk vs Alpinist, POFC 81 - Tekken 8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CakeAndMilk vs Alpinist in Losers Final of POFC 81 - Tekken 8, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2683039149&amp;t=3h1m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1023</video:duration>
-    <video:publication_date>2026-01-29T04:23:47.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-02-06T04:23:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
