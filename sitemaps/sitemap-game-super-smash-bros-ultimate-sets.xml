@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/glitch-smash-bcn-1/set/99210903/</loc>
+  <lastmod>2026-02-11T17:26:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877765/image-3706347bd5dae7f0c883d0dbbb4cb956.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NX | Lyco vs NX | santeve100, Glitch Smash BCN #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NX | Lyco vs NX | santeve100 in Winners Round 1 of Glitch Smash BCN #1, streamed by smashbrosbcn
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2695032044&amp;t=0h30m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>605</video:duration>
+    <video:publication_date>2026-02-11T17:14:29.000Z</video:publication_date>
+    <video:uploader>smashbrosbcn</video:uploader>
+    <video:expiration_date>2026-02-19T17:14:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dsw-35/set/99209835/</loc>
   <lastmod>2026-02-11T11:46:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-03T21:39:09.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2026-02-11T21:39:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-afterclass-156/set/98931009/</loc>
-  <lastmod>2026-02-03T21:55:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877349/image-b384b93613d9214dfd187112a26b201e.png
-    </video:thumbnail_loc>
-    <video:title>
-      bertoleo vs FightThePower | Extrick, Smash Afterclass 156 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bertoleo vs FightThePower | Extrick in Round 5 of Smash Afterclass 156, streamed by sbit2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688222016&amp;t=0h57m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>920</video:duration>
-    <video:publication_date>2026-02-03T21:37:50.000Z</video:publication_date>
-    <video:uploader>sbit2</video:uploader>
-    <video:expiration_date>2026-02-11T21:37:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
