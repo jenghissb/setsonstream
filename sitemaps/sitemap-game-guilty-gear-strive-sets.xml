@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-107/set/99307281/</loc>
+  <lastmod>2026-02-14T05:23:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/878825/image-23eeaf136f067ceca2531cc8fb612ebf.png
+    </video:thumbnail_loc>
+    <video:title>
+      ICDS vs Logi Carra, SoCal Colosseum #107 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ICDS vs Logi Carra in Losers Round 3 of SoCal Colosseum #107, streamed by howdypartnerer
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2697295018&amp;t=1h2m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>379</video:duration>
+    <video:publication_date>2026-02-14T05:10:06.000Z</video:publication_date>
+    <video:uploader>howdypartnerer</video:uploader>
+    <video:expiration_date>2026-02-22T05:10:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-107/set/99307221/</loc>
-  <lastmod>2026-02-14T04:49:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-14T05:10:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2697295018&amp;t=0h41m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1181</video:duration>
+    <video:duration>694</video:duration>
     <video:publication_date>2026-02-14T04:49:04.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2026-02-22T04:49:04.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-24T01:21:07.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2026-02-01T01:21:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-141/set/98500891/</loc>
-  <lastmod>2026-01-24T01:41:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872994/image-a233bbb99bcbb5733d50ea9e41151585.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRAB | SLG | ThatScrubDavid vs EVIL | cyannara, HoG: Moonlight #141 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRAB | SLG | ThatScrubDavid vs EVIL | cyannara in Round 2 of HoG: Moonlight #141, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2678314692&amp;t=0h47m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>430</video:duration>
-    <video:publication_date>2026-01-24T01:20:16.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-01T01:20:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
