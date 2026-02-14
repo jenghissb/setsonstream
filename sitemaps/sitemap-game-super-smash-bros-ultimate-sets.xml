@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pns-kand-i-f-vrier-2026-2/set/99311619/</loc>
+  <lastmod>2026-02-14T09:01:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874124/image-5911337922a3b876b3cb664e674ebfa7.png
+    </video:thumbnail_loc>
+    <video:title>
+      POM | Tokenn vs Gryffender, PNS KanD.I. — Février 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch POM | Tokenn vs Gryffender in Winners Round 1 of PNS KanD.I. — Février 2026, streamed by pnsgg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2697422585&amp;t=0h15m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>622</video:duration>
+    <video:publication_date>2026-02-14T08:50:07.000Z</video:publication_date>
+    <video:uploader>pnsgg</video:uploader>
+    <video:expiration_date>2026-02-22T08:50:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/friday-night-mashers-2/set/99309822/</loc>
   <lastmod>2026-02-14T08:31:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-07T00:53:01.000Z</video:publication_date>
     <video:uploader>enderbenxiii</video:uploader>
     <video:expiration_date>2026-02-15T00:53:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kaisen-cup-1/set/99020994/</loc>
-  <lastmod>2026-02-07T01:00:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876764/image-b1851633bd0d97eb64a1d8bb3b520e26.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NG | Wibail vs AV | Howl, Kaisen Cup #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NG | Wibail vs AV | Howl in Losers Quarter-Final of Kaisen Cup #1, streamed by shinkaisen_ssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2690926653&amp;t=1h55m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>285</video:duration>
-    <video:publication_date>2026-02-07T00:52:45.000Z</video:publication_date>
-    <video:uploader>shinkaisen_ssb</video:uploader>
-    <video:expiration_date>2026-02-15T00:52:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
