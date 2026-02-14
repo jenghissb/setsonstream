@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-107/set/99309925/</loc>
+  <lastmod>2026-02-14T07:15:57.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/878825/image-23eeaf136f067ceca2531cc8fb612ebf.png
+    </video:thumbnail_loc>
+    <video:title>
+      KAITO vs froncois, SoCal Colosseum #107 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KAITO vs froncois in Losers Semi-Final of SoCal Colosseum #107, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2697289496&amp;t=3h16m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>974</video:duration>
+    <video:publication_date>2026-02-14T07:15:57.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2026-02-22T07:15:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-107/set/99309910/</loc>
   <lastmod>2026-02-14T06:37:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-01-25T03:44:25.000Z</video:publication_date>
     <video:uploader>studysessionlive</video:uploader>
     <video:expiration_date>2026-02-02T03:44:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/rmit-games-day-26/set/98580722/</loc>
-  <lastmod>2026-01-25T03:54:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869854/image-30c7cd4755a150e4a36cafff55c92494.png
-    </video:thumbnail_loc>
-    <video:title>
-      Eltannousss vs chill, RMIT Games Day #26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Eltannousss vs chill in Winners Final of RMIT Games Day #26, streamed by couchwarriors
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2679409234&amp;t=1h28m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>752</video:duration>
-    <video:publication_date>2026-01-25T03:35:52.000Z</video:publication_date>
-    <video:uploader>couchwarriors</video:uploader>
-    <video:expiration_date>2026-02-02T03:35:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
