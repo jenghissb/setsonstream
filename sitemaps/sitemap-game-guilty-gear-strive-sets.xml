@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/black-hills-spring-2026-5/set/99335724/</loc>
+  <lastmod>2026-02-14T22:33:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880925/image-a98b8a094aa8c5decbc51d809e43c9ec.png
+    </video:thumbnail_loc>
+    <video:title>
+      TheNorthHivers | Pokken vs SDM | Nuggetkiwi, Black Hills Spring 2026 #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TheNorthHivers | Pokken vs SDM | Nuggetkiwi in Winners Semi-Final of Black Hills Spring 2026 #5, streamed by NuggetKiwi
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2697918091&amp;t=0h34m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>896</video:duration>
+    <video:publication_date>2026-02-14T22:13:21.000Z</video:publication_date>
+    <video:uploader>NuggetKiwi</video:uploader>
+    <video:expiration_date>2026-02-22T22:13:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/black-hills-spring-2026-5/set/99335753/</loc>
-  <lastmod>2026-02-14T22:01:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-14T22:20:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2697918091&amp;t=0h22m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1061</video:duration>
+    <video:duration>498</video:duration>
     <video:publication_date>2026-02-14T22:01:58.000Z</video:publication_date>
     <video:uploader>NuggetKiwi</video:uploader>
     <video:expiration_date>2026-02-22T22:01:58.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-24T02:22:38.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2026-02-01T02:22:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-27/set/98503790/</loc>
-  <lastmod>2026-01-24T02:30:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871883/image-08c1a27d4549cd32a2a50143c798feb3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      N(Y)AH | Cat vs Train Cat, 4o4 By Sh33rZ: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch N(Y)AH | Cat vs Train Cat in Losers Quarter-Final of 4o4 By Sh33rZ: Anime Weekly, streamed by GAStrive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2678341044&amp;t=1h10m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>837</video:duration>
-    <video:publication_date>2026-01-24T02:12:05.000Z</video:publication_date>
-    <video:uploader>GAStrive</video:uploader>
-    <video:expiration_date>2026-02-01T02:12:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
