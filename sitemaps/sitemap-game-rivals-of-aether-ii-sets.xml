@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-11-lovey-dubby-edition/set/99338498/</loc>
-  <lastmod>2026-02-14T23:06:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-11-lovey-dubby-edition/set/99338501/</loc>
+  <lastmod>2026-02-14T23:31:27.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872259/image-73de4daa2f7c2f61d3e287b3cb545a89.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Fox vs BUM | Shnoopy, Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fox vs BUM | Shnoopy in Winners Semi-Final of Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2697822957&amp;t=3h47m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>945</video:duration>
+    <video:publication_date>2026-02-14T23:31:27.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2026-02-22T23:31:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-11-lovey-dubby-edition/set/99338498/</loc>
+  <lastmod>2026-02-14T23:31:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2697822957&amp;t=3h22m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>856</video:duration>
+    <video:duration>868</video:duration>
     <video:publication_date>2026-02-14T23:06:23.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-02-22T23:06:23.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-23T04:17:31.000Z</video:publication_date>
     <video:uploader>PenguinosBC</video:uploader>
     <video:expiration_date>2026-01-31T04:17:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-17/set/98460560/</loc>
-  <lastmod>2026-01-23T04:27:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872276/image-291e15d7fee80b82febfcbbf56fca18f.png
-    </video:thumbnail_loc>
-    <video:title>
-      DolphinBrick vs Penguinos, SFU RIVALS THURSDAYS #17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DolphinBrick vs Penguinos in Losers Final of SFU RIVALS THURSDAYS #17, streamed by PenguinosBC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2677453149&amp;t=2h27m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1368</video:duration>
-    <video:publication_date>2026-01-23T03:54:39.000Z</video:publication_date>
-    <video:uploader>PenguinosBC</video:uploader>
-    <video:expiration_date>2026-01-31T03:54:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
