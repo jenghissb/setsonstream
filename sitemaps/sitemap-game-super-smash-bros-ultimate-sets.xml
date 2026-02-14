@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pns-kand-i-f-vrier-2026-2/set/99311623/</loc>
-  <lastmod>2026-02-14T09:22:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pns-kand-i-f-vrier-2026-2/set/99311632/</loc>
+  <lastmod>2026-02-14T10:15:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874124/image-5911337922a3b876b3cb664e674ebfa7.png
+    </video:thumbnail_loc>
+    <video:title>
+      NMS ARK | Paz vs ARK | Elie, PNS KanD.I. — Février 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NMS ARK | Paz vs ARK | Elie in Winners Quarter-Final of PNS KanD.I. — Février 2026, streamed by pnsgg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2697422585&amp;t=1h41m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>458</video:duration>
+    <video:publication_date>2026-02-14T10:15:31.000Z</video:publication_date>
+    <video:uploader>pnsgg</video:uploader>
+    <video:expiration_date>2026-02-22T10:15:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pns-kand-i-f-vrier-2026-2/set/99311623/</loc>
+  <lastmod>2026-02-14T09:52:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2697422585&amp;t=0h47m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1507</video:duration>
+    <video:duration>1736</video:duration>
     <video:publication_date>2026-02-14T09:22:05.000Z</video:publication_date>
     <video:uploader>pnsgg</video:uploader>
     <video:expiration_date>2026-02-22T09:22:05.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-07T00:57:10.000Z</video:publication_date>
     <video:uploader>CoastalCarolinaEsports</video:uploader>
     <video:expiration_date>2026-02-15T00:57:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/northeastern-smash-tournaments-spring-26-week-4/set/99027037/</loc>
-  <lastmod>2026-02-07T01:10:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877862/image-504ce57e1e39abf9f2b52380b72498e7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wilsports | bevo vs Girlypop hit &amp; run, Northeastern Smash Tournaments Spring ‘26 Week 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wilsports | bevo vs Girlypop hit &amp; run in Winners Round 3 of Northeastern Smash Tournaments Spring ‘26 Week 4, streamed by nuultimate
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691000609&amp;t=0h27m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>701</video:duration>
-    <video:publication_date>2026-02-07T00:55:45.000Z</video:publication_date>
-    <video:uploader>nuultimate</video:uploader>
-    <video:expiration_date>2026-02-15T00:55:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
