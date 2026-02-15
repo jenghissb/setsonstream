@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-10/set/99356347/</loc>
+  <lastmod>2026-02-15T14:40:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877894/image-85568ff32c671d369da5f059a8ca2238.png
+    </video:thumbnail_loc>
+    <video:title>
+      Solvampire vs Wim, Brussels Gaming Fest 10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Solvampire vs Wim in Winners Semi-Final of Brussels Gaming Fest 10, streamed by Uzuraka
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2698412175&amp;t=1h59m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>612</video:duration>
+    <video:publication_date>2026-02-15T14:26:32.000Z</video:publication_date>
+    <video:uploader>Uzuraka</video:uploader>
+    <video:expiration_date>2026-02-23T14:26:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-10/set/99356341/</loc>
   <lastmod>2026-02-15T13:55:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-01-31T19:37:26.000Z</video:publication_date>
     <video:uploader>tekken</video:uploader>
     <video:expiration_date>2026-02-08T19:37:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/face-the-fax-2/set/98817037/</loc>
-  <lastmod>2026-01-31T19:56:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846600/image-571b82a345c87f40c43715ad0ca72a9a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      HaloQueen | AcadianYeti vs Tenking, Face the &apos;FAX 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HaloQueen | AcadianYeti vs Tenking in Grand Final of Face the &apos;FAX 2, streamed by swagonium
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2685400900&amp;t=1h36m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>842</video:duration>
-    <video:publication_date>2026-01-31T19:29:16.000Z</video:publication_date>
-    <video:uploader>swagonium</video:uploader>
-    <video:expiration_date>2026-02-08T19:29:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
