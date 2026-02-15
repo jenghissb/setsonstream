@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-217/set/99371471/</loc>
+  <lastmod>2026-02-15T21:17:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859074/image-91ae43ed72196965ca07b458dc7bd576.png
+    </video:thumbnail_loc>
+    <video:title>
+      muh vs waddle | mayor of sodom, The Construct 217 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch muh vs waddle | mayor of sodom in Winners Round 2 of The Construct 217, streamed by wisconsinsmash2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2698704365&amp;t=1h50m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1000</video:duration>
+    <video:publication_date>2026-02-15T20:57:07.000Z</video:publication_date>
+    <video:uploader>wisconsinsmash2</video:uploader>
+    <video:expiration_date>2026-02-23T20:57:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/genesis-x3/set/99349115/</loc>
   <lastmod>2026-02-15T05:51:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-25T02:15:28.000Z</video:publication_date>
     <video:uploader>kalvarr</video:uploader>
     <video:expiration_date>2026-02-02T02:15:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/pho-tai-big-mode-4-yummy-yummy/set/98567673/</loc>
-  <lastmod>2026-01-25T02:19:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870145/image-c407bad8aeda8dca6931da14feb03595.png
-    </video:thumbnail_loc>
-    <video:title>
-      SloX vs Ember, Pho Tai Big Mode #4 Yummy Yummy - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SloX vs Ember in Winners Quarter-Final of Pho Tai Big Mode #4 Yummy Yummy, streamed by kalvarr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2679293559&amp;t=2h2m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1138</video:duration>
-    <video:publication_date>2026-01-25T01:55:04.000Z</video:publication_date>
-    <video:uploader>kalvarr</video:uploader>
-    <video:expiration_date>2026-02-02T01:55:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
