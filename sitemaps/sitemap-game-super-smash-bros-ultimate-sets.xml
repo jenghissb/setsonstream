@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gema-no-michi-10/set/99389138/</loc>
+  <lastmod>2026-02-16T04:45:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879689/image-15c08b66b55e872d71e9e3870878d208.png
+    </video:thumbnail_loc>
+    <video:title>
+      Driva vs M.M.Leo, Gema No Michi #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Driva vs M.M.Leo in Winners Final of Gema No Michi #10, streamed by Smashsocietygg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2699058572&amp;t=1h56m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>525</video:duration>
+    <video:publication_date>2026-02-16T04:34:58.000Z</video:publication_date>
+    <video:uploader>Smashsocietygg</video:uploader>
+    <video:expiration_date>2026-02-24T04:34:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/new-smash-road-18/set/99384337/</loc>
-  <lastmod>2026-02-16T04:09:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-16T04:32:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/197mC13Lwa0?start=12790s
     </video:player_loc>
-    <video:duration>789</video:duration>
+    <video:duration>1306</video:duration>
     <video:publication_date>2026-02-16T04:09:58.000Z</video:publication_date>
     <video:uploader>Lubbock Smash</video:uploader>
     <video:expiration_date>2026-02-24T04:09:58.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-07T19:56:36.000Z</video:publication_date>
     <video:uploader>mu_smash</video:uploader>
     <video:expiration_date>2026-02-15T19:56:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/suny-brockport-smash-tournament/set/99075690/</loc>
-  <lastmod>2026-02-07T20:08:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851823/image-afb7424e59ee953ab61bcbf1bf76a01d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      WizardGG vs Sandyandy, SUNY Brockport Smash Tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WizardGG vs Sandyandy in Round 4 of SUNY Brockport Smash Tournament, streamed by brockport_esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691673068&amp;t=1h9m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>509</video:duration>
-    <video:publication_date>2026-02-07T19:56:01.000Z</video:publication_date>
-    <video:uploader>brockport_esports</video:uploader>
-    <video:expiration_date>2026-02-15T19:56:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
