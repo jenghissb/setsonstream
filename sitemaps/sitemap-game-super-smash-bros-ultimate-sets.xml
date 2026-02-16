@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-4-saison-3/set/99393900/</loc>
+  <lastmod>2026-02-16T17:49:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880156/image-5f0d1258a9baacdb426f8864aacd4c8d.png
+    </video:thumbnail_loc>
+    <video:title>
+      DC | SP | Aenor vs DC | Nemesis, Bloom #4 - Saison 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DC | SP | Aenor vs DC | Nemesis in Winners Round 1 of Bloom #4 - Saison 3, streamed by blossom_ssb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2699506070&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>799</video:duration>
+    <video:publication_date>2026-02-16T17:49:28.000Z</video:publication_date>
+    <video:uploader>blossom_ssb</video:uploader>
+    <video:expiration_date>2026-02-24T17:49:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/16-393/set/99391900/</loc>
   <lastmod>2026-02-16T12:30:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-07T20:03:09.000Z</video:publication_date>
     <video:uploader>dunkdojogaming</video:uploader>
     <video:expiration_date>2026-02-15T20:03:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lucky-lucky/set/99074762/</loc>
-  <lastmod>2026-02-07T20:25:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876168/image-c88b0d390a331f4968b3bc669cdd27d2.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TMT | Gimpel vs Overlord | TM Opera O, Lucky! Lucky! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TMT | Gimpel vs Overlord | TM Opera O in Winners Semi-Final of Lucky! Lucky!, streamed by luckyinozuto
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691719766&amp;t=0h25m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1115</video:duration>
-    <video:publication_date>2026-02-07T20:01:58.000Z</video:publication_date>
-    <video:uploader>luckyinozuto</video:uploader>
-    <video:expiration_date>2026-02-15T20:01:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
