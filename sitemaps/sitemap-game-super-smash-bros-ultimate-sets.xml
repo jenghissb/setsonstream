@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/16-393/set/99391888/</loc>
+  <lastmod>2026-02-16T11:44:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879201/image-7dbfdee47954e882df9c0ce2a7147221.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SEKIYA vs はっせー(hassee), 16(月)上野スマコミ#393(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SEKIYA vs はっせー(hassee) in Round 4 of 16(月)上野スマコミ#393(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/3QfdNLTi8V0?start=2471s
+    </video:player_loc>
+    <video:duration>529</video:duration>
+    <video:publication_date>2026-02-16T11:34:10.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-02-24T11:34:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/16-393/set/99391884/</loc>
-  <lastmod>2026-02-16T11:20:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-16T11:31:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/3QfdNLTi8V0?start=1644s
     </video:player_loc>
-    <video:duration>455</video:duration>
+    <video:duration>571</video:duration>
     <video:publication_date>2026-02-16T11:20:23.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2026-02-24T11:20:23.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-07T19:59:46.000Z</video:publication_date>
     <video:uploader>capitalott</video:uploader>
     <video:expiration_date>2026-02-15T19:59:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/nopulse-factor-5-1/set/99074137/</loc>
-  <lastmod>2026-02-07T20:08:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876057/image-0b1ff6b377ac2dad9833b31474207996.png
-    </video:thumbnail_loc>
-    <video:title>
-      TEW | Lörd vs SKC | Bütter, NoPulse Factor #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TEW | Lörd vs SKC | Bütter in Winners Quarter-Final of NoPulse Factor #5, streamed by fsm_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691540968&amp;t=3h58m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>350</video:duration>
-    <video:publication_date>2026-02-07T19:59:38.000Z</video:publication_date>
-    <video:uploader>fsm_smash</video:uploader>
-    <video:expiration_date>2026-02-15T19:59:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
