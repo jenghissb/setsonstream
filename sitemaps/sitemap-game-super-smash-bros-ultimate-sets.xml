@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/new-delismash-2/set/99424501/</loc>
-  <lastmod>2026-02-17T20:55:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/new-delismash-2/set/99424516/</loc>
+  <lastmod>2026-02-17T21:37:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,48 +10,96 @@
       https://images.start.gg/images/tournament/880524/image-e39565bca2c9f1a733a03f4dd2923a77.png
     </video:thumbnail_loc>
     <video:title>
-      ES | KID vs TLSE | Julos, New Delismash #2 - Sets on Stream
+      TLSE | TCO | Ganymède vs TCO | ZZ | Elfo, New Delismash #2 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ES | KID vs TLSE | Julos in Winners Semi-Final of New Delismash #2, streamed by toulouselaststock
+      Watch TLSE | TCO | Ganymède vs TCO | ZZ | Elfo in Losers Quarter-Final of New Delismash #2, streamed by toulouselaststock
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700419691&amp;t=2h32m16s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2700419691&amp;t=3h14m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1485</video:duration>
-    <video:publication_date>2026-02-17T20:55:14.000Z</video:publication_date>
+    <video:duration>1072</video:duration>
+    <video:publication_date>2026-02-17T21:37:24.000Z</video:publication_date>
     <video:uploader>toulouselaststock</video:uploader>
-    <video:expiration_date>2026-02-25T20:55:14.000Z</video:expiration_date>
+    <video:expiration_date>2026-02-25T21:37:24.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-230/set/99422652/</loc>
-  <lastmod>2026-02-17T21:00:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/runny-weeklies-147/set/99424003/</loc>
+  <lastmod>2026-02-17T21:50:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881640/image-c8f068b4af036a164fbe68dfcce11791.png
+      https://images.start.gg/images/tournament/880162/image-26dd8ebec990bd6126af976d8472916a.png
     </video:thumbnail_loc>
     <video:title>
-      GCR | Nicooo vs R-B | | Kilo Crimson, Magna Arena #230 - Sets on Stream
+      Majin Jamie vs Starbitster, Runny Weeklies #147 - Sets on Stream
     </video:title>
     <video:description>
-      Watch GCR | Nicooo vs R-B | | Kilo Crimson in Winners Final of Magna Arena #230, streamed by SmashStrasbourg
+      Watch Majin Jamie vs Starbitster in Losers Quarter-Final of Runny Weeklies #147, streamed by RunnyWeeklies
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700423332&amp;t=2h32m35s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2700463507&amp;t=2h21m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1190</video:duration>
-    <video:publication_date>2026-02-17T21:00:09.000Z</video:publication_date>
-    <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2026-02-25T21:00:09.000Z</video:expiration_date>
+    <video:duration>734</video:duration>
+    <video:publication_date>2026-02-17T21:36:32.000Z</video:publication_date>
+    <video:uploader>RunnyWeeklies</video:uploader>
+    <video:expiration_date>2026-02-25T21:36:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/new-delismash-2/set/99424515/</loc>
+  <lastmod>2026-02-17T21:39:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880524/image-e39565bca2c9f1a733a03f4dd2923a77.png
+    </video:thumbnail_loc>
+    <video:title>
+      BG | Kealyr vs ARK | Rafé, New Delismash #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BG | Kealyr vs ARK | Rafé in Losers Round 1 of New Delismash #2, streamed by toulouselaststock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2700419691&amp;t=2h55m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1113</video:duration>
+    <video:publication_date>2026-02-17T21:18:17.000Z</video:publication_date>
+    <video:uploader>toulouselaststock</video:uploader>
+    <video:expiration_date>2026-02-25T21:18:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/runny-weeklies-147/set/99424002/</loc>
+  <lastmod>2026-02-17T21:37:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880162/image-26dd8ebec990bd6126af976d8472916a.png
+    </video:thumbnail_loc>
+    <video:title>
+      GalaxyEJ vs PotFriend, Runny Weeklies #147 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GalaxyEJ vs PotFriend in Losers Quarter-Final of Runny Weeklies #147, streamed by RunnyWeeklies
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2700463507&amp;t=1h55m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1522</video:duration>
+    <video:publication_date>2026-02-17T21:10:52.000Z</video:publication_date>
+    <video:uploader>RunnyWeeklies</video:uploader>
+    <video:expiration_date>2026-02-25T21:10:52.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/runny-weeklies-147/set/99424001/</loc>
-  <lastmod>2026-02-17T21:10:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-17T21:22:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +114,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2700463507&amp;t=1h55m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>562</video:duration>
+    <video:duration>645</video:duration>
     <video:publication_date>2026-02-17T21:10:37.000Z</video:publication_date>
     <video:uploader>RunnyWeeklies</video:uploader>
     <video:expiration_date>2026-02-25T21:10:37.000Z</video:expiration_date>
@@ -94,6 +142,54 @@
     <video:publication_date>2026-02-17T21:01:56.000Z</video:publication_date>
     <video:uploader>RunnyWeeklies</video:uploader>
     <video:expiration_date>2026-02-25T21:01:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-230/set/99422652/</loc>
+  <lastmod>2026-02-17T21:25:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/881640/image-c8f068b4af036a164fbe68dfcce11791.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCR | Nicooo vs R-B | | Kilo Crimson, Magna Arena #230 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCR | Nicooo vs R-B | | Kilo Crimson in Winners Final of Magna Arena #230, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2700423332&amp;t=2h32m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1458</video:duration>
+    <video:publication_date>2026-02-17T21:00:09.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2026-02-25T21:00:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/new-delismash-2/set/99424501/</loc>
+  <lastmod>2026-02-17T21:20:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880524/image-e39565bca2c9f1a733a03f4dd2923a77.png
+    </video:thumbnail_loc>
+    <video:title>
+      ES | KID vs TLSE | Julos, New Delismash #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ES | KID vs TLSE | Julos in Winners Semi-Final of New Delismash #2, streamed by toulouselaststock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2700419691&amp;t=2h32m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1373</video:duration>
+    <video:publication_date>2026-02-17T20:55:14.000Z</video:publication_date>
+    <video:uploader>toulouselaststock</video:uploader>
+    <video:expiration_date>2026-02-25T20:55:14.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71902,102 +71998,6 @@
     <video:publication_date>2026-02-08T04:19:19.000Z</video:publication_date>
     <video:uploader>collisionSeriesTV</video:uploader>
     <video:expiration_date>2026-02-16T04:19:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/patio-indi-reborn/set/99115367/</loc>
-  <lastmod>2026-02-08T04:33:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876722/image-39e3ebae34a81a46e1ecb6e7a1188fe1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DM/SUN/ML | Blues vs ECW | El Claud, PATIO INDI REBORN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DM/SUN/ML | Blues vs ECW | El Claud in Winners Semi-Final of PATIO INDI REBORN, streamed by smashmochis
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2692065184&amp;t=1h37m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>671</video:duration>
-    <video:publication_date>2026-02-08T04:19:09.000Z</video:publication_date>
-    <video:uploader>smashmochis</video:uploader>
-    <video:expiration_date>2026-02-16T04:19:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/slo-smash-arcadian-winter-2026/set/99109615/</loc>
-  <lastmod>2026-02-08T04:39:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868738/image-1f78311f90f6de1801339156cf1d987a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      hunchywunchy:3 vs dub, SLO Smash Arcadian: Winter 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch hunchywunchy:3 vs dub in Grand Final of SLO Smash Arcadian: Winter 2026, streamed by slosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691872779&amp;t=5h42m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>919</video:duration>
-    <video:publication_date>2026-02-08T04:19:07.000Z</video:publication_date>
-    <video:uploader>slosmash</video:uploader>
-    <video:expiration_date>2026-02-16T04:19:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mash-harder-14/set/99111453/</loc>
-  <lastmod>2026-02-08T04:31:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867362/image-16c97c531ae3173657f1e3ab4858188c.png
-    </video:thumbnail_loc>
-    <video:title>
-      FzP | BeatyBean vs SOUP-E | GRIT, Mash Harder 14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FzP | BeatyBean vs SOUP-E | GRIT in Losers Quarter-Final of Mash Harder 14, streamed by jacqinora
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691779855&amp;t=7h31m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>826</video:duration>
-    <video:publication_date>2026-02-08T04:14:19.000Z</video:publication_date>
-    <video:uploader>jacqinora</video:uploader>
-    <video:expiration_date>2026-02-16T04:14:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/1er-clasificatorio-liga-de-invierno-2026/set/99117990/</loc>
-  <lastmod>2026-02-08T04:29:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870445/image-d8c29784b41d6446f952e3d108d9b542.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      LW / TG | 0zwA vs Mayuri, 1er Clasificatorio / Liga de Invierno 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LW / TG | 0zwA vs Mayuri in Round 6 of 1er Clasificatorio / Liga de Invierno 2026, streamed by el_sumidero_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2692082058&amp;t=1h9m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>762</video:duration>
-    <video:publication_date>2026-02-08T04:13:43.000Z</video:publication_date>
-    <video:uploader>el_sumidero_</video:uploader>
-    <video:expiration_date>2026-02-16T04:13:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
