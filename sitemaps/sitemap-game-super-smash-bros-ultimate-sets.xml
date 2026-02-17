@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-256/set/99419118/</loc>
+  <lastmod>2026-02-17T11:02:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      FP | pinky vs Con_Gaming, WeeklyVac #256 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FP | pinky vs Con_Gaming in Losers Semi-Final of WeeklyVac #256, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2700104887&amp;t=2h22m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1732</video:duration>
+    <video:publication_date>2026-02-17T10:32:22.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2026-02-25T10:32:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-255-1/set/99412524/</loc>
   <lastmod>2026-02-17T05:28:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-08T02:54:24.000Z</video:publication_date>
     <video:uploader>jacqinora</video:uploader>
     <video:expiration_date>2026-02-16T02:54:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/st-jean-cup-s7-e1-2/set/99111024/</loc>
-  <lastmod>2026-02-08T03:07:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871915/image-b9ef02167893158579cd044431ca7947.png
-    </video:thumbnail_loc>
-    <video:title>
-      Z vs Exo | juste_Sam, St-Jean Cup S7 E1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Z vs Exo | juste_Sam in Losers Final of St-Jean Cup S7 E1, streamed by exoga_sjc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691928863&amp;t=3h0m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>783</video:duration>
-    <video:publication_date>2026-02-08T02:51:30.000Z</video:publication_date>
-    <video:uploader>exoga_sjc</video:uploader>
-    <video:expiration_date>2026-02-16T02:51:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
