@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-221/set/99444413/</loc>
+  <lastmod>2026-02-18T13:17:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880735/image-05c0fc252263f8184cd19cedab94206d.png
+    </video:thumbnail_loc>
+    <video:title>
+      MRG | Umeki vs Noi, Weekly Smash Party ～スマパ～ #221 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MRG | Umeki vs Noi in Grand Final of Weekly Smash Party ～スマパ～ #221, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/mClfNr7dFzM?start=10498s
+    </video:player_loc>
+    <video:duration>1101</video:duration>
+    <video:publication_date>2026-02-18T12:57:34.000Z</video:publication_date>
+    <video:uploader>East Geek Smash</video:uploader>
+    <video:expiration_date>2026-02-26T12:57:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-221/set/99444540/</loc>
-  <lastmod>2026-02-18T12:46:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-18T12:58:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/mClfNr7dFzM?start=9852s
     </video:player_loc>
-    <video:duration>543</video:duration>
+    <video:duration>628</video:duration>
     <video:publication_date>2026-02-18T12:46:48.000Z</video:publication_date>
     <video:uploader>East Geek Smash</video:uploader>
     <video:expiration_date>2026-02-26T12:46:48.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-08T18:08:13.000Z</video:publication_date>
     <video:uploader>dashdances</video:uploader>
     <video:expiration_date>2026-02-16T18:08:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-smash-unicorn-15/set/99126923/</loc>
-  <lastmod>2026-02-08T18:21:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874551/image-c7c76e32eda8bf97c8c088549a78182f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      KY | PP | Marco vs RC | ZeAx Phenix, The Smash Unicorn#15 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KY | PP | Marco vs RC | ZeAx Phenix in Losers Round 3 of The Smash Unicorn#15, streamed by PhenixPhoceen
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2692577285&amp;t=0h11m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>745</video:duration>
-    <video:publication_date>2026-02-08T18:05:18.000Z</video:publication_date>
-    <video:uploader>PhenixPhoceen</video:uploader>
-    <video:expiration_date>2026-02-16T18:05:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
