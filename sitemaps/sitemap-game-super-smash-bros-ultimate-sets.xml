@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-150/set/99441235/</loc>
+  <lastmod>2026-02-18T08:34:38.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/881968/image-0cb4fb16f77b0c09102c10f489650593.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Raiyihn vs LBS | ditto, Octagon #150 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Raiyihn vs LBS | ditto in Grand Final of Octagon #150, streamed by satellitesmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=satellitesmash&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2234</video:duration>
+    <video:publication_date>2026-02-18T08:34:38.000Z</video:publication_date>
+    <video:uploader>satellitesmash</video:uploader>
+    <video:expiration_date>2026-02-26T08:34:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-183-year-of-the-blazing-hoof/set/99443374/</loc>
   <lastmod>2026-02-18T08:06:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-08T16:53:58.000Z</video:publication_date>
     <video:uploader>Cycom</video:uploader>
     <video:expiration_date>2026-02-16T16:53:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/stationslam-ultimate-02-2026/set/99124115/</loc>
-  <lastmod>2026-02-08T17:06:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870677/image-cb7ce0695d020b654b90614025841b93.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bartho vs CRC/SL | DouDou, StationSlam Ultimate 02.2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bartho vs CRC/SL | DouDou in Losers Final of StationSlam Ultimate 02.2026, streamed by TeamAskalonn
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2692326535&amp;t=5h25m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>644</video:duration>
-    <video:publication_date>2026-02-08T16:52:54.000Z</video:publication_date>
-    <video:uploader>TeamAskalonn</video:uploader>
-    <video:expiration_date>2026-02-16T16:52:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
