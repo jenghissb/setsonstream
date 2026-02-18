@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-215/set/99426559/</loc>
+  <lastmod>2026-02-17T23:44:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880417/image-a816856588afac79f97a6ab7f46f876a.png
+    </video:thumbnail_loc>
+    <video:title>
+      soh vs BBC | Mitsuki, Le Hub 215 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch soh vs BBC | Mitsuki in Winners Quarter-Final of Le Hub 215, streamed by Smash New Brunswick
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/6nRuzE4oZCE?start=8588s
+    </video:player_loc>
+    <video:duration>852</video:duration>
+    <video:publication_date>2026-02-17T23:28:40.000Z</video:publication_date>
+    <video:uploader>Smash New Brunswick</video:uploader>
+    <video:expiration_date>2026-02-25T23:28:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/le-hub-215/set/99426561/</loc>
   <lastmod>2026-02-17T23:16:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-08T10:24:17.000Z</video:publication_date>
     <video:uploader>TeamAskalonn</video:uploader>
     <video:expiration_date>2026-02-16T10:24:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-star-allies-3/set/99120729/</loc>
-  <lastmod>2026-02-08T10:44:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/857633/image-7f3f21aef4700e1268a4aab21f27c5ab.png
-    </video:thumbnail_loc>
-    <video:title>
-      Très vilain | Monsieur meringue vs Draco, The Star Allies 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Très vilain | Monsieur meringue vs Draco in Winners Round 2 of The Star Allies 3, streamed by dashdances
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2692284696&amp;t=0h30m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1542</video:duration>
-    <video:publication_date>2026-02-08T10:17:16.000Z</video:publication_date>
-    <video:uploader>dashdances</video:uploader>
-    <video:expiration_date>2026-02-16T10:17:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
