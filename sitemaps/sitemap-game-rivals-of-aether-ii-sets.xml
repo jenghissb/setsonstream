@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-64/set/99456486/</loc>
+  <lastmod>2026-02-18T23:23:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882249/image-e13eedabbbffcb7a922211ba0968e945.png
+    </video:thumbnail_loc>
+    <video:title>
+      Arepa vs TBZ | ManNeeTee12, CU in Bracket 64 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Arepa vs TBZ | ManNeeTee12 in Round 3 of CU in Bracket 64, streamed by topblastzoneny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2701477104&amp;t=0h29m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1131</video:duration>
+    <video:publication_date>2026-02-18T23:00:20.000Z</video:publication_date>
+    <video:uploader>topblastzoneny</video:uploader>
+    <video:expiration_date>2026-02-26T23:00:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/cu-in-bracket-64/set/99456484/</loc>
-  <lastmod>2026-02-18T22:41:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-18T23:00:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2701477104&amp;t=0h10m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1209</video:duration>
+    <video:duration>1110</video:duration>
     <video:publication_date>2026-02-18T22:41:46.000Z</video:publication_date>
     <video:uploader>topblastzoneny</video:uploader>
     <video:expiration_date>2026-02-26T22:41:46.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-30T04:02:03.000Z</video:publication_date>
     <video:uploader>PenguinosBC</video:uploader>
     <video:expiration_date>2026-02-07T04:02:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-55-1/set/98722931/</loc>
-  <lastmod>2026-01-30T04:28:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874343/image-cae99795e730663c60c97747b3a51531.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dox vs AZ | Mozzarella, Wasteland Warriors #55 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dox vs AZ | Mozzarella in Losers Semi-Final of Wasteland Warriors #55, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2683920101&amp;t=2h30m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>913</video:duration>
-    <video:publication_date>2026-01-30T04:01:49.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2026-02-07T04:01:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
