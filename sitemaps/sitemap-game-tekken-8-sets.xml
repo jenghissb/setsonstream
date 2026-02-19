@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-29/set/99488254/</loc>
-  <lastmod>2026-02-19T20:11:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-29/set/99488259/</loc>
+  <lastmod>2026-02-19T20:53:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873111/image-64572ffff678c176eb605702f0650bf8.png
+    </video:thumbnail_loc>
+    <video:title>
+      CloudT7 vs PhantomWebAman, Black Country Foundry #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CloudT7 vs PhantomWebAman in Winners Semi-Final of Black Country Foundry #29, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2702154968&amp;t=2h20m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>332</video:duration>
+    <video:publication_date>2026-02-19T20:53:48.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2026-02-27T20:53:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-29/set/99488254/</loc>
+  <lastmod>2026-02-19T20:42:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2702154968&amp;t=1h38m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1013</video:duration>
+    <video:duration>1651</video:duration>
     <video:publication_date>2026-02-19T20:11:31.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2026-02-27T20:11:31.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-29/set/99487294/</loc>
-  <lastmod>2026-02-19T19:57:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-19T20:29:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2702154968&amp;t=1h24m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1866</video:duration>
+    <video:duration>1556</video:duration>
     <video:publication_date>2026-02-19T19:57:18.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2026-02-27T19:57:18.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-03T02:43:32.000Z</video:publication_date>
     <video:uploader>KhanmandoFGC</video:uploader>
     <video:expiration_date>2026-02-11T02:43:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-420/set/98923047/</loc>
-  <lastmod>2026-02-03T03:04:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874944/image-783a23fe29986919581b68ae08e3a865.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TS | | Bean vs GIN | puppetman36, Downtown Throwdown #420 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TS | | Bean vs GIN | puppetman36 in Winners Round 1 of Downtown Throwdown #420, streamed by Khanmando
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2687513616&amp;t=2h42m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>359</video:duration>
-    <video:publication_date>2026-02-03T02:43:25.000Z</video:publication_date>
-    <video:uploader>Khanmando</video:uploader>
-    <video:expiration_date>2026-02-11T02:43:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
