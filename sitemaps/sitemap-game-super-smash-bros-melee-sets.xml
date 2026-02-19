@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fighting-thursday-melee-33/set/99481718/</loc>
+  <lastmod>2026-02-19T17:46:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882064/image-1881d9eee892eed4cdb49ea700aa63a8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lange Bro vs pin, Fighting Thursday: Melee #33 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lange Bro vs pin in Winners Round 1 of Fighting Thursday: Melee #33, streamed by cphFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2702095993&amp;t=0h12m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>510</video:duration>
+    <video:publication_date>2026-02-19T17:27:32.000Z</video:publication_date>
+    <video:uploader>cphFGC</video:uploader>
+    <video:expiration_date>2026-02-27T17:27:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nycmelee-s-stock-exchange-37-genesis-goers-banned-to-prevent-sickness/set/99472032/</loc>
   <lastmod>2026-02-19T05:26:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-01-30T04:45:41.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-02-07T04:45:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-132/set/98728900/</loc>
-  <lastmod>2026-01-30T04:56:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874746/image-cf7d4366a9ab47f463d9c3ea7a089161.png
-    </video:thumbnail_loc>
-    <video:title>
-      ABG | Zeo vs GS | SubTails, Rage Against the CRT #132 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ABG | Zeo vs GS | SubTails in Winners Semi-Final of Rage Against the CRT #132, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2683999625&amp;t=1h23m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1009</video:duration>
-    <video:publication_date>2026-01-30T04:35:17.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2026-02-07T04:35:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
