@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-29/set/99488258/</loc>
+  <lastmod>2026-02-19T21:19:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873111/image-64572ffff678c176eb605702f0650bf8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ayorichie vs cupofnoodles, Black Country Foundry #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ayorichie vs cupofnoodles in Winners Semi-Final of Black Country Foundry #29, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2702154968&amp;t=2h31m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>446</video:duration>
+    <video:publication_date>2026-02-19T21:04:44.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2026-02-27T21:04:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-29/set/99488259/</loc>
-  <lastmod>2026-02-19T20:53:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-19T21:07:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2702154968&amp;t=2h20m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>332</video:duration>
+    <video:duration>592</video:duration>
     <video:publication_date>2026-02-19T20:53:48.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2026-02-27T20:53:48.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-03T03:16:37.000Z</video:publication_date>
     <video:uploader>KhanmandoFGC</video:uploader>
     <video:expiration_date>2026-02-11T03:16:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-420/set/98923045/</loc>
-  <lastmod>2026-02-03T03:04:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874944/image-783a23fe29986919581b68ae08e3a865.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TS | GIN | | O.T.K. vs Ipressthebuttons, Downtown Throwdown #420 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TS | GIN | | O.T.K. vs Ipressthebuttons in Winners Round 1 of Downtown Throwdown #420, streamed by KhanmandoFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2687553765&amp;t=1h53m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>399</video:duration>
-    <video:publication_date>2026-02-03T02:43:32.000Z</video:publication_date>
-    <video:uploader>KhanmandoFGC</video:uploader>
-    <video:expiration_date>2026-02-11T02:43:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
