@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99523015/</loc>
-  <lastmod>2026-02-20T23:00:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99522953/</loc>
+  <lastmod>2026-02-20T23:30:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877273/image-a0daf2e26abfe29f93562fae1802c832.png
+    </video:thumbnail_loc>
+    <video:title>
+      4Qs | StandingHereIRealize vs Silas, Front Runners #37 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 4Qs | StandingHereIRealize vs Silas in Grand Final of Front Runners #37, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703090542&amp;t=3h41m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1299</video:duration>
+    <video:publication_date>2026-02-20T23:30:25.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2026-02-28T23:30:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99523015/</loc>
+  <lastmod>2026-02-20T23:29:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2703090542&amp;t=3h11m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1508</video:duration>
+    <video:duration>1726</video:duration>
     <video:publication_date>2026-02-20T23:00:35.000Z</video:publication_date>
     <video:uploader>PhoenixSmash</video:uploader>
     <video:expiration_date>2026-02-28T23:00:35.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-01T01:13:14.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
     <video:expiration_date>2026-02-09T01:13:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lra-start-27-ba-start-arcade-and-taproom/set/98848997/</loc>
-  <lastmod>2026-02-01T01:41:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868012/image-bbc5202a80e5afcfb76db46356b80a78.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tuck Dynasty vs BIG | Luski, LRA Start #27 @ BA Start Arcade and Taproom - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tuck Dynasty vs BIG | Luski in Losers Quarter-Final of LRA Start #27 @ BA Start Arcade and Taproom, streamed by slomelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2685661632&amp;t=2h15m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1269</video:duration>
-    <video:publication_date>2026-02-01T01:03:44.000Z</video:publication_date>
-    <video:uploader>slomelee</video:uploader>
-    <video:expiration_date>2026-02-09T01:03:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
