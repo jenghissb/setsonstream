@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-198-norcal-street-fighter-6-weekly/set/99508663/</loc>
+  <lastmod>2026-02-20T03:49:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/881467/image-a4ad760c940bb46ff91969200f130ece.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Mgwa123 vs Ryze, Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mgwa123 vs Ryze in Winners Round 1 of Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2702588705&amp;t=0h6m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>802</video:duration>
+    <video:publication_date>2026-02-20T03:49:53.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2026-02-28T03:49:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-109/set/99480091/</loc>
   <lastmod>2026-02-19T12:55:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-03T02:36:38.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
     <video:expiration_date>2026-02-11T02:36:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/esg-fight-night-237/set/98921401/</loc>
-  <lastmod>2026-02-03T02:41:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867053/image-6439d94efccfe55799ef7aa779212eaa.png
-    </video:thumbnail_loc>
-    <video:title>
-      Alpha Kong vs ESG | HOJU, ESG Fight Night #237 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Alpha Kong vs ESG | HOJU in Winners Final of ESG Fight Night #237, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2687493210&amp;t=2h41m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>530</video:duration>
-    <video:publication_date>2026-02-03T02:17:20.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2026-02-11T02:17:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
