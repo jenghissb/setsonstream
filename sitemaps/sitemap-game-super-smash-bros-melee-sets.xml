@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99522947/</loc>
-  <lastmod>2026-02-20T20:59:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99522950/</loc>
+  <lastmod>2026-02-20T21:37:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877273/image-a0daf2e26abfe29f93562fae1802c832.png
+    </video:thumbnail_loc>
+    <video:title>
+      Laurster vs Silas, Front Runners #37 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Laurster vs Silas in Winners Semi-Final of Front Runners #37, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703090542&amp;t=1h48m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>719</video:duration>
+    <video:publication_date>2026-02-20T21:37:37.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2026-02-28T21:37:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99522947/</loc>
+  <lastmod>2026-02-20T21:33:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,12 +40,12 @@
       Watch Silas vs Kidder in Winners Quarter-Final of Front Runners #37, streamed by PhoenixSmash
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703090542&amp;t=1h10m35s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2703090542&amp;t=1h25m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1300</video:duration>
-    <video:publication_date>2026-02-20T20:59:36.000Z</video:publication_date>
+    <video:duration>611</video:duration>
+    <video:publication_date>2026-02-20T21:14:45.000Z</video:publication_date>
     <video:uploader>PhoenixSmash</video:uploader>
-    <video:expiration_date>2026-02-28T20:59:36.000Z</video:expiration_date>
+    <video:expiration_date>2026-02-28T21:14:45.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-01T00:30:37.000Z</video:publication_date>
     <video:uploader>SatelliteMelee</video:uploader>
     <video:expiration_date>2026-02-09T00:30:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-2026-pnw-melee-arcadian/set/98845498/</loc>
-  <lastmod>2026-02-01T00:46:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/858731/image-4ccc1d863cd6fab029c45976542d4fbc.png
-    </video:thumbnail_loc>
-    <video:title>
-      TheKibk vs Clem, The 2026 PNW Melee Arcadian - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TheKibk vs Clem in Winners Semi-Final of The 2026 PNW Melee Arcadian, streamed by SatelliteMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2685483306&amp;t=4h56m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>612</video:duration>
-    <video:publication_date>2026-02-01T00:19:52.000Z</video:publication_date>
-    <video:uploader>SatelliteMelee</video:uploader>
-    <video:expiration_date>2026-02-09T00:19:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
