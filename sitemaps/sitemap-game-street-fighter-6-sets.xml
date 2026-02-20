@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-198-norcal-street-fighter-6-weekly/set/99508690/</loc>
+  <lastmod>2026-02-20T06:23:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/881467/image-a4ad760c940bb46ff91969200f130ece.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | chumpslayer vs Quasont, Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | chumpslayer vs Quasont in Grand Final Reset of Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2702588705&amp;t=2h25m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>505</video:duration>
+    <video:publication_date>2026-02-20T06:08:49.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2026-02-28T06:08:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-198-norcal-street-fighter-6-weekly/set/99508689/</loc>
-  <lastmod>2026-02-20T06:00:30.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-20T06:14:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2702588705&amp;t=2h16m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>829</video:duration>
+    <video:duration>490</video:duration>
     <video:publication_date>2026-02-20T06:00:30.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-02-28T06:00:30.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-04T01:51:30.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-02-12T01:51:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-138/set/98937033/</loc>
-  <lastmod>2026-02-04T02:05:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877217/image-b5607fdcbb5137cb3420edcd945fc6f2.png
-    </video:thumbnail_loc>
-    <video:title>
-      CT3 | T3 vs Stuffs, HoG: Dragon #138 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CT3 | T3 vs Stuffs in Losers Final of HoG: Dragon #138, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688394498&amp;t=1h20m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>545</video:duration>
-    <video:publication_date>2026-02-04T01:49:25.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-12T01:49:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
