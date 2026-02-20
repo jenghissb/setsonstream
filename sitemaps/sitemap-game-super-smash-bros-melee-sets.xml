@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99522949/</loc>
-  <lastmod>2026-02-20T20:47:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99522947/</loc>
+  <lastmod>2026-02-20T20:59:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877273/image-a0daf2e26abfe29f93562fae1802c832.png
+    </video:thumbnail_loc>
+    <video:title>
+      Silas vs Kidder, Front Runners #37 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Silas vs Kidder in Winners Quarter-Final of Front Runners #37, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703090542&amp;t=1h10m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1300</video:duration>
+    <video:publication_date>2026-02-20T20:59:36.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2026-02-28T20:59:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-37/set/99522949/</loc>
+  <lastmod>2026-02-20T21:05:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2703090542&amp;t=0h58m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>416</video:duration>
+    <video:duration>680</video:duration>
     <video:publication_date>2026-02-20T20:47:57.000Z</video:publication_date>
     <video:uploader>PhoenixSmash</video:uploader>
     <video:expiration_date>2026-02-28T20:47:57.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-01T00:19:52.000Z</video:publication_date>
     <video:uploader>SatelliteMelee</video:uploader>
     <video:expiration_date>2026-02-09T00:19:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lra-start-27-ba-start-arcade-and-taproom/set/98848935/</loc>
-  <lastmod>2026-02-01T00:46:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868012/image-bbc5202a80e5afcfb76db46356b80a78.png
-    </video:thumbnail_loc>
-    <video:title>
-      deluxe vs Tuck Dynasty, LRA Start #27 @ BA Start Arcade and Taproom - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch deluxe vs Tuck Dynasty in Winners Semi-Final of LRA Start #27 @ BA Start Arcade and Taproom, streamed by slomelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2685661632&amp;t=1h29m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>858</video:duration>
-    <video:publication_date>2026-02-01T00:17:28.000Z</video:publication_date>
-    <video:uploader>slomelee</video:uploader>
-    <video:expiration_date>2026-02-09T00:17:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
