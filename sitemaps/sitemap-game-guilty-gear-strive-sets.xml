@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/assymylly-winter-2026/set/99519040/</loc>
+  <lastmod>2026-02-20T19:31:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
+    </video:thumbnail_loc>
+    <video:title>
+      MaunuriMaksaa | tomi vs Shady, Assymylly Winter 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MaunuriMaksaa | tomi vs Shady in Losers Quarter-Final of Assymylly Winter 2026, streamed by assymylly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703036712&amp;t=0h44m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1340</video:duration>
+    <video:publication_date>2026-02-20T19:31:01.000Z</video:publication_date>
+    <video:uploader>assymylly</video:uploader>
+    <video:expiration_date>2026-02-28T19:31:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/assymylly-winter-2026/set/99519025/</loc>
   <lastmod>2026-02-20T19:22:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-01-31T05:01:27.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2026-02-08T05:01:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-142/set/98772531/</loc>
-  <lastmod>2026-01-31T01:53:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/875538/image-fcaf65bf341e83170aa85ac6732d5d09.png
-    </video:thumbnail_loc>
-    <video:title>
-      MLGF vs Nannerb, HoG: Moonlight #142 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MLGF vs Nannerb in Losers Semi-Final of HoG: Moonlight #142, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2684757951&amp;t=1h4m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>543</video:duration>
-    <video:publication_date>2026-01-31T01:29:58.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-08T01:29:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
