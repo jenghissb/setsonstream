@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/assymylly-winter-2026/set/99570217/</loc>
-  <lastmod>2026-02-21T11:01:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/assymylly-winter-2026/set/99570230/</loc>
+  <lastmod>2026-02-21T11:29:52.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
+    </video:thumbnail_loc>
+    <video:title>
+      RVA | Yonzai vs Shoeske, Assymylly Winter 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RVA | Yonzai vs Shoeske in Winners Quarter-Final of Assymylly Winter 2026, streamed by hfgcry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703672819&amp;t=0h38m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>932</video:duration>
+    <video:publication_date>2026-02-21T11:29:52.000Z</video:publication_date>
+    <video:uploader>hfgcry</video:uploader>
+    <video:expiration_date>2026-03-01T11:29:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/assymylly-winter-2026/set/99570217/</loc>
+  <lastmod>2026-02-21T11:23:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2703672819&amp;t=0h10m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1102</video:duration>
+    <video:duration>591</video:duration>
     <video:publication_date>2026-02-21T11:01:31.000Z</video:publication_date>
     <video:uploader>hfgcry</video:uploader>
     <video:expiration_date>2026-03-01T11:01:31.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-04T02:54:25.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-02-12T02:54:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-226-there-s-been-a-birthday-mx-up/set/98934638/</loc>
-  <lastmod>2026-02-04T02:58:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874887/image-b724ba708f66a5548b7eaefaf8faf176.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | GalaxyBrAn vs Black-Ice-, CFG Tuesday Trials 226: There&apos;s Been a Birthday Mx. Up! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | GalaxyBrAn vs Black-Ice- in Grand Final Reset of CFG Tuesday Trials 226: There&apos;s Been a Birthday Mx. Up!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688348824&amp;t=3h7m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>584</video:duration>
-    <video:publication_date>2026-02-04T02:40:11.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-02-12T02:40:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
