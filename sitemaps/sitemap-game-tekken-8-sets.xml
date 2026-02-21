@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-46/set/99602280/</loc>
-  <lastmod>2026-02-21T21:57:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873846/image-7e28c1795170d12b564d885396427513.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BtB | DWIN vs TRUE | DaKinG, Just Us Baddies 46 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BtB | DWIN vs TRUE | DaKinG in Losers Round 3 of Just Us Baddies 46, streamed by FXGames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704049083&amp;t=1h57m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1751</video:duration>
-    <video:publication_date>2026-02-21T21:57:36.000Z</video:publication_date>
-    <video:uploader>FXGames_gg</video:uploader>
-    <video:expiration_date>2026-03-01T21:57:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/toronto-tekken-championships-our-twt2025-toronto-finals-champion/set/99609414/</loc>
-  <lastmod>2026-02-21T22:04:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-21T22:33:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2704045401&amp;t=2h6m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1365</video:duration>
+    <video:duration>1212</video:duration>
     <video:publication_date>2026-02-21T22:04:02.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2026-03-01T22:04:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-46/set/99602280/</loc>
+  <lastmod>2026-02-21T22:33:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873846/image-7e28c1795170d12b564d885396427513.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BtB | DWIN vs TRUE | DaKinG, Just Us Baddies 46 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BtB | DWIN vs TRUE | DaKinG in Losers Round 3 of Just Us Baddies 46, streamed by FXGames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2704049083&amp;t=1h57m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>861</video:duration>
+    <video:publication_date>2026-02-21T21:57:36.000Z</video:publication_date>
+    <video:uploader>FXGames_gg</video:uploader>
+    <video:expiration_date>2026-03-01T21:57:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
