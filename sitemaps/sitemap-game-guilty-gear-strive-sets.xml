@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-esg-monthly-44-the-fgc-event/set/99609020/</loc>
+  <lastmod>2026-02-21T21:31:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876991/image-817aa2892b58711fcc4b633356003790.png
+    </video:thumbnail_loc>
+    <video:title>
+      CRAB | IceCar78 vs SLG | MiggityMack, The ESG Monthly #44: The FGC Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CRAB | IceCar78 vs SLG | MiggityMack in Winners Round 2 of The ESG Monthly #44: The FGC Event, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2704017983&amp;t=2h4m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>889</video:duration>
+    <video:publication_date>2026-02-21T21:31:36.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-03-01T21:31:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bundesbattle-2025-finals/set/99583554/</loc>
   <lastmod>2026-02-21T16:19:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-05T05:24:38.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-02-13T05:24:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/smash-mizzou-176/set/98942348/</loc>
-  <lastmod>2026-02-04T04:18:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877209/image-10485c023794a7af66b3e1f4b36c6adf.png
-    </video:thumbnail_loc>
-    <video:title>
-      MM | Shmurtle vs COMO | Env3lop, Smash @ Mizzou 176 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MM | Shmurtle vs COMO | Env3lop in Grand Final Reset of Smash @ Mizzou 176, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688394154&amp;t=3h35m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>253</video:duration>
-    <video:publication_date>2026-02-04T04:03:38.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-02-12T04:03:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
