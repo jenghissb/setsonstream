@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/get-to-the-top-3/set/99586565/</loc>
+  <lastmod>2026-02-21T18:10:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/855848/image-9aba32610c3826952393a2a38fedab4d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Rat | Yxo vs Nemouik, GET TO THE TOP! 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rat | Yxo vs Nemouik in Grand Final of GET TO THE TOP! 3, streamed by DucEsport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703897932&amp;t=0h49m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>368</video:duration>
+    <video:publication_date>2026-02-21T17:54:33.000Z</video:publication_date>
+    <video:uploader>DucEsport</video:uploader>
+    <video:expiration_date>2026-03-01T17:54:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/get-to-the-top-3/set/99586564/</loc>
-  <lastmod>2026-02-21T17:37:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-21T17:56:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2703897932&amp;t=0h32m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>788</video:duration>
+    <video:duration>440</video:duration>
     <video:publication_date>2026-02-21T17:37:46.000Z</video:publication_date>
     <video:uploader>DucEsport</video:uploader>
     <video:expiration_date>2026-03-01T17:37:46.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-01-10T21:04:04.000Z</video:publication_date>
     <video:uploader>quickdrawbrawl</video:uploader>
     <video:expiration_date>2026-01-18T21:04:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/quickdraw-brawl-52/set/98035436/</loc>
-  <lastmod>2026-01-10T21:08:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865404/image-f0a6286662d583782ef66e6172624564.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Proteus vs Crimzonblu, Quickdraw Brawl 52 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Proteus vs Crimzonblu in Losers Final of Quickdraw Brawl 52, streamed by quickdrawbrawl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2666497045&amp;t=1h1m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>714</video:duration>
-    <video:publication_date>2026-01-10T20:51:15.000Z</video:publication_date>
-    <video:uploader>quickdrawbrawl</video:uploader>
-    <video:expiration_date>2026-01-18T20:51:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
