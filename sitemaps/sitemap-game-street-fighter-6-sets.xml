@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-4/set/99573699/</loc>
+  <lastmod>2026-02-21T13:59:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874937/image-157a1d6a031f03e41163e4b4d7f82a70.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rafael vs ilypo, Fight-or-Fright! #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rafael vs ilypo in Winners Semi-Final of Fight-or-Fright! #4, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703712231&amp;t=1h21m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>562</video:duration>
+    <video:publication_date>2026-02-21T13:38:09.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-01T13:38:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-4/set/99573698/</loc>
-  <lastmod>2026-02-21T13:25:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-21T13:43:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2703712231&amp;t=1h8m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>358</video:duration>
+    <video:duration>763</video:duration>
     <video:publication_date>2026-02-21T13:25:10.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-01T13:25:10.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-04T05:09:26.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-02-12T05:09:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-17-biweekly-fighting-game-tournament-los-angeles/set/98948318/</loc>
-  <lastmod>2026-02-04T05:11:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874786/image-cc0813f0dfe0c1a1c7f2597402c2e7ba.png
-    </video:thumbnail_loc>
-    <video:title>
-      Samaro vs Serazale, DOWN BACK TUESDAYS @ MAMA LION #17 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Samaro vs Serazale in Winners Semi-Final of DOWN BACK TUESDAYS @ MAMA LION #17 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688567427&amp;t=0h46m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>250</video:duration>
-    <video:publication_date>2026-02-04T05:00:52.000Z</video:publication_date>
-    <video:uploader>DownBackClub</video:uploader>
-    <video:expiration_date>2026-02-12T05:00:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
