@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/aya-6/set/99566206/</loc>
+  <lastmod>2026-02-21T09:50:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869846/image-3e7be6d421e7ef9b5e2887b66f8dbfba.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GLORY | ケンチー(GLORY | kenchii) vs ヨピ(yopi), 彩-aya- #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GLORY | ケンチー(GLORY | kenchii) vs ヨピ(yopi) in Grand Final of 彩-aya- #6, streamed by 彩-aya-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/6MZdgUhfqHM?start=10780s
+    </video:player_loc>
+    <video:duration>1081</video:duration>
+    <video:publication_date>2026-02-21T09:32:08.000Z</video:publication_date>
+    <video:uploader>彩-aya-</video:uploader>
+    <video:expiration_date>2026-03-01T09:32:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/aya-6/set/99566269/</loc>
-  <lastmod>2026-02-21T09:22:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-21T09:34:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/6MZdgUhfqHM?start=10205s
     </video:player_loc>
-    <video:duration>239</video:duration>
+    <video:duration>569</video:duration>
     <video:publication_date>2026-02-21T09:22:33.000Z</video:publication_date>
     <video:uploader>彩-aya-</video:uploader>
     <video:expiration_date>2026-03-01T09:22:33.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-13T02:04:56.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-02-21T02:04:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/foco-ultimate-weekly-418/set/99255184/</loc>
-  <lastmod>2026-02-13T02:22:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880134/image-61995ac38bfdaacadf854c4d167c5bdc.png
-    </video:thumbnail_loc>
-    <video:title>
-      ME | Ethan vs Soup | radnarly, FoCo Ultimate Weekly #418 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ME | Ethan vs Soup | radnarly in Winners Round 1 of FoCo Ultimate Weekly #418, streamed by cosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2696262781&amp;t=1h6m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>770</video:duration>
-    <video:publication_date>2026-02-13T02:04:51.000Z</video:publication_date>
-    <video:uploader>cosmash</video:uploader>
-    <video:expiration_date>2026-02-21T02:04:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
