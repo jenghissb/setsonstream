@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99595758/</loc>
-  <lastmod>2026-02-21T19:46:38.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99595761/</loc>
+  <lastmod>2026-02-21T20:04:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863144/image-c3ede971e1d475c05b4c9b1285cc47fb.png
+    </video:thumbnail_loc>
+    <video:title>
+      AoC | Guthix vs Genarog, ARRIVAL 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AoC | Guthix vs Genarog in Losers Quarter-Final of ARRIVAL 4, streamed by focus_miss
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703667333&amp;t=9h28m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>945</video:duration>
+    <video:publication_date>2026-02-21T20:04:57.000Z</video:publication_date>
+    <video:uploader>focus_miss</video:uploader>
+    <video:expiration_date>2026-03-01T20:04:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99595758/</loc>
+  <lastmod>2026-02-21T20:09:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2703667333&amp;t=9h9m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>508</video:duration>
+    <video:duration>648</video:duration>
     <video:publication_date>2026-02-21T19:46:38.000Z</video:publication_date>
     <video:uploader>focus_miss</video:uploader>
     <video:expiration_date>2026-03-01T19:46:38.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-07T03:56:16.000Z</video:publication_date>
     <video:uploader>Colorado_ROA</video:uploader>
     <video:expiration_date>2026-02-15T03:56:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-215/set/99034549/</loc>
-  <lastmod>2026-02-07T03:27:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877306/image-15d4c6e16325c0340d540061c207f34f.png
-    </video:thumbnail_loc>
-    <video:title>
-      POOKIE | bong deepthroater vs POOKIE | Ham Sandwich, Smash Night at Prodigy #215 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch POOKIE | bong deepthroater vs POOKIE | Ham Sandwich in Round 6 of Smash Night at Prodigy #215, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691020203&amp;t=2h14m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>710</video:duration>
-    <video:publication_date>2026-02-07T03:06:53.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-02-15T03:06:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
