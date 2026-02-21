@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99574403/</loc>
-  <lastmod>2026-02-21T14:51:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99580175/</loc>
+  <lastmod>2026-02-21T15:17:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863144/image-c3ede971e1d475c05b4c9b1285cc47fb.png
+    </video:thumbnail_loc>
+    <video:title>
+      TV&apos;s | Bobby Corwen vs dogpetter12, ARRIVAL 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TV&apos;s | Bobby Corwen vs dogpetter12 in Round 2 of ARRIVAL 4, streamed by focus_miss
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2703667333&amp;t=4h40m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>773</video:duration>
+    <video:publication_date>2026-02-21T15:17:25.000Z</video:publication_date>
+    <video:uploader>focus_miss</video:uploader>
+    <video:expiration_date>2026-03-01T15:17:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99574403/</loc>
+  <lastmod>2026-02-21T15:22:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2703667333&amp;t=4h14m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>521</video:duration>
+    <video:duration>1849</video:duration>
     <video:publication_date>2026-02-21T14:51:27.000Z</video:publication_date>
     <video:uploader>focus_miss</video:uploader>
     <video:expiration_date>2026-03-01T14:51:27.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-05T01:09:00.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2026-02-13T01:09:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-2-4-26/set/98969341/</loc>
-  <lastmod>2026-02-05T01:18:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877796/image-2e48608be2f9f6ada679826d4937ed1a.png
-    </video:thumbnail_loc>
-    <video:title>
-      GFU | No More Mr. Nicefire vs elpe, GoTE Rivals 2 and more (2/4/26) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GFU | No More Mr. Nicefire vs elpe in Round 5 of GoTE Rivals 2 and more (2/4/26), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2689275859&amp;t=0h5m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>874</video:duration>
-    <video:publication_date>2026-02-05T01:00:20.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2026-02-13T01:00:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
