@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ranking-1402-3/set/99659914/</loc>
-  <lastmod>2026-02-22T15:18:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/ranking-1402-3/set/99659917/</loc>
+  <lastmod>2026-02-22T15:37:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +10,42 @@
       https://images.start.gg/images/tournament/879267/image-951cd46c31cbd75b807e986de274b061.jpg
     </video:thumbnail_loc>
     <video:title>
-      orochikem vs LaDOSE | Zero, Ranking #1402 - Sets on Stream
+      SSY | Chokeru vs Poyo, Ranking #1402 - Sets on Stream
     </video:title>
     <video:description>
-      Watch orochikem vs LaDOSE | Zero in Losers Round 5 of Ranking #1402, streamed by Themixuplyon
+      Watch SSY | Chokeru vs Poyo in Losers Semi-Final of Ranking #1402, streamed by Themixuplyon
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=Themixuplyon&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>967</video:duration>
-    <video:publication_date>2026-02-22T15:18:46.000Z</video:publication_date>
+    <video:duration>1274</video:duration>
+    <video:publication_date>2026-02-22T15:37:22.000Z</video:publication_date>
     <video:uploader>Themixuplyon</video:uploader>
-    <video:expiration_date>2026-03-02T15:18:46.000Z</video:expiration_date>
+    <video:expiration_date>2026-03-02T15:37:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sac-salty-arena-cup-street-fighter-6-9/set/99663923/</loc>
+  <lastmod>2026-02-22T15:42:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874107/image-c3598d2fda1143328cfce52b0920564c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      DGZ | TaoLeSinge vs Doud, SAC : Salty Arena Cup Street Fighter 6 #9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DGZ | TaoLeSinge vs Doud in Round 1 of SAC : Salty Arena Cup Street Fighter 6 #9, streamed by saltyarena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2704741674&amp;t=0h47m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>995</video:duration>
+    <video:publication_date>2026-02-22T15:42:01.000Z</video:publication_date>
+    <video:uploader>saltyarena</video:uploader>
+    <video:expiration_date>2026-03-02T15:42:01.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7198,30 +7222,6 @@
     <video:publication_date>2026-02-07T20:56:31.000Z</video:publication_date>
     <video:uploader>olytrc</video:uploader>
     <video:expiration_date>2026-02-15T20:56:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/washington-state-gaming-expo-anime-washington-february-6th-8th-2026/set/99084301/</loc>
-  <lastmod>2026-02-07T21:23:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845180/image-640e11f74eb73da677bf95b61427a75e.png
-    </video:thumbnail_loc>
-    <video:title>
-      LS | Zukeyni vs Usedcontainer, Washington State Gaming Expo + Anime Washington: February 6th - 8th, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LS | Zukeyni vs Usedcontainer in Winners Round 2 of Washington State Gaming Expo + Anime Washington: February 6th - 8th, 2026, streamed by olytrc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691752224&amp;t=0h45m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>672</video:duration>
-    <video:publication_date>2026-02-07T20:56:24.000Z</video:publication_date>
-    <video:uploader>olytrc</video:uploader>
-    <video:expiration_date>2026-02-15T20:56:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
