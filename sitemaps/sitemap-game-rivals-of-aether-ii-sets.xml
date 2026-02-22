@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/npsc-presents-woosy-s-2x2/set/99670731/</loc>
+  <lastmod>2026-02-22T18:15:42.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/878771/image-ba38f0d41313e5baf1558251db6538ef.png
+    </video:thumbnail_loc>
+    <video:title>
+      AWG | Hybridomega vs NP | woosy, NPSC Presents: woosy&apos;s 2x2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AWG | Hybridomega vs NP | woosy in Winners Round 1 of NPSC Presents: woosy&apos;s 2x2, streamed by npsmashclub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2704834517&amp;t=1h15m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>875</video:duration>
+    <video:publication_date>2026-02-22T18:15:42.000Z</video:publication_date>
+    <video:uploader>npsmashclub</video:uploader>
+    <video:expiration_date>2026-03-02T18:15:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rushdown-a-pitt-smash-regional/set/99633519/</loc>
   <lastmod>2026-02-22T02:48:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-08T00:59:36.000Z</video:publication_date>
     <video:uploader>fgleventsllc</video:uploader>
     <video:expiration_date>2026-02-16T00:59:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/famarillo-friendship-2026/set/99092393/</loc>
-  <lastmod>2026-02-08T01:08:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866980/image-1bd890be2e9cfd49d24f3de343bee1bf.png
-    </video:thumbnail_loc>
-    <video:title>
-      BKE | Mar vs Cuddle Buddy | FunkyPants, Famarillo Friendship 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BKE | Mar vs Cuddle Buddy | FunkyPants in Losers Semi-Final of Famarillo Friendship 2026, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691804966&amp;t=3h32m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>923</video:duration>
-    <video:publication_date>2026-02-08T00:44:10.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2026-02-16T00:44:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
