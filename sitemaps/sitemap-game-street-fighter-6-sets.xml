@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-75/set/99709887/</loc>
+  <lastmod>2026-02-23T19:23:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874608/image-7ed1cf5970bbc10f54ed42b27bfee5b5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      WSB | Babilabux vs TVSF | Shun, Toulouse Fighting Monday 75 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WSB | Babilabux vs TVSF | Shun in Winners Round 1 of Toulouse Fighting Monday 75, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2705807054&amp;t=0h12m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1324</video:duration>
+    <video:publication_date>2026-02-23T19:23:22.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-03-03T19:23:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/chicago-punish-tournament-119/set/99693747/</loc>
   <lastmod>2026-02-23T01:24:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-08T15:37:57.000Z</video:publication_date>
     <video:uploader>bh3_esport</video:uploader>
     <video:expiration_date>2026-02-16T15:37:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-14-bh3-x-joystick/set/99070906/</loc>
-  <lastmod>2026-02-08T15:03:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866748/image-4642962f401c5e6cd1831e36723ab16b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BH3 Ichiban vs RollinStuns | Envy, Monthly FGC#14 - BH3 x JOYSTICK - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BH3 Ichiban vs RollinStuns | Envy in Winners Final of Monthly FGC#14 - BH3 x JOYSTICK, streamed by bh3_esport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2692360436&amp;t=2h6m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>842</video:duration>
-    <video:publication_date>2026-02-08T14:42:25.000Z</video:publication_date>
-    <video:uploader>bh3_esport</video:uploader>
-    <video:expiration_date>2026-02-16T14:42:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
