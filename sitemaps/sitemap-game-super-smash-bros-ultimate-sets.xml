@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-257/set/99727410/</loc>
+  <lastmod>2026-02-24T08:33:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      MothPlague vs Denary | Tacotician, WeeklyVac #257 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MothPlague vs Denary | Tacotician in Winners Round 1 of WeeklyVac #257, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2706322167&amp;t=0h6m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>569</video:duration>
+    <video:publication_date>2026-02-24T08:21:49.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2026-03-04T08:21:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-replay-runback-121/set/99726216/</loc>
   <lastmod>2026-02-24T06:15:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-17T01:19:43.000Z</video:publication_date>
     <video:uploader>troyusmash</video:uploader>
     <video:expiration_date>2026-02-25T01:19:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/frame-trap-152-maltese-brewing-company/set/99410990/</loc>
-  <lastmod>2026-02-17T01:42:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878127/image-3a32bf3817a898d57f3b21249f079984.png
-    </video:thumbnail_loc>
-    <video:title>
-      ZRG | SMFN | Festive vs GRAvITy, Frame Trap #152 @ Maltese Brewing Company! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZRG | SMFN | Festive vs GRAvITy in Winners Round 2 of Frame Trap #152 @ Maltese Brewing Company!, streamed by the_jokeofalltrades
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2699878232&amp;t=0h4m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1114</video:duration>
-    <video:publication_date>2026-02-17T01:19:18.000Z</video:publication_date>
-    <video:uploader>the_jokeofalltrades</video:uploader>
-    <video:expiration_date>2026-02-25T01:19:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
