@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-423/set/99723647/</loc>
+  <lastmod>2026-02-24T03:05:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882788/image-48175e35fdc3d2de4e67a745838b2bbb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TS | Getter Emperor vs TS | Shadow_dw, Downtown Throwdown #423 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TS | Getter Emperor vs TS | Shadow_dw in Winners Quarter-Final of Downtown Throwdown #423, streamed by KhanmandoFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2706075032&amp;t=1h49m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>708</video:duration>
+    <video:publication_date>2026-02-24T02:44:09.000Z</video:publication_date>
+    <video:uploader>KhanmandoFGC</video:uploader>
+    <video:expiration_date>2026-03-04T02:44:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-423/set/99723637/</loc>
-  <lastmod>2026-02-24T02:26:43.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-24T02:50:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2706075032&amp;t=1h31m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>903</video:duration>
+    <video:duration>973</video:duration>
     <video:publication_date>2026-02-24T02:26:43.000Z</video:publication_date>
     <video:uploader>KhanmandoFGC</video:uploader>
     <video:expiration_date>2026-03-04T02:26:43.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-11T20:33:09.000Z</video:publication_date>
     <video:uploader>strikefiercefgc</video:uploader>
     <video:expiration_date>2026-02-19T20:33:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-44/set/99213640/</loc>
-  <lastmod>2026-02-11T19:56:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869984/image-7e0180be13e7f9530c34cf29ca9af3e6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jornn vs StF | AnimanKS, Jam Session #44 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jornn vs StF | AnimanKS in Winners Semi-Final of Jam Session #44, streamed by strikefiercefgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2695153512&amp;t=0h18m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>482</video:duration>
-    <video:publication_date>2026-02-11T19:41:10.000Z</video:publication_date>
-    <video:uploader>strikefiercefgc</video:uploader>
-    <video:expiration_date>2026-02-19T19:41:10.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
