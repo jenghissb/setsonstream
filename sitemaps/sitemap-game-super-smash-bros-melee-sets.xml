@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-9/set/99731285/</loc>
+  <lastmod>2026-02-24T19:24:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882526/image-482a56b1755b24e4738de2cc7cc89502.png
+    </video:thumbnail_loc>
+    <video:title>
+      LSB | Pjon vs TheDazinator, Fowl Play! - 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LSB | Pjon vs TheDazinator in Winners Round 2 of Fowl Play! - 9, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2706645555&amp;t=0h14m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>726</video:duration>
+    <video:publication_date>2026-02-24T19:01:59.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2026-03-04T19:01:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-47-lemonade-mouth/set/99725533/</loc>
   <lastmod>2026-02-24T07:52:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-07T00:35:08.000Z</video:publication_date>
     <video:uploader>slte_nj</video:uploader>
     <video:expiration_date>2026-02-15T00:35:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-215/set/99028261/</loc>
-  <lastmod>2026-02-07T00:43:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877306/image-15d4c6e16325c0340d540061c207f34f.png
-    </video:thumbnail_loc>
-    <video:title>
-      M.SKITTLE vs Sam, Smash Night at Prodigy #215 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch M.SKITTLE vs Sam in Winners Round 1 of Smash Night at Prodigy #215, streamed by cg_conduitgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2690978800&amp;t=0h5m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1245</video:duration>
-    <video:publication_date>2026-02-07T00:07:24.000Z</video:publication_date>
-    <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2026-02-15T00:07:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
