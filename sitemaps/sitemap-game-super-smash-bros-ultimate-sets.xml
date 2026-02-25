@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/school-of-smash-uio-142/set/99755174/</loc>
+  <lastmod>2026-02-25T17:30:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884674/image-14221657e7a2068bdb38df02f53f4e44.png
+    </video:thumbnail_loc>
+    <video:title>
+      Hudet vs Pyrum, School of Smash UiO #142 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Hudet vs Pyrum in Winners Semi-Final of School of Smash UiO #142, streamed by smashoslo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2707403367&amp;t=1h0m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>305</video:duration>
+    <video:publication_date>2026-02-25T17:30:26.000Z</video:publication_date>
+    <video:uploader>smashoslo</video:uploader>
+    <video:expiration_date>2026-03-05T17:30:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-222-1/set/99753814/</loc>
   <lastmod>2026-02-25T12:58:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-18T02:33:44.000Z</video:publication_date>
     <video:uploader>smashchester</video:uploader>
     <video:expiration_date>2026-02-26T02:33:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-mizzou-178/set/99435361/</loc>
-  <lastmod>2026-02-18T03:02:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881771/image-8d0093934c43c0801685c1f8fb0c5a7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      MU | ASLAN vs ON\OFF | Hyrule Connor, Smash @ Mizzou 178 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MU | ASLAN vs ON\OFF | Hyrule Connor in Losers Round 4 of Smash @ Mizzou 178, streamed by comosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700736326&amp;t=1h28m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1665</video:duration>
-    <video:publication_date>2026-02-18T02:32:53.000Z</video:publication_date>
-    <video:uploader>comosmash</video:uploader>
-    <video:expiration_date>2026-02-26T02:32:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
