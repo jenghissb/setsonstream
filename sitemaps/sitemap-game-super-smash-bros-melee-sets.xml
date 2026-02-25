@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-18/set/99761522/</loc>
+  <lastmod>2026-02-25T23:18:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/883081/image-1c829f1c1f387adaadbb90ea3161929c.png
+    </video:thumbnail_loc>
+    <video:title>
+      PQ.Lucy vs PMG | Ju5t1n, Gould St. Gauntlet #18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PQ.Lucy vs PMG | Ju5t1n in Winners Quarter-Final of Gould St. Gauntlet #18, streamed by nostyleesports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2707688313&amp;t=0h8m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>572</video:duration>
+    <video:publication_date>2026-02-25T23:03:11.000Z</video:publication_date>
+    <video:uploader>nostyleesports2</video:uploader>
+    <video:expiration_date>2026-03-05T23:03:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-131/set/99753180/</loc>
   <lastmod>2026-02-25T08:08:43.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-07T05:32:13.000Z</video:publication_date>
     <video:uploader>cptwoodbeard</video:uploader>
     <video:expiration_date>2026-02-15T05:32:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-206/set/99051485/</loc>
-  <lastmod>2026-02-07T05:36:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877860/image-55f4937dfa4f0fe8ff7b77f492b08d5c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sprocket vs HCRX | Tom_Riddle007, Fight Night Fridays #206 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sprocket vs HCRX | Tom_Riddle007 in Losers Final of Fight Night Fridays #206, streamed by cptwoodbeard
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691148573&amp;t=1h58m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>708</video:duration>
-    <video:publication_date>2026-02-07T05:20:19.000Z</video:publication_date>
-    <video:uploader>cptwoodbeard</video:uploader>
-    <video:expiration_date>2026-02-15T05:20:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
