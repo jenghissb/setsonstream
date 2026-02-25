@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/d20-melee-36/set/99745528/</loc>
+  <lastmod>2026-02-25T01:34:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/883993/image-aa8799a8e1a9e5c1cdaa8aa75e62fef8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yashichi vs snowcraggy, D20 Melee 36 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yashichi vs snowcraggy in Winners Round 1 of D20 Melee 36, streamed by dinksterlive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2706917842&amp;t=0h40m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>607</video:duration>
+    <video:publication_date>2026-02-25T01:16:33.000Z</video:publication_date>
+    <video:uploader>dinksterlive</video:uploader>
+    <video:expiration_date>2026-03-05T01:16:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-9/set/99731285/</loc>
   <lastmod>2026-02-24T19:24:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-07T00:36:12.000Z</video:publication_date>
     <video:uploader>RochesterSmash</video:uploader>
     <video:expiration_date>2026-02-15T00:36:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rowan-ssbm-spring-2026-3/set/99030287/</loc>
-  <lastmod>2026-02-07T01:01:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876175/image-3af8d1c5760d1f55fc14de9bbe9499d5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Young Neil vs L7 | plush, Rowan SSBM Spring 2026 #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Young Neil vs L7 | plush in Round 3 of Rowan SSBM Spring 2026 #3, streamed by slte_nj
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2690993092&amp;t=0h15m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>528</video:duration>
-    <video:publication_date>2026-02-07T00:35:08.000Z</video:publication_date>
-    <video:uploader>slte_nj</video:uploader>
-    <video:expiration_date>2026-02-15T00:35:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
