@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-90/set/99745810/</loc>
+  <lastmod>2026-02-25T04:29:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882522/image-c4a56d4219838379c75dce7f10d65d41.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      4o4 | Musa vs Burboovas, 4o4 by Sh33rZ: Street Fighter #90 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 4o4 | Musa vs Burboovas in Grand Final of 4o4 by Sh33rZ: Street Fighter #90, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2706943340&amp;t=3h8m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>746</video:duration>
+    <video:publication_date>2026-02-25T04:12:52.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2026-03-05T04:12:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-90/set/99745873/</loc>
-  <lastmod>2026-02-25T04:01:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-25T04:17:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2706943340&amp;t=2h56m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1001</video:duration>
+    <video:duration>690</video:duration>
     <video:publication_date>2026-02-25T04:01:18.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-03-05T04:01:18.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-12T11:13:13.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-02-20T11:13:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-88/set/99198767/</loc>
-  <lastmod>2026-02-11T04:11:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877500/image-e60b524ca449e3f4dc004f502f363f66.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4 | Musa vs 4o4 | chrisymandias, 4o4 By Sh33rz: Street Fighter #88 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4 | Musa vs 4o4 | chrisymandias in Losers Final of 4o4 By Sh33rz: Street Fighter #88, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2694553435&amp;t=2h52m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>267</video:duration>
-    <video:publication_date>2026-02-11T03:57:29.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-02-19T03:57:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
