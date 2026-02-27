@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-369-1/set/99790025/</loc>
-  <lastmod>2026-02-26T23:31:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-369-1/set/99790033/</loc>
+  <lastmod>2026-02-26T23:57:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885586/image-6ca586fd402f6e97def57c04b6cba786.png
+    </video:thumbnail_loc>
+    <video:title>
+      SC | Solanum vs Twan, Salt Water Smash 369 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SC | Solanum vs Twan in Round 7 of Salt Water Smash 369, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2708532584&amp;t=1h10m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>306</video:duration>
+    <video:publication_date>2026-02-26T23:57:55.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-03-06T23:57:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-369-1/set/99790025/</loc>
+  <lastmod>2026-02-26T23:48:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2708532584&amp;t=0h44m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>889</video:duration>
+    <video:duration>538</video:duration>
     <video:publication_date>2026-02-26T23:31:27.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-03-06T23:31:27.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-08T00:30:36.000Z</video:publication_date>
     <video:uploader>Spiralmedia</video:uploader>
     <video:expiration_date>2026-02-16T00:30:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mass-madness-56-a-new-future-imagined/set/99097420/</loc>
-  <lastmod>2026-02-08T00:37:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870745/image-26f9b937c56268e54de98e4e995bd5d5.png
-    </video:thumbnail_loc>
-    <video:title>
-      SloX vs regEx, Mass Madness 56 - A New Future Imagined - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SloX vs regEx in Winners Quarter-Final of Mass Madness 56 - A New Future Imagined, streamed by GameUnderground
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691906985&amp;t=0h53m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>695</video:duration>
-    <video:publication_date>2026-02-08T00:15:16.000Z</video:publication_date>
-    <video:uploader>GameUnderground</video:uploader>
-    <video:expiration_date>2026-02-16T00:15:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
