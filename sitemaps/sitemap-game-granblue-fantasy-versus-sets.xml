@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/neutro-de-fantasia-pucelana-28-02-2026/set/99876911/</loc>
+  <lastmod>2026-02-28T18:51:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858893/image-27da243016d0fbbeb0b7340a7e2ea41a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shaigan vs MADFGC | Nelson, Neutro de Fantasia Pucelana 28/02/2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shaigan vs MADFGC | Nelson in Winners Round 2 of Neutro de Fantasia Pucelana 28/02/2026, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710101483&amp;t=3h6m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1641</video:duration>
+    <video:publication_date>2026-02-28T18:51:44.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2026-03-08T18:51:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-213-norcal-ssbu-ggst-gbvsr-uni2/set/99779375/</loc>
   <lastmod>2026-02-26T05:29:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-01-14T03:31:40.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2026-01-22T03:31:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-133/set/98158271/</loc>
-  <lastmod>2026-01-14T03:30:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866802/image-b8f502bd55666bc23fad86c1eb4a5c1b.png
-    </video:thumbnail_loc>
-    <video:title>
-      CC | SieghartSFLC vs LN DOOM, Magic Pixel Weekly #133 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CC | SieghartSFLC vs LN DOOM in Losers Round 2 of Magic Pixel Weekly #133, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2669465234&amp;t=0h53m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>451</video:duration>
-    <video:publication_date>2026-01-14T03:17:12.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2026-01-22T03:17:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
