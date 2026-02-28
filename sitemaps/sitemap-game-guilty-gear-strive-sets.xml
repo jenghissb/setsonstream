@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tsb-4-27/set/99900423/</loc>
-  <lastmod>2026-02-28T22:09:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-28T22:32:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710216281&amp;t=3h58m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>664</video:duration>
+    <video:duration>644</video:duration>
     <video:publication_date>2026-02-28T22:09:02.000Z</video:publication_date>
     <video:uploader>tsb_fgc</video:uploader>
     <video:expiration_date>2026-03-08T22:09:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ssf-saturday-february-28th-2026/set/99905877/</loc>
-  <lastmod>2026-02-28T22:12:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874794/image-ee9a6ac092e9b3f04b2a73f577769c5b.png
-    </video:thumbnail_loc>
-    <video:title>
-      SSF | DiamondMew vs Kismet, SSF Saturday | February 28th, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SSF | DiamondMew vs Kismet in Round 1 of SSF Saturday | February 28th, 2026, streamed by SalemFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=SalemFighters&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>449</video:duration>
-    <video:publication_date>2026-02-28T22:12:37.000Z</video:publication_date>
-    <video:uploader>SalemFighters</video:uploader>
-    <video:expiration_date>2026-03-08T22:12:37.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
