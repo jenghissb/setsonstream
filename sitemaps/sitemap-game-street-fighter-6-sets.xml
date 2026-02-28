@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neutro-de-fantasia-pucelana-28-02-2026/set/99871599/</loc>
+  <lastmod>2026-02-28T16:04:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858893/image-27da243016d0fbbeb0b7340a7e2ea41a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pirámides vs LRFGC | jakobolobo, Neutro de Fantasia Pucelana 28/02/2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pirámides vs LRFGC | jakobolobo in Losers Round 2 of Neutro de Fantasia Pucelana 28/02/2026, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710101483&amp;t=0h19m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1079</video:duration>
+    <video:publication_date>2026-02-28T16:04:28.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2026-03-08T16:04:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-109-randomized-seeding/set/99854877/</loc>
   <lastmod>2026-02-28T06:17:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-14T17:07:52.000Z</video:publication_date>
     <video:uploader>fgcsaopaulo</video:uploader>
     <video:expiration_date>2026-02-22T17:07:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6/set/99320679/</loc>
-  <lastmod>2026-02-14T17:12:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880379/image-5c1ded289fdd83ae22d7d6e9a480c3bc.png
-    </video:thumbnail_loc>
-    <video:title>
-      KBM! | Kyuki vs PauloSP, Kabum Fight Club - Street Fighter 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KBM! | Kyuki vs PauloSP in Winners Round 2 of Kabum Fight Club - Street Fighter 6, streamed by fgcsaopaulo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697682404&amp;t=0h5m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>715</video:duration>
-    <video:publication_date>2026-02-14T16:56:35.000Z</video:publication_date>
-    <video:uploader>fgcsaopaulo</video:uploader>
-    <video:expiration_date>2026-02-22T16:56:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
