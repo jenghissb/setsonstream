@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neutro-de-fantasia-pucelana-28-02-2026/set/99871607/</loc>
-  <lastmod>2026-02-28T16:30:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neutro-de-fantasia-pucelana-28-02-2026/set/99871609/</loc>
+  <lastmod>2026-02-28T17:01:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858893/image-27da243016d0fbbeb0b7340a7e2ea41a.png
+    </video:thumbnail_loc>
+    <video:title>
+      MADFGC | Anterdes vs MADFGC | Calle, Neutro de Fantasia Pucelana 28/02/2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MADFGC | Anterdes vs MADFGC | Calle in Losers Round 5 of Neutro de Fantasia Pucelana 28/02/2026, streamed by fgcpucela
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710101483&amp;t=1h16m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1011</video:duration>
+    <video:publication_date>2026-02-28T17:01:13.000Z</video:publication_date>
+    <video:uploader>fgcpucela</video:uploader>
+    <video:expiration_date>2026-03-08T17:01:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neutro-de-fantasia-pucelana-28-02-2026/set/99871607/</loc>
+  <lastmod>2026-02-28T16:50:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710101483&amp;t=0h45m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1159</video:duration>
+    <video:duration>302</video:duration>
     <video:publication_date>2026-02-28T16:30:29.000Z</video:publication_date>
     <video:uploader>fgcpucela</video:uploader>
     <video:expiration_date>2026-03-08T16:30:29.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-14T17:47:45.000Z</video:publication_date>
     <video:uploader>fgcsaopaulo</video:uploader>
     <video:expiration_date>2026-02-22T17:47:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6/set/99320697/</loc>
-  <lastmod>2026-02-14T17:49:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880379/image-5c1ded289fdd83ae22d7d6e9a480c3bc.png
-    </video:thumbnail_loc>
-    <video:title>
-      2G | Zangief_bolado vs INSS | Gust, Kabum Fight Club - Street Fighter 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 2G | Zangief_bolado vs INSS | Gust in Winners Round 3 of Kabum Fight Club - Street Fighter 6, streamed by fgcsaopaulo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697682404&amp;t=0h37m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>665</video:duration>
-    <video:publication_date>2026-02-14T17:27:43.000Z</video:publication_date>
-    <video:uploader>fgcsaopaulo</video:uploader>
-    <video:expiration_date>2026-02-22T17:27:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
