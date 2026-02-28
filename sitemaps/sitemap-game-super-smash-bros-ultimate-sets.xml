@@ -1,57 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ubc-weekly-187/set/99850595/</loc>
-  <lastmod>2026-02-28T05:30:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/game-lab-smash-207-pokemon-day/set/99856537/</loc>
+  <lastmod>2026-02-28T07:17:15.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885082/image-8940b1f130ff7756fead941e0bf313b1.png
+      https://images.start.gg/images/tournament/885098/image-2bdea5b6be3483f720d5423e3800e954.jpg
     </video:thumbnail_loc>
     <video:title>
-      Vertigo vs Mox Hennessey, UBC Weekly #187 - Sets on Stream
+      JEL | Arr_J vs ShiNe, Game Lab Smash #207 (Pokemon Day) - Sets on Stream
     </video:title>
     <video:description>
-      Watch Vertigo vs Mox Hennessey in Losers Final of UBC Weekly #187, streamed by ubcesports
+      Watch JEL | Arr_J vs ShiNe in Grand Final of Game Lab Smash #207 (Pokemon Day), streamed by Thebackyardsmash
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=ubcesports&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2709748921&amp;t=3h0m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-02-28T05:30:59.000Z</video:publication_date>
-    <video:uploader>ubcesports</video:uploader>
-    <video:expiration_date>2026-03-08T05:30:59.000Z</video:expiration_date>
+    <video:duration>1377</video:duration>
+    <video:publication_date>2026-02-28T07:17:15.000Z</video:publication_date>
+    <video:uploader>Thebackyardsmash</video:uploader>
+    <video:expiration_date>2026-03-08T07:17:15.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-39/set/99852401/</loc>
-  <lastmod>2026-02-28T06:44:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-rumble-royale-15/set/99856262/</loc>
+  <lastmod>2026-02-28T07:18:04.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882621/image-6a84eea0d5efda7ec65311e937a64f99.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sky vs 鸽鸽(), HKSBC Rumble Royale 群魔亂武 #15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sky vs 鸽鸽() in Losers Round 2 of HKSBC Rumble Royale 群魔亂武 #15, streamed by 香港大亂鬥同好會 - HKSBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/WkcxN7QtXWk?start=7252s
+    </video:player_loc>
+    <video:duration>1328</video:duration>
+    <video:publication_date>2026-02-28T07:18:04.000Z</video:publication_date>
+    <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
+    <video:expiration_date>2026-03-08T07:18:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-14-hdr-monthly/set/99853648/</loc>
+  <lastmod>2026-02-28T07:27:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884044/image-ef91870e81160fd629021b0ad57c8a35.png
+    </video:thumbnail_loc>
+    <video:title>
+      ebs | Widara vs Puresalt, Rage Quit #14 (HDR Monthly) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ebs | Widara vs Puresalt in Grand Final of Rage Quit #14 (HDR Monthly), streamed by SacramentoEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2709692593&amp;t=4h10m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>717</video:duration>
+    <video:publication_date>2026-02-28T07:13:11.000Z</video:publication_date>
+    <video:uploader>SacramentoEsports</video:uploader>
+    <video:expiration_date>2026-03-08T07:13:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-rumble-royale-15/set/99856261/</loc>
+  <lastmod>2026-02-28T07:18:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882621/image-6a84eea0d5efda7ec65311e937a64f99.png
+    </video:thumbnail_loc>
+    <video:title>
+      L vs YGOS | siestas, HKSBC Rumble Royale 群魔亂武 #15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch L vs YGOS | siestas in Losers Round 2 of HKSBC Rumble Royale 群魔亂武 #15, streamed by 香港大亂鬥同好會 - HKSBC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/WkcxN7QtXWk?start=6360s
+    </video:player_loc>
+    <video:duration>788</video:duration>
+    <video:publication_date>2026-02-28T07:03:12.000Z</video:publication_date>
+    <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
+    <video:expiration_date>2026-03-08T07:03:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/game-lab-smash-207-pokemon-day/set/99856552/</loc>
+  <lastmod>2026-02-28T07:12:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885098/image-2bdea5b6be3483f720d5423e3800e954.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      hackerChip vs ShiNe, Game Lab Smash #207 (Pokemon Day) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hackerChip vs ShiNe in Losers Final of Game Lab Smash #207 (Pokemon Day), streamed by Thebackyardsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2709748921&amp;t=2h46m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>492</video:duration>
+    <video:publication_date>2026-02-28T07:02:40.000Z</video:publication_date>
+    <video:uploader>Thebackyardsmash</video:uploader>
+    <video:expiration_date>2026-03-08T07:02:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-39/set/99852402/</loc>
+  <lastmod>2026-02-28T07:29:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/885387/image-b8426d60a44e4c729c22cbe5ddbf3792.png
     </video:thumbnail_loc>
     <video:title>
-      Clune vs sophie, The Super SmashBowl #39 - Sets on Stream
+      Raiyihn vs Clune, The Super SmashBowl #39 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Clune vs sophie in Losers Semi-Final of The Super SmashBowl #39, streamed by sonicbpro
+      Watch Raiyihn vs Clune in Losers Final of The Super SmashBowl #39, streamed by sonicbpro
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709690774&amp;t=3h44m5s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2709690774&amp;t=4h1m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1290</video:duration>
-    <video:publication_date>2026-02-28T06:44:58.000Z</video:publication_date>
+    <video:duration>1501</video:duration>
+    <video:publication_date>2026-02-28T07:02:32.000Z</video:publication_date>
     <video:uploader>sonicbpro</video:uploader>
-    <video:expiration_date>2026-03-08T06:44:58.000Z</video:expiration_date>
+    <video:expiration_date>2026-03-08T07:02:32.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rage-quit-14-hdr-monthly/set/99853711/</loc>
-  <lastmod>2026-02-28T06:58:17.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-28T07:14:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,7 +162,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2709692593&amp;t=3h55m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>491</video:duration>
+    <video:duration>887</video:duration>
     <video:publication_date>2026-02-28T06:58:17.000Z</video:publication_date>
     <video:uploader>SacramentoEsports</video:uploader>
     <video:expiration_date>2026-03-08T06:58:17.000Z</video:expiration_date>
@@ -74,8 +170,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hksbc-rumble-royale-15/set/99856259/</loc>
-  <lastmod>2026-02-28T06:55:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-02-28T07:06:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -90,10 +186,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/WkcxN7QtXWk?start=5876s
     </video:player_loc>
-    <video:duration>680</video:duration>
+    <video:duration>619</video:duration>
     <video:publication_date>2026-02-28T06:55:08.000Z</video:publication_date>
     <video:uploader>香港大亂鬥同好會 - HKSBC</video:uploader>
     <video:expiration_date>2026-03-08T06:55:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-39/set/99852401/</loc>
+  <lastmod>2026-02-28T07:05:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885387/image-b8426d60a44e4c729c22cbe5ddbf3792.png
+    </video:thumbnail_loc>
+    <video:title>
+      Clune vs sophie, The Super SmashBowl #39 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Clune vs sophie in Losers Semi-Final of The Super SmashBowl #39, streamed by sonicbpro
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2709690774&amp;t=3h44m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1039</video:duration>
+    <video:publication_date>2026-02-28T06:44:58.000Z</video:publication_date>
+    <video:uploader>sonicbpro</video:uploader>
+    <video:expiration_date>2026-03-08T06:44:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -574,6 +694,30 @@
     <video:publication_date>2026-02-28T05:40:39.000Z</video:publication_date>
     <video:uploader>Marshall Smashers</video:uploader>
     <video:expiration_date>2026-03-08T05:40:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ubc-weekly-187/set/99850595/</loc>
+  <lastmod>2026-02-28T07:31:24.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885082/image-8940b1f130ff7756fead941e0bf313b1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Vertigo vs Mox Hennessey, UBC Weekly #187 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vertigo vs Mox Hennessey in Losers Final of UBC Weekly #187, streamed by ubcesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2709678581&amp;t=2h43m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-02-28T05:30:59.000Z</video:publication_date>
+    <video:uploader>ubcesports</video:uploader>
+    <video:expiration_date>2026-03-08T05:30:59.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71854,150 +71998,6 @@
     <video:publication_date>2026-02-21T04:31:22.000Z</video:publication_date>
     <video:uploader>Reacktioner</video:uploader>
     <video:expiration_date>2026-03-01T04:31:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/no-jump-185-you-know-the-vibes/set/99554837/</loc>
-  <lastmod>2026-02-21T05:00:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882175/image-2b36165c2561848413fe730b8b213997.png
-    </video:thumbnail_loc>
-    <video:title>
-      CCS | Saber_Wolf vs PTM | PK Freeze, No Jump 185: You Know The Vibes - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CCS | Saber_Wolf vs PTM | PK Freeze in Grand Final of No Jump 185: You Know The Vibes, streamed by setonhallshugs
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703318317&amp;t=3h56m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1654</video:duration>
-    <video:publication_date>2026-02-21T04:30:44.000Z</video:publication_date>
-    <video:uploader>setonhallshugs</video:uploader>
-    <video:expiration_date>2026-03-01T04:30:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/asi-x-csulb-esports-super-smash-bros-ultimate-tournament/set/99553548/</loc>
-  <lastmod>2026-02-21T06:31:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873261/image-da5f1658879d4ff6c4d6b1df02eff710.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fons vs CSULB | EcksDeee, ASI x CSULB Esports Super Smash Bros. Ultimate Tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fons vs CSULB | EcksDeee in Winners Final of ASI x CSULB Esports Super Smash Bros. Ultimate Tournament, streamed by csulbesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703414835&amp;t=2h4m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-02-21T04:30:22.000Z</video:publication_date>
-    <video:uploader>csulbesports</video:uploader>
-    <video:expiration_date>2026-03-01T04:30:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ualr-iliad-smash-81/set/99543254/</loc>
-  <lastmod>2026-02-21T04:48:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882626/image-ce65580c2f320bb3417a55b5256c2f33.png
-    </video:thumbnail_loc>
-    <video:title>
-      VIE | ATU | Maddox vs VIE | Saw, UALR Iliad Smash #81 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VIE | ATU | Maddox vs VIE | Saw in Grand Final of UALR Iliad Smash #81, streamed by enderbenxiii
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703332688&amp;t=3h37m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>992</video:duration>
-    <video:publication_date>2026-02-21T04:30:04.000Z</video:publication_date>
-    <video:uploader>enderbenxiii</video:uploader>
-    <video:expiration_date>2026-03-01T04:30:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-38/set/99558727/</loc>
-  <lastmod>2026-02-21T04:51:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883251/image-3f8028654a869c68a1a06a4d8e934701.png
-    </video:thumbnail_loc>
-    <video:title>
-      EC | Despa vs Clune, The Super SmashBowl #38 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EC | Despa vs Clune in Winners Quarter-Final of The Super SmashBowl #38, streamed by sonicbpro
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703426193&amp;t=1h50m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1049</video:duration>
-    <video:publication_date>2026-02-21T04:29:39.000Z</video:publication_date>
-    <video:uploader>sonicbpro</video:uploader>
-    <video:expiration_date>2026-03-01T04:29:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/mav-mayhem-155/set/99546275/</loc>
-  <lastmod>2026-02-21T04:45:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882595/image-67f61987515717256ec7c3888811b252.png
-    </video:thumbnail_loc>
-    <video:title>
-      ZFN | UTA | Thuy vs TaloHalo, Mav Mayhem #155 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZFN | UTA | Thuy vs TaloHalo in Losers Quarter-Final of Mav Mayhem #155, streamed by MavMayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703376093&amp;t=2h48m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>852</video:duration>
-    <video:publication_date>2026-02-21T04:29:04.000Z</video:publication_date>
-    <video:uploader>MavMayhem</video:uploader>
-    <video:expiration_date>2026-03-01T04:29:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/aya-6/set/99481026/</loc>
-  <lastmod>2026-02-21T04:54:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869846/image-3e7be6d421e7ef9b5e2887b66f8dbfba.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      イレヴン(irevun) vs ひこ(hiko), 彩-aya- #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch イレヴン(irevun) vs ひこ(hiko) in Round 5 of 彩-aya- #6, streamed by 彩-aya-
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/W8qsMz9HdLo?start=4415s
-    </video:player_loc>
-    <video:duration>1275</video:duration>
-    <video:publication_date>2026-02-21T04:28:20.000Z</video:publication_date>
-    <video:uploader>彩-aya-</video:uploader>
-    <video:expiration_date>2026-03-01T04:28:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
