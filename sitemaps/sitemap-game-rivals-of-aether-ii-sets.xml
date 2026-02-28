@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-7-regional-event/set/99886607/</loc>
+  <lastmod>2026-02-28T19:37:51.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/871331/image-c5021a9bc2fedb70fff5f67ee8ed5932.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kraite vs Yojimbo, Rivals Uncaged #7 - Regional Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kraite vs Yojimbo in Round 5 of Rivals Uncaged #7 - Regional Event, streamed by bros_calamity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710280929&amp;t=0h16m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>887</video:duration>
+    <video:publication_date>2026-02-28T19:37:51.000Z</video:publication_date>
+    <video:uploader>bros_calamity</video:uploader>
+    <video:expiration_date>2026-03-08T19:37:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-218-nesl-qualifier/set/99832020/</loc>
   <lastmod>2026-02-28T02:14:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-12T06:19:32.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2026-02-20T06:19:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/split-neutral-42/set/99231854/</loc>
-  <lastmod>2026-02-12T06:21:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878882/image-b8432fd8030739f95822faf4bdd68e89.png
-    </video:thumbnail_loc>
-    <video:title>
-      AQUA | maya vs BSC | Re:Cupid, Split Neutral #42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AQUA | maya vs BSC | Re:Cupid in Losers Semi-Final of Split Neutral #42, streamed by seatac_rivals
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2695451065&amp;t=4h16m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>893</video:duration>
-    <video:publication_date>2026-02-12T06:04:31.000Z</video:publication_date>
-    <video:uploader>seatac_rivals</video:uploader>
-    <video:expiration_date>2026-02-20T06:04:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
