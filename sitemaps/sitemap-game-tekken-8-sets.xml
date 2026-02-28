@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/road-to-olympus-2026/set/99749124/</loc>
+  <lastmod>2026-02-28T10:34:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/833365/image-f208bf0dce82e2ae188450d7741f017f.png
+    </video:thumbnail_loc>
+    <video:title>
+      GPE | Xeon vs memoire, ROAD TO OLYMPUS 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GPE | Xeon vs memoire in Winners Quarter-Final of ROAD TO OLYMPUS 2026, streamed by clashoftheolympians
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=clashoftheolympians&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>829</video:duration>
+    <video:publication_date>2026-02-28T10:34:26.000Z</video:publication_date>
+    <video:uploader>clashoftheolympians</video:uploader>
+    <video:expiration_date>2026-03-08T10:34:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-109-randomized-seeding/set/99855943/</loc>
   <lastmod>2026-02-28T07:18:38.000Z</lastmod>
   <changefreq>daily</changefreq>
