@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/dojo-wannabe-monthly-13/set/99864795/</loc>
+  <lastmod>2026-02-28T13:29:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882544/image-32a5b432b11a3617c6db27544bd92a07.png
+    </video:thumbnail_loc>
+    <video:title>
+      G vs SamiBrando, Dojo Wannabe Monthly #13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch G vs SamiBrando in Winners Semi-Final of Dojo Wannabe Monthly #13, streamed by TheDWNetwork
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2709982303&amp;t=0h54m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1453</video:duration>
+    <video:publication_date>2026-02-28T13:29:41.000Z</video:publication_date>
+    <video:uploader>TheDWNetwork</video:uploader>
+    <video:expiration_date>2026-03-08T13:29:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-109-randomized-seeding/set/99855943/</loc>
   <lastmod>2026-02-28T07:18:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-14T13:17:18.000Z</video:publication_date>
     <video:uploader>tekkenmilano</video:uploader>
     <video:expiration_date>2026-02-22T13:17:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hall-of-judgement/set/99314214/</loc>
-  <lastmod>2026-02-14T13:23:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836954/image-1d6d5aa23be67680186c075dfad96839.png
-    </video:thumbnail_loc>
-    <video:title>
-      GPE | FakePotter vs TKBO | Frostex, Hall of Judgement - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GPE | FakePotter vs TKBO | Frostex in Winners Quarter-Final of Hall of Judgement, streamed by tekkenmilano
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697504925&amp;t=1h2m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>670</video:duration>
-    <video:publication_date>2026-02-14T13:01:51.000Z</video:publication_date>
-    <video:uploader>tekkenmilano</video:uploader>
-    <video:expiration_date>2026-02-22T13:01:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
