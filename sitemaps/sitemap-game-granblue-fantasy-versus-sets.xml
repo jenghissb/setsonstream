@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/winter-showdown-2026/set/99911559/</loc>
-  <lastmod>2026-02-28T23:08:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/winter-showdown-2026/set/99911572/</loc>
+  <lastmod>2026-02-28T23:26:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/818672/image-6a4f615b0e3f3d5071e587f3caa49a38.png
+    </video:thumbnail_loc>
+    <video:title>
+      Nidhogg vs Hakke, Winter Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nidhogg vs Hakke in Losers Round 1 of Winter Showdown 2026, streamed by paragonfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710230046&amp;t=4h59m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1063</video:duration>
+    <video:publication_date>2026-02-28T23:26:22.000Z</video:publication_date>
+    <video:uploader>paragonfgc</video:uploader>
+    <video:expiration_date>2026-03-08T23:26:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/winter-showdown-2026/set/99911559/</loc>
+  <lastmod>2026-02-28T23:32:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710230046&amp;t=4h41m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>621</video:duration>
+    <video:duration>690</video:duration>
     <video:publication_date>2026-02-28T23:08:24.000Z</video:publication_date>
     <video:uploader>paragonfgc</video:uploader>
     <video:expiration_date>2026-03-08T23:08:24.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-01-17T18:41:02.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-01-25T18:41:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-infinite-oasis-1-17-25/set/98271468/</loc>
-  <lastmod>2026-01-17T18:50:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/865225/image-bf95e90cff8d5a52fdaddf760ff02531.png
-    </video:thumbnail_loc>
-    <video:title>
-      DNBcool vs KoFrey, The Infinite Oasis 1/17/25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DNBcool vs KoFrey in Losers Final of The Infinite Oasis 1/17/25, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2672590162&amp;t=1h26m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>996</video:duration>
-    <video:publication_date>2026-01-17T18:24:19.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-01-25T18:24:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

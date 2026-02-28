@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-41-1/set/99912796/</loc>
+  <lastmod>2026-02-28T23:20:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884398/image-5d5cfa58639a745920be4ce9c74d99c7.png
+    </video:thumbnail_loc>
+    <video:title>
+      DNBcool vs Taiga, Calculated #41 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DNBcool vs Taiga in Winners Quarter-Final of Calculated #41, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710474523&amp;t=0h13m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1431</video:duration>
+    <video:publication_date>2026-02-28T23:20:14.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-03-08T23:20:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/tsb-4-27/set/99900423/</loc>
   <lastmod>2026-02-28T22:32:51.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-08T03:03:23.000Z</video:publication_date>
     <video:uploader>olytrc</video:uploader>
     <video:expiration_date>2026-02-16T03:03:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rumble-slc-february-2026/set/99110197/</loc>
-  <lastmod>2026-02-08T03:05:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/875026/image-c9bbd311ac3000dc09f644b33e662d9e.png
-    </video:thumbnail_loc>
-    <video:title>
-      CYCLE | Rakki vs DJ Cast | CastNoah, Rumble SLC | February 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CYCLE | Rakki vs DJ Cast | CastNoah in Losers Semi-Final of Rumble SLC | February 2026, streamed by getgoodfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691794866&amp;t=5h41m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2026-02-08T02:41:01.000Z</video:publication_date>
-    <video:uploader>getgoodfgc</video:uploader>
-    <video:expiration_date>2026-02-16T02:41:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
