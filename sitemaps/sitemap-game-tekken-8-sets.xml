@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/dojo-wannabe-monthly-13/set/99864798/</loc>
+  <lastmod>2026-02-28T15:13:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882544/image-32a5b432b11a3617c6db27544bd92a07.png
+    </video:thumbnail_loc>
+    <video:title>
+      ZENKAI vs SamiBrando, Dojo Wannabe Monthly #13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZENKAI vs SamiBrando in Grand Final of Dojo Wannabe Monthly #13, streamed by TheDWNetwork
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2709982303&amp;t=2h16m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>851</video:duration>
+    <video:publication_date>2026-02-28T14:51:18.000Z</video:publication_date>
+    <video:uploader>TheDWNetwork</video:uploader>
+    <video:expiration_date>2026-03-08T14:51:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/dojo-wannabe-monthly-13/set/99864797/</loc>
   <lastmod>2026-02-28T14:06:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-14T13:53:24.000Z</video:publication_date>
     <video:uploader>CROSSOVER_GG</video:uploader>
     <video:expiration_date>2026-02-22T13:53:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekkenmania/set/99315411/</loc>
-  <lastmod>2026-02-14T14:06:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836081/image-b5fb1e7a3980c19a0e02c4c0da9303e6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BUFFALO SOLDIER vs Haro47, TEKKENMANIA - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BUFFALO SOLDIER vs Haro47 in Winners Quarter-Final of TEKKENMANIA, streamed by CROSSOVER_GG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697547459&amp;t=0h22m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>855</video:duration>
-    <video:publication_date>2026-02-14T13:42:01.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_GG</video:uploader>
-    <video:expiration_date>2026-02-22T13:42:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
