@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/oms-present-heaven-or-hell-1/set/99962889/</loc>
+  <lastmod>2026-03-01T22:19:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884602/image-7a0f94ba7ac9186ea0afdbd6aa002529.png
+    </video:thumbnail_loc>
+    <video:title>
+      OMS-DS | Fool Arcana vs Catz Dreemurr, OMS Present: Heaven or Hell #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OMS-DS | Fool Arcana vs Catz Dreemurr in Losers Quarter-Final of OMS Present: Heaven or Hell #1, streamed by temohardy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2711356265&amp;t=0h19m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>783</video:duration>
+    <video:publication_date>2026-03-01T21:59:05.000Z</video:publication_date>
+    <video:uploader>temohardy</video:uploader>
+    <video:expiration_date>2026-03-09T21:59:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/oms-present-heaven-or-hell-1/set/99962887/</loc>
-  <lastmod>2026-03-01T21:37:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-01T22:03:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2711356265&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1161</video:duration>
+    <video:duration>776</video:duration>
     <video:publication_date>2026-03-01T21:37:19.000Z</video:publication_date>
     <video:uploader>temohardy</video:uploader>
     <video:expiration_date>2026-03-09T21:37:19.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-12T04:06:58.000Z</video:publication_date>
     <video:uploader>MEECHY72</video:uploader>
     <video:expiration_date>2026-02-20T04:06:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/side-seven-skirmish-22/set/99230054/</loc>
-  <lastmod>2026-02-12T04:22:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866039/image-1e2a6756a430d27b442de5e6b326be5a.png
-    </video:thumbnail_loc>
-    <video:title>
-      S7 | BoBobson vs !liz | Allen, SIDE SEVEN SKIRMISH 22 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch S7 | BoBobson vs !liz | Allen in Losers Round 3 of SIDE SEVEN SKIRMISH 22, streamed by MEECHY72
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2695508523&amp;t=1h0m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>743</video:duration>
-    <video:publication_date>2026-02-12T04:01:09.000Z</video:publication_date>
-    <video:uploader>MEECHY72</video:uploader>
-    <video:expiration_date>2026-02-20T04:01:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
