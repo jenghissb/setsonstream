@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/winter-showdown-2026/set/99947891/</loc>
-  <lastmod>2026-03-01T19:24:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/winter-showdown-2026/set/99947898/</loc>
+  <lastmod>2026-03-01T19:38:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/818672/image-6a4f615b0e3f3d5071e587f3caa49a38.png
+    </video:thumbnail_loc>
+    <video:title>
+      JRIP | CSPuma vs SSE | COVF | n.Fang, Winter Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JRIP | CSPuma vs SSE | COVF | n.Fang in Winners Quarter-Final of Winter Showdown 2026, streamed by paragonfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2711212969&amp;t=0h43m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>918</video:duration>
+    <video:publication_date>2026-03-01T19:38:42.000Z</video:publication_date>
+    <video:uploader>paragonfgc</video:uploader>
+    <video:expiration_date>2026-03-09T19:38:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/winter-showdown-2026/set/99947891/</loc>
+  <lastmod>2026-03-01T19:40:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2711212969&amp;t=0h29m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>601</video:duration>
+    <video:duration>287</video:duration>
     <video:publication_date>2026-03-01T19:24:25.000Z</video:publication_date>
     <video:uploader>paragonfgc</video:uploader>
     <video:expiration_date>2026-03-09T19:24:25.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-14T18:12:06.000Z</video:publication_date>
     <video:uploader>CROSSOVER_GG</video:uploader>
     <video:expiration_date>2026-02-22T18:12:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekkenmania/set/99320333/</loc>
-  <lastmod>2026-02-14T18:18:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836081/image-b5fb1e7a3980c19a0e02c4c0da9303e6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ILIAS vs Tetsu, TEKKENMANIA - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ILIAS vs Tetsu in Losers Quarter-Final of TEKKENMANIA, streamed by CROSSOVER_GG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697547459&amp;t=4h40m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>723</video:duration>
-    <video:publication_date>2026-02-14T17:59:44.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_GG</video:uploader>
-    <video:expiration_date>2026-02-22T17:59:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
