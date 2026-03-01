@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sandstorm-1-300-pot-bonus/set/99922072/</loc>
+  <lastmod>2026-03-01T02:39:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/751350/image-e61bda2634dd87d9bc3daf18f799b4d9.png
+    </video:thumbnail_loc>
+    <video:title>
+      Teri vs The Librarian, Sandstorm #1 ($300 Pot Bonus) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Teri vs The Librarian in Grand Final of Sandstorm #1 ($300 Pot Bonus), streamed by TheBryciestBoy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710430554&amp;t=4h0m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1439</video:duration>
+    <video:publication_date>2026-03-01T02:10:39.000Z</video:publication_date>
+    <video:uploader>TheBryciestBoy</video:uploader>
+    <video:expiration_date>2026-03-09T02:10:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sandstorm-1-300-pot-bonus/set/99922087/</loc>
-  <lastmod>2026-03-01T01:41:39.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-01T02:23:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710430554&amp;t=3h31m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>809</video:duration>
+    <video:duration>1734</video:duration>
     <video:publication_date>2026-03-01T01:41:39.000Z</video:publication_date>
     <video:uploader>TheBryciestBoy</video:uploader>
     <video:expiration_date>2026-03-09T01:41:39.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-14T22:44:54.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-02-22T22:44:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-11-lovey-dubby-edition/set/99338490/</loc>
-  <lastmod>2026-02-14T22:54:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872259/image-73de4daa2f7c2f61d3e287b3cb545a89.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      The Lake | TNT | Chef Webbster vs Ego | Cheddar, Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch The Lake | TNT | Chef Webbster vs Ego | Cheddar in Winners Round 1 of Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697822957&amp;t=2h38m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1222</video:duration>
-    <video:publication_date>2026-02-14T22:22:44.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-02-22T22:22:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
