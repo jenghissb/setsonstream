@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/chandelan-3-2026/set/99939055/</loc>
+  <lastmod>2026-03-01T09:04:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867883/image-697eebd35ff36922efbdafe92443c084.png
+    </video:thumbnail_loc>
+    <video:title>
+      SEL | Kiyo vs [LUNA] | Joj, ChandeLAN 3 - 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SEL | Kiyo vs [LUNA] | Joj in Winners Round 2 of ChandeLAN 3 - 2026, streamed by ToulouseLastStock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710850214&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1321</video:duration>
+    <video:publication_date>2026-03-01T09:04:47.000Z</video:publication_date>
+    <video:uploader>ToulouseLastStock</video:uploader>
+    <video:expiration_date>2026-03-09T09:04:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/manoa-monthlies-97/set/99937071/</loc>
   <lastmod>2026-03-01T07:13:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-21T21:59:36.000Z</video:publication_date>
     <video:uploader>jeffdaboss42</video:uploader>
     <video:expiration_date>2026-03-01T21:59:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gweekly-107/set/99605273/</loc>
-  <lastmod>2026-02-21T22:19:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882637/image-ff5d3c61c132b22888f207bdae777e8c.png
-    </video:thumbnail_loc>
-    <video:title>
-      focus vs MEAT UP! | Secret, GWeekly 107 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch focus vs MEAT UP! | Secret in Winners Quarter-Final of GWeekly 107, streamed by GWeekly_Smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703991676&amp;t=2h58m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>875</video:duration>
-    <video:publication_date>2026-02-21T21:56:43.000Z</video:publication_date>
-    <video:uploader>GWeekly_Smash</video:uploader>
-    <video:expiration_date>2026-03-01T21:56:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
