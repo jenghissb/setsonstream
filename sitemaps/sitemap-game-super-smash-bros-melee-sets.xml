@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-ntnu-gl-shaugen-240/set/99940489/</loc>
+  <lastmod>2026-03-01T12:12:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884011/image-c7629c620b84ae6d2d143547f52fd20b.png
+    </video:thumbnail_loc>
+    <video:title>
+      tksn vs Jahn, Smash @ NTNU Gløshaugen 240 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tksn vs Jahn in Winners Semi-Final of Smash @ NTNU Gløshaugen 240, streamed by smashtrondheim
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=smashtrondheim&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1676</video:duration>
+    <video:publication_date>2026-03-01T12:12:16.000Z</video:publication_date>
+    <video:uploader>smashtrondheim</video:uploader>
+    <video:expiration_date>2026-03-09T12:12:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/down-underdog-6/set/99932405/</loc>
   <lastmod>2026-03-01T04:48:47.000Z</lastmod>
   <changefreq>daily</changefreq>

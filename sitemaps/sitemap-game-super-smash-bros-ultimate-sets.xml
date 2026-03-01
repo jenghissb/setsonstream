@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/chandelan-3-2026/set/99939570/</loc>
-  <lastmod>2026-03-01T11:42:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/chandelan-3-2026/set/99939555/</loc>
+  <lastmod>2026-03-01T12:03:32.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867883/image-697eebd35ff36922efbdafe92443c084.png
+    </video:thumbnail_loc>
+    <video:title>
+      TCO | Alcatrazz vs ARK NMS | Goison, ChandeLAN 3 - 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TCO | Alcatrazz vs ARK NMS | Goison in Grand Final of ChandeLAN 3 - 2026, streamed by ToulouseLastStock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710850214&amp;t=2h51m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2200</video:duration>
+    <video:publication_date>2026-03-01T12:03:32.000Z</video:publication_date>
+    <video:uploader>ToulouseLastStock</video:uploader>
+    <video:expiration_date>2026-03-09T12:03:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/chandelan-3-2026/set/99939570/</loc>
+  <lastmod>2026-03-01T12:05:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710850214&amp;t=2h30m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>741</video:duration>
+    <video:duration>1279</video:duration>
     <video:publication_date>2026-03-01T11:42:09.000Z</video:publication_date>
     <video:uploader>ToulouseLastStock</video:uploader>
     <video:expiration_date>2026-03-09T11:42:09.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-21T22:09:14.000Z</video:publication_date>
     <video:uploader>bluedevilsmash</video:uploader>
     <video:expiration_date>2026-03-01T22:09:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/f-nix-gaming-parque-central-1/set/99611197/</loc>
-  <lastmod>2026-02-21T22:19:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/875610/image-a3c12b875a5eb358653aefc93ccf8605.png
-    </video:thumbnail_loc>
-    <video:title>
-      AKKO vs CLRS | Belinda, Fénix Gaming @ Parque Central #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AKKO vs CLRS | Belinda in Winners Round 2 of Fénix Gaming @ Parque Central #1, streamed by fenixgamingjrz
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704134326&amp;t=0h26m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>439</video:duration>
-    <video:publication_date>2026-02-21T22:08:20.000Z</video:publication_date>
-    <video:uploader>fenixgamingjrz</video:uploader>
-    <video:expiration_date>2026-03-01T22:08:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
