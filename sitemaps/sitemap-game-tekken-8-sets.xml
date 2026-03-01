@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/backstreet-brawl-14-back-to-basics/set/99913057/</loc>
-  <lastmod>2026-02-28T23:24:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/backstreet-brawl-14-back-to-basics/set/99913060/</loc>
+  <lastmod>2026-02-28T23:46:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876059/image-b642b34289904897f87588fbaeb58644.png
+    </video:thumbnail_loc>
+    <video:title>
+      AegisRick vs Psylence, Backstreet Brawl #14 - Back to Basics - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AegisRick vs Psylence in Winners Semi-Final of Backstreet Brawl #14 - Back to Basics, streamed by SatelliteFighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710450656&amp;t=1h10m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>581</video:duration>
+    <video:publication_date>2026-02-28T23:46:48.000Z</video:publication_date>
+    <video:uploader>SatelliteFighters</video:uploader>
+    <video:expiration_date>2026-03-08T23:46:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/backstreet-brawl-14-back-to-basics/set/99913057/</loc>
+  <lastmod>2026-02-28T23:53:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710450656&amp;t=0h48m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1153</video:duration>
+    <video:duration>756</video:duration>
     <video:publication_date>2026-02-28T23:24:52.000Z</video:publication_date>
     <video:uploader>SatelliteFighters</video:uploader>
     <video:expiration_date>2026-03-08T23:24:52.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-14T14:49:19.000Z</video:publication_date>
     <video:uploader>CROSSOVER_GG</video:uploader>
     <video:expiration_date>2026-02-22T14:49:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekkenmania/set/99315458/</loc>
-  <lastmod>2026-02-14T14:28:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836081/image-b5fb1e7a3980c19a0e02c4c0da9303e6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Battosaï vs MKE | Aiko, TEKKENMANIA - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Battosaï vs MKE | Aiko in Winners Quarter-Final of TEKKENMANIA, streamed by CROSSOVER_GG
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697547459&amp;t=0h48m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>679</video:duration>
-    <video:publication_date>2026-02-14T14:08:05.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_GG</video:uploader>
-    <video:expiration_date>2026-02-22T14:08:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

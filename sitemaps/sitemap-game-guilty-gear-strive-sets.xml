@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-41-1/set/99912796/</loc>
-  <lastmod>2026-02-28T23:20:14.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-41-1/set/99912798/</loc>
+  <lastmod>2026-02-28T23:43:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884398/image-5d5cfa58639a745920be4ce9c74d99c7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Severity vs Taiga, Calculated #41 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Severity vs Taiga in Winners Semi-Final of Calculated #41, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710474523&amp;t=0h36m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>778</video:duration>
+    <video:publication_date>2026-02-28T23:43:31.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-03-08T23:43:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-41-1/set/99912796/</loc>
+  <lastmod>2026-02-28T23:44:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710474523&amp;t=0h13m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1431</video:duration>
+    <video:duration>796</video:duration>
     <video:publication_date>2026-02-28T23:20:14.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-03-08T23:20:14.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-08T03:11:25.000Z</video:publication_date>
     <video:uploader>olytrc</video:uploader>
     <video:expiration_date>2026-02-16T03:11:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/washington-state-gaming-expo-anime-washington-february-6th-8th-2026/set/99104430/</loc>
-  <lastmod>2026-02-08T03:20:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/845180/image-640e11f74eb73da677bf95b61427a75e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bad Moon | Ticklememour vs MASH | SunnyD, Washington State Gaming Expo + Anime Washington: February 6th - 8th, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bad Moon | Ticklememour vs MASH | SunnyD in Winners Final of Washington State Gaming Expo + Anime Washington: February 6th - 8th, 2026, streamed by olytrc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691752224&amp;t=6h52m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>478</video:duration>
-    <video:publication_date>2026-02-08T03:03:23.000Z</video:publication_date>
-    <video:uploader>olytrc</video:uploader>
-    <video:expiration_date>2026-02-16T03:03:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
