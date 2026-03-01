@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/winter-showdown-2026/set/99964587/</loc>
+  <lastmod>2026-03-01T23:10:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/818672/image-6a4f615b0e3f3d5071e587f3caa49a38.png
+    </video:thumbnail_loc>
+    <video:title>
+      Trojan vs KSKO | Whitetree, Winter Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Trojan vs KSKO | Whitetree in Winners Semi-Final of Winter Showdown 2026, streamed by paragonfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2711212969&amp;t=3h55m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>452</video:duration>
+    <video:publication_date>2026-03-01T22:50:02.000Z</video:publication_date>
+    <video:uploader>paragonfgc</video:uploader>
+    <video:expiration_date>2026-03-09T22:50:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/winter-showdown-2026/set/99963102/</loc>
-  <lastmod>2026-03-01T22:36:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-01T22:56:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2711212969&amp;t=3h41m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>839</video:duration>
+    <video:duration>742</video:duration>
     <video:publication_date>2026-03-01T22:36:01.000Z</video:publication_date>
     <video:uploader>paragonfgc</video:uploader>
     <video:expiration_date>2026-03-09T22:36:01.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-15T12:46:37.000Z</video:publication_date>
     <video:uploader>Uzuraka</video:uploader>
     <video:expiration_date>2026-02-23T12:46:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-10/set/99356322/</loc>
-  <lastmod>2026-02-15T12:51:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877894/image-85568ff32c671d369da5f059a8ca2238.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mantequilla vs Trixtor, Brussels Gaming Fest 10 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mantequilla vs Trixtor in Winners Round 1 of Brussels Gaming Fest 10, streamed by Uzuraka
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2698412175&amp;t=0h8m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>534</video:duration>
-    <video:publication_date>2026-02-15T12:35:06.000Z</video:publication_date>
-    <video:uploader>Uzuraka</video:uploader>
-    <video:expiration_date>2026-02-23T12:35:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
