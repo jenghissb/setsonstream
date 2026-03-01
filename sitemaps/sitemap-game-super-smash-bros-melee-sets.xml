@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/chandelan-3-2026/set/99940046/</loc>
+  <lastmod>2026-03-01T14:37:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867883/image-697eebd35ff36922efbdafe92443c084.png
+    </video:thumbnail_loc>
+    <video:title>
+      chaos6 vs Lava, ChandeLAN 3 - 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch chaos6 vs Lava in Losers Final of ChandeLAN 3 - 2026, streamed by ToulouseLastStock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2710850214&amp;t=5h5m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>608</video:duration>
+    <video:publication_date>2026-03-01T14:16:40.000Z</video:publication_date>
+    <video:uploader>ToulouseLastStock</video:uploader>
+    <video:expiration_date>2026-03-09T14:16:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/chandelan-3-2026/set/99940045/</loc>
-  <lastmod>2026-03-01T14:05:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-01T14:24:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2710850214&amp;t=4h53m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>991</video:duration>
+    <video:duration>667</video:duration>
     <video:publication_date>2026-03-01T14:05:10.000Z</video:publication_date>
     <video:uploader>ToulouseLastStock</video:uploader>
     <video:expiration_date>2026-03-09T14:05:10.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-12T01:54:06.000Z</video:publication_date>
     <video:uploader>nostyleesports2</video:uploader>
     <video:expiration_date>2026-02-20T01:54:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/birdbrained-melee-eavesdrop-brewery-4/set/99226545/</loc>
-  <lastmod>2026-02-12T02:22:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873858/image-feadca8b373896eb32f5a54d8fd0b359.png
-    </video:thumbnail_loc>
-    <video:title>
-      LT | Cbass vs JohnnyBottleCap, Birdbrained Melee @ Eavesdrop Brewery #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LT | Cbass vs JohnnyBottleCap in Winners Round 2 of Birdbrained Melee @ Eavesdrop Brewery #4, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2695340335&amp;t=2h21m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1078</video:duration>
-    <video:publication_date>2026-02-12T01:52:59.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2026-02-20T01:52:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
