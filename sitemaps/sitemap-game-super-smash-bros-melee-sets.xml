@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-97/set/99985638/</loc>
+  <lastmod>2026-03-02T20:21:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886026/image-a634cb37f6ffd7d44f85f915c3999928.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Busard vs Sabreur, KnockOut Zone #97 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Busard vs Sabreur in Losers Semi-Final of KnockOut Zone #97, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2712056106&amp;t=0h58m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1112</video:duration>
+    <video:publication_date>2026-03-02T20:01:37.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-03-10T20:01:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-97/set/99985622/</loc>
-  <lastmod>2026-03-02T19:19:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-02T19:50:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2712056106&amp;t=0h17m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1897</video:duration>
+    <video:duration>1256</video:duration>
     <video:publication_date>2026-03-02T19:19:49.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2026-03-10T19:19:49.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-12T02:00:32.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2026-02-20T02:00:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/birdbrained-melee-eavesdrop-brewery-4/set/99226544/</loc>
-  <lastmod>2026-02-12T02:22:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873858/image-feadca8b373896eb32f5a54d8fd0b359.png
-    </video:thumbnail_loc>
-    <video:title>
-      8va vs Skittlez, Birdbrained Melee @ Eavesdrop Brewery #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 8va vs Skittlez in Winners Round 2 of Birdbrained Melee @ Eavesdrop Brewery #4, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2695340335&amp;t=2h26m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>757</video:duration>
-    <video:publication_date>2026-02-12T01:58:39.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2026-02-20T01:58:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
