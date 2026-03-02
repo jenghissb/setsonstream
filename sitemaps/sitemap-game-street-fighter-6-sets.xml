@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-s-bros-44/set/99976473/</loc>
+  <lastmod>2026-03-02T02:42:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885425/image-f61c20d7f83b1adfc8550f24f673f4ef.png
+    </video:thumbnail_loc>
+    <video:title>
+      legenddaddy vs Reckagge, Street&apos;s Bros 44 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch legenddaddy vs Reckagge in Grand Final of Street&apos;s Bros 44, streamed by aozaru9
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2711506131&amp;t=1h19m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>552</video:duration>
+    <video:publication_date>2026-03-02T02:21:32.000Z</video:publication_date>
+    <video:uploader>aozaru9</video:uploader>
+    <video:expiration_date>2026-03-10T02:21:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/chop-chop-throwdown-16/set/99974108/</loc>
-  <lastmod>2026-03-02T01:42:07.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-02T02:13:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2711386616&amp;t=3h22m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1892</video:duration>
+    <video:duration>1120</video:duration>
     <video:publication_date>2026-03-02T01:42:07.000Z</video:publication_date>
     <video:uploader>BracketDemons</video:uploader>
     <video:expiration_date>2026-03-10T01:42:07.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T00:51:39.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-02-26T00:51:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-140/set/99431461/</loc>
-  <lastmod>2026-02-18T00:54:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882248/image-57d0e7738800e343542691f2ca0a20ca.png
-    </video:thumbnail_loc>
-    <video:title>
-      wtg | dawa vs MrGreenman, HoG: Dragon #140 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch wtg | dawa vs MrGreenman in Winners Round 1 of HoG: Dragon #140, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700698506&amp;t=0h11m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>711</video:duration>
-    <video:publication_date>2026-02-18T00:32:26.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-26T00:32:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
