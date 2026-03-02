@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gema-no-michi-12/set/99979177/</loc>
+  <lastmod>2026-03-02T07:06:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885052/image-ccab91b11c33afeada3fe13d38173fda.png
+    </video:thumbnail_loc>
+    <video:title>
+      Driva vs UCSD | CorbinsCustoms, Gema No Michi #12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Driva vs UCSD | CorbinsCustoms in Grand Final of Gema No Michi #12, streamed by Smashsocietygg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2711538411&amp;t=5h21m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1918</video:duration>
+    <video:publication_date>2026-03-02T07:06:37.000Z</video:publication_date>
+    <video:uploader>Smashsocietygg</video:uploader>
+    <video:expiration_date>2026-03-10T07:06:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fodlan-winds-iii-x-lion-academy/set/99978419/</loc>
   <lastmod>2026-03-02T04:51:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-22T02:06:23.000Z</video:publication_date>
     <video:uploader>alaskagamers</video:uploader>
     <video:expiration_date>2026-03-02T02:06:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ups-13-freight-forwarded/set/99642529/</loc>
-  <lastmod>2026-02-22T02:23:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876773/image-890cc1be345683fc8572221dfb966f80.png
-    </video:thumbnail_loc>
-    <video:title>
-      GaleWing vs Nimmy, UPS 13: Freight Forwarded - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GaleWing vs Nimmy in Winners Semi-Final of UPS 13: Freight Forwarded, streamed by slosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704314877&amp;t=0h31m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>834</video:duration>
-    <video:publication_date>2026-02-22T02:05:08.000Z</video:publication_date>
-    <video:uploader>slosmash</video:uploader>
-    <video:expiration_date>2026-03-02T02:05:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
