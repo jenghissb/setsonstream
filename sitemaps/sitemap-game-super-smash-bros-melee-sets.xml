@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-97/set/99985622/</loc>
+  <lastmod>2026-03-02T19:19:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886026/image-a634cb37f6ffd7d44f85f915c3999928.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Busard vs 514flexx, KnockOut Zone #97 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Busard vs 514flexx in Winners Semi-Final of KnockOut Zone #97, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2712056106&amp;t=0h17m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1897</video:duration>
+    <video:publication_date>2026-03-02T19:19:49.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-03-10T19:19:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/chandelan-3-2026/set/99940046/</loc>
   <lastmod>2026-03-01T14:37:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-12T01:58:39.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2026-02-20T01:58:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-17/set/99220867/</loc>
-  <lastmod>2026-02-12T02:22:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878287/image-35d92c1c30a39dd46e4493543e11dfa1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nen vs shrub, Gould St. Gauntlet #17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nen vs shrub in Losers Semi-Final of Gould St. Gauntlet #17, streamed by nostyleesports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2695344630&amp;t=2h16m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1494</video:duration>
-    <video:publication_date>2026-02-12T01:54:06.000Z</video:publication_date>
-    <video:uploader>nostyleesports2</video:uploader>
-    <video:expiration_date>2026-02-20T01:54:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
