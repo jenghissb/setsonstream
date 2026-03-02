@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/2-401/set/99981075/</loc>
-  <lastmod>2026-03-02T11:38:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/2-401/set/99981080/</loc>
+  <lastmod>2026-03-02T11:49:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882883/image-5f9888c991808aa4b6f3376c815f99f3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Eizamu vs TERAHORNS | あいうえおかん(TERAHORNS | aiueokan), 2(月)上野スマコミ#401(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Eizamu vs TERAHORNS | あいうえおかん(TERAHORNS | aiueokan) in Winners Semi-Final of 2(月)上野スマコミ#401(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/fW_qsSxuEDQ?start=4591s
+    </video:player_loc>
+    <video:duration>808</video:duration>
+    <video:publication_date>2026-03-02T11:49:48.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-03-10T11:49:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/2-401/set/99981075/</loc>
+  <lastmod>2026-03-02T11:49:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/fW_qsSxuEDQ?start=3911s
     </video:player_loc>
-    <video:duration>498</video:duration>
+    <video:duration>591</video:duration>
     <video:publication_date>2026-03-02T11:38:28.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2026-03-10T11:38:28.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-22T02:11:23.000Z</video:publication_date>
     <video:uploader>uoftesports</video:uploader>
     <video:expiration_date>2026-03-02T02:11:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/coppa-colosseo-4/set/99637052/</loc>
-  <lastmod>2026-02-22T02:28:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881505/image-96913a26c26961fa50599f2ade7d6b5b.png
-    </video:thumbnail_loc>
-    <video:title>
-      OUT | Whisky vs OUT | LittN! ඞ, Coppa Colosseo #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OUT | Whisky vs OUT | LittN! ඞ in Grand Final of Coppa Colosseo #4, streamed by Theoutlawgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704184211&amp;t=3h24m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>842</video:duration>
-    <video:publication_date>2026-02-22T02:10:27.000Z</video:publication_date>
-    <video:uploader>Theoutlawgg</video:uploader>
-    <video:expiration_date>2026-03-02T02:10:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
