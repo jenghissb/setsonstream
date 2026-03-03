@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-28/set/100003365/</loc>
-  <lastmod>2026-03-03T06:27:31.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886205/image-1b48771ec7ca6809616367acbcf37612.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jesse vs Elixir | EchoSpaceZ, Homebrew #28 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jesse vs Elixir | EchoSpaceZ in Losers Final of Homebrew #28, streamed by elixiresportsmedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=elixiresportsmedia&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2644</video:duration>
-    <video:publication_date>2026-03-03T06:27:31.000Z</video:publication_date>
-    <video:uploader>elixiresportsmedia</video:uploader>
-    <video:expiration_date>2026-03-11T06:27:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wgac-131/set/100001885/</loc>
   <lastmod>2026-03-03T06:52:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -46,6 +22,30 @@
     <video:publication_date>2026-03-03T06:31:10.000Z</video:publication_date>
     <video:uploader>kn3vs</video:uploader>
     <video:expiration_date>2026-03-11T06:31:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-28/set/100003365/</loc>
+  <lastmod>2026-03-03T07:48:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886205/image-1b48771ec7ca6809616367acbcf37612.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jesse vs Elixir | EchoSpaceZ, Homebrew #28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jesse vs Elixir | EchoSpaceZ in Losers Final of Homebrew #28, streamed by elixiresportsmedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2712455718&amp;t=2h46m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-03-03T06:27:31.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-03-11T06:27:31.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
