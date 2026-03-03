@@ -1,57 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wgac-131/set/100001947/</loc>
-  <lastmod>2026-03-03T05:56:19.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-28/set/100003365/</loc>
+  <lastmod>2026-03-03T06:27:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886205/image-1b48771ec7ca6809616367acbcf37612.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jesse vs Elixir | EchoSpaceZ, Homebrew #28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jesse vs Elixir | EchoSpaceZ in Losers Final of Homebrew #28, streamed by elixiresportsmedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=elixiresportsmedia&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2644</video:duration>
+    <video:publication_date>2026-03-03T06:27:31.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-03-11T06:27:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wgac-131/set/100001885/</loc>
+  <lastmod>2026-03-03T06:52:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/886781/image-efda536dc22ab7cb0de0a03acd53e233.png
     </video:thumbnail_loc>
     <video:title>
-      UW | Wadinator vs SMB | Knev$, WGAC #131 - Sets on Stream
+      SMB | Knev$ vs Rafbox, WGAC #131 - Sets on Stream
     </video:title>
     <video:description>
-      Watch UW | Wadinator vs SMB | Knev$ in Losers Final of WGAC #131, streamed by kn3vs
+      Watch SMB | Knev$ vs Rafbox in Grand Final Reset of WGAC #131, streamed by kn3vs
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2712398166&amp;t=3h34m46s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2712398166&amp;t=4h9m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>777</video:duration>
-    <video:publication_date>2026-03-03T05:56:19.000Z</video:publication_date>
+    <video:duration>1177</video:duration>
+    <video:publication_date>2026-03-03T06:31:10.000Z</video:publication_date>
     <video:uploader>kn3vs</video:uploader>
-    <video:expiration_date>2026-03-11T05:56:19.000Z</video:expiration_date>
+    <video:expiration_date>2026-03-11T06:31:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-bair-house-29/set/99999636/</loc>
-  <lastmod>2026-03-03T04:53:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-28/set/100003349/</loc>
+  <lastmod>2026-03-03T06:28:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887042/image-598c411614742ae89e10a43d3fdc52ff.png
+      https://images.start.gg/images/tournament/886205/image-1b48771ec7ca6809616367acbcf37612.png
     </video:thumbnail_loc>
     <video:title>
-      1G | Acida vs 1G | Boodabam, The Bair House #29 - Sets on Stream
+      Driva vs Jesse, Homebrew #28 - Sets on Stream
     </video:title>
     <video:description>
-      Watch 1G | Acida vs 1G | Boodabam in Grand Final of The Bair House #29, streamed by SpringfieldSmash
+      Watch Driva vs Jesse in Winners Final of Homebrew #28, streamed by elixiresportsmedia
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=SpringfieldSmash&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2712455718&amp;t=2h35m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-03-03T04:53:37.000Z</video:publication_date>
-    <video:uploader>SpringfieldSmash</video:uploader>
-    <video:expiration_date>2026-03-11T04:53:37.000Z</video:expiration_date>
+    <video:duration>651</video:duration>
+    <video:publication_date>2026-03-03T06:16:26.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-03-11T06:16:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wgac-131/set/100001884/</loc>
+  <lastmod>2026-03-03T06:34:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886781/image-efda536dc22ab7cb0de0a03acd53e233.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rafbox vs SMB | Knev$, WGAC #131 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rafbox vs SMB | Knev$ in Grand Final of WGAC #131, streamed by kn3vs
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2712398166&amp;t=3h50m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1147</video:duration>
+    <video:publication_date>2026-03-03T06:11:56.000Z</video:publication_date>
+    <video:uploader>kn3vs</video:uploader>
+    <video:expiration_date>2026-03-11T06:11:56.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-28/set/100003364/</loc>
-  <lastmod>2026-03-03T06:04:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-03T06:18:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +114,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2712455718&amp;t=2h23m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>311</video:duration>
+    <video:duration>722</video:duration>
     <video:publication_date>2026-03-03T06:04:05.000Z</video:publication_date>
     <video:uploader>elixiresportsmedia</video:uploader>
     <video:expiration_date>2026-03-11T06:04:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wgac-131/set/100001947/</loc>
+  <lastmod>2026-03-03T06:12:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886781/image-efda536dc22ab7cb0de0a03acd53e233.png
+    </video:thumbnail_loc>
+    <video:title>
+      UW | Wadinator vs SMB | Knev$, WGAC #131 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UW | Wadinator vs SMB | Knev$ in Losers Final of WGAC #131, streamed by kn3vs
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2712398166&amp;t=3h34m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>806</video:duration>
+    <video:publication_date>2026-03-03T05:56:19.000Z</video:publication_date>
+    <video:uploader>kn3vs</video:uploader>
+    <video:expiration_date>2026-03-11T05:56:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -262,6 +334,30 @@
     <video:publication_date>2026-03-03T04:54:27.000Z</video:publication_date>
     <video:uploader>MovementEsports</video:uploader>
     <video:expiration_date>2026-03-11T04:54:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-bair-house-29/set/99999636/</loc>
+  <lastmod>2026-03-03T06:54:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887042/image-598c411614742ae89e10a43d3fdc52ff.png
+    </video:thumbnail_loc>
+    <video:title>
+      1G | Acida vs 1G | Boodabam, The Bair House #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 1G | Acida vs 1G | Boodabam in Grand Final of The Bair House #29, streamed by SpringfieldSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2712398454&amp;t=2h31m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-03-03T04:53:37.000Z</video:publication_date>
+    <video:uploader>SpringfieldSmash</video:uploader>
+    <video:expiration_date>2026-03-11T04:53:37.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71902,102 +71998,6 @@
     <video:publication_date>2026-02-22T19:53:02.000Z</video:publication_date>
     <video:uploader>PhenixPhoceen</video:uploader>
     <video:expiration_date>2026-03-02T19:53:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/massachusetts-battle-of-top-academics-6/set/99675890/</loc>
-  <lastmod>2026-02-22T20:12:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867212/image-1f7c64e151498fdd39aa20d50cb355be.png
-    </video:thumbnail_loc>
-    <video:title>
-      WILSPORTS! | DavudTwentySeven vs FC|DO | NELSON (ネルソン)(FC|DO | NELSON ( neruson )), Massachusetts Battle of Top Academics 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WILSPORTS! | DavudTwentySeven vs FC|DO | NELSON (ネルソン)(FC|DO | NELSON ( neruson )) in Winners Quarter-Final of Massachusetts Battle of Top Academics 6, streamed by nuultimate
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704897339&amp;t=1h38m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1021</video:duration>
-    <video:publication_date>2026-02-22T19:52:27.000Z</video:publication_date>
-    <video:uploader>nuultimate</video:uploader>
-    <video:expiration_date>2026-03-02T19:52:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/claim-the-crown-137/set/99677106/</loc>
-  <lastmod>2026-02-22T20:07:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883344/image-40e2f0dcb0fc15c34fb35ed6216ce81a.png
-    </video:thumbnail_loc>
-    <video:title>
-      MU | Eden vs Ben T., Claim the Crown #137 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MU | Eden vs Ben T. in Winners Semi-Final of Claim the Crown #137, streamed by odysseyesportsin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704941893&amp;t=0h47m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>830</video:duration>
-    <video:publication_date>2026-02-22T19:50:39.000Z</video:publication_date>
-    <video:uploader>odysseyesportsin</video:uploader>
-    <video:expiration_date>2026-03-02T19:50:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ultimate-gaiden-65-smash-at-shots-vol-35/set/99675165/</loc>
-  <lastmod>2026-02-22T20:01:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871707/image-30792573df1adaabb976674fca425ce8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      EVG | HAPPY vs eFC | Naranja, Ultimate Gaiden# 65: Smash at Shots Vol. 35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EVG | HAPPY vs eFC | Naranja in Winners Semi-Final of Ultimate Gaiden# 65: Smash at Shots Vol. 35, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/5_VNodU_gV8?start=8812s
-    </video:player_loc>
-    <video:duration>679</video:duration>
-    <video:publication_date>2026-02-22T19:47:40.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
-    <video:expiration_date>2026-03-02T19:47:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sudden-death-sundays-42/set/99668728/</loc>
-  <lastmod>2026-02-22T20:07:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881770/image-7dccef2a47cace6bf9568476ce16610a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dr Insano | Myth vs KaKing, Sudden Death Sundays #42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dr Insano | Myth vs KaKing in Winners Final of Sudden Death Sundays #42, streamed by cuaesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704838129&amp;t=2h40m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1148</video:duration>
-    <video:publication_date>2026-02-22T19:44:33.000Z</video:publication_date>
-    <video:uploader>cuaesports</video:uploader>
-    <video:expiration_date>2026-03-02T19:44:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
