@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-258/set/100003851/</loc>
+  <lastmod>2026-03-03T08:24:43.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      coolade vs Allogist, WeeklyVac #258 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch coolade vs Allogist in Winners Round 2 of WeeklyVac #258, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2712569496&amp;t=0h20m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>718</video:duration>
+    <video:publication_date>2026-03-03T08:24:43.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2026-03-11T08:24:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wgac-131/set/100001885/</loc>
   <lastmod>2026-03-03T06:52:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-22T19:53:34.000Z</video:publication_date>
     <video:uploader>ugaesports</video:uploader>
     <video:expiration_date>2026-03-02T19:53:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-smash-unicorn-16/set/99670074/</loc>
-  <lastmod>2026-02-22T20:17:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874563/image-bbc8055f78eb2fe5c7c144e802ee0079.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      STRX | FRNK vs BH3 | Irongreen, The Smash Unicorn#16 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch STRX | FRNK vs BH3 | Irongreen in Grand Final of The Smash Unicorn#16, streamed by PhenixPhoceen
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704810790&amp;t=3h22m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1313</video:duration>
-    <video:publication_date>2026-02-22T19:53:02.000Z</video:publication_date>
-    <video:uploader>PhenixPhoceen</video:uploader>
-    <video:expiration_date>2026-03-02T19:53:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
