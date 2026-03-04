@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-258/set/100003851/</loc>
-  <lastmod>2026-03-03T08:24:43.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-152/set/100026485/</loc>
+  <lastmod>2026-03-04T06:37:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887301/image-6068ede738edd1d5b6bb2f47437992c2.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Clune vs SMB | Knev$, Octagon #152 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Clune vs SMB | Knev$ in Grand Final of Octagon #152, streamed by satellitesmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2713293895&amp;t=3h22m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1122</video:duration>
+    <video:publication_date>2026-03-04T06:37:13.000Z</video:publication_date>
+    <video:uploader>satellitesmash</video:uploader>
+    <video:expiration_date>2026-03-12T06:37:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/versus-reborn-245/set/100026817/</loc>
+  <lastmod>2026-03-04T06:39:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885102/image-31069831a0f6cf417c3c549b67c808a9.png
+    </video:thumbnail_loc>
+    <video:title>
+      ebs | Gust vs HK [ebs] | $kylock, VERSUS Reborn #245 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ebs | Gust vs HK [ebs] | $kylock in Grand Final of VERSUS Reborn #245, streamed by CapsuleEntertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2713301941&amp;t=3h12m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>975</video:duration>
+    <video:publication_date>2026-03-04T06:39:40.000Z</video:publication_date>
+    <video:uploader>CapsuleEntertainment</video:uploader>
+    <video:expiration_date>2026-03-12T06:39:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/versus-reborn-245/set/100026880/</loc>
+  <lastmod>2026-03-04T06:40:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885102/image-31069831a0f6cf417c3c549b67c808a9.png
+    </video:thumbnail_loc>
+    <video:title>
+      HK [ebs] | $kylock vs NLC | neopetsuser19, VERSUS Reborn #245 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HK [ebs] | $kylock vs NLC | neopetsuser19 in Losers Final of VERSUS Reborn #245, streamed by CapsuleEntertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2713301941&amp;t=3h0m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>732</video:duration>
+    <video:publication_date>2026-03-04T06:27:26.000Z</video:publication_date>
+    <video:uploader>CapsuleEntertainment</video:uploader>
+    <video:expiration_date>2026-03-12T06:27:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-258/set/100003851/</loc>
+  <lastmod>2026-03-04T06:38:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2712569496&amp;t=0h20m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>718</video:duration>
+    <video:duration>3269</video:duration>
     <video:publication_date>2026-03-03T08:24:43.000Z</video:publication_date>
     <video:uploader>bigcheese_gg</video:uploader>
     <video:expiration_date>2026-03-11T08:24:43.000Z</video:expiration_date>
@@ -26763,7 +26835,7 @@
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ubc-weekly-187/set/99850595/</loc>
   <lastmod>2026-02-28T07:31:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -71926,78 +71998,6 @@
     <video:publication_date>2026-02-22T19:59:46.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2026-03-02T19:59:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rva-sm-sh-208/set/99678569/</loc>
-  <lastmod>2026-02-22T20:12:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882374/image-5fc81d0378353d983ff294d0c4782594.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      COBRA KAI | Entropy vs WORM | DP3 | MasterCore, RVA Sm★sh #208 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch COBRA KAI | Entropy vs WORM | DP3 | MasterCore in Winners Round 2 of RVA Sm★sh #208, streamed by ttvMadison
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704899392&amp;t=1h39m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>880</video:duration>
-    <video:publication_date>2026-02-22T19:56:06.000Z</video:publication_date>
-    <video:uploader>ttvMadison</video:uploader>
-    <video:expiration_date>2026-03-02T19:56:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/winds-of-piracy-14/set/99519386/</loc>
-  <lastmod>2026-02-22T20:20:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/875774/image-e979936b84ea77e45df6cf412aa776c3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Forze vs Peppino, Winds of Piracy 14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Forze vs Peppino in Losers Final of Winds of Piracy 14, streamed by SmashbrosItalia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704735713&amp;t=5h10m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1356</video:duration>
-    <video:publication_date>2026-02-22T19:55:13.000Z</video:publication_date>
-    <video:uploader>SmashbrosItalia</video:uploader>
-    <video:expiration_date>2026-03-02T19:55:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/name-pending-106/set/99679091/</loc>
-  <lastmod>2026-02-22T20:04:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883215/image-e24bc1a77129a1dde117f37380173bc9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sol | Spruce vs ThePromisedHat, Name Pending 106 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sol | Spruce vs ThePromisedHat in Winners Round 1 of Name Pending 106, streamed by ugaesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704913917&amp;t=1h19m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>523</video:duration>
-    <video:publication_date>2026-02-22T19:53:34.000Z</video:publication_date>
-    <video:uploader>ugaesports</video:uploader>
-    <video:expiration_date>2026-03-02T19:53:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
