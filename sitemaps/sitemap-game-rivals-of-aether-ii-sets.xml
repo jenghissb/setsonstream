@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/p-neke-popoff-171-qwertyuiop/set/100028787/</loc>
+  <lastmod>2026-03-04T07:25:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886493/image-cc84f1a0b939c8236b1f61da71f6c022.png
+    </video:thumbnail_loc>
+    <video:title>
+      TTUSSA | Vro vs FR | ss23, Pōneke Popoff #171 - qwertyuiop - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TTUSSA | Vro vs FR | ss23 in Losers Quarter-Final of Pōneke Popoff #171 - qwertyuiop, streamed by respawnesportscentre
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2713385866&amp;t=0h55m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1022</video:duration>
+    <video:publication_date>2026-03-04T07:06:25.000Z</video:publication_date>
+    <video:uploader>respawnesportscentre</video:uploader>
+    <video:expiration_date>2026-03-12T07:06:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sandstorm-1-300-pot-bonus/set/99922072/</loc>
   <lastmod>2026-03-01T02:39:29.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-14T23:06:23.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-02-22T23:06:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-11-lovey-dubby-edition/set/99338496/</loc>
-  <lastmod>2026-02-14T23:06:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872259/image-73de4daa2f7c2f61d3e287b3cb545a89.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Arrendajo vs Sol Birdguy, Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Arrendajo vs Sol Birdguy in Winners Round 1 of Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697822957&amp;t=3h0m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1277</video:duration>
-    <video:publication_date>2026-02-14T22:44:54.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-02-22T22:44:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
