@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-19/set/100035840/</loc>
-  <lastmod>2026-03-04T23:31:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-19/set/100035781/</loc>
+  <lastmod>2026-03-04T23:44:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886394/image-1997ac11e04bad145328374f8e78e510.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tranimal vs Nen, Gould St. Gauntlet #19 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tranimal vs Nen in Winners Final of Gould St. Gauntlet #19, streamed by nostyleesports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2713913539&amp;t=1h12m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1002</video:duration>
+    <video:publication_date>2026-03-04T23:44:37.000Z</video:publication_date>
+    <video:uploader>nostyleesports2</video:uploader>
+    <video:expiration_date>2026-03-12T23:44:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-19/set/100035840/</loc>
+  <lastmod>2026-03-04T23:52:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2713913539&amp;t=0h58m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>841</video:duration>
+    <video:duration>1036</video:duration>
     <video:publication_date>2026-03-04T23:31:28.000Z</video:publication_date>
     <video:uploader>nostyleesports2</video:uploader>
     <video:expiration_date>2026-03-12T23:31:28.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-12T04:41:42.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2026-02-20T04:41:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-176-jiffy-s-birthday-time-for-genes-ass/set/99233441/</loc>
-  <lastmod>2026-02-12T04:43:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879665/image-e3f661df4628985c310050c1aa97101b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Salt vs turbo, Adam&apos;s Smash Series #176: Jiffy&apos;s birthday! Time for Genes[ass] - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Salt vs turbo in Winners Quarter-Final of Adam&apos;s Smash Series #176: Jiffy&apos;s birthday! Time for Genes[ass], streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2695497791&amp;t=1h41m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>245</video:duration>
-    <video:publication_date>2026-02-12T04:28:21.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2026-02-20T04:28:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
