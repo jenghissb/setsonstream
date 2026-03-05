@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-370/set/100066294/</loc>
+  <lastmod>2026-03-05T23:21:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887758/image-f1464f8fa9d83d6340dcb287d2a48d53.png
+    </video:thumbnail_loc>
+    <video:title>
+      Drayne vs 80HD, Salt Water Smash 370 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Drayne vs 80HD in Round 2 of Salt Water Smash 370, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2714760328&amp;t=0h28m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>512</video:duration>
+    <video:publication_date>2026-03-05T22:58:32.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-03-13T22:58:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-178-i-want-you-to-buy-floor-beers/set/100054619/</loc>
   <lastmod>2026-03-05T06:07:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-13T02:40:01.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-02-21T02:40:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-294/set/99256223/</loc>
-  <lastmod>2026-02-13T03:01:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879742/image-68d7078a29accbfe32bf00b42a2f2697.png
-    </video:thumbnail_loc>
-    <video:title>
-      Full Bloom | Horde vs BloNo | Flyguy, Illinois State Smash Weekly #294 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Full Bloom | Horde vs BloNo | Flyguy in Winners Semi-Final of Illinois State Smash Weekly #294, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2696229834&amp;t=2h12m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>899</video:duration>
-    <video:publication_date>2026-02-13T02:29:19.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2026-02-21T02:29:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
