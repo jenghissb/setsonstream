@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-10-9/set/100042887/</loc>
+  <lastmod>2026-03-05T03:15:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887861/image-8b5d9471092d868fdc7e2b87aca46269.png
+    </video:thumbnail_loc>
+    <video:title>
+      Merp vs Don, HoG: Burn 10.9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Merp vs Don in Losers Final of HoG: Burn 10.9, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2714003541&amp;t=2h17m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>754</video:duration>
+    <video:publication_date>2026-03-05T02:46:37.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-03-13T02:46:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-10-9/set/100042855/</loc>
-  <lastmod>2026-03-05T02:10:44.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-05T02:51:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2714003541&amp;t=1h41m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1713</video:duration>
+    <video:duration>1148</video:duration>
     <video:publication_date>2026-03-05T02:10:44.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-03-13T02:10:44.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-15T00:35:47.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-02-23T00:35:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-11-lovey-dubby-edition/set/99338532/</loc>
-  <lastmod>2026-02-15T00:35:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872259/image-73de4daa2f7c2f61d3e287b3cb545a89.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BUM | Shnoopy vs C.R.M, Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BUM | Shnoopy vs C.R.M in Losers Quarter-Final of Unc Frozen&apos;s Icebox 11: Lovey Dubby Edition, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697822957&amp;t=4h27m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1138</video:duration>
-    <video:publication_date>2026-02-15T00:12:07.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-02-23T00:12:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
