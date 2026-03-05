@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-48/set/100056861/</loc>
+  <lastmod>2026-03-05T08:25:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886812/image-0054b835b6dfcc3ae100c8239ef0eeeb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      REGS | BlackBiskit vs terdboy, Smash @ Burnside #48 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch REGS | BlackBiskit vs terdboy in Winners Round 1 of Smash @ Burnside #48, streamed by yauhhyeah
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2714263837&amp;t=0h25m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>691</video:duration>
+    <video:publication_date>2026-03-05T08:25:32.000Z</video:publication_date>
+    <video:uploader>yauhhyeah</video:uploader>
+    <video:expiration_date>2026-03-13T08:25:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/split-neutral-45/set/100055100/</loc>
   <lastmod>2026-03-05T07:46:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-23T05:00:42.000Z</video:publication_date>
     <video:uploader>Smashsocietygg</video:uploader>
     <video:expiration_date>2026-03-03T05:00:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/revival-9-1/set/99698979/</loc>
-  <lastmod>2026-02-23T04:42:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869059/image-9693e9b099bd8ebee17f9b338f8d58b3.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      うにたま(unitama) vs カタコンベ(katakonbe), みどブラRevival#9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch うにたま(unitama) vs カタコンベ(katakonbe) in Losers Round 3 of みどブラRevival#9, streamed by スマイン-Smash 薬院-
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/uJv0rCNOUTY?start=6884s
-    </video:player_loc>
-    <video:duration>1068</video:duration>
-    <video:publication_date>2026-02-23T04:22:45.000Z</video:publication_date>
-    <video:uploader>スマイン-Smash 薬院-</video:uploader>
-    <video:expiration_date>2026-03-03T04:22:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
