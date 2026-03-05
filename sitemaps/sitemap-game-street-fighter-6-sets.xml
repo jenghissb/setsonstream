@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-110/set/100058272/</loc>
+  <lastmod>2026-03-05T12:01:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886826/image-3e2b5e410a5d2ba3771db767f9eb7527.png
+    </video:thumbnail_loc>
+    <video:title>
+      ケンシロウ(kenshirou) vs FuyuKaki, Paradise Cup #110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ケンシロウ(kenshirou) vs FuyuKaki in Round 2 of Paradise Cup #110, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2714321163&amp;t=0h40m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>318</video:duration>
+    <video:publication_date>2026-03-05T11:41:12.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-03-13T11:41:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/road-to-cec2026-stun-city-03-04-2026-sf6-and-tekken-8-casuals/set/100042808/</loc>
   <lastmod>2026-03-05T02:39:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T01:27:43.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-02-26T01:27:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-140/set/99431503/</loc>
-  <lastmod>2026-02-18T01:43:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882248/image-57d0e7738800e343542691f2ca0a20ca.png
-    </video:thumbnail_loc>
-    <video:title>
-      TRICKY | morg vs VashTS, HoG: Dragon #140 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TRICKY | morg vs VashTS in Losers Quarter-Final of HoG: Dragon #140, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700698506&amp;t=1h4m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>851</video:duration>
-    <video:publication_date>2026-02-18T01:25:16.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-26T01:25:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
