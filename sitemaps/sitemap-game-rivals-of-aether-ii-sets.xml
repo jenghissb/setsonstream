@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-59/set/100078181/</loc>
+  <lastmod>2026-03-06T04:59:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887575/image-25527d65c3679500f0b98a7ce09e56da.png
+    </video:thumbnail_loc>
+    <video:title>
+      DEGEN | Stro vs BLZE | McLovin, Wasteland Warriors #59 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DEGEN | Stro vs BLZE | McLovin in Grand Final of Wasteland Warriors #59, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2714903720&amp;t=2h58m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>574</video:duration>
+    <video:publication_date>2026-03-06T04:30:02.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2026-03-14T04:30:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-21/set/100075553/</loc>
-  <lastmod>2026-03-06T03:57:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-06T04:37:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2714926849&amp;t=1h57m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1967</video:duration>
+    <video:duration>1007</video:duration>
     <video:publication_date>2026-03-06T03:57:28.000Z</video:publication_date>
     <video:uploader>PenguinosBC</video:uploader>
     <video:expiration_date>2026-03-14T03:57:28.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-15T04:01:25.000Z</video:publication_date>
     <video:uploader>genesisgg_4</video:uploader>
     <video:expiration_date>2026-02-23T04:01:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/genesis-x3/set/99346649/</loc>
-  <lastmod>2026-02-15T04:05:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/756975/image-3f28d9f63230dfa799dc3fb40702352d.png
-    </video:thumbnail_loc>
-    <video:title>
-      CakeAssault vs Bbatts, Genesis X3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CakeAssault vs Bbatts in Winners Quarter-Final of Genesis X3, streamed by genesisgg_4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697725185&amp;t=10h0m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>887</video:duration>
-    <video:publication_date>2026-02-15T03:46:30.000Z</video:publication_date>
-    <video:uploader>genesisgg_4</video:uploader>
-    <video:expiration_date>2026-02-23T03:46:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
