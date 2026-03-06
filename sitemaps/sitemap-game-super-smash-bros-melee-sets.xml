@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-136/set/100083725/</loc>
+  <lastmod>2026-03-06T06:07:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887717/image-a110ac77855eab9c690f14add0f55a3f.png
+    </video:thumbnail_loc>
+    <video:title>
+      OBE | Khalid vs LFG | Bimbo, Rage Against the CRT #136 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OBE | Khalid vs LFG | Bimbo in Grand Final of Rage Against the CRT #136, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2714968366&amp;t=2h45m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>868</video:duration>
+    <video:publication_date>2026-03-06T05:39:20.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2026-03-14T05:39:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-136/set/100083787/</loc>
-  <lastmod>2026-03-06T05:12:06.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-06T05:46:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2714968366&amp;t=2h18m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1314</video:duration>
+    <video:duration>1007</video:duration>
     <video:publication_date>2026-03-06T05:12:06.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-03-14T05:12:06.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-14T03:18:23.000Z</video:publication_date>
     <video:uploader>slte_nj</video:uploader>
     <video:expiration_date>2026-02-22T03:18:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-44/set/99304776/</loc>
-  <lastmod>2026-02-14T03:44:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880096/image-4a061f84b4c9702921aa27a6ffbddab2.png
-    </video:thumbnail_loc>
-    <video:title>
-      Reviewer vs ISLB | Ethan Shoe, The Guild Trials 44 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Reviewer vs ISLB | Ethan Shoe in Winners Quarter-Final of The Guild Trials 44, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697214541&amp;t=0h56m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>530</video:duration>
-    <video:publication_date>2026-02-14T03:17:17.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-02-22T03:17:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
