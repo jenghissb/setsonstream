@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-370/set/100066292/</loc>
+  <lastmod>2026-03-05T23:39:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887758/image-f1464f8fa9d83d6340dcb287d2a48d53.png
+    </video:thumbnail_loc>
+    <video:title>
+      80HD vs ChrisBall, Salt Water Smash 370 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 80HD vs ChrisBall in Round 1 of Salt Water Smash 370, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2714760328&amp;t=1h9m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1516</video:duration>
+    <video:publication_date>2026-03-05T23:39:17.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-03-13T23:39:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-370/set/100066294/</loc>
   <lastmod>2026-03-05T23:21:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-13T02:46:40.000Z</video:publication_date>
     <video:uploader>NCSUMelee</video:uploader>
     <video:expiration_date>2026-02-21T02:46:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-16/set/99247277/</loc>
-  <lastmod>2026-02-13T03:01:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880559/image-54da512a62837b91a4b6a14baff93f0b.png
-    </video:thumbnail_loc>
-    <video:title>
-      PBI | Bekvin vs HoG | Brub, HoG: Phoenix 9.16 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PBI | Bekvin vs HoG | Brub in Winners Final of HoG: Phoenix 9.16, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2696238169&amp;t=2h12m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>674</video:duration>
-    <video:publication_date>2026-02-13T02:40:01.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-21T02:40:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
