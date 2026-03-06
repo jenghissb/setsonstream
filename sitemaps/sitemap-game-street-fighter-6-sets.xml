@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-200-norcal-street-fighter-6-weekly/set/100085196/</loc>
+  <lastmod>2026-03-06T06:55:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885851/image-1cfde6260900a1ebb68ea2a54051e09a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | TreeWiz vs FitS | chumpslayer, Guildhouse Fighters 200! Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | TreeWiz vs FitS | chumpslayer in Grand Final of Guildhouse Fighters 200! Norcal Street Fighter 6 weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2715005049&amp;t=2h41m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>522</video:duration>
+    <video:publication_date>2026-03-06T06:27:50.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2026-03-14T06:27:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-200-norcal-street-fighter-6-weekly/set/100085322/</loc>
-  <lastmod>2026-03-06T06:08:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-06T06:35:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2715005049&amp;t=2h22m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1324</video:duration>
+    <video:duration>555</video:duration>
     <video:publication_date>2026-03-06T06:08:37.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-03-14T06:08:37.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T02:14:23.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-02-26T02:14:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesday-s-at-d-b-32/set/99437352/</loc>
-  <lastmod>2026-02-18T02:18:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880345/image-5879166afcda6345720e70be3e702061.png
-    </video:thumbnail_loc>
-    <video:title>
-      YungTate vs spooncats, Tuesday&apos;s at D&amp;B #32 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch YungTate vs spooncats in Winners Round 1 of Tuesday&apos;s at D&amp;B #32, streamed by FrankieG7Chi
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700769787&amp;t=0h19m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>457</video:duration>
-    <video:publication_date>2026-02-18T02:03:39.000Z</video:publication_date>
-    <video:uploader>FrankieG7Chi</video:uploader>
-    <video:expiration_date>2026-02-26T02:03:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
