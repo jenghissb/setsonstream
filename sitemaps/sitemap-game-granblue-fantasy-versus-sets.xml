@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152571/</loc>
-  <lastmod>2026-03-07T19:00:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152573/</loc>
+  <lastmod>2026-03-07T19:35:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877566/image-e51e6ae1b4d434b0666bee356b98fccc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Boombak vs Gbhforever, Plus Mids #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Boombak vs Gbhforever in Losers Final of Plus Mids #6, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716406886&amp;t=0h24m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>482</video:duration>
+    <video:publication_date>2026-03-07T19:35:48.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-03-15T19:35:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152571/</loc>
+  <lastmod>2026-03-07T19:38:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2716291727&amp;t=2h7m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1363</video:duration>
+    <video:duration>965</video:duration>
     <video:publication_date>2026-03-07T19:00:26.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-03-15T19:00:26.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-04T02:02:01.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2026-02-12T02:02:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-176/set/98936709/</loc>
-  <lastmod>2026-02-04T02:07:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877209/image-10485c023794a7af66b3e1f4b36c6adf.png
-    </video:thumbnail_loc>
-    <video:title>
-      WB | Brady vs Fizzie18, Smash @ Mizzou 176 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WB | Brady vs Fizzie18 in Losers Final of Smash @ Mizzou 176, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688394154&amp;t=1h17m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>702</video:duration>
-    <video:publication_date>2026-02-04T01:46:13.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-02-12T01:46:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
