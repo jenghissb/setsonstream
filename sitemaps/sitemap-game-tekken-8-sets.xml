@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-184/set/100123994/</loc>
+  <lastmod>2026-03-07T03:22:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887249/image-d782e76fed90a630bc2733d8373403b5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MCV vs TLT/THC | Nonenity, Flynn&apos;s Arcade 184 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MCV vs TLT/THC | Nonenity in Winners Semi-Final of Flynn&apos;s Arcade 184, streamed by flynnsarcadefl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2715827483&amp;t=0h54m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2236</video:duration>
+    <video:publication_date>2026-03-07T03:22:58.000Z</video:publication_date>
+    <video:uploader>flynnsarcadefl</video:uploader>
+    <video:expiration_date>2026-03-15T03:22:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/button-festival-2026/set/100095700/</loc>
   <lastmod>2026-03-06T19:45:49.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-19T01:28:52.000Z</video:publication_date>
     <video:uploader>matchstickmelee</video:uploader>
     <video:expiration_date>2026-02-27T01:28:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/showdown-81/set/99469700/</loc>
-  <lastmod>2026-02-19T01:38:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880896/image-fb11dceaf879a480dea66154a27b320d.png
-    </video:thumbnail_loc>
-    <video:title>
-      SLC | starr vs Pk | Break, Showdown #81 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SLC | starr vs Pk | Break in Winners Quarter-Final of Showdown #81, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2701604876&amp;t=0h13m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2026-02-19T01:22:44.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2026-02-27T01:22:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
