@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6-segunda-etapa/set/100150255/</loc>
+  <lastmod>2026-03-07T21:06:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887337/image-3502bf1e164369d6414275e4790d6b4d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Comitê | Thiaguinhor9 vs Mau Mau, Kabum Fight Club - Street Fighter 6 - Segunda etapa - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Comitê | Thiaguinhor9 vs Mau Mau in Losers Round 6 of Kabum Fight Club - Street Fighter 6 - Segunda etapa, streamed by fgcsaopaulo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716440926&amp;t=1h15m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2265</video:duration>
+    <video:publication_date>2026-03-07T21:06:29.000Z</video:publication_date>
+    <video:uploader>fgcsaopaulo</video:uploader>
+    <video:expiration_date>2026-03-15T21:06:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6-segunda-etapa/set/100150129/</loc>
   <lastmod>2026-03-07T20:09:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-19T12:29:17.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-02-27T12:29:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-109/set/99480067/</loc>
-  <lastmod>2026-02-19T12:22:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881638/image-2377bf771ae5a93947c8c7f60597566e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shimiso vs FitS | MixupCity, Paradise Cup #109 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shimiso vs FitS | MixupCity in Round 3 of Paradise Cup #109, streamed by Vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2701893555&amp;t=1h13m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>303</video:duration>
-    <video:publication_date>2026-02-19T12:09:45.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp</video:uploader>
-    <video:expiration_date>2026-02-27T12:09:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
