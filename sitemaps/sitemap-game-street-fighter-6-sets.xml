@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-110/set/100132067/</loc>
+  <lastmod>2026-03-07T06:17:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/883765/image-7db22ab22b12b4ccfa040bcd3733c5f3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ethan vs Bracket Demons | Exia, SoCal Colosseum #110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ethan vs Bracket Demons | Exia in Grand Final of SoCal Colosseum #110, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2715875400&amp;t=2h17m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>752</video:duration>
+    <video:publication_date>2026-03-07T05:46:11.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2026-03-15T05:46:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-110/set/100132081/</loc>
-  <lastmod>2026-03-07T05:17:38.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-07T05:51:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2715875400&amp;t=1h48m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2116</video:duration>
+    <video:duration>894</video:duration>
     <video:publication_date>2026-03-07T05:17:38.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2026-03-15T05:17:38.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T02:46:07.000Z</video:publication_date>
     <video:uploader>foothillfootsies</video:uploader>
     <video:expiration_date>2026-02-26T02:46:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-228-nii-san-it-s-a-lunar-new-year-asian-jew/set/99429734/</loc>
-  <lastmod>2026-02-18T02:41:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878836/image-ba0a169e6c4fa36dc6ed25d0805059a1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | GalaxyBrAn vs Truly | Ichi, CFG Tuesday Trials 228: Nii-san! It&apos;s A Lunar New Year, Asian Jew! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | GalaxyBrAn vs Truly | Ichi in Grand Final of CFG Tuesday Trials 228: Nii-san! It&apos;s A Lunar New Year, Asian Jew!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700665586&amp;t=2h41m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>682</video:duration>
-    <video:publication_date>2026-02-18T02:22:27.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-02-26T02:22:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
