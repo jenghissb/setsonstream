@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/showup-showdown-2026-march-sf6-x-granblue/set/100180812/</loc>
+  <lastmod>2026-03-07T23:11:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884284/image-a8a9901318a36824899deab0b191dbe7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cinamon vs Uma | Sunny, SHOWUP SHOWDOWN 2026 MARCH SF6 X GRANBLUE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cinamon vs Uma | Sunny in Winners Quarter-Final of SHOWUP SHOWDOWN 2026 MARCH SF6 X GRANBLUE, streamed by goonsquadpr
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716611032&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1996</video:duration>
+    <video:publication_date>2026-03-07T23:11:59.000Z</video:publication_date>
+    <video:uploader>goonsquadpr</video:uploader>
+    <video:expiration_date>2026-03-15T23:11:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152573/</loc>
   <lastmod>2026-03-07T20:14:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-04T02:50:14.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-02-12T02:50:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-176/set/98936675/</loc>
-  <lastmod>2026-02-04T02:33:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877209/image-10485c023794a7af66b3e1f4b36c6adf.png
-    </video:thumbnail_loc>
-    <video:title>
-      MM | Shmurtle vs WB | Brady, Smash @ Mizzou 176 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MM | Shmurtle vs WB | Brady in Grand Final of Smash @ Mizzou 176, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688394154&amp;t=1h33m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1689</video:duration>
-    <video:publication_date>2026-02-04T02:02:01.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-02-12T02:02:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
