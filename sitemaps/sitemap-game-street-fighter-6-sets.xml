@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-27/set/100133988/</loc>
+  <lastmod>2026-03-07T07:31:01.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879173/image-db74c42da5ad4f9f4bbb1ef05b802f5c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Chun Fun vs DJ_FLICKERZ, Drive Theory 27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chun Fun vs DJ_FLICKERZ in Winners Round 2 of Drive Theory 27, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716007791&amp;t=0h2m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1089</video:duration>
+    <video:publication_date>2026-03-07T07:31:01.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-03-15T07:31:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-110/set/100132067/</loc>
   <lastmod>2026-03-07T06:17:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T02:51:35.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-02-26T02:51:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/double-perfect-6-hello-tuesdays-d/set/99438433/</loc>
-  <lastmod>2026-02-18T03:05:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879714/image-f8180b8a3febdd73bcb932d01c59f126.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SeaGeeRoop vs UrA | Sweetheart!, Double Perfect #6 - HELLO TUESDAYS :D - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SeaGeeRoop vs UrA | Sweetheart! in Winners Final of Double Perfect #6 - HELLO TUESDAYS :D, streamed by foothillfootsies
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700788710&amp;t=0h40m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>490</video:duration>
-    <video:publication_date>2026-02-18T02:46:07.000Z</video:publication_date>
-    <video:uploader>foothillfootsies</video:uploader>
-    <video:expiration_date>2026-02-26T02:46:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
