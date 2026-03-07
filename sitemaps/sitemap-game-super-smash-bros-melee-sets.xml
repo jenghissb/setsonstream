@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-09/set/100154868/</loc>
+  <lastmod>2026-03-07T20:19:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884987/image-523a39bca9bc429e9066d1aad9765f56.png
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | djellaba luffy vs Slipkid, THE CRT: S04 EP #09 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | djellaba luffy vs Slipkid in Grand Final of THE CRT: S04 EP #09, streamed by kapa_team
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716323418&amp;t=2h46m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1719</video:duration>
+    <video:publication_date>2026-03-07T20:19:49.000Z</video:publication_date>
+    <video:uploader>kapa_team</video:uploader>
+    <video:expiration_date>2026-03-15T20:19:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-09/set/100154896/</loc>
   <lastmod>2026-03-07T19:55:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-15T20:57:07.000Z</video:publication_date>
     <video:uploader>wisconsinsmash2</video:uploader>
     <video:expiration_date>2026-02-23T20:57:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/genesis-x3/set/99349115/</loc>
-  <lastmod>2026-02-15T05:51:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/756975/image-3f28d9f63230dfa799dc3fb40702352d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Liquid | Hungrybox vs LLD | Cody Schwab, Genesis X3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Liquid | Hungrybox vs LLD | Cody Schwab in Losers Round 6 of Genesis X3, streamed by genesisgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697724090&amp;t=11h53m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>346</video:duration>
-    <video:publication_date>2026-02-15T05:37:44.000Z</video:publication_date>
-    <video:uploader>genesisgg</video:uploader>
-    <video:expiration_date>2026-02-23T05:37:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
