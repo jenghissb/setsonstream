@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-infinite-oasis-3-7-2026/set/100152405/</loc>
+  <lastmod>2026-03-07T17:23:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880591/image-e24bf7362216013549d67dbf1fe8498c.png
+    </video:thumbnail_loc>
+    <video:title>
+      DNBcool vs Kwame Brown, The Infinite Oasis 3/7/2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DNBcool vs Kwame Brown in Winners Round 2 of The Infinite Oasis 3/7/2026, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716290812&amp;t=0h31m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1347</video:duration>
+    <video:publication_date>2026-03-07T17:23:56.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-03-15T17:23:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-27/set/100136387/</loc>
   <lastmod>2026-03-07T13:09:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T04:22:27.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-02-26T04:22:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-18-biweekly-fighting-game-tournament-los-angeles/set/99442572/</loc>
-  <lastmod>2026-02-18T04:32:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880054/image-5f250a0b5051173c0d5f698ead5ce4e9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chef Dchong vs MeGnarly, DOWN BACK TUESDAYS @ MAMA LION #18 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chef Dchong vs MeGnarly in Winners Semi-Final of DOWN BACK TUESDAYS @ MAMA LION #18 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700876330&amp;t=0h9m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1347</video:duration>
-    <video:publication_date>2026-02-18T04:19:05.000Z</video:publication_date>
-    <video:uploader>DownBackClub</video:uploader>
-    <video:expiration_date>2026-02-26T04:19:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
