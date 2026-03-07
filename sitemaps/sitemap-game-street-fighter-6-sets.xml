@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-110/set/100132064/</loc>
-  <lastmod>2026-03-07T04:44:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-110/set/100132081/</loc>
+  <lastmod>2026-03-07T05:17:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/883765/image-7db22ab22b12b4ccfa040bcd3733c5f3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bracket Demons | Exia vs Vita | noot, SoCal Colosseum #110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bracket Demons | Exia vs Vita | noot in Losers Semi-Final of SoCal Colosseum #110, streamed by boredmanbelike
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2715875400&amp;t=1h48m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2116</video:duration>
+    <video:publication_date>2026-03-07T05:17:38.000Z</video:publication_date>
+    <video:uploader>boredmanbelike</video:uploader>
+    <video:expiration_date>2026-03-15T05:17:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-110/set/100132064/</loc>
+  <lastmod>2026-03-07T05:24:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2715875400&amp;t=1h16m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1112</video:duration>
+    <video:duration>798</video:duration>
     <video:publication_date>2026-03-07T04:44:49.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2026-03-15T04:44:49.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T02:22:27.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-02-26T02:22:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-140/set/99431476/</loc>
-  <lastmod>2026-02-18T02:41:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882248/image-57d0e7738800e343542691f2ca0a20ca.png
-    </video:thumbnail_loc>
-    <video:title>
-      VashTS vs Prophet, HoG: Dragon #140 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VashTS vs Prophet in Grand Final Reset of HoG: Dragon #140, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700698506&amp;t=2h0m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>716</video:duration>
-    <video:publication_date>2026-02-18T02:21:23.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-26T02:21:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
