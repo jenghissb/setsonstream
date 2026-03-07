@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/delta-rising/set/100133737/</loc>
-  <lastmod>2026-03-07T08:44:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/delta-rising/set/100133739/</loc>
+  <lastmod>2026-03-07T09:02:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/859392/image-4025798fc67b2558821b09302f97fae1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      こん(kon) vs ヤブクロンEX(yabukuron EX), DELTA×西武撃 Rising - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch こん(kon) vs ヤブクロンEX(yabukuron EX) in Losers Quarter-Final of DELTA×西武撃 Rising, streamed by 無明遊者【イベント配信団体】
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/zHSEtvhtkJI?start=25325s
+    </video:player_loc>
+    <video:duration>1449</video:duration>
+    <video:publication_date>2026-03-07T09:02:01.000Z</video:publication_date>
+    <video:uploader>無明遊者【イベント配信団体】</video:uploader>
+    <video:expiration_date>2026-03-15T09:02:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/delta-rising/set/100133737/</loc>
+  <lastmod>2026-03-07T09:03:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/zHSEtvhtkJI?start=24245s
     </video:player_loc>
-    <video:duration>682</video:duration>
+    <video:duration>910</video:duration>
     <video:publication_date>2026-03-07T08:44:01.000Z</video:publication_date>
     <video:uploader>無明遊者【イベント配信団体】</video:uploader>
     <video:expiration_date>2026-03-15T08:44:01.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-27T03:02:55.000Z</video:publication_date>
     <video:uploader>Smash_NM</video:uploader>
     <video:expiration_date>2026-03-07T03:02:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kmlocal-49/set/99795866/</loc>
-  <lastmod>2026-02-27T03:14:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883645/image-7c1afdf1edd686941ddec913cf2cca16.png
-    </video:thumbnail_loc>
-    <video:title>
-      meow! vs Ukiyo | Coltman, KMLocal #49 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch meow! vs Ukiyo | Coltman in Winners Final of KMLocal #49, streamed by KMLTournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2708583240&amp;t=3h12m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>676</video:duration>
-    <video:publication_date>2026-02-27T03:02:44.000Z</video:publication_date>
-    <video:uploader>KMLTournaments</video:uploader>
-    <video:expiration_date>2026-03-07T03:02:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
