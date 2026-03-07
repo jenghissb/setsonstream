@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-27/set/100134125/</loc>
-  <lastmod>2026-03-07T09:10:33.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-27/set/100134136/</loc>
+  <lastmod>2026-03-07T09:28:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879173/image-db74c42da5ad4f9f4bbb1ef05b802f5c.png
+    </video:thumbnail_loc>
+    <video:title>
+      elieatscrayons vs Valerie, Drive Theory 27 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch elieatscrayons vs Valerie in Losers Round 5 of Drive Theory 27, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716007791&amp;t=1h59m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1410</video:duration>
+    <video:publication_date>2026-03-07T09:28:19.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-03-15T09:28:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-27/set/100134125/</loc>
+  <lastmod>2026-03-07T09:36:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2716007791&amp;t=1h41m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>937</video:duration>
+    <video:duration>282</video:duration>
     <video:publication_date>2026-03-07T09:10:33.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2026-03-15T09:10:33.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-18T03:26:48.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-02-26T03:26:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-89/set/99436178/</loc>
-  <lastmod>2026-02-18T03:27:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880643/image-d23975bc23b906174aa8fd19df8ab89a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Burboovas vs Archway, 4o4 By Sh33rz: Street Fighter #89 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Burboovas vs Archway in Losers Quarter-Final of 4o4 By Sh33rz: Street Fighter #89, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700743665&amp;t=1h58m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>848</video:duration>
-    <video:publication_date>2026-02-18T03:11:25.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-02-26T03:11:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
