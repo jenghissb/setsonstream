@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152488/</loc>
-  <lastmod>2026-03-07T17:18:44.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152568/</loc>
+  <lastmod>2026-03-07T18:24:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/877566/image-e51e6ae1b4d434b0666bee356b98fccc.png
     </video:thumbnail_loc>
     <video:title>
-      Haephnes vs AnonShrimp, Plus Mids #6 - Sets on Stream
+      Gbhforever vs BogeyAppreciator, Plus Mids #6 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Haephnes vs AnonShrimp in Winners Round 1 of Plus Mids #6, streamed by just_mids
+      Watch Gbhforever vs BogeyAppreciator in Losers Round 4 of Plus Mids #6, streamed by just_mids
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716291727&amp;t=0h25m18s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2716291727&amp;t=1h30m36s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2356</video:duration>
-    <video:publication_date>2026-03-07T17:18:44.000Z</video:publication_date>
+    <video:duration>441</video:duration>
+    <video:publication_date>2026-03-07T18:24:02.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2026-03-15T17:18:44.000Z</video:expiration_date>
+    <video:expiration_date>2026-03-15T18:24:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152505/</loc>
+  <lastmod>2026-03-07T18:29:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877566/image-e51e6ae1b4d434b0666bee356b98fccc.png
+    </video:thumbnail_loc>
+    <video:title>
+      TF | HUEBERT vs JM | BeG04T, Plus Mids #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TF | HUEBERT vs JM | BeG04T in Winners Quarter-Final of Plus Mids #6, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716291727&amp;t=0h55m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>669</video:duration>
+    <video:publication_date>2026-03-07T17:49:07.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-03-15T17:49:07.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152497/</loc>
-  <lastmod>2026-03-07T17:26:31.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-07T17:58:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2716291727&amp;t=0h33m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1889</video:duration>
+    <video:duration>365</video:duration>
     <video:publication_date>2026-03-07T17:26:31.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-03-15T17:26:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152488/</loc>
+  <lastmod>2026-03-07T17:58:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877566/image-e51e6ae1b4d434b0666bee356b98fccc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Haephnes vs AnonShrimp, Plus Mids #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Haephnes vs AnonShrimp in Winners Round 1 of Plus Mids #6, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716291727&amp;t=0h25m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>915</video:duration>
+    <video:publication_date>2026-03-07T17:18:44.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-03-15T17:18:44.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -2590,54 +2638,6 @@
     <video:publication_date>2026-02-04T01:29:00.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2026-02-12T01:29:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-176/set/98936672/</loc>
-  <lastmod>2026-02-04T01:30:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877209/image-10485c023794a7af66b3e1f4b36c6adf.png
-    </video:thumbnail_loc>
-    <video:title>
-      MM | Shmurtle vs HMQ | Fuzzy_Snugs, Smash @ Mizzou 176 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MM | Shmurtle vs HMQ | Fuzzy_Snugs in Winners Semi-Final of Smash @ Mizzou 176, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688394154&amp;t=0h44m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>247</video:duration>
-    <video:publication_date>2026-02-04T01:12:25.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-02-12T01:12:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-176/set/98936673/</loc>
-  <lastmod>2026-02-04T01:16:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877209/image-10485c023794a7af66b3e1f4b36c6adf.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fizzie18 vs WB | Brady, Smash @ Mizzou 176 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fizzie18 vs WB | Brady in Winners Semi-Final of Smash @ Mizzou 176, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2688394154&amp;t=0h34m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>529</video:duration>
-    <video:publication_date>2026-02-04T01:02:28.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-02-12T01:02:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
