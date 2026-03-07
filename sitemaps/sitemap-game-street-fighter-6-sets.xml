@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/flynn-s-arcade-184/set/100117814/</loc>
+  <lastmod>2026-03-07T01:53:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887249/image-d782e76fed90a630bc2733d8373403b5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Z_Guy vs TD Blue, Flynn&apos;s Arcade 184 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Z_Guy vs TD Blue in Winners Semi-Final of Flynn&apos;s Arcade 184, streamed by flynnsgamingfl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=flynnsgamingfl&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>247</video:duration>
+    <video:publication_date>2026-03-07T01:53:25.000Z</video:publication_date>
+    <video:uploader>flynnsgamingfl</video:uploader>
+    <video:expiration_date>2026-03-15T01:53:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-200-norcal-street-fighter-6-weekly/set/100085196/</loc>
   <lastmod>2026-03-06T06:55:39.000Z</lastmod>
   <changefreq>daily</changefreq>
