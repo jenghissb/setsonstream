@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgsea-28/set/100197135/</loc>
+  <lastmod>2026-03-08T02:20:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886336/image-5de4a5089d5040be2eb89af6db047b41.png
+    </video:thumbnail_loc>
+    <video:title>
+      BARK | LeafBlade vs Manoueverable, FGSea #28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BARK | LeafBlade vs Manoueverable in Losers Round 1 of FGSea #28, streamed by FGSeaPNW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2716520482&amp;t=4h24m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1263</video:duration>
+    <video:publication_date>2026-03-08T01:47:00.000Z</video:publication_date>
+    <video:uploader>FGSeaPNW</video:uploader>
+    <video:expiration_date>2026-03-16T01:47:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgsea-28/set/100192485/</loc>
   <lastmod>2026-03-08T01:20:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-14T23:17:39.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-02-22T23:17:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-40-1/set/99341440/</loc>
-  <lastmod>2026-02-14T23:23:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879418/image-8d7c82d8ec54ae57fb9c6fe106341f30.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jeans vs Mater, Calculated #40 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jeans vs Mater in Winners Quarter-Final of Calculated #40, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697976476&amp;t=0h6m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>641</video:duration>
-    <video:publication_date>2026-02-14T23:06:41.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-02-22T23:06:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
