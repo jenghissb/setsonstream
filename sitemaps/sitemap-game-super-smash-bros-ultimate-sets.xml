@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151268/</loc>
+  <lastmod>2026-03-08T11:04:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886425/image-1c8eb255c013c348945dee3175e7eb3f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Phoenix vs Ragazzo Sam, Dehscension XL - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Phoenix vs Ragazzo Sam in Winners Round 2 of Dehscension XL, streamed by smashbrositalia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2717002333&amp;t=0h12m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>888</video:duration>
+    <video:publication_date>2026-03-08T11:04:03.000Z</video:publication_date>
+    <video:uploader>smashbrositalia</video:uploader>
+    <video:expiration_date>2026-03-16T11:04:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/revival-10-1/set/100205778/</loc>
   <lastmod>2026-03-08T08:42:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-28T01:44:11.000Z</video:publication_date>
     <video:uploader>el_sumidero_</video:uploader>
     <video:expiration_date>2026-03-08T01:44:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/defend-the-nest-58-smash-unf/set/99832913/</loc>
-  <lastmod>2026-02-28T01:58:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885699/image-c34b35bd596fcc825668f5f4a9ef6b55.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nori vs Mayhem, Defend The Nest #58 | Smash @ UNF - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nori vs Mayhem in Winners Quarter-Final of Defend The Nest #58 | Smash @ UNF, streamed by Narwhal3769
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709524507&amp;t=1h47m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>531</video:duration>
-    <video:publication_date>2026-02-28T01:43:15.000Z</video:publication_date>
-    <video:uploader>Narwhal3769</video:uploader>
-    <video:expiration_date>2026-03-08T01:43:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
