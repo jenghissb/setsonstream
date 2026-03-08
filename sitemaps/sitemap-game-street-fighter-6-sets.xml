@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/judgement-v-x-ranking-battle-mars-2026/set/100209986/</loc>
-  <lastmod>2026-03-08T16:12:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/otterly-reckless/set/100213267/</loc>
+  <lastmod>2026-03-08T16:58:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/836857/image-b517a793adb930b1fc8fc9752237a44f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      tarte vs Rafael, Otterly Reckless - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tarte vs Rafael in Winners Semi-Final of Otterly Reckless, streamed by rtparena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2717036489&amp;t=4h52m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1797</video:duration>
+    <video:publication_date>2026-03-08T16:58:47.000Z</video:publication_date>
+    <video:uploader>rtparena</video:uploader>
+    <video:expiration_date>2026-03-16T16:58:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/judgement-v-x-ranking-battle-mars-2026/set/100209986/</loc>
+  <lastmod>2026-03-08T17:05:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2717095128&amp;t=2h18m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2854</video:duration>
+    <video:duration>945</video:duration>
     <video:publication_date>2026-03-08T16:12:52.000Z</video:publication_date>
     <video:uploader>RDashAsso</video:uploader>
     <video:expiration_date>2026-03-16T16:12:52.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/otterly-reckless/set/100213263/</loc>
-  <lastmod>2026-03-08T16:08:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-08T17:05:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2717036489&amp;t=4h2m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3100</video:duration>
+    <video:duration>944</video:duration>
     <video:publication_date>2026-03-08T16:08:46.000Z</video:publication_date>
     <video:uploader>rtparena</video:uploader>
     <video:expiration_date>2026-03-16T16:08:46.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-20T05:29:44.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-02-28T05:29:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-198-norcal-street-fighter-6-weekly/set/99508749/</loc>
-  <lastmod>2026-02-20T05:31:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881467/image-a4ad760c940bb46ff91969200f130ece.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      aki guy vs FitS | SodaCan, Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch aki guy vs FitS | SodaCan in Losers Quarter-Final of Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702588705&amp;t=1h29m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>599</video:duration>
-    <video:publication_date>2026-02-20T05:13:24.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2026-02-28T05:13:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
