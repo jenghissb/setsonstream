@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151274/</loc>
-  <lastmod>2026-03-08T11:24:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151277/</loc>
+  <lastmod>2026-03-08T11:45:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886425/image-1c8eb255c013c348945dee3175e7eb3f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Climax vs MIG, Dehscension XL - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Climax vs MIG in Winners Quarter-Final of Dehscension XL, streamed by smashbrositalia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2717002333&amp;t=0h53m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>628</video:duration>
+    <video:publication_date>2026-03-08T11:45:26.000Z</video:publication_date>
+    <video:uploader>smashbrositalia</video:uploader>
+    <video:expiration_date>2026-03-16T11:45:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151274/</loc>
+  <lastmod>2026-03-08T11:49:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2717002333&amp;t=0h33m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1176</video:duration>
+    <video:duration>1141</video:duration>
     <video:publication_date>2026-03-08T11:24:42.000Z</video:publication_date>
     <video:uploader>smashbrositalia</video:uploader>
     <video:expiration_date>2026-03-16T11:24:42.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-28T01:45:31.000Z</video:publication_date>
     <video:uploader>manhattanesports</video:uploader>
     <video:expiration_date>2026-03-08T01:45:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/northeastern-smash-tournaments-spring-26-7/set/99832111/</loc>
-  <lastmod>2026-02-28T02:02:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885583/image-e3408a561d893c86a1b59b5c11dcdcf8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Real Plant vs Wilsports | Wiloo, Northeastern Smash Tournaments Spring ‘26 #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Real Plant vs Wilsports | Wiloo in Winners Quarter-Final of Northeastern Smash Tournaments Spring ‘26 #7, streamed by nuultimate
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709550809&amp;t=1h19m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>842</video:duration>
-    <video:publication_date>2026-02-28T01:44:43.000Z</video:publication_date>
-    <video:uploader>nuultimate</video:uploader>
-    <video:expiration_date>2026-03-08T01:44:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
