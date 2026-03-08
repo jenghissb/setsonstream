@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/revival-10-1/set/100205793/</loc>
+  <lastmod>2026-03-08T08:19:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884203/image-ab8d46596508548894f4e0dcd89e1602.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      なかぞーの(nakazoono) vs DPS | SHOOさん(DPS | SHOO san), みどブラRevival#10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch なかぞーの(nakazoono) vs DPS | SHOOさん(DPS | SHOO san) in Losers Final of みどブラRevival#10, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/clbAOr39q4I?start=17344s
+    </video:player_loc>
+    <video:duration>772</video:duration>
+    <video:publication_date>2026-03-08T08:02:30.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2026-03-16T08:02:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/revival-10-1/set/100205792/</loc>
-  <lastmod>2026-03-08T07:40:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-08T08:06:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/clbAOr39q4I?start=16051s
     </video:player_loc>
-    <video:duration>702</video:duration>
+    <video:duration>1288</video:duration>
     <video:publication_date>2026-03-08T07:40:57.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2026-03-16T07:40:57.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-28T01:42:13.000Z</video:publication_date>
     <video:uploader>Rocky_thepetrock</video:uploader>
     <video:expiration_date>2026-03-08T01:42:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/adventure-b-airs-524/set/99841520/</loc>
-  <lastmod>2026-02-28T01:55:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883913/image-2ddb1369d9d0f9a48ad3f0bdfdcb0e4f.png
-    </video:thumbnail_loc>
-    <video:title>
-      BAE | YBBurrus vs Yoda Cage, Adventure B-Airs #524 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BAE | YBBurrus vs Yoda Cage in Winners Round 2 of Adventure B-Airs #524, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709532575&amp;t=1h37m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>491</video:duration>
-    <video:publication_date>2026-02-28T01:41:36.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2026-03-08T01:41:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
