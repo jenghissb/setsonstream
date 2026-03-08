@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151268/</loc>
-  <lastmod>2026-03-08T11:04:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151274/</loc>
+  <lastmod>2026-03-08T11:24:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886425/image-1c8eb255c013c348945dee3175e7eb3f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Hell shake vs Sir Pistak, Dehscension XL - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Hell shake vs Sir Pistak in Winners Round 2 of Dehscension XL, streamed by smashbrositalia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2717002333&amp;t=0h33m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1176</video:duration>
+    <video:publication_date>2026-03-08T11:24:42.000Z</video:publication_date>
+    <video:uploader>smashbrositalia</video:uploader>
+    <video:expiration_date>2026-03-16T11:24:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151268/</loc>
+  <lastmod>2026-03-08T11:27:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2717002333&amp;t=0h12m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>888</video:duration>
+    <video:duration>1198</video:duration>
     <video:publication_date>2026-03-08T11:04:03.000Z</video:publication_date>
     <video:uploader>smashbrositalia</video:uploader>
     <video:expiration_date>2026-03-16T11:04:03.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-28T01:44:43.000Z</video:publication_date>
     <video:uploader>nuultimate</video:uploader>
     <video:expiration_date>2026-03-08T01:44:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/4to-clasificatorio-liga-de-invierno-2026-1/set/99844639/</loc>
-  <lastmod>2026-02-28T01:58:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879984/image-1c30cc390420672fb01890361e29795e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      KZ | Yayo vs Ozky, 4to Clasificatorio/Liga de Invierno 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KZ | Yayo vs Ozky in Round 1 of 4to Clasificatorio/Liga de Invierno 2026, streamed by el_sumidero_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709516054&amp;t=1h58m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>624</video:duration>
-    <video:publication_date>2026-02-28T01:44:11.000Z</video:publication_date>
-    <video:uploader>el_sumidero_</video:uploader>
-    <video:expiration_date>2026-03-08T01:44:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
