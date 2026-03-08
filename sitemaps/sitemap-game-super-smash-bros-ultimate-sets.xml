@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151278/</loc>
+  <lastmod>2026-03-08T12:33:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886425/image-1c8eb255c013c348945dee3175e7eb3f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Fyze vs Hell shake, Dehscension XL - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fyze vs Hell shake in Winners Quarter-Final of Dehscension XL, streamed by smashbrositalia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2717002333&amp;t=1h19m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1136</video:duration>
+    <video:publication_date>2026-03-08T12:11:21.000Z</video:publication_date>
+    <video:uploader>smashbrositalia</video:uploader>
+    <video:expiration_date>2026-03-16T12:11:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dehscension-xl/set/100151277/</loc>
-  <lastmod>2026-03-08T11:45:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-08T12:18:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2717002333&amp;t=0h53m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>628</video:duration>
+    <video:duration>1407</video:duration>
     <video:publication_date>2026-03-08T11:45:26.000Z</video:publication_date>
     <video:uploader>smashbrositalia</video:uploader>
     <video:expiration_date>2026-03-16T11:45:26.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-28T01:46:29.000Z</video:publication_date>
     <video:uploader>PalouseGaming</video:uploader>
     <video:expiration_date>2026-03-08T01:46:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/manhattan-university-weeklies-muw-36/set/99831006/</loc>
-  <lastmod>2026-02-28T02:10:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885441/image-c2012d3a52f4db07b0a15bf360325550.png
-    </video:thumbnail_loc>
-    <video:title>
-      PPP | Pineapple vs HoP | C.Y.B.E.RX, Manhattan University Weeklies (MUW) #36! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PPP | Pineapple vs HoP | C.Y.B.E.RX in Losers Semi-Final of Manhattan University Weeklies (MUW) #36!, streamed by manhattanesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709463149&amp;t=3h4m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1243</video:duration>
-    <video:publication_date>2026-02-28T01:45:31.000Z</video:publication_date>
-    <video:uploader>manhattanesports</video:uploader>
-    <video:expiration_date>2026-03-08T01:45:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
