@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/9-406/set/100243422/</loc>
-  <lastmod>2026-03-09T13:03:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882888/image-ee83ba4f00a75545c7791cdae283a9ee.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ごりしん(gorishin) vs きょう(kyou), 9(月)上野スマコミ#406(オープン) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ごりしん(gorishin) vs きょう(kyou) in Grand Final of 9(月)上野スマコミ#406(オープン), streamed by BUZZ e-sports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/channel/UC0CNxYESc0khvnecH7pKS2Q
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-03-09T13:03:26.000Z</video:publication_date>
-    <video:uploader>BUZZ e-sports</video:uploader>
-    <video:expiration_date>2026-03-17T13:03:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-152-maesuma-hit-152/set/100243518/</loc>
   <lastmod>2026-03-09T13:41:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -46,6 +22,30 @@
     <video:publication_date>2026-03-09T13:18:41.000Z</video:publication_date>
     <video:uploader>まえだくん</video:uploader>
     <video:expiration_date>2026-03-17T13:18:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/9-406/set/100243422/</loc>
+  <lastmod>2026-03-09T15:03:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882888/image-ee83ba4f00a75545c7791cdae283a9ee.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ごりしん(gorishin) vs きょう(kyou), 9(月)上野スマコミ#406(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ごりしん(gorishin) vs きょう(kyou) in Grand Final of 9(月)上野スマコミ#406(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/fi2rnYr62-s?start=9035s
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-03-09T13:03:26.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-03-17T13:03:26.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
