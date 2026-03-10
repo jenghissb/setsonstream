@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-29/set/100266023/</loc>
+  <lastmod>2026-03-10T05:51:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887732/image-bd1c0b086b379ad5e3e0a2c8f3442e52.png
+    </video:thumbnail_loc>
+    <video:title>
+      JEL | Quit vs JEL | Arr_J, Homebrew #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JEL | Quit vs JEL | Arr_J in Winners Quarter-Final of Homebrew #29, streamed by elixiresportsmedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2718545682&amp;t=0h57m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1101</video:duration>
+    <video:publication_date>2026-03-10T05:24:06.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-03-18T05:24:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-258/set/100259984/</loc>
   <lastmod>2026-03-10T04:28:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-28T23:32:01.000Z</video:publication_date>
     <video:uploader>Adachi4</video:uploader>
     <video:expiration_date>2026-03-08T23:32:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/final-frame-3/set/99912536/</loc>
-  <lastmod>2026-02-28T23:41:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880652/image-b48662f7b4a4fa012e8a4f30dac19a3c.png
-    </video:thumbnail_loc>
-    <video:title>
-      AKKO vs Amber | GingerlyAcorn94, Final Frame #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AKKO vs Amber | GingerlyAcorn94 in Winners Round 2 of Final Frame #3, streamed by S Tier Events
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/ath_ubZqPSQ?start=1901s
-    </video:player_loc>
-    <video:duration>533</video:duration>
-    <video:publication_date>2026-02-28T23:30:05.000Z</video:publication_date>
-    <video:uploader>S Tier Events</video:uploader>
-    <video:expiration_date>2026-03-08T23:30:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
