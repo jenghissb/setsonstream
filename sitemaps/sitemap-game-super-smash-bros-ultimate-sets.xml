@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-29/set/100266059/</loc>
+  <lastmod>2026-03-10T08:04:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887732/image-bd1c0b086b379ad5e3e0a2c8f3442e52.png
+    </video:thumbnail_loc>
+    <video:title>
+      KALi vs tbae, Homebrew #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KALi vs tbae in Losers Final of Homebrew #29, streamed by elixiresportsmedia
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2718545682&amp;t=3h37m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1971</video:duration>
+    <video:publication_date>2026-03-10T08:04:05.000Z</video:publication_date>
+    <video:uploader>elixiresportsmedia</video:uploader>
+    <video:expiration_date>2026-03-18T08:04:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/homebrew-29/set/100266058/</loc>
   <lastmod>2026-03-10T07:44:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-02-28T23:39:00.000Z</video:publication_date>
     <video:uploader>PalouseGaming</video:uploader>
     <video:expiration_date>2026-03-08T23:39:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/river-city-rumble-5/set/99903633/</loc>
-  <lastmod>2026-02-28T23:55:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863224/image-8d5d2d7f67fef629152a51654cb08f1b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jin vs CVLY | Roger, River City Rumble 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jin vs CVLY | Roger in Losers Quarter-Final of River City Rumble 5, streamed by evansville_esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710164749&amp;t=6h29m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>935</video:duration>
-    <video:publication_date>2026-02-28T23:37:21.000Z</video:publication_date>
-    <video:uploader>evansville_esports</video:uploader>
-    <video:expiration_date>2026-03-08T23:37:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
