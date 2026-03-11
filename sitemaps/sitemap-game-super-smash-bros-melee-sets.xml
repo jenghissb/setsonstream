@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/friendlies-pr-189-melee-ultimate/set/100292539/</loc>
+  <lastmod>2026-03-11T18:57:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889160/image-7b63fc5a46b205c82f116288ef1bf353.png
+    </video:thumbnail_loc>
+    <video:title>
+      HEF | Howsov vs John 0skoH, Friendlies PR #189 - Melee &amp; Ultimate - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HEF | Howsov vs John 0skoH in Losers Final of Friendlies PR #189 - Melee &amp; Ultimate, streamed by Spiritofsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2719729444&amp;t=0h45m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>866</video:duration>
+    <video:publication_date>2026-03-11T18:57:02.000Z</video:publication_date>
+    <video:uploader>Spiritofsmash</video:uploader>
+    <video:expiration_date>2026-03-19T18:57:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/trey-s-trashcan-2-0/set/100286497/</loc>
   <lastmod>2026-03-11T07:22:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-17T04:29:47.000Z</video:publication_date>
     <video:uploader>verylocalmelee</video:uploader>
     <video:expiration_date>2026-02-25T04:29:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-487/set/99413975/</loc>
-  <lastmod>2026-02-17T04:58:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881191/image-52d0da626c008f8552617a6f7cb81e5a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fable vs GRAM | harthunter, Monday Night Melee 487 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fable vs GRAM | harthunter in Losers Semi-Final of Monday Night Melee 487, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2699908713&amp;t=2h30m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1747</video:duration>
-    <video:publication_date>2026-02-17T04:23:15.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-02-25T04:23:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
