@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-143/set/100275514/</loc>
+  <lastmod>2026-03-10T23:36:00.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/890055/image-f304ee8c822af9d14b9e199291e920db.png
+    </video:thumbnail_loc>
+    <video:title>
+      Canaan vs AbsoLucian, HoG: Dragon #143 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Canaan vs AbsoLucian in Winners Round 1 of HoG: Dragon #143, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2719151790&amp;t=0h7m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>890</video:duration>
+    <video:publication_date>2026-03-10T23:36:00.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-03-18T23:36:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-s-bros-45/set/100238339/</loc>
   <lastmod>2026-03-09T01:50:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-20T06:08:49.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-02-28T06:08:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-198-norcal-street-fighter-6-weekly/set/99508689/</loc>
-  <lastmod>2026-02-20T06:14:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881467/image-a4ad760c940bb46ff91969200f130ece.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Quasont vs FitS | chumpslayer, Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Quasont vs FitS | chumpslayer in Grand Final of Guildhouse Fighters 198 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702588705&amp;t=2h16m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>490</video:duration>
-    <video:publication_date>2026-02-20T06:00:30.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2026-02-28T06:00:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
