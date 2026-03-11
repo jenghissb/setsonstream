@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-186-mar10/set/100288171/</loc>
-  <lastmod>2026-03-11T07:47:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-11T08:08:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,9 +16,9 @@
       Watch CF | Monte vs CS3 | Marvelous_Marco in Grand Final of Shark Tank #186: MAR10, streamed by ClubSmashTV
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=ClubSmashTV&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2719433227&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>497</video:duration>
+    <video:duration>991</video:duration>
     <video:publication_date>2026-03-11T07:47:51.000Z</video:publication_date>
     <video:uploader>ClubSmashTV</video:uploader>
     <video:expiration_date>2026-03-19T07:47:51.000Z</video:expiration_date>
@@ -71998,30 +71998,6 @@
     <video:publication_date>2026-03-01T17:38:56.000Z</video:publication_date>
     <video:uploader>cuaesports</video:uploader>
     <video:expiration_date>2026-03-09T17:38:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dnkappa-tournoi-8/set/99941874/</loc>
-  <lastmod>2026-03-01T17:41:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882922/image-d5c4e696f48e461a7cd2aa085671f51b.png
-    </video:thumbnail_loc>
-    <video:title>
-      R-B | Double vs R-B | Ronéo, DnKappa Tournoi #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch R-B | Double vs R-B | Ronéo in Grand Final of DnKappa Tournoi #8, streamed by matheopaisy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2711134075&amp;t=0h14m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>35</video:duration>
-    <video:publication_date>2026-03-01T17:38:01.000Z</video:publication_date>
-    <video:uploader>matheopaisy</video:uploader>
-    <video:expiration_date>2026-03-09T17:38:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
