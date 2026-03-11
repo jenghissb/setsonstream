@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/college-dropout-85-1/set/100289145/</loc>
+  <lastmod>2026-03-11T14:01:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888561/image-7ed732c1ff6e448d1cb0150a9fdcfb22.png
+    </video:thumbnail_loc>
+    <video:title>
+      EG | Joe McXenoblade vs Turn Up, College Dropout #85 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EG | Joe McXenoblade vs Turn Up in Grand Final of College Dropout #85, streamed by perthsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2719490917&amp;t=2h28m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1310</video:duration>
+    <video:publication_date>2026-03-11T13:36:36.000Z</video:publication_date>
+    <video:uploader>perthsmash</video:uploader>
+    <video:expiration_date>2026-03-19T13:36:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/college-dropout-85-1/set/100289208/</loc>
-  <lastmod>2026-03-11T13:24:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-11T13:41:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2719490917&amp;t=2h15m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>910</video:duration>
+    <video:duration>738</video:duration>
     <video:publication_date>2026-03-11T13:24:09.000Z</video:publication_date>
     <video:uploader>perthsmash</video:uploader>
     <video:expiration_date>2026-03-19T13:24:09.000Z</video:expiration_date>
@@ -11259,7 +11283,7 @@
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/9-406/set/100243422/</loc>
   <lastmod>2026-03-09T15:03:27.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-01T19:44:03.000Z</video:publication_date>
     <video:uploader>odysseyesportsin</video:uploader>
     <video:expiration_date>2026-03-09T19:44:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-esg-monthly-27-the-ssb-event/set/99958060/</loc>
-  <lastmod>2026-03-01T19:55:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867728/image-aad9aae09168efc9df650f05bc8ab9b5.png
-    </video:thumbnail_loc>
-    <video:title>
-      AoC | Kitana vs Night, The ESG Monthly #27: The SSB Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AoC | Kitana vs Night in Winners Semi-Final of The ESG Monthly #27: The SSB Event, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2711241923&amp;t=0h16m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>672</video:duration>
-    <video:publication_date>2026-03-01T19:41:40.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2026-03-09T19:41:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
