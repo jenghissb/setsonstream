@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-179-more-floor-beers-more-more/set/100311863/</loc>
-  <lastmod>2026-03-12T03:51:49.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-179-more-floor-beers-more-more/set/100311748/</loc>
+  <lastmod>2026-03-12T04:49:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889918/image-edfca7d97ec3320bb43d7ea21ec18e24.png
+    </video:thumbnail_loc>
+    <video:title>
+      Eggdog | Salt vs Eggdog | Aura, Adam&apos;s Smash Series #179: MORE FLOOR BEERS!! MORE!!! MORE!!!! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Eggdog | Salt vs Eggdog | Aura in Winners Final of Adam&apos;s Smash Series #179: MORE FLOOR BEERS!! MORE!!! MORE!!!!, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2720086599&amp;t=3h2m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1701</video:duration>
+    <video:publication_date>2026-03-12T04:49:03.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2026-03-20T04:49:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-179-more-floor-beers-more-more/set/100311863/</loc>
+  <lastmod>2026-03-12T04:14:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2720086599&amp;t=2h5m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>429</video:duration>
+    <video:duration>813</video:duration>
     <video:publication_date>2026-03-12T03:51:49.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2026-03-20T03:51:49.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-18T07:28:04.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2026-02-26T07:28:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-130/set/99443359/</loc>
-  <lastmod>2026-02-18T07:34:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877731/image-0f8f25cd6e7815991a54f1354f301308.png
-    </video:thumbnail_loc>
-    <video:title>
-      Aerius vs Iron, Melee @ Abbey Tavern #130 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aerius vs Iron in Losers Final of Melee @ Abbey Tavern #130, streamed by SFMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700818888&amp;t=4h30m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>744</video:duration>
-    <video:publication_date>2026-02-18T07:15:34.000Z</video:publication_date>
-    <video:uploader>SFMelee</video:uploader>
-    <video:expiration_date>2026-02-26T07:15:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
