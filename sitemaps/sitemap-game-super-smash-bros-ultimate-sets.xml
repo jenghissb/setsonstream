@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-13-03-2026/set/100352772/</loc>
-  <lastmod>2026-03-13T16:38:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/universidad-de-oviedo-smash-university-roadtrip/set/100352423/</loc>
+  <lastmod>2026-03-13T17:13:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885749/image-a8bfdc8b360dde24c05e2ebfa1b5f24d.png
+    </video:thumbnail_loc>
+    <video:title>
+      PYTHONS | Lukas_kon_K vs PYTHONS | Gardenn, Universidad de Oviedo - Smash University Roadtrip - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PYTHONS | Lukas_kon_K vs PYTHONS | Gardenn in Winners Semi-Final of Universidad de Oviedo - Smash University Roadtrip, streamed by smashasturias
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2721263081&amp;t=2h12m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1431</video:duration>
+    <video:publication_date>2026-03-13T17:13:36.000Z</video:publication_date>
+    <video:uploader>smashasturias</video:uploader>
+    <video:expiration_date>2026-03-21T17:13:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-13-03-2026/set/100352772/</loc>
+  <lastmod>2026-03-13T17:03:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2721282818&amp;t=1h3m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1290</video:duration>
+    <video:duration>1269</video:duration>
     <video:publication_date>2026-03-13T16:38:10.000Z</video:publication_date>
     <video:uploader>citismash</video:uploader>
     <video:expiration_date>2026-03-21T16:38:10.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/universidad-de-oviedo-smash-university-roadtrip/set/100352421/</loc>
-  <lastmod>2026-03-13T16:30:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-13T16:59:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2721263081&amp;t=1h29m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1762</video:duration>
+    <video:duration>1507</video:duration>
     <video:publication_date>2026-03-13T16:30:18.000Z</video:publication_date>
     <video:uploader>smashasturias</video:uploader>
     <video:expiration_date>2026-03-21T16:30:18.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-05T04:05:00.000Z</video:publication_date>
     <video:uploader>TV_Seven</video:uploader>
     <video:expiration_date>2026-03-13T04:05:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/slambana-224/set/100040776/</loc>
-  <lastmod>2026-03-05T04:28:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887248/image-7ced0ca43ad8f8d89fc06c3bf9ce4452.png
-    </video:thumbnail_loc>
-    <video:title>
-      SK vs Simple, Slambana #224 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SK vs Simple in Grand Final of Slambana #224, streamed by crossslashstudios
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2713984353&amp;t=3h48m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1719</video:duration>
-    <video:publication_date>2026-03-05T03:53:50.000Z</video:publication_date>
-    <video:uploader>crossslashstudios</video:uploader>
-    <video:expiration_date>2026-03-13T03:53:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
