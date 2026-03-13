@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-60-guilty-gear-strive/set/100328171/</loc>
-  <lastmod>2026-03-12T22:59:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-60-guilty-gear-strive/set/100328175/</loc>
+  <lastmod>2026-03-12T23:20:46.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889302/image-27280c9d5556c333142dc09a3b3b72ee.png
+    </video:thumbnail_loc>
+    <video:title>
+      Stunstark vs FNAF | Casper, Just Mids #60: Guilty Gear Strive - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Stunstark vs FNAF | Casper in Winners Semi-Final of Just Mids #60: Guilty Gear Strive, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2720764553&amp;t=0h33m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1796</video:duration>
+    <video:publication_date>2026-03-12T23:20:46.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-03-20T23:20:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-60-guilty-gear-strive/set/100328171/</loc>
+  <lastmod>2026-03-12T23:28:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2720764553&amp;t=0h12m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1526</video:duration>
+    <video:duration>656</video:duration>
     <video:publication_date>2026-03-12T22:59:36.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-03-20T22:59:36.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-15T10:34:55.000Z</video:publication_date>
     <video:uploader>lausannetv</video:uploader>
     <video:expiration_date>2026-02-23T10:34:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/japan-impact-2026/set/99355221/</loc>
-  <lastmod>2026-02-15T10:39:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869958/image-7ee6abe790943462c09a8c49e3fc7e42.png
-    </video:thumbnail_loc>
-    <video:title>
-      ShaggyPasta vs ELV | ArlieZyPz, Japan Impact - 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ShaggyPasta vs ELV | ArlieZyPz in Winners Round 2 of Japan Impact - 2026, streamed by lausannetv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2698345044&amp;t=0h27m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>719</video:duration>
-    <video:publication_date>2026-02-15T10:24:18.000Z</video:publication_date>
-    <video:uploader>lausannetv</video:uploader>
-    <video:expiration_date>2026-02-23T10:24:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

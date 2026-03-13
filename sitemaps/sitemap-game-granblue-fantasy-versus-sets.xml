@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/neon-dreams-guilty-gear-strive-x-granblue-fantasy-versus-ttd-28/set/100330377/</loc>
+  <lastmod>2026-03-12T23:21:42.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888372/image-5c57d8a5f54a86cc13ba47bfe00a5bb5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dekdek vs wahoo!!!! | CroutonCriminal, Neon Dreams Guilty Gear Strive X Granblue Fantasy Versus TTD #28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dekdek vs wahoo!!!! | CroutonCriminal in Winners Round 1 of Neon Dreams Guilty Gear Strive X Granblue Fantasy Versus TTD #28, streamed by NeonDreamsArcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2720787159&amp;t=0h7m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1740</video:duration>
+    <video:publication_date>2026-03-12T23:21:42.000Z</video:publication_date>
+    <video:uploader>NeonDreamsArcade</video:uploader>
+    <video:expiration_date>2026-03-20T23:21:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-11-26/set/100304699/</loc>
   <lastmod>2026-03-12T01:54:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-07T17:05:56.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-02-15T17:05:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-8-1/set/99063041/</loc>
-  <lastmod>2026-02-07T17:08:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869579/image-dfa702cc1ac1578d958e3c963042f224.png
-    </video:thumbnail_loc>
-    <video:title>
-      Arefu vs Melliodama, Arca-Sys #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Arefu vs Melliodama in Winners Semi-Final of Arca-Sys #8, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2691420971&amp;t=3h57m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>982</video:duration>
-    <video:publication_date>2026-02-07T16:49:23.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2026-02-15T16:49:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
