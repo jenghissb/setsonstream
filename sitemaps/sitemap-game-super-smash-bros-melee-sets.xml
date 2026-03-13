@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wolfie-wars-66/set/100367452/</loc>
+  <lastmod>2026-03-13T23:13:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891164/image-a3bf56d21cc6f52494d2a3f0533e0880.png
+    </video:thumbnail_loc>
+    <video:title>
+      Grap vs LinkMain, Wolfie Wars 66 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Grap vs LinkMain in Winners Round 1 of Wolfie Wars 66, streamed by sbumelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2721637317&amp;t=0h4m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>715</video:duration>
+    <video:publication_date>2026-03-13T23:13:13.000Z</video:publication_date>
+    <video:uploader>sbumelee</video:uploader>
+    <video:expiration_date>2026-03-21T23:13:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kappa-clash-25/set/100355668/</loc>
   <lastmod>2026-03-13T18:51:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-19T03:01:27.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-02-27T03:01:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-winter-26-6-holy-carp-i-forgot-to-make-weeky/set/99462675/</loc>
-  <lastmod>2026-02-19T03:22:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882189/image-d50b893cb2f3542a4959494144cd6a52.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Andy Chung vs zoist | Ampp, UW Melee Weekly (Winter &apos;26) #6 - holy carp i forgot to make weeky - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Andy Chung vs zoist | Ampp in Grand Final Reset of UW Melee Weekly (Winter &apos;26) #6 - holy carp i forgot to make weeky, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2701531537&amp;t=3h7m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1780</video:duration>
-    <video:publication_date>2026-02-19T02:51:25.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2026-02-27T02:51:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
