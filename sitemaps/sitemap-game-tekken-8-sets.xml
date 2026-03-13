@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tol-thursday-night-throwdown-91/set/100334999/</loc>
-  <lastmod>2026-03-13T01:21:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/bragging-rights-88-the-people-s-card-shop/set/100346050/</loc>
+  <lastmod>2026-03-13T03:44:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888078/image-daf26b81008297ce69e681fd62c4d860.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cyclopsdwarf vs tbd, BRAGGING RIGHTS #88 @ The People&apos;s Card Shop - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cyclopsdwarf vs tbd in Winners Quarter-Final of BRAGGING RIGHTS #88 @ The People&apos;s Card Shop, streamed by peoplescardshop
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=peoplescardshop&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>885</video:duration>
+    <video:publication_date>2026-03-13T03:44:37.000Z</video:publication_date>
+    <video:uploader>peoplescardshop</video:uploader>
+    <video:expiration_date>2026-03-21T03:44:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tol-thursday-night-throwdown-91/set/100334999/</loc>
+  <lastmod>2026-03-13T02:02:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2720824462&amp;t=1h21m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1456</video:duration>
+    <video:duration>1320</video:duration>
     <video:publication_date>2026-03-13T01:21:59.000Z</video:publication_date>
     <video:uploader>tol_gaming_lounge</video:uploader>
     <video:expiration_date>2026-03-21T01:21:59.000Z</video:expiration_date>

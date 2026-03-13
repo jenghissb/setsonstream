@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bragging-rights-88-the-people-s-card-shop/set/100345962/</loc>
+  <lastmod>2026-03-13T03:27:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888078/image-daf26b81008297ce69e681fd62c4d860.png
+    </video:thumbnail_loc>
+    <video:title>
+      FZERO | Caliber vs FZERO | WheresMyKeys, BRAGGING RIGHTS #88 @ The People&apos;s Card Shop - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FZERO | Caliber vs FZERO | WheresMyKeys in Winners Semi-Final of BRAGGING RIGHTS #88 @ The People&apos;s Card Shop, streamed by veproduction
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2720974738&amp;t=0h6m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1913</video:duration>
+    <video:publication_date>2026-03-13T03:27:29.000Z</video:publication_date>
+    <video:uploader>veproduction</video:uploader>
+    <video:expiration_date>2026-03-21T03:27:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-60-guilty-gear-strive/set/100328207/</loc>
   <lastmod>2026-03-13T00:20:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-15T11:05:12.000Z</video:publication_date>
     <video:uploader>lausannetv</video:uploader>
     <video:expiration_date>2026-02-23T11:05:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/japan-impact-2026/set/99355234/</loc>
-  <lastmod>2026-02-15T11:07:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869958/image-7ee6abe790943462c09a8c49e3fc7e42.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yuri Jumpscare vs Sael, Japan Impact - 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yuri Jumpscare vs Sael in Winners Semi-Final of Japan Impact - 2026, streamed by lausannetv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2698345044&amp;t=0h54m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>787</video:duration>
-    <video:publication_date>2026-02-15T10:51:32.000Z</video:publication_date>
-    <video:uploader>lausannetv</video:uploader>
-    <video:expiration_date>2026-02-23T10:51:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
