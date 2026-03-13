@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-201-norcal-street-fighter-6-weekly/set/100345356/</loc>
+  <lastmod>2026-03-13T05:55:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889914/image-1ed3ccd9662a210dcee3d38745035e3b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FitS | chumpslayer vs Quasont, Guildhouse Fighters 201 - Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FitS | chumpslayer vs Quasont in Grand Final of Guildhouse Fighters 201 - Norcal Street Fighter 6 weekly, streamed by guildhouse
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2720949652&amp;t=2h46m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>853</video:duration>
+    <video:publication_date>2026-03-13T05:27:44.000Z</video:publication_date>
+    <video:uploader>guildhouse</video:uploader>
+    <video:expiration_date>2026-03-21T05:27:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-201-norcal-street-fighter-6-weekly/set/100345414/</loc>
   <lastmod>2026-03-13T04:51:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-21T15:45:46.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-01T15:45:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/assymylly-winter-2026/set/99578390/</loc>
-  <lastmod>2026-02-21T16:05:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
-    </video:thumbnail_loc>
-    <video:title>
-      DrGulag vs Torpan, Assymylly Winter 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DrGulag vs Torpan in Winners Semi-Final of Assymylly Winter 2026, streamed by assymylly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703820966&amp;t=0h20m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>664</video:duration>
-    <video:publication_date>2026-02-21T15:40:08.000Z</video:publication_date>
-    <video:uploader>assymylly</video:uploader>
-    <video:expiration_date>2026-03-01T15:40:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
