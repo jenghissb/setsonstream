@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396201/</loc>
+  <lastmod>2026-03-14T15:12:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886409/image-3989cd9763b7804d1e923569e6945ada.png
+    </video:thumbnail_loc>
+    <video:title>
+      FTW | tomoeCunha vs Sagres, Fight Or Fright #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FTW | tomoeCunha vs Sagres in Winners Semi-Final of Fight Or Fright #5, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722077755&amp;t=2h37m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>774</video:duration>
+    <video:publication_date>2026-03-14T15:12:28.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-22T15:12:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396199/</loc>
   <lastmod>2026-03-14T14:21:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-21T20:33:59.000Z</video:publication_date>
     <video:uploader>pocatellopugilistsfgc</video:uploader>
     <video:expiration_date>2026-03-01T20:33:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guild-gauntlet-7/set/99602927/</loc>
-  <lastmod>2026-02-21T20:58:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877502/image-91ffe80d9fdf42feecef692276bc11e7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Z_Guy vs Senu, Guild Gauntlet 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Z_Guy vs Senu in Winners Quarter-Final of Guild Gauntlet 7, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704047514&amp;t=0h34m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>732</video:duration>
-    <video:publication_date>2026-02-21T20:32:35.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-03-01T20:32:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
