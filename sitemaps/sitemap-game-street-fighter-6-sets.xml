@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396234/</loc>
-  <lastmod>2026-03-14T16:14:43.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396204/</loc>
+  <lastmod>2026-03-14T16:42:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886409/image-3989cd9763b7804d1e923569e6945ada.png
+    </video:thumbnail_loc>
+    <video:title>
+      FTW | tomoeCunha vs Rafael, Fight Or Fright #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FTW | tomoeCunha vs Rafael in Grand Final of Fight Or Fright #5, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722077755&amp;t=4h7m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>907</video:duration>
+    <video:publication_date>2026-03-14T16:42:24.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-22T16:42:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396234/</loc>
+  <lastmod>2026-03-14T16:46:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722077755&amp;t=3h40m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>735</video:duration>
+    <video:duration>623</video:duration>
     <video:publication_date>2026-03-14T16:14:43.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-22T16:14:43.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-21T20:45:35.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-03-01T20:45:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-february-21-2026/set/99599545/</loc>
-  <lastmod>2026-02-21T20:58:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873071/image-181dbc12c2c33ea597aa881b435262d1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ninja212x vs ZouEgnoys, Space City Beatdown - February 21, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ninja212x vs ZouEgnoys in Winners Round 1 of Space City Beatdown - February 21, 2026, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704056351&amp;t=0h27m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>430</video:duration>
-    <video:publication_date>2026-02-21T20:35:17.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-03-01T20:35:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
