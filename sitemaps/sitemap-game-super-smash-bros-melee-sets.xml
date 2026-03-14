@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100397455/</loc>
-  <lastmod>2026-03-14T14:02:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-7-lucky-legends/set/100399424/</loc>
+  <lastmod>2026-03-14T14:33:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872426/image-fd8c5ce9a3c2f7590da3e757166b00c6.png
+    </video:thumbnail_loc>
+    <video:title>
+      GROM vs jimmypq, SLAM 7 - Lucky Legends - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GROM vs jimmypq in Round 2 of SLAM 7 - Lucky Legends, streamed by GlaikitB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722059820&amp;t=2h34m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1226</video:duration>
+    <video:publication_date>2026-03-14T14:33:38.000Z</video:publication_date>
+    <video:uploader>GlaikitB</video:uploader>
+    <video:expiration_date>2026-03-22T14:33:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100397455/</loc>
+  <lastmod>2026-03-14T14:39:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722011865&amp;t=4h0m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1358</video:duration>
+    <video:duration>739</video:duration>
     <video:publication_date>2026-03-14T14:02:35.000Z</video:publication_date>
     <video:uploader>supersmashdelft</video:uploader>
     <video:expiration_date>2026-03-22T14:02:35.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-7-lucky-legends/set/100395114/</loc>
-  <lastmod>2026-03-14T14:01:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-14T14:39:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722059820&amp;t=2h2m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1429</video:duration>
+    <video:duration>845</video:duration>
     <video:publication_date>2026-03-14T14:01:24.000Z</video:publication_date>
     <video:uploader>GlaikitB</video:uploader>
     <video:expiration_date>2026-03-22T14:01:24.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-20T01:46:42.000Z</video:publication_date>
     <video:uploader>renwitdashifts</video:uploader>
     <video:expiration_date>2026-02-28T01:46:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-17/set/99495965/</loc>
-  <lastmod>2026-02-20T02:08:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882953/image-c20cf83e0e559f8d15a3f133cdfc1f0c.png
-    </video:thumbnail_loc>
-    <video:title>
-      HoG | Brub vs Dicy, HoG: Phoenix 9.17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HoG | Brub vs Dicy in Losers Quarter-Final of HoG: Phoenix 9.17, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702426510&amp;t=1h25m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>396</video:duration>
-    <video:publication_date>2026-02-20T01:46:35.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-28T01:46:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
