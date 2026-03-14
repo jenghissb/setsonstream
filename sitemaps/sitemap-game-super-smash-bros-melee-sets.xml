@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gourmet-bash-5-the-last-course/set/100434720/</loc>
-  <lastmod>2026-03-14T22:26:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gourmet-bash-5-the-last-course/set/100434729/</loc>
+  <lastmod>2026-03-14T23:14:12.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/861127/image-323d1cac53aa4f35966fdc65305b220e.png
     </video:thumbnail_loc>
     <video:title>
-      EMG | Dope vs Toffee, Gourmet Bash 5: The Last Course - Sets on Stream
+      CG | Goosekhan vs Carbs, Gourmet Bash 5: The Last Course - Sets on Stream
     </video:title>
     <video:description>
-      Watch EMG | Dope vs Toffee in Winners Round 2 of Gourmet Bash 5: The Last Course, streamed by NoStyleEsports2
+      Watch CG | Goosekhan vs Carbs in Winners Quarter-Final of Gourmet Bash 5: The Last Course, streamed by NoStyleEsports2
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722195150&amp;t=6h39m18s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2722195150&amp;t=7h27m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1597</video:duration>
-    <video:publication_date>2026-03-14T22:26:28.000Z</video:publication_date>
+    <video:duration>643</video:duration>
+    <video:publication_date>2026-03-14T23:14:12.000Z</video:publication_date>
     <video:uploader>NoStyleEsports2</video:uploader>
-    <video:expiration_date>2026-03-22T22:26:28.000Z</video:expiration_date>
+    <video:expiration_date>2026-03-22T23:14:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/take-flight-26/set/100433542/</loc>
+  <lastmod>2026-03-14T23:14:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864665/image-cfbad2f0e2d86737bc4a947796d00e35.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Twotran vs Iceking, Take Flight &apos;26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Twotran vs Iceking in Winners Final of Take Flight &apos;26, streamed by gemcityesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722406245&amp;t=3h10m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>633</video:duration>
+    <video:publication_date>2026-03-14T23:14:22.000Z</video:publication_date>
+    <video:uploader>gemcityesports</video:uploader>
+    <video:expiration_date>2026-03-22T23:14:22.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/take-flight-26/set/100433565/</loc>
-  <lastmod>2026-03-14T22:31:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-14T23:18:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722406245&amp;t=2h27m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1301</video:duration>
+    <video:duration>1598</video:duration>
     <video:publication_date>2026-03-14T22:31:24.000Z</video:publication_date>
     <video:uploader>gemcityesports</video:uploader>
     <video:expiration_date>2026-03-22T22:31:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gourmet-bash-5-the-last-course/set/100434720/</loc>
+  <lastmod>2026-03-14T23:18:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861127/image-323d1cac53aa4f35966fdc65305b220e.png
+    </video:thumbnail_loc>
+    <video:title>
+      EMG | Dope vs Toffee, Gourmet Bash 5: The Last Course - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EMG | Dope vs Toffee in Winners Round 2 of Gourmet Bash 5: The Last Course, streamed by NoStyleEsports2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722195150&amp;t=6h39m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1431</video:duration>
+    <video:publication_date>2026-03-14T22:26:28.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports2</video:uploader>
+    <video:expiration_date>2026-03-22T22:26:28.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-02-20T05:51:39.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-02-28T05:51:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sf-state-smash-thursdays-2-19-2026/set/99509304/</loc>
-  <lastmod>2026-02-20T06:01:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882605/image-4398c5100055c1f47666acea2193ed08.png
-    </video:thumbnail_loc>
-    <video:title>
-      AKAW | 渦巻き(Uzumaki)(AKAW | uzumaki (Uzumaki )) vs kaiyon, SF State Smash Thursdays 2/19/2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AKAW | 渦巻き(Uzumaki)(AKAW | uzumaki (Uzumaki )) vs kaiyon in Losers Final of SF State Smash Thursdays 2/19/2026, streamed by egg_ssbm
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702553845&amp;t=2h48m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>604</video:duration>
-    <video:publication_date>2026-02-20T05:43:09.000Z</video:publication_date>
-    <video:uploader>egg_ssbm</video:uploader>
-    <video:expiration_date>2026-02-28T05:43:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-134/set/99507813/</loc>
-  <lastmod>2026-02-20T06:01:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881918/image-5ebc9b25436b10e32f071b6a2c4bade4.png
-    </video:thumbnail_loc>
-    <video:title>
-      MF | KoDoRiN vs snake, Rage Against the CRT #134 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MF | KoDoRiN vs snake in Winners Final of Rage Against the CRT #134, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702563389&amp;t=2h31m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>823</video:duration>
-    <video:publication_date>2026-02-20T05:37:52.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2026-02-28T05:37:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
