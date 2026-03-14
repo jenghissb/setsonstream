@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/set-count-exe/set/100413902/</loc>
+  <lastmod>2026-03-14T21:57:30.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/847964/image-95c4c920adfae2190b2868979ca27efe.png
+    </video:thumbnail_loc>
+    <video:title>
+      UNT | 1OnlyMundo vs Jiku | TayKay, Set Count.exe - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UNT | 1OnlyMundo vs Jiku | TayKay in Winners Final of Set Count.exe, streamed by hxcgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722333961&amp;t=3h10m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1520</video:duration>
+    <video:publication_date>2026-03-14T21:57:30.000Z</video:publication_date>
+    <video:uploader>hxcgaming</video:uploader>
+    <video:expiration_date>2026-03-22T21:57:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/otaken-iv/set/100411762/</loc>
   <lastmod>2026-03-14T20:31:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-15T15:05:40.000Z</video:publication_date>
     <video:uploader>xenite12000</video:uploader>
     <video:expiration_date>2026-02-23T15:05:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-10/set/99356714/</loc>
-  <lastmod>2026-02-15T15:10:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877894/image-85568ff32c671d369da5f059a8ca2238.png
-    </video:thumbnail_loc>
-    <video:title>
-      LCG | M3taTank vs LCG | monnter, Brussels Gaming Fest 10 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LCG | M3taTank vs LCG | monnter in Losers Semi-Final of Brussels Gaming Fest 10, streamed by xenite12000
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2698447878&amp;t=1h22m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>576</video:duration>
-    <video:publication_date>2026-02-15T14:52:23.000Z</video:publication_date>
-    <video:uploader>xenite12000</video:uploader>
-    <video:expiration_date>2026-02-23T14:52:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

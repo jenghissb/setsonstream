@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/gourmet-bash-5-the-last-course/set/100417812/</loc>
-  <lastmod>2026-03-14T21:08:39.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/gourmet-bash-5-the-last-course/set/100430000/</loc>
+  <lastmod>2026-03-14T22:08:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861127/image-323d1cac53aa4f35966fdc65305b220e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bill Jobs vs UF | HMB | Aynim, Gourmet Bash 5: The Last Course - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bill Jobs vs UF | HMB | Aynim in Grand Final of Gourmet Bash 5: The Last Course, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722148020&amp;t=7h33m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>853</video:duration>
+    <video:publication_date>2026-03-14T22:08:37.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2026-03-22T22:08:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/gourmet-bash-5-the-last-course/set/100417812/</loc>
+  <lastmod>2026-03-14T22:19:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722148020&amp;t=6h33m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2487</video:duration>
+    <video:duration>281</video:duration>
     <video:publication_date>2026-03-14T21:08:39.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2026-03-22T21:08:39.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/dos-aegis-iv-annual-street-fighter-event/set/100427003/</loc>
-  <lastmod>2026-03-14T21:07:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-14T22:19:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722316629&amp;t=2h41m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2527</video:duration>
+    <video:duration>559</video:duration>
     <video:publication_date>2026-03-14T21:07:59.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-03-22T21:07:59.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-21T21:11:12.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2026-03-01T21:11:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-february-21-2026/set/99599552/</loc>
-  <lastmod>2026-02-21T21:19:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873071/image-181dbc12c2c33ea597aa881b435262d1.png
-    </video:thumbnail_loc>
-    <video:title>
-      maestro.matt vs Versa Jay, Space City Beatdown - February 21, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch maestro.matt vs Versa Jay in Winners Round 1 of Space City Beatdown - February 21, 2026, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704056351&amp;t=0h46m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2026-02-21T20:53:55.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-03-01T20:53:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
