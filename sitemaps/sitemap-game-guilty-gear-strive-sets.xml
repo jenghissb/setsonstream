@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-34/set/100374698/</loc>
+  <lastmod>2026-03-14T03:06:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888945/image-01c2df6dd6cdf3349a4ea70820f9916c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      DATA | Zohma vs MTG/JKR | CatchTXN, 4o4 By Sh33rz: Anime Weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DATA | Zohma vs MTG/JKR | CatchTXN in Losers Final of 4o4 By Sh33rz: Anime Weekly, streamed by GAStrive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2721695351&amp;t=2h8m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>615</video:duration>
+    <video:publication_date>2026-03-14T02:27:13.000Z</video:publication_date>
+    <video:uploader>GAStrive</video:uploader>
+    <video:expiration_date>2026-03-22T02:27:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-148/set/100369509/</loc>
-  <lastmod>2026-03-14T01:27:30.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-14T02:03:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2721650386&amp;t=2h1m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>986</video:duration>
+    <video:duration>629</video:duration>
     <video:publication_date>2026-03-14T01:27:30.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-03-22T01:27:30.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-34/set/100374694/</loc>
-  <lastmod>2026-03-14T01:24:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-14T02:03:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2721695351&amp;t=1h5m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1174</video:duration>
+    <video:duration>680</video:duration>
     <video:publication_date>2026-03-14T01:24:22.000Z</video:publication_date>
     <video:uploader>GAStrive</video:uploader>
     <video:expiration_date>2026-03-22T01:24:22.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-15T13:55:47.000Z</video:publication_date>
     <video:uploader>xenite12000</video:uploader>
     <video:expiration_date>2026-02-23T13:55:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-10/set/99356710/</loc>
-  <lastmod>2026-02-15T14:01:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877894/image-85568ff32c671d369da5f059a8ca2238.png
-    </video:thumbnail_loc>
-    <video:title>
-      Xenite vs Mumu, Brussels Gaming Fest 10 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Xenite vs Mumu in Losers Round 2 of Brussels Gaming Fest 10, streamed by xenite12000
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2698447878&amp;t=0h11m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>889</video:duration>
-    <video:publication_date>2026-02-15T13:40:34.000Z</video:publication_date>
-    <video:uploader>xenite12000</video:uploader>
-    <video:expiration_date>2026-02-23T13:40:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
