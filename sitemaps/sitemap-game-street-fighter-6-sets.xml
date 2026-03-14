@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396201/</loc>
-  <lastmod>2026-03-14T15:12:28.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396230/</loc>
+  <lastmod>2026-03-14T15:35:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886409/image-3989cd9763b7804d1e923569e6945ada.png
+    </video:thumbnail_loc>
+    <video:title>
+      ilypo vs Hee_HO, Fight Or Fright #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ilypo vs Hee_HO in Losers Round 3 of Fight Or Fright #5, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722077755&amp;t=3h1m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>894</video:duration>
+    <video:publication_date>2026-03-14T15:35:51.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-22T15:35:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-5/set/100396201/</loc>
+  <lastmod>2026-03-14T15:44:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722077755&amp;t=2h37m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>774</video:duration>
+    <video:duration>554</video:duration>
     <video:publication_date>2026-03-14T15:12:28.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-22T15:12:28.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-21T20:34:21.000Z</video:publication_date>
     <video:uploader>irishgamingmarket</video:uploader>
     <video:expiration_date>2026-03-01T20:34:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/passionate-pummeling-2026/set/99603037/</loc>
-  <lastmod>2026-02-21T20:58:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872723/image-5173a8051f5914cf56809cfc624d3904.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Short Stuff vs Poky | MercJones, Passionate Pummeling 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Short Stuff vs Poky | MercJones in Winners Quarter-Final of Passionate Pummeling 2026, streamed by pocatellopugilistsfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704069186&amp;t=0h11m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>529</video:duration>
-    <video:publication_date>2026-02-21T20:33:59.000Z</video:publication_date>
-    <video:uploader>pocatellopugilistsfgc</video:uploader>
-    <video:expiration_date>2026-03-01T20:33:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
