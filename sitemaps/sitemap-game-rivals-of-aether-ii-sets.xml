@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hitfall-4-5/set/100407297/</loc>
+  <lastmod>2026-03-14T17:22:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862139/image-a633a4b04672a217d0c6d8958924ec30.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bucketfullabiscuits vs Nemmy, Hitfall 4.5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bucketfullabiscuits vs Nemmy in Winners Round 1 of Hitfall 4.5, streamed by kmltournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722113183&amp;t=3h44m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1781</video:duration>
+    <video:publication_date>2026-03-14T17:22:33.000Z</video:publication_date>
+    <video:uploader>kmltournaments</video:uploader>
+    <video:expiration_date>2026-03-22T17:22:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100393834/</loc>
   <lastmod>2026-03-14T16:30:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-19T01:24:07.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2026-02-27T01:24:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-10-7/set/99466112/</loc>
-  <lastmod>2026-02-19T01:40:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882571/image-e4f1b27ed5a76822409a0928d7871ea9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Don vs KyleTM, HoG: Burn 10.7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Don vs KyleTM in Round 4 of HoG: Burn 10.7, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2701573730&amp;t=0h36m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>973</video:duration>
-    <video:publication_date>2026-02-19T01:10:55.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-02-27T01:10:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
