@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-5/set/100428278/</loc>
-  <lastmod>2026-03-14T21:59:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-5/set/100428248/</loc>
+  <lastmod>2026-03-14T22:26:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/878184/image-89f51c022833e4b9375093bd9f0a4ba5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Mystery Sol vs Corncycle, ROC&apos;s Nest #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mystery Sol vs Corncycle in Winners Final of ROC&apos;s Nest #5, streamed by seatac_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722445306&amp;t=1h33m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1608</video:duration>
+    <video:publication_date>2026-03-14T22:26:17.000Z</video:publication_date>
+    <video:uploader>seatac_rivals</video:uploader>
+    <video:expiration_date>2026-03-22T22:26:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-5/set/100428278/</loc>
+  <lastmod>2026-03-14T22:36:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722445306&amp;t=1h7m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1377</video:duration>
+    <video:duration>563</video:duration>
     <video:publication_date>2026-03-14T21:59:53.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2026-03-22T21:59:53.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-20T02:00:42.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-02-28T02:00:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/double-dunk-61-isthmian-gaming/set/99502857/</loc>
-  <lastmod>2026-02-20T02:05:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882213/image-cf9c496331b81266c4c60e9b2ffbf313.png
-    </video:thumbnail_loc>
-    <video:title>
-      Raze vs Brain, Double Dunk #61 @ Isthmian Gaming - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Raze vs Brain in Winners Semi-Final of Double Dunk #61 @ Isthmian Gaming, streamed by IsthmianGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702477353&amp;t=0h23m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1293</video:duration>
-    <video:publication_date>2026-02-20T01:42:27.000Z</video:publication_date>
-    <video:uploader>IsthmianGaming</video:uploader>
-    <video:expiration_date>2026-02-28T01:42:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
