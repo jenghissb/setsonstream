@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100405111/</loc>
-  <lastmod>2026-03-14T17:26:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/fighting-game-dojo-march-edition/set/100402831/</loc>
+  <lastmod>2026-03-14T17:43:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887952/image-9b671dc7e88d5e54f8e68beb4d8c156a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FGDojo | MoonaTwT vs Kirito, Fighting Game Dojo - March Edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FGDojo | MoonaTwT vs Kirito in Winners Final of Fighting Game Dojo - March Edition, streamed by TrainingWolf
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722152423&amp;t=3h1m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2932</video:duration>
+    <video:publication_date>2026-03-14T17:43:53.000Z</video:publication_date>
+    <video:uploader>TrainingWolf</video:uploader>
+    <video:expiration_date>2026-03-22T17:43:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100405111/</loc>
+  <lastmod>2026-03-14T17:58:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722015920&amp;t=7h12m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1554</video:duration>
+    <video:duration>1192</video:duration>
     <video:publication_date>2026-03-14T17:26:20.000Z</video:publication_date>
     <video:uploader>phoenixsmash</video:uploader>
     <video:expiration_date>2026-03-22T17:26:20.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-21T12:17:07.000Z</video:publication_date>
     <video:uploader>Tekken Madagascar</video:uploader>
     <video:expiration_date>2026-03-01T12:17:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/igm-emerald-circuit-2025-finals/set/99573394/</loc>
-  <lastmod>2026-02-21T12:36:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859664/image-f95616d926770ac24c967468080c8e52.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gcat501 vs outterest, IGM Emerald Circuit 2025 Finals - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gcat501 vs outterest in Round 3 of IGM Emerald Circuit 2025 Finals, streamed by irishgamingmarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703711625&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>893</video:duration>
-    <video:publication_date>2026-02-21T12:11:01.000Z</video:publication_date>
-    <video:uploader>irishgamingmarket</video:uploader>
-    <video:expiration_date>2026-03-01T12:11:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100400229/</loc>
-  <lastmod>2026-03-14T17:36:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/handwarmers-2026/set/100412929/</loc>
+  <lastmod>2026-03-14T18:05:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869997/image-b597afa0f5a6a00b8a2dd3b9e8d35a6e.png
+    </video:thumbnail_loc>
+    <video:title>
+      ChrisBall vs funnyman, Handwarmers 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ChrisBall vs funnyman in Round 2 of Handwarmers 2026, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722137191&amp;t=3h48m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1662</video:duration>
+    <video:publication_date>2026-03-14T18:05:03.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-03-22T18:05:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-7-lucky-legends/set/100360864/</loc>
+  <lastmod>2026-03-14T17:53:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872426/image-fd8c5ce9a3c2f7590da3e757166b00c6.png
+    </video:thumbnail_loc>
+    <video:title>
+      INSIM | Noto vs Jacob &lt;3, SLAM 7 - Lucky Legends - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch INSIM | Noto vs Jacob &lt;3 in Winners Final of SLAM 7 - Lucky Legends, streamed by GlaikitB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722059820&amp;t=5h54m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2354</video:duration>
+    <video:publication_date>2026-03-14T17:53:31.000Z</video:publication_date>
+    <video:uploader>GlaikitB</video:uploader>
+    <video:expiration_date>2026-03-22T17:53:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100400229/</loc>
+  <lastmod>2026-03-14T18:09:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,40 +66,16 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722011865&amp;t=7h34m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>950</video:duration>
+    <video:duration>1785</video:duration>
     <video:publication_date>2026-03-14T17:36:24.000Z</video:publication_date>
     <video:uploader>supersmashdelft</video:uploader>
     <video:expiration_date>2026-03-22T17:36:24.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/handwarmers-2026/set/100406020/</loc>
-  <lastmod>2026-03-14T17:28:52.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869997/image-b597afa0f5a6a00b8a2dd3b9e8d35a6e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Skizz vs A-Pow, Handwarmers 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Skizz vs A-Pow in Round 5 of Handwarmers 2026, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722137191&amp;t=3h12m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1402</video:duration>
-    <video:publication_date>2026-03-14T17:28:52.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-03-22T17:28:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/slam-7-lucky-legends/set/100360893/</loc>
-  <lastmod>2026-03-14T17:30:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-14T18:09:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722059820&amp;t=5h31m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1315</video:duration>
+    <video:duration>622</video:duration>
     <video:publication_date>2026-03-14T17:30:19.000Z</video:publication_date>
     <video:uploader>GlaikitB</video:uploader>
     <video:expiration_date>2026-03-22T17:30:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/handwarmers-2026/set/100406020/</loc>
+  <lastmod>2026-03-14T18:09:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869997/image-b597afa0f5a6a00b8a2dd3b9e8d35a6e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Skizz vs A-Pow, Handwarmers 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Skizz vs A-Pow in Round 5 of Handwarmers 2026, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722137191&amp;t=3h12m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>650</video:duration>
+    <video:publication_date>2026-03-14T17:28:52.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-03-22T17:28:52.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-02-20T03:42:35.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-02-28T03:42:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-208/set/99505381/</loc>
-  <lastmod>2026-02-20T03:49:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882296/image-f843c41d9d4da55adf8ea0fb5acd11fd.png
-    </video:thumbnail_loc>
-    <video:title>
-      東山法門 | diggles137(higashiyama houmon | diggles137) vs Rat Funk | Rat Funk, DMGC Smash Bros Local #208 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 東山法門 | diggles137(higashiyama houmon | diggles137) vs Rat Funk | Rat Funk in Losers Final of DMGC Smash Bros Local #208, streamed by gdubsmp4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702492083&amp;t=1h52m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>525</video:duration>
-    <video:publication_date>2026-02-20T03:29:01.000Z</video:publication_date>
-    <video:uploader>gdubsmp4</video:uploader>
-    <video:expiration_date>2026-02-28T03:29:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-134/set/99507800/</loc>
-  <lastmod>2026-02-20T03:49:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881918/image-5ebc9b25436b10e32f071b6a2c4bade4.png
-    </video:thumbnail_loc>
-    <video:title>
-      sunburn | fragrant mayflower vs SD | beachbum, Rage Against the CRT #134 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch sunburn | fragrant mayflower vs SD | beachbum in Winners Round 2 of Rage Against the CRT #134, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702563389&amp;t=0h22m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>826</video:duration>
-    <video:publication_date>2026-02-20T03:28:43.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2026-02-28T03:28:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
