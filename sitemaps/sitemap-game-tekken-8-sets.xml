@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/eindhoven-game-festival-2026-powered-by-somnio-events/set/100405109/</loc>
+  <lastmod>2026-03-14T16:51:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868848/image-b1339d7202af22cdabb57dbf14ad648b.png
+    </video:thumbnail_loc>
+    <video:title>
+      ILIAS vs DNC | Rahil, Eindhoven Game Festival 2026 - Powered by Somnio Events - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ILIAS vs DNC | Rahil in Winners Semi-Final of Eindhoven Game Festival 2026 - Powered by Somnio Events, streamed by phoenixsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722015920&amp;t=6h37m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2029</video:duration>
+    <video:publication_date>2026-03-14T16:51:13.000Z</video:publication_date>
+    <video:uploader>phoenixsmash</video:uploader>
+    <video:expiration_date>2026-03-22T16:51:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/suplex-118/set/100374349/</loc>
   <lastmod>2026-03-14T03:19:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-21T12:00:30.000Z</video:publication_date>
     <video:uploader>Tekken Madagascar</video:uploader>
     <video:expiration_date>2026-03-01T12:00:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/komba-overcome/set/99571106/</loc>
-  <lastmod>2026-02-21T12:08:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/834302/image-2fb43720fc8238326db1670b691c1eb4.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GES | NłGHTMARE(GES | N GES | NGHTMARE) vs SLY | WIXLER, Komba Overcome - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GES | NłGHTMARE(GES | N GES | NGHTMARE) vs SLY | WIXLER in Winners Round 1 of Komba Overcome, streamed by Tekken Madagascar
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/bkgmjDDRIno?start=8536s
-    </video:player_loc>
-    <video:duration>682</video:duration>
-    <video:publication_date>2026-02-21T11:47:04.000Z</video:publication_date>
-    <video:uploader>Tekken Madagascar</video:uploader>
-    <video:expiration_date>2026-03-01T11:47:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
