@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/umassd-smash-club-spring-2026-6/set/100367020/</loc>
+  <lastmod>2026-03-13T23:38:51.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889398/image-9c397f74d8634f51f0d3ec07c593658d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cam vs Lon3Wolf, UMassD Smash Club Spring 2026 #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cam vs Lon3Wolf in Winners Quarter-Final of UMassD Smash Club Spring 2026 #6, streamed by umassdsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2721542598&amp;t=2h28m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>806</video:duration>
+    <video:publication_date>2026-03-13T23:38:51.000Z</video:publication_date>
+    <video:uploader>umassdsmash</video:uploader>
+    <video:expiration_date>2026-03-21T23:38:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hubdies-n-290/set/100355711/</loc>
   <lastmod>2026-03-13T18:46:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-16T03:41:16.000Z</video:publication_date>
     <video:uploader>imtorna</video:uploader>
     <video:expiration_date>2026-02-24T03:41:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/shield-breaker-34-1/set/99383906/</loc>
-  <lastmod>2026-02-16T03:47:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877419/image-6c184b3c64f274c6137508fea14c769d.png
-    </video:thumbnail_loc>
-    <video:title>
-      vooni vs Ethren, Shield Breaker #34 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch vooni vs Ethren in Losers Final of Shield Breaker #34, streamed by imtorna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2698954627&amp;t=3h8m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>698</video:duration>
-    <video:publication_date>2026-02-16T03:29:30.000Z</video:publication_date>
-    <video:uploader>imtorna</video:uploader>
-    <video:expiration_date>2026-02-24T03:29:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

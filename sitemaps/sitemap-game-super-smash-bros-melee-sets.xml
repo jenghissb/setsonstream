@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wolfie-wars-66/set/100367452/</loc>
-  <lastmod>2026-03-13T23:13:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wolfie-wars-66/set/100367454/</loc>
+  <lastmod>2026-03-13T23:37:36.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891164/image-a3bf56d21cc6f52494d2a3f0533e0880.png
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Petrikov vs SBU | Sanjid, Wolfie Wars 66 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Petrikov vs SBU | Sanjid in Winners Quarter-Final of Wolfie Wars 66, streamed by sbumelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2721637317&amp;t=0h28m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>881</video:duration>
+    <video:publication_date>2026-03-13T23:37:36.000Z</video:publication_date>
+    <video:uploader>sbumelee</video:uploader>
+    <video:expiration_date>2026-03-21T23:37:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wolfie-wars-66/set/100367452/</loc>
+  <lastmod>2026-03-13T23:45:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2721637317&amp;t=0h4m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>715</video:duration>
+    <video:duration>550</video:duration>
     <video:publication_date>2026-03-13T23:13:13.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
     <video:expiration_date>2026-03-21T23:13:13.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-19T03:06:50.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2026-02-27T03:06:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-2-18-26/set/99465539/</loc>
-  <lastmod>2026-02-19T03:35:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873138/image-546cbfd969f2ab604feba635f1965b3f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Deadstock vs BRamZ, One Up Melee 2.18.26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Deadstock vs BRamZ in Losers Final of One Up Melee 2.18.26, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2701569578&amp;t=2h32m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1330</video:duration>
-    <video:publication_date>2026-02-19T03:01:27.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2026-02-27T03:01:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
