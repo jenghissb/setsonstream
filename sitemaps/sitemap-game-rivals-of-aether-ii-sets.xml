@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-5/set/100428249/</loc>
-  <lastmod>2026-03-14T23:10:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hitfall-4-5/set/100440574/</loc>
+  <lastmod>2026-03-14T23:19:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/862139/image-a633a4b04672a217d0c6d8958924ec30.png
+    </video:thumbnail_loc>
+    <video:title>
+      Searing Arrow vs GeekyDave, Hitfall 4.5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Searing Arrow vs GeekyDave in Losers Round 1 of Hitfall 4.5, streamed by kmltournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722113183&amp;t=9h41m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1940</video:duration>
+    <video:publication_date>2026-03-14T23:19:20.000Z</video:publication_date>
+    <video:uploader>kmltournaments</video:uploader>
+    <video:expiration_date>2026-03-22T23:19:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-5/set/100428249/</loc>
+  <lastmod>2026-03-14T23:45:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2722445306&amp;t=2h17m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>883</video:duration>
+    <video:duration>1494</video:duration>
     <video:publication_date>2026-03-14T23:10:12.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2026-03-22T23:10:12.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-20T02:10:54.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-02-28T02:10:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/jaxsmash-weekly-leaderboard-2-19-26/set/99498198/</loc>
-  <lastmod>2026-02-20T02:41:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882867/image-981a97bc143cf52c22216aa2f9bd0203.png
-    </video:thumbnail_loc>
-    <video:title>
-      sinbad vs LB | CS | Duo | Jeff, JaxSmash Weekly @ Leaderboard 2/19/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch sinbad vs LB | CS | Duo | Jeff in Winners Quarter-Final of JaxSmash Weekly @ Leaderboard 2/19/26, streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702452276&amp;t=1h14m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1541</video:duration>
-    <video:publication_date>2026-02-20T02:05:41.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2026-02-28T02:05:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
