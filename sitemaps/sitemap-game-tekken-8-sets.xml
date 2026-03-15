@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/demomand-dojo-vol-8/set/100461366/</loc>
+  <lastmod>2026-03-15T13:29:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884356/image-6588ca3a6a1dc09986dfe1f412af7f70.png
+    </video:thumbnail_loc>
+    <video:title>
+      MARKED | Guan vs Tokin, Demomand Dojo vol.8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MARKED | Guan vs Tokin in Winners Quarter-Final of Demomand Dojo vol.8, streamed by cphfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722931750&amp;t=1h50m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>828</video:duration>
+    <video:publication_date>2026-03-15T12:57:17.000Z</video:publication_date>
+    <video:uploader>cphfgc</video:uploader>
+    <video:expiration_date>2026-03-23T12:57:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/side-seven-skirmish-26-1/set/100452547/</loc>
   <lastmod>2026-03-15T02:41:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-21T17:29:03.000Z</video:publication_date>
     <video:uploader>mysticsquad_tv</video:uploader>
     <video:expiration_date>2026-03-01T17:29:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/enders-zone-evolution-5-emea-tekken-cup-4/set/99576722/</loc>
-  <lastmod>2026-02-21T17:30:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820088/image-4b0efc3cea3f206f2bf9e6f5c165a213.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FOX | Sin vs GPE | Xeon, Enders Zone Evolution 5 - EMEA TEKKEN Cup 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FOX | Sin vs GPE | Xeon in Losers Round 2 of Enders Zone Evolution 5 - EMEA TEKKEN Cup 4, streamed by mysticsquad_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703859389&amp;t=0h52m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>525</video:duration>
-    <video:publication_date>2026-02-21T17:07:04.000Z</video:publication_date>
-    <video:uploader>mysticsquad_tv</video:uploader>
-    <video:expiration_date>2026-03-01T17:07:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
