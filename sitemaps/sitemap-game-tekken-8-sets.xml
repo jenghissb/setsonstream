@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rage-lx-8/set/100467858/</loc>
+  <lastmod>2026-03-15T19:12:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886601/image-98e045ec95fea513ca95c41635c1618e.png
+    </video:thumbnail_loc>
+    <video:title>
+      FTW | NuNoX_ vs Tsuki, Rage LX #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FTW | NuNoX_ vs Tsuki in Grand Final of Rage LX #8, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2723062133&amp;t=3h31m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>953</video:duration>
+    <video:publication_date>2026-03-15T18:33:57.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-23T18:33:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/rage-lx-8/set/100467921/</loc>
-  <lastmod>2026-03-15T18:13:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-15T18:44:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2723062133&amp;t=3h10m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1245</video:duration>
+    <video:duration>1246</video:duration>
     <video:publication_date>2026-03-15T18:13:01.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-23T18:13:01.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-21T17:50:48.000Z</video:publication_date>
     <video:uploader>assymylly</video:uploader>
     <video:expiration_date>2026-03-01T17:50:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/enders-zone-evolution-5-emea-tekken-cup-4/set/99576930/</loc>
-  <lastmod>2026-02-21T17:58:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/820088/image-4b0efc3cea3f206f2bf9e6f5c165a213.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      HG | ErnieBowl vs Falcons | AQEEL9, Enders Zone Evolution 5 - EMEA TEKKEN Cup 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HG | ErnieBowl vs Falcons | AQEEL9 in Winners Semi-Final of Enders Zone Evolution 5 - EMEA TEKKEN Cup 4, streamed by mysticsquad_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703859389&amp;t=1h25m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>788</video:duration>
-    <video:publication_date>2026-02-21T17:40:30.000Z</video:publication_date>
-    <video:uploader>mysticsquad_tv</video:uploader>
-    <video:expiration_date>2026-03-01T17:40:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
