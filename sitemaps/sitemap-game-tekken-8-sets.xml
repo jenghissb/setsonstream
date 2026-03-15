@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rage-lx-8/set/100467917/</loc>
+  <lastmod>2026-03-15T17:51:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886601/image-98e045ec95fea513ca95c41635c1618e.png
+    </video:thumbnail_loc>
+    <video:title>
+      GDF | Trafalgar_Lars vs KOD | Yuuki, Rage LX #8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GDF | Trafalgar_Lars vs KOD | Yuuki in Losers Round 4 of Rage LX #8, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2723062133&amp;t=2h18m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>682</video:duration>
+    <video:publication_date>2026-03-15T17:21:24.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-23T17:21:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ct-gamercon-2026-game-underground-tournaments/set/100469663/</loc>
   <lastmod>2026-03-15T16:58:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-21T17:39:09.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2026-03-01T17:39:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/assymylly-winter-2026/set/99584684/</loc>
-  <lastmod>2026-02-21T17:58:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
-    </video:thumbnail_loc>
-    <video:title>
-      DON | Noobman1 vs NMMC | Ka-Fu, Assymylly Winter 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DON | Noobman1 vs NMMC | Ka-Fu in Winners Semi-Final of Assymylly Winter 2026, streamed by assymylly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703854478&amp;t=1h29m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>810</video:duration>
-    <video:publication_date>2026-02-21T17:37:13.000Z</video:publication_date>
-    <video:uploader>assymylly</video:uploader>
-    <video:expiration_date>2026-03-01T17:37:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
