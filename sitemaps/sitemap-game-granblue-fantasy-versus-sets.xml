@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/fervo-2026/set/100466782/</loc>
+  <lastmod>2026-03-15T20:54:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/754958/image-c5a7c80f9cf841828e860e51e053da50.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      EC | supersonic vs EC | Shiiras, FERVO 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EC | supersonic vs EC | Shiiras in Losers Round 1 of FERVO 2026, streamed by FERVO_OFICIAL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2723029071&amp;t=6h44m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1863</video:duration>
+    <video:publication_date>2026-03-15T20:54:47.000Z</video:publication_date>
+    <video:uploader>FERVO_OFICIAL</video:uploader>
+    <video:expiration_date>2026-03-23T20:54:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/ct-gamercon-2026-game-underground-tournaments/set/100469377/</loc>
   <lastmod>2026-03-15T19:35:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -75,7 +99,7 @@
 <url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/fervo-2026/set/100466769/</loc>
   <lastmod>2026-03-15T16:54:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-14T14:41:55.000Z</video:publication_date>
     <video:uploader>AlirezaFGC</video:uploader>
     <video:expiration_date>2026-02-22T14:41:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/shark-tank-spring-2026-premiere/set/99288539/</loc>
-  <lastmod>2026-02-14T02:53:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869833/image-4f29da21d8cae0d5689398ab83c46ccc.png
-    </video:thumbnail_loc>
-    <video:title>
-      OME | Necco vs OME | NekoD, Shark Tank Spring 2026 Premiere - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OME | Necco vs OME | NekoD in Grand Final of Shark Tank Spring 2026 Premiere, streamed by olemissesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697109220&amp;t=2h3m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>929</video:duration>
-    <video:publication_date>2026-02-14T02:18:37.000Z</video:publication_date>
-    <video:uploader>olemissesports</video:uploader>
-    <video:expiration_date>2026-02-22T02:18:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
