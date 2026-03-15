@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-march-2026/set/100448296/</loc>
+  <lastmod>2026-03-15T02:37:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/881621/image-be670c96c1e55dc3f5a82a5da8606d5e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Vermillion vs Djeeta, Astral Beatdown March 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vermillion vs Djeeta in Grand Final of Astral Beatdown March 2026, streamed by norcalgranblue
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2722485212&amp;t=4h22m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>362</video:duration>
+    <video:publication_date>2026-03-15T02:05:44.000Z</video:publication_date>
+    <video:uploader>norcalgranblue</video:uploader>
+    <video:expiration_date>2026-03-23T02:05:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-march-2026/set/100448309/</loc>
   <lastmod>2026-03-15T01:36:43.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-14T00:49:46.000Z</video:publication_date>
     <video:uploader>olemissesports</video:uploader>
     <video:expiration_date>2026-02-22T00:49:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/shark-tank-spring-2026-premiere/set/99288527/</loc>
-  <lastmod>2026-02-14T01:05:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869833/image-4f29da21d8cae0d5689398ab83c46ccc.png
-    </video:thumbnail_loc>
-    <video:title>
-      OME | Snackcakes vs Play 2XKO, Shark Tank Spring 2026 Premiere - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OME | Snackcakes vs Play 2XKO in Winners Round 1 of Shark Tank Spring 2026 Premiere, streamed by olemissesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697109220&amp;t=0h20m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>773</video:duration>
-    <video:publication_date>2026-02-14T00:36:21.000Z</video:publication_date>
-    <video:uploader>olemissesports</video:uploader>
-    <video:expiration_date>2026-02-22T00:36:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
