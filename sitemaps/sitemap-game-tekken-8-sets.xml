@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ct-gamercon-2026-game-underground-tournaments/set/100477123/</loc>
+  <lastmod>2026-03-15T21:15:06.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/699377/image-8d04c31bcea34b7fc746dc00d37f759f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Night Purifier vs OA | TennoIX, CT GamerCon 2026 Game Underground Tournaments - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Night Purifier vs OA | TennoIX in Grand Final of CT GamerCon 2026 Game Underground Tournaments, streamed by Houseof3000
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2723105405&amp;t=5h9m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2189</video:duration>
+    <video:publication_date>2026-03-15T21:15:06.000Z</video:publication_date>
+    <video:uploader>Houseof3000</video:uploader>
+    <video:expiration_date>2026-03-23T21:15:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/rage-lx-8/set/100467858/</loc>
   <lastmod>2026-03-15T19:12:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-21T17:53:46.000Z</video:publication_date>
     <video:uploader>mysticsquad_tv</video:uploader>
     <video:expiration_date>2026-03-01T17:53:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/assymylly-winter-2026/set/99584685/</loc>
-  <lastmod>2026-02-21T18:13:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
-    </video:thumbnail_loc>
-    <video:title>
-      DON | Visatron vs Raskkal, Assymylly Winter 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DON | Visatron vs Raskkal in Winners Semi-Final of Assymylly Winter 2026, streamed by assymylly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703854478&amp;t=1h43m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>956</video:duration>
-    <video:publication_date>2026-02-21T17:50:48.000Z</video:publication_date>
-    <video:uploader>assymylly</video:uploader>
-    <video:expiration_date>2026-03-01T17:50:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
