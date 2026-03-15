@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sweet-spot-x/set/100477406/</loc>
+  <lastmod>2026-03-15T22:26:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860958/image-308c9093b67a5c6e29286680036f012c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Groj vs Timtempor, Sweet Spot X - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Groj vs Timtempor in Losers Quarter-Final of Sweet Spot X, streamed by Spotlight KC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/pi2jWf6M_bo?start=22849s
+    </video:player_loc>
+    <video:duration>1731</video:duration>
+    <video:publication_date>2026-03-15T22:26:48.000Z</video:publication_date>
+    <video:uploader>Spotlight KC</video:uploader>
+    <video:expiration_date>2026-03-23T22:26:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sweet-spot-x/set/100476959/</loc>
   <lastmod>2026-03-15T22:07:29.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-21T01:19:42.000Z</video:publication_date>
     <video:uploader>CVCloud9</video:uploader>
     <video:expiration_date>2026-03-01T01:19:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/shield-breaker-35-friday-night-edition-valhallan-esports/set/99542436/</loc>
-  <lastmod>2026-02-21T01:28:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882261/image-b414f9fd12d310d6a2a700e708ca2341.png
-    </video:thumbnail_loc>
-    <video:title>
-      Giga vs july | hobby, Shield Breaker #35 Friday Night Edition @ Valhallan eSports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Giga vs july | hobby in Winners Quarter-Final of Shield Breaker #35 Friday Night Edition @ Valhallan eSports, streamed by imtorna
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703339975&amp;t=0h3m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>885</video:duration>
-    <video:publication_date>2026-02-21T01:02:01.000Z</video:publication_date>
-    <video:uploader>imtorna</video:uploader>
-    <video:expiration_date>2026-03-01T01:02:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
