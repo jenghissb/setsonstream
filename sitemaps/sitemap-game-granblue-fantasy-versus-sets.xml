@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/ct-gamercon-2026-game-underground-tournaments/set/100469406/</loc>
-  <lastmod>2026-03-15T17:41:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/ct-gamercon-2026-game-underground-tournaments/set/100469407/</loc>
+  <lastmod>2026-03-15T18:08:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/699377/image-8d04c31bcea34b7fc746dc00d37f759f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Dropleto vs Beesu, CT GamerCon 2026 Game Underground Tournaments - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dropleto vs Beesu in Losers Semi-Final of CT GamerCon 2026 Game Underground Tournaments, streamed by travelingcontroller
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2723105726&amp;t=2h2m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1516</video:duration>
+    <video:publication_date>2026-03-15T18:08:30.000Z</video:publication_date>
+    <video:uploader>travelingcontroller</video:uploader>
+    <video:expiration_date>2026-03-23T18:08:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/ct-gamercon-2026-game-underground-tournaments/set/100469406/</loc>
+  <lastmod>2026-03-15T18:12:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2723105726&amp;t=1h35m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>764</video:duration>
+    <video:duration>480</video:duration>
     <video:publication_date>2026-03-15T17:41:27.000Z</video:publication_date>
     <video:uploader>travelingcontroller</video:uploader>
     <video:expiration_date>2026-03-23T17:41:27.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-14T01:53:30.000Z</video:publication_date>
     <video:uploader>olemissesports</video:uploader>
     <video:expiration_date>2026-02-22T01:53:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/shark-tank-spring-2026-premiere/set/99288538/</loc>
-  <lastmod>2026-02-14T01:46:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869833/image-4f29da21d8cae0d5689398ab83c46ccc.png
-    </video:thumbnail_loc>
-    <video:title>
-      OME | NekoD vs OME | Necco, Shark Tank Spring 2026 Premiere - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OME | NekoD vs OME | Necco in Winners Final of Shark Tank Spring 2026 Premiere, streamed by olemissesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697109220&amp;t=1h2m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>808</video:duration>
-    <video:publication_date>2026-02-14T01:17:57.000Z</video:publication_date>
-    <video:uploader>olemissesports</video:uploader>
-    <video:expiration_date>2026-02-22T01:17:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
