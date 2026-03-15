@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/fervo-2026/set/100466769/</loc>
+  <lastmod>2026-03-15T14:43:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/754958/image-c5a7c80f9cf841828e860e51e053da50.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Komitê | Shirou vs Azerate, FERVO 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Komitê | Shirou vs Azerate in Winners Semi-Final of FERVO 2026, streamed by FERVO_OFICIAL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2723029071&amp;t=0h33m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2601</video:duration>
+    <video:publication_date>2026-03-15T14:43:07.000Z</video:publication_date>
+    <video:uploader>FERVO_OFICIAL</video:uploader>
+    <video:expiration_date>2026-03-23T14:43:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-march-2026/set/100448296/</loc>
   <lastmod>2026-03-15T02:37:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-14T01:02:50.000Z</video:publication_date>
     <video:uploader>olemissesports</video:uploader>
     <video:expiration_date>2026-02-22T01:02:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/shark-tank-spring-2026-premiere/set/99288533/</loc>
-  <lastmod>2026-02-14T01:24:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/869833/image-4f29da21d8cae0d5689398ab83c46ccc.png
-    </video:thumbnail_loc>
-    <video:title>
-      OME | JaZz vs OME | Snackcakes, Shark Tank Spring 2026 Premiere - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OME | JaZz vs OME | Snackcakes in Winners Quarter-Final of Shark Tank Spring 2026 Premiere, streamed by olemissesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2697109220&amp;t=0h34m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1037</video:duration>
-    <video:publication_date>2026-02-14T00:49:46.000Z</video:publication_date>
-    <video:uploader>olemissesports</video:uploader>
-    <video:expiration_date>2026-02-22T00:49:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
