@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gourmet-bash-5-the-last-course/set/100468542/</loc>
-  <lastmod>2026-03-15T16:01:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gourmet-bash-5-the-last-course/set/100468544/</loc>
+  <lastmod>2026-03-15T16:26:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/861127/image-323d1cac53aa4f35966fdc65305b220e.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCU | Rongunshu vs alfoam, Gourmet Bash 5: The Last Course - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCU | Rongunshu vs alfoam in Winners Semi-Final of Gourmet Bash 5: The Last Course, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2723082314&amp;t=0h53m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1895</video:duration>
+    <video:publication_date>2026-03-15T16:26:28.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2026-03-23T16:26:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gourmet-bash-5-the-last-course/set/100468542/</loc>
+  <lastmod>2026-03-15T16:35:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2723082314&amp;t=0h27m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1629</video:duration>
+    <video:duration>688</video:duration>
     <video:publication_date>2026-03-15T16:01:03.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2026-03-23T16:01:03.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-20T04:16:05.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-02-28T04:16:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/jaxsmash-weekly-leaderboard-2-19-26/set/99498231/</loc>
-  <lastmod>2026-02-20T04:27:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882867/image-981a97bc143cf52c22216aa2f9bd0203.png
-    </video:thumbnail_loc>
-    <video:title>
-      Afmbot vs LB | CS | Duo | Jeff, JaxSmash Weekly @ Leaderboard 2/19/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Afmbot vs LB | CS | Duo | Jeff in Losers Quarter-Final of JaxSmash Weekly @ Leaderboard 2/19/26, streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702452276&amp;t=3h15m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>970</video:duration>
-    <video:publication_date>2026-02-20T04:07:04.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2026-02-28T04:07:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
