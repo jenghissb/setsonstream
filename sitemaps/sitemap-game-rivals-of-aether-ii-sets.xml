@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sweet-spot-x/set/100477323/</loc>
-  <lastmod>2026-03-15T19:26:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sweet-spot-x/set/100476955/</loc>
+  <lastmod>2026-03-15T20:33:53.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/860958/image-308c9093b67a5c6e29286680036f012c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Truthsinger vs Ninjy, Sweet Spot X - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Truthsinger vs Ninjy in Winners Quarter-Final of Sweet Spot X, streamed by Spotlight KC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/pi2jWf6M_bo?start=16074s
+    </video:player_loc>
+    <video:duration>1225</video:duration>
+    <video:publication_date>2026-03-15T20:33:53.000Z</video:publication_date>
+    <video:uploader>Spotlight KC</video:uploader>
+    <video:expiration_date>2026-03-23T20:33:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sweet-spot-x/set/100477323/</loc>
+  <lastmod>2026-03-15T20:43:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/pi2jWf6M_bo?start=12030s
     </video:player_loc>
-    <video:duration>3509</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-03-15T19:26:29.000Z</video:publication_date>
     <video:uploader>Spotlight KC</video:uploader>
     <video:expiration_date>2026-03-23T19:26:29.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-21T00:47:05.000Z</video:publication_date>
     <video:uploader>CVCloud9</video:uploader>
     <video:expiration_date>2026-03-01T00:47:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/umassd-smash-club-spring-2026-3/set/99535312/</loc>
-  <lastmod>2026-02-21T01:07:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881717/image-32d8325e249685364f3143918869b185.png
-    </video:thumbnail_loc>
-    <video:title>
-      StarCastler vs Hybrid?, UMassD Smash Club Spring 2026 #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch StarCastler vs Hybrid? in Winners Semi-Final of UMassD Smash Club Spring 2026 #3, streamed by umassdsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703197843&amp;t=2h41m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>510</video:duration>
-    <video:publication_date>2026-02-21T00:42:29.000Z</video:publication_date>
-    <video:uploader>umassdsmash</video:uploader>
-    <video:expiration_date>2026-03-01T00:42:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
