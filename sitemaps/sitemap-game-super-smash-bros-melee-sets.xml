@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-99/set/100502855/</loc>
+  <lastmod>2026-03-16T19:40:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/890739/image-ba1880c89690bafa2eb7c0c2a7e04099.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      514flexx vs PSG | djellaba luffy, KnockOut Zone #99 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 514flexx vs PSG | djellaba luffy in Winners Semi-Final of KnockOut Zone #99, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2724037536&amp;t=0h53m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1628</video:duration>
+    <video:publication_date>2026-03-16T19:40:55.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-03-24T19:40:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/handwarmers-2026/set/100413519/</loc>
   <lastmod>2026-03-16T00:29:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-21T03:06:48.000Z</video:publication_date>
     <video:uploader>RochesterSmash</video:uploader>
     <video:expiration_date>2026-03-01T03:06:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guild-gauntlet-7/set/99553391/</loc>
-  <lastmod>2026-02-21T03:33:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877502/image-91ffe80d9fdf42feecef692276bc11e7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Reviewer vs UNC | Hungry Pigeon, Guild Gauntlet 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Reviewer vs UNC | Hungry Pigeon in Winners Quarter-Final of Guild Gauntlet 7, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703411454&amp;t=0h42m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1024</video:duration>
-    <video:publication_date>2026-02-21T03:04:17.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-03-01T03:04:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
