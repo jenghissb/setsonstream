@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-234/set/100522561/</loc>
-  <lastmod>2026-03-17T18:55:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ledgetrompe-6/set/100521644/</loc>
+  <lastmod>2026-03-17T19:34:06.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891030/image-c6687e7bcfba13c2b98931678fa9ce50.png
+    </video:thumbnail_loc>
+    <video:title>
+      TCO | ZZ | Elfo vs Amine, Ledgetrompe #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TCO | ZZ | Elfo vs Amine in Winners Quarter-Final of Ledgetrompe #6, streamed by toulouselaststock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2724835599&amp;t=1h24m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1799</video:duration>
+    <video:publication_date>2026-03-17T19:34:06.000Z</video:publication_date>
+    <video:uploader>toulouselaststock</video:uploader>
+    <video:expiration_date>2026-03-25T19:34:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-234/set/100522562/</loc>
+  <lastmod>2026-03-17T19:56:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +34,90 @@
       https://images.start.gg/images/tournament/891883/image-0611aa393b7d6e8b630fbb72b4b33ace.png
     </video:thumbnail_loc>
     <video:title>
-      Soymacho vs 3QI | Little Nath 2.0, Magna Arena #234 - Sets on Stream
+      ARK | Littlemonke vs GCR | LC |3QI | IM, Magna Arena #234 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Soymacho vs 3QI | Little Nath 2.0 in Winners Quarter-Final of Magna Arena #234, streamed by SmashStrasbourg
+      Watch ARK | Littlemonke vs GCR | LC |3QI | IM in Winners Semi-Final of Magna Arena #234, streamed by SmashStrasbourg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2724814441&amp;t=1h11m56s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2724814441&amp;t=2h12m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1573</video:duration>
-    <video:publication_date>2026-03-17T18:55:25.000Z</video:publication_date>
+    <video:duration>477</video:duration>
+    <video:publication_date>2026-03-17T19:56:08.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
-    <video:expiration_date>2026-03-25T18:55:25.000Z</video:expiration_date>
+    <video:expiration_date>2026-03-25T19:56:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-234/set/100522563/</loc>
+  <lastmod>2026-03-17T20:00:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891883/image-0611aa393b7d6e8b630fbb72b4b33ace.png
+    </video:thumbnail_loc>
+    <video:title>
+      QG | Pierolym vs Soymacho, Magna Arena #234 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch QG | Pierolym vs Soymacho in Winners Semi-Final of Magna Arena #234, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2724814441&amp;t=1h54m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1056</video:duration>
+    <video:publication_date>2026-03-17T19:38:09.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2026-03-25T19:38:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ledgetrompe-6/set/100521643/</loc>
+  <lastmod>2026-03-17T19:37:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891030/image-c6687e7bcfba13c2b98931678fa9ce50.png
+    </video:thumbnail_loc>
+    <video:title>
+      CVR | Mateus vs Dapouce, Ledgetrompe #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CVR | Mateus vs Dapouce in Winners Quarter-Final of Ledgetrompe #6, streamed by toulouselaststock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2724835599&amp;t=1h18m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>273</video:duration>
+    <video:publication_date>2026-03-17T19:29:03.000Z</video:publication_date>
+    <video:uploader>toulouselaststock</video:uploader>
+    <video:expiration_date>2026-03-25T19:29:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-234/set/100522559/</loc>
+  <lastmod>2026-03-17T19:41:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891883/image-0611aa393b7d6e8b630fbb72b4b33ace.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCR | LC |3QI | IM vs 3QI | Woks (Alternative), Magna Arena #234 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCR | LC |3QI | IM vs 3QI | Woks (Alternative) in Winners Quarter-Final of Magna Arena #234, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2724814441&amp;t=1h39m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>893</video:duration>
+    <video:publication_date>2026-03-17T19:23:14.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2026-03-25T19:23:14.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -46,6 +142,30 @@
     <video:publication_date>2026-03-17T19:00:39.000Z</video:publication_date>
     <video:uploader>toulouselaststock</video:uploader>
     <video:expiration_date>2026-03-25T19:00:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/magna-arena-234/set/100522561/</loc>
+  <lastmod>2026-03-17T19:26:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891883/image-0611aa393b7d6e8b630fbb72b4b33ace.png
+    </video:thumbnail_loc>
+    <video:title>
+      Soymacho vs 3QI | Little Nath 2.0, Magna Arena #234 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Soymacho vs 3QI | Little Nath 2.0 in Winners Quarter-Final of Magna Arena #234, streamed by SmashStrasbourg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2724814441&amp;t=1h11m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1658</video:duration>
+    <video:publication_date>2026-03-17T18:55:25.000Z</video:publication_date>
+    <video:uploader>SmashStrasbourg</video:uploader>
+    <video:expiration_date>2026-03-25T18:55:25.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71878,126 +71998,6 @@
     <video:publication_date>2026-03-08T23:04:17.000Z</video:publication_date>
     <video:uploader>ElementalMTY</video:uploader>
     <video:expiration_date>2026-03-16T23:04:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/piranha-garden-15-1/set/100231288/</loc>
-  <lastmod>2026-03-08T23:30:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887596/image-e8dee73eafa28d437872852a944d222e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wala vs Tomy4512, Piranha Garden #15 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wala vs Tomy4512 in Winners Quarter-Final of Piranha Garden #15, streamed by smashbros_cba
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2717481821&amp;t=0h49m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1173</video:duration>
-    <video:publication_date>2026-03-08T23:02:44.000Z</video:publication_date>
-    <video:uploader>smashbros_cba</video:uploader>
-    <video:expiration_date>2026-03-16T23:02:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/battle-for-the-throne-56-bloodletter/set/100225515/</loc>
-  <lastmod>2026-03-08T23:25:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881613/image-df842fd8fcf20f4cd57610327ff9125c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dany vs KUG-CS-SEIMOB | AleSad, Battle For The Throne #56: Bloodletter - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dany vs KUG-CS-SEIMOB | AleSad in Winners Quarter-Final of Battle For The Throne #56: Bloodletter, streamed by temohardy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2717463184&amp;t=1h13m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>642</video:duration>
-    <video:publication_date>2026-03-08T23:02:20.000Z</video:publication_date>
-    <video:uploader>temohardy</video:uploader>
-    <video:expiration_date>2026-03-16T23:02:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shield-breaker-37-valhallan-esports/set/100232006/</loc>
-  <lastmod>2026-03-08T23:25:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889117/image-45f93b8302c84c98b83ed98d79d0d677.png
-    </video:thumbnail_loc>
-    <video:title>
-      SoulArts vs VB3, Shield Breaker #37 @ Valhallan eSports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SoulArts vs VB3 in Winners Quarter-Final of Shield Breaker #37 @ Valhallan eSports, streamed by SoulArts (SoulArtsVGC)
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/m-ID0N7FrFk?start=1956s
-    </video:player_loc>
-    <video:duration>1272</video:duration>
-    <video:publication_date>2026-03-08T22:59:08.000Z</video:publication_date>
-    <video:uploader>SoulArts (SoulArtsVGC)</video:uploader>
-    <video:expiration_date>2026-03-16T22:59:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/comet-clash-29/set/100231461/</loc>
-  <lastmod>2026-03-08T23:18:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888306/image-2467e30fae101dc883cda9d483d665bf.png
-    </video:thumbnail_loc>
-    <video:title>
-      UTD | Master vs UTD | Naysaya, Comet Clash 29 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UTD | Master vs UTD | Naysaya in Winners Semi-Final of Comet Clash 29, streamed by UTDSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2717482719&amp;t=0h44m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>760</video:duration>
-    <video:publication_date>2026-03-08T22:59:06.000Z</video:publication_date>
-    <video:uploader>UTDSmash</video:uploader>
-    <video:expiration_date>2026-03-16T22:59:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/polarity-shift-darkness-rises/set/100232544/</loc>
-  <lastmod>2026-03-08T23:18:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883124/image-d5885bfe822904e738554180e1ef92b1.png
-    </video:thumbnail_loc>
-    <video:title>
-      NO MERCY | Kayla the Pacinator vs RW | Swirls, Polarity Shift: Darkness Rises - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NO MERCY | Kayla the Pacinator vs RW | Swirls in Winners Round 2 of Polarity Shift: Darkness Rises, streamed by ramaposmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2717324394&amp;t=3h57m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>732</video:duration>
-    <video:publication_date>2026-03-08T22:59:02.000Z</video:publication_date>
-    <video:uploader>ramaposmash</video:uploader>
-    <video:expiration_date>2026-03-16T22:59:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
