@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-260/set/100519835/</loc>
+  <lastmod>2026-03-17T10:55:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      yellow vs REGS | BlackBiskit, WeeklyVac #260 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch yellow vs REGS | BlackBiskit in Losers Semi-Final of WeeklyVac #260, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2724545966&amp;t=2h21m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1189</video:duration>
+    <video:publication_date>2026-03-17T10:31:28.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2026-03-25T10:31:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-260/set/100519763/</loc>
   <lastmod>2026-03-17T08:32:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-08T22:44:25.000Z</video:publication_date>
     <video:uploader>ramaposmash</video:uploader>
     <video:expiration_date>2026-03-16T22:44:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/comet-clash-29/set/100231457/</loc>
-  <lastmod>2026-03-08T23:10:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888306/image-2467e30fae101dc883cda9d483d665bf.png
-    </video:thumbnail_loc>
-    <video:title>
-      UTD | Master vs TRULY BLESSED! | Concrete, Comet Clash 29 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UTD | Master vs TRULY BLESSED! | Concrete in Winners Quarter-Final of Comet Clash 29, streamed by UTDSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2717482719&amp;t=0h28m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>944</video:duration>
-    <video:publication_date>2026-03-08T22:43:06.000Z</video:publication_date>
-    <video:uploader>UTDSmash</video:uploader>
-    <video:expiration_date>2026-03-16T22:43:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
