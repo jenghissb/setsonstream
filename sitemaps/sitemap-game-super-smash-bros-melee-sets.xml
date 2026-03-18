@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nycmelee-s-stock-exchange-41/set/100557143/</loc>
+  <lastmod>2026-03-18T23:21:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892021/image-191589b757fe21e43da3eee4a07a2723.png
+    </video:thumbnail_loc>
+    <video:title>
+      Triple C vs BrandonStebbin | Jon Arbuckle, NYCMelee&apos;s Stock Exchange #41 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Triple C vs BrandonStebbin | Jon Arbuckle in Winners Round 2 of NYCMelee&apos;s Stock Exchange #41, streamed by nycmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2725885792&amp;t=0h7m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1509</video:duration>
+    <video:publication_date>2026-03-18T23:21:12.000Z</video:publication_date>
+    <video:uploader>nycmelee</video:uploader>
+    <video:expiration_date>2026-03-26T23:21:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-the-scene-142-novel-tea-in-oviedo/set/100535099/</loc>
   <lastmod>2026-03-18T02:58:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-21T05:27:16.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-03-01T05:27:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-cpp-s26-3/set/99558009/</loc>
-  <lastmod>2026-02-21T05:26:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881963/image-7d8a37d26b8c3263d7f95d93baf6cc3c.png
-    </video:thumbnail_loc>
-    <video:title>
-      PEPIS | Noire vs BuckleBeeJones, Melee @ CPP S26 #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PEPIS | Noire vs BuckleBeeJones in Winners Final of Melee @ CPP S26 #3, streamed by CPPmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703479819&amp;t=1h23m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>767</video:duration>
-    <video:publication_date>2026-02-21T05:11:56.000Z</video:publication_date>
-    <video:uploader>CPPmelee</video:uploader>
-    <video:expiration_date>2026-03-01T05:11:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
