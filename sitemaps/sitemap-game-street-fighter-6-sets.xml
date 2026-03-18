@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-144/set/100530523/</loc>
+  <lastmod>2026-03-17T23:49:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892358/image-cbec4aeb50bf410316a78abae6fc7135.png
+    </video:thumbnail_loc>
+    <video:title>
+      HoG | JuniorJunes vs TRICKY | morg, HoG: Dragon #144 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HoG | JuniorJunes vs TRICKY | morg in Winners Quarter-Final of HoG: Dragon #144, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2725076952&amp;t=0h25m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>474</video:duration>
+    <video:publication_date>2026-03-17T23:49:15.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-03-25T23:49:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-s-bros-46/set/100491432/</loc>
   <lastmod>2026-03-16T01:31:43.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-21T23:10:17.000Z</video:publication_date>
     <video:uploader>rebootretrocadegaming</video:uploader>
     <video:expiration_date>2026-03-01T23:10:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-february-21-2026/set/99618481/</loc>
-  <lastmod>2026-02-21T23:38:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873071/image-181dbc12c2c33ea597aa881b435262d1.png
-    </video:thumbnail_loc>
-    <video:title>
-      ThaRuffProphet vs SICKLE, Space City Beatdown - February 21, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ThaRuffProphet vs SICKLE in Winners Final of Space City Beatdown - February 21, 2026, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704056351&amp;t=2h58m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>715</video:duration>
-    <video:publication_date>2026-02-21T23:06:03.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-03-01T23:06:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
