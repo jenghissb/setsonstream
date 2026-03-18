@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-132/set/100548158/</loc>
-  <lastmod>2026-03-18T21:42:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gould-st-gauntlet-21/set/100551699/</loc>
+  <lastmod>2026-03-18T21:56:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891528/image-043364671adc2c87e487cb55ec81ebd0.png
+    </video:thumbnail_loc>
+    <video:title>
+      CX | CADEARUUU vs UF | Hydro, Gould St. Gauntlet #21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CX | CADEARUUU vs UF | Hydro in Winners Round 2 of Gould St. Gauntlet #21, streamed by nostyleesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2725826382&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2339</video:duration>
+    <video:publication_date>2026-03-18T21:56:13.000Z</video:publication_date>
+    <video:uploader>nostyleesports</video:uploader>
+    <video:expiration_date>2026-03-26T21:56:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-132/set/100548095/</loc>
+  <lastmod>2026-03-18T22:03:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +34,18 @@
       https://images.start.gg/images/tournament/891716/image-0947a0baf56c5d88a8758db0c97efe94.png
     </video:thumbnail_loc>
     <video:title>
-      Jean vs EDC | Spectral, D-LAY #132 - Sets on Stream
+      GG | Kichiro vs Jean, D-LAY #132 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Jean vs EDC | Spectral in Losers Final of D-LAY #132, streamed by asso_grab
+      Watch GG | Kichiro vs Jean in Grand Final of D-LAY #132, streamed by asso_grab
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2725695863&amp;t=2h39m38s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2725695863&amp;t=3h0m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>976</video:duration>
-    <video:publication_date>2026-03-18T21:42:56.000Z</video:publication_date>
+    <video:duration>1913</video:duration>
+    <video:publication_date>2026-03-18T22:03:19.000Z</video:publication_date>
     <video:uploader>asso_grab</video:uploader>
-    <video:expiration_date>2026-03-26T21:42:56.000Z</video:expiration_date>
+    <video:expiration_date>2026-03-26T22:03:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -42,16 +66,40 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=midz_m&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2037</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-03-18T21:25:15.000Z</video:publication_date>
     <video:uploader>midz_m</video:uploader>
     <video:expiration_date>2026-03-26T21:25:15.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-rave-105/set/100551612/</loc>
-  <lastmod>2026-03-18T21:49:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/platform-camp-16/set/100551294/</loc>
+  <lastmod>2026-03-18T21:55:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891968/image-604f33313c44d75a552b8a051bc4835a.png
+    </video:thumbnail_loc>
+    <video:title>
+      honey_o vs Nomic, Platform Camp #16 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch honey_o vs Nomic in Grand Final of Platform Camp #16, streamed by PlatformCampSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2725668622&amp;t=3h26m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2403</video:duration>
+    <video:publication_date>2026-03-18T21:55:09.000Z</video:publication_date>
+    <video:uploader>PlatformCampSmash</video:uploader>
+    <video:expiration_date>2026-03-26T21:55:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-rave-105/set/100551612/</loc>
+  <lastmod>2026-03-18T22:08:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +114,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2725788250&amp;t=0h47m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>599</video:duration>
+    <video:duration>1004</video:duration>
     <video:publication_date>2026-03-18T21:49:13.000Z</video:publication_date>
     <video:uploader>tu_gameroom</video:uploader>
     <video:expiration_date>2026-03-26T21:49:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/d-lay-132/set/100548158/</loc>
+  <lastmod>2026-03-18T22:06:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891716/image-0947a0baf56c5d88a8758db0c97efe94.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jean vs EDC | Spectral, D-LAY #132 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jean vs EDC | Spectral in Losers Final of D-LAY #132, streamed by asso_grab
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2725695863&amp;t=2h39m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1219</video:duration>
+    <video:publication_date>2026-03-18T21:42:56.000Z</video:publication_date>
+    <video:uploader>asso_grab</video:uploader>
+    <video:expiration_date>2026-03-26T21:42:56.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71926,78 +71998,6 @@
     <video:publication_date>2026-03-10T00:44:25.000Z</video:publication_date>
     <video:uploader>tol_gaming_lounge</video:uploader>
     <video:expiration_date>2026-03-18T00:44:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/t-rough-n-tumble-12-1/set/100260367/</loc>
-  <lastmod>2026-03-10T01:19:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889152/image-b6796d6d7a4e1948d693187b0f79bafb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Arrakis vs KittyCiar, T-Rough N Tumble #12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Arrakis vs KittyCiar in Winners Semi-Final of T-Rough N Tumble #12, streamed by wiregrassssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2718379736&amp;t=0h20m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1639</video:duration>
-    <video:publication_date>2026-03-10T00:42:45.000Z</video:publication_date>
-    <video:uploader>wiregrassssb</video:uploader>
-    <video:expiration_date>2026-03-18T00:42:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/2-000-arcade-time-knockout-5-smash-brothers-tournament-with-hungrybox/set/100256282/</loc>
-  <lastmod>2026-03-10T01:09:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884659/image-b90455f677f2bbb86f6901323c8e79ad.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CC | Anthzeny vs stilios, $2,000 Arcade Time Knockout #5 Smash Brothers Tournament With Hungrybox! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CC | Anthzeny vs stilios in Winners Quarter-Final of $2,000 Arcade Time Knockout #5 Smash Brothers Tournament With Hungrybox!, streamed by HUNGRYBOX
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2718351239&amp;t=0h53m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>570</video:duration>
-    <video:publication_date>2026-03-10T00:42:07.000Z</video:publication_date>
-    <video:uploader>HUNGRYBOX</video:uploader>
-    <video:expiration_date>2026-03-18T00:42:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/frame-trap-153-maltese-brewing-company/set/100256661/</loc>
-  <lastmod>2026-03-10T01:19:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888298/image-de45b8af87909a7c6826c22330516a5f.png
-    </video:thumbnail_loc>
-    <video:title>
-      HONOR | BLUE vs W&amp;M | Duke, Frame Trap #153 @ Maltese Brewing Company! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HONOR | BLUE vs W&amp;M | Duke in Round 5 of Frame Trap #153 @ Maltese Brewing Company!, streamed by the_jokeofalltrades
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2718348507&amp;t=0h56m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1393</video:duration>
-    <video:publication_date>2026-03-10T00:42:03.000Z</video:publication_date>
-    <video:uploader>the_jokeofalltrades</video:uploader>
-    <video:expiration_date>2026-03-18T00:42:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
