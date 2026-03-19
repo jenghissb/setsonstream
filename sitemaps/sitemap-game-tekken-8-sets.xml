@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-31/set/100576109/</loc>
+  <lastmod>2026-03-19T22:17:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/883633/image-b7cd074ef9dda1631050b514e9c43684.png
+    </video:thumbnail_loc>
+    <video:title>
+      Gaer Gaeaf vs cupofnoodles, Black Country Foundry #31 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gaer Gaeaf vs cupofnoodles in Losers Semi-Final of Black Country Foundry #31, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2726570207&amp;t=2h9m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2345</video:duration>
+    <video:publication_date>2026-03-19T22:17:28.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2026-03-27T22:17:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-31/set/100576487/</loc>
   <lastmod>2026-03-19T21:19:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-21T21:57:36.000Z</video:publication_date>
     <video:uploader>FXGames_gg</video:uploader>
     <video:expiration_date>2026-03-01T21:57:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/get-to-the-top-3/set/99591939/</loc>
-  <lastmod>2026-02-21T22:10:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855848/image-9aba32610c3826952393a2a38fedab4d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nemouik vs DUC | Ayatsuji, GET TO THE TOP! 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nemouik vs DUC | Ayatsuji in Grand Final of GET TO THE TOP! 3, streamed by DucEsport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703897932&amp;t=4h34m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>981</video:duration>
-    <video:publication_date>2026-02-21T21:40:26.000Z</video:publication_date>
-    <video:uploader>DucEsport</video:uploader>
-    <video:expiration_date>2026-03-01T21:40:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
