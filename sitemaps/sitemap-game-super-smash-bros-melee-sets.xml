@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-372/set/100578951/</loc>
+  <lastmod>2026-03-19T22:09:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892958/image-ab52448c77ed8578e4cbc12123b154b6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Qwizzical vs sandon05, Salt Water Smash 372 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Qwizzical vs sandon05 in Round 3 of Salt Water Smash 372, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2726648916&amp;t=0h16m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>897</video:duration>
+    <video:publication_date>2026-03-19T22:09:54.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-03-27T22:09:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-180-death-stranding-2-waiting-room/set/100570278/</loc>
   <lastmod>2026-03-19T05:19:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-21T21:07:07.000Z</video:publication_date>
     <video:uploader>nostyleesports2</video:uploader>
     <video:expiration_date>2026-03-01T21:07:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-2026-austin-melee-arcadian-650-rolling-pot-bonus/set/99602728/</loc>
-  <lastmod>2026-02-21T21:12:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/853614/image-3af5864bf8b638eb3fcc1b25cd7c8408.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      vexel vs Steven, The 2026 Austin Melee Arcadian - $650 Rolling pot bonus!!! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch vexel vs Steven in Round 6 of The 2026 Austin Melee Arcadian - $650 Rolling pot bonus!!!, streamed by itspeachtea
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703944998&amp;t=2h36m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>651</video:duration>
-    <video:publication_date>2026-02-21T20:39:50.000Z</video:publication_date>
-    <video:uploader>itspeachtea</video:uploader>
-    <video:expiration_date>2026-03-01T20:39:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
