@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-burnside-50/set/100572270/</loc>
+  <lastmod>2026-03-19T08:15:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891875/image-e022a613a9d88de4537b8f83519301ec.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sloshi vs Justice, Smash @ Burnside #50 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sloshi vs Justice in Winners Round 1 of Smash @ Burnside #50, streamed by bigcheese_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2726177610&amp;t=0h6m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>410</video:duration>
+    <video:publication_date>2026-03-19T08:03:51.000Z</video:publication_date>
+    <video:uploader>bigcheese_gg</video:uploader>
+    <video:expiration_date>2026-03-27T08:03:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/100-pot-bonus-wild-smash-wednesday-178/set/100571959/</loc>
   <lastmod>2026-03-19T07:10:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-10T22:24:05.000Z</video:publication_date>
     <video:uploader>toulouselaststock</video:uploader>
     <video:expiration_date>2026-03-18T22:24:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/runny-weeklies-150/set/100270102/</loc>
-  <lastmod>2026-03-10T22:37:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888570/image-fe80c6546406463201de6b1f79f49378.png
-    </video:thumbnail_loc>
-    <video:title>
-      Inspector Goose vs Majin Jamie, Runny Weeklies #150 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Inspector Goose vs Majin Jamie in Losers Quarter-Final of Runny Weeklies #150, streamed by RunnyWeeklies
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2718960543&amp;t=2h59m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>832</video:duration>
-    <video:publication_date>2026-03-10T22:18:16.000Z</video:publication_date>
-    <video:uploader>RunnyWeeklies</video:uploader>
-    <video:expiration_date>2026-03-18T22:18:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
