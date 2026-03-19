@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-372/set/100580479/</loc>
-  <lastmod>2026-03-19T22:44:41.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-372/set/100580484/</loc>
+  <lastmod>2026-03-19T23:04:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892958/image-ab52448c77ed8578e4cbc12123b154b6.png
+    </video:thumbnail_loc>
+    <video:title>
+      shugacrisp vs sandon05, Salt Water Smash 372 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch shugacrisp vs sandon05 in Winners Semi-Final of Salt Water Smash 372, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2726648916&amp;t=1h11m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1388</video:duration>
+    <video:publication_date>2026-03-19T23:04:19.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-03-27T23:04:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-372/set/100580479/</loc>
+  <lastmod>2026-03-19T23:16:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2726648916&amp;t=0h51m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>712</video:duration>
+    <video:duration>570</video:duration>
     <video:publication_date>2026-03-19T22:44:41.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-03-27T22:44:41.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-21T21:23:09.000Z</video:publication_date>
     <video:uploader>SD_Paint</video:uploader>
     <video:expiration_date>2026-03-01T21:23:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/campus-clash-3-barrage/set/99607452/</loc>
-  <lastmod>2026-02-21T21:55:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830190/image-d3c37dd81039459981a5380aafae5607.png
-    </video:thumbnail_loc>
-    <video:title>
-      EMG | SixTalez vs NickSF, Campus Clash 3: BARRAGE! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EMG | SixTalez vs NickSF in Winners Round 1 of Campus Clash 3: BARRAGE!, streamed by nostyleesports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704104139&amp;t=0h19m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>731</video:duration>
-    <video:publication_date>2026-02-21T21:23:05.000Z</video:publication_date>
-    <video:uploader>nostyleesports2</video:uploader>
-    <video:expiration_date>2026-03-01T21:23:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
