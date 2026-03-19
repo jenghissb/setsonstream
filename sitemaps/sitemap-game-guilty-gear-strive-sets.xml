@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showdown-85/set/100565945/</loc>
+  <lastmod>2026-03-19T01:53:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/890717/image-e28fb67b81237811508b917fb44e6d20.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pk | Yandere vs SZND, Showdown #85 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pk | Yandere vs SZND in Round 2 of Showdown #85, streamed by fgleventsllc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2725946103&amp;t=0h48m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>641</video:duration>
+    <video:publication_date>2026-03-19T01:16:54.000Z</video:publication_date>
+    <video:uploader>fgleventsllc</video:uploader>
+    <video:expiration_date>2026-03-27T01:16:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-232-the-fate-of-ikemefuna/set/100532884/</loc>
   <lastmod>2026-03-18T03:01:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-18T05:05:56.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2026-02-26T05:05:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/magic-pixel-weekly-138/set/99441643/</loc>
-  <lastmod>2026-02-18T05:09:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/875889/image-7d54dc6c7b6398b8a26c94e6e71690d9.png
-    </video:thumbnail_loc>
-    <video:title>
-      GER | Jembo vs MP | Saucy, Magic Pixel Weekly #138 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GER | Jembo vs MP | Saucy in Losers Final of Magic Pixel Weekly #138, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700854375&amp;t=1h18m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>784</video:duration>
-    <video:publication_date>2026-02-18T04:52:42.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2026-02-26T04:52:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
