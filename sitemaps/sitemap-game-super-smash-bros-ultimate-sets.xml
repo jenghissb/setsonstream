@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/citismash-20-03-2026/set/100602735/</loc>
+  <lastmod>2026-03-20T15:49:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891917/image-279477fd9dc6aee447f66538368987f3.png
+    </video:thumbnail_loc>
+    <video:title>
+      KYC | Cartex vs KYC | Masato max, Citismash - 20/03/2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KYC | Cartex vs KYC | Masato max in Winners Round 1 of Citismash - 20/03/2026, streamed by citismash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727225838&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1113</video:duration>
+    <video:publication_date>2026-03-20T15:49:32.000Z</video:publication_date>
+    <video:uploader>citismash</video:uploader>
+    <video:expiration_date>2026-03-28T15:49:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smalab-38/set/100600280/</loc>
   <lastmod>2026-03-20T13:41:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-12T05:31:42.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-03-20T05:31:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/alleymania-12/set/100312498/</loc>
-  <lastmod>2026-03-12T05:56:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890612/image-807f7d200fa6c21d5bc9d1568da7c34f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TFT | ALLEYCAT vs TFT | Frank, ALLEYMANIA #12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TFT | ALLEYCAT vs TFT | Frank in Grand Final of ALLEYMANIA #12, streamed by TFT_Frank
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/JMe2RcFgvWw?start=15528s
-    </video:player_loc>
-    <video:duration>1364</video:duration>
-    <video:publication_date>2026-03-12T05:31:14.000Z</video:publication_date>
-    <video:uploader>TFT_Frank</video:uploader>
-    <video:expiration_date>2026-03-20T05:31:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
