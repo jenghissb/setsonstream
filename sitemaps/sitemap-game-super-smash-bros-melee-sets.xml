@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-38/set/100615535/</loc>
+  <lastmod>2026-03-20T19:36:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889742/image-7bd28b78ef0a58fbc79698a9ee14a6ce.png
+    </video:thumbnail_loc>
+    <video:title>
+      10QuidShoes vs GOON, Front Runners #38 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 10QuidShoes vs GOON in Round 2 of Front Runners #38, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727387265&amp;t=0h11m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1173</video:duration>
+    <video:publication_date>2026-03-20T19:36:33.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2026-03-28T19:36:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-138/set/100595194/</loc>
   <lastmod>2026-03-20T05:35:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-22T01:09:00.000Z</video:publication_date>
     <video:uploader>isu_smash</video:uploader>
     <video:expiration_date>2026-03-02T01:09:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lab-monster-89/set/99634033/</loc>
-  <lastmod>2026-02-22T01:39:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882046/image-096166cdec6533158ea0937512d11e39.png
-    </video:thumbnail_loc>
-    <video:title>
-      ABG | | KoopaTroopa895 vs CEG, Lab Monster 89 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ABG | | KoopaTroopa895 vs CEG in Winners Quarter-Final of Lab Monster 89, streamed by labmonsters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704201978&amp;t=2h0m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>880</video:duration>
-    <video:publication_date>2026-02-22T01:08:55.000Z</video:publication_date>
-    <video:uploader>labmonsters</video:uploader>
-    <video:expiration_date>2026-03-02T01:08:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
