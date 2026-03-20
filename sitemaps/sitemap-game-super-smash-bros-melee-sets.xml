@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-38/set/100616646/</loc>
-  <lastmod>2026-03-20T20:29:43.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-38/set/100616949/</loc>
+  <lastmod>2026-03-20T21:24:11.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889742/image-7bd28b78ef0a58fbc79698a9ee14a6ce.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kidder vs GOON, Front Runners #38 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kidder vs GOON in Winners Semi-Final of Front Runners #38, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727387265&amp;t=1h59m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>506</video:duration>
+    <video:publication_date>2026-03-20T21:24:11.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2026-03-28T21:24:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-38/set/100616646/</loc>
+  <lastmod>2026-03-20T21:01:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2727387265&amp;t=1h4m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1777</video:duration>
+    <video:duration>762</video:duration>
     <video:publication_date>2026-03-20T20:29:43.000Z</video:publication_date>
     <video:uploader>PhoenixSmash</video:uploader>
     <video:expiration_date>2026-03-28T20:29:43.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-22T01:10:27.000Z</video:publication_date>
     <video:uploader>itspeachtea</video:uploader>
     <video:expiration_date>2026-03-02T01:10:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/campus-clash-3-barrage/set/99607482/</loc>
-  <lastmod>2026-02-22T01:39:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/830190/image-d3c37dd81039459981a5380aafae5607.png
-    </video:thumbnail_loc>
-    <video:title>
-      NSE | Maher vs CG | Goosekhan, Campus Clash 3: BARRAGE! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NSE | Maher vs CG | Goosekhan in Grand Final of Campus Clash 3: BARRAGE!, streamed by nostyleesports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704155278&amp;t=3h2m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>809</video:duration>
-    <video:publication_date>2026-02-22T01:09:36.000Z</video:publication_date>
-    <video:uploader>nostyleesports2</video:uploader>
-    <video:expiration_date>2026-03-02T01:09:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
