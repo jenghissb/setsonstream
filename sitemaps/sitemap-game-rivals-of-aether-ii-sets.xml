@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-527-pre-stoned-ix/set/100624033/</loc>
+  <lastmod>2026-03-20T23:29:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876788/image-273895c74663171c3a5649a41b074ee9.png
+    </video:thumbnail_loc>
+    <video:title>
+      DAD | Quack vs FS | Jelato, Adventure B-Airs #527 - Pre-Stoned IX - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DAD | Quack vs FS | Jelato in Round 5 of Adventure B-Airs #527 - Pre-Stoned IX, streamed by bros_calamity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727539491&amp;t=0h51m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>918</video:duration>
+    <video:publication_date>2026-03-20T23:29:07.000Z</video:publication_date>
+    <video:uploader>bros_calamity</video:uploader>
+    <video:expiration_date>2026-03-28T23:29:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-22/set/100588390/</loc>
   <lastmod>2026-03-20T03:45:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-21T16:55:52.000Z</video:publication_date>
     <video:uploader>nostyleesports</video:uploader>
     <video:expiration_date>2026-03-01T16:55:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99585472/</loc>
-  <lastmod>2026-02-21T17:01:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863144/image-c3ede971e1d475c05b4c9b1285cc47fb.png
-    </video:thumbnail_loc>
-    <video:title>
-      soulcinder vs cozy | Misi, ARRIVAL 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch soulcinder vs cozy | Misi in Winners Round 1 of ARRIVAL 4, streamed by skylord_guthix
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703737529&amp;t=3h35m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1246</video:duration>
-    <video:publication_date>2026-02-21T16:37:07.000Z</video:publication_date>
-    <video:uploader>skylord_guthix</video:uploader>
-    <video:expiration_date>2026-03-01T16:37:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
