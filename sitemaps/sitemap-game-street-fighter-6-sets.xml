@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kayane-session-lyon-edition-gones-games/set/100655666/</loc>
+  <lastmod>2026-03-21T15:57:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879601/image-f289700b4ee45d4267e30c8515e7ba28.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SSY | Chokeru vs HikenNoGief, Kayane Session à Lyon - Edition Gones Games - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SSY | Chokeru vs HikenNoGief in Losers Quarter-Final of Kayane Session à Lyon - Edition Gones Games, streamed by themixuplyon
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727994946&amp;t=3h34m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1852</video:duration>
+    <video:publication_date>2026-03-21T15:57:53.000Z</video:publication_date>
+    <video:uploader>themixuplyon</video:uploader>
+    <video:expiration_date>2026-03-29T15:57:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-111/set/100644579/</loc>
   <lastmod>2026-03-21T05:36:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-22T23:20:31.000Z</video:publication_date>
     <video:uploader>magik4fgc</video:uploader>
     <video:expiration_date>2026-03-02T23:20:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sunday-night-fights-vol-55/set/99686579/</loc>
-  <lastmod>2026-02-22T23:24:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881488/image-cb564c75787ca16a7bdd1f483c15cba2.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      bug club | mynameisfury vs _lol, Sunday Night Fights Vol.55 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bug club | mynameisfury vs _lol in Losers Semi-Final of Sunday Night Fights Vol.55, streamed by magik4fgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704998018&amp;t=3h0m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1060</video:duration>
-    <video:publication_date>2026-02-22T23:02:23.000Z</video:publication_date>
-    <video:uploader>magik4fgc</video:uploader>
-    <video:expiration_date>2026-03-02T23:02:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
