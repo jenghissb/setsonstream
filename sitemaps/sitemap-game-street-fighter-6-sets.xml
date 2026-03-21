@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragonspire-3/set/100700671/</loc>
+  <lastmod>2026-03-21T22:50:55.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885346/image-b4c53806c59bf92a0db5eb8d81bd57b2.png
+    </video:thumbnail_loc>
+    <video:title>
+      860 | Kite vs BFD | Sion, HoG: Dragonspire #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 860 | Kite vs BFD | Sion in Winners Quarter-Final of HoG: Dragonspire #3, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728225896&amp;t=4h43m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1849</video:duration>
+    <video:publication_date>2026-03-21T22:50:55.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-03-29T22:50:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-march-2026/set/100681446/</loc>
   <lastmod>2026-03-21T22:28:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-23T20:05:29.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-03-03T20:05:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-75/set/99709899/</loc>
-  <lastmod>2026-02-23T20:12:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874608/image-7ed1cf5970bbc10f54ed42b27bfee5b5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BEER | Rocks vs Ryukenobame, Toulouse Fighting Monday 75 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BEER | Rocks vs Ryukenobame in Winners Round 2 of Toulouse Fighting Monday 75, streamed by toulousevsfighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2705807054&amp;t=0h46m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>388</video:duration>
-    <video:publication_date>2026-02-23T19:57:02.000Z</video:publication_date>
-    <video:uploader>toulousevsfighters</video:uploader>
-    <video:expiration_date>2026-03-03T19:57:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
