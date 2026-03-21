@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ring-of-valor-13/set/100673072/</loc>
-  <lastmod>2026-03-21T19:43:41.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ring-of-valor-13/set/100673069/</loc>
+  <lastmod>2026-03-21T20:23:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889548/image-b07a8463c36cdc431dcd6e47eb45737f.png
+    </video:thumbnail_loc>
+    <video:title>
+      IWU | DIce vs !DUNK | IWU | Crackle, Ring of Valor #13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IWU | DIce vs !DUNK | IWU | Crackle in Round 1 of Ring of Valor #13, streamed by dunkdojogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728287301&amp;t=1h2m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1681</video:duration>
+    <video:publication_date>2026-03-21T20:23:24.000Z</video:publication_date>
+    <video:uploader>dunkdojogaming</video:uploader>
+    <video:expiration_date>2026-03-29T20:23:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ring-of-valor-13/set/100673072/</loc>
+  <lastmod>2026-03-21T20:24:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2728287301&amp;t=0h22m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2350</video:duration>
+    <video:duration>651</video:duration>
     <video:publication_date>2026-03-21T19:43:41.000Z</video:publication_date>
     <video:uploader>dunkdojogaming</video:uploader>
     <video:expiration_date>2026-03-29T19:43:41.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-21T17:37:56.000Z</video:publication_date>
     <video:uploader>skylord_guthix</video:uploader>
     <video:expiration_date>2026-03-01T17:37:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99585486/</loc>
-  <lastmod>2026-02-21T18:01:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863144/image-c3ede971e1d475c05b4c9b1285cc47fb.png
-    </video:thumbnail_loc>
-    <video:title>
-      AoC | Guthix vs DonCascone, ARRIVAL 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AoC | Guthix vs DonCascone in Winners Quarter-Final of ARRIVAL 4, streamed by focus_miss
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703667333&amp;t=6h58m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>919</video:duration>
-    <video:publication_date>2026-02-21T17:35:46.000Z</video:publication_date>
-    <video:uploader>focus_miss</video:uploader>
-    <video:expiration_date>2026-03-01T17:35:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
