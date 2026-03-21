@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/uch-fighters/set/100664208/</loc>
-  <lastmod>2026-03-21T18:32:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/quickdraw-brawl-54/set/100677390/</loc>
+  <lastmod>2026-03-21T19:07:17.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889282/image-ea3cb0a61fe391394a9d68a5729af47c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TepidWater vs ZZR, Quickdraw Brawl 54 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TepidWater vs ZZR in Round 2 of Quickdraw Brawl 54, streamed by quickdrawbrawl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728251042&amp;t=0h28m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1808</video:duration>
+    <video:publication_date>2026-03-21T19:07:17.000Z</video:publication_date>
+    <video:uploader>quickdrawbrawl</video:uploader>
+    <video:expiration_date>2026-03-29T19:07:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/uch-fighters/set/100664208/</loc>
+  <lastmod>2026-03-21T19:08:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2727983741&amp;t=6h31m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1823</video:duration>
+    <video:duration>1891</video:duration>
     <video:publication_date>2026-03-21T18:32:46.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-29T18:32:46.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-16T00:34:07.000Z</video:publication_date>
     <video:uploader>norcalgranblue</video:uploader>
     <video:expiration_date>2026-02-24T00:34:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-february-2026/set/99380414/</loc>
-  <lastmod>2026-02-16T00:39:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872387/image-9437af9624ca58ffb337efc090f10fd6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dark Swordsman 2026 vs Yuisis | shuaboo, Astral Beatdown February 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dark Swordsman 2026 vs Yuisis | shuaboo in Winners Quarter-Final of Astral Beatdown February 2026, streamed by norcalgranblue
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2698906032&amp;t=1h2m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>523</video:duration>
-    <video:publication_date>2026-02-16T00:17:32.000Z</video:publication_date>
-    <video:uploader>norcalgranblue</video:uploader>
-    <video:expiration_date>2026-02-24T00:17:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
