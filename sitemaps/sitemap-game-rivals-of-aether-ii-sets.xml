@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ring-of-valor-13/set/100673072/</loc>
+  <lastmod>2026-03-21T19:43:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889548/image-b07a8463c36cdc431dcd6e47eb45737f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Skywalker vs IWU | DIce, Ring of Valor #13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Skywalker vs IWU | DIce in Round 2 of Ring of Valor #13, streamed by dunkdojogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728287301&amp;t=0h22m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>730</video:duration>
+    <video:publication_date>2026-03-21T19:43:41.000Z</video:publication_date>
+    <video:uploader>dunkdojogaming</video:uploader>
+    <video:expiration_date>2026-03-29T19:43:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-263/set/100635155/</loc>
   <lastmod>2026-03-21T03:12:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-21T17:35:46.000Z</video:publication_date>
     <video:uploader>focus_miss</video:uploader>
     <video:expiration_date>2026-03-01T17:35:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99585539/</loc>
-  <lastmod>2026-02-21T18:01:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863144/image-c3ede971e1d475c05b4c9b1285cc47fb.png
-    </video:thumbnail_loc>
-    <video:title>
-      cozy | mimic vs cozy | Misi, ARRIVAL 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch cozy | mimic vs cozy | Misi in Losers Round 1 of ARRIVAL 4, streamed by doncascone
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703741636&amp;t=4h22m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1304</video:duration>
-    <video:publication_date>2026-02-21T17:31:12.000Z</video:publication_date>
-    <video:uploader>doncascone</video:uploader>
-    <video:expiration_date>2026-03-01T17:31:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
