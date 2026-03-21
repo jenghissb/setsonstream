@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/platform-fighters-levelup-lund/set/100658210/</loc>
+  <lastmod>2026-03-21T17:45:11.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867640/image-a45b849494efe77f7d5afc2d09440b97.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kallkorv vs Sharp, Platform Fighters @ LevelUp Lund - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kallkorv vs Sharp in Winners Final of Platform Fighters @ LevelUp Lund, streamed by saftisblandis
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727924668&amp;t=8h8m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2795</video:duration>
+    <video:publication_date>2026-03-21T17:45:11.000Z</video:publication_date>
+    <video:uploader>saftisblandis</video:uploader>
+    <video:expiration_date>2026-03-29T17:45:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/platform-fighters-levelup-lund/set/100660785/</loc>
   <lastmod>2026-03-21T16:50:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-24T03:00:54.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-03-04T03:00:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kame-house-weekly-147-hbdbag/set/99720695/</loc>
-  <lastmod>2026-02-24T03:25:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883404/image-68df2d51049eb2706cff298b26dacda8.png
-    </video:thumbnail_loc>
-    <video:title>
-      swaggerbee vs McSMASH | fknsilver, Kame House Weekly #147 #HBDBAG - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch swaggerbee vs McSMASH | fknsilver in Winners Final of Kame House Weekly #147 #HBDBAG, streamed by vgbootcamp2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2706114036&amp;t=1h4m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2027</video:duration>
-    <video:publication_date>2026-02-24T02:43:53.000Z</video:publication_date>
-    <video:uploader>vgbootcamp2</video:uploader>
-    <video:expiration_date>2026-03-04T02:43:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

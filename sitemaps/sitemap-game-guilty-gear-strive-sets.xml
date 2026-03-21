@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/kayane-session-lyon-edition-gones-games/set/100655491/</loc>
+  <lastmod>2026-03-21T17:29:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879601/image-f289700b4ee45d4267e30c8515e7ba28.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      2B | Leif vs SEN | Naxy, Kayane Session à Lyon - Edition Gones Games - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 2B | Leif vs SEN | Naxy in Grand Final of Kayane Session à Lyon - Edition Gones Games, streamed by themixuplyon
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=themixuplyon&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-03-21T17:29:54.000Z</video:publication_date>
+    <video:uploader>themixuplyon</video:uploader>
+    <video:expiration_date>2026-03-29T17:29:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-111/set/100642733/</loc>
   <lastmod>2026-03-21T04:42:22.000Z</lastmod>
   <changefreq>daily</changefreq>
