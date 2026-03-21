@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-263/set/100635155/</loc>
+  <lastmod>2026-03-21T03:12:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892802/image-b26719926e47ab46583a3e1c11aea3ab.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Cat5Underscore vs Ari Orca, Elite Smash Fridays #263 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cat5Underscore vs Ari Orca in Losers Round 2 of Elite Smash Fridays #263, streamed by Colorado_ROA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727668056&amp;t=1h25m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>911</video:duration>
+    <video:publication_date>2026-03-21T02:38:39.000Z</video:publication_date>
+    <video:uploader>Colorado_ROA</video:uploader>
+    <video:expiration_date>2026-03-29T02:38:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-220/set/100624838/</loc>
   <lastmod>2026-03-21T01:36:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-21T17:31:12.000Z</video:publication_date>
     <video:uploader>doncascone</video:uploader>
     <video:expiration_date>2026-03-01T17:31:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/arrival-4/set/99585481/</loc>
-  <lastmod>2026-02-21T17:48:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863144/image-c3ede971e1d475c05b4c9b1285cc47fb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Genarog vs ELS DAT | Focus Miss, ARRIVAL 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Genarog vs ELS DAT | Focus Miss in Winners Round 2 of ARRIVAL 4, streamed by focus_miss
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703667333&amp;t=6h40m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1143</video:duration>
-    <video:publication_date>2026-02-21T17:17:14.000Z</video:publication_date>
-    <video:uploader>focus_miss</video:uploader>
-    <video:expiration_date>2026-03-01T17:17:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
