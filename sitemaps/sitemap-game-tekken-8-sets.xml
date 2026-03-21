@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-18/set/100655249/</loc>
-  <lastmod>2026-03-21T13:11:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-18/set/100655310/</loc>
+  <lastmod>2026-03-21T13:44:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882534/image-685d4910e35c8b3682f15e0b0d452110.png
+    </video:thumbnail_loc>
+    <video:title>
+      PF | El Armooty vs Tenz Jang, GROUND CONTROL 18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PF | El Armooty vs Tenz Jang in Losers Round 3 of GROUND CONTROL 18, streamed by gamingloods
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2727996884&amp;t=1h17m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1193</video:duration>
+    <video:publication_date>2026-03-21T13:44:37.000Z</video:publication_date>
+    <video:uploader>gamingloods</video:uploader>
+    <video:expiration_date>2026-03-29T13:44:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ground-control-18/set/100655249/</loc>
+  <lastmod>2026-03-21T13:50:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2727996884&amp;t=0h43m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1782</video:duration>
+    <video:duration>813</video:duration>
     <video:publication_date>2026-03-21T13:11:07.000Z</video:publication_date>
     <video:uploader>gamingloods</video:uploader>
     <video:expiration_date>2026-03-29T13:11:07.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-22T01:48:16.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2026-03-02T01:48:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-46/set/99622931/</loc>
-  <lastmod>2026-02-22T03:45:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873846/image-7e28c1795170d12b564d885396427513.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ace65 vs STG | Wasulu, Just Us Baddies 46 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ace65 vs STG | Wasulu in Grand Final of Just Us Baddies 46, streamed by FXGames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704049083&amp;t=5h44m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-02-22T01:44:59.000Z</video:publication_date>
-    <video:uploader>FXGames_gg</video:uploader>
-    <video:expiration_date>2026-03-02T01:44:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
