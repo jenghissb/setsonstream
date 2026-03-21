@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-47/set/100688267/</loc>
-  <lastmod>2026-03-21T21:27:26.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/monthly-godlike-blazerfury/set/100690098/</loc>
+  <lastmod>2026-03-21T21:58:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/890918/image-6d64dfc4e8b4bf3dff4a5b856c2d72ad.png
+    </video:thumbnail_loc>
+    <video:title>
+      NO Juice vs LND|B.I.A. | NK30, Monthly Godlike BlazerFury - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NO Juice vs LND|B.I.A. | NK30 in Losers Round 2 of Monthly Godlike BlazerFury, streamed by LAFGCTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728371946&amp;t=0h55m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1366</video:duration>
+    <video:publication_date>2026-03-21T21:58:18.000Z</video:publication_date>
+    <video:uploader>LAFGCTV</video:uploader>
+    <video:expiration_date>2026-03-29T21:58:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-47/set/100688267/</loc>
+  <lastmod>2026-03-21T22:04:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2728246443&amp;t=2h54m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1233</video:duration>
+    <video:duration>724</video:duration>
     <video:publication_date>2026-03-21T21:27:26.000Z</video:publication_date>
     <video:uploader>FXGames_gg</video:uploader>
     <video:expiration_date>2026-03-29T21:27:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ssf-saturday-march-21st-2026/set/100682944/</loc>
-  <lastmod>2026-03-21T21:23:00.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888506/image-d239cd35b31c6214e32abf812b76dfa0.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      WayGamble vs Crankin Inc. | Dr. Dre, SSF Saturday | March 21st, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch WayGamble vs Crankin Inc. | Dr. Dre in Grand Final of SSF Saturday | March 21st, 2026, streamed by SalemFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=SalemFighters&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1499</video:duration>
-    <video:publication_date>2026-03-21T21:23:00.000Z</video:publication_date>
-    <video:uploader>SalemFighters</video:uploader>
-    <video:expiration_date>2026-03-29T21:23:00.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8398,30 +8398,6 @@
     <video:publication_date>2026-02-22T03:25:43.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2026-03-02T03:25:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/megalan-2026-armageddon/set/99568712/</loc>
-  <lastmod>2026-02-22T03:45:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872397/image-9fd17af364750b52ffa6d054a0aa4c80.png
-    </video:thumbnail_loc>
-    <video:title>
-      Mikhail vs Archie, MegaLAN 2026: Armageddon - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mikhail vs Archie in Winners Round 2 of MegaLAN 2026: Armageddon, streamed by unswfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704301549&amp;t=2h7m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>708</video:duration>
-    <video:publication_date>2026-02-22T03:23:08.000Z</video:publication_date>
-    <video:uploader>unswfgc</video:uploader>
-    <video:expiration_date>2026-03-02T03:23:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
