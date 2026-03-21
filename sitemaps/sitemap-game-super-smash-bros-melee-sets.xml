@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melon-melee-7/set/100589523/</loc>
-  <lastmod>2026-03-21T18:28:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/just-another-melee-monthly-2/set/100674768/</loc>
+  <lastmod>2026-03-21T19:42:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866257/image-aa239a24b66f46937e4d23ef2ffba942.png
+      https://images.start.gg/images/tournament/886141/image-5dc2a4112bcf27e972496255b823e81e.png
     </video:thumbnail_loc>
     <video:title>
-      Suziezilla vs NMBS | roshi, Melon Melee 7!!! - Sets on Stream
+      Nav vs banjo, Just Another Melee Monthly #2 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Suziezilla vs NMBS | roshi in Winners Round 1 of Melon Melee 7!!!, streamed by sleepyfries
+      Watch Nav vs banjo in Winners Semi-Final of Just Another Melee Monthly #2, streamed by NCSUMelee
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728278591&amp;t=0h0m0s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2728138748&amp;t=3h27m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-03-21T18:28:03.000Z</video:publication_date>
-    <video:uploader>sleepyfries</video:uploader>
-    <video:expiration_date>2026-03-29T18:28:03.000Z</video:expiration_date>
+    <video:duration>2413</video:duration>
+    <video:publication_date>2026-03-21T19:42:38.000Z</video:publication_date>
+    <video:uploader>NCSUMelee</video:uploader>
+    <video:expiration_date>2026-03-29T19:42:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-502-series-speed/set/100684333/</loc>
+  <lastmod>2026-03-21T19:44:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884052/image-ec2cd7127ccf1bdc1c2f633df0ce4ec8.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Matwood vs AbiYah, The 502 Series: Speed - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Matwood vs AbiYah in Winners Semi-Final of The 502 Series: Speed, streamed by cardinalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728106169&amp;t=4h15m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2295</video:duration>
+    <video:publication_date>2026-03-21T19:44:36.000Z</video:publication_date>
+    <video:uploader>cardinalmelee</video:uploader>
+    <video:expiration_date>2026-03-29T19:44:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/just-another-melee-monthly-2/set/100674766/</loc>
-  <lastmod>2026-03-21T19:16:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-21T19:55:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2728138748&amp;t=3h2m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2335</video:duration>
+    <video:duration>517</video:duration>
     <video:publication_date>2026-03-21T19:16:56.000Z</video:publication_date>
     <video:uploader>NCSUMelee</video:uploader>
     <video:expiration_date>2026-03-29T19:16:56.000Z</video:expiration_date>
@@ -118,6 +142,30 @@
     <video:publication_date>2026-03-21T18:45:43.000Z</video:publication_date>
     <video:uploader>NCSUMelee</video:uploader>
     <video:expiration_date>2026-03-29T18:45:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melon-melee-7/set/100589523/</loc>
+  <lastmod>2026-03-21T19:55:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866257/image-aa239a24b66f46937e4d23ef2ffba942.png
+    </video:thumbnail_loc>
+    <video:title>
+      Suziezilla vs NMBS | roshi, Melon Melee 7!!! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Suziezilla vs NMBS | roshi in Winners Round 1 of Melon Melee 7!!!, streamed by sleepyfries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728278591&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-03-21T18:28:03.000Z</video:publication_date>
+    <video:uploader>sleepyfries</video:uploader>
+    <video:expiration_date>2026-03-29T18:28:03.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-02-24T04:36:15.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-03-04T04:36:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-488/set/99723899/</loc>
-  <lastmod>2026-02-24T04:41:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884059/image-0922e3366178135871a59f5836b454ed.png
-    </video:thumbnail_loc>
-    <video:title>
-      echelon | alexgaming36 vs Arc&apos;teryx | JohnWick&apos;sMustang, Monday Night Melee 488 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch echelon | alexgaming36 vs Arc&apos;teryx | JohnWick&apos;sMustang in Losers Quarter-Final of Monday Night Melee 488, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2706105980&amp;t=2h39m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1626</video:duration>
-    <video:publication_date>2026-02-24T04:09:18.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-03-04T04:09:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-488/set/99723819/</loc>
-  <lastmod>2026-02-24T04:17:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884059/image-0922e3366178135871a59f5836b454ed.png
-    </video:thumbnail_loc>
-    <video:title>
-      FX | Fury vs BrockoSpotify | sethibuns, Monday Night Melee 488 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FX | Fury vs BrockoSpotify | sethibuns in Winners Final of Monday Night Melee 488, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2706105980&amp;t=2h30m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>626</video:duration>
-    <video:publication_date>2026-02-24T03:59:22.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-03-04T03:59:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
