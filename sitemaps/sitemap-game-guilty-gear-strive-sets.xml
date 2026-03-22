@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/uch-fighters/set/100727904/</loc>
-  <lastmod>2026-03-22T14:01:42.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-11/set/100727184/</loc>
+  <lastmod>2026-03-22T14:20:15.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889990/image-f5276037643a8bb7fe9610b3a29cfa86.png
+    </video:thumbnail_loc>
+    <video:title>
+      LCG | monnter vs LCG | SC | SDinart, Brussels Gaming Fest 11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LCG | monnter vs LCG | SC | SDinart in Winners Quarter-Final of Brussels Gaming Fest 11, streamed by xenite12000
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728901924&amp;t=1h20m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1608</video:duration>
+    <video:publication_date>2026-03-22T14:20:15.000Z</video:publication_date>
+    <video:uploader>xenite12000</video:uploader>
+    <video:expiration_date>2026-03-30T14:20:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/uch-fighters/set/100727908/</loc>
+  <lastmod>2026-03-22T14:06:12.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887022/image-a266d0d00f474a30ea5fe4fc028ec30e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Labrego vs Zormar, Uchū Fighters - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Labrego vs Zormar in Winners Semi-Final of Uchū Fighters, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Locus_Crew&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2451</video:duration>
+    <video:publication_date>2026-03-22T14:06:12.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-30T14:06:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/uch-fighters/set/100727904/</loc>
+  <lastmod>2026-03-22T14:30:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2728845835&amp;t=2h52m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>275</video:duration>
+    <video:duration>156</video:duration>
     <video:publication_date>2026-03-22T14:01:42.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-30T14:01:42.000Z</video:expiration_date>
@@ -4774,30 +4822,6 @@
     <video:publication_date>2026-02-20T15:42:53.000Z</video:publication_date>
     <video:uploader>hfgcry</video:uploader>
     <video:expiration_date>2026-02-28T15:42:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/assymylly-winter-2026/set/99515528/</loc>
-  <lastmod>2026-02-20T15:45:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
-    </video:thumbnail_loc>
-    <video:title>
-      Lumbzy vs VeljeksetEspor | PastaSauce, Assymylly Winter 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lumbzy vs VeljeksetEspor | PastaSauce in Losers Round 2 of Assymylly Winter 2026, streamed by hfgcry
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2702834728&amp;t=1h48m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>382</video:duration>
-    <video:publication_date>2026-02-20T15:34:40.000Z</video:publication_date>
-    <video:uploader>hfgcry</video:uploader>
-    <video:expiration_date>2026-02-28T15:34:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
