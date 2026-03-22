@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100743014/</loc>
+  <lastmod>2026-03-22T21:38:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      TLT | Yokai Inca vs Island | butterpunch, The Tekken Legacy Championship #6 03/22/26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TLT | Yokai Inca vs Island | butterpunch in Winners Round 2 of The Tekken Legacy Championship #6 03/22/26, streamed by theheartcontainercafe
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2729266520&amp;t=0h34m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>671</video:duration>
+    <video:publication_date>2026-03-22T21:38:44.000Z</video:publication_date>
+    <video:uploader>theheartcontainercafe</video:uploader>
+    <video:expiration_date>2026-03-30T21:38:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-10-maledetta-primavera/set/100660344/</loc>
   <lastmod>2026-03-22T18:53:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-22T17:00:10.000Z</video:publication_date>
     <video:uploader>battleloungefife</video:uploader>
     <video:expiration_date>2026-03-02T17:00:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tekken-ready-community-2/set/99663592/</loc>
-  <lastmod>2026-02-22T17:24:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879492/image-141773ddcca1ab32e5a12515169b6cb0.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TM/ | ToNinja vs Meetch, Tekken Ready Community #2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TM/ | ToNinja vs Meetch in Grand Final of Tekken Ready Community #2, streamed by Readyavignon
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704690689&amp;t=3h17m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1374</video:duration>
-    <video:publication_date>2026-02-22T16:49:18.000Z</video:publication_date>
-    <video:uploader>Readyavignon</video:uploader>
-    <video:expiration_date>2026-03-02T16:49:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

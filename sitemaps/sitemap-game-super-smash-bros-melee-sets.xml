@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/super-fusion-1-the-fusion-supermajor/set/100736461/</loc>
-  <lastmod>2026-03-22T20:51:27.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/super-fusion-1-the-fusion-supermajor/set/100736463/</loc>
+  <lastmod>2026-03-22T21:19:28.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866801/image-fceecdded29422f8c4e0c38b7959c2bd.png
+    </video:thumbnail_loc>
+    <video:title>
+      CF | Daytripper vs UMF | Agent, Super Fusion #1 - The Fusion Supermajor - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CF | Daytripper vs UMF | Agent in Losers Quarter-Final of Super Fusion #1 - The Fusion Supermajor, streamed by CollisionSeriesTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728978028&amp;t=6h15m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1827</video:duration>
+    <video:publication_date>2026-03-22T21:19:28.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV</video:uploader>
+    <video:expiration_date>2026-03-30T21:19:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/super-fusion-1-the-fusion-supermajor/set/100736461/</loc>
+  <lastmod>2026-03-22T21:24:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2728978028&amp;t=5h46m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1911</video:duration>
+    <video:duration>761</video:duration>
     <video:publication_date>2026-03-22T20:51:27.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV</video:uploader>
     <video:expiration_date>2026-03-30T20:51:27.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-26T03:26:42.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2026-03-06T03:26:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-129/set/99766436/</loc>
-  <lastmod>2026-02-26T03:27:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884091/image-4907c90856febcc381c002d72f71d212.png
-    </video:thumbnail_loc>
-    <video:title>
-      AOC/GG | SD Paint vs fungalfae, Raptor Boost 129 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AOC/GG | SD Paint vs fungalfae in Losers Final of Raptor Boost 129, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2707768151&amp;t=2h36m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>796</video:duration>
-    <video:publication_date>2026-02-26T03:13:21.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2026-03-06T03:13:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
