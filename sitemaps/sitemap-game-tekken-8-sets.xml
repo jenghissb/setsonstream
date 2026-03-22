@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100743018/</loc>
-  <lastmod>2026-03-22T22:03:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100746157/</loc>
+  <lastmod>2026-03-22T22:26:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      LD | HiddenTactics- vs P-CO, The Tekken Legacy Championship #6 03/22/26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LD | HiddenTactics- vs P-CO in Winners Round 2 of The Tekken Legacy Championship #6 03/22/26, streamed by theheartcontainercafe
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2729266520&amp;t=1h22m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1562</video:duration>
+    <video:publication_date>2026-03-22T22:26:44.000Z</video:publication_date>
+    <video:uploader>theheartcontainercafe</video:uploader>
+    <video:expiration_date>2026-03-30T22:26:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100743018/</loc>
+  <lastmod>2026-03-22T22:36:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2729266520&amp;t=0h59m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1109</video:duration>
+    <video:duration>483</video:duration>
     <video:publication_date>2026-03-22T22:03:56.000Z</video:publication_date>
     <video:uploader>theheartcontainercafe</video:uploader>
     <video:expiration_date>2026-03-30T22:03:56.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-22T17:18:57.000Z</video:publication_date>
     <video:uploader>battleloungefife</video:uploader>
     <video:expiration_date>2026-03-02T17:18:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/rage-lx-7/set/99664837/</loc>
-  <lastmod>2026-02-22T18:04:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877378/image-68b66de8a937953a076bfc1743e14249.png
-    </video:thumbnail_loc>
-    <video:title>
-      uP | noxtherox vs Bio, Rage LX #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch uP | noxtherox vs Bio in Grand Final of Rage LX #7, streamed by Locus_Crew
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704740267&amp;t=2h11m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-02-22T17:03:21.000Z</video:publication_date>
-    <video:uploader>Locus_Crew</video:uploader>
-    <video:expiration_date>2026-03-02T17:03:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
