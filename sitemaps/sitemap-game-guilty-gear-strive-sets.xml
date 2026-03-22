@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/s-lepytt-2/set/100728231/</loc>
-  <lastmod>2026-03-22T15:53:06.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/814845/image-008be0c7e2d8591c00f2822459efaf8b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Barskebirk vs T-Fisk | Fred_Ted, SØLEPYTT 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Barskebirk vs T-Fisk | Fred_Ted in Grand Final of SØLEPYTT 2, streamed by spiritofsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728867355&amp;t=3h55m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-03-22T15:53:06.000Z</video:publication_date>
-    <video:uploader>spiritofsmash</video:uploader>
-    <video:expiration_date>2026-03-30T15:53:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-11/set/100727191/</loc>
   <lastmod>2026-03-22T17:43:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -94,6 +70,30 @@
     <video:publication_date>2026-03-22T16:04:52.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-30T16:04:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/s-lepytt-2/set/100728231/</loc>
+  <lastmod>2026-03-22T18:10:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/814845/image-008be0c7e2d8591c00f2822459efaf8b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Barskebirk vs T-Fisk | Fred_Ted, SØLEPYTT 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Barskebirk vs T-Fisk | Fred_Ted in Grand Final of SØLEPYTT 2, streamed by spiritofsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728867355&amp;t=3h55m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-03-22T15:53:06.000Z</video:publication_date>
+    <video:uploader>spiritofsmash</video:uploader>
+    <video:expiration_date>2026-03-30T15:53:06.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
