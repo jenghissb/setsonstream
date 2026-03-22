@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-11/set/100727246/</loc>
-  <lastmod>2026-03-22T14:48:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-11/set/100727188/</loc>
+  <lastmod>2026-03-22T15:17:35.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889990/image-f5276037643a8bb7fe9610b3a29cfa86.png
+    </video:thumbnail_loc>
+    <video:title>
+      LCG | SC | SDinart vs Naviless, Brussels Gaming Fest 11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LCG | SC | SDinart vs Naviless in Winners Semi-Final of Brussels Gaming Fest 11, streamed by xenite12000
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728901924&amp;t=2h17m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1468</video:duration>
+    <video:publication_date>2026-03-22T15:17:35.000Z</video:publication_date>
+    <video:uploader>xenite12000</video:uploader>
+    <video:expiration_date>2026-03-30T15:17:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/uch-fighters/set/100727907/</loc>
+  <lastmod>2026-03-22T15:20:32.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887022/image-a266d0d00f474a30ea5fe4fc028ec30e.png
+    </video:thumbnail_loc>
+    <video:title>
+      MNH | Clebinho vs Djoni, Uchū Fighters - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MNH | Clebinho vs Djoni in Winners Semi-Final of Uchū Fighters, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728970341&amp;t=0h26m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1291</video:duration>
+    <video:publication_date>2026-03-22T15:20:32.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-03-30T15:20:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-11/set/100727246/</loc>
+  <lastmod>2026-03-22T15:24:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2728901924&amp;t=1h49m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>869</video:duration>
+    <video:duration>955</video:duration>
     <video:publication_date>2026-03-22T14:48:52.000Z</video:publication_date>
     <video:uploader>xenite12000</video:uploader>
     <video:expiration_date>2026-03-30T14:48:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/uch-fighters/set/100727908/</loc>
-  <lastmod>2026-03-22T14:06:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887022/image-a266d0d00f474a30ea5fe4fc028ec30e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Labrego vs Zormar, Uchū Fighters - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Labrego vs Zormar in Winners Semi-Final of Uchū Fighters, streamed by Locus_Crew
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=Locus_Crew&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3429</video:duration>
-    <video:publication_date>2026-03-22T14:06:12.000Z</video:publication_date>
-    <video:uploader>Locus_Crew</video:uploader>
-    <video:expiration_date>2026-03-30T14:06:12.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4774,54 +4798,6 @@
     <video:publication_date>2026-02-20T19:44:48.000Z</video:publication_date>
     <video:uploader>assymylly</video:uploader>
     <video:expiration_date>2026-02-28T19:44:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/assymylly-winter-2026/set/99519040/</loc>
-  <lastmod>2026-02-20T19:52:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
-    </video:thumbnail_loc>
-    <video:title>
-      MaunuriMaksaa | tomi vs Shady, Assymylly Winter 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MaunuriMaksaa | tomi vs Shady in Losers Quarter-Final of Assymylly Winter 2026, streamed by assymylly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703036712&amp;t=0h44m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>804</video:duration>
-    <video:publication_date>2026-02-20T19:31:01.000Z</video:publication_date>
-    <video:uploader>assymylly</video:uploader>
-    <video:expiration_date>2026-02-28T19:31:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/assymylly-winter-2026/set/99519025/</loc>
-  <lastmod>2026-02-20T19:22:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864288/image-0751897731ac644ba10be83bcf6ce083.png
-    </video:thumbnail_loc>
-    <video:title>
-      myco vs Solid, Assymylly Winter 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch myco vs Solid in Winners Semi-Final of Assymylly Winter 2026, streamed by assymylly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703036712&amp;t=0h12m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>649</video:duration>
-    <video:publication_date>2026-02-20T18:59:03.000Z</video:publication_date>
-    <video:uploader>assymylly</video:uploader>
-    <video:expiration_date>2026-02-28T18:59:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
