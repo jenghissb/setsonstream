@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-rush-hour-3-21-1/set/100717880/</loc>
+  <lastmod>2026-03-22T03:37:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888457/image-3beee20cdbeeb63d80a8477d177aa04f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Chef Dchong vs Yoruislife, Drive Rush Hour 3/21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chef Dchong vs Yoruislife in Winners Round 2 of Drive Rush Hour 3/21, streamed by gamerealms
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728602455&amp;t=0h46m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>797</video:duration>
+    <video:publication_date>2026-03-22T03:00:04.000Z</video:publication_date>
+    <video:uploader>gamerealms</video:uploader>
+    <video:expiration_date>2026-03-30T03:00:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tek-fgc-fight-night-march-2026/set/100707112/</loc>
   <lastmod>2026-03-22T01:47:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-25T01:03:16.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-03-05T01:03:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-141/set/99738657/</loc>
-  <lastmod>2026-02-25T01:08:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884797/image-1df37bfc265e1bab6f4c374e28aec8fd.png
-    </video:thumbnail_loc>
-    <video:title>
-      CT3 | T3 vs HoG | JuniorJunes, HoG: Dragon #141 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CT3 | T3 vs HoG | JuniorJunes in Winners Quarter-Final of HoG: Dragon #141, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2706903841&amp;t=0h26m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1040</video:duration>
-    <video:publication_date>2026-02-25T00:45:44.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-03-05T00:45:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
