@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100746160/</loc>
-  <lastmod>2026-03-22T22:54:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100749735/</loc>
+  <lastmod>2026-03-22T23:25:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      BREAD | Droopi_TV vs Prophetnoata, The Tekken Legacy Championship #6 03/22/26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BREAD | Droopi_TV vs Prophetnoata in Winners Quarter-Final of The Tekken Legacy Championship #6 03/22/26, streamed by theheartcontainercafe
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2729266520&amp;t=2h21m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1589</video:duration>
+    <video:publication_date>2026-03-22T23:25:30.000Z</video:publication_date>
+    <video:uploader>theheartcontainercafe</video:uploader>
+    <video:expiration_date>2026-03-30T23:25:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100746160/</loc>
+  <lastmod>2026-03-22T23:29:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2729266520&amp;t=1h50m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1813</video:duration>
+    <video:duration>665</video:duration>
     <video:publication_date>2026-03-22T22:54:25.000Z</video:publication_date>
     <video:uploader>theheartcontainercafe</video:uploader>
     <video:expiration_date>2026-03-30T22:54:25.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-22T18:37:18.000Z</video:publication_date>
     <video:uploader>Ibashowdown</video:uploader>
     <video:expiration_date>2026-03-02T18:37:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/7th-ott-otaku-tekken-tournament/set/99665017/</loc>
-  <lastmod>2026-02-22T17:37:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876464/image-44dd0e0e4958f13174f03e55f7cd1719.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      OTK | Simonitsu vs OTK | ErBrullina, 7th OTT - Otaku Tekken Tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OTK | Simonitsu vs OTK | ErBrullina in Winners Round 2 of 7th OTT - Otaku Tekken Tournament, streamed by otakutekken_otk
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704724557&amp;t=2h53m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>548</video:duration>
-    <video:publication_date>2026-02-22T17:20:03.000Z</video:publication_date>
-    <video:uploader>otakutekken_otk</video:uploader>
-    <video:expiration_date>2026-03-02T17:20:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
