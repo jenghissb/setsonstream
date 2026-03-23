@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-100/set/100762442/</loc>
-  <lastmod>2026-03-23T21:07:36.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-100/set/100762443/</loc>
+  <lastmod>2026-03-23T21:28:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893037/image-a94e7a3534a04c65e98fe8c45479054b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Busard vs Graham, KnockOut Zone #100 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Busard vs Graham in Grand Final Reset of KnockOut Zone #100, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2729919610&amp;t=3h5m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1713</video:duration>
+    <video:publication_date>2026-03-23T21:28:33.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-03-31T21:28:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-100/set/100762442/</loc>
+  <lastmod>2026-03-23T21:40:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2729919610&amp;t=2h44m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>893</video:duration>
+    <video:duration>1228</video:duration>
     <video:publication_date>2026-03-23T21:07:36.000Z</video:publication_date>
     <video:uploader>orbitalgoats</video:uploader>
     <video:expiration_date>2026-03-31T21:07:36.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-26T23:14:00.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-03-06T23:14:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-369-1/set/99790059/</loc>
-  <lastmod>2026-02-26T23:18:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885586/image-6ca586fd402f6e97def57c04b6cba786.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shy vs shugacrisp, Salt Water Smash 369 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shy vs shugacrisp in Round 6 of Salt Water Smash 369, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2708532584&amp;t=0h14m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>592</video:duration>
-    <video:publication_date>2026-02-26T23:01:16.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-03-06T23:01:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
