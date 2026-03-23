@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/23-415/set/100758447/</loc>
+  <lastmod>2026-03-23T11:03:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889512/image-ca46ad6511313a33bb1fb3cfbfd3c002.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      きょう(kyou) vs はっせー(hassee), 23(月)上野スマコミ#415(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch きょう(kyou) vs はっせー(hassee) in Winners Quarter-Final of 23(月)上野スマコミ#415(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/ovAkjQQPA5E?start=1743s
+    </video:player_loc>
+    <video:duration>482</video:duration>
+    <video:publication_date>2026-03-23T11:03:26.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-03-31T11:03:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/true-fire-tactics-85/set/100755227/</loc>
   <lastmod>2026-03-23T02:59:13.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-15T01:40:08.000Z</video:publication_date>
     <video:uploader>jell64</video:uploader>
     <video:expiration_date>2026-03-23T01:40:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/zenith-7-2/set/100449334/</loc>
-  <lastmod>2026-03-15T01:56:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/852275/image-3b2babbe5bf54c3ce34cafb72b2d13f6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ian vs UNCG | Chugs, Zenith 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ian vs UNCG | Chugs in Losers Quarter-Final of Zenith 7, streamed by VGBootCamp2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722505969&amp;t=3h30m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>711</video:duration>
-    <video:publication_date>2026-03-15T01:40:00.000Z</video:publication_date>
-    <video:uploader>VGBootCamp2</video:uploader>
-    <video:expiration_date>2026-03-23T01:40:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
