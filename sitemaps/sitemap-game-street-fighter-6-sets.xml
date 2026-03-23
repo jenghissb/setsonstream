@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-78/set/100762489/</loc>
-  <lastmod>2026-03-23T19:33:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-78/set/100762607/</loc>
+  <lastmod>2026-03-23T20:28:18.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885767/image-845185829dbdd8656b84d0cc2d0b35fa.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      REALPGM vs Amin82, Toulouse Fighting Monday 78 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch REALPGM vs Amin82 in Winners Semi-Final of Toulouse Fighting Monday 78, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2729958633&amp;t=1h15m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>440</video:duration>
+    <video:publication_date>2026-03-23T20:28:18.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-03-31T20:28:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-78/set/100762489/</loc>
+  <lastmod>2026-03-23T20:04:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2729958633&amp;t=0h20m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1477</video:duration>
+    <video:duration>542</video:duration>
     <video:publication_date>2026-03-23T19:33:03.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-03-31T19:33:03.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-25T01:52:14.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-03-05T01:52:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-141/set/99738693/</loc>
-  <lastmod>2026-02-25T02:08:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884797/image-1df37bfc265e1bab6f4c374e28aec8fd.png
-    </video:thumbnail_loc>
-    <video:title>
-      TRICKY | morg vs VashTS, HoG: Dragon #141 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TRICKY | morg vs VashTS in Losers Semi-Final of HoG: Dragon #141, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2706903841&amp;t=1h29m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2026-02-25T01:48:37.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-03-05T01:48:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
