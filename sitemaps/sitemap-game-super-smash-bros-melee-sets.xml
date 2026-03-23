@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/was-invitational-of-2025/set/100746797/</loc>
+  <lastmod>2026-03-23T00:32:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869794/image-121197d9b42bbaf8fd256f65d2fa9da3.png
+    </video:thumbnail_loc>
+    <video:title>
+      hc | Coolslice vs MATE | 22K, WAS Invitational of 2025 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hc | Coolslice vs MATE | 22K in Losers Final of WAS Invitational of 2025, streamed by 22Kteam
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2728980808&amp;t=8h44m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1104</video:duration>
+    <video:publication_date>2026-03-22T23:53:16.000Z</video:publication_date>
+    <video:uploader>22Kteam</video:uploader>
+    <video:expiration_date>2026-03-30T23:53:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/was-invitational-of-2025/set/100746780/</loc>
   <lastmod>2026-03-22T23:38:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-26T05:44:27.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2026-03-06T05:44:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-177-back-from-sick-leave/set/99778990/</loc>
-  <lastmod>2026-02-26T05:12:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884491/image-90f46c8d57f7dba7453d8865cb8f5ee9.png
-    </video:thumbnail_loc>
-    <video:title>
-      chub | Jam vs Fishbait, Adam&apos;s Smash Series #177 : Back from Sick Leave - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch chub | Jam vs Fishbait in Winners Quarter-Final of Adam&apos;s Smash Series #177 : Back from Sick Leave, streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2707856241&amp;t=2h27m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>508</video:duration>
-    <video:publication_date>2026-02-26T04:52:01.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2026-03-06T04:52:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
