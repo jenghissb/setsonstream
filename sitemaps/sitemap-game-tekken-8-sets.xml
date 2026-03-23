@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100753483/</loc>
-  <lastmod>2026-03-23T02:30:35.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      VIT | KingReyJr vs BREAD | Droopi_TV, The Tekken Legacy Championship #6 03/22/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VIT | KingReyJr vs BREAD | Droopi_TV in Grand Final of The Tekken Legacy Championship #6 03/22/26, streamed by theheartcontainercafe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=theheartcontainercafe&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-03-23T02:30:35.000Z</video:publication_date>
-    <video:uploader>theheartcontainercafe</video:uploader>
-    <video:expiration_date>2026-03-31T02:30:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/chains-of-fate-monthly-19-spring-break-these-throws/set/100754509/</loc>
   <lastmod>2026-03-23T03:19:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -46,6 +22,30 @@
     <video:publication_date>2026-03-23T02:46:24.000Z</video:publication_date>
     <video:uploader>ChainShift_Events</video:uploader>
     <video:expiration_date>2026-03-31T02:46:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-tekken-legacy-championship-6-03-22-26/set/100753483/</loc>
+  <lastmod>2026-03-23T04:51:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      VIT | KingReyJr vs BREAD | Droopi_TV, The Tekken Legacy Championship #6 03/22/26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VIT | KingReyJr vs BREAD | Droopi_TV in Grand Final of The Tekken Legacy Championship #6 03/22/26, streamed by theheartcontainercafe
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2729266520&amp;t=5h26m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-03-23T02:30:35.000Z</video:publication_date>
+    <video:uploader>theheartcontainercafe</video:uploader>
+    <video:expiration_date>2026-03-31T02:30:35.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
