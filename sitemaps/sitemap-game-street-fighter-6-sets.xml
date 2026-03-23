@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toulouse-fighting-monday-78/set/100762489/</loc>
+  <lastmod>2026-03-23T19:33:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/885767/image-845185829dbdd8656b84d0cc2d0b35fa.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Shikatchou vs Zio | Tiiamat, Toulouse Fighting Monday 78 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shikatchou vs Zio | Tiiamat in Winners Round 1 of Toulouse Fighting Monday 78, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2729958633&amp;t=0h20m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1477</video:duration>
+    <video:publication_date>2026-03-23T19:33:03.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-03-31T19:33:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/red-dirt-rumble-3-22-2026/set/100746843/</loc>
   <lastmod>2026-03-23T00:14:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-25T01:48:37.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-03-05T01:48:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-229-you-think-you-got-what-it-takes-yeahokpal/set/99735887/</loc>
-  <lastmod>2026-02-25T02:08:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883949/image-bab72f9e8dcd9b8d581e758b7767ff3e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Lapsator vs Truly | Ichi, CFG Tuesday Trials 229: You Think You Got What It Takes? Yeahokpal. - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Lapsator vs Truly | Ichi in Winners Final of CFG Tuesday Trials 229: You Think You Got What It Takes? Yeahokpal., streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2706875225&amp;t=1h59m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>542</video:duration>
-    <video:publication_date>2026-02-25T01:44:47.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-03-05T01:44:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
