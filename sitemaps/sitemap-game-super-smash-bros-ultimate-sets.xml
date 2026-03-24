@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/big-fish-138/set/100783359/</loc>
+  <lastmod>2026-03-24T17:47:20.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893268/image-1a31eaac67c23a6354c561aa60624577.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tom Foolery | Lucychill vs Klaus, Big Fish 138 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tom Foolery | Lucychill vs Klaus in Winners Round 1 of Big Fish 138, streamed by bigfishbelfast
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2730694426&amp;t=0h5m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>440</video:duration>
+    <video:publication_date>2026-03-24T17:47:20.000Z</video:publication_date>
+    <video:uploader>bigfishbelfast</video:uploader>
+    <video:expiration_date>2026-04-01T17:47:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-261/set/100781905/</loc>
   <lastmod>2026-03-24T11:46:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-15T21:37:34.000Z</video:publication_date>
     <video:uploader>NoStyleEsports2</video:uploader>
     <video:expiration_date>2026-03-23T21:37:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gourmet-bash-5-the-last-course/set/100478916/</loc>
-  <lastmod>2026-03-15T22:06:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861127/image-323d1cac53aa4f35966fdc65305b220e.png
-    </video:thumbnail_loc>
-    <video:title>
-      LampShady vs YBG | GaurDelfino, Gourmet Bash 5: The Last Course - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LampShady vs YBG | GaurDelfino in Losers Round 4 of Gourmet Bash 5: The Last Course, streamed by NoStyleEsports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2723078055&amp;t=6h10m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1606</video:duration>
-    <video:publication_date>2026-03-15T21:37:22.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports2</video:uploader>
-    <video:expiration_date>2026-03-23T21:37:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
