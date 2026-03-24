@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-mondays-the-guild-23/set/100769244/</loc>
+  <lastmod>2026-03-23T23:42:30.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892432/image-37ad5037637b0a44ade94e869f020eaa.png
+    </video:thumbnail_loc>
+    <video:title>
+      genuphobia vs fiveman1, Melee Mondays @ The Guild #23 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch genuphobia vs fiveman1 in Round 3 of Melee Mondays @ The Guild #23, streamed by theguildtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2730132025&amp;t=0h40m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1178</video:duration>
+    <video:publication_date>2026-03-23T23:42:30.000Z</video:publication_date>
+    <video:uploader>theguildtv</video:uploader>
+    <video:expiration_date>2026-03-31T23:42:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-100/set/100762443/</loc>
   <lastmod>2026-03-23T22:05:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-26T23:20:01.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-03-06T23:20:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-369-1/set/99790045/</loc>
-  <lastmod>2026-02-26T23:28:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885586/image-6ca586fd402f6e97def57c04b6cba786.png
-    </video:thumbnail_loc>
-    <video:title>
-      LilFrogurt vs A-Pow, Salt Water Smash 369 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LilFrogurt vs A-Pow in Round 2 of Salt Water Smash 369, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2708532584&amp;t=0h26m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>335</video:duration>
-    <video:publication_date>2026-02-26T23:14:00.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-03-06T23:14:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
