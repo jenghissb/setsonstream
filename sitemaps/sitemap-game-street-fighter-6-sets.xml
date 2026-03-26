@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-fighter-6-le-dojo-club-71/set/100848566/</loc>
-  <lastmod>2026-03-26T21:06:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-fighter-6-le-dojo-club-71/set/100848568/</loc>
+  <lastmod>2026-03-26T21:27:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/894170/image-ef20ccfb6a24265d6471bef02b100478.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Valmaster vs Beslem, Street Fighter 6 - LE DOJO CLUB #71 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Valmaster vs Beslem in Losers Final of Street Fighter 6 - LE DOJO CLUB #71, streamed by besulemu
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2732396999&amp;t=2h15m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1680</video:duration>
+    <video:publication_date>2026-03-26T21:27:03.000Z</video:publication_date>
+    <video:uploader>besulemu</video:uploader>
+    <video:expiration_date>2026-04-03T21:27:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/street-fighter-6-le-dojo-club-71/set/100848566/</loc>
+  <lastmod>2026-03-26T21:35:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2732396999&amp;t=1h54m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1383</video:duration>
+    <video:duration>540</video:duration>
     <video:publication_date>2026-03-26T21:06:23.000Z</video:publication_date>
     <video:uploader>besulemu</video:uploader>
     <video:expiration_date>2026-04-03T21:06:23.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-27T00:48:00.000Z</video:publication_date>
     <video:uploader>fightfortheauxky</video:uploader>
     <video:expiration_date>2026-03-07T00:48:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-28/set/99790604/</loc>
-  <lastmod>2026-02-27T00:57:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883590/image-fdbc23729e2067bcc90ed2cf6ed84e52.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      breakfastcombos vs Mycelium, Fight for the Aux #28 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch breakfastcombos vs Mycelium in Round 1 of Fight for the Aux #28, streamed by fightfortheauxky
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2708605879&amp;t=0h22m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>456</video:duration>
-    <video:publication_date>2026-02-27T00:39:44.000Z</video:publication_date>
-    <video:uploader>fightfortheauxky</video:uploader>
-    <video:expiration_date>2026-03-07T00:39:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
