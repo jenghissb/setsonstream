@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-373/set/100851989/</loc>
-  <lastmod>2026-03-26T22:07:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-373/set/100851991/</loc>
+  <lastmod>2026-03-26T22:31:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895505/image-0b3f5195f2d74951846cb9cf1cf92175.png
+    </video:thumbnail_loc>
+    <video:title>
+      shugacrisp vs Koil, Salt Water Smash 373 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch shugacrisp vs Koil in Round 3 of Salt Water Smash 373, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2732515660&amp;t=0h36m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1562</video:duration>
+    <video:publication_date>2026-03-26T22:31:01.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-04-03T22:31:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-373/set/100851989/</loc>
+  <lastmod>2026-03-26T22:34:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2732515660&amp;t=0h12m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1131</video:duration>
+    <video:duration>453</video:duration>
     <video:publication_date>2026-03-26T22:07:15.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-04-03T22:07:15.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-02-28T03:48:55.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-03-08T03:48:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-prowling-grounds-117-off-week-arcadian-edition/set/99835179/</loc>
-  <lastmod>2026-02-28T04:18:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883801/image-bd6a87dc6fb619167238ce439c510241.png
-    </video:thumbnail_loc>
-    <video:title>
-      Silo vs 67 | freakbob58, The Prowling Grounds 117 Off-Week (ARCADIAN EDITION) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Silo vs 67 | freakbob58 in Losers Semi-Final of The Prowling Grounds 117 Off-Week (ARCADIAN EDITION), streamed by ritsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709542418&amp;t=3h31m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>815</video:duration>
-    <video:publication_date>2026-02-28T03:47:04.000Z</video:publication_date>
-    <video:uploader>ritsmashclub</video:uploader>
-    <video:expiration_date>2026-03-08T03:47:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
