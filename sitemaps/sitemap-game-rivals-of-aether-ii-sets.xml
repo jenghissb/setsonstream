@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-12-isthmian-gaming-1-year-of-triple-dunk/set/100983046/</loc>
+  <lastmod>2026-03-28T22:29:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889908/image-91137ea82dfd3255cd6e1f6ae154e2c0.png
+    </video:thumbnail_loc>
+    <video:title>
+      UGS | Serris vs Ubergronk, Triple Dunk #12 @ Isthmian Gaming (1 YEAR OF TRIPLE DUNK!) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UGS | Serris vs Ubergronk in Winners Quarter-Final of Triple Dunk #12 @ Isthmian Gaming (1 YEAR OF TRIPLE DUNK!), streamed by IsthmianGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2734197248&amp;t=1h26m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1756</video:duration>
+    <video:publication_date>2026-03-28T22:29:14.000Z</video:publication_date>
+    <video:uploader>IsthmianGaming</video:uploader>
+    <video:expiration_date>2026-04-05T22:29:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/crimson-clash-ii/set/100958492/</loc>
   <lastmod>2026-03-28T21:40:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -16,9 +40,9 @@
       Watch Pond Scum vs nayR in Losers Final of Crimson Clash II, streamed by alabamarivals
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734150646&amp;t=1h34m21s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?channel=alabamarivals&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2934</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-03-28T21:40:05.000Z</video:publication_date>
     <video:uploader>alabamarivals</video:uploader>
     <video:expiration_date>2026-04-05T21:40:05.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-26T00:56:27.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2026-03-06T00:56:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-10-8/set/99767486/</loc>
-  <lastmod>2026-02-26T00:57:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885141/image-824be41b06628d0ade00957ef3f9b9f4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Toma_ vs GAS LEAK | illish, HoG: Burn 10.8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Toma_ vs GAS LEAK | illish in Round 3 of HoG: Burn 10.8, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2707763195&amp;t=0h7m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>949</video:duration>
-    <video:publication_date>2026-02-26T00:37:48.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-03-06T00:37:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
