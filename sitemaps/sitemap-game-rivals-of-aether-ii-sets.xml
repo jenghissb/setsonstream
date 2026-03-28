@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/go-for-gold-2026/set/100948100/</loc>
+  <lastmod>2026-03-28T17:39:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854587/image-b38697a2da9659ee8612e2237d3d7769.png
+    </video:thumbnail_loc>
+    <video:title>
+      Aura | Johnwick3 vs TLG | Trotical, Go For Gold 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Aura | Johnwick3 vs TLG | Trotical in Losers Round 2 of Go For Gold 2026, streamed by Minnesota Smash Ultimate
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/aZ8JtmT6hZA?start=1303s
+    </video:player_loc>
+    <video:duration>1360</video:duration>
+    <video:publication_date>2026-03-28T17:39:44.000Z</video:publication_date>
+    <video:uploader>Minnesota Smash Ultimate</video:uploader>
+    <video:expiration_date>2026-04-05T17:39:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-friday-264/set/100910054/</loc>
   <lastmod>2026-03-28T03:09:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-22T19:39:04.000Z</video:publication_date>
     <video:uploader>npsmashclub</video:uploader>
     <video:expiration_date>2026-03-02T19:39:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heartbreakers-7-ctx-smash-showdown-200-pot-bonus/set/99668365/</loc>
-  <lastmod>2026-02-22T19:42:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872274/image-4afa8d606dbeaaf0aa98d960f0196a7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      CF | | Beastly vs Shnoopy, Heartbreakers 7 - CTX Smash Showdown ($200 POT BONUS) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CF | | Beastly vs Shnoopy in Winners Final of Heartbreakers 7 - CTX Smash Showdown ($200 POT BONUS), streamed by NexusEsportsEvents
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704914431&amp;t=0h42m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>796</video:duration>
-    <video:publication_date>2026-02-22T19:16:47.000Z</video:publication_date>
-    <video:uploader>NexusEsportsEvents</video:uploader>
-    <video:expiration_date>2026-03-02T19:16:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
