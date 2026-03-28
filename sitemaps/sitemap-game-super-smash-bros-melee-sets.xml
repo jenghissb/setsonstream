@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/out-of-the-blue-5/set/100942752/</loc>
-  <lastmod>2026-03-28T20:23:57.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crouching-tigers-33-please-dont-go-to-shed/set/100959247/</loc>
+  <lastmod>2026-03-28T21:10:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889802/image-d5ad8b87b5f777549d8361fdc2471de2.png
+    </video:thumbnail_loc>
+    <video:title>
+      ROC | killerrobo vs Kusa, Crouching Tigers 33: PLEASE DONT GO TO SHED - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ROC | killerrobo vs Kusa in Losers Semi-Final of Crouching Tigers 33: PLEASE DONT GO TO SHED, streamed by rochestersmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2734024690&amp;t=3h31m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1056</video:duration>
+    <video:publication_date>2026-03-28T21:10:09.000Z</video:publication_date>
+    <video:uploader>rochestersmash</video:uploader>
+    <video:expiration_date>2026-04-05T21:10:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/out-of-the-blue-5/set/100942752/</loc>
+  <lastmod>2026-03-28T21:22:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2733918002&amp;t=5h15m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1944</video:duration>
+    <video:duration>1278</video:duration>
     <video:publication_date>2026-03-28T20:23:57.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2026-04-05T20:23:57.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-01T03:34:17.000Z</video:publication_date>
     <video:uploader>nzsmash</video:uploader>
     <video:expiration_date>2026-03-09T03:34:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/down-underdog-6/set/99932404/</loc>
-  <lastmod>2026-03-01T03:41:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878543/image-5c7202b844a3abd87f651bd9d095ac76.png
-    </video:thumbnail_loc>
-    <video:title>
-      AlastairBL vs FR | miss GayManWatch, Down Underdog 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AlastairBL vs FR | miss GayManWatch in Winners Final of Down Underdog 6, streamed by nzsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710610162&amp;t=1h15m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1063</video:duration>
-    <video:publication_date>2026-03-01T03:16:23.000Z</video:publication_date>
-    <video:uploader>nzsmash</video:uploader>
-    <video:expiration_date>2026-03-09T03:16:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
