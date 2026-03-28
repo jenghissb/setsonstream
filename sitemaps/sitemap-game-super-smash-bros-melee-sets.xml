@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/out-of-the-blue-5/set/100939586/</loc>
+  <lastmod>2026-03-28T15:40:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/818839/image-76f6a549a8d25048b94b1a7f0db5ebd7.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Negat!ve vs Lemmanade, Out of the Blue 5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Negat!ve vs Lemmanade in Winners Round 1 of Out of the Blue 5, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733918002&amp;t=0h31m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1063</video:duration>
+    <video:publication_date>2026-03-28T15:40:19.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2026-04-05T15:40:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-50/set/100912849/</loc>
   <lastmod>2026-03-28T04:42:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-01T02:41:25.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
     <video:expiration_date>2026-03-09T02:41:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-valley-the-last-dance-1000-pot-bonus/set/99925456/</loc>
-  <lastmod>2026-03-01T02:57:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/836061/image-1184316b230dbfffa85af96dc8fead9a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sirmeris vs :3 | Jude, Smash Valley: The Last Dance ($1000+ Pot Bonus) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sirmeris vs :3 | Jude in Losers Quarter-Final of Smash Valley: The Last Dance ($1000+ Pot Bonus), streamed by vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710289216&amp;t=6h59m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>976</video:duration>
-    <video:publication_date>2026-03-01T02:30:09.000Z</video:publication_date>
-    <video:uploader>vgbootcamp</video:uploader>
-    <video:expiration_date>2026-03-09T02:30:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
