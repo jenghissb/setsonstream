@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ultimate-night-clash-reprise/set/100952896/</loc>
-  <lastmod>2026-03-28T19:17:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/out-of-the-blue-5/set/100942744/</loc>
+  <lastmod>2026-03-28T19:57:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/818839/image-76f6a549a8d25048b94b1a7f0db5ebd7.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Liquid | Hungrybox vs LG | fitzy, Out of the Blue 5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Liquid | Hungrybox vs LG | fitzy in Winners Round 1 of Out of the Blue 5, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733918002&amp;t=4h48m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1727</video:duration>
+    <video:publication_date>2026-03-28T19:57:21.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2026-04-05T19:57:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ultimate-night-clash-reprise/set/100952896/</loc>
+  <lastmod>2026-03-28T20:03:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2733986009&amp;t=2h29m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2110</video:duration>
+    <video:duration>700</video:duration>
     <video:publication_date>2026-03-28T19:17:46.000Z</video:publication_date>
     <video:uploader>meenis_tiny</video:uploader>
     <video:expiration_date>2026-04-05T19:17:46.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-01T03:06:17.000Z</video:publication_date>
     <video:uploader>flow_spot</video:uploader>
     <video:expiration_date>2026-03-09T03:06:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/down-underdog-6/set/99932403/</loc>
-  <lastmod>2026-03-01T03:26:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878543/image-5c7202b844a3abd87f651bd9d095ac76.png
-    </video:thumbnail_loc>
-    <video:title>
-      FR | miss GayManWatch vs DOUBLES?!?!??! | Lilypad, Down Underdog 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FR | miss GayManWatch vs DOUBLES?!?!??! | Lilypad in Winners Semi-Final of Down Underdog 6, streamed by nzsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710610162&amp;t=1h4m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>664</video:duration>
-    <video:publication_date>2026-03-01T03:05:08.000Z</video:publication_date>
-    <video:uploader>nzsmash</video:uploader>
-    <video:expiration_date>2026-03-09T03:05:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
