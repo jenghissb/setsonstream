@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ultimate-night-clash-reprise/set/100952896/</loc>
+  <lastmod>2026-03-28T19:17:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887053/image-939d6d065d97918d3e19784a394695d9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      meenis vs NoteWorm, Ultimate Night Clash: Reprise - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch meenis vs NoteWorm in Losers Quarter-Final of Ultimate Night Clash: Reprise, streamed by meenis_tiny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733986009&amp;t=2h29m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2110</video:duration>
+    <video:publication_date>2026-03-28T19:17:46.000Z</video:publication_date>
+    <video:uploader>meenis_tiny</video:uploader>
+    <video:expiration_date>2026-04-05T19:17:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/out-of-the-blue-5/set/100941713/</loc>
   <lastmod>2026-03-28T18:20:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-01T03:05:08.000Z</video:publication_date>
     <video:uploader>nzsmash</video:uploader>
     <video:expiration_date>2026-03-09T03:05:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/down-underdog-6/set/99932402/</loc>
-  <lastmod>2026-03-01T03:12:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878543/image-5c7202b844a3abd87f651bd9d095ac76.png
-    </video:thumbnail_loc>
-    <video:title>
-      AlastairBL vs mojobones, Down Underdog 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AlastairBL vs mojobones in Winners Semi-Final of Down Underdog 6, streamed by nzsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710610162&amp;t=0h45m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1134</video:duration>
-    <video:publication_date>2026-03-01T02:46:01.000Z</video:publication_date>
-    <video:uploader>nzsmash</video:uploader>
-    <video:expiration_date>2026-03-09T02:46:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
