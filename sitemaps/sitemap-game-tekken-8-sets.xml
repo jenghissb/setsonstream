@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-112/set/100919283/</loc>
+  <lastmod>2026-03-28T05:00:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893655/image-913d43cada1a1e8ce66f6bb0235ada9b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PLMONT vs BILLALER, SoCal Colosseum #112 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PLMONT vs BILLALER in Losers Final of SoCal Colosseum #112, streamed by SoCalColosseum
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733561614&amp;t=1h49m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>964</video:duration>
+    <video:publication_date>2026-03-28T04:25:42.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum</video:uploader>
+    <video:expiration_date>2026-04-05T04:25:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-112/set/100919267/</loc>
-  <lastmod>2026-03-28T03:54:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-28T04:32:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2733561614&amp;t=1h19m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1372</video:duration>
+    <video:duration>1005</video:duration>
     <video:publication_date>2026-03-28T03:54:58.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-04-05T03:54:58.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-26T03:27:44.000Z</video:publication_date>
     <video:uploader>fgleventsllc</video:uploader>
     <video:expiration_date>2026-03-06T03:27:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-88/set/99773877/</loc>
-  <lastmod>2026-02-26T03:48:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883046/image-07e806b2900ea1b87f393ec17ad6a8ca.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      JJBREEZE vs Rel, 4o4 By Sh33rz: Tekken 8 #88 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JJBREEZE vs Rel in Losers Quarter-Final of 4o4 By Sh33rz: Tekken 8 #88, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2707801577&amp;t=2h6m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>938</video:duration>
-    <video:publication_date>2026-02-26T03:23:15.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-03-06T03:23:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
