@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-150/set/100899946/</loc>
+  <lastmod>2026-03-27T23:31:21.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895412/image-c3adc2c4a872e3d01ed1f5315c135190.png
+    </video:thumbnail_loc>
+    <video:title>
+      CRAB | Estrella vs TxcPizza, HoG: Moonlight #150 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CRAB | Estrella vs TxcPizza in Winners Quarter-Final of HoG: Moonlight #150, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733409356&amp;t=0h5m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>971</video:duration>
+    <video:publication_date>2026-03-27T23:31:21.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-04-04T23:31:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-62-guilty-gear-strive/set/100853256/</loc>
   <lastmod>2026-03-26T23:49:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-21T13:35:51.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2026-03-01T13:35:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-108/set/99559173/</loc>
-  <lastmod>2026-02-21T06:21:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881290/image-e77ccd158cfd7ae24b1889b4e72f6751.png
-    </video:thumbnail_loc>
-    <video:title>
-      PFaB | AutisticDuck vs 真島建設 | Arcblade(mashima kensetsu | Arcblade), SoCal Colosseum #108 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PFaB | AutisticDuck vs 真島建設 | Arcblade(mashima kensetsu | Arcblade) in Losers Semi-Final of SoCal Colosseum #108, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2703471033&amp;t=2h21m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>715</video:duration>
-    <video:publication_date>2026-02-21T05:57:22.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2026-03-01T05:57:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
