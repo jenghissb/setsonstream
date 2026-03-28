@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/reignited-97/set/100911758/</loc>
+  <lastmod>2026-03-28T01:37:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/894443/image-48d769633e1dd5e9e9b4c58f7801c193.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zturtle102 vs Sabaki, Reignited #97 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zturtle102 vs Sabaki in Winners Quarter-Final of Reignited #97, streamed by asuesportsofficial
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733504444&amp;t=0h15m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>764</video:duration>
+    <video:publication_date>2026-03-28T01:37:47.000Z</video:publication_date>
+    <video:uploader>asuesportsofficial</video:uploader>
+    <video:expiration_date>2026-04-05T01:37:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-202-norcal-melee-and-sf6-tournament/set/100869214/</loc>
   <lastmod>2026-03-27T06:09:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-02-27T06:13:33.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-03-07T06:13:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-199-norcal-street-fighter-6-weekly/set/99808813/</loc>
-  <lastmod>2026-02-27T06:16:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884656/image-2d96b4baf9340f6bad406bd149e823f1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FitS | chumpslayer vs FitS | TreeWiz, Guildhouse Fighters 199 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FitS | chumpslayer vs FitS | TreeWiz in Losers Semi-Final of Guildhouse Fighters 199 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2708770166&amp;t=2h15m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>653</video:duration>
-    <video:publication_date>2026-02-27T06:02:23.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2026-03-07T06:02:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
