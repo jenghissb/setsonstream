@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/viennality-xl/set/100875731/</loc>
-  <lastmod>2026-03-28T10:58:55.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/viennality-xl/set/100875795/</loc>
+  <lastmod>2026-03-28T11:29:31.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840733/image-50f2748b8e80c7ebec12d9386ac6d481.png
+    </video:thumbnail_loc>
+    <video:title>
+      Akaza vs zaza, viennality XL - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Akaza vs zaza in Losers Round 4 of viennality XL, streamed by viennality
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733750647&amp;t=1h45m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1397</video:duration>
+    <video:publication_date>2026-03-28T11:29:31.000Z</video:publication_date>
+    <video:uploader>viennality</video:uploader>
+    <video:expiration_date>2026-04-05T11:29:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/viennality-xl/set/100875731/</loc>
+  <lastmod>2026-03-28T11:34:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2733750647&amp;t=1h15m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1635</video:duration>
+    <video:duration>887</video:duration>
     <video:publication_date>2026-03-28T10:58:55.000Z</video:publication_date>
     <video:uploader>viennality</video:uploader>
     <video:expiration_date>2026-04-05T10:58:55.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-02-26T03:54:49.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-03-06T03:54:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/showdown-82/set/99772128/</loc>
-  <lastmod>2026-02-26T04:01:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882860/image-548a2961ba0e012d9404288337cdb34e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zam vs SLC | Gremlin, Showdown #82 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zam vs SLC | Gremlin in Grand Final of Showdown #82, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2707833272&amp;t=1h45m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>721</video:duration>
-    <video:publication_date>2026-02-26T03:41:43.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2026-03-06T03:41:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
