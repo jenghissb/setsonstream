@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/road-to-ewc-26-dreamhack-birmingham/set/101018819/</loc>
-  <lastmod>2026-03-29T16:23:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/whiff-city-xiv-march-2026-barrie-monthly-fighting-game-tournament/set/101021474/</loc>
+  <lastmod>2026-03-29T17:16:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893878/image-928b16e3781a7d3ee397ba100e3f7c07.png
+    </video:thumbnail_loc>
+    <video:title>
+      EOTW vs Sam Adams, Whiff City XIV - March 2026 - Barrie Monthly Fighting Game Tournament - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EOTW vs Sam Adams in Winners Quarter-Final of Whiff City XIV - March 2026 - Barrie Monthly Fighting Game Tournament, streamed by BarrieWhiffCity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2734846056&amp;t=1h8m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>680</video:duration>
+    <video:publication_date>2026-03-29T17:16:48.000Z</video:publication_date>
+    <video:uploader>BarrieWhiffCity</video:uploader>
+    <video:expiration_date>2026-04-06T17:16:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/road-to-ewc-26-dreamhack-birmingham/set/101018819/</loc>
+  <lastmod>2026-03-29T16:56:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2734672851&amp;t=5h0m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1826</video:duration>
+    <video:duration>633</video:duration>
     <video:publication_date>2026-03-29T16:23:00.000Z</video:publication_date>
     <video:uploader>ewc_plus_en2</video:uploader>
     <video:expiration_date>2026-04-06T16:23:00.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sac-salty-arena-cup-street-fighter-6-10/set/101018934/</loc>
-  <lastmod>2026-03-29T16:17:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-29T16:56:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2734756560&amp;t=2h21m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2138</video:duration>
+    <video:duration>626</video:duration>
     <video:publication_date>2026-03-29T16:17:48.000Z</video:publication_date>
     <video:uploader>saltyarena</video:uploader>
     <video:expiration_date>2026-04-06T16:17:48.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-01T02:23:55.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2026-03-09T02:23:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/calculated-41-1/set/99920183/</loc>
-  <lastmod>2026-03-01T02:31:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884398/image-5d5cfa58639a745920be4ce9c74d99c7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Retro Reload | Pete Weber vs Retro Reload | GrizzlayBear, Calculated #41 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Retro Reload | Pete Weber vs Retro Reload | GrizzlayBear in Grand Final of Calculated #41, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710474523&amp;t=3h7m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>530</video:duration>
-    <video:publication_date>2026-03-01T02:14:31.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-03-09T02:14:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
