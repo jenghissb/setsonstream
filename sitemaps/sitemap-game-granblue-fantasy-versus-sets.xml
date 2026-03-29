@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/texas-showdown-2026/set/101030628/</loc>
+  <lastmod>2026-03-29T20:49:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797131/image-34e3631cb5c9a2445eafed3cd989c4f0.png
+    </video:thumbnail_loc>
+    <video:title>
+      DEUS | Incendiate vs SBG | CharCharRealSmooth, Texas Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DEUS | Incendiate vs SBG | CharCharRealSmooth in Winners Semi-Final of Texas Showdown 2026, streamed by bifuteki
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2734777353&amp;t=6h20m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2621</video:duration>
+    <video:publication_date>2026-03-29T20:49:36.000Z</video:publication_date>
+    <video:uploader>bifuteki</video:uploader>
+    <video:expiration_date>2026-04-06T20:49:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/texas-showdown-2026/set/101003529/</loc>
   <lastmod>2026-03-29T03:23:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-21T17:03:49.000Z</video:publication_date>
     <video:uploader>DucEsport</video:uploader>
     <video:expiration_date>2026-03-01T17:03:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/honing-traditions-tvibit-42/set/99445834/</loc>
-  <lastmod>2026-02-18T17:56:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881321/image-f8defef82a7bf7c048e5b185f3a93ebd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zixy vs Aano, Honing Traditions @TVIBIT #42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zixy vs Aano in Grand Final of Honing Traditions @TVIBIT #42, streamed by spiritofsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2701199397&amp;t=1h6m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>867</video:duration>
-    <video:publication_date>2026-02-18T17:38:26.000Z</video:publication_date>
-    <video:uploader>spiritofsmash</video:uploader>
-    <video:expiration_date>2026-02-26T17:38:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

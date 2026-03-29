@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/texas-showdown-2026/set/101024509/</loc>
-  <lastmod>2026-03-29T20:30:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/texas-showdown-2026/set/101024510/</loc>
+  <lastmod>2026-03-29T20:52:37.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797131/image-34e3631cb5c9a2445eafed3cd989c4f0.png
+    </video:thumbnail_loc>
+    <video:title>
+      Z10 | SAINT vs PAR | JoeCrush, Texas Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Z10 | SAINT vs PAR | JoeCrush in Grand Final Reset of Texas Showdown 2026, streamed by txshowdownlive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2734766373&amp;t=6h41m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2440</video:duration>
+    <video:publication_date>2026-03-29T20:52:37.000Z</video:publication_date>
+    <video:uploader>txshowdownlive</video:uploader>
+    <video:expiration_date>2026-04-06T20:52:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/texas-showdown-2026/set/101024509/</loc>
+  <lastmod>2026-03-29T21:08:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2734766373&amp;t=6h19m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1743</video:duration>
+    <video:duration>1113</video:duration>
     <video:publication_date>2026-03-29T20:30:18.000Z</video:publication_date>
     <video:uploader>txshowdownlive</video:uploader>
     <video:expiration_date>2026-04-06T20:30:18.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-02T01:30:32.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2026-03-10T01:30:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/winter-showdown-2026/set/99974353/</loc>
-  <lastmod>2026-03-02T01:37:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818672/image-6a4f615b0e3f3d5071e587f3caa49a38.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yajiroke vs LinDUNguin, Winter Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yajiroke vs LinDUNguin in Winners Quarter-Final of Winter Showdown 2026, streamed by akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2711212616&amp;t=6h27m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>480</video:duration>
-    <video:publication_date>2026-03-02T01:21:51.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade</video:uploader>
-    <video:expiration_date>2026-03-10T01:21:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
