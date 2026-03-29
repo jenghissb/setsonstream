@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/juice-the-roads-250-singles-pot-bonus/set/101029749/</loc>
-  <lastmod>2026-03-29T22:17:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/juice-the-roads-250-singles-pot-bonus/set/101029751/</loc>
+  <lastmod>2026-03-29T22:44:09.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/874266/image-2d490ce9add3a50d59c238788223f4ad.png
+    </video:thumbnail_loc>
+    <video:title>
+      BING vs DASH | ayeGiohh, Juice the Roads - $250 Singles Pot Bonus!!! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BING vs DASH | ayeGiohh in Losers Semi-Final of Juice the Roads - $250 Singles Pot Bonus!!!, streamed by TM44_
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2734911008&amp;t=5h13m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1301</video:duration>
+    <video:publication_date>2026-03-29T22:44:09.000Z</video:publication_date>
+    <video:uploader>TM44_</video:uploader>
+    <video:expiration_date>2026-04-06T22:44:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/juice-the-roads-250-singles-pot-bonus/set/101029749/</loc>
+  <lastmod>2026-03-29T22:49:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2734911008&amp;t=4h45m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1522</video:duration>
+    <video:duration>757</video:duration>
     <video:publication_date>2026-03-29T22:17:05.000Z</video:publication_date>
     <video:uploader>TM44_</video:uploader>
     <video:expiration_date>2026-04-06T22:17:05.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-04T23:05:12.000Z</video:publication_date>
     <video:uploader>nostyleesports2</video:uploader>
     <video:expiration_date>2026-03-12T23:05:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-19/set/100035775/</loc>
-  <lastmod>2026-03-04T23:11:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886394/image-1997ac11e04bad145328374f8e78e510.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tranimal vs NewTag WhoThis | running late, don&apos;t DQ, Gould St. Gauntlet #19 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tranimal vs NewTag WhoThis | running late, don&apos;t DQ in Winners Quarter-Final of Gould St. Gauntlet #19, streamed by nostyleesports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2713913539&amp;t=0h23m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>570</video:duration>
-    <video:publication_date>2026-03-04T22:56:01.000Z</video:publication_date>
-    <video:uploader>nostyleesports2</video:uploader>
-    <video:expiration_date>2026-03-12T22:56:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
