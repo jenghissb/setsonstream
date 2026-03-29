@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/texas-showdown-2026/set/101003501/</loc>
+  <lastmod>2026-03-29T01:51:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/797131/image-34e3631cb5c9a2445eafed3cd989c4f0.png
+    </video:thumbnail_loc>
+    <video:title>
+      SBG | CharCharRealSmooth vs Proteus, Texas Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SBG | CharCharRealSmooth vs Proteus in Winners Quarter-Final of Texas Showdown 2026, streamed by txshowdownlive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2733914307&amp;t=10h48m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>906</video:duration>
+    <video:publication_date>2026-03-29T01:51:04.000Z</video:publication_date>
+    <video:uploader>txshowdownlive</video:uploader>
+    <video:expiration_date>2026-04-06T01:51:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-15-rise-with-the-wind/set/100977564/</loc>
   <lastmod>2026-03-28T23:38:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-18T02:53:19.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2026-02-26T02:53:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-178/set/99437723/</loc>
-  <lastmod>2026-02-18T02:55:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881771/image-8d0093934c43c0801685c1f8fb0c5a7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      COMO | Fizzie18 vs WB | Brady, Smash @ Mizzou 178 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch COMO | Fizzie18 vs WB | Brady in Winners Final of Smash @ Mizzou 178, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2700704264&amp;t=1h59m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>949</video:duration>
-    <video:publication_date>2026-02-18T02:27:31.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-02-26T02:27:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
