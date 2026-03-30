@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-101/set/101052934/</loc>
+  <lastmod>2026-03-30T18:31:47.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895900/image-7dc5716fdaea1d8a9ab1fd26847dbfff.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sabreur vs 514flexx, KnockOut Zone #101 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sabreur vs 514flexx in Round 2 of KnockOut Zone #101, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2735703228&amp;t=1h5m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1460</video:duration>
+    <video:publication_date>2026-03-30T18:31:47.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-04-07T18:31:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/juice-the-roads-250-singles-pot-bonus/set/101029751/</loc>
   <lastmod>2026-03-29T23:19:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-04T23:05:49.000Z</video:publication_date>
     <video:uploader>nostyleesports2</video:uploader>
     <video:expiration_date>2026-03-12T23:05:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gould-st-gauntlet-19/set/100035777/</loc>
-  <lastmod>2026-03-04T23:18:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886394/image-1997ac11e04bad145328374f8e78e510.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nen vs shrub, Gould St. Gauntlet #19 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nen vs shrub in Winners Quarter-Final of Gould St. Gauntlet #19, streamed by nostyleesports2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2713913539&amp;t=0h32m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>731</video:duration>
-    <video:publication_date>2026-03-04T23:05:12.000Z</video:publication_date>
-    <video:uploader>nostyleesports2</video:uploader>
-    <video:expiration_date>2026-03-12T23:05:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
