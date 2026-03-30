@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gema-no-michi-16/set/101045416/</loc>
+  <lastmod>2026-03-30T05:25:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/894622/image-a72cb2310698f7cc6ee875e1fe9ff64d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Driva vs AC, Gema No Michi #16 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Driva vs AC in Winners Final of Gema No Michi #16, streamed by Smashsocietygg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2735309704&amp;t=2h27m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>997</video:duration>
+    <video:publication_date>2026-03-30T05:02:48.000Z</video:publication_date>
+    <video:uploader>Smashsocietygg</video:uploader>
+    <video:expiration_date>2026-04-07T05:02:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/rock-chalk-jab-lock-197/set/101041048/</loc>
-  <lastmod>2026-03-30T04:19:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-03-30T05:12:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,36 +40,12 @@
       Watch gorditacrunch | goob vs Abe Esports | THE MOST POWERFUL SPOON in Grand Final Reset of Rock Chalk Jab Lock 197, streamed by SpotlightKC
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=SpotlightKC&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2735205840&amp;t=4h19m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2927</video:duration>
+    <video:duration>2938</video:duration>
     <video:publication_date>2026-03-30T04:19:49.000Z</video:publication_date>
     <video:uploader>SpotlightKC</video:uploader>
     <video:expiration_date>2026-04-07T04:19:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lan-hero-107/set/101045021/</loc>
-  <lastmod>2026-03-30T04:58:11.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895372/image-8e5eafb9e33ad83dbe5c17c6ca9dd39a.png
-    </video:thumbnail_loc>
-    <video:title>
-      zook vs LH | Cien, LAN Hero #107 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch zook vs LH | Cien in Losers Final of LAN Hero #107, streamed by lan_hero
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=lan_hero&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>625</video:duration>
-    <video:publication_date>2026-03-30T04:58:11.000Z</video:publication_date>
-    <video:uploader>lan_hero</video:uploader>
-    <video:expiration_date>2026-04-07T04:58:11.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71998,30 +71998,6 @@
     <video:publication_date>2026-03-23T22:50:02.000Z</video:publication_date>
     <video:uploader>MrSneakyStreams</video:uploader>
     <video:expiration_date>2026-03-31T22:50:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/knockout-zone-100/set/100763601/</loc>
-  <lastmod>2026-03-23T23:09:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893037/image-a94e7a3534a04c65e98fe8c45479054b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      KL | Alasauce vs ExtraLife Café | Amiin, KnockOut Zone #100 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KL | Alasauce vs ExtraLife Café | Amiin in Losers Final of KnockOut Zone #100, streamed by orbitalsheep
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2729910276&amp;t=4h35m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1206</video:duration>
-    <video:publication_date>2026-03-23T22:45:21.000Z</video:publication_date>
-    <video:uploader>orbitalsheep</video:uploader>
-    <video:expiration_date>2026-03-31T22:45:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
