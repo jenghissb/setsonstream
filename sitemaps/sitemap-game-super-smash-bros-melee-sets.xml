@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-52-frenemies/set/101071359/</loc>
+  <lastmod>2026-03-31T06:26:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896640/image-d6c73ef6589ec5f3c3ee077ca3eb0dc4.png
+    </video:thumbnail_loc>
+    <video:title>
+      y-hat vs Snap, McCloud&apos;s Melee Co. #52: Frenemies - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch y-hat vs Snap in Losers Quarter-Final of McCloud&apos;s Melee Co. #52: Frenemies, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2736099031&amp;t=3h35m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1156</video:duration>
+    <video:publication_date>2026-03-31T06:00:52.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2026-04-08T06:00:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-493-1/set/101068950/</loc>
   <lastmod>2026-03-31T05:15:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-05T02:15:32.000Z</video:publication_date>
     <video:uploader>uwsmashclub</video:uploader>
     <video:expiration_date>2026-03-13T02:15:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uw-melee-weekly-winter-26-8-march-madness/set/100040640/</loc>
-  <lastmod>2026-03-05T02:31:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886444/image-b41e2d33cde34cf06e03d49e5381f996.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      zoist | Ampp vs SF | Jack, UW Melee Weekly (Winter ‘26) #8 - March Madness - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch zoist | Ampp vs SF | Jack in Winners Final of UW Melee Weekly (Winter ‘26) #8 - March Madness, streamed by uwsmashclub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2713958801&amp;t=2h27m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>774</video:duration>
-    <video:publication_date>2026-03-05T02:01:39.000Z</video:publication_date>
-    <video:uploader>uwsmashclub</video:uploader>
-    <video:expiration_date>2026-03-13T02:01:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
