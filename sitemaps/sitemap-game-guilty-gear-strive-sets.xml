@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-98/set/101060507/</loc>
+  <lastmod>2026-03-30T23:55:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896095/image-dccfc3ee2d529310c0bacc7de9eb38f6.png
+    </video:thumbnail_loc>
+    <video:title>
+      StitchFace vs Xyned, Block String @ Wonderfly #98 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch StitchFace vs Xyned in Winners Semi-Final of Block String @ Wonderfly #98, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2735973102&amp;t=0h18m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>617</video:duration>
+    <video:publication_date>2026-03-30T23:55:48.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2026-04-07T23:55:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sunday-night-slugfest-105/set/101036199/</loc>
   <lastmod>2026-03-30T00:52:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-22T17:25:39.000Z</video:publication_date>
     <video:uploader>irishgamingmarket</video:uploader>
     <video:expiration_date>2026-03-02T17:25:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/igm-emerald-circuit-2025-finals/set/99667573/</loc>
-  <lastmod>2026-02-22T17:31:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/859664/image-f95616d926770ac24c967468080c8e52.png
-    </video:thumbnail_loc>
-    <video:title>
-      Flood vs Skarfelt, IGM Emerald Circuit 2025 Finals - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Flood vs Skarfelt in Round 3 of IGM Emerald Circuit 2025 Finals, streamed by irishgamingmarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704741037&amp;t=2h21m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>593</video:duration>
-    <video:publication_date>2026-02-22T17:15:04.000Z</video:publication_date>
-    <video:uploader>irishgamingmarket</video:uploader>
-    <video:expiration_date>2026-03-02T17:15:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
