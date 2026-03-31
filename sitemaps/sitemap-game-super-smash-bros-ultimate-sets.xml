@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-9-saison-3-the-end/set/101078747/</loc>
-  <lastmod>2026-03-31T21:46:30.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-9-saison-3-the-end/set/101078733/</loc>
+  <lastmod>2026-03-31T22:09:41.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896529/image-e62d0b993c06c9ea001af01bd8e4f220.png
+    </video:thumbnail_loc>
+    <video:title>
+      DLT/CS3 | MKBigBoss vs Bac, Bloom #9 - Saison 3 - The End - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DLT/CS3 | MKBigBoss vs Bac in Grand Final of Bloom #9 - Saison 3 - The End, streamed by blossom_ssb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2736503139&amp;t=4h59m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1338</video:duration>
+    <video:publication_date>2026-03-31T22:09:41.000Z</video:publication_date>
+    <video:uploader>blossom_ssb</video:uploader>
+    <video:expiration_date>2026-04-08T22:09:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/buster-out-170-smash-ultimate-weekly-at-refuge-gaming/set/101080547/</loc>
+  <lastmod>2026-03-31T22:20:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897218/image-0e35440039a418ab59c97ac4c94472e2.png
+    </video:thumbnail_loc>
+    <video:title>
+      UA | Nova vs UA | Magnum, Buster Out #170 - Smash Ultimate Weekly at Refuge Gaming - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UA | Nova vs UA | Magnum in Quarter-Final of Buster Out #170 - Smash Ultimate Weekly at Refuge Gaming, streamed by buster_out
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2736725022&amp;t=0h3m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>712</video:duration>
+    <video:publication_date>2026-03-31T22:20:07.000Z</video:publication_date>
+    <video:uploader>buster_out</video:uploader>
+    <video:expiration_date>2026-04-08T22:20:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-9-saison-3-the-end/set/101078747/</loc>
+  <lastmod>2026-03-31T22:10:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +66,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2736503139&amp;t=4h35m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>616</video:duration>
+    <video:duration>1296</video:duration>
     <video:publication_date>2026-03-31T21:46:30.000Z</video:publication_date>
     <video:uploader>blossom_ssb</video:uploader>
     <video:expiration_date>2026-04-08T21:46:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-9-saison-3-the-end/set/101078732/</loc>
-  <lastmod>2026-03-31T21:27:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/896529/image-e62d0b993c06c9ea001af01bd8e4f220.png
-    </video:thumbnail_loc>
-    <video:title>
-      DLT/CS3 | MKBigBoss vs Draver, Bloom #9 - Saison 3 - The End - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DLT/CS3 | MKBigBoss vs Draver in Winners Final of Bloom #9 - Saison 3 - The End, streamed by blossom_ssb
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2736503139&amp;t=4h17m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1740</video:duration>
-    <video:publication_date>2026-03-31T21:27:46.000Z</video:publication_date>
-    <video:uploader>blossom_ssb</video:uploader>
-    <video:expiration_date>2026-04-08T21:27:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +94,30 @@
     <video:publication_date>2026-03-31T21:29:50.000Z</video:publication_date>
     <video:uploader>toulouselaststock</video:uploader>
     <video:expiration_date>2026-04-08T21:29:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-9-saison-3-the-end/set/101078732/</loc>
+  <lastmod>2026-03-31T22:19:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896529/image-e62d0b993c06c9ea001af01bd8e4f220.png
+    </video:thumbnail_loc>
+    <video:title>
+      DLT/CS3 | MKBigBoss vs Draver, Bloom #9 - Saison 3 - The End - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DLT/CS3 | MKBigBoss vs Draver in Winners Final of Bloom #9 - Saison 3 - The End, streamed by blossom_ssb
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2736503139&amp;t=4h17m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2462</video:duration>
+    <video:publication_date>2026-03-31T21:27:46.000Z</video:publication_date>
+    <video:uploader>blossom_ssb</video:uploader>
+    <video:expiration_date>2026-04-08T21:27:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -71950,54 +71998,6 @@
     <video:publication_date>2026-03-24T23:37:06.000Z</video:publication_date>
     <video:uploader>drewtwo18</video:uploader>
     <video:expiration_date>2026-04-01T23:37:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/socasmash-172-myrtle-s-weekly/set/100790177/</loc>
-  <lastmod>2026-03-24T23:50:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/892618/image-e42a032e5b3e2cbaa599df2252a66de8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Dhampir vs LTA | LuckyTheAlmond, SocaSmash 172: Myrtle&apos;s Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dhampir vs LTA | LuckyTheAlmond in Winners Round 2 of SocaSmash 172: Myrtle&apos;s Weekly, streamed by myrtlebeachsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2730966601&amp;t=0h3m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>597</video:duration>
-    <video:publication_date>2026-03-24T23:37:04.000Z</video:publication_date>
-    <video:uploader>myrtlebeachsmash</video:uploader>
-    <video:expiration_date>2026-04-01T23:37:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cooped-up-eavesdrop-brewery-30/set/100793063/</loc>
-  <lastmod>2026-03-24T23:53:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893589/image-6e59d0953c7586750094473b56412ce3.png
-    </video:thumbnail_loc>
-    <video:title>
-      SK | SMFN | Spoon vs ballmeat, Cooped Up @ Eavesdrop Brewery #30 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SK | SMFN | Spoon vs ballmeat in Winners Round 1 of Cooped Up @ Eavesdrop Brewery #30, streamed by KMLtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2730961169&amp;t=0h4m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1058</video:duration>
-    <video:publication_date>2026-03-24T23:32:00.000Z</video:publication_date>
-    <video:uploader>KMLtournaments</video:uploader>
-    <video:expiration_date>2026-04-01T23:32:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
