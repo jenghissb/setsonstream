@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-155/set/101094781/</loc>
+  <lastmod>2026-04-01T05:46:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897076/image-59d80e6205814626af9d5f4333fdeda1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      UW | Everest vs 12th | Jordan, Octagon #155 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UW | Everest vs 12th | Jordan in Grand Final Reset of Octagon #155, streamed by satellitesmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2736896285&amp;t=3h25m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>856</video:duration>
+    <video:publication_date>2026-04-01T05:29:39.000Z</video:publication_date>
+    <video:uploader>satellitesmash</video:uploader>
+    <video:expiration_date>2026-04-09T05:29:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cooped-up-eavesdrop-brewery-31/set/101085027/</loc>
   <lastmod>2026-04-01T04:45:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -1899,7 +1923,7 @@
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/bloom-9-saison-3-the-end/set/101078733/</loc>
   <lastmod>2026-04-01T00:11:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-25T03:42:13.000Z</video:publication_date>
     <video:uploader>KMLtournaments</video:uploader>
     <video:expiration_date>2026-04-02T03:42:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/octagon-154-1/set/100802711/</loc>
-  <lastmod>2026-03-25T03:56:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893904/image-428ff950ce7b677ac4e28701b2c616af.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      UW | Lumeckos vs Not | Ness!, Octagon #154 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UW | Lumeckos vs Not | Ness! in Winners Quarter-Final of Octagon #154, streamed by satellitesmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2731087806&amp;t=1h31m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>860</video:duration>
-    <video:publication_date>2026-03-25T03:37:49.000Z</video:publication_date>
-    <video:uploader>satellitesmash</video:uploader>
-    <video:expiration_date>2026-04-02T03:37:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
