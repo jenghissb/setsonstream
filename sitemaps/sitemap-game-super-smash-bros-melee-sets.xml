@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-374/set/101133104/</loc>
+  <lastmod>2026-04-02T22:05:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897732/image-f784b844f51ad5580c4fb345f2d77e56.png
+    </video:thumbnail_loc>
+    <video:title>
+      Cock10 vs GRUESOME, Salt Water Smash 374 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Cock10 vs GRUESOME in Round 3 of Salt Water Smash 374, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2738350127&amp;t=0h12m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1404</video:duration>
+    <video:publication_date>2026-04-02T22:05:49.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-04-10T22:05:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-182-doubles-only/set/101121144/</loc>
   <lastmod>2026-04-02T05:33:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-07T02:56:59.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-03-15T02:56:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rutgers-melee-spring-2026-6/set/100112559/</loc>
-  <lastmod>2026-03-07T03:39:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886390/image-9d33641c7147dc2f53e05ed5324090f7.png
-    </video:thumbnail_loc>
-    <video:title>
-      shoobopper vs DevDogg, Rutgers Melee Spring 2026 #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch shoobopper vs DevDogg in Grand Final of Rutgers Melee Spring 2026 #6, streamed by rutgers_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2715714101&amp;t=2h38m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1145</video:duration>
-    <video:publication_date>2026-03-07T02:53:55.000Z</video:publication_date>
-    <video:uploader>rutgers_melee</video:uploader>
-    <video:expiration_date>2026-03-15T02:53:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
