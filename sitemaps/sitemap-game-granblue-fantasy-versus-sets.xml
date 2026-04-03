@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-63-granblue-fantasy-versus-rising/set/101134909/</loc>
-  <lastmod>2026-04-02T23:19:32.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-63-granblue-fantasy-versus-rising/set/101134897/</loc>
+  <lastmod>2026-04-02T23:38:08.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895850/image-9c06f09e58392b11913d13dfa19f968a.png
+    </video:thumbnail_loc>
+    <video:title>
+      UL | BogeyAppreciator vs FISH | SlushieGoat, Just Mids #63: Granblue Fantasy Versus Rising - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UL | BogeyAppreciator vs FISH | SlushieGoat in Winners Semi-Final of Just Mids #63: Granblue Fantasy Versus Rising, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2738376307&amp;t=1h7m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1673</video:duration>
+    <video:publication_date>2026-04-02T23:38:08.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-04-10T23:38:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-63-granblue-fantasy-versus-rising/set/101134909/</loc>
+  <lastmod>2026-04-02T23:48:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2738376307&amp;t=0h48m56s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1275</video:duration>
+    <video:duration>542</video:duration>
     <video:publication_date>2026-04-02T23:19:32.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-04-10T23:19:32.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-22T00:00:14.000Z</video:publication_date>
     <video:uploader>lunarphaselive</video:uploader>
     <video:expiration_date>2026-03-02T00:00:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/tlf-gamegenie222-day-2026/set/99598312/</loc>
-  <lastmod>2026-02-21T21:22:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/874775/image-912827c0c7bf2279c8a53879a2dea347.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Auko vs DNBcool, TLF GameGenie222 Day 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Auko vs DNBcool in Grand Final of TLF GameGenie222 Day 2026, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704002800&amp;t=1h48m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>699</video:duration>
-    <video:publication_date>2026-02-21T20:58:19.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-03-01T20:58:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
