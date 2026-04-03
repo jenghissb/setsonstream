@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-63-granblue-fantasy-versus-rising/set/101134899/</loc>
+  <lastmod>2026-04-03T01:13:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895850/image-9c06f09e58392b11913d13dfa19f968a.png
+    </video:thumbnail_loc>
+    <video:title>
+      TF | HUEBERT vs UL | BogeyAppreciator, Just Mids #63: Granblue Fantasy Versus Rising - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TF | HUEBERT vs UL | BogeyAppreciator in Grand Final of Just Mids #63: Granblue Fantasy Versus Rising, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2738456433&amp;t=0h15m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>658</video:duration>
+    <video:publication_date>2026-04-03T00:33:13.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-04-11T00:33:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-63-granblue-fantasy-versus-rising/set/101134897/</loc>
-  <lastmod>2026-04-02T23:38:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-03T00:15:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2738376307&amp;t=1h7m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1673</video:duration>
+    <video:duration>846</video:duration>
     <video:publication_date>2026-04-02T23:38:08.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-04-10T23:38:08.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-22T00:22:28.000Z</video:publication_date>
     <video:uploader>lunarphaselive</video:uploader>
     <video:expiration_date>2026-03-02T00:22:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-54/set/99607067/</loc>
-  <lastmod>2026-02-22T00:27:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860126/image-dff3e9feca2bba562aa626d8950469e0.png
-    </video:thumbnail_loc>
-    <video:title>
-      FISH | Gucci vs MASH | UberCheesecake, Lunatic Perilune #54 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FISH | Gucci vs MASH | UberCheesecake in Losers Quarter-Final of Lunatic Perilune #54, streamed by lunarphaselive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704139548&amp;t=2h11m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>419</video:duration>
-    <video:publication_date>2026-02-22T00:00:14.000Z</video:publication_date>
-    <video:uploader>lunarphaselive</video:uploader>
-    <video:expiration_date>2026-03-02T00:00:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
