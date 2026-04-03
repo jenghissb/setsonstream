@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/neutral-madness-3/set/101164392/</loc>
+  <lastmod>2026-04-03T18:49:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888563/image-37cd69464db5c7ced4eda0da4903f5e8.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Isac vs Azzerino, Neutral Madness #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Isac vs Azzerino in Losers Round 3 of Neutral Madness #3, streamed by negativeedgegbg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2738955324&amp;t=1h58m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>776</video:duration>
+    <video:publication_date>2026-04-03T18:17:14.000Z</video:publication_date>
+    <video:uploader>negativeedgegbg</video:uploader>
+    <video:expiration_date>2026-04-11T18:17:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/neutral-madness-3/set/101164333/</loc>
-  <lastmod>2026-04-03T17:48:30.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-03T18:21:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2738955324&amp;t=1h29m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>720</video:duration>
+    <video:duration>844</video:duration>
     <video:publication_date>2026-04-03T17:48:30.000Z</video:publication_date>
     <video:uploader>negativeedgegbg</video:uploader>
     <video:expiration_date>2026-04-11T17:48:30.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-02T05:10:56.000Z</video:publication_date>
     <video:uploader>akihabaraarcade</video:uploader>
     <video:expiration_date>2026-03-10T05:10:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/winter-showdown-2026/set/99978340/</loc>
-  <lastmod>2026-03-02T05:16:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818672/image-6a4f615b0e3f3d5071e587f3caa49a38.png
-    </video:thumbnail_loc>
-    <video:title>
-      Malik vs Trojan, Winter Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Malik vs Trojan in Winners Final of Winter Showdown 2026, streamed by akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2711212616&amp;t=10h4m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>740</video:duration>
-    <video:publication_date>2026-03-02T04:58:32.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade</video:uploader>
-    <video:expiration_date>2026-03-10T04:58:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
