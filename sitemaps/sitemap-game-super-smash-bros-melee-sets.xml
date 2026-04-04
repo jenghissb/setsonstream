@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-prowling-grounds-120/set/101184915/</loc>
-  <lastmod>2026-04-04T02:22:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/897020/image-76b5262b4d0161e6fdf1222e57c4bf77.png
-    </video:thumbnail_loc>
-    <video:title>
-      SwebBy vs Cowbell, The Prowling Grounds 120 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SwebBy vs Cowbell in Grand Final of The Prowling Grounds 120, streamed by RochesterSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=RochesterSmash&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-04-04T02:22:23.000Z</video:publication_date>
-    <video:uploader>RochesterSmash</video:uploader>
-    <video:expiration_date>2026-04-12T02:22:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-51/set/101191760/</loc>
-  <lastmod>2026-04-04T04:04:52.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/897578/image-6db1545ec0cf6d66e89266586059d632.png
-    </video:thumbnail_loc>
-    <video:title>
-      Saool vs Reviewer, The Guild Trials 51 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Saool vs Reviewer in Losers Final of The Guild Trials 51, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2739381314&amp;t=2h31m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>626</video:duration>
-    <video:publication_date>2026-04-04T04:04:52.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-04-12T04:04:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/test-tournament-1679/set/101195806/</loc>
   <lastmod>2026-04-04T03:46:05.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -66,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=smashatiub2&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1753</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-04-04T03:46:05.000Z</video:publication_date>
     <video:uploader>smashatiub2</video:uploader>
     <video:expiration_date>2026-04-12T03:46:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-51/set/101191760/</loc>
+  <lastmod>2026-04-04T04:38:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897578/image-6db1545ec0cf6d66e89266586059d632.png
+    </video:thumbnail_loc>
+    <video:title>
+      Saool vs Reviewer, The Guild Trials 51 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Saool vs Reviewer in Losers Final of The Guild Trials 51, streamed by GuildhallSFL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739381314&amp;t=2h31m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>634</video:duration>
+    <video:publication_date>2026-04-04T04:04:52.000Z</video:publication_date>
+    <video:uploader>GuildhallSFL</video:uploader>
+    <video:expiration_date>2026-04-12T04:04:52.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>

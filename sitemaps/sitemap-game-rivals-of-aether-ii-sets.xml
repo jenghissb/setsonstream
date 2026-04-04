@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-265/set/101189777/</loc>
+  <lastmod>2026-04-04T05:00:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897145/image-a3be9292bf44c91f903e649956d5bb45.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      hamyojo vs Sino, Elite Smash Fridays #265 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch hamyojo vs Sino in Grand Final of Elite Smash Fridays #265, streamed by Colorado_ROA
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739386307&amp;t=2h42m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1168</video:duration>
+    <video:publication_date>2026-04-04T04:22:43.000Z</video:publication_date>
+    <video:uploader>Colorado_ROA</video:uploader>
+    <video:expiration_date>2026-04-12T04:22:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-265/set/101189808/</loc>
-  <lastmod>2026-04-04T04:01:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-04T04:33:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739386307&amp;t=2h21m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>840</video:duration>
+    <video:duration>1279</video:duration>
     <video:publication_date>2026-04-04T04:01:18.000Z</video:publication_date>
     <video:uploader>Colorado_ROA</video:uploader>
     <video:expiration_date>2026-04-12T04:01:18.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-28T01:34:34.000Z</video:publication_date>
     <video:uploader>hazelnutroa</video:uploader>
     <video:expiration_date>2026-03-08T01:34:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-218-nesl-qualifier/set/99832019/</loc>
-  <lastmod>2026-02-28T01:51:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885233/image-52eaa228a4578f164c76309f058a0313.png
-    </video:thumbnail_loc>
-    <video:title>
-      POOKIE | hazelnut vs thewaffleman, Smash Night at Prodigy #218 - NESL Qualifier! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch POOKIE | hazelnut vs thewaffleman in Winners Semi-Final of Smash Night at Prodigy #218 - NESL Qualifier!, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709552508&amp;t=0h47m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>928</video:duration>
-    <video:publication_date>2026-02-28T01:15:09.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-03-08T01:15:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
