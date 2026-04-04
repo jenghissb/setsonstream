@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-529/set/101174235/</loc>
+  <lastmod>2026-04-03T23:18:23.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896544/image-000ffc5e7e9b2340011e68d3fd06ab8a.png
+    </video:thumbnail_loc>
+    <video:title>
+      FS | Jelato vs Scarab, Adventure B-Airs #529 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FS | Jelato vs Scarab in Round 3 of Adventure B-Airs #529, streamed by bros_calamity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739255885&amp;t=0h27m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1945</video:duration>
+    <video:publication_date>2026-04-03T23:18:23.000Z</video:publication_date>
+    <video:uploader>bros_calamity</video:uploader>
+    <video:expiration_date>2026-04-11T23:18:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/minish-11-2/set/101166101/</loc>
   <lastmod>2026-04-03T20:18:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-27T01:38:14.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-03-07T01:38:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-20/set/99801390/</loc>
-  <lastmod>2026-02-27T02:21:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882430/image-5f9c56017291c90404135c029c6c6732.png
-    </video:thumbnail_loc>
-    <video:title>
-      Walk vs Penguinos, SFU RIVALS THURSDAYS #20 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Walk vs Penguinos in Winners Quarter-Final of SFU RIVALS THURSDAYS #20, streamed by PenguinosBC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2708678327&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2247</video:duration>
-    <video:publication_date>2026-02-27T01:23:36.000Z</video:publication_date>
-    <video:uploader>PenguinosBC</video:uploader>
-    <video:expiration_date>2026-03-07T01:23:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

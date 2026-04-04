@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-222/set/101176187/</loc>
+  <lastmod>2026-04-03T23:11:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897544/image-c5d5c0bc36ea443afbf5cdc15fb8dbd9.png
+    </video:thumbnail_loc>
+    <video:title>
+      FARABUNDOMARTI | SUAVEMENTE vs ohm, Smash Night at Prodigy #222 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FARABUNDOMARTI | SUAVEMENTE vs ohm in Winners Quarter-Final of Smash Night at Prodigy #222, streamed by cg_conduitgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739269569&amp;t=0h4m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2371</video:duration>
+    <video:publication_date>2026-04-03T23:11:17.000Z</video:publication_date>
+    <video:uploader>cg_conduitgaming</video:uploader>
+    <video:expiration_date>2026-04-11T23:11:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-140/set/101149341/</loc>
   <lastmod>2026-04-03T05:18:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-10T02:02:22.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-03-18T02:02:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-490/set/100262252/</loc>
-  <lastmod>2026-03-10T03:00:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889242/image-c031aa48a6d962fa6c30b412edb8cad9.png
-    </video:thumbnail_loc>
-    <video:title>
-      FX | Fury vs Llama Pajama, Monday Night Melee 490 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FX | Fury vs Llama Pajama in Winners Quarter-Final of Monday Night Melee 490, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2718388279&amp;t=1h26m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1255</video:duration>
-    <video:publication_date>2026-03-10T01:59:13.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-03-18T01:59:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
