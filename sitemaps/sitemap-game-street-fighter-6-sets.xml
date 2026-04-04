@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/igm-spring-showdown-2026-1/set/101218904/</loc>
-  <lastmod>2026-04-04T16:51:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/igm-spring-showdown-2026-1/set/101218906/</loc>
+  <lastmod>2026-04-04T17:11:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867396/image-345b53c87be86e74f1272e03c19241d5.png
+    </video:thumbnail_loc>
+    <video:title>
+      damigod vs GOATSe | Nutrient, IGM Spring Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch damigod vs GOATSe | Nutrient in Losers Quarter-Final of IGM Spring Showdown 2026, streamed by IrishGamingMarket
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739685936&amp;t=4h50m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2324</video:duration>
+    <video:publication_date>2026-04-04T17:11:24.000Z</video:publication_date>
+    <video:uploader>IrishGamingMarket</video:uploader>
+    <video:expiration_date>2026-04-12T17:11:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/igm-spring-showdown-2026-1/set/101218904/</loc>
+  <lastmod>2026-04-04T17:21:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739685936&amp;t=4h30m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>796</video:duration>
+    <video:duration>610</video:duration>
     <video:publication_date>2026-04-04T16:51:17.000Z</video:publication_date>
     <video:uploader>IrishGamingMarket</video:uploader>
     <video:expiration_date>2026-04-12T16:51:17.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-07T05:46:11.000Z</video:publication_date>
     <video:uploader>boredmanbelike</video:uploader>
     <video:expiration_date>2026-03-15T05:46:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-110/set/100132081/</loc>
-  <lastmod>2026-03-07T05:51:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883765/image-7db22ab22b12b4ccfa040bcd3733c5f3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bracket Demons | Exia vs Vita | noot, SoCal Colosseum #110 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bracket Demons | Exia vs Vita | noot in Losers Semi-Final of SoCal Colosseum #110, streamed by boredmanbelike
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2715875400&amp;t=1h48m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>894</video:duration>
-    <video:publication_date>2026-03-07T05:17:38.000Z</video:publication_date>
-    <video:uploader>boredmanbelike</video:uploader>
-    <video:expiration_date>2026-03-15T05:17:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

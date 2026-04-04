@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/umass-games-5/set/101220667/</loc>
+  <lastmod>2026-04-04T17:30:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889414/image-3e6ac82093d59a45905c98c27538474d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Deron vs UML | source, UMass Games 5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Deron vs UML | source in Winners Round 2 of UMass Games 5, streamed by umassdsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739870085&amp;t=0h17m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1186</video:duration>
+    <video:publication_date>2026-04-04T17:30:22.000Z</video:publication_date>
+    <video:uploader>umassdsmash</video:uploader>
+    <video:expiration_date>2026-04-12T17:30:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/elite-smash-fridays-265/set/101189777/</loc>
   <lastmod>2026-04-04T05:00:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-28T19:37:51.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-03-08T19:37:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-218-nesl-qualifier/set/99832020/</loc>
-  <lastmod>2026-02-28T02:14:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885233/image-52eaa228a4578f164c76309f058a0313.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kezzup vs POOKIE | Ham Sandwich, Smash Night at Prodigy #218 - NESL Qualifier! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kezzup vs POOKIE | Ham Sandwich in Winners Semi-Final of Smash Night at Prodigy #218 - NESL Qualifier!, streamed by hazelnutroa
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709552508&amp;t=1h7m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1288</video:duration>
-    <video:publication_date>2026-02-28T01:34:34.000Z</video:publication_date>
-    <video:uploader>hazelnutroa</video:uploader>
-    <video:expiration_date>2026-03-08T01:34:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
