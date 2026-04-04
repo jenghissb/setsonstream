@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/dark-winter-2026/set/101234895/</loc>
-  <lastmod>2026-04-04T20:32:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/springs-edge-2026/set/101235601/</loc>
+  <lastmod>2026-04-04T21:07:26.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879895/image-a45f1291fcfe59909674f5bf5d9a9387.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bari vs TestedGnu, Springs Edge 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bari vs TestedGnu in Winners Semi-Final of Springs Edge 2026, streamed by edgegamerslounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739906670&amp;t=3h8m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1334</video:duration>
+    <video:publication_date>2026-04-04T21:07:26.000Z</video:publication_date>
+    <video:uploader>edgegamerslounge</video:uploader>
+    <video:expiration_date>2026-04-12T21:07:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/dark-winter-2026/set/101234895/</loc>
+  <lastmod>2026-04-04T21:11:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,40 +42,16 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739712433&amp;t=7h23m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1515</video:duration>
+    <video:duration>383</video:duration>
     <video:publication_date>2026-04-04T20:32:25.000Z</video:publication_date>
     <video:uploader>fighters_arg</video:uploader>
     <video:expiration_date>2026-04-12T20:32:25.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/royal-stampede-2026/set/101229266/</loc>
-  <lastmod>2026-04-04T20:29:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889072/image-474d40d66ada05610b37fcad91595a0d.png
-    </video:thumbnail_loc>
-    <video:title>
-      LeviHakai vs tdog02, Royal Stampede 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LeviHakai vs tdog02 in Grand Final of Royal Stampede 2026, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2739920285&amp;t=2h13m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1663</video:duration>
-    <video:publication_date>2026-04-04T20:29:57.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-04-12T20:29:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-deep-end-13/set/101233494/</loc>
-  <lastmod>2026-04-04T20:31:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-04T21:11:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739983444&amp;t=0h58m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1591</video:duration>
+    <video:duration>596</video:duration>
     <video:publication_date>2026-04-04T20:31:09.000Z</video:publication_date>
     <video:uploader>olemissesports</video:uploader>
     <video:expiration_date>2026-04-12T20:31:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/royal-stampede-2026/set/101229266/</loc>
+  <lastmod>2026-04-04T21:11:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889072/image-474d40d66ada05610b37fcad91595a0d.png
+    </video:thumbnail_loc>
+    <video:title>
+      LeviHakai vs tdog02, Royal Stampede 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LeviHakai vs tdog02 in Grand Final of Royal Stampede 2026, streamed by CollisionSeriesTV2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739920285&amp;t=2h13m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>697</video:duration>
+    <video:publication_date>2026-04-04T20:29:57.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV2</video:uploader>
+    <video:expiration_date>2026-04-12T20:29:57.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-07T12:10:17.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2026-03-15T12:10:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-27/set/100136401/</loc>
-  <lastmod>2026-03-07T12:14:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879173/image-db74c42da5ad4f9f4bbb1ef05b802f5c.png
-    </video:thumbnail_loc>
-    <video:title>
-      elieatscrayons vs Ocean, Drive Theory 27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch elieatscrayons vs Ocean in Losers Semi-Final of Drive Theory 27, streamed by itschandarin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716068824&amp;t=1h30m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>534</video:duration>
-    <video:publication_date>2026-03-07T11:43:09.000Z</video:publication_date>
-    <video:uploader>itschandarin</video:uploader>
-    <video:expiration_date>2026-03-15T11:43:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
