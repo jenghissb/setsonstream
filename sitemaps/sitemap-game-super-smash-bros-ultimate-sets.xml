@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/4-425/set/101203222/</loc>
-  <lastmod>2026-04-04T08:17:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/4-425/set/101203285/</loc>
+  <lastmod>2026-04-04T08:42:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896148/image-87f0559a56354fd5ea6786e544cc08c5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      かたまり(katamari) vs なこ(nako), 4(土)上野スマコミ#425(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch かたまり(katamari) vs なこ(nako) in Losers Semi-Final of 4(土)上野スマコミ#425(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/channel/UC0CNxYESc0khvnecH7pKS2Q
+    </video:player_loc>
+    <video:duration>1426</video:duration>
+    <video:publication_date>2026-04-04T08:42:49.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-04-12T08:42:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/4-425/set/101203222/</loc>
+  <lastmod>2026-04-04T08:37:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/rUxnQqSEzI8?start=12939s
     </video:player_loc>
-    <video:duration>422</video:duration>
+    <video:duration>969</video:duration>
     <video:publication_date>2026-04-04T08:17:00.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2026-04-12T08:17:00.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-28T01:34:50.000Z</video:publication_date>
     <video:uploader>southjerseyunderground</video:uploader>
     <video:expiration_date>2026-04-05T01:34:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-station-115-1/set/100908706/</loc>
-  <lastmod>2026-03-28T01:59:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/894525/image-251ecaf2e530cabb0bc5f0e5d5071cd7.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PLG | SKPeter vs PLG | Norun, Smash Station #115 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PLG | SKPeter vs PLG | Norun in Grand Final of Smash Station #115, streamed by teampolygonbr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733403518&amp;t=2h15m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1061</video:duration>
-    <video:publication_date>2026-03-28T01:33:39.000Z</video:publication_date>
-    <video:uploader>teampolygonbr</video:uploader>
-    <video:expiration_date>2026-04-05T01:33:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
