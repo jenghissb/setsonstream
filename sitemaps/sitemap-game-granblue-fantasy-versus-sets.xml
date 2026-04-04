@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-10/set/101212035/</loc>
+  <lastmod>2026-04-04T15:31:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889527/image-5880483f271b02ffa6c575942fde2815.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yuan vs Hatsune Miku | Shrayzz, Arca-Sys #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yuan vs Hatsune Miku | Shrayzz in Losers Quarter-Final of Arca-Sys #10, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739669283&amp;t=3h40m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1045</video:duration>
+    <video:publication_date>2026-04-04T15:31:18.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-04-12T15:31:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/reignited-98/set/101191374/</loc>
   <lastmod>2026-04-04T03:03:27.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-25T03:53:25.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2026-03-05T03:53:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-54/set/99607039/</loc>
-  <lastmod>2026-02-22T01:29:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860126/image-dff3e9feca2bba562aa626d8950469e0.png
-    </video:thumbnail_loc>
-    <video:title>
-      DEUS | Incendiate vs Paid Actor, Lunatic Perilune #54 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DEUS | Incendiate vs Paid Actor in Grand Final of Lunatic Perilune #54, streamed by lunarphaselive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2704139548&amp;t=3h19m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>500</video:duration>
-    <video:publication_date>2026-02-22T01:07:40.000Z</video:publication_date>
-    <video:uploader>lunarphaselive</video:uploader>
-    <video:expiration_date>2026-03-02T01:07:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
