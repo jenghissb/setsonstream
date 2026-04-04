@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/umass-games-5/set/101220676/</loc>
-  <lastmod>2026-04-04T18:22:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/umass-games-5/set/101220738/</loc>
+  <lastmod>2026-04-04T18:58:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889414/image-3e6ac82093d59a45905c98c27538474d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Deron vs Dolan, UMass Games 5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Deron vs Dolan in Losers Quarter-Final of UMass Games 5, streamed by umassdsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739870085&amp;t=1h45m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1390</video:duration>
+    <video:publication_date>2026-04-04T18:58:03.000Z</video:publication_date>
+    <video:uploader>umassdsmash</video:uploader>
+    <video:expiration_date>2026-04-12T18:58:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/umass-games-5/set/101220676/</loc>
+  <lastmod>2026-04-04T19:05:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739870085&amp;t=1h10m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>862</video:duration>
+    <video:duration>1033</video:duration>
     <video:publication_date>2026-04-04T18:22:48.000Z</video:publication_date>
     <video:uploader>umassdsmash</video:uploader>
     <video:expiration_date>2026-04-12T18:22:48.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-28T20:06:06.000Z</video:publication_date>
     <video:uploader>ToulouseLastStock</video:uploader>
     <video:expiration_date>2026-03-08T20:06:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-7-regional-event/set/99886619/</loc>
-  <lastmod>2026-02-28T20:29:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871331/image-c5021a9bc2fedb70fff5f67ee8ed5932.png
-    </video:thumbnail_loc>
-    <video:title>
-      FS | Jelato vs SBAB | Avocado, Rivals Uncaged #7 - Regional Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FS | Jelato vs SBAB | Avocado in Round 4 of Rivals Uncaged #7 - Regional Event, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710280929&amp;t=0h40m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>834</video:duration>
-    <video:publication_date>2026-02-28T20:01:59.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2026-03-08T20:01:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

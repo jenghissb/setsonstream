@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/royal-stampede-2026/set/101221210/</loc>
-  <lastmod>2026-04-04T18:17:37.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/dal-dungeon-76/set/101226880/</loc>
+  <lastmod>2026-04-04T18:47:07.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898566/image-bea8c8f278a8ca50a05f42037478a07e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Olipop vs Jimbo Johnson, DAL DUNGEON #76 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Olipop vs Jimbo Johnson in Winners Semi-Final of DAL DUNGEON #76, streamed by swagonium
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739926200&amp;t=0h23m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2046</video:duration>
+    <video:publication_date>2026-04-04T18:47:07.000Z</video:publication_date>
+    <video:uploader>swagonium</video:uploader>
+    <video:expiration_date>2026-04-12T18:47:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/royal-stampede-2026/set/101221210/</loc>
+  <lastmod>2026-04-04T18:50:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739920285&amp;t=0h1m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1173</video:duration>
+    <video:duration>353</video:duration>
     <video:publication_date>2026-04-04T18:17:37.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV2</video:uploader>
     <video:expiration_date>2026-04-12T18:17:37.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-07T08:18:11.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2026-03-15T08:18:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-27/set/100133988/</loc>
-  <lastmod>2026-03-07T07:58:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879173/image-db74c42da5ad4f9f4bbb1ef05b802f5c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chun Fun vs DJ_FLICKERZ, Drive Theory 27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chun Fun vs DJ_FLICKERZ in Winners Round 2 of Drive Theory 27, streamed by itschandarin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716007791&amp;t=0h2m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>760</video:duration>
-    <video:publication_date>2026-03-07T07:31:01.000Z</video:publication_date>
-    <video:uploader>itschandarin</video:uploader>
-    <video:expiration_date>2026-03-15T07:31:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
