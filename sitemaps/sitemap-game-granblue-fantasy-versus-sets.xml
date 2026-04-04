@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-10/set/101212035/</loc>
-  <lastmod>2026-04-04T15:31:18.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-10/set/101212006/</loc>
+  <lastmod>2026-04-04T15:55:43.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889527/image-5880483f271b02ffa6c575942fde2815.png
+    </video:thumbnail_loc>
+    <video:title>
+      Melliodama vs Justplay, Arca-Sys #10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Melliodama vs Justplay in Winners Final of Arca-Sys #10, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739669283&amp;t=4h4m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2164</video:duration>
+    <video:publication_date>2026-04-04T15:55:43.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-04-12T15:55:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-10/set/101212035/</loc>
+  <lastmod>2026-04-04T16:03:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739669283&amp;t=3h40m32s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1045</video:duration>
+    <video:duration>504</video:duration>
     <video:publication_date>2026-04-04T15:31:18.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-04-12T15:31:18.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-25T04:27:22.000Z</video:publication_date>
     <video:uploader>kcmagicpixel</video:uploader>
     <video:expiration_date>2026-03-05T04:27:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/magic-pixel-weekly-139/set/99748673/</loc>
-  <lastmod>2026-02-25T04:08:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/875891/image-2e1c6dca5bfce7e55d252b498c09b7ed.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kikirin vs K村(K mura), Magic Pixel Weekly #139 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kikirin vs K村(K mura) in Losers Semi-Final of Magic Pixel Weekly #139, streamed by kcmagicpixel
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2707021126&amp;t=1h14m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>286</video:duration>
-    <video:publication_date>2026-02-25T03:53:25.000Z</video:publication_date>
-    <video:uploader>kcmagicpixel</video:uploader>
-    <video:expiration_date>2026-03-05T03:53:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
