@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/springs-edge-2026/set/101223291/</loc>
+  <lastmod>2026-04-04T19:48:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879895/image-a45f1291fcfe59909674f5bf5d9a9387.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bryce vs Great Fireball, Springs Edge 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bryce vs Great Fireball in Winners Quarter-Final of Springs Edge 2026, streamed by edgegamerslounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739906670&amp;t=1h49m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>377</video:duration>
+    <video:publication_date>2026-04-04T19:48:34.000Z</video:publication_date>
+    <video:uploader>edgegamerslounge</video:uploader>
+    <video:expiration_date>2026-04-12T19:48:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/arca-sys-10/set/101209487/</loc>
   <lastmod>2026-04-04T15:03:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-28T04:46:10.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2026-03-08T04:46:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-night-live-os-5/set/99854529/</loc>
-  <lastmod>2026-02-28T04:51:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871332/image-95f1c08181473eb245b74c9cb429de3f.png
-    </video:thumbnail_loc>
-    <video:title>
-      dig vs ANGL | Seri, Fight Night Live @ OS #5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch dig vs ANGL | Seri in Losers Quarter-Final of Fight Night Live @ OS #5, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2709565755&amp;t=3h42m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1193</video:duration>
-    <video:publication_date>2026-02-28T04:25:51.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2026-03-08T04:25:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
