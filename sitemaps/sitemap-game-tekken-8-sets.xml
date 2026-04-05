@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/springs-edge-2026/set/101243526/</loc>
-  <lastmod>2026-04-04T23:08:16.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/springs-edge-2026/set/101243529/</loc>
+  <lastmod>2026-04-04T23:35:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879895/image-a45f1291fcfe59909674f5bf5d9a9387.png
+    </video:thumbnail_loc>
+    <video:title>
+      Great Fireball vs squibknocker, Springs Edge 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Great Fireball vs squibknocker in Losers Final of Springs Edge 2026, streamed by edgegamerslounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2739906670&amp;t=5h36m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1318</video:duration>
+    <video:publication_date>2026-04-04T23:35:42.000Z</video:publication_date>
+    <video:uploader>edgegamerslounge</video:uploader>
+    <video:expiration_date>2026-04-12T23:35:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/springs-edge-2026/set/101243526/</loc>
+  <lastmod>2026-04-04T23:46:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739906670&amp;t=5h8m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1289</video:duration>
+    <video:duration>774</video:duration>
     <video:publication_date>2026-04-04T23:08:16.000Z</video:publication_date>
     <video:uploader>edgegamerslounge</video:uploader>
     <video:expiration_date>2026-04-12T23:08:16.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/electric-city-showdown-s4-ep3/set/101246165/</loc>
-  <lastmod>2026-04-04T22:59:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-04T23:46:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2739897515&amp;t=5h9m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1844</video:duration>
+    <video:duration>1015</video:duration>
     <video:publication_date>2026-04-04T22:59:01.000Z</video:publication_date>
     <video:uploader>ecityshowdown</video:uploader>
     <video:expiration_date>2026-04-12T22:59:01.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-06T18:41:58.000Z</video:publication_date>
     <video:uploader>haseh</video:uploader>
     <video:expiration_date>2026-03-14T18:41:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/button-festival-2026/set/100091473/</loc>
-  <lastmod>2026-03-06T18:48:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880348/image-16445b6664886170b91f051f0d9f1d53.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      plan-C | Saix vs Asynchronous, Button Festival 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch plan-C | Saix vs Asynchronous in Round 1 of Button Festival 2026, streamed by haseh
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2715345154&amp;t=1h42m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1114</video:duration>
-    <video:publication_date>2026-03-06T18:08:00.000Z</video:publication_date>
-    <video:uploader>haseh</video:uploader>
-    <video:expiration_date>2026-03-14T18:08:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
