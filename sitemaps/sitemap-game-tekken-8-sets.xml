@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/frequency-12/set/101257697/</loc>
+  <lastmod>2026-04-05T04:38:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889267/image-cf96a0068739869861b80a25f4aade71.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Abel809! vs hyperion$, Frequency #12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Abel809! vs hyperion$ in Grand Final of Frequency #12, streamed by Vermilion_Series
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2740188227&amp;t=2h11m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-04-05T02:36:06.000Z</video:publication_date>
+    <video:uploader>Vermilion_Series</video:uploader>
+    <video:expiration_date>2026-04-13T02:36:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/frequency-12/set/101257728/</loc>
+  <lastmod>2026-04-05T02:54:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889267/image-cf96a0068739869861b80a25f4aade71.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FYR | Slacker vs hyperion$, Frequency #12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FYR | Slacker vs hyperion$ in Losers Final of Frequency #12, streamed by Vermilion_Series
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2740188227&amp;t=1h57m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>828</video:duration>
+    <video:publication_date>2026-04-05T02:22:05.000Z</video:publication_date>
+    <video:uploader>Vermilion_Series</video:uploader>
+    <video:expiration_date>2026-04-13T02:22:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/frequency-12/set/101257690/</loc>
   <lastmod>2026-04-05T01:25:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8350,54 +8398,6 @@
     <video:publication_date>2026-03-07T03:56:20.000Z</video:publication_date>
     <video:uploader>flynnsarcadefl</video:uploader>
     <video:expiration_date>2026-03-15T03:56:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/flynn-s-arcade-184/set/100123994/</loc>
-  <lastmod>2026-03-07T04:03:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887249/image-d782e76fed90a630bc2733d8373403b5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MCV vs TLT/THC | Nonenity, Flynn&apos;s Arcade 184 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MCV vs TLT/THC | Nonenity in Winners Semi-Final of Flynn&apos;s Arcade 184, streamed by flynnsarcadefl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2715827483&amp;t=0h54m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>571</video:duration>
-    <video:publication_date>2026-03-07T03:22:58.000Z</video:publication_date>
-    <video:uploader>flynnsarcadefl</video:uploader>
-    <video:expiration_date>2026-03-15T03:22:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/button-festival-2026/set/100095700/</loc>
-  <lastmod>2026-03-06T19:45:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880348/image-16445b6664886170b91f051f0d9f1d53.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Asynchronous vs Luke, Button Festival 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Asynchronous vs Luke in Losers Round 1 of Button Festival 2026, streamed by haseh
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2715345154&amp;t=2h47m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>304</video:duration>
-    <video:publication_date>2026-03-06T19:12:30.000Z</video:publication_date>
-    <video:uploader>haseh</video:uploader>
-    <video:expiration_date>2026-03-14T19:12:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
