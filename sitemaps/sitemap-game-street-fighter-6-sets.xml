@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/inferno-rumble-1/set/101283651/</loc>
+  <lastmod>2026-04-05T22:48:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892119/image-87ee797cd2ff2fe43c387c31e5ad7d4f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Seanwhy vs Bracket Demons | Exia, Inferno Rumble #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Seanwhy vs Bracket Demons | Exia in Winners Round 3 of Inferno Rumble #1, streamed by BracketDemons
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2740889577&amp;t=1h46m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1035</video:duration>
+    <video:publication_date>2026-04-05T22:48:58.000Z</video:publication_date>
+    <video:uploader>BracketDemons</video:uploader>
+    <video:expiration_date>2026-04-13T22:48:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bewhiskered-2026/set/101274767/</loc>
   <lastmod>2026-04-05T17:12:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-08T00:46:31.000Z</video:publication_date>
     <video:uploader>TheXButton</video:uploader>
     <video:expiration_date>2026-03-16T00:46:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6-segunda-etapa/set/100150133/</loc>
-  <lastmod>2026-03-08T00:17:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887337/image-3502bf1e164369d6414275e4790d6b4d.png
-    </video:thumbnail_loc>
-    <video:title>
-      2G | Zangief_bolado vs 2Game | Dragon_Legend, Kabum Fight Club - Street Fighter 6 - Segunda etapa - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 2G | Zangief_bolado vs 2Game | Dragon_Legend in Grand Final of Kabum Fight Club - Street Fighter 6 - Segunda etapa, streamed by fgcsaopaulo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716440926&amp;t=2h38m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>729</video:duration>
-    <video:publication_date>2026-03-07T22:29:48.000Z</video:publication_date>
-    <video:uploader>fgcsaopaulo</video:uploader>
-    <video:expiration_date>2026-03-15T22:29:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
