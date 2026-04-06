@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-mondays-the-guild-25/set/101303013/</loc>
+  <lastmod>2026-04-06T23:18:39.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899082/image-c329aa68dcbe0f67c26ed3863d7a6459.png
+    </video:thumbnail_loc>
+    <video:title>
+      MKE | Nephenee vs JD, Melee Mondays @ The Guild #25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MKE | Nephenee vs JD in Round 1 of Melee Mondays @ The Guild #25, streamed by theguildtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2741757040&amp;t=0h12m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>857</video:duration>
+    <video:publication_date>2026-04-06T23:18:39.000Z</video:publication_date>
+    <video:uploader>theguildtv</video:uploader>
+    <video:expiration_date>2026-04-14T23:18:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/socal-melee-arcadian-2026/set/101255785/</loc>
   <lastmod>2026-04-05T05:12:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-14T00:14:29.000Z</video:publication_date>
     <video:uploader>slte_nj</video:uploader>
     <video:expiration_date>2026-03-22T00:14:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wolfie-wars-66/set/100367457/</loc>
-  <lastmod>2026-03-14T00:50:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/891164/image-a3bf56d21cc6f52494d2a3f0533e0880.png
-    </video:thumbnail_loc>
-    <video:title>
-      SBU | TYBG | Keegan vs PSG | Petrikov, Wolfie Wars 66 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SBU | TYBG | Keegan vs PSG | Petrikov in Winners Semi-Final of Wolfie Wars 66, streamed by sbumelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2721637317&amp;t=0h53m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>967</video:duration>
-    <video:publication_date>2026-03-14T00:01:45.000Z</video:publication_date>
-    <video:uploader>sbumelee</video:uploader>
-    <video:expiration_date>2026-03-22T00:01:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
