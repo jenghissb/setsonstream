@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-263/set/101318011/</loc>
-  <lastmod>2026-04-07T09:13:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-263/set/101318038/</loc>
+  <lastmod>2026-04-07T10:25:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899245/image-3e043bc75a4f0f1c1651a084fe7841a4.png
+    </video:thumbnail_loc>
+    <video:title>
+      yellow vs Con_Gaming, WeeklyVac #263 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch yellow vs Con_Gaming in Winners Semi-Final of WeeklyVac #263, streamed by Urvogel38
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2742031947&amp;t=2h47m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>544</video:duration>
+    <video:publication_date>2026-04-07T10:25:49.000Z</video:publication_date>
+    <video:uploader>Urvogel38</video:uploader>
+    <video:expiration_date>2026-04-15T10:25:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-263/set/101318011/</loc>
+  <lastmod>2026-04-07T09:33:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2742031947&amp;t=1h35m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>436</video:duration>
+    <video:duration>882</video:duration>
     <video:publication_date>2026-04-07T09:13:52.000Z</video:publication_date>
     <video:uploader>Urvogel38</video:uploader>
     <video:expiration_date>2026-04-15T09:13:52.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-03-29T05:54:31.000Z</video:publication_date>
     <video:uploader>cloomevents</video:uploader>
     <video:expiration_date>2026-04-06T05:54:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/west-side-smash-32-1/set/101009965/</loc>
-  <lastmod>2026-03-29T05:57:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/894139/image-e6d38270ae662fa2fc64571dbb35a656.png
-    </video:thumbnail_loc>
-    <video:title>
-      BG | BBW vs SAUCELESS | Daqupel, West Side Smash 32 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BG | BBW vs SAUCELESS | Daqupel in Winners Quarter-Final of West Side Smash 32, streamed by thehotspotgamingcafe
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734505674&amp;t=1h30m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>296</video:duration>
-    <video:publication_date>2026-03-29T05:48:11.000Z</video:publication_date>
-    <video:uploader>thehotspotgamingcafe</video:uploader>
-    <video:expiration_date>2026-04-06T05:48:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
