@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-429/set/101313291/</loc>
+  <lastmod>2026-04-07T02:22:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897709/image-c4f40e96f290f1e6fab98a02ae9cde80.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TS | GIN | | O.T.K. vs Worth33, Downtown Throwdown #429 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TS | GIN | | O.T.K. vs Worth33 in Winners Round 1 of Downtown Throwdown #429, streamed by KhanmandoFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2741788388&amp;t=1h57m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>401</video:duration>
+    <video:publication_date>2026-04-07T01:49:44.000Z</video:publication_date>
+    <video:uploader>KhanmandoFGC</video:uploader>
+    <video:expiration_date>2026-04-15T01:49:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/chains-of-fate-monthly-20-a-chain-shift-2026-event/set/101289827/</loc>
   <lastmod>2026-04-06T04:00:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-07T05:23:38.000Z</video:publication_date>
     <video:uploader>tk_scooter</video:uploader>
     <video:expiration_date>2026-03-15T05:23:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-110/set/100129220/</loc>
-  <lastmod>2026-03-07T05:32:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/883765/image-7db22ab22b12b4ccfa040bcd3733c5f3.png
-    </video:thumbnail_loc>
-    <video:title>
-      SR | Virgoux vs CHAIN SHIFT | Commmanda Panda, SoCal Colosseum #110 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SR | Virgoux vs CHAIN SHIFT | Commmanda Panda in Winners Quarter-Final of SoCal Colosseum #110, streamed by tk_scooter
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2715880561&amp;t=1h26m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>576</video:duration>
-    <video:publication_date>2026-03-07T05:02:45.000Z</video:publication_date>
-    <video:uploader>tk_scooter</video:uploader>
-    <video:expiration_date>2026-03-15T05:02:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
