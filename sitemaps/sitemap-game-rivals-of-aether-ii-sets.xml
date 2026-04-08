@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-18/set/101353216/</loc>
+  <lastmod>2026-04-08T18:30:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898771/image-4d19b7f08de32082de930a3d153111ff.png
+    </video:thumbnail_loc>
+    <video:title>
+      pupimochi vs PlatCamp | LuigiTuah, Platform Camp #18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch pupimochi vs PlatCamp | LuigiTuah in Winners Quarter-Final of Platform Camp #18, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2743109758&amp;t=0h26m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>690</video:duration>
+    <video:publication_date>2026-04-08T17:58:02.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-04-16T17:58:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/get-reel-take-10/set/101244249/</loc>
   <lastmod>2026-04-05T00:23:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-02-28T20:48:21.000Z</video:publication_date>
     <video:uploader>TheBryciestBoy</video:uploader>
     <video:expiration_date>2026-03-08T20:48:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/chandelan-3-2026/set/99878550/</loc>
-  <lastmod>2026-02-28T21:01:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867883/image-697eebd35ff36922efbdafe92443c084.png
-    </video:thumbnail_loc>
-    <video:title>
-      Blacksushi vs TLSE | Evolt, ChandeLAN 3 - 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Blacksushi vs TLSE | Evolt in Losers Quarter-Final of ChandeLAN 3 - 2026, streamed by ToulouseLastStock
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710264341&amp;t=1h33m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1260</video:duration>
-    <video:publication_date>2026-02-28T20:37:08.000Z</video:publication_date>
-    <video:uploader>ToulouseLastStock</video:uploader>
-    <video:expiration_date>2026-03-08T20:37:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
