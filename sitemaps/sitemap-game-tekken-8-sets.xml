@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-93-grand-reopening-week/set/101367319/</loc>
+  <lastmod>2026-04-09T04:04:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898894/image-21895a2888d8b035482499f1c62ee677.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      O.N.2 vs JJBREEZE, 4o4 by Sh33rz: Tekken 8 #93 Grand Reopening Week - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch O.N.2 vs JJBREEZE in Losers Final of 4o4 by Sh33rz: Tekken 8 #93 Grand Reopening Week, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2743396638&amp;t=3h10m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1052</video:duration>
+    <video:publication_date>2026-04-09T03:24:35.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2026-04-17T03:24:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-93-grand-reopening-week/set/101367318/</loc>
-  <lastmod>2026-04-09T03:12:38.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-09T03:40:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2743396638&amp;t=2h58m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1029</video:duration>
+    <video:duration>708</video:duration>
     <video:publication_date>2026-04-09T03:12:38.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-04-17T03:12:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/stun-city-04-08-2026-t8-sf6-ff-and-casuals/set/101360651/</loc>
-  <lastmod>2026-04-09T01:32:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/899344/image-6260ee5acf791da2c7265ee154daf773.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      NSFW | ~YUUMA~ Drakidus vs YCR | Pok8, Stun City 04/08/2026 - T8, SF6, FF and casuals - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NSFW | ~YUUMA~ Drakidus vs YCR | Pok8 in Grand Final Reset of Stun City 04/08/2026 - T8, SF6, FF and casuals, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=torontotoptiers&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-04-09T01:32:57.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2026-04-17T01:32:57.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8398,30 +8398,6 @@
     <video:publication_date>2026-03-08T00:53:44.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2026-03-16T00:53:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/fight-night-live-3d/set/100184678/</loc>
-  <lastmod>2026-03-08T01:04:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877937/image-47e30db798d2d04cd5078020e30b87ba.png
-    </video:thumbnail_loc>
-    <video:title>
-      bogura vs iron grid | gary, Fight Night Live 3D - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bogura vs iron grid | gary in Losers Quarter-Final of Fight Night Live 3D, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716440261&amp;t=4h34m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>597</video:duration>
-    <video:publication_date>2026-03-08T00:24:57.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2026-03-16T00:24:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
