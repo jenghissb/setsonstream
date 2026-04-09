@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-64-guilty-gear-strive/set/101394538/</loc>
+  <lastmod>2026-04-09T22:52:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898572/image-31ac4dc993ca82fe27212a91a74f86dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      OMG | SGifto73 vs OMG The Lash | [Adjective] Ruffian, Just Mids #64: Guilty Gear Strive - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OMG | SGifto73 vs OMG The Lash | [Adjective] Ruffian in Winners Quarter-Final of Just Mids #64: Guilty Gear Strive, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2744105794&amp;t=0h32m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>975</video:duration>
+    <video:publication_date>2026-04-09T22:52:28.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-04-17T22:52:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-235-did-you-wish-the-easter-bunny-boiler-happy-birthday/set/101332843/</loc>
   <lastmod>2026-04-08T02:57:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-01T02:55:02.000Z</video:publication_date>
     <video:uploader>paragonfgc</video:uploader>
     <video:expiration_date>2026-03-09T02:55:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-14-back-to-basics/set/99927032/</loc>
-  <lastmod>2026-03-01T03:14:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876059/image-b642b34289904897f87588fbaeb58644.png
-    </video:thumbnail_loc>
-    <video:title>
-      Manoueverable vs StrawbsSystem, Backstreet Brawl #14 - Back to Basics - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Manoueverable vs StrawbsSystem in Losers Round 4 of Backstreet Brawl #14 - Back to Basics, streamed by SatelliteFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710450656&amp;t=4h14m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>621</video:duration>
-    <video:publication_date>2026-03-01T02:50:50.000Z</video:publication_date>
-    <video:uploader>SatelliteFighters</video:uploader>
-    <video:expiration_date>2026-03-09T02:50:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
