@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/9-429/set/101376812/</loc>
-  <lastmod>2026-04-09T12:59:11.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/lounge-angle-nrw-cup-edition/set/101377586/</loc>
+  <lastmod>2026-04-09T14:55:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899119/image-0e64e6886a9a88db456e8d4335ee3fcd.png
+    </video:thumbnail_loc>
+    <video:title>
+      LES / SCA | Nao vs 0-2dles, Lounge Angle: NRW Cup Edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LES / SCA | Nao vs 0-2dles in Winners Round 2 of Lounge Angle: NRW Cup Edition, streamed by 666weegee666
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=666weegee666&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>430</video:duration>
+    <video:publication_date>2026-04-09T14:55:33.000Z</video:publication_date>
+    <video:uploader>666weegee666</video:uploader>
+    <video:expiration_date>2026-04-17T14:55:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/9-429/set/101376813/</loc>
+  <lastmod>2026-04-09T13:46:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895073/image-9d8310db15eedde327c9a526ffb426d0.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BUZZ | ライトニングいがらし(BUZZ | raitoningu igarashi) vs うっしー(usshii), 9(木)上野スマコミ#429(オープン) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BUZZ | ライトニングいがらし(BUZZ | raitoningu igarashi) vs うっしー(usshii) in Grand Final Reset of 9(木)上野スマコミ#429(オープン), streamed by BUZZ e-sports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/QcikUThmbHg?start=10246s
+    </video:player_loc>
+    <video:duration>1416</video:duration>
+    <video:publication_date>2026-04-09T13:19:56.000Z</video:publication_date>
+    <video:uploader>BUZZ e-sports</video:uploader>
+    <video:expiration_date>2026-04-17T13:19:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/9-429/set/101376812/</loc>
+  <lastmod>2026-04-09T13:24:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/QcikUThmbHg?start=9001s
     </video:player_loc>
-    <video:duration>1118</video:duration>
+    <video:duration>1237</video:duration>
     <video:publication_date>2026-04-09T12:59:11.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2026-04-17T12:59:11.000Z</video:expiration_date>
@@ -71974,30 +72022,6 @@
     <video:publication_date>2026-03-31T00:21:08.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-04-08T00:21:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fusion-289/set/101065344/</loc>
-  <lastmod>2026-03-31T00:50:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895653/image-c78b2c91d1f57c1d1ba656aecf1e0848.png
-    </video:thumbnail_loc>
-    <video:title>
-      CS | LemonTio vs DelTa, Fusion #289 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CS | LemonTio vs DelTa in Winners Semi-Final of Fusion #289, streamed by CollisionSeriesTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2735925246&amp;t=1h45m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1487</video:duration>
-    <video:publication_date>2026-03-31T00:19:48.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV</video:uploader>
-    <video:expiration_date>2026-04-08T00:19:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
