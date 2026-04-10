@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-214-tekken-8-weekly-1/set/101411957/</loc>
+  <lastmod>2026-04-10T04:50:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898622/image-eee80ce2f45652cf039e72d31e054553.png
+    </video:thumbnail_loc>
+    <video:title>
+      FS | Flats vs Frag | NanditoTheBandito, Tech City Tekken #214 - Tekken 8 Weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FS | Flats vs Frag | NanditoTheBandito in Winners Round 2 of Tech City Tekken #214 - Tekken 8 Weekly, streamed by CapsuleEntertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2744343873&amp;t=0h46m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1128</video:duration>
+    <video:publication_date>2026-04-10T04:50:54.000Z</video:publication_date>
+    <video:uploader>CapsuleEntertainment</video:uploader>
+    <video:expiration_date>2026-04-18T04:50:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-93-grand-reopening-week/set/101367319/</loc>
   <lastmod>2026-04-09T04:04:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-08T01:02:24.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-03-16T01:02:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/fight-night-live-3d/set/100184680/</loc>
-  <lastmod>2026-03-08T01:35:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877937/image-47e30db798d2d04cd5078020e30b87ba.png
-    </video:thumbnail_loc>
-    <video:title>
-      bogura vs Ralerina, Fight Night Live 3D - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch bogura vs Ralerina in Losers Semi-Final of Fight Night Live 3D, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716440261&amp;t=5h3m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>905</video:duration>
-    <video:publication_date>2026-03-08T00:53:44.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2026-03-16T00:53:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
