@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-214-tekken-8-weekly-1/set/101411967/</loc>
+  <lastmod>2026-04-10T06:08:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898622/image-eee80ce2f45652cf039e72d31e054553.png
+    </video:thumbnail_loc>
+    <video:title>
+      JM04 vs dopeness, Tech City Tekken #214 - Tekken 8 Weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JM04 vs dopeness in Winners Semi-Final of Tech City Tekken #214 - Tekken 8 Weekly, streamed by CapsuleEntertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2744343873&amp;t=1h33m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>331</video:duration>
+    <video:publication_date>2026-04-10T05:38:36.000Z</video:publication_date>
+    <video:uploader>CapsuleEntertainment</video:uploader>
+    <video:expiration_date>2026-04-18T05:38:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-214-tekken-8-weekly-1/set/101411957/</loc>
-  <lastmod>2026-04-10T04:50:54.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-10T05:16:48.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2744343873&amp;t=0h46m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1128</video:duration>
+    <video:duration>581</video:duration>
     <video:publication_date>2026-04-10T04:50:54.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-04-18T04:50:54.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-08T01:26:18.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2026-03-16T01:26:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-infinite-oasis-3-7-2026/set/100194234/</loc>
-  <lastmod>2026-03-08T01:35:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880591/image-e24bf7362216013549d67dbf1fe8498c.png
-    </video:thumbnail_loc>
-    <video:title>
-      NO KINGS | CokeMilk vs ARK | Dro, The Infinite Oasis 3/7/2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NO KINGS | CokeMilk vs ARK | Dro in Winners Round 1 of The Infinite Oasis 3/7/2026, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716290812&amp;t=8h10m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>596</video:duration>
-    <video:publication_date>2026-03-08T01:02:24.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-03-16T01:02:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
