@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sumao2026-7/set/101414134/</loc>
-  <lastmod>2026-04-10T12:24:34.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893298/image-73d55f5e5688f547c825566cf72c45d3.png
-    </video:thumbnail_loc>
-    <video:title>
-      ゴンペン(gonpen) vs そうま(souma), スマ王/SumaO2026 #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ゴンペン(gonpen) vs そうま(souma) in Grand Final of スマ王/SumaO2026 #7, streamed by 無明遊者【イベント配信団体】
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/channel/UC6_rMQX2Djt8PKHmh6qCCog
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-04-10T12:24:34.000Z</video:publication_date>
-    <video:uploader>無明遊者【イベント配信団体】</video:uploader>
-    <video:expiration_date>2026-04-18T12:24:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/10-430/set/101414197/</loc>
   <lastmod>2026-04-10T13:32:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -190,6 +166,30 @@
     <video:publication_date>2026-04-10T12:27:05.000Z</video:publication_date>
     <video:uploader>スマイン-Smash 薬院-</video:uploader>
     <video:expiration_date>2026-04-18T12:27:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sumao2026-7/set/101414134/</loc>
+  <lastmod>2026-04-10T14:28:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893298/image-73d55f5e5688f547c825566cf72c45d3.png
+    </video:thumbnail_loc>
+    <video:title>
+      ゴンペン(gonpen) vs そうま(souma), スマ王/SumaO2026 #7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ゴンペン(gonpen) vs そうま(souma) in Grand Final of スマ王/SumaO2026 #7, streamed by 無明遊者【イベント配信団体】
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/SOvMmZ_HNMs?start=5488s
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-04-10T12:24:34.000Z</video:publication_date>
+    <video:uploader>無明遊者【イベント配信団体】</video:uploader>
+    <video:expiration_date>2026-04-18T12:24:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
