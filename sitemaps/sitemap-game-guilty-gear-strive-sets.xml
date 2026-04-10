@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-64-guilty-gear-strive/set/101394542/</loc>
+  <lastmod>2026-04-09T23:47:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898572/image-31ac4dc993ca82fe27212a91a74f86dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Stunstark vs OEMG | Kaneda, Just Mids #64: Guilty Gear Strive - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Stunstark vs OEMG | Kaneda in Winners Semi-Final of Just Mids #64: Guilty Gear Strive, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2744105794&amp;t=0h50m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>817</video:duration>
+    <video:publication_date>2026-04-09T23:10:26.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-04-17T23:10:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-64-guilty-gear-strive/set/101394538/</loc>
-  <lastmod>2026-04-09T22:52:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-09T23:19:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2744105794&amp;t=0h32m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>975</video:duration>
+    <video:duration>618</video:duration>
     <video:publication_date>2026-04-09T22:52:28.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-04-17T22:52:28.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-01T03:08:29.000Z</video:publication_date>
     <video:uploader>SatelliteFighters</video:uploader>
     <video:expiration_date>2026-03-09T03:08:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/winter-showdown-2026/set/99919616/</loc>
-  <lastmod>2026-03-01T03:14:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818672/image-6a4f615b0e3f3d5071e587f3caa49a38.png
-    </video:thumbnail_loc>
-    <video:title>
-      JKLY | AnchoredPrince vs BadMoon | Voltiyon, Winter Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JKLY | AnchoredPrince vs BadMoon | Voltiyon in Winners Semi-Final of Winter Showdown 2026, streamed by paragonfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710230046&amp;t=8h28m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>409</video:duration>
-    <video:publication_date>2026-03-01T02:55:02.000Z</video:publication_date>
-    <video:uploader>paragonfgc</video:uploader>
-    <video:expiration_date>2026-03-09T02:55:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
