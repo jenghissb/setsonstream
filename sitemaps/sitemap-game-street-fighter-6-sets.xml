@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-114/set/101457416/</loc>
+  <lastmod>2026-04-11T05:28:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896248/image-11134db6eba1c220c04319e05c0bb2ac.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      axlshingo vs Vita | noot, SoCal Colosseum #114 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch axlshingo vs Vita | noot in Grand Final of SoCal Colosseum #114, streamed by SoCalColosseum
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745113523&amp;t=2h28m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>715</video:duration>
+    <video:publication_date>2026-04-11T04:58:57.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum</video:uploader>
+    <video:expiration_date>2026-04-19T04:58:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-114/set/101457415/</loc>
-  <lastmod>2026-04-11T04:19:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-11T05:01:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2745113523&amp;t=1h49m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1029</video:duration>
+    <video:duration>914</video:duration>
     <video:publication_date>2026-04-11T04:19:53.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-04-19T04:19:53.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-14T05:23:48.000Z</video:publication_date>
     <video:uploader>bayareamadhouse</video:uploader>
     <video:expiration_date>2026-03-22T05:23:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-game-expo-2026-fgc-fighting-games-tournament/set/100389397/</loc>
-  <lastmod>2026-03-14T05:25:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851563/image-2969547def880daeb0134d339d6fa904.png
-    </video:thumbnail_loc>
-    <video:title>
-      ROF vs DOORKNOBS, The Game Expo 2026 FGC (Fighting Games Tournament) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ROF vs DOORKNOBS in Losers Quarter-Final of The Game Expo 2026 FGC (Fighting Games Tournament), streamed by Couchwarriors
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2721663896&amp;t=5h13m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>787</video:duration>
-    <video:publication_date>2026-03-14T04:56:29.000Z</video:publication_date>
-    <video:uploader>Couchwarriors</video:uploader>
-    <video:expiration_date>2026-03-22T04:56:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
