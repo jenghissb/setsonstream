@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/duke-it-out-4-2/set/101478213/</loc>
-  <lastmod>2026-04-11T15:16:25.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/brussels-gaming-fest-12/set/101474449/</loc>
+  <lastmod>2026-04-11T16:00:34.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897725/image-f920abbe947260b41789941efa6274af.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shadow | Queute vs Jean-Kloot, Brussels Gaming Fest 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shadow | Queute vs Jean-Kloot in Losers Round 6 of Brussels Gaming Fest 12, streamed by Uzuraka
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745411637&amp;t=2h41m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1996</video:duration>
+    <video:publication_date>2026-04-11T16:00:34.000Z</video:publication_date>
+    <video:uploader>Uzuraka</video:uploader>
+    <video:expiration_date>2026-04-19T16:00:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/duke-it-out-4-2/set/101478236/</loc>
+  <lastmod>2026-04-11T15:57:39.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867071/image-cfb76671b98ee1e5edde4bc414d82249.png
+    </video:thumbnail_loc>
+    <video:title>
+      EMPR | TropicTrickster vs Ahsas, Duke It Out 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EMPR | TropicTrickster vs Ahsas in Winners Quarter-Final of Duke It Out 4, streamed by Kmltournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745435954&amp;t=1h57m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2171</video:duration>
+    <video:publication_date>2026-04-11T15:57:39.000Z</video:publication_date>
+    <video:uploader>Kmltournaments</video:uploader>
+    <video:expiration_date>2026-04-19T15:57:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-6/set/101472107/</loc>
+  <lastmod>2026-04-11T15:31:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/894107/image-be947795f7202371ba76827d383250ef.png
+    </video:thumbnail_loc>
+    <video:title>
+      FTW | tomoeCunha vs tarte, Fight Or Fright #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FTW | tomoeCunha vs tarte in Grand Final Reset of Fight Or Fright #6, streamed by Locus_Crew
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Locus_Crew&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-04-11T15:31:27.000Z</video:publication_date>
+    <video:uploader>Locus_Crew</video:uploader>
+    <video:expiration_date>2026-04-19T15:31:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/duke-it-out-4-2/set/101478213/</loc>
+  <lastmod>2026-04-11T16:03:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2745435954&amp;t=1h16m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2377</video:duration>
+    <video:duration>433</video:duration>
     <video:publication_date>2026-04-11T15:16:25.000Z</video:publication_date>
     <video:uploader>Kmltournaments</video:uploader>
     <video:expiration_date>2026-04-19T15:16:25.000Z</video:expiration_date>
@@ -26,8 +98,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-or-fright-6/set/101472106/</loc>
-  <lastmod>2026-04-11T15:11:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-11T16:03:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,34 +114,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2745351306&amp;t=3h44m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2677</video:duration>
+    <video:duration>1198</video:duration>
     <video:publication_date>2026-04-11T15:11:25.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-04-19T15:11:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/czech-arcade-local-round-16/set/101479445/</loc>
-  <lastmod>2026-04-11T15:16:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888165/image-b5bdff840081d43613670cf9c519ac47.png
-    </video:thumbnail_loc>
-    <video:title>
-      MBACO | krackerlack vs Thrillho, Czech Arcade Local — Round 16 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MBACO | krackerlack vs Thrillho in Winners Semi-Final of Czech Arcade Local — Round 16, streamed by CzechArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=CzechArcade&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2353</video:duration>
-    <video:publication_date>2026-04-11T15:16:49.000Z</video:publication_date>
-    <video:uploader>CzechArcade</video:uploader>
-    <video:expiration_date>2026-04-19T15:16:49.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7174,54 +7222,6 @@
     <video:publication_date>2026-03-14T13:50:30.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-22T13:50:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sweetlake-shimmy-23-hosted-by-gamenest/set/100395274/</loc>
-  <lastmod>2026-03-14T14:21:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886382/image-6543d2f087158e7e25a4fe0a06201c5e.png
-    </video:thumbnail_loc>
-    <video:title>
-      RadiazOm vs Tuig, Sweetlake Shimmy #23 Hosted by Gamenest - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RadiazOm vs Tuig in Losers Semi-Final of Sweetlake Shimmy #23 Hosted by Gamenest, streamed by AlirezaFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722066160&amp;t=1h35m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>580</video:duration>
-    <video:publication_date>2026-03-14T13:46:55.000Z</video:publication_date>
-    <video:uploader>AlirezaFGC</video:uploader>
-    <video:expiration_date>2026-03-22T13:46:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sweetlake-shimmy-23-hosted-by-gamenest/set/100395273/</loc>
-  <lastmod>2026-03-14T13:54:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886382/image-6543d2f087158e7e25a4fe0a06201c5e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tuig vs w1sp, Sweetlake Shimmy #23 Hosted by Gamenest - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tuig vs w1sp in Losers Quarter-Final of Sweetlake Shimmy #23 Hosted by Gamenest, streamed by AlirezaFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722066160&amp;t=1h12m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>946</video:duration>
-    <video:publication_date>2026-03-14T13:23:52.000Z</video:publication_date>
-    <video:uploader>AlirezaFGC</video:uploader>
-    <video:expiration_date>2026-03-22T13:23:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
