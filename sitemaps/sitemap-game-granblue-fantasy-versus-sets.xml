@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/edinbrawl-v/set/101480348/</loc>
+  <lastmod>2026-04-11T17:13:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870316/image-b67014d338e29cbc27ce30d8f385c045.png
+    </video:thumbnail_loc>
+    <video:title>
+      RDE | Pizza time vs SSL | Billiestic Missile, EDINBRAWL V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RDE | Pizza time vs SSL | Billiestic Missile in Losers Round 1 of EDINBRAWL V, streamed by resetaberdeen
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745335510&amp;t=6h21m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2640</video:duration>
+    <video:publication_date>2026-04-11T17:13:44.000Z</video:publication_date>
+    <video:uploader>resetaberdeen</video:uploader>
+    <video:expiration_date>2026-04-19T17:13:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/edinbrawl-v/set/101480294/</loc>
   <lastmod>2026-04-11T16:09:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-28T18:51:44.000Z</video:publication_date>
     <video:uploader>fgcpucela</video:uploader>
     <video:expiration_date>2026-03-08T18:51:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-213-norcal-ssbu-ggst-gbvsr-uni2/set/99779375/</loc>
-  <lastmod>2026-02-26T05:29:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884651/image-416309fdcd9c59a9503297b20fb22794.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nyantic vs ChrisZ, Guildhouse Weekly 213 - Norcal SSBU, GGST, GBVSR, UNI2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nyantic vs ChrisZ in Grand Final of Guildhouse Weekly 213 - Norcal SSBU, GGST, GBVSR, UNI2, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2707905503&amp;t=1h39m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>646</video:duration>
-    <video:publication_date>2026-02-26T05:12:50.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-03-06T05:12:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
