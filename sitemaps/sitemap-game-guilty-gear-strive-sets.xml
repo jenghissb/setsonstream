@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/edinbrawl-v/set/101470854/</loc>
-  <lastmod>2026-04-11T11:26:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fight-club-by-nsxc/set/101473404/</loc>
+  <lastmod>2026-04-11T12:24:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870316/image-b67014d338e29cbc27ce30d8f385c045.png
+      https://images.start.gg/images/tournament/888657/image-d041a45e06cca5ea9efef82bc35282e3.png
     </video:thumbnail_loc>
     <video:title>
-      Patriarch Panda vs FFT | BigMassiveHuge, EDINBRAWL V - Sets on Stream
+      FFXIV | Dreekius vs Themajin972, FIGHT CLUB BY NSXC - Sets on Stream
     </video:title>
     <video:description>
-      Watch Patriarch Panda vs FFT | BigMassiveHuge in Winners Round 2 of EDINBRAWL V, streamed by resetaberdeen
+      Watch FFXIV | Dreekius vs Themajin972 in Winners Round 2 of FIGHT CLUB BY NSXC, streamed by flashno47
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745335510&amp;t=0h34m39s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2745355991&amp;t=0h46m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1710</video:duration>
-    <video:publication_date>2026-04-11T11:26:31.000Z</video:publication_date>
-    <video:uploader>resetaberdeen</video:uploader>
-    <video:expiration_date>2026-04-19T11:26:31.000Z</video:expiration_date>
+    <video:duration>1428</video:duration>
+    <video:publication_date>2026-04-11T12:24:20.000Z</video:publication_date>
+    <video:uploader>flashno47</video:uploader>
+    <video:expiration_date>2026-04-19T12:24:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/brussels-gaming-fest-12/set/101472836/</loc>
+  <lastmod>2026-04-11T12:43:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897725/image-f920abbe947260b41789941efa6274af.png
+    </video:thumbnail_loc>
+    <video:title>
+      M3taTank vs Gamza, Brussels Gaming Fest 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch M3taTank vs Gamza in Winners Round 1 of Brussels Gaming Fest 12, streamed by xenite12000
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745361150&amp;t=0h17m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>987</video:duration>
+    <video:publication_date>2026-04-11T12:06:44.000Z</video:publication_date>
+    <video:uploader>xenite12000</video:uploader>
+    <video:expiration_date>2026-04-19T12:06:44.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgca-monthly-april-2026/set/101470799/</loc>
-  <lastmod>2026-04-11T11:32:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-11T12:09:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2745329400&amp;t=0h57m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1339</video:duration>
+    <video:duration>659</video:duration>
     <video:publication_date>2026-04-11T11:32:42.000Z</video:publication_date>
     <video:uploader>FGCAARHUS</video:uploader>
     <video:expiration_date>2026-04-19T11:32:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/edinbrawl-v/set/101470854/</loc>
+  <lastmod>2026-04-11T12:09:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870316/image-b67014d338e29cbc27ce30d8f385c045.png
+    </video:thumbnail_loc>
+    <video:title>
+      Patriarch Panda vs FFT | BigMassiveHuge, EDINBRAWL V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Patriarch Panda vs FFT | BigMassiveHuge in Winners Round 2 of EDINBRAWL V, streamed by resetaberdeen
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745335510&amp;t=0h34m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>568</video:duration>
+    <video:publication_date>2026-04-11T11:26:31.000Z</video:publication_date>
+    <video:uploader>resetaberdeen</video:uploader>
+    <video:expiration_date>2026-04-19T11:26:31.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4750,54 +4798,6 @@
     <video:publication_date>2026-03-05T04:43:37.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-03-13T04:43:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pofc-86-gbvs-r-ggst/set/100052142/</loc>
-  <lastmod>2026-03-05T04:50:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887715/image-8ea570cb14f377b182b4857e6aeaf0a3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Frankentank vs rayplay, POFC 86 - GBVS:R &amp; GGST - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frankentank vs rayplay in Winners Final of POFC 86 - GBVS:R &amp; GGST, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2714079987&amp;t=2h25m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>753</video:duration>
-    <video:publication_date>2026-03-05T04:26:24.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-03-13T04:26:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-214-norcal-ssbu-ggst-weekly/set/100055463/</loc>
-  <lastmod>2026-03-05T04:50:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885840/image-a39f0a19426b172c2e8d9c53c4546c6c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FROG | Squid! vs radiance, Guildhouse Weekly 214 - Norcal SSBU &amp; GGST weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FROG | Squid! vs radiance in Winners Semi-Final of Guildhouse Weekly 214 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2714167545&amp;t=0h14m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>743</video:duration>
-    <video:publication_date>2026-03-05T04:19:14.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-03-13T04:19:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
