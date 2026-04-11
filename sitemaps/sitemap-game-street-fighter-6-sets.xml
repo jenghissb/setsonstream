@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sweetlake-shimmy-24-hosted-by-gamenest/set/101470516/</loc>
-  <lastmod>2026-04-11T11:03:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sweetlake-shimmy-24-hosted-by-gamenest/set/101470528/</loc>
+  <lastmod>2026-04-11T11:30:41.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896165/image-e4f72676adb6d13e66d91cc56ec55d10.png
+    </video:thumbnail_loc>
+    <video:title>
+      Blackbeard vs akselthecaptor, Sweetlake Shimmy #24 Hosted by Gamenest - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Blackbeard vs akselthecaptor in Winners Semi-Final of Sweetlake Shimmy #24 Hosted by Gamenest, streamed by AlirezaFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745334432&amp;t=0h41m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1460</video:duration>
+    <video:publication_date>2026-04-11T11:30:41.000Z</video:publication_date>
+    <video:uploader>AlirezaFGC</video:uploader>
+    <video:expiration_date>2026-04-19T11:30:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/sweetlake-shimmy-24-hosted-by-gamenest/set/101470516/</loc>
+  <lastmod>2026-04-11T11:37:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2745334432&amp;t=0h14m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1479</video:duration>
+    <video:duration>800</video:duration>
     <video:publication_date>2026-04-11T11:03:59.000Z</video:publication_date>
     <video:uploader>AlirezaFGC</video:uploader>
     <video:expiration_date>2026-04-19T11:03:59.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-14T06:02:38.000Z</video:publication_date>
     <video:uploader>Couchwarriors</video:uploader>
     <video:expiration_date>2026-03-22T06:02:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-game-expo-2026-fgc-fighting-games-tournament/set/100389399/</loc>
-  <lastmod>2026-03-14T06:16:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/851563/image-2969547def880daeb0134d339d6fa904.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sam White vs Schenkhan, The Game Expo 2026 FGC (Fighting Games Tournament) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sam White vs Schenkhan in Losers Final of The Game Expo 2026 FGC (Fighting Games Tournament), streamed by Couchwarriors
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2721663896&amp;t=6h4m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>888</video:duration>
-    <video:publication_date>2026-03-14T05:47:44.000Z</video:publication_date>
-    <video:uploader>Couchwarriors</video:uploader>
-    <video:expiration_date>2026-03-22T05:47:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
