@@ -1,27 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/maxout-04-11-26/set/101493619/</loc>
-  <lastmod>2026-04-11T19:57:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6-terceira-etapa/set/101502232/</loc>
+  <lastmod>2026-04-11T20:43:40.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887304/image-f7c88dcd5d07a9da5889392e143a7899.png
+      https://images.start.gg/images/tournament/890075/image-8c830987d0d17ed415ac063cbc4ecce6.png
     </video:thumbnail_loc>
     <video:title>
-      KCFGC | Kaytuesso vs CHINGOE, MAXOUT 04-11-26 - Sets on Stream
+      Gui_ vs Demitrix, Kabum Fight Club - Street Fighter 6 - Terceira etapa - Sets on Stream
     </video:title>
     <video:description>
-      Watch KCFGC | Kaytuesso vs CHINGOE in Losers Semi-Final of MAXOUT 04-11-26, streamed by Team_kc
+      Watch Gui_ vs Demitrix in Losers Round 1 of Kabum Fight Club - Street Fighter 6 - Terceira etapa, streamed by fgcsaopaulo
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=Team_kc&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2745531577&amp;t=4h19m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1941</video:duration>
-    <video:publication_date>2026-04-11T19:57:22.000Z</video:publication_date>
-    <video:uploader>Team_kc</video:uploader>
-    <video:expiration_date>2026-04-19T19:57:22.000Z</video:expiration_date>
+    <video:duration>1095</video:duration>
+    <video:publication_date>2026-04-11T20:43:40.000Z</video:publication_date>
+    <video:uploader>fgcsaopaulo</video:uploader>
+    <video:expiration_date>2026-04-19T20:43:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/volan-2026/set/101510927/</loc>
+  <lastmod>2026-04-11T20:45:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/841158/image-2cc3597d9d558d105a4406a7ed422903.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zombieguts vs Parkerdhe, Volan 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zombieguts vs Parkerdhe in Winners Quarter-Final of Volan 2026, streamed by scruffycityfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745740270&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>969</video:duration>
+    <video:publication_date>2026-04-11T20:45:46.000Z</video:publication_date>
+    <video:uploader>scruffycityfgc</video:uploader>
+    <video:expiration_date>2026-04-19T20:45:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7174,54 +7198,6 @@
     <video:publication_date>2026-03-15T23:38:32.000Z</video:publication_date>
     <video:uploader>FERVO_OFICIAL</video:uploader>
     <video:expiration_date>2026-03-23T23:38:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/iron-grid-xli/set/100452233/</loc>
-  <lastmod>2026-03-15T03:53:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877542/image-f64cfd8cebcbf06bc04b4d27323f2944.png
-    </video:thumbnail_loc>
-    <video:title>
-      LeviHakai vs ECHT | Young_matt_teen, Iron Grid XLI - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LeviHakai vs ECHT | Young_matt_teen in Grand Final of Iron Grid XLI, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722284111&amp;t=9h36m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>737</video:duration>
-    <video:publication_date>2026-03-15T03:23:59.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2026-03-23T03:23:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/iron-grid-xli/set/100452232/</loc>
-  <lastmod>2026-03-15T03:27:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877542/image-f64cfd8cebcbf06bc04b4d27323f2944.png
-    </video:thumbnail_loc>
-    <video:title>
-      ECHT | Young_matt_teen vs LeviHakai, Iron Grid XLI - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ECHT | Young_matt_teen vs LeviHakai in Winners Final of Iron Grid XLI, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722284111&amp;t=9h6m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>530</video:duration>
-    <video:publication_date>2026-03-15T02:53:42.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2026-03-23T02:53:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
