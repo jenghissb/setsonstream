@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/kaizurs-casino-2/set/101517343/</loc>
-  <lastmod>2026-04-11T21:40:34.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/maxout-04-11-26/set/101520667/</loc>
+  <lastmod>2026-04-11T22:32:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887304/image-f7c88dcd5d07a9da5889392e143a7899.png
+    </video:thumbnail_loc>
+    <video:title>
+      stinkbug vs BANBORGAR, MAXOUT 04-11-26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch stinkbug vs BANBORGAR in Winners Round 2 of MAXOUT 04-11-26, streamed by Team_kc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Team_kc&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1217</video:duration>
+    <video:publication_date>2026-04-11T22:32:52.000Z</video:publication_date>
+    <video:uploader>Team_kc</video:uploader>
+    <video:expiration_date>2026-04-19T22:32:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/kaizurs-casino-2/set/101517365/</loc>
+  <lastmod>2026-04-11T22:30:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +34,48 @@
       https://images.start.gg/images/tournament/896535/image-3849a57dbc0ec3f66ff7cb116e952cd4.png
     </video:thumbnail_loc>
     <video:title>
-      AQUA | Disciple vs Magik4 | The Joe of all Time, Kaizurs Casino #2 - Sets on Stream
+      The Mayor vs SWMG | Sergei Strokinov, Kaizurs Casino #2 - Sets on Stream
     </video:title>
     <video:description>
-      Watch AQUA | Disciple vs Magik4 | The Joe of all Time in Winners Round 1 of Kaizurs Casino #2, streamed by kaizurtv
+      Watch The Mayor vs SWMG | Sergei Strokinov in Winners Quarter-Final of Kaizurs Casino #2, streamed by kaizurtv
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745773477&amp;t=0h8m26s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2745773477&amp;t=0h58m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1386</video:duration>
-    <video:publication_date>2026-04-11T21:40:34.000Z</video:publication_date>
+    <video:duration>1344</video:duration>
+    <video:publication_date>2026-04-11T22:30:45.000Z</video:publication_date>
     <video:uploader>kaizurtv</video:uploader>
-    <video:expiration_date>2026-04-19T21:40:34.000Z</video:expiration_date>
+    <video:expiration_date>2026-04-19T22:30:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-48/set/101521745/</loc>
+  <lastmod>2026-04-11T22:20:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895986/image-95907b4ff7bdc7058141b8c7c15cffad.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      STG | Wasulu vs BtB | DWIN, Just Us Baddies 48 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch STG | Wasulu vs BtB | DWIN in Winners Semi-Final of Just Us Baddies 48, streamed by FXGames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745645416&amp;t=3h32m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1931</video:duration>
+    <video:publication_date>2026-04-11T22:20:58.000Z</video:publication_date>
+    <video:uploader>FXGames_gg</video:uploader>
+    <video:expiration_date>2026-04-19T22:20:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/kaizurs-casino-2/set/101517347/</loc>
-  <lastmod>2026-04-11T21:49:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-11T22:42:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2745773477&amp;t=0h17m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>844</video:duration>
+    <video:duration>513</video:duration>
     <video:publication_date>2026-04-11T21:49:36.000Z</video:publication_date>
     <video:uploader>kaizurtv</video:uploader>
     <video:expiration_date>2026-04-19T21:49:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/kaizurs-casino-2/set/101517343/</loc>
+  <lastmod>2026-04-11T22:42:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896535/image-3849a57dbc0ec3f66ff7cb116e952cd4.png
+    </video:thumbnail_loc>
+    <video:title>
+      AQUA | Disciple vs Magik4 | The Joe of all Time, Kaizurs Casino #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AQUA | Disciple vs Magik4 | The Joe of all Time in Winners Round 1 of Kaizurs Casino #2, streamed by kaizurtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745773477&amp;t=0h8m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1032</video:duration>
+    <video:publication_date>2026-04-11T21:40:34.000Z</video:publication_date>
+    <video:uploader>kaizurtv</video:uploader>
+    <video:expiration_date>2026-04-19T21:40:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8350,54 +8422,6 @@
     <video:publication_date>2026-03-12T00:24:52.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-03-20T00:24:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-143/set/100281854/</loc>
-  <lastmod>2026-03-11T02:52:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890055/image-f304ee8c822af9d14b9e199291e920db.png
-    </video:thumbnail_loc>
-    <video:title>
-      Food | Gamin&apos; On Ya! vs UA | PhatGawwd, HoG: Dragon #143 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Food | Gamin&apos; On Ya! vs UA | PhatGawwd in Grand Final of HoG: Dragon #143, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2719151790&amp;t=2h43m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1006</video:duration>
-    <video:publication_date>2026-03-11T02:12:10.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-03-19T02:12:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-143/set/100281885/</loc>
-  <lastmod>2026-03-11T02:27:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890055/image-f304ee8c822af9d14b9e199291e920db.png
-    </video:thumbnail_loc>
-    <video:title>
-      MTS | FiveFour vs UA | PhatGawwd, HoG: Dragon #143 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MTS | FiveFour vs UA | PhatGawwd in Losers Final of HoG: Dragon #143, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2719151790&amp;t=2h31m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>702</video:duration>
-    <video:publication_date>2026-03-11T02:00:07.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-03-19T02:00:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
