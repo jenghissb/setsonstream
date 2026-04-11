@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-12/set/101471771/</loc>
-  <lastmod>2026-04-11T12:20:16.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-12/set/101471836/</loc>
+  <lastmod>2026-04-11T13:28:44.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897725/image-f920abbe947260b41789941efa6274af.png
+    </video:thumbnail_loc>
+    <video:title>
+      Mantequilla vs Fumigoat, Brussels Gaming Fest 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Mantequilla vs Fumigoat in Losers Quarter-Final of Brussels Gaming Fest 12, streamed by Uzuraka
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745411637&amp;t=0h9m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1562</video:duration>
+    <video:publication_date>2026-04-11T13:28:44.000Z</video:publication_date>
+    <video:uploader>Uzuraka</video:uploader>
+    <video:expiration_date>2026-04-19T13:28:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-12/set/101471771/</loc>
+  <lastmod>2026-04-11T13:39:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2745365955&amp;t=0h23m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1672</video:duration>
+    <video:duration>805</video:duration>
     <video:publication_date>2026-04-11T12:20:16.000Z</video:publication_date>
     <video:uploader>Uzuraka</video:uploader>
     <video:expiration_date>2026-04-19T12:20:16.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-08T03:51:55.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-03-16T03:51:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-infinite-oasis-3-7-2026/set/100194327/</loc>
-  <lastmod>2026-03-08T03:57:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/880591/image-e24bf7362216013549d67dbf1fe8498c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Schonse vs G-Corp | Tuba_king1, The Infinite Oasis 3/7/2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Schonse vs G-Corp | Tuba_king1 in Losers Final of The Infinite Oasis 3/7/2026, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716290812&amp;t=10h30m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>527</video:duration>
-    <video:publication_date>2026-03-08T03:22:26.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-03-16T03:22:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
