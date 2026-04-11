@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/duke-it-out-4-2/set/101496887/</loc>
+  <lastmod>2026-04-11T18:32:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/867071/image-cfb76671b98ee1e5edde4bc414d82249.png
+    </video:thumbnail_loc>
+    <video:title>
+      NullTuna vs BaldGang | romanjelly, Duke It Out 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NullTuna vs BaldGang | romanjelly in Winners Semi-Final of Duke It Out 4, streamed by Kmltournaments2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2745464664&amp;t=3h45m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3228</video:duration>
+    <video:publication_date>2026-04-11T18:32:58.000Z</video:publication_date>
+    <video:uploader>Kmltournaments2</video:uploader>
+    <video:expiration_date>2026-04-19T18:32:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/brussels-gaming-fest-12/set/101471776/</loc>
   <lastmod>2026-04-11T15:34:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-08T04:47:41.000Z</video:publication_date>
     <video:uploader>northcountyfgc</video:uploader>
     <video:expiration_date>2026-03-16T04:47:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/frequency-11/set/100197970/</loc>
-  <lastmod>2026-03-08T05:14:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882196/image-d24ab3c08a00fce731467f0caf99cea9.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      RIB | MachoMan vs VMLN | Axel Leonidas, Frequency #11 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RIB | MachoMan vs VMLN | Axel Leonidas in Losers Final of Frequency #11, streamed by Vermilion_Series
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716701131&amp;t=3h23m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>914</video:duration>
-    <video:publication_date>2026-03-08T04:38:38.000Z</video:publication_date>
-    <video:uploader>Vermilion_Series</video:uploader>
-    <video:expiration_date>2026-03-16T04:38:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
