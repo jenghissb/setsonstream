@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/slashback-vol-4-niche-syndrome/set/101569156/</loc>
+  <lastmod>2026-04-12T21:52:51.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/791578/image-dbc04168c1762e45cd47b24636581940.png
+    </video:thumbnail_loc>
+    <video:title>
+      古森霧(komori kiri) vs PPMAN, Slashback Vol. 4 [ Niche Syndrome ] - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 古森霧(komori kiri) vs PPMAN in Winners Quarter-Final of Slashback Vol. 4 [ Niche Syndrome ], streamed by BayAreaMADHOUSE
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2746515441&amp;t=3h1m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2284</video:duration>
+    <video:publication_date>2026-04-12T21:52:51.000Z</video:publication_date>
+    <video:uploader>BayAreaMADHOUSE</video:uploader>
+    <video:expiration_date>2026-04-20T21:52:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/slashback-vol-4-niche-syndrome/set/101553883/</loc>
   <lastmod>2026-04-12T20:56:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-02-28T22:52:22.000Z</video:publication_date>
     <video:uploader>paragonfgc</video:uploader>
     <video:expiration_date>2026-03-08T22:52:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/awaited-fate-cc-1/set/99899334/</loc>
-  <lastmod>2026-02-28T22:54:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/855830/image-145f34e76ea9a0b92e771acdc3672cca.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zero-G | belialfan69 vs NorseFTX, Awaited Fate: CC - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zero-G | belialfan69 vs NorseFTX in Winners Round 3 of Awaited Fate: CC, streamed by plusframesgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710390106&amp;t=1h13m33s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>345</video:duration>
-    <video:publication_date>2026-02-28T22:34:07.000Z</video:publication_date>
-    <video:uploader>plusframesgg</video:uploader>
-    <video:expiration_date>2026-03-08T22:34:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
