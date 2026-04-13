@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgcafe-haarlem-10-special-edition/set/101593458/</loc>
+  <lastmod>2026-04-13T19:51:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897292/image-5d7ee748b8bc1b054e929f5448212100.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      MLM|#SWINWIN | Aiden vs simon, FGcafe Haarlem #10 - Special edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MLM|#SWINWIN | Aiden vs simon in Losers Quarter-Final of FGcafe Haarlem #10 - Special edition, streamed by vrcafehaarlem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2747194560&amp;t=2h31m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>485</video:duration>
+    <video:publication_date>2026-04-13T19:19:06.000Z</video:publication_date>
+    <video:uploader>vrcafehaarlem</video:uploader>
+    <video:expiration_date>2026-04-21T19:19:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/side-seven-skirmish-29/set/101536961/</loc>
   <lastmod>2026-04-12T03:39:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-12T03:55:37.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-03-20T03:55:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-215-norcal-ssbu-gbvsr-ggst/set/100313232/</loc>
-  <lastmod>2026-03-12T03:57:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889912/image-d1b9e3b4e0ed486c00987c9970a8480c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SJSU | Brone vs Draken, Guildhouse Weekly 215 - Norcal SSBU, GBVSR &amp; GGST - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SJSU | Brone vs Draken in Round 5 of Guildhouse Weekly 215 - Norcal SSBU, GBVSR &amp; GGST, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2720129202&amp;t=0h40m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>850</video:duration>
-    <video:publication_date>2026-03-12T03:26:38.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-03-20T03:26:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
