@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-103/set/101593041/</loc>
+  <lastmod>2026-04-13T18:52:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901379/image-d26286190c02e3bbb7e080be6231cdf9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | vlad vs Sabreur, KnockOut Zone #103 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | vlad vs Sabreur in Winners Quarter-Final of KnockOut Zone #103, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2747242441&amp;t=0h25m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>993</video:duration>
+    <video:publication_date>2026-04-13T18:19:58.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-04-21T18:19:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-219/set/101566114/</loc>
   <lastmod>2026-04-12T20:40:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-20T02:58:49.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-03-28T02:58:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-9-21/set/100583894/</loc>
-  <lastmod>2026-03-20T03:01:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893020/image-b9361b7347c41d9cd4d23f87651bff27.png
-    </video:thumbnail_loc>
-    <video:title>
-      LotG | Brub vs Nairial, HoG: Phoenix 9.21 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LotG | Brub vs Nairial in Grand Final of HoG: Phoenix 9.21, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2726732172&amp;t=2h56m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>579</video:duration>
-    <video:publication_date>2026-03-20T02:29:03.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-03-28T02:29:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
