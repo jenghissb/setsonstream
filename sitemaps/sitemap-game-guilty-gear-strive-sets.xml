@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-100/set/101599597/</loc>
+  <lastmod>2026-04-13T23:40:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901084/image-d182e0e66160714fff01535156164b4a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Xyned vs WF | Drago, Block String @ Wonderfly #100 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Xyned vs WF | Drago in Winners Quarter-Final of Block String @ Wonderfly #100, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2747478695&amp;t=0h7m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1214</video:duration>
+    <video:publication_date>2026-04-13T23:40:15.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2026-04-21T23:40:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgcafe-haarlem-10-special-edition/set/101593458/</loc>
   <lastmod>2026-04-13T19:51:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-12T04:07:52.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-03-20T04:07:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-215-norcal-ssbu-gbvsr-ggst/set/100313221/</loc>
-  <lastmod>2026-03-12T04:18:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889912/image-d1b9e3b4e0ed486c00987c9970a8480c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Draken vs Aubfox, Guildhouse Weekly 215 - Norcal SSBU, GBVSR &amp; GGST - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Draken vs Aubfox in Round 1 of Guildhouse Weekly 215 - Norcal SSBU, GBVSR &amp; GGST, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2720129202&amp;t=1h9m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>719</video:duration>
-    <video:publication_date>2026-03-12T03:55:37.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-03-20T03:55:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
