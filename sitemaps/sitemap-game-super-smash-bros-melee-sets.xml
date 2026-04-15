@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/drexel-melee-spring-26-1/set/101624677/</loc>
+  <lastmod>2026-04-14T23:45:10.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902184/image-8edf6c06dfa2cf5507d4c1f943ae1d17.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Philly Melee | lynxwynx vs Salsa, Drexel Melee Spring &apos;26 #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Philly Melee | lynxwynx vs Salsa in Winners Round 1 of Drexel Melee Spring &apos;26 #1, streamed by SLTE_NJ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2748238110&amp;t=0h42m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>917</video:duration>
+    <video:publication_date>2026-04-14T23:45:10.000Z</video:publication_date>
+    <video:uploader>SLTE_NJ</video:uploader>
+    <video:expiration_date>2026-04-22T23:45:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-495/set/101608556/</loc>
   <lastmod>2026-04-14T03:44:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-20T19:36:33.000Z</video:publication_date>
     <video:uploader>PhoenixSmash</video:uploader>
     <video:expiration_date>2026-03-28T19:36:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-138/set/100595194/</loc>
-  <lastmod>2026-03-20T05:35:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/892483/image-e06510614f1405dac49bd6fc648f4643.png
-    </video:thumbnail_loc>
-    <video:title>
-      DAFT | Eddy Mexico vs GS | SubTails, Rage Against the CRT #138 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DAFT | Eddy Mexico vs GS | SubTails in Losers Final of Rage Against the CRT #138, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2726854116&amp;t=3h10m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>719</video:duration>
-    <video:publication_date>2026-03-20T05:11:55.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2026-03-28T05:11:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
