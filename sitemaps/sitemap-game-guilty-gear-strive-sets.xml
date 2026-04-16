@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-218-norcal-ssbu-ggst/set/101660985/</loc>
+  <lastmod>2026-04-16T06:14:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901767/image-3480ae55f4b6b2d0d33381994b6926bb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      pr*m | Apho vs Jonathan Tene, Guildhouse Weekly 218 - Norcal SSBU &amp; GGST - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch pr*m | Apho vs Jonathan Tene in Grand Final of Guildhouse Weekly 218 - Norcal SSBU &amp; GGST, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2749206961&amp;t=2h23m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>712</video:duration>
+    <video:publication_date>2026-04-16T05:49:43.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-04-24T05:49:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-218-norcal-ssbu-ggst/set/101661047/</loc>
-  <lastmod>2026-04-16T05:22:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-16T05:54:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2749206961&amp;t=1h56m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1243</video:duration>
+    <video:duration>801</video:duration>
     <video:publication_date>2026-04-16T05:22:22.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-04-24T05:22:22.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-21T03:16:57.000Z</video:publication_date>
     <video:uploader>howdypartnerer</video:uploader>
     <video:expiration_date>2026-03-29T03:16:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-35/set/100631930/</loc>
-  <lastmod>2026-03-21T03:49:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/891518/image-178aa269c135031638f08f4071d521c2.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      UmKellan vs Cat, 4o4 By Sh33rz: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UmKellan vs Cat in Grand Final of 4o4 By Sh33rz: Anime Weekly, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2727601430&amp;t=3h14m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1396</video:duration>
-    <video:publication_date>2026-03-21T03:10:06.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-03-29T03:10:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
