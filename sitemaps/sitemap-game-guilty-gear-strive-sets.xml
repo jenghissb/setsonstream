@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bragging-rights-92-the-people-s-card-shop/set/101693289/</loc>
+  <lastmod>2026-04-17T06:02:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902963/image-8b7c42507afb3bb94ce3e5b8509fb1ae.png
+    </video:thumbnail_loc>
+    <video:title>
+      FZERO | Caliber vs DIMG | SonAceKeem, BRAGGING RIGHTS #92 @ The People&apos;s Card Shop - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FZERO | Caliber vs DIMG | SonAceKeem in Losers Final of BRAGGING RIGHTS #92 @ The People&apos;s Card Shop, streamed by veproduction
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2749962176&amp;t=3h9m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>711</video:duration>
+    <video:publication_date>2026-04-17T05:32:21.000Z</video:publication_date>
+    <video:uploader>veproduction</video:uploader>
+    <video:expiration_date>2026-04-25T05:32:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bragging-rights-92-the-people-s-card-shop/set/101693288/</loc>
-  <lastmod>2026-04-17T05:10:25.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-17T05:39:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2749962176&amp;t=2h47m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>515</video:duration>
+    <video:duration>640</video:duration>
     <video:publication_date>2026-04-17T05:10:25.000Z</video:publication_date>
     <video:uploader>veproduction</video:uploader>
     <video:expiration_date>2026-04-25T05:10:25.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-22T14:01:42.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-03-30T14:01:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showup-showdown-2026-march-third-strike-x-guilty-gear-strive/set/100701143/</loc>
-  <lastmod>2026-03-22T01:42:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889845/image-59e62bdd618a12ba7eba3ed48f060bc0.png
-    </video:thumbnail_loc>
-    <video:title>
-      BFL | Kensei vs YoKai | Astral, SHOWUP SHOWDOWN 2026 MARCH THIRD STRIKE X GUILTY GEAR STRIVE - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BFL | Kensei vs YoKai | Astral in Losers Final of SHOWUP SHOWDOWN 2026 MARCH THIRD STRIKE X GUILTY GEAR STRIVE, streamed by goonsquadpr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728470638&amp;t=1h50m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>849</video:duration>
-    <video:publication_date>2026-03-22T01:09:03.000Z</video:publication_date>
-    <video:uploader>goonsquadpr</video:uploader>
-    <video:expiration_date>2026-03-30T01:09:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
