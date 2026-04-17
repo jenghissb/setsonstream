@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/thursday-throwdown-187/set/101687360/</loc>
+  <lastmod>2026-04-17T02:08:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896862/image-20ab5ac789c1baddd2c699985a974321.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Guess vs !liz | Chance, Thursday Throwdown 187 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Guess vs !liz | Chance in Winners Semi-Final of Thursday Throwdown 187, streamed by Magik4FGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2749899237&amp;t=1h11m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1975</video:duration>
+    <video:publication_date>2026-04-17T02:08:25.000Z</video:publication_date>
+    <video:uploader>Magik4FGC</video:uploader>
+    <video:expiration_date>2026-04-25T02:08:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-218-norcal-ssbu-ggst/set/101660985/</loc>
   <lastmod>2026-04-16T06:14:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-21T03:19:58.000Z</video:publication_date>
     <video:uploader>bifuteki</video:uploader>
     <video:expiration_date>2026-03-29T03:19:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-111/set/100642699/</loc>
-  <lastmod>2026-03-21T03:49:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889009/image-17889be950dbb22c5a9cb03e1d9bc51c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ICDS vs LzzDoThis, SoCal Colosseum #111 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ICDS vs LzzDoThis in Winners Semi-Final of SoCal Colosseum #111, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2727737086&amp;t=0h34m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>508</video:duration>
-    <video:publication_date>2026-03-21T03:16:57.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2026-03-29T03:16:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
