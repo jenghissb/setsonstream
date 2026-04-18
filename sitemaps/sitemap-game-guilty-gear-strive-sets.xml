@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-4-18-26/set/101793862/</loc>
+  <lastmod>2026-04-18T19:44:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895293/image-e91d162e3b04ddd002815470fd2b4898.png
+    </video:thumbnail_loc>
+    <video:title>
+      Severity vs Dry_Fire, The Infinite Oasis 4/18/26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Severity vs Dry_Fire in Winners Quarter-Final of The Infinite Oasis 4/18/26, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2751184410&amp;t=3h40m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2171</video:duration>
+    <video:publication_date>2026-04-18T19:44:02.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-04-26T19:44:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fighting-game-dojo-april-edition/set/101766483/</loc>
   <lastmod>2026-04-18T17:27:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-27T23:31:21.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-04-04T23:31:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-62-guilty-gear-strive/set/100853256/</loc>
-  <lastmod>2026-03-26T23:49:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893357/image-ee32b397d6c2bd0ff2f6a14f80ff65c1.png
-    </video:thumbnail_loc>
-    <video:title>
-      OEMG | Kaneda vs OMG | SGifto73, Just Mids #62: Guilty Gear Strive - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OEMG | Kaneda vs OMG | SGifto73 in Winners Semi-Final of Just Mids #62: Guilty Gear Strive, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2732547888&amp;t=0h36m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>635</video:duration>
-    <video:publication_date>2026-03-26T23:15:03.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2026-04-03T23:15:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
