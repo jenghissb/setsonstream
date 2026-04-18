@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/border-beatdown-2026/set/101810430/</loc>
-  <lastmod>2026-04-18T22:09:58.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/border-beatdown-2026/set/101810433/</loc>
+  <lastmod>2026-04-18T22:45:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840935/image-7001e84096564edcd00a8342f2cfa5a5.png
+    </video:thumbnail_loc>
+    <video:title>
+      DRZ | PepeBogard vs TILIN | Camael, BORDER BEATDOWN 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DRZ | PepeBogard vs TILIN | Camael in Losers Final of BORDER BEATDOWN 2026, streamed by JustFrameMX
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2751388855&amp;t=2h19m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1294</video:duration>
+    <video:publication_date>2026-04-18T22:45:00.000Z</video:publication_date>
+    <video:uploader>JustFrameMX</video:uploader>
+    <video:expiration_date>2026-04-26T22:45:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/border-beatdown-2026/set/101810430/</loc>
+  <lastmod>2026-04-18T22:52:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2751388855&amp;t=1h44m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1248</video:duration>
+    <video:duration>403</video:duration>
     <video:publication_date>2026-04-18T22:09:58.000Z</video:publication_date>
     <video:uploader>JustFrameMX</video:uploader>
     <video:expiration_date>2026-04-26T22:09:58.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-06T01:14:11.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-03-14T01:14:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-59-ggst-gbvsr/set/100068014/</loc>
-  <lastmod>2026-03-06T01:34:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885998/image-0d53a642ac00666fb1754fdbce0507d9.png
-    </video:thumbnail_loc>
-    <video:title>
-      JM | BeG04T vs BogeyAppreciator, Just Mids #59: GGST &amp; GBVSR - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JM | BeG04T vs BogeyAppreciator in Losers Final of Just Mids #59: GGST &amp; GBVSR, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2714842304&amp;t=0h45m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>615</video:duration>
-    <video:publication_date>2026-03-06T01:03:52.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2026-03-14T01:03:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
