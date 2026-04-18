@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/neoh-presents-the-speakeasy-ii/set/101781301/</loc>
+  <lastmod>2026-04-18T17:50:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888979/image-a21e108132ae5e2bda1723745016ac88.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VDL | zboo13 vs el jefe, NEOH Presents: The Speakeasy II - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VDL | zboo13 vs el jefe in Round 3 of NEOH Presents: The Speakeasy II, streamed by BTSsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2751234017&amp;t=0h39m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>684</video:duration>
+    <video:publication_date>2026-04-18T17:50:13.000Z</video:publication_date>
+    <video:uploader>BTSsmash</video:uploader>
+    <video:expiration_date>2026-04-26T17:50:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guild-gauntlet-9/set/101742482/</loc>
   <lastmod>2026-04-18T04:36:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-22T03:48:53.000Z</video:publication_date>
     <video:uploader>SatelliteMelee</video:uploader>
     <video:expiration_date>2026-03-30T03:48:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-31-arcadian-assembly/set/100701854/</loc>
-  <lastmod>2026-03-22T04:19:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873538/image-a9fff14407f23f9005c098bb45d99d69.png
-    </video:thumbnail_loc>
-    <video:title>
-      saucy jack vs Ohnowen, Minnesota Monthly Melee #31: Arcadian Assembly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch saucy jack vs Ohnowen in Losers Final of Minnesota Monthly Melee #31: Arcadian Assembly, streamed by TeamOxy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728219268&amp;t=9h35m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1517</video:duration>
-    <video:publication_date>2026-03-22T03:34:22.000Z</video:publication_date>
-    <video:uploader>TeamOxy</video:uploader>
-    <video:expiration_date>2026-03-30T03:34:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
