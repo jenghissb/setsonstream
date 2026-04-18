@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/tournament-of-thrones-67/set/101787482/</loc>
+  <lastmod>2026-04-18T19:31:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897122/image-0180e23b1e6f4ea4ae39e98748be8a72.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SQXL | MayanRyan vs chainjail, Tournament of Thrones 67 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SQXL | MayanRyan vs chainjail in Winners Quarter-Final of Tournament of Thrones 67, streamed by Oakcityesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2751296089&amp;t=0h26m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>601</video:duration>
+    <video:publication_date>2026-04-18T18:55:59.000Z</video:publication_date>
+    <video:uploader>Oakcityesports</video:uploader>
+    <video:expiration_date>2026-04-26T18:55:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/tournament-of-thrones-67/set/101787483/</loc>
-  <lastmod>2026-04-18T18:26:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-18T19:03:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2751296089&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2160</video:duration>
+    <video:duration>697</video:duration>
     <video:publication_date>2026-04-18T18:26:12.000Z</video:publication_date>
     <video:uploader>Oakcityesports</video:uploader>
     <video:expiration_date>2026-04-26T18:26:12.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-05T04:04:21.000Z</video:publication_date>
     <video:uploader>fgleventsllc</video:uploader>
     <video:expiration_date>2026-03-13T04:04:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/pofc-86-gbvs-r-ggst/set/100052075/</loc>
-  <lastmod>2026-03-05T04:13:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887715/image-8ea570cb14f377b182b4857e6aeaf0a3.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jack-O | Valentine Main vs IsaacJ, POFC 86 - GBVS:R &amp; GGST - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jack-O | Valentine Main vs IsaacJ in Losers Quarter-Final of POFC 86 - GBVS:R &amp; GGST, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2714079987&amp;t=1h42m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>534</video:duration>
-    <video:publication_date>2026-03-05T03:43:26.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-03-13T03:43:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
