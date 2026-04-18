@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-115-3-year-anniversary/set/101754461/</loc>
+  <lastmod>2026-04-18T05:13:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888082/image-536fd13b44c2fac9c85635ce3b559f95.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Vita | noot vs Abyssal, SoCal Colosseum #115 - 3 Year Anniversary! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Vita | noot vs Abyssal in Winners Semi-Final of SoCal Colosseum #115 - 3 Year Anniversary!, streamed by socalcolosseum1
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2750785201&amp;t=2h16m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>614</video:duration>
+    <video:publication_date>2026-04-18T04:43:54.000Z</video:publication_date>
+    <video:uploader>socalcolosseum1</video:uploader>
+    <video:expiration_date>2026-04-26T04:43:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-115-3-year-anniversary/set/101748626/</loc>
-  <lastmod>2026-04-18T04:05:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-18T04:46:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2750785201&amp;t=1h37m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1703</video:duration>
+    <video:duration>820</video:duration>
     <video:publication_date>2026-04-18T04:05:26.000Z</video:publication_date>
     <video:uploader>socalcolosseum1</video:uploader>
     <video:expiration_date>2026-04-26T04:05:26.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-21T22:50:55.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-03-29T22:50:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/all-hands-monthly-march-2026/set/100681446/</loc>
-  <lastmod>2026-03-21T22:28:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887686/image-73df9efd3efe9d5771a1dd1a9ebda704.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Alex_dotdot vs 4o4 | chrisymandias, All Hands Monthly: March 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Alex_dotdot vs 4o4 | chrisymandias in Grand Final of All Hands Monthly: March 2026, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728282040&amp;t=2h29m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>605</video:duration>
-    <video:publication_date>2026-03-21T21:43:37.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-03-29T21:43:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guild-gauntlet-9/set/101742482/</loc>
-  <lastmod>2026-04-18T04:02:21.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-18T04:36:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2750733355&amp;t=2h44m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1888</video:duration>
+    <video:duration>923</video:duration>
     <video:publication_date>2026-04-18T04:02:21.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-04-26T04:02:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rutgers-melee-spring-2026-12-nick-s-birthday-bash/set/101734573/</loc>
-  <lastmod>2026-04-18T03:19:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902181/image-f19d8b66fdc575985c555ea817ba70dd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tommy vs L7 | plush, Rutgers Melee Spring 2026 #12 - Nick&apos;s Birthday Bash! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tommy vs L7 | plush in Losers Final of Rutgers Melee Spring 2026 #12 - Nick&apos;s Birthday Bash!, streamed by rutgers_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2750713808&amp;t=2h25m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-04-18T03:19:49.000Z</video:publication_date>
-    <video:uploader>rutgers_melee</video:uploader>
-    <video:expiration_date>2026-04-26T03:19:49.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -70,6 +46,30 @@
     <video:publication_date>2026-04-18T03:26:39.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-04-26T03:26:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rutgers-melee-spring-2026-12-nick-s-birthday-bash/set/101734573/</loc>
+  <lastmod>2026-04-18T04:36:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902181/image-f19d8b66fdc575985c555ea817ba70dd.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tommy vs L7 | plush, Rutgers Melee Spring 2026 #12 - Nick&apos;s Birthday Bash! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tommy vs L7 | plush in Losers Final of Rutgers Melee Spring 2026 #12 - Nick&apos;s Birthday Bash!, streamed by rutgers_melee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2750713808&amp;t=2h25m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3564</video:duration>
+    <video:publication_date>2026-04-18T03:19:49.000Z</video:publication_date>
+    <video:uploader>rutgers_melee</video:uploader>
+    <video:expiration_date>2026-04-26T03:19:49.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
