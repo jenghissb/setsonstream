@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/border-beatdown-2026/set/101836113/</loc>
+  <lastmod>2026-04-19T20:02:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/840935/image-7001e84096564edcd00a8342f2cfa5a5.png
+    </video:thumbnail_loc>
+    <video:title>
+      DI | Endorph vs BAP | Mr. Coffin, BORDER BEATDOWN 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DI | Endorph vs BAP | Mr. Coffin in Winners Semi-Final of BORDER BEATDOWN 2026, streamed by JustFrameMX
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2752193076&amp;t=0h41m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1871</video:duration>
+    <video:publication_date>2026-04-19T20:02:19.000Z</video:publication_date>
+    <video:uploader>JustFrameMX</video:uploader>
+    <video:expiration_date>2026-04-27T20:02:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/black-hills-spring-2026-11/set/101807916/</loc>
   <lastmod>2026-04-18T23:16:56.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-28T20:39:49.000Z</video:publication_date>
     <video:uploader>swagonium</video:uploader>
     <video:expiration_date>2026-04-05T20:39:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-112/set/100918237/</loc>
-  <lastmod>2026-03-28T05:14:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893655/image-913d43cada1a1e8ce66f6bb0235ada9b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      EDGE | Lēʻahi(EDGE | L EDGE | L EDGE | Lahi) vs Anonpi, SoCal Colosseum #112 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EDGE | Lēʻahi(EDGE | L EDGE | L EDGE | Lahi) vs Anonpi in Losers Semi-Final of SoCal Colosseum #112, streamed by SoCalColosseum2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733563718&amp;t=1h59m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1468</video:duration>
-    <video:publication_date>2026-03-28T04:38:04.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum2</video:uploader>
-    <video:expiration_date>2026-04-05T04:38:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
