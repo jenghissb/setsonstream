@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-11-il-torneo-quello-vero/set/101717836/</loc>
+  <lastmod>2026-04-19T13:15:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/894976/image-b68a095d426e68a033a38f8dbf7b2bee.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dantes vs VecchiaSerpe, Sea Dogs 11 - Il torneo quello vero - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dantes vs VecchiaSerpe in Winners Round 2 of Sea Dogs 11 - Il torneo quello vero, streamed by CenciuNC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2751867493&amp;t=1h24m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>706</video:duration>
+    <video:publication_date>2026-04-19T12:46:54.000Z</video:publication_date>
+    <video:uploader>CenciuNC</video:uploader>
+    <video:expiration_date>2026-04-27T12:46:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/sea-dogs-11-il-torneo-quello-vero/set/101717736/</loc>
-  <lastmod>2026-04-19T11:47:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-19T12:24:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2751867493&amp;t=0h25m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1038</video:duration>
+    <video:duration>724</video:duration>
     <video:publication_date>2026-04-19T11:47:51.000Z</video:publication_date>
     <video:uploader>CenciuNC</video:uploader>
     <video:expiration_date>2026-04-27T11:47:51.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-21T14:41:53.000Z</video:publication_date>
     <video:uploader>gamingloods</video:uploader>
     <video:expiration_date>2026-03-29T14:41:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/double-k-o-v4/set/100655100/</loc>
-  <lastmod>2026-03-21T15:12:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890167/image-9dd6ef5db40e869f7c6a4144ad701d7c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sensei Salam vs TrevDaCook, Double K.O V4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sensei Salam vs TrevDaCook in Winners Round 2 of Double K.O V4, streamed by Doublekofgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728049165&amp;t=0h35m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>690</video:duration>
-    <video:publication_date>2026-03-21T14:35:00.000Z</video:publication_date>
-    <video:uploader>Doublekofgc</video:uploader>
-    <video:expiration_date>2026-03-29T14:35:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
