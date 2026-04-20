@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bronco-brawl-spring-2026/set/101867308/</loc>
-  <lastmod>2026-04-19T23:12:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bronco-brawl-spring-2026/set/101867248/</loc>
+  <lastmod>2026-04-19T23:44:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/890199/image-1e8f7d89c5dc432398cb3e616a3d82d9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Kyet vs NoPro, Bronco Brawl Spring 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kyet vs NoPro in Winners Semi-Final of Bronco Brawl Spring 2026, streamed by socalcolosseum1
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2752303294&amp;t=1h46m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1133</video:duration>
+    <video:publication_date>2026-04-19T23:44:24.000Z</video:publication_date>
+    <video:uploader>socalcolosseum1</video:uploader>
+    <video:expiration_date>2026-04-27T23:44:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bronco-brawl-spring-2026/set/101867308/</loc>
+  <lastmod>2026-04-19T23:47:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2752303294&amp;t=1h14m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>649</video:duration>
+    <video:duration>496</video:duration>
     <video:publication_date>2026-04-19T23:12:04.000Z</video:publication_date>
     <video:uploader>socalcolosseum1</video:uploader>
     <video:expiration_date>2026-04-27T23:12:04.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-29T01:05:26.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2026-04-06T01:05:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-15-rise-with-the-wind/set/100993506/</loc>
-  <lastmod>2026-03-29T01:12:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884489/image-91508ad3ed0b4ac9e8ee885bf3610d83.png
-    </video:thumbnail_loc>
-    <video:title>
-      Boat vs BOKEHEM | DXG | EnzogXY, Backstreet Brawl #15 - Rise With The Wind - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Boat vs BOKEHEM | DXG | EnzogXY in Winners Quarter-Final of Backstreet Brawl #15 - Rise With The Wind, streamed by HopOnPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734103381&amp;t=5h21m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>472</video:duration>
-    <video:publication_date>2026-03-29T00:33:13.000Z</video:publication_date>
-    <video:uploader>HopOnPNW</video:uploader>
-    <video:expiration_date>2026-04-06T00:33:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

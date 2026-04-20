@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/bronco-brawl-spring-2026/set/101867888/</loc>
-  <lastmod>2026-04-19T22:53:05.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/bronco-brawl-spring-2026/set/101867886/</loc>
+  <lastmod>2026-04-19T23:22:42.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/890199/image-1e8f7d89c5dc432398cb3e616a3d82d9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      YUUBAFAN | raf vs jonsf, Bronco Brawl Spring 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YUUBAFAN | raf vs jonsf in Winners Round 3 of Bronco Brawl Spring 2026, streamed by chainshift_events
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2752230167&amp;t=3h14m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2435</video:duration>
+    <video:publication_date>2026-04-19T23:22:42.000Z</video:publication_date>
+    <video:uploader>chainshift_events</video:uploader>
+    <video:expiration_date>2026-04-27T23:22:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-heart-container-s-tekken-tournament-tlt-46/set/101871737/</loc>
+  <lastmod>2026-04-19T23:29:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      RASMUS vs P-CO, The Heart Container&apos;s Tekken Tournament @tlt #46 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RASMUS vs P-CO in Winners Round 1 of The Heart Container&apos;s Tekken Tournament @tlt #46, streamed by Stream
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Stream&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2007</video:duration>
+    <video:publication_date>2026-04-19T23:29:50.000Z</video:publication_date>
+    <video:uploader>Stream</video:uploader>
+    <video:expiration_date>2026-04-27T23:29:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/bronco-brawl-spring-2026/set/101867888/</loc>
+  <lastmod>2026-04-19T23:31:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2752230167&amp;t=2h44m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1788</video:duration>
+    <video:duration>537</video:duration>
     <video:publication_date>2026-04-19T22:53:05.000Z</video:publication_date>
     <video:uploader>chainshift_events</video:uploader>
     <video:expiration_date>2026-04-27T22:53:05.000Z</video:expiration_date>
@@ -8374,30 +8422,6 @@
     <video:publication_date>2026-03-21T22:36:27.000Z</video:publication_date>
     <video:uploader>nyctekken</video:uploader>
     <video:expiration_date>2026-03-29T22:36:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/all-hands-monthly-march-2026/set/100699938/</loc>
-  <lastmod>2026-03-21T23:51:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887686/image-73df9efd3efe9d5771a1dd1a9ebda704.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Iso.Dgaf vs SageModeYele, All Hands Monthly: March 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Iso.Dgaf vs SageModeYele in Winners Quarter-Final of All Hands Monthly: March 2026, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728410673&amp;t=0h36m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>473</video:duration>
-    <video:publication_date>2026-03-21T22:33:51.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-03-29T22:33:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
