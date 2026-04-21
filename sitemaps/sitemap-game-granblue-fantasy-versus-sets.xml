@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/61-ttgbvsr-26-04-21/set/101907324/</loc>
+  <lastmod>2026-04-21T12:17:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897294/image-51225f8c2c1c0a10da1036b0a8bbdfb2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zangief_Dream vs お魚さん(o sakana san), #61 TTGBVSR 26/04/21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zangief_Dream vs お魚さん(o sakana san) in Winners Final of #61 TTGBVSR 26/04/21, streamed by robert_rorio
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2753407438&amp;t=2h16m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>623</video:duration>
+    <video:publication_date>2026-04-21T11:43:39.000Z</video:publication_date>
+    <video:uploader>robert_rorio</video:uploader>
+    <video:expiration_date>2026-04-29T11:43:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/61-ttgbvsr-26-04-21/set/101907348/</loc>
-  <lastmod>2026-04-21T11:25:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-21T11:53:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2753407438&amp;t=1h58m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1311</video:duration>
+    <video:duration>444</video:duration>
     <video:publication_date>2026-04-21T11:25:59.000Z</video:publication_date>
     <video:uploader>robert_rorio</video:uploader>
     <video:expiration_date>2026-04-29T11:25:59.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-07T13:42:52.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-03-15T13:42:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-9/set/100140867/</loc>
-  <lastmod>2026-03-07T13:48:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879825/image-5763c4122df63fd5793d87ea7a3667d9.png
-    </video:thumbnail_loc>
-    <video:title>
-      PAM | WhilemButter vs WhetiStripi, Arca-Sys #9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PAM | WhilemButter vs WhetiStripi in Winners Round 1 of Arca-Sys #9, streamed by justplayfly
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716139739&amp;t=0h4m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1127</video:duration>
-    <video:publication_date>2026-03-07T12:59:06.000Z</video:publication_date>
-    <video:uploader>justplayfly</video:uploader>
-    <video:expiration_date>2026-03-15T12:59:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
