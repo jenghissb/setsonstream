@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/borderline-smash-58/set/101908508/</loc>
+  <lastmod>2026-04-21T16:51:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899980/image-5f6d271780ff9fb9f0dc2139a5702052.png
+    </video:thumbnail_loc>
+    <video:title>
+      ST | Brayze vs Weenter, BORDERLINE SMASH #58 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ST | Brayze vs Weenter in Winners Round 1 of BORDERLINE SMASH #58, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2753623754&amp;t=0h4m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1228</video:duration>
+    <video:publication_date>2026-04-21T16:51:46.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2026-04-29T16:51:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-265/set/101906629/</loc>
   <lastmod>2026-04-21T11:45:49.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-04-13T00:02:19.000Z</video:publication_date>
     <video:uploader>AbitibiESports</video:uploader>
     <video:expiration_date>2026-04-21T00:02:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ice-box-battles-primo-28/set/101573576/</loc>
-  <lastmod>2026-04-13T00:57:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/900335/image-854a7f9ffde8cbeb294cb1fc195fb612.png
-    </video:thumbnail_loc>
-    <video:title>
-      131 | xavier vs LittleMacMain, Ice Box Battles @ Primo #28 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 131 | xavier vs LittleMacMain in Grand Final of Ice Box Battles @ Primo #28, streamed by southjerseyunderground
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2746633513&amp;t=2h33m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2963</video:duration>
-    <video:publication_date>2026-04-13T00:00:29.000Z</video:publication_date>
-    <video:uploader>southjerseyunderground</video:uploader>
-    <video:expiration_date>2026-04-21T00:00:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
