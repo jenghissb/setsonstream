@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/61-ttgbvsr-26-04-21/set/101907348/</loc>
+  <lastmod>2026-04-21T11:25:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897294/image-51225f8c2c1c0a10da1036b0a8bbdfb2.png
+    </video:thumbnail_loc>
+    <video:title>
+      いなば(inaba) vs もりこう(morikou), #61 TTGBVSR 26/04/21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch いなば(inaba) vs もりこう(morikou) in Losers Round 1 of #61 TTGBVSR 26/04/21, streamed by robert_rorio
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2753407438&amp;t=1h58m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1311</video:duration>
+    <video:publication_date>2026-04-21T11:25:59.000Z</video:publication_date>
+    <video:uploader>robert_rorio</video:uploader>
+    <video:expiration_date>2026-04-29T11:25:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/border-beatdown-2026/set/101810433/</loc>
   <lastmod>2026-04-18T23:28:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-07T12:59:06.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-03-15T12:59:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-59-ggst-gbvsr/set/100067983/</loc>
-  <lastmod>2026-03-06T02:04:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/885998/image-0d53a642ac00666fb1754fdbce0507d9.png
-    </video:thumbnail_loc>
-    <video:title>
-      JM | Hachiman vs BogeyAppreciator, Just Mids #59: GGST &amp; GBVSR - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JM | Hachiman vs BogeyAppreciator in Grand Final of Just Mids #59: GGST &amp; GBVSR, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2714842304&amp;t=0h55m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1284</video:duration>
-    <video:publication_date>2026-03-06T01:14:11.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2026-03-14T01:14:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
