@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-20/set/101936518/</loc>
+  <lastmod>2026-04-22T17:43:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904501/image-04ad4cfd263afd26b7e998d7d812b1fe.png
+    </video:thumbnail_loc>
+    <video:title>
+      Noops vs PlatCamp | LuigiTuah, Platform Camp #20 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Noops vs PlatCamp | LuigiTuah in Winners Semi-Final of Platform Camp #20, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2754443391&amp;t=0h15m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1331</video:duration>
+    <video:publication_date>2026-04-22T17:43:19.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-04-30T17:43:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/full-stack-3-2/set/101860082/</loc>
   <lastmod>2026-04-20T01:08:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-15T23:46:58.000Z</video:publication_date>
     <video:uploader>Spotlight KC</video:uploader>
     <video:expiration_date>2026-03-23T23:46:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sweet-spot-x/set/100481036/</loc>
-  <lastmod>2026-03-15T23:56:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/860958/image-308c9093b67a5c6e29286680036f012c.png
-    </video:thumbnail_loc>
-    <video:title>
-      FHC | | ToffeeCG vs DSE | Scoops, Sweet Spot X - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FHC | | ToffeeCG vs DSE | Scoops in Losers Quarter-Final of Sweet Spot X, streamed by Spotlight KC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/pi2jWf6M_bo?start=26498s
-    </video:player_loc>
-    <video:duration>985</video:duration>
-    <video:publication_date>2026-03-15T23:27:37.000Z</video:publication_date>
-    <video:uploader>Spotlight KC</video:uploader>
-    <video:expiration_date>2026-03-23T23:27:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
