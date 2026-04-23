@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-377/set/101966571/</loc>
+  <lastmod>2026-04-23T21:55:17.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/905104/image-6f74df63d5effa13e1a165f5c9bd8154.png
+    </video:thumbnail_loc>
+    <video:title>
+      Liro vs GRUESOME, Salt Water Smash 377 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Liro vs GRUESOME in Round 4 of Salt Water Smash 377, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2755409637&amp;t=0h15m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>446</video:duration>
+    <video:publication_date>2026-04-23T21:55:17.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-05-01T21:55:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-185-animgraph2-now-live/set/101956315/</loc>
   <lastmod>2026-04-23T06:11:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-26T22:50:14.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-04-03T22:50:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-373/set/100851991/</loc>
-  <lastmod>2026-03-26T22:57:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895505/image-0b3f5195f2d74951846cb9cf1cf92175.png
-    </video:thumbnail_loc>
-    <video:title>
-      shugacrisp vs Koil, Salt Water Smash 373 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch shugacrisp vs Koil in Round 3 of Salt Water Smash 373, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2732515660&amp;t=0h36m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>416</video:duration>
-    <video:publication_date>2026-03-26T22:31:01.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-04-03T22:31:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
