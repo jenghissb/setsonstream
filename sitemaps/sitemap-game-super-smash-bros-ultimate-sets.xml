@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/epeak-battle-6/set/101961201/</loc>
+  <lastmod>2026-04-23T16:06:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904410/image-4a8fb23a060303a70acef58ad9cd4d3f.png
+    </video:thumbnail_loc>
+    <video:title>
+      TaiHenki vs QTL | GogoChad, ePeak Battle #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TaiHenki vs QTL | GogoChad in Winners Round 1 of ePeak Battle #6, streamed by ePeakTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2755164806&amp;t=0h17m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>972</video:duration>
+    <video:publication_date>2026-04-23T16:06:56.000Z</video:publication_date>
+    <video:uploader>ePeakTV</video:uploader>
+    <video:expiration_date>2026-05-01T16:06:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/23-440/set/101960544/</loc>
   <lastmod>2026-04-23T13:39:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-04-15T18:01:54.000Z</video:publication_date>
     <video:uploader>asso_grab</video:uploader>
     <video:expiration_date>2026-04-23T18:01:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/jackpot-ssbu-7/set/101639953/</loc>
-  <lastmod>2026-04-15T18:19:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890471/image-e3e6b79dc2df2a165384861132be4d19.png
-    </video:thumbnail_loc>
-    <video:title>
-      CDO !!!!! | TurboFan67 vs MW | Cellok, Jackpot #SSBU 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CDO !!!!! | TurboFan67 vs MW | Cellok in Winners Round 1 of Jackpot #SSBU 7, streamed by cloud_army_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2748802880&amp;t=0h19m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>985</video:duration>
-    <video:publication_date>2026-04-15T18:00:13.000Z</video:publication_date>
-    <video:uploader>cloud_army_</video:uploader>
-    <video:expiration_date>2026-04-23T18:00:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
