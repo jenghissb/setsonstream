@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcc-marshallmania-2/set/102062889/</loc>
+  <lastmod>2026-04-25T19:11:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882584/image-ff4ad55a248adf0663d8f40436ec94da.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      taco6 vs MCC | Caveman, MCC MarshallMania 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch taco6 vs MCC | Caveman in Winners Quarter-Final of MCC MarshallMania 2, streamed by Marshalltown Community College Esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/10rvZNAYgd4?start=12765s
+    </video:player_loc>
+    <video:duration>2676</video:duration>
+    <video:publication_date>2026-04-25T19:11:02.000Z</video:publication_date>
+    <video:uploader>Marshalltown Community College Esports</video:uploader>
+    <video:expiration_date>2026-05-03T19:11:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/jack-poke/set/102047125/</loc>
   <lastmod>2026-04-25T17:47:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-28T18:27:34.000Z</video:publication_date>
     <video:uploader>asuesportsofficial</video:uploader>
     <video:expiration_date>2026-04-05T18:27:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/dojo-wannabe-monthly-14/set/100934139/</loc>
-  <lastmod>2026-03-28T15:22:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889581/image-224c388c8d825d00e6d8863b53843af2.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ektho vs DW LLC | Angelo, Dojo Wannabe Monthly #14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ektho vs DW LLC | Angelo in Losers Semi-Final of Dojo Wannabe Monthly #14, streamed by TheDWNetwork
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733805750&amp;t=2h52m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>290</video:duration>
-    <video:publication_date>2026-03-28T14:50:52.000Z</video:publication_date>
-    <video:uploader>TheDWNetwork</video:uploader>
-    <video:expiration_date>2026-04-05T14:50:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
