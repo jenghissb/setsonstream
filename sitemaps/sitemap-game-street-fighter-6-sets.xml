@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/jack-poke/set/102047123/</loc>
-  <lastmod>2026-04-25T16:25:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/jack-poke/set/102047125/</loc>
+  <lastmod>2026-04-25T17:11:58.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879209/image-6687b1ede4c268928457996858a06d33.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Neptunia | Dims vs HSN, Jack Poke - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Neptunia | Dims vs HSN in Losers Final of Jack Poke, streamed by liv_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756626315&amp;t=6h16m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>873</video:duration>
+    <video:publication_date>2026-04-25T17:11:58.000Z</video:publication_date>
+    <video:uploader>liv_fgc</video:uploader>
+    <video:expiration_date>2026-05-03T17:11:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/jack-poke/set/102047123/</loc>
+  <lastmod>2026-04-25T17:13:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2756626315&amp;t=5h29m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>799</video:duration>
+    <video:duration>600</video:duration>
     <video:publication_date>2026-04-25T16:25:00.000Z</video:publication_date>
     <video:uploader>liv_fgc</video:uploader>
     <video:expiration_date>2026-05-03T16:25:00.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-28T14:50:52.000Z</video:publication_date>
     <video:uploader>TheDWNetwork</video:uploader>
     <video:expiration_date>2026-04-05T14:50:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-112/set/100919287/</loc>
-  <lastmod>2026-03-28T05:18:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893655/image-913d43cada1a1e8ce66f6bb0235ada9b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Bracket Demons | Exia vs Vita | noot, SoCal Colosseum #112 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bracket Demons | Exia vs Vita | noot in Grand Final of SoCal Colosseum #112, streamed by SoCalColosseum1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733502731&amp;t=3h19m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1441</video:duration>
-    <video:publication_date>2026-03-28T04:39:22.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum1</video:uploader>
-    <video:expiration_date>2026-04-05T04:39:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

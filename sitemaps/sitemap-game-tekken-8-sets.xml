@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/emea-tekken-cup-4-finals/set/102046766/</loc>
+  <lastmod>2026-04-25T17:23:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889991/image-248b5c01e7ba2f41a90d9e1a241fb64a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kirakira vs NeonKay64, EMEA TEKKEN CUP 4 FINALS - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kirakira vs NeonKay64 in Losers Final of EMEA TEKKEN CUP 4 FINALS, streamed by TEKKEN
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756589423&amp;t=7h17m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1607</video:duration>
+    <video:publication_date>2026-04-25T16:30:06.000Z</video:publication_date>
+    <video:uploader>TEKKEN</video:uploader>
+    <video:expiration_date>2026-05-03T16:30:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/emea-tekken-cup-4-finals/set/102046750/</loc>
-  <lastmod>2026-04-25T15:58:16.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-25T16:45:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2756589423&amp;t=6h46m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2403</video:duration>
+    <video:duration>2157</video:duration>
     <video:publication_date>2026-04-25T15:58:16.000Z</video:publication_date>
     <video:uploader>TEKKEN</video:uploader>
     <video:expiration_date>2026-05-03T15:58:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/z-nith-dawn-edition/set/102040085/</loc>
-  <lastmod>2026-04-25T15:58:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/856663/image-9525fed54c4b9ea6ed4ee5f6deb62926.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      STRX|FDP|ECR | Jo vs ASC ECR | LeYeah, ZÉNITH : Dawn Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch STRX|FDP|ECR | Jo vs ASC ECR | LeYeah in Losers Final of ZÉNITH : Dawn Edition, streamed by superakouma
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=superakouma&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2409</video:duration>
-    <video:publication_date>2026-04-25T15:58:10.000Z</video:publication_date>
-    <video:uploader>superakouma</video:uploader>
-    <video:expiration_date>2026-05-03T15:58:10.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8398,30 +8398,6 @@
     <video:publication_date>2026-03-27T04:49:48.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-04-04T04:49:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-212-tekken-8-weekly/set/100870497/</loc>
-  <lastmod>2026-03-27T04:53:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893196/image-3bfd81aa599474025269038a72fab4c0.png
-    </video:thumbnail_loc>
-    <video:title>
-      gael vs Red9, Tech City Tekken #212 - Tekken 8 Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch gael vs Red9 in Winners Round 2 of Tech City Tekken #212 - Tekken 8 Weekly, streamed by CapsuleEntertainment
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2732766251&amp;t=0h50m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>368</video:duration>
-    <video:publication_date>2026-03-27T04:30:32.000Z</video:publication_date>
-    <video:uploader>CapsuleEntertainment</video:uploader>
-    <video:expiration_date>2026-04-04T04:30:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

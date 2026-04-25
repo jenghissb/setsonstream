@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/maximum-impact-glasgow-presents-animig-resurrection-april-2026/set/102034039/</loc>
-  <lastmod>2026-04-25T16:18:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/maximum-impact-glasgow-presents-animig-resurrection-april-2026/set/102034041/</loc>
+  <lastmod>2026-04-25T17:03:57.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/891969/image-386a8b8f2673387626c0778491ac0b11.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dylan Eccles vs GATK | Spin, Maximum Impact Glasgow Presents - AniMIG: Resurrection - April 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dylan Eccles vs GATK | Spin in Losers Final of Maximum Impact Glasgow Presents - AniMIG: Resurrection - April 2026, streamed by burntofightglasgow
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=burntofightglasgow&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1354</video:duration>
+    <video:publication_date>2026-04-25T17:03:57.000Z</video:publication_date>
+    <video:uploader>burntofightglasgow</video:uploader>
+    <video:expiration_date>2026-05-03T17:03:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/maximum-impact-glasgow-presents-animig-resurrection-april-2026/set/102034039/</loc>
+  <lastmod>2026-04-25T17:07:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2756763213&amp;t=1h12m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1197</video:duration>
+    <video:duration>857</video:duration>
     <video:publication_date>2026-04-25T16:18:22.000Z</video:publication_date>
     <video:uploader>burntofightglasgow</video:uploader>
     <video:expiration_date>2026-05-03T16:18:22.000Z</video:expiration_date>
