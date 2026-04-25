@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mudbug2/set/102058776/</loc>
+  <lastmod>2026-04-25T18:54:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872724/image-d04b9c40c63bf10afd0cfa55c1492fd5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Larry Mozzarelli vs cj, Mudbug2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Larry Mozzarelli vs cj in Winners Round 2 of Mudbug2, streamed by bluethunderbombfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756891586&amp;t=0h47m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1102</video:duration>
+    <video:publication_date>2026-04-25T18:54:16.000Z</video:publication_date>
+    <video:uploader>bluethunderbombfgc</video:uploader>
+    <video:expiration_date>2026-05-03T18:54:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bunker-smash-high-voltage-1/set/102048709/</loc>
   <lastmod>2026-04-25T17:00:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-28T22:40:18.000Z</video:publication_date>
     <video:uploader>slomelee</video:uploader>
     <video:expiration_date>2026-04-05T22:40:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/juicy-jamboree-march-28th-29th-2026/set/100981702/</loc>
-  <lastmod>2026-03-28T23:21:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873412/image-bfa786b5eb1776f1b7184f642625bde8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Slowpez vs Yeti, Juicy Jamboree - March 28th-29th, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Slowpez vs Yeti in Winners Final of Juicy Jamboree - March 28th-29th, 2026, streamed by spiralmedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734173426&amp;t=1h57m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1017</video:duration>
-    <video:publication_date>2026-03-28T22:31:17.000Z</video:publication_date>
-    <video:uploader>spiralmedia</video:uploader>
-    <video:expiration_date>2026-04-05T22:31:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
