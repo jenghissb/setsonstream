@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bunker-smash-high-voltage-1/set/102038902/</loc>
+  <lastmod>2026-04-25T12:30:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877640/image-2af2f8c33c32e3ab0edbe2ab4ca1bf53.png
+    </video:thumbnail_loc>
+    <video:title>
+      tummi vs Szoltan, Bunker Smash: High Voltage - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch tummi vs Szoltan in Round 3 of Bunker Smash: High Voltage, streamed by Supersmashdelft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756619773&amp;t=1h23m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>136</video:duration>
+    <video:publication_date>2026-04-25T12:01:33.000Z</video:publication_date>
+    <video:uploader>Supersmashdelft</video:uploader>
+    <video:expiration_date>2026-05-03T12:01:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-214/set/102025402/</loc>
   <lastmod>2026-04-25T05:10:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-28T22:18:01.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2026-04-05T22:18:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/out-of-the-blue-5/set/100942756/</loc>
-  <lastmod>2026-03-28T22:42:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818839/image-76f6a549a8d25048b94b1a7f0db5ebd7.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Zain vs Ginger, Out of the Blue 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zain vs Ginger in Winners Quarter-Final of Out of the Blue 5, streamed by btssmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733918002&amp;t=6h51m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>590</video:duration>
-    <video:publication_date>2026-03-28T22:00:24.000Z</video:publication_date>
-    <video:uploader>btssmash</video:uploader>
-    <video:expiration_date>2026-04-05T22:00:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

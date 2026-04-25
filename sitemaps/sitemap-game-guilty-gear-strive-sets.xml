@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dojo-wannabe-monthly-15/set/102039904/</loc>
+  <lastmod>2026-04-25T12:28:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897468/image-d44af4bc449208c9a2512aec58762ea5.png
+    </video:thumbnail_loc>
+    <video:title>
+      MIDZ vs Dractyloplume, Dojo Wannabe Monthly #15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MIDZ vs Dractyloplume in Losers Round 1 of Dojo Wannabe Monthly #15, streamed by TheDWNetwork
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=TheDWNetwork&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1699</video:duration>
+    <video:publication_date>2026-04-25T12:28:05.000Z</video:publication_date>
+    <video:uploader>TheDWNetwork</video:uploader>
+    <video:expiration_date>2026-05-03T12:28:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-39/set/102019162/</loc>
   <lastmod>2026-04-25T03:26:30.000Z</lastmod>
   <changefreq>daily</changefreq>

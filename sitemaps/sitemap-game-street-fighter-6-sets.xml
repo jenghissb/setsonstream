@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/z-nith-dawn-edition/set/102040579/</loc>
+  <lastmod>2026-04-25T12:36:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856663/image-9525fed54c4b9ea6ed4ee5f6deb62926.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      KatarnOutcast vs arn0, ZÉNITH : Dawn Edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KatarnOutcast vs arn0 in Winners Quarter-Final of ZÉNITH : Dawn Edition, streamed by mystralesport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756582730&amp;t=3h43m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1174</video:duration>
+    <video:publication_date>2026-04-25T12:36:50.000Z</video:publication_date>
+    <video:uploader>mystralesport</video:uploader>
+    <video:expiration_date>2026-05-03T12:36:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-123/set/102019481/</loc>
   <lastmod>2026-04-25T04:00:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-28T02:34:58.000Z</video:publication_date>
     <video:uploader>asuesportsofficial</video:uploader>
     <video:expiration_date>2026-04-05T02:34:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-123/set/100909705/</loc>
-  <lastmod>2026-03-28T02:54:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893909/image-0fcd28b22b4a5f9f714c2480efeff6b5.png
-    </video:thumbnail_loc>
-    <video:title>
-      LeviHakai vs Triiiclops, UP THE BLOCK #123 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LeviHakai vs Triiiclops in Winners Semi-Final of UP THE BLOCK #123, streamed by UG_NYC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733477493&amp;t=1h21m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>531</video:duration>
-    <video:publication_date>2026-03-28T02:11:17.000Z</video:publication_date>
-    <video:uploader>UG_NYC</video:uploader>
-    <video:expiration_date>2026-04-05T02:11:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
