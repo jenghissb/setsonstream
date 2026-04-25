@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/house-of-paign-25/set/102081134/</loc>
-  <lastmod>2026-04-25T21:36:06.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/864395/image-a37fe3b70813a7701b235190be3a4f2d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ober vs Reesch, House of Paign 25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ober vs Reesch in Winners Round 1 of House of Paign 25, streamed by TheSmashingIllini
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2756933445&amp;t=2h38m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1535</video:duration>
-    <video:publication_date>2026-04-25T21:36:06.000Z</video:publication_date>
-    <video:uploader>TheSmashingIllini</video:uploader>
-    <video:expiration_date>2026-05-03T21:36:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mudbug2/set/102058848/</loc>
-  <lastmod>2026-04-25T21:37:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-25T22:29:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2756891586&amp;t=3h31m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1431</video:duration>
+    <video:duration>902</video:duration>
     <video:publication_date>2026-04-25T21:37:50.000Z</video:publication_date>
     <video:uploader>bluethunderbombfgc</video:uploader>
     <video:expiration_date>2026-05-03T21:37:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/house-of-paign-25/set/102081134/</loc>
+  <lastmod>2026-04-25T22:29:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864395/image-a37fe3b70813a7701b235190be3a4f2d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ober vs Reesch, House of Paign 25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ober vs Reesch in Winners Round 1 of House of Paign 25, streamed by TheSmashingIllini
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756933445&amp;t=2h38m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1775</video:duration>
+    <video:publication_date>2026-04-25T21:36:06.000Z</video:publication_date>
+    <video:uploader>TheSmashingIllini</video:uploader>
+    <video:expiration_date>2026-05-03T21:36:06.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>

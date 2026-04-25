@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-56/set/102074947/</loc>
+  <lastmod>2026-04-25T21:57:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879014/image-a0a3743ba6781933e9c1dd98b90bb249.png
+    </video:thumbnail_loc>
+    <video:title>
+      FISH | Gucci vs DEUS | Incendiate, Lunatic Perilune #56 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FISH | Gucci vs DEUS | Incendiate in Losers Semi-Final of Lunatic Perilune #56, streamed by lunarphaselive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756999005&amp;t=1h36m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2896</video:duration>
+    <video:publication_date>2026-04-25T21:57:29.000Z</video:publication_date>
+    <video:uploader>lunarphaselive</video:uploader>
+    <video:expiration_date>2026-05-03T21:57:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-56/set/102074915/</loc>
   <lastmod>2026-04-25T21:28:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-07T17:49:07.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-03-15T17:49:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152497/</loc>
-  <lastmod>2026-03-07T17:58:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877566/image-e51e6ae1b4d434b0666bee356b98fccc.png
-    </video:thumbnail_loc>
-    <video:title>
-      SSRB | Bismarck vs JM | TTT | cptneccbrd, Plus Mids #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SSRB | Bismarck vs JM | TTT | cptneccbrd in Winners Round 2 of Plus Mids #6, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716291727&amp;t=0h33m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>365</video:duration>
-    <video:publication_date>2026-03-07T17:26:31.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2026-03-15T17:26:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

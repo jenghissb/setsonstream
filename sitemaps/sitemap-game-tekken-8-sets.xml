@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-42/set/102080149/</loc>
+  <lastmod>2026-04-25T22:13:42.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896925/image-a97b4ec00b00aecdf032a77fa7f503dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      KingsTigBiddies vs Massacre, Mid Hudson Mayhem #42 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KingsTigBiddies vs Massacre in Winners Semi-Final of Mid Hudson Mayhem #42, streamed by midhudsonmayhem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756994162&amp;t=1h59m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1923</video:duration>
+    <video:publication_date>2026-04-25T22:13:42.000Z</video:publication_date>
+    <video:uploader>midhudsonmayhem</video:uploader>
+    <video:expiration_date>2026-05-03T22:13:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/lvl-up-expo-2026-1/set/102060930/</loc>
   <lastmod>2026-04-25T21:35:51.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-28T09:57:47.000Z</video:publication_date>
     <video:uploader>viennality</video:uploader>
     <video:expiration_date>2026-04-05T09:57:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-112/set/100919283/</loc>
-  <lastmod>2026-03-28T05:00:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893655/image-913d43cada1a1e8ce66f6bb0235ada9b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PLMONT vs BILLALER, SoCal Colosseum #112 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PLMONT vs BILLALER in Losers Final of SoCal Colosseum #112, streamed by SoCalColosseum
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733561614&amp;t=1h49m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>964</video:duration>
-    <video:publication_date>2026-03-28T04:25:42.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum</video:uploader>
-    <video:expiration_date>2026-04-05T04:25:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
