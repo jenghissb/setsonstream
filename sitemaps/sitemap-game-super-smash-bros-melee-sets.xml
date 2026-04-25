@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/house-of-paign-25/set/102071066/</loc>
-  <lastmod>2026-04-25T21:01:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/house-of-paign-25/set/102081134/</loc>
+  <lastmod>2026-04-25T21:36:06.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/864395/image-a37fe3b70813a7701b235190be3a4f2d.png
     </video:thumbnail_loc>
     <video:title>
-      Forest vs mase, House of Paign 25 - Sets on Stream
+      Ober vs Reesch, House of Paign 25 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Forest vs mase in Losers Quarter-Final of House of Paign 25, streamed by TheSmashingIllini
+      Watch Ober vs Reesch in Winners Round 1 of House of Paign 25, streamed by TheSmashingIllini
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2756933445&amp;t=2h3m23s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2756933445&amp;t=2h38m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1418</video:duration>
-    <video:publication_date>2026-04-25T21:01:23.000Z</video:publication_date>
+    <video:duration>1535</video:duration>
+    <video:publication_date>2026-04-25T21:36:06.000Z</video:publication_date>
     <video:uploader>TheSmashingIllini</video:uploader>
-    <video:expiration_date>2026-05-03T21:01:23.000Z</video:expiration_date>
+    <video:expiration_date>2026-05-03T21:36:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mudbug2/set/102058848/</loc>
+  <lastmod>2026-04-25T21:37:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872724/image-d04b9c40c63bf10afd0cfa55c1492fd5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Austin vs ZOOK | Suezo, Mudbug2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Austin vs ZOOK | Suezo in Losers Semi-Final of Mudbug2, streamed by bluethunderbombfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756891586&amp;t=3h31m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1431</video:duration>
+    <video:publication_date>2026-04-25T21:37:50.000Z</video:publication_date>
+    <video:uploader>bluethunderbombfgc</video:uploader>
+    <video:expiration_date>2026-05-03T21:37:50.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mudbug2/set/102058846/</loc>
-  <lastmod>2026-04-25T21:03:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-25T21:49:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2756891586&amp;t=2h57m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1281</video:duration>
+    <video:duration>990</video:duration>
     <video:publication_date>2026-04-25T21:03:40.000Z</video:publication_date>
     <video:uploader>bluethunderbombfgc</video:uploader>
     <video:expiration_date>2026-05-03T21:03:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/house-of-paign-25/set/102071066/</loc>
+  <lastmod>2026-04-25T21:49:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/864395/image-a37fe3b70813a7701b235190be3a4f2d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Forest vs mase, House of Paign 25 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Forest vs mase in Losers Quarter-Final of House of Paign 25, streamed by TheSmashingIllini
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756933445&amp;t=2h3m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>652</video:duration>
+    <video:publication_date>2026-04-25T21:01:23.000Z</video:publication_date>
+    <video:uploader>TheSmashingIllini</video:uploader>
+    <video:expiration_date>2026-05-03T21:01:23.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-03-28T23:46:16.000Z</video:publication_date>
     <video:uploader>ded__gaming</video:uploader>
     <video:expiration_date>2026-04-05T23:46:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-robin-flies-south/set/100983738/</loc>
-  <lastmod>2026-03-29T00:31:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890587/image-5fafe865882d0e968d904162d81011e1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      duckrobin vs Mono, The Robin Flies South - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch duckrobin vs Mono in Losers Semi-Final of The Robin Flies South, streamed by coldhandscollective
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734185036&amp;t=2h50m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1018</video:duration>
-    <video:publication_date>2026-03-28T23:39:09.000Z</video:publication_date>
-    <video:uploader>coldhandscollective</video:uploader>
-    <video:expiration_date>2026-04-05T23:39:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lra-start-28-ba-start-arcade-and-taproom/set/100983019/</loc>
-  <lastmod>2026-03-29T00:31:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/892614/image-746744465be8a28f45c27cd4b00db8f1.png
-    </video:thumbnail_loc>
-    <video:title>
-      deluxe vs BIG | Luski, LRA Start #28 @ BA Start Arcade and Taproom - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch deluxe vs BIG | Luski in Round 7 of LRA Start #28 @ BA Start Arcade and Taproom, streamed by slomelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734253838&amp;t=1h20m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1083</video:duration>
-    <video:publication_date>2026-03-28T23:37:51.000Z</video:publication_date>
-    <video:uploader>slomelee</video:uploader>
-    <video:expiration_date>2026-04-05T23:37:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
