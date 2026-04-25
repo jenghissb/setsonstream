@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/emea-tekken-cup-4-finals/set/102034118/</loc>
+  <lastmod>2026-04-25T08:21:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889991/image-248b5c01e7ba2f41a90d9e1a241fb64a.png
+    </video:thumbnail_loc>
+    <video:title>
+      KING.GEEDORAH17 vs ROS | Sidnificus, EMEA TEKKEN CUP 4 FINALS - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KING.GEEDORAH17 vs ROS | Sidnificus in Winners Round 1 of EMEA TEKKEN CUP 4 FINALS, streamed by TEKKEN
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=TEKKEN&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>645</video:duration>
+    <video:publication_date>2026-04-25T08:21:31.000Z</video:publication_date>
+    <video:uploader>TEKKEN</video:uploader>
+    <video:expiration_date>2026-05-03T08:21:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/fight-night-live-3d-2/set/102026470/</loc>
   <lastmod>2026-04-25T05:01:19.000Z</lastmod>
   <changefreq>daily</changefreq>
