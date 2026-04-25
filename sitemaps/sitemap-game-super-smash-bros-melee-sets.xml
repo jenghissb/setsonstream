@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-214/set/102025402/</loc>
+  <lastmod>2026-04-25T05:10:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904683/image-5731c9e475e487d92c37dc9367cda104.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      WoodBeard vs Ducky, Fight Night Fridays #214 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WoodBeard vs Ducky in Grand Final of Fight Night Fridays #214, streamed by cptwoodbeard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756391866&amp;t=2h26m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1106</video:duration>
+    <video:publication_date>2026-04-25T04:35:24.000Z</video:publication_date>
+    <video:uploader>cptwoodbeard</video:uploader>
+    <video:expiration_date>2026-05-03T04:35:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-12/set/102026133/</loc>
+  <lastmod>2026-04-25T04:44:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904207/image-516709c2b41efc6903c538e086134b53.png
+    </video:thumbnail_loc>
+    <video:title>
+      Brutalrattle vs Muscoman, Kastle Smashers 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Brutalrattle vs Muscoman in Losers Semi-Final of Kastle Smashers 12, streamed by NorCalMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2756392689&amp;t=2h0m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>682</video:duration>
+    <video:publication_date>2026-04-25T04:10:27.000Z</video:publication_date>
+    <video:uploader>NorCalMelee</video:uploader>
+    <video:expiration_date>2026-05-03T04:10:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/floating-point-2026/set/102025254/</loc>
-  <lastmod>2026-04-25T03:43:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-25T04:18:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2756305455&amp;t=3h30m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1653</video:duration>
+    <video:duration>1186</video:duration>
     <video:publication_date>2026-04-25T03:43:09.000Z</video:publication_date>
     <video:uploader>tid_gamedev</video:uploader>
     <video:expiration_date>2026-05-03T03:43:09.000Z</video:expiration_date>
@@ -26,8 +74,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-12/set/102026069/</loc>
-  <lastmod>2026-04-25T03:36:47.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-25T04:18:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2756392689&amp;t=1h26m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2035</video:duration>
+    <video:duration>1127</video:duration>
     <video:publication_date>2026-04-25T03:36:47.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-05-03T03:36:47.000Z</video:expiration_date>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-03-28T22:00:24.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2026-04-05T22:00:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/juicy-jamboree-march-28th-29th-2026/set/100981700/</loc>
-  <lastmod>2026-03-28T22:42:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873412/image-bfa786b5eb1776f1b7184f642625bde8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Slowpez vs Sour Patch, Juicy Jamboree - March 28th-29th, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Slowpez vs Sour Patch in Winners Semi-Final of Juicy Jamboree - March 28th-29th, 2026, streamed by spiralmedia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734173426&amp;t=1h24m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>745</video:duration>
-    <video:publication_date>2026-03-28T21:58:41.000Z</video:publication_date>
-    <video:uploader>spiralmedia</video:uploader>
-    <video:expiration_date>2026-04-05T21:58:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-robin-flies-south/set/100983701/</loc>
-  <lastmod>2026-03-28T22:42:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890587/image-5fafe865882d0e968d904162d81011e1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Mono vs duckrobin, The Robin Flies South - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Mono vs duckrobin in Winners Quarter-Final of The Robin Flies South, streamed by coldhandscollective
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734185036&amp;t=1h9m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1082</video:duration>
-    <video:publication_date>2026-03-28T21:58:22.000Z</video:publication_date>
-    <video:uploader>coldhandscollective</video:uploader>
-    <video:expiration_date>2026-04-05T21:58:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
