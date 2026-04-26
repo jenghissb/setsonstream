@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/toulouse-spring-showdown-2026/set/102116242/</loc>
+  <lastmod>2026-04-26T09:29:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851875/image-31ae2636098e3306cff8b5d436e791e3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Croque-Monsieur vs TFZ | Raycer, Toulouse Spring Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Croque-Monsieur vs TFZ | Raycer in Winners Semi-Final of Toulouse Spring Showdown 2026, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757404537&amp;t=1h22m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1380</video:duration>
+    <video:publication_date>2026-04-26T09:29:28.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-05-04T09:29:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/dead-on-arrival-chapter-6-rebirth/set/102106969/</loc>
   <lastmod>2026-04-26T04:05:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-06T23:53:16.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2026-04-14T23:53:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/chains-of-fate-monthly-20-a-chain-shift-2026-event/set/101288445/</loc>
-  <lastmod>2026-04-06T02:42:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/894854/image-ea214c94cf9ccd5edb417f12ebfd0358.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      真島建設 | Arcblade(mashima kensetsu | Arcblade) vs a schwa, Chains of Fate Monthly #20: A CHAIN SHIFT 2026 Event - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 真島建設 | Arcblade(mashima kensetsu | Arcblade) vs a schwa in Grand Final of Chains of Fate Monthly #20: A CHAIN SHIFT 2026 Event, streamed by howdypartnerer
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2740947068&amp;t=3h47m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>501</video:duration>
-    <video:publication_date>2026-04-06T02:18:14.000Z</video:publication_date>
-    <video:uploader>howdypartnerer</video:uploader>
-    <video:expiration_date>2026-04-14T02:18:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
