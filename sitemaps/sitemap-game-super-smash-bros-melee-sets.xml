@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lab-monster-95/set/102092128/</loc>
-  <lastmod>2026-04-25T23:02:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lab-monster-95/set/102096297/</loc>
+  <lastmod>2026-04-25T23:38:03.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904932/image-5f9471c64359b06d6264c4abb65eac3a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Emily Rosewood vs goodly, Lab Monster 95 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Emily Rosewood vs goodly in Winners Quarter-Final of Lab Monster 95, streamed by labmonsters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757080834&amp;t=1h18m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1548</video:duration>
+    <video:publication_date>2026-04-25T23:38:03.000Z</video:publication_date>
+    <video:uploader>labmonsters</video:uploader>
+    <video:expiration_date>2026-05-03T23:38:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lab-monster-95/set/102092128/</loc>
+  <lastmod>2026-04-25T23:47:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2757080834&amp;t=0h42m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1387</video:duration>
+    <video:duration>523</video:duration>
     <video:publication_date>2026-04-25T23:02:01.000Z</video:publication_date>
     <video:uploader>labmonsters</video:uploader>
     <video:expiration_date>2026-05-03T23:02:01.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-28T23:51:42.000Z</video:publication_date>
     <video:uploader>labmonsters</video:uploader>
     <video:expiration_date>2026-04-05T23:51:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/out-of-the-blue-5/set/100943006/</loc>
-  <lastmod>2026-03-29T00:31:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/818839/image-76f6a549a8d25048b94b1a7f0db5ebd7.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BLE | SluG vs SR | moky, Out of the Blue 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BLE | SluG vs SR | moky in Winners Semi-Final of Out of the Blue 5, streamed by btssmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733918002&amp;t=8h38m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1408</video:duration>
-    <video:publication_date>2026-03-28T23:47:32.000Z</video:publication_date>
-    <video:uploader>btssmash</video:uploader>
-    <video:expiration_date>2026-04-05T23:47:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
