@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124766/</loc>
+  <lastmod>2026-04-26T19:30:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882710/image-f50de4c02cbc4d44cb44fe752132a6c1.png
+    </video:thumbnail_loc>
+    <video:title>
+      RapMonster vs Aura, Full House: Siege - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RapMonster vs Aura in Losers Round 2 of Full House: Siege, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757638850&amp;t=3h32m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1646</video:duration>
+    <video:publication_date>2026-04-26T19:30:14.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2026-05-04T19:30:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124739/</loc>
   <lastmod>2026-04-26T18:54:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-29T02:32:58.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-04-06T02:32:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/night-of-the-living-ded-10-melee-p-1-year-anniversary-party/set/100988888/</loc>
-  <lastmod>2026-03-29T02:41:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886263/image-328e15c4f0979e01d80a8c341e12d38f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Greenstach vs THE BOIS | Arn255, Night of the living DED #10 (Melee &amp; P+) 1 Year Anniversary Party - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Greenstach vs THE BOIS | Arn255 in Losers Quarter-Final of Night of the living DED #10 (Melee &amp; P+) 1 Year Anniversary Party, streamed by ded__gaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734260946&amp;t=3h40m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1396</video:duration>
-    <video:publication_date>2026-03-29T02:08:38.000Z</video:publication_date>
-    <video:uploader>ded__gaming</video:uploader>
-    <video:expiration_date>2026-04-06T02:08:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/saturday-trials-7-500-pot-bonus/set/102134604/</loc>
+  <lastmod>2026-04-26T19:25:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897429/image-7c7afd82041f8812e54c8691ad6fd8f8.png
+    </video:thumbnail_loc>
+    <video:title>
+      TRULY | Gold_Phantom__ vs Flashy Git, Saturday Trials 7 ($500 Pot Bonus!) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TRULY | Gold_Phantom__ vs Flashy Git in Winners Quarter-Final of Saturday Trials 7 ($500 Pot Bonus!), streamed by MatchStickMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757710889&amp;t=1h51m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1911</video:duration>
+    <video:publication_date>2026-04-26T19:25:49.000Z</video:publication_date>
+    <video:uploader>MatchStickMelee</video:uploader>
+    <video:expiration_date>2026-05-04T19:25:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/lunatic-perilune-56/set/102074947/</loc>
   <lastmod>2026-04-25T22:48:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-07T18:24:02.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-03-15T18:24:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/plus-mids-6/set/100152505/</loc>
-  <lastmod>2026-03-07T18:29:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877566/image-e51e6ae1b4d434b0666bee356b98fccc.png
-    </video:thumbnail_loc>
-    <video:title>
-      TF | HUEBERT vs JM | BeG04T, Plus Mids #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TF | HUEBERT vs JM | BeG04T in Winners Quarter-Final of Plus Mids #6, streamed by just_mids
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716291727&amp;t=0h55m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>669</video:duration>
-    <video:publication_date>2026-03-07T17:49:07.000Z</video:publication_date>
-    <video:uploader>just_mids</video:uploader>
-    <video:expiration_date>2026-03-15T17:49:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
