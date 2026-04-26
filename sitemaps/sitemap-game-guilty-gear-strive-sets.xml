@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/saturday-trials-7-500-pot-bonus/set/102132504/</loc>
-  <lastmod>2026-04-26T21:23:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/897429/image-7c7afd82041f8812e54c8691ad6fd8f8.png
-    </video:thumbnail_loc>
-    <video:title>
-      QUIZNOS | mooni vs GER | Taco, Saturday Trials 7 ($500 Pot Bonus!) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch QUIZNOS | mooni vs GER | Taco in Losers Final of Saturday Trials 7 ($500 Pot Bonus!), streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2757815543&amp;t=1h41m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2387</video:duration>
-    <video:publication_date>2026-04-26T21:23:58.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-05-04T21:23:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sunday-night-fights-vol-57/set/102134001/</loc>
-  <lastmod>2026-04-26T21:24:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-26T22:02:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2757791670&amp;t=2h13m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2334</video:duration>
+    <video:duration>622</video:duration>
     <video:publication_date>2026-04-26T21:24:51.000Z</video:publication_date>
     <video:uploader>magik4fgc</video:uploader>
     <video:expiration_date>2026-05-04T21:24:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/saturday-trials-7-500-pot-bonus/set/102132504/</loc>
+  <lastmod>2026-04-26T22:02:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897429/image-7c7afd82041f8812e54c8691ad6fd8f8.png
+    </video:thumbnail_loc>
+    <video:title>
+      QUIZNOS | mooni vs GER | Taco, Saturday Trials 7 ($500 Pot Bonus!) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch QUIZNOS | mooni vs GER | Taco in Losers Final of Saturday Trials 7 ($500 Pot Bonus!), streamed by GameArenaCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757815543&amp;t=1h41m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>688</video:duration>
+    <video:publication_date>2026-04-26T21:23:58.000Z</video:publication_date>
+    <video:uploader>GameArenaCo</video:uploader>
+    <video:expiration_date>2026-05-04T21:23:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124771/</loc>
+  <lastmod>2026-04-26T22:56:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882710/image-f50de4c02cbc4d44cb44fe752132a6c1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zain vs Envy | Wizzrobe, Full House: Siege - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zain vs Envy | Wizzrobe in Losers Quarter-Final of Full House: Siege, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757638850&amp;t=6h25m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>722</video:duration>
+    <video:publication_date>2026-04-26T22:22:48.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2026-05-04T22:22:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124741/</loc>
   <lastmod>2026-04-26T21:57:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-29T04:26:16.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-04-06T04:26:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/big-kastle-bonus-stage-200-pot-bonus/set/101006563/</loc>
-  <lastmod>2026-03-29T04:30:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886768/image-51a40d18b0b9c0e4d6f2db210604113d.png
-    </video:thumbnail_loc>
-    <video:title>
-      TCM | MrG vs Umarth, Big Kastle: Bonus Stage - $200 Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TCM | MrG vs Umarth in Losers Final of Big Kastle: Bonus Stage - $200 Pot Bonus, streamed by NorCalMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734296534&amp;t=4h38m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1040</video:duration>
-    <video:publication_date>2026-03-29T03:54:03.000Z</video:publication_date>
-    <video:uploader>NorCalMelee</video:uploader>
-    <video:expiration_date>2026-04-06T03:54:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
