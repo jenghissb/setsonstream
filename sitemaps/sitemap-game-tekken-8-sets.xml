@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/oslo-showdown-2026-r4/set/102125592/</loc>
+  <lastmod>2026-04-26T18:43:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/900409/image-d58a63ab4c3c106909363c15992ea56d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RBNorway | MadCow vs RBNorway | SkytorRush, Oslo Showdown: 2026 #R4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RBNorway | MadCow vs RBNorway | SkytorRush in Round 5 of Oslo Showdown: 2026 #R4, streamed by RBNorway
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757590052&amp;t=3h8m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1030</video:duration>
+    <video:publication_date>2026-04-26T17:52:22.000Z</video:publication_date>
+    <video:uploader>RBNorway</video:uploader>
+    <video:expiration_date>2026-05-04T17:52:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/oslo-showdown-2026-r4/set/102125589/</loc>
   <lastmod>2026-04-26T17:40:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-28T23:41:34.000Z</video:publication_date>
     <video:uploader>asuesportsofficial</video:uploader>
     <video:expiration_date>2026-04-05T23:41:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/backstreet-brawl-15-rise-with-the-wind/set/100986319/</loc>
-  <lastmod>2026-03-29T00:19:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884489/image-91508ad3ed0b4ac9e8ee885bf3610d83.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ged Merrilin vs Flamemaster, Backstreet Brawl #15 - Rise With The Wind - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ged Merrilin vs Flamemaster in Winners Final of Backstreet Brawl #15 - Rise With The Wind, streamed by SatelliteFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734138123&amp;t=3h45m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1099</video:duration>
-    <video:publication_date>2026-03-28T23:38:16.000Z</video:publication_date>
-    <video:uploader>SatelliteFighters</video:uploader>
-    <video:expiration_date>2026-04-05T23:38:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
