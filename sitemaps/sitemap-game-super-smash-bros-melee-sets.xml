@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124770/</loc>
-  <lastmod>2026-04-26T20:23:12.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124769/</loc>
+  <lastmod>2026-04-26T20:44:22.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882710/image-f50de4c02cbc4d44cb44fe752132a6c1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Envy | Wizzrobe vs Aura, Full House: Siege - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Envy | Wizzrobe vs Aura in Losers Round 3 of Full House: Siege, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757638850&amp;t=4h46m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2302</video:duration>
+    <video:publication_date>2026-04-26T20:44:22.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2026-05-04T20:44:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124770/</loc>
+  <lastmod>2026-04-26T20:57:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2757638850&amp;t=4h25m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>827</video:duration>
+    <video:duration>1036</video:duration>
     <video:publication_date>2026-04-26T20:23:12.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2026-05-04T20:23:12.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-29T03:31:08.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-04-06T03:31:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/big-kastle-bonus-stage-200-pot-bonus/set/101006498/</loc>
-  <lastmod>2026-03-29T03:37:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886768/image-51a40d18b0b9c0e4d6f2db210604113d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Umarth vs Typhoon, Big Kastle: Bonus Stage - $200 Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Umarth vs Typhoon in Winners Semi-Final of Big Kastle: Bonus Stage - $200 Pot Bonus, streamed by NorCalMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734296534&amp;t=3h42m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1050</video:duration>
-    <video:publication_date>2026-03-29T02:58:05.000Z</video:publication_date>
-    <video:uploader>NorCalMelee</video:uploader>
-    <video:expiration_date>2026-04-06T02:58:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
