@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-pizza-shop-7/set/102138695/</loc>
+  <lastmod>2026-04-26T21:51:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886678/image-e6f5cdc7320f629c9e8133b372a5017b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Splippy vs THE PIZZA GUY, The Pizza Shop #7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Splippy vs THE PIZZA GUY in Winners Semi-Final of The Pizza Shop #7, streamed by one_up_games
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757878658&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1420</video:duration>
+    <video:publication_date>2026-04-26T21:01:24.000Z</video:publication_date>
+    <video:uploader>one_up_games</video:uploader>
+    <video:expiration_date>2026-05-04T21:01:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-pizza-shop-7/set/102138692/</loc>
-  <lastmod>2026-04-26T20:47:45.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-26T21:21:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2757692250&amp;t=3h38m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2099</video:duration>
+    <video:duration>596</video:duration>
     <video:publication_date>2026-04-26T20:47:45.000Z</video:publication_date>
     <video:uploader>one_up_games</video:uploader>
     <video:expiration_date>2026-05-04T20:47:45.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-22T20:44:01.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2026-03-30T20:44:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/super-fusion-1-the-fusion-supermajor/set/100736720/</loc>
-  <lastmod>2026-03-22T20:50:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866801/image-fceecdded29422f8c4e0c38b7959c2bd.png
-    </video:thumbnail_loc>
-    <video:title>
-      sleet.gg | CheesyPotato vs Yoda Cage, Super Fusion #1 - The Fusion Supermajor - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch sleet.gg | CheesyPotato vs Yoda Cage in Losers Round 1 of Super Fusion #1 - The Fusion Supermajor, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728978439&amp;t=5h12m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>499</video:duration>
-    <video:publication_date>2026-03-22T20:17:44.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2026-03-30T20:17:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
