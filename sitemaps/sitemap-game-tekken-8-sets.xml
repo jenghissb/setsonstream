@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/emea-tekken-cup-4-finals/set/102116266/</loc>
+  <lastmod>2026-04-26T15:07:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889991/image-248b5c01e7ba2f41a90d9e1a241fb64a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kaneandtrench vs NeonKay64, EMEA TEKKEN CUP 4 FINALS - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaneandtrench vs NeonKay64 in Winners Final of EMEA TEKKEN CUP 4 FINALS, streamed by TEKKEN
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757447115&amp;t=4h19m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>776</video:duration>
+    <video:publication_date>2026-04-26T14:26:47.000Z</video:publication_date>
+    <video:uploader>TEKKEN</video:uploader>
+    <video:expiration_date>2026-05-04T14:26:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/emea-tekken-cup-4-finals/set/102116279/</loc>
-  <lastmod>2026-04-26T13:27:16.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-26T14:31:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2757447115&amp;t=3h19m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
+    <video:duration>1813</video:duration>
     <video:publication_date>2026-04-26T13:27:16.000Z</video:publication_date>
     <video:uploader>TEKKEN</video:uploader>
     <video:expiration_date>2026-05-04T13:27:16.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-28T23:31:55.000Z</video:publication_date>
     <video:uploader>kaizurtv</video:uploader>
     <video:expiration_date>2026-04-05T23:31:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/backstreet-brawl-15-rise-with-the-wind/set/100986347/</loc>
-  <lastmod>2026-03-28T23:44:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884489/image-91508ad3ed0b4ac9e8ee885bf3610d83.png
-    </video:thumbnail_loc>
-    <video:title>
-      BigBloopster vs donut | syrupdonut, Backstreet Brawl #15 - Rise With The Wind - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BigBloopster vs donut | syrupdonut in Losers Round 3 of Backstreet Brawl #15 - Rise With The Wind, streamed by SatelliteFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734138123&amp;t=3h10m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>410</video:duration>
-    <video:publication_date>2026-03-28T23:03:38.000Z</video:publication_date>
-    <video:uploader>SatelliteFighters</video:uploader>
-    <video:expiration_date>2026-04-05T23:03:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
