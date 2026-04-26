@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-pizza-shop-7/set/102138691/</loc>
+  <lastmod>2026-04-26T20:19:06.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886678/image-e6f5cdc7320f629c9e8133b372a5017b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Splippy vs :^) | Triforce!, The Pizza Shop #7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Splippy vs :^) | Triforce! in Winners Quarter-Final of The Pizza Shop #7, streamed by one_up_games
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757692250&amp;t=3h9m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1073</video:duration>
+    <video:publication_date>2026-04-26T20:19:06.000Z</video:publication_date>
+    <video:uploader>one_up_games</video:uploader>
+    <video:expiration_date>2026-05-04T20:19:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heartbreakers-9-300-pot-bonus/set/102125121/</loc>
   <lastmod>2026-04-26T19:19:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-22T19:15:57.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2026-03-30T19:15:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/heartbreakers-8-200-pot-bonus/set/100731660/</loc>
-  <lastmod>2026-03-22T21:18:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872922/image-85a58ee5db868d5cef4731700267b512.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shnoopy vs PRINCESS | Passion, Heartbreakers 8 ($200 POT BONUS) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shnoopy vs PRINCESS | Passion in Grand Final of Heartbreakers 8 ($200 POT BONUS), streamed by NexusEsportsEvents
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2729188992&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-03-22T19:04:46.000Z</video:publication_date>
-    <video:uploader>NexusEsportsEvents</video:uploader>
-    <video:expiration_date>2026-03-30T19:04:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
