@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124736/</loc>
-  <lastmod>2026-04-26T17:16:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124737/</loc>
+  <lastmod>2026-04-26T17:38:30.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882710/image-f50de4c02cbc4d44cb44fe752132a6c1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Zain vs SR | Joshman, Full House: Siege - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Zain vs SR | Joshman in Winners Quarter-Final of Full House: Siege, streamed by btssmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757638850&amp;t=1h40m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1671</video:duration>
+    <video:publication_date>2026-04-26T17:38:30.000Z</video:publication_date>
+    <video:uploader>btssmash</video:uploader>
+    <video:expiration_date>2026-05-04T17:38:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/full-house-siege/set/102124736/</loc>
+  <lastmod>2026-04-26T17:51:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2757638850&amp;t=1h18m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>618</video:duration>
+    <video:duration>1306</video:duration>
     <video:publication_date>2026-04-26T17:16:24.000Z</video:publication_date>
     <video:uploader>btssmash</video:uploader>
     <video:expiration_date>2026-05-04T17:16:24.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-03-29T02:04:17.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-04-06T02:04:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lra-start-28-ba-start-arcade-and-taproom/set/100997403/</loc>
-  <lastmod>2026-03-29T02:41:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/892614/image-746744465be8a28f45c27cd4b00db8f1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Food Product vs deluxe, LRA Start #28 @ BA Start Arcade and Taproom - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Food Product vs deluxe in Grand Final of LRA Start #28 @ BA Start Arcade and Taproom, streamed by slomelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734322741&amp;t=1h59m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2130</video:duration>
-    <video:publication_date>2026-03-29T01:52:43.000Z</video:publication_date>
-    <video:uploader>slomelee</video:uploader>
-    <video:expiration_date>2026-04-06T01:52:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
