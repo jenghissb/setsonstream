@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/takera-cup-offline-1/set/102158845/</loc>
+  <lastmod>2026-04-27T08:03:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901907/image-92949fb8041091724b94838f972b0115.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VLY | すさ(VLY | susa) vs SCARZ | Ryusei, takera CUP Offline #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VLY | すさ(VLY | susa) vs SCARZ | Ryusei in Losers Quarter-Final of takera CUP Offline #1, streamed by takera0628
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2758151776&amp;t=2h8m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>593</video:duration>
+    <video:publication_date>2026-04-27T07:22:30.000Z</video:publication_date>
+    <video:uploader>takera0628</video:uploader>
+    <video:expiration_date>2026-05-05T07:22:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/takera-cup-offline-1/set/102158712/</loc>
   <lastmod>2026-04-27T06:59:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-29T00:35:04.000Z</video:publication_date>
     <video:uploader>studysessionlive</video:uploader>
     <video:expiration_date>2026-04-06T00:35:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/texas-showdown-2026/set/100990862/</loc>
-  <lastmod>2026-03-29T01:19:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797131/image-34e3631cb5c9a2445eafed3cd989c4f0.png
-    </video:thumbnail_loc>
-    <video:title>
-      OKB | ElSeco vs Stealth, Texas Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OKB | ElSeco vs Stealth in Winners Round 1 of Texas Showdown 2026, streamed by txshowdownlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733914307&amp;t=9h31m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>658</video:duration>
-    <video:publication_date>2026-03-29T00:34:00.000Z</video:publication_date>
-    <video:uploader>txshowdownlive</video:uploader>
-    <video:expiration_date>2026-04-06T00:34:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
