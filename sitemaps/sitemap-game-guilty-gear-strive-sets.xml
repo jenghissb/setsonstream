@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/lvl-up-expo-2026-1/set/102146698/</loc>
+  <lastmod>2026-04-27T00:58:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/832345/image-741513040da5be1af04420808a54ed57.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      iDom vs Gen.G | Dany &quot;El Maza&quot;, LVL UP EXPO 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch iDom vs Gen.G | Dany &quot;El Maza&quot; in Grand Final of LVL UP EXPO 2026, streamed by ceogaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2757766505&amp;t=5h33m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>993</video:duration>
+    <video:publication_date>2026-04-27T00:15:44.000Z</video:publication_date>
+    <video:uploader>ceogaming</video:uploader>
+    <video:expiration_date>2026-05-05T00:15:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sunday-night-fights-vol-57/set/102134001/</loc>
   <lastmod>2026-04-26T22:02:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-11T01:30:14.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-04-19T01:30:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-37/set/101444367/</loc>
-  <lastmod>2026-04-11T02:13:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898912/image-64437c0a663b44687e1d64b9eb8243f5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      LVL5 | ATLRiot vs TROLLGANG | roof cat, 4o4 By Sh33rz: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LVL5 | ATLRiot vs TROLLGANG | roof cat in Winners Round 3 of 4o4 By Sh33rz: Anime Weekly, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2744966389&amp;t=2h6m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>983</video:duration>
-    <video:publication_date>2026-04-11T01:24:59.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-04-19T01:24:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
