@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-242/set/102241771/</loc>
+  <lastmod>2026-04-29T22:59:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906938/image-4c58afeef47ff10cb1c7735371806955.png
+    </video:thumbnail_loc>
+    <video:title>
+      ESG | JAYDASH vs CRAB | small funny, ESG Fight Night #242 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ESG | JAYDASH vs CRAB | small funny in Winners Quarter-Final of ESG Fight Night #242, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=ESG_Live_Streams&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>750</video:duration>
+    <video:publication_date>2026-04-29T22:59:50.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-05-07T22:59:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-100-norcal-tekken-8-2xko-weekly/set/102225589/</loc>
   <lastmod>2026-04-29T05:21:56.000Z</lastmod>
   <changefreq>daily</changefreq>
