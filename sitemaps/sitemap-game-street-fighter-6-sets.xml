@@ -1,33 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-98/set/102217708/</loc>
-  <lastmod>2026-04-29T00:58:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesdays-at-d-b-42/set/102218376/</loc>
+  <lastmod>2026-04-29T03:12:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905308/image-4771ec9458ffbbebc297a0c4af09c324.jpg
+      https://images.start.gg/images/tournament/905534/image-a23d0c504df11e80044c436b213abca9.png
     </video:thumbnail_loc>
     <video:title>
-      4o4 | chrisymandias vs Noodle, 4o4 by Sh33rz: Street Fighter #98 - Sets on Stream
+      PCH | Earl vs Play_guy, Tuesdays at D&amp;B #42 - Sets on Stream
     </video:title>
     <video:description>
-      Watch 4o4 | chrisymandias vs Noodle in Winners Quarter-Final of 4o4 by Sh33rz: Street Fighter #98, streamed by 4o4esports
+      Watch PCH | Earl vs Play_guy in Grand Final of Tuesdays at D&amp;B #42, streamed by Chicagolandfightersfgc
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=4o4esports&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2759612829&amp;t=0h27m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1580</video:duration>
-    <video:publication_date>2026-04-29T00:58:48.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-05-07T00:58:48.000Z</video:expiration_date>
+    <video:duration>1110</video:duration>
+    <video:publication_date>2026-04-29T02:38:20.000Z</video:publication_date>
+    <video:uploader>Chicagolandfightersfgc</video:uploader>
+    <video:expiration_date>2026-05-07T02:38:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesdays-at-d-b-42/set/102218375/</loc>
+  <lastmod>2026-04-29T02:21:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/905534/image-a23d0c504df11e80044c436b213abca9.png
+    </video:thumbnail_loc>
+    <video:title>
+      ARRUUMS vs PCH | Earl, Tuesdays at D&amp;B #42 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ARRUUMS vs PCH | Earl in Winners Final of Tuesdays at D&amp;B #42, streamed by Chicagolandfightersfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2759535230&amp;t=1h20m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1051</video:duration>
+    <video:publication_date>2026-04-29T01:49:03.000Z</video:publication_date>
+    <video:uploader>Chicagolandfightersfgc</video:uploader>
+    <video:expiration_date>2026-05-07T01:49:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-150/set/102215437/</loc>
+  <lastmod>2026-04-29T01:56:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907135/image-765d26281baa4e94a6991d57a03ad417.png
+    </video:thumbnail_loc>
+    <video:title>
+      Squirrel445 vs VashTS, HoG: Dragon #150 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Squirrel445 vs VashTS in Losers Final of HoG: Dragon #150, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2759490241&amp;t=1h51m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>662</video:duration>
+    <video:publication_date>2026-04-29T01:20:42.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-05-07T01:20:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-150/set/102215405/</loc>
-  <lastmod>2026-04-29T01:00:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-29T01:30:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2759490241&amp;t=1h31m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1480</video:duration>
+    <video:duration>583</video:duration>
     <video:publication_date>2026-04-29T01:00:28.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-05-07T01:00:28.000Z</video:expiration_date>
@@ -7150,78 +7198,6 @@
     <video:publication_date>2026-03-29T15:50:50.000Z</video:publication_date>
     <video:uploader>saltyarena</video:uploader>
     <video:expiration_date>2026-04-06T15:50:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/road-to-ewc-26-dreamhack-birmingham/set/101018817/</loc>
-  <lastmod>2026-03-29T16:28:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878147/image-5e61de24c5fddf985f7655132bfaad8a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FALCONS | xiaohai vs KatsuGear | HotDog29, ROAD TO EWC 26: DreamHack Birmingham - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FALCONS | xiaohai vs KatsuGear | HotDog29 in Losers Round 1 of ROAD TO EWC 26: DreamHack Birmingham, streamed by ewc_plus_en2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734672851&amp;t=4h24m36s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>815</video:duration>
-    <video:publication_date>2026-03-29T15:46:55.000Z</video:publication_date>
-    <video:uploader>ewc_plus_en2</video:uploader>
-    <video:expiration_date>2026-04-06T15:46:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fits-11-sf6-monthly/set/101002502/</loc>
-  <lastmod>2026-03-29T03:46:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890765/image-23d36476bd957dcaabf24b304cd6ecbf.png
-    </video:thumbnail_loc>
-    <video:title>
-      Quasont vs STK3 | TreeWiz, FITS #11 - SF6 Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Quasont vs STK3 | TreeWiz in Losers Semi-Final of FITS #11 - SF6 Monthly, streamed by studysessionlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734218048&amp;t=5h43m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>680</video:duration>
-    <video:publication_date>2026-03-29T03:13:38.000Z</video:publication_date>
-    <video:uploader>studysessionlive</video:uploader>
-    <video:expiration_date>2026-04-06T03:13:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fits-11-sf6-monthly/set/101002501/</loc>
-  <lastmod>2026-03-29T03:19:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890765/image-23d36476bd957dcaabf24b304cd6ecbf.png
-    </video:thumbnail_loc>
-    <video:title>
-      STK3 | TreeWiz vs FitS | BAD_MAN, FITS #11 - SF6 Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch STK3 | TreeWiz vs FitS | BAD_MAN in Losers Quarter-Final of FITS #11 - SF6 Monthly, streamed by studysessionlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734218048&amp;t=5h19m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>825</video:duration>
-    <video:publication_date>2026-03-29T02:49:28.000Z</video:publication_date>
-    <video:uploader>studysessionlive</video:uploader>
-    <video:expiration_date>2026-04-06T02:49:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
