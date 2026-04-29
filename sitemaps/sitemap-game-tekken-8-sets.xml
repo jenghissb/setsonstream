@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-100-norcal-tekken-8-2xko-weekly/set/102225589/</loc>
+  <lastmod>2026-04-29T05:21:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906874/image-958923f63b5d4f1ae2ec77157ca48a94.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Alfdog vs Paul Z, Guildhouse Tuesday 100 - Norcal Tekken 8 &amp; 2XKO weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Alfdog vs Paul Z in Losers Final of Guildhouse Tuesday 100 - Norcal Tekken 8 &amp; 2XKO weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2759644837&amp;t=1h54m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>679</video:duration>
+    <video:publication_date>2026-04-29T04:55:12.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-05-07T04:55:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-100-norcal-tekken-8-2xko-weekly/set/102225557/</loc>
-  <lastmod>2026-04-29T04:26:35.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-04-29T04:59:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2759644837&amp;t=1h25m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1453</video:duration>
+    <video:duration>992</video:duration>
     <video:publication_date>2026-04-29T04:26:35.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-05-07T04:26:35.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-03-29T01:49:29.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-04-06T01:49:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/cardinal-crash/set/100998861/</loc>
-  <lastmod>2026-03-29T02:01:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886089/image-4416988eb605f20fbcfc32c5db4c9662.png
-    </video:thumbnail_loc>
-    <video:title>
-      TEA | SoManyNecklace vs SVL, CARDINAL CRASH - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TEA | SoManyNecklace vs SVL in Losers Round 3 of CARDINAL CRASH, streamed by riceychicken
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734337441&amp;t=1h15m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>917</video:duration>
-    <video:publication_date>2026-03-29T01:26:25.000Z</video:publication_date>
-    <video:uploader>riceychicken</video:uploader>
-    <video:expiration_date>2026-04-06T01:26:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
