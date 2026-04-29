@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platform-camp-21/set/102233448/</loc>
+  <lastmod>2026-04-29T20:29:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906719/image-4693e182d4792c4ca78f5809942760a7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pastel vs H&amp;H PUB | YABOIPICCOLO, Platform Camp #21 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pastel vs H&amp;H PUB | YABOIPICCOLO in Winners Semi-Final of Platform Camp #21, streamed by PlatformCampRivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2760040814&amp;t=2h17m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>889</video:duration>
+    <video:publication_date>2026-04-29T19:54:36.000Z</video:publication_date>
+    <video:uploader>PlatformCampRivals</video:uploader>
+    <video:expiration_date>2026-05-07T19:54:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-pizza-shop-7/set/102138695/</loc>
   <lastmod>2026-04-26T21:51:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-22T21:08:53.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2026-03-30T21:08:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/super-fusion-1-the-fusion-supermajor/set/100736706/</loc>
-  <lastmod>2026-03-22T21:18:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866801/image-fceecdded29422f8c4e0c38b7959c2bd.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jupiter vs Bbatts, Super Fusion #1 - The Fusion Supermajor - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jupiter vs Bbatts in Winners Semi-Final of Super Fusion #1 - The Fusion Supermajor, streamed by rivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2728978439&amp;t=5h38m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>558</video:duration>
-    <video:publication_date>2026-03-22T20:44:01.000Z</video:publication_date>
-    <video:uploader>rivalsofaether</video:uploader>
-    <video:expiration_date>2026-03-30T20:44:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
