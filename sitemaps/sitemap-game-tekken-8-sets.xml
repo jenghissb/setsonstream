@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-242/set/102241771/</loc>
-  <lastmod>2026-04-29T22:59:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/donatos-fight-night-4-29-26/set/102245690/</loc>
+  <lastmod>2026-04-29T23:43:51.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907373/image-d23ed0b44b14d6841c983f224c91e10b.png
+    </video:thumbnail_loc>
+    <video:title>
+      DasNewt vs Papi Sifu, Donatos Fight Night - 4/29/26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DasNewt vs Papi Sifu in Winners Round 1 of Donatos Fight Night - 4/29/26, streamed by matchstickmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2760293237&amp;t=0h8m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1524</video:duration>
+    <video:publication_date>2026-04-29T23:43:51.000Z</video:publication_date>
+    <video:uploader>matchstickmelee</video:uploader>
+    <video:expiration_date>2026-05-07T23:43:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-242/set/102241792/</loc>
+  <lastmod>2026-04-29T23:40:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,18 +34,18 @@
       https://images.start.gg/images/tournament/906938/image-4c58afeef47ff10cb1c7735371806955.png
     </video:thumbnail_loc>
     <video:title>
-      ESG | JAYDASH vs CRAB | small funny, ESG Fight Night #242 - Sets on Stream
+      Death13 vs ESG | HOJU, ESG Fight Night #242 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ESG | JAYDASH vs CRAB | small funny in Winners Quarter-Final of ESG Fight Night #242, streamed by ESG_Live_Streams
+      Watch Death13 vs ESG | HOJU in Losers Final of ESG Fight Night #242, streamed by ESG_Live_Streams
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=ESG_Live_Streams&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>750</video:duration>
-    <video:publication_date>2026-04-29T22:59:50.000Z</video:publication_date>
+    <video:duration>1739</video:duration>
+    <video:publication_date>2026-04-29T23:40:16.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2026-05-07T22:59:50.000Z</video:expiration_date>
+    <video:expiration_date>2026-05-07T23:40:16.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8398,30 +8422,6 @@
     <video:publication_date>2026-03-29T01:52:12.000Z</video:publication_date>
     <video:uploader>fh4life1</video:uploader>
     <video:expiration_date>2026-04-06T01:52:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/juicy-jamboree-march-28th-29th-2026/set/100998175/</loc>
-  <lastmod>2026-03-29T02:31:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/873412/image-bfa786b5eb1776f1b7184f642625bde8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BOLT | KhalRhaego vs R4R3side | ShinobiKun904, Juicy Jamboree - March 28th-29th, 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BOLT | KhalRhaego vs R4R3side | ShinobiKun904 in Losers Final of Juicy Jamboree - March 28th-29th, 2026, streamed by JuicyGameNight
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734193304&amp;t=4h51m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>772</video:duration>
-    <video:publication_date>2026-03-29T01:49:29.000Z</video:publication_date>
-    <video:uploader>JuicyGameNight</video:uploader>
-    <video:expiration_date>2026-04-06T01:49:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
