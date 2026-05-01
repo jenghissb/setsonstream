@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-32-ft-ethereal-slice-house/set/102276574/</loc>
+  <lastmod>2026-04-30T23:39:42.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887555/image-217deaa62108021b9c65114b592405e1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      IDLG | CaelanV vs BaconBuster, Fight for the Aux #32 (ft. Ethereal Slice House!) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IDLG | CaelanV vs BaconBuster in Winners Round 1 of Fight for the Aux #32 (ft. Ethereal Slice House!), streamed by fightfortheauxky
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2761086330&amp;t=0h24m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>591</video:duration>
+    <video:publication_date>2026-04-30T23:39:42.000Z</video:publication_date>
+    <video:uploader>fightfortheauxky</video:uploader>
+    <video:expiration_date>2026-05-08T23:39:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/pofc-92-street-fighter-6/set/102253864/</loc>
   <lastmod>2026-04-30T03:17:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-03-29T22:49:19.000Z</video:publication_date>
     <video:uploader>fightyourrivalfgc</video:uploader>
     <video:expiration_date>2026-04-06T22:49:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/whiff-city-xiv-march-2026-barrie-monthly-fighting-game-tournament/set/101021479/</loc>
-  <lastmod>2026-03-29T21:28:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893878/image-928b16e3781a7d3ee397ba100e3f7c07.png
-    </video:thumbnail_loc>
-    <video:title>
-      TradeRaptor vs Pancreas Impaired, Whiff City XIV - March 2026 - Barrie Monthly Fighting Game Tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TradeRaptor vs Pancreas Impaired in Grand Final of Whiff City XIV - March 2026 - Barrie Monthly Fighting Game Tournament, streamed by BarrieWhiffCity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2735020219&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-03-29T19:19:50.000Z</video:publication_date>
-    <video:uploader>BarrieWhiffCity</video:uploader>
-    <video:expiration_date>2026-04-06T19:19:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
