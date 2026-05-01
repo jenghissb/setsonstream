@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/run-that-back-1/set/102286618/</loc>
+  <lastmod>2026-05-01T03:35:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906936/image-455f6710d5447e27b8daa97081700df9.png
+    </video:thumbnail_loc>
+    <video:title>
+      RTS! | Kamrin vs Big Ziggy, Run That Back #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RTS! | Kamrin vs Big Ziggy in Losers Semi-Final of Run That Back #1, streamed by runthesticks
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2761076978&amp;t=3h40m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2569</video:duration>
+    <video:publication_date>2026-05-01T02:42:23.000Z</video:publication_date>
+    <video:uploader>runthesticks</video:uploader>
+    <video:expiration_date>2026-05-09T02:42:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-32-ft-ethereal-slice-house/set/102276585/</loc>
-  <lastmod>2026-05-01T02:12:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-01T02:45:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2761086330&amp;t=2h56m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1676</video:duration>
+    <video:duration>666</video:duration>
     <video:publication_date>2026-05-01T02:12:14.000Z</video:publication_date>
     <video:uploader>fightfortheauxky</video:uploader>
     <video:expiration_date>2026-05-09T02:12:14.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-01T00:47:50.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-04-09T00:47:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-234-yemma-s-lemma-15f-is-reactable-we-will-miss-you/set/101082575/</loc>
-  <lastmod>2026-04-01T01:16:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/897284/image-f2d4f2935c95f64951b926480ad659b6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | Ichi vs LeonSKennedy Lover, CFG Tuesday Trials 234: Yemma&apos;s Lemma &quot;15f is Reactable*&quot; - We Will Miss You! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | Ichi vs LeonSKennedy Lover in Winners Final of CFG Tuesday Trials 234: Yemma&apos;s Lemma &quot;15f is Reactable*&quot; - We Will Miss You!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2736737942&amp;t=2h10m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1152</video:duration>
-    <video:publication_date>2026-04-01T00:47:01.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-04-09T00:47:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
