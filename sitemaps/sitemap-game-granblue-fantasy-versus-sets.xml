@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-65-2-granblue-fantasy-versus-rising/set/102272314/</loc>
+  <lastmod>2026-05-01T00:36:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906803/image-e1dfc925d2bcf76d84d6a19c1b209636.png
+    </video:thumbnail_loc>
+    <video:title>
+      AFAS Comfy | Sovereign vs JM | BeG04T, Just Mids #65 #2: Granblue Fantasy Versus Rising - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AFAS Comfy | Sovereign vs JM | BeG04T in Winners Semi-Final of Just Mids #65 #2: Granblue Fantasy Versus Rising, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2761050951&amp;t=1h32m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>798</video:duration>
+    <video:publication_date>2026-04-30T23:58:42.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-05-08T23:58:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-mids-65-2-granblue-fantasy-versus-rising/set/102272343/</loc>
-  <lastmod>2026-04-30T23:40:47.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-01T00:11:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2761050951&amp;t=1h14m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>526</video:duration>
+    <video:duration>494</video:duration>
     <video:publication_date>2026-04-30T23:40:47.000Z</video:publication_date>
     <video:uploader>just_mids</video:uploader>
     <video:expiration_date>2026-05-08T23:40:47.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-08T00:45:45.000Z</video:publication_date>
     <video:uploader>goonsquadpr</video:uploader>
     <video:expiration_date>2026-03-16T00:45:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/showup-showdown-2026-march-sf6-x-granblue/set/100180846/</loc>
-  <lastmod>2026-03-08T00:58:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884284/image-a8a9901318a36824899deab0b191dbe7.png
-    </video:thumbnail_loc>
-    <video:title>
-      Cinamon vs BFL | Diegubis, SHOWUP SHOWDOWN 2026 MARCH SF6 X GRANBLUE - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cinamon vs BFL | Diegubis in Losers Quarter-Final of SHOWUP SHOWDOWN 2026 MARCH SF6 X GRANBLUE, streamed by goonsquadpr
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2716611032&amp;t=1h0m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1504</video:duration>
-    <video:publication_date>2026-03-08T00:20:31.000Z</video:publication_date>
-    <video:uploader>goonsquadpr</video:uploader>
-    <video:expiration_date>2026-03-16T00:20:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
