@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-217-tekken-8-weekly/set/102302046/</loc>
+  <lastmod>2026-05-01T06:50:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906338/image-54398a9b6cbb09875ec9703ff7c5745f.png
+    </video:thumbnail_loc>
+    <video:title>
+      ONi | Joi vs Paul Z, Tech City Tekken #217 - Tekken 8 Weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ONi | Joi vs Paul Z in Winners Final of Tech City Tekken #217 - Tekken 8 Weekly, streamed by CapsuleEntertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2761285434&amp;t=1h52m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1681</video:duration>
+    <video:publication_date>2026-05-01T06:02:34.000Z</video:publication_date>
+    <video:uploader>CapsuleEntertainment</video:uploader>
+    <video:expiration_date>2026-05-09T06:02:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-217-tekken-8-weekly/set/102302044/</loc>
-  <lastmod>2026-05-01T05:47:23.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-01T06:10:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2761285434&amp;t=1h37m29s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>653</video:duration>
+    <video:duration>432</video:duration>
     <video:publication_date>2026-05-01T05:47:23.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-05-09T05:47:23.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-02T01:13:22.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-04-10T01:13:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/texas-showdown-2026/set/101024510/</loc>
-  <lastmod>2026-03-29T21:37:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797131/image-34e3631cb5c9a2445eafed3cd989c4f0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Z10 | SAINT vs PAR | JoeCrush, Texas Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Z10 | SAINT vs PAR | JoeCrush in Grand Final Reset of Texas Showdown 2026, streamed by txshowdownlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734766373&amp;t=6h41m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1261</video:duration>
-    <video:publication_date>2026-03-29T20:52:37.000Z</video:publication_date>
-    <video:uploader>txshowdownlive</video:uploader>
-    <video:expiration_date>2026-04-06T20:52:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
