@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-may-2026/set/102417417/</loc>
+  <lastmod>2026-05-02T19:34:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904516/image-e130c1867476ca379bbe228826875fdf.png
+    </video:thumbnail_loc>
+    <video:title>
+      Revenant vs Foshe, Colorado Mile High Burst Monthly May 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Revenant vs Foshe in Winners Round 2 of Colorado Mile High Burst Monthly May 2026, streamed by akihabaraarcade2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762574465&amp;t=0h46m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1138</video:duration>
+    <video:publication_date>2026-05-02T19:34:28.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade2</video:uploader>
+    <video:expiration_date>2026-05-10T19:34:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-28/set/102399188/</loc>
   <lastmod>2026-05-02T13:07:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-03T05:42:41.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-04-11T05:42:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-203-norcal-street-fighter-6-weekly/set/101150430/</loc>
-  <lastmod>2026-04-03T05:46:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895787/image-2ce54e9e011f6eeb21a20839a0f25710.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      STK3 | TreeWiz vs FitS | chumpslayer, Guildhouse Fighters 203 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch STK3 | TreeWiz vs FitS | chumpslayer in Losers Quarter-Final of Guildhouse Fighters 203 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2738567120&amp;t=2h32m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>700</video:duration>
-    <video:publication_date>2026-04-03T05:18:22.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2026-04-11T05:18:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

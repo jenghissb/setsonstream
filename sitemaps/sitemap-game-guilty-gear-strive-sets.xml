@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/colorado-mile-high-burst-monthly-may-2026/set/102416735/</loc>
+  <lastmod>2026-05-02T19:27:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904516/image-e130c1867476ca379bbe228826875fdf.png
+    </video:thumbnail_loc>
+    <video:title>
+      Stratos vs N[B]C | Moose, Colorado Mile High Burst Monthly May 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Stratos vs N[B]C | Moose in Winners Round 2 of Colorado Mile High Burst Monthly May 2026, streamed by akihabaraarcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762562715&amp;t=0h55m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1532</video:duration>
+    <video:publication_date>2026-05-02T19:27:54.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade</video:uploader>
+    <video:expiration_date>2026-05-10T19:27:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-40/set/102372882/</loc>
   <lastmod>2026-05-02T03:50:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-11T15:02:47.000Z</video:publication_date>
     <video:uploader>flashno47</video:uploader>
     <video:expiration_date>2026-04-19T15:02:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/edinbrawl-v/set/101473866/</loc>
-  <lastmod>2026-04-11T15:14:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/870316/image-b67014d338e29cbc27ce30d8f385c045.png
-    </video:thumbnail_loc>
-    <video:title>
-      Leo vs Zidine, EDINBRAWL V - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Leo vs Zidine in Losers Semi-Final of EDINBRAWL V, streamed by resetaberdeen
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745335510&amp;t=3h36m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>614</video:duration>
-    <video:publication_date>2026-04-11T14:28:32.000Z</video:publication_date>
-    <video:uploader>resetaberdeen</video:uploader>
-    <video:expiration_date>2026-04-19T14:28:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
