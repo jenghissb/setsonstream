@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-16-the-power-to-destroy/set/102427965/</loc>
+  <lastmod>2026-05-02T21:34:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896044/image-8e1269738e3ac485fac553f97ad23307.png
+    </video:thumbnail_loc>
+    <video:title>
+      adorabledragon vs SegGel2009, Backstreet Brawl #16 - The Power to Destroy - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch adorabledragon vs SegGel2009 in Winners Quarter-Final of Backstreet Brawl #16 - The Power to Destroy, streamed by HopOnPNW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762628913&amp;t=1h40m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2063</video:duration>
+    <video:publication_date>2026-05-02T21:34:28.000Z</video:publication_date>
+    <video:uploader>HopOnPNW</video:uploader>
+    <video:expiration_date>2026-05-10T21:34:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/seasonal-mix-spring-2026/set/102415770/</loc>
   <lastmod>2026-05-02T21:13:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-12T00:15:49.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2026-03-20T00:15:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-11-26/set/100304663/</loc>
-  <lastmod>2026-03-12T00:23:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890370/image-1b97ed6da0ed021e224cbd88742ab199.png
-    </video:thumbnail_loc>
-    <video:title>
-      COMO | GanonDegenerate vs ImBigAbe, Columbia Parks &amp; Rec. Esports | Smash Ultimate/FGC Weekly | 3/11/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch COMO | GanonDegenerate vs ImBigAbe in Winners Quarter-Final of Columbia Parks &amp; Rec. Esports | Smash Ultimate/FGC Weekly | 3/11/26, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2719993783&amp;t=0h2m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2026-03-11T23:56:03.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-03-19T23:56:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
