@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/makis-tournament-1/set/102349800/</loc>
-  <lastmod>2026-05-02T16:41:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/makis-tournament-1/set/102349801/</loc>
+  <lastmod>2026-05-02T17:20:00.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899884/image-01a27987ad46e65658a4f033b4f7e734.png
+    </video:thumbnail_loc>
+    <video:title>
+      C&apos;Carré | Luffy vs Saint Guillotine, Makis Tournament #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch C&apos;Carré | Luffy vs Saint Guillotine in Losers Final of Makis Tournament #1, streamed by mke_makisevents
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762445562&amp;t=1h24m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2050</video:duration>
+    <video:publication_date>2026-05-02T17:20:00.000Z</video:publication_date>
+    <video:uploader>mke_makisevents</video:uploader>
+    <video:expiration_date>2026-05-10T17:20:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/makis-tournament-1/set/102349800/</loc>
+  <lastmod>2026-05-02T17:08:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762445562&amp;t=0h45m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1257</video:duration>
+    <video:duration>1242</video:duration>
     <video:publication_date>2026-05-02T16:41:08.000Z</video:publication_date>
     <video:uploader>mke_makisevents</video:uploader>
     <video:expiration_date>2026-05-10T16:41:08.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-04T14:45:51.000Z</video:publication_date>
     <video:uploader>IrishGamingMarket</video:uploader>
     <video:expiration_date>2026-04-12T14:45:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/igm-spring-showdown-2026-1/set/101212796/</loc>
-  <lastmod>2026-04-04T14:49:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867396/image-345b53c87be86e74f1272e03c19241d5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Hench Man Hoey vs ChickenChakra, IGM Spring Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Hench Man Hoey vs ChickenChakra in Winners Semi-Final of IGM Spring Showdown 2026, streamed by IrishGamingMarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2739685936&amp;t=1h55m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>561</video:duration>
-    <video:publication_date>2026-04-04T14:16:18.000Z</video:publication_date>
-    <video:uploader>IrishGamingMarket</video:uploader>
-    <video:expiration_date>2026-04-12T14:16:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

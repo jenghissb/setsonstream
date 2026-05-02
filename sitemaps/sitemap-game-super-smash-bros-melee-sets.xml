@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-12/set/102405227/</loc>
+  <lastmod>2026-05-02T17:41:43.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904184/image-44db57bf42303a607a9c9ea5dc34507e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sabreur vs PSG | Busard, THE CRT: S04 EP #12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sabreur vs PSG | Busard in Losers Quarter-Final of THE CRT: S04 EP #12, streamed by kapa_team
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762454908&amp;t=1h1m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1385</video:duration>
+    <video:publication_date>2026-05-02T17:09:04.000Z</video:publication_date>
+    <video:uploader>kapa_team</video:uploader>
+    <video:expiration_date>2026-05-10T17:09:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-12/set/102405223/</loc>
-  <lastmod>2026-05-02T16:44:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-02T17:16:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762454908&amp;t=0h36m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1075</video:duration>
+    <video:duration>870</video:duration>
     <video:publication_date>2026-05-02T16:44:10.000Z</video:publication_date>
     <video:uploader>kapa_team</video:uploader>
     <video:expiration_date>2026-05-10T16:44:10.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-04T13:37:39.000Z</video:publication_date>
     <video:uploader>Famelee_</video:uploader>
     <video:expiration_date>2026-04-12T13:37:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dead-zone-3-1/set/101210786/</loc>
-  <lastmod>2026-04-04T14:07:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862296/image-038cc83d2b197f45040efadbc5fdb5cf.png
-    </video:thumbnail_loc>
-    <video:title>
-      i4 vs Famelee - | Mr.Rit, DEAD ZONE #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch i4 vs Famelee - | Mr.Rit in Winners Round 2 of DEAD ZONE #3, streamed by Famelee_
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2739679819&amp;t=1h18m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>863</video:duration>
-    <video:publication_date>2026-04-04T13:27:09.000Z</video:publication_date>
-    <video:uploader>Famelee_</video:uploader>
-    <video:expiration_date>2026-04-12T13:27:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
