@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/pat-s-house-5-prelocal-general-store-co-op/set/102387589/</loc>
-  <lastmod>2026-05-02T05:35:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-02T06:14:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762009264&amp;t=4h18m44s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1833</video:duration>
+    <video:duration>1036</video:duration>
     <video:publication_date>2026-05-02T05:35:26.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-05-10T05:35:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-55/set/102379909/</loc>
-  <lastmod>2026-05-02T04:20:34.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/907674/image-4da3947bc0bfdf376d829778ec23320b.png
-    </video:thumbnail_loc>
-    <video:title>
-      ypls vs Reviewer, The Guild Trials 55 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ypls vs Reviewer in Grand Final of The Guild Trials 55, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762039370&amp;t=2h22m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-05-02T04:20:34.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-05-10T04:20:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -118,6 +94,30 @@
     <video:publication_date>2026-05-02T04:32:34.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-05-10T04:32:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-55/set/102379909/</loc>
+  <lastmod>2026-05-02T06:37:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907674/image-4da3947bc0bfdf376d829778ec23320b.png
+    </video:thumbnail_loc>
+    <video:title>
+      ypls vs Reviewer, The Guild Trials 55 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ypls vs Reviewer in Grand Final of The Guild Trials 55, streamed by GuildhallSFL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762039370&amp;t=2h22m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-05-02T04:20:34.000Z</video:publication_date>
+    <video:uploader>GuildhallSFL</video:uploader>
+    <video:expiration_date>2026-05-10T04:20:34.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>

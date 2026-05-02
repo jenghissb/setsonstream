@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-117/set/102390837/</loc>
+  <lastmod>2026-05-02T06:29:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/905734/image-5a81e7288561fe2f11a98ea11187faaa.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FATE | hidetone vs BILLALER, SoCal Colosseum #117 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FATE | hidetone vs BILLALER in Grand Final of SoCal Colosseum #117, streamed by SoCalColosseum
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762059955&amp;t=3h37m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>523</video:duration>
+    <video:publication_date>2026-05-02T06:04:54.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum</video:uploader>
+    <video:expiration_date>2026-05-10T06:04:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-117/set/102390851/</loc>
-  <lastmod>2026-05-02T05:31:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-02T06:06:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762059955&amp;t=3h4m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2080</video:duration>
+    <video:duration>993</video:duration>
     <video:publication_date>2026-05-02T05:31:19.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-05-10T05:31:19.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-04T00:45:14.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-04-12T00:45:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/neutral-madness-3/set/101164392/</loc>
-  <lastmod>2026-04-03T18:49:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888563/image-37cd69464db5c7ced4eda0da4903f5e8.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Isac vs Azzerino, Neutral Madness #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Isac vs Azzerino in Losers Round 3 of Neutral Madness #3, streamed by negativeedgegbg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2738955324&amp;t=1h58m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2026-04-03T18:17:14.000Z</video:publication_date>
-    <video:uploader>negativeedgegbg</video:uploader>
-    <video:expiration_date>2026-04-11T18:17:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
