@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-king-returns-38-wolves-under-the-moon/set/102416591/</loc>
-  <lastmod>2026-05-02T21:29:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902774/image-6a12edc891cad92561636ac6a618d943.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ftf | Black Belt vs RVA FGC | Araragi, The King Returns 38: Wolves Under the Moon - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ftf | Black Belt vs RVA FGC | Araragi in Losers Semi-Final of The King Returns 38: Wolves Under the Moon, streamed by araragi298
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762696443&amp;t=0h1m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2372</video:duration>
-    <video:publication_date>2026-05-02T21:29:19.000Z</video:publication_date>
-    <video:uploader>araragi298</video:uploader>
-    <video:expiration_date>2026-05-10T21:29:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/backstreet-brawl-16-the-power-to-destroy/set/102422901/</loc>
-  <lastmod>2026-05-02T21:39:44.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-02T22:16:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762596484&amp;t=2h27m1s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1747</video:duration>
+    <video:duration>1282</video:duration>
     <video:publication_date>2026-05-02T21:39:44.000Z</video:publication_date>
     <video:uploader>SatelliteFighters</video:uploader>
     <video:expiration_date>2026-05-10T21:39:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-king-returns-38-wolves-under-the-moon/set/102416591/</loc>
+  <lastmod>2026-05-02T22:16:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902774/image-6a12edc891cad92561636ac6a618d943.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Ftf | Black Belt vs RVA FGC | Araragi, The King Returns 38: Wolves Under the Moon - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ftf | Black Belt vs RVA FGC | Araragi in Losers Semi-Final of The King Returns 38: Wolves Under the Moon, streamed by araragi298
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762696443&amp;t=0h1m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1148</video:duration>
+    <video:publication_date>2026-05-02T21:29:19.000Z</video:publication_date>
+    <video:uploader>araragi298</video:uploader>
+    <video:expiration_date>2026-05-10T21:29:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
