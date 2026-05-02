@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smashon-galleon-96/set/102407616/</loc>
+  <lastmod>2026-05-02T18:27:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/903053/image-3a90b87c97e87b0771b0c20efe93ce75.png
+    </video:thumbnail_loc>
+    <video:title>
+      DiaMinGer vs DK | Kirio, Smashon Galleon #96 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DiaMinGer vs DK | Kirio in Grand Final Reset of Smashon Galleon #96, streamed by DKorsaire_Esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762513054&amp;t=0h19m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>827</video:duration>
+    <video:publication_date>2026-05-02T17:49:07.000Z</video:publication_date>
+    <video:uploader>DKorsaire_Esport</video:uploader>
+    <video:expiration_date>2026-05-10T17:49:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-226/set/102366295/</loc>
   <lastmod>2026-05-02T00:58:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-03-28T00:32:38.000Z</video:publication_date>
     <video:uploader>hazelnutting247</video:uploader>
     <video:expiration_date>2026-04-05T00:32:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/umassd-smash-club-spring-2026-7/set/100897522/</loc>
-  <lastmod>2026-03-28T01:21:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/894047/image-3940cb0a3ef11a090d8ac97af9f91ab6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dededenied vs StarCastler, UMassD Smash Club Spring 2026 #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dededenied vs StarCastler in Losers Final of UMassD Smash Club Spring 2026 #7, streamed by umassdsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2733302966&amp;t=3h23m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1362</video:duration>
-    <video:publication_date>2026-03-28T00:30:43.000Z</video:publication_date>
-    <video:uploader>umassdsmash</video:uploader>
-    <video:expiration_date>2026-04-05T00:30:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

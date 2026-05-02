@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/makis-tournament-1/set/102349801/</loc>
-  <lastmod>2026-05-02T17:20:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rdu-tekken-monthly-39/set/102412518/</loc>
+  <lastmod>2026-05-02T18:44:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902202/image-9f31970e20a985cc784f5512c21fc2a5.png
+    </video:thumbnail_loc>
+    <video:title>
+      bat1000 vs Rooster, RDU Tekken Monthly #39 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch bat1000 vs Rooster in Winners Quarter-Final of RDU Tekken Monthly #39, streamed by rdutekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762534595&amp;t=0h46m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>599</video:duration>
+    <video:publication_date>2026-05-02T18:44:48.000Z</video:publication_date>
+    <video:uploader>rdutekken</video:uploader>
+    <video:expiration_date>2026-05-10T18:44:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/makis-tournament-1/set/102349801/</loc>
+  <lastmod>2026-05-02T17:57:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762445562&amp;t=1h24m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2050</video:duration>
+    <video:duration>949</video:duration>
     <video:publication_date>2026-05-02T17:20:00.000Z</video:publication_date>
     <video:uploader>mke_makisevents</video:uploader>
     <video:expiration_date>2026-05-10T17:20:00.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-04T15:13:44.000Z</video:publication_date>
     <video:uploader>IrishGamingMarket</video:uploader>
     <video:expiration_date>2026-04-12T15:13:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/igm-spring-showdown-2026-1/set/101212797/</loc>
-  <lastmod>2026-04-04T15:15:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867396/image-345b53c87be86e74f1272e03c19241d5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fergus vs Hench Man Hoey, IGM Spring Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fergus vs Hench Man Hoey in Winners Final of IGM Spring Showdown 2026, streamed by IrishGamingMarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2739685936&amp;t=2h24m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>679</video:duration>
-    <video:publication_date>2026-04-04T14:45:51.000Z</video:publication_date>
-    <video:uploader>IrishGamingMarket</video:uploader>
-    <video:expiration_date>2026-04-12T14:45:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
