@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-28/set/102399185/</loc>
-  <lastmod>2026-05-02T10:49:50.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-28/set/102399200/</loc>
+  <lastmod>2026-05-02T11:45:58.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901820/image-1a6ad266319848b2029a65843cd644bc.png
+    </video:thumbnail_loc>
+    <video:title>
+      TonyN vs Ocean, Drive Theory 28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TonyN vs Ocean in Losers Quarter-Final of Drive Theory 28, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762224216&amp;t=3h29m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>850</video:duration>
+    <video:publication_date>2026-05-02T11:45:58.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-05-10T11:45:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-28/set/102399185/</loc>
+  <lastmod>2026-05-02T11:23:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762224216&amp;t=2h33m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1137</video:duration>
+    <video:duration>432</video:duration>
     <video:publication_date>2026-05-02T10:49:50.000Z</video:publication_date>
     <video:uploader>itschandarin</video:uploader>
     <video:expiration_date>2026-05-10T10:49:50.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-03T04:57:31.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-04-11T04:57:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-203-norcal-street-fighter-6-weekly/set/101150429/</loc>
-  <lastmod>2026-04-03T05:25:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895787/image-2ce54e9e011f6eeb21a20839a0f25710.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MAD | CoolWip vs STK3 | aki guy, Guildhouse Fighters 203 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MAD | CoolWip vs STK3 | aki guy in Losers Round 6 of Guildhouse Fighters 203 - Norcal Street Fighter 6 weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2738569663&amp;t=2h3m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>801</video:duration>
-    <video:publication_date>2026-04-03T04:53:20.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-04-11T04:53:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
