@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/seasonal-mix-spring-2026/set/102415770/</loc>
+  <lastmod>2026-05-02T21:13:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/905023/image-576b456042cff2921e8bfbd26e72052b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RG | SilverbackSenpai vs YoItzEdd, Seasonal Mix Spring 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RG | SilverbackSenpai vs YoItzEdd in Grand Final of Seasonal Mix Spring 2026, streamed by flynnsgamingfl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2762590784&amp;t=1h35m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1146</video:duration>
+    <video:publication_date>2026-05-02T20:40:43.000Z</video:publication_date>
+    <video:uploader>flynnsgamingfl</video:uploader>
+    <video:expiration_date>2026-05-10T20:40:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/seasonal-mix-spring-2026/set/102415783/</loc>
-  <lastmod>2026-05-02T20:00:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-02T20:42:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2762590784&amp;t=0h54m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2323</video:duration>
+    <video:duration>684</video:duration>
     <video:publication_date>2026-05-02T20:00:03.000Z</video:publication_date>
     <video:uploader>flynnsgamingfl</video:uploader>
     <video:expiration_date>2026-05-10T20:00:03.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-11T23:56:03.000Z</video:publication_date>
     <video:uploader>iR3mmy</video:uploader>
     <video:expiration_date>2026-03-19T23:56:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/smash-mizzou-180/set/100282843/</loc>
-  <lastmod>2026-03-11T02:48:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890103/image-6aa109b0782dc8b235d69234037c255b.png
-    </video:thumbnail_loc>
-    <video:title>
-      MM | Shmurtle vs COMO | Fizzie18, Smash @ Mizzou 180 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MM | Shmurtle vs COMO | Fizzie18 in Winners Final of Smash @ Mizzou 180, streamed by iR3mmy
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2719153108&amp;t=2h52m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>770</video:duration>
-    <video:publication_date>2026-03-11T02:22:56.000Z</video:publication_date>
-    <video:uploader>iR3mmy</video:uploader>
-    <video:expiration_date>2026-03-19T02:22:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
