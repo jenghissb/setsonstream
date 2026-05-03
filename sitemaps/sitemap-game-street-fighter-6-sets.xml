@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tretinha-curitiba-maio-2026-1/set/102492409/</loc>
+  <lastmod>2026-05-03T21:54:16.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906783/image-abe3cb519ef46ce6c8b5f829f043799f.png
+    </video:thumbnail_loc>
+    <video:title>
+      UBB CLAN | JeanVujanski vs Piccolo, Tretinha Curitiba - Maio 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UBB CLAN | JeanVujanski vs Piccolo in Winners Semi-Final of Tretinha Curitiba - Maio 2026, streamed by trtchamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2763407222&amp;t=3h14m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>474</video:duration>
+    <video:publication_date>2026-05-03T21:54:16.000Z</video:publication_date>
+    <video:uploader>trtchamp</video:uploader>
+    <video:expiration_date>2026-05-11T21:54:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/frequency-13/set/102443847/</loc>
   <lastmod>2026-05-03T02:22:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-05T16:46:17.000Z</video:publication_date>
     <video:uploader>kev_tournaments</video:uploader>
     <video:expiration_date>2026-04-13T16:46:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bewhiskered-2026/set/101274764/</loc>
-  <lastmod>2026-04-05T16:48:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/871323/image-1cede37aa716a5cdd66149abecd1159c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Simon Salamander vs Jon, Bewhiskered 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Simon Salamander vs Jon in Losers Round 1 of Bewhiskered 2026, streamed by kev_tournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2740658544&amp;t=0h25m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>236</video:duration>
-    <video:publication_date>2026-04-05T16:21:23.000Z</video:publication_date>
-    <video:uploader>kev_tournaments</video:uploader>
-    <video:expiration_date>2026-04-13T16:21:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
