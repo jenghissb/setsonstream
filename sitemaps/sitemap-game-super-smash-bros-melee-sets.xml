@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rain-or-shine-2026/set/102482566/</loc>
+  <lastmod>2026-05-03T18:52:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901548/image-c08bba566c94252fbde6ceaca8993c9d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Koil vs Nuss, Rain or Shine 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Koil vs Nuss in Winners Quarter-Final of Rain or Shine 2026, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2763339832&amp;t=1h0m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>992</video:duration>
+    <video:publication_date>2026-05-03T18:14:22.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-05-11T18:14:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rain-or-shine-2026/set/102480700/</loc>
-  <lastmod>2026-05-03T17:49:39.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-03T18:23:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2763339832&amp;t=0h35m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1316</video:duration>
+    <video:duration>427</video:duration>
     <video:publication_date>2026-05-03T17:49:39.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-05-11T17:49:39.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-07T02:21:59.000Z</video:publication_date>
     <video:uploader>HUNGRYBOX</video:uploader>
     <video:expiration_date>2026-04-15T02:21:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-494/set/101313058/</loc>
-  <lastmod>2026-04-07T03:21:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898887/image-0f830c4977988288d91583d29962c318.png
-    </video:thumbnail_loc>
-    <video:title>
-      Frame1 | SUPER RUT vs Bobo, Monday Night Melee 494 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frame1 | SUPER RUT vs Bobo in Winners Quarter-Final of Monday Night Melee 494, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2741834134&amp;t=1h14m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3399</video:duration>
-    <video:publication_date>2026-04-07T02:05:29.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-04-15T02:05:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
