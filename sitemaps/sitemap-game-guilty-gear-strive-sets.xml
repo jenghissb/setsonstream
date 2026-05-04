@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rde-97-guilty-gear-strive/set/102519218/</loc>
+  <lastmod>2026-05-04T19:28:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907058/image-1e45d871ad59b75b9951b7da5558084e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kozmo vs Gorgo, RDE #97: Guilty Gear Strive - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kozmo vs Gorgo in Winners Round 2 of RDE #97: Guilty Gear Strive, streamed by rde_rushdownedinburgh
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2764148004&amp;t=0h37m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>554</video:duration>
+    <video:publication_date>2026-05-04T18:57:38.000Z</video:publication_date>
+    <video:uploader>rde_rushdownedinburgh</video:uploader>
+    <video:expiration_date>2026-05-12T18:57:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/halfmoon-m-hin-guilty-gear-strive-1/set/102470712/</loc>
   <lastmod>2026-05-03T12:05:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-12T00:17:53.000Z</video:publication_date>
     <video:uploader>Kmltournaments2</video:uploader>
     <video:expiration_date>2026-04-20T00:17:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/colorado-mile-high-burst-monthly-april-2026/set/101529562/</loc>
-  <lastmod>2026-04-12T01:03:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893712/image-c958cb594d106c5b43da450fefe253f1.png
-    </video:thumbnail_loc>
-    <video:title>
-      4thDimensional vs GGG | kiwi?, Colorado Mile High Burst Monthly April 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4thDimensional vs GGG | kiwi? in Losers Round 1 of Colorado Mile High Burst Monthly April 2026, streamed by akihabaraarcade2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745627308&amp;t=5h47m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1242</video:duration>
-    <video:publication_date>2026-04-12T00:13:40.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade2</video:uploader>
-    <video:expiration_date>2026-04-20T00:13:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
