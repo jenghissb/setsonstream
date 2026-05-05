@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-102/set/102524250/</loc>
+  <lastmod>2026-05-04T23:35:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/908240/image-ed22bd600563ed3642dd268d6300554b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lightice vs WF | Drago, Block String @ Wonderfly #102 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lightice vs WF | Drago in Winners Quarter-Final of Block String @ Wonderfly #102, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2764357186&amp;t=0h5m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>986</video:duration>
+    <video:publication_date>2026-05-04T23:35:54.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2026-05-12T23:35:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rde-97-guilty-gear-strive/set/102519226/</loc>
   <lastmod>2026-05-04T20:20:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-12T01:35:32.000Z</video:publication_date>
     <video:uploader>akihabaraarcade2</video:uploader>
     <video:expiration_date>2026-04-20T01:35:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/side-seven-skirmish-29/set/101536925/</loc>
-  <lastmod>2026-04-12T02:10:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866080/image-42e788e4fd444766b18056fcaf1b2869.png
-    </video:thumbnail_loc>
-    <video:title>
-      S7 | RamenHoodlum vs S7 | Astra, SIDE SEVEN SKIRMISH 29 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch S7 | RamenHoodlum vs S7 | Astra in Winners Round 1 of SIDE SEVEN SKIRMISH 29, streamed by MEECHY72
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745921600&amp;t=0h25m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>683</video:duration>
-    <video:publication_date>2026-04-12T01:29:38.000Z</video:publication_date>
-    <video:uploader>MEECHY72</video:uploader>
-    <video:expiration_date>2026-04-20T01:29:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
