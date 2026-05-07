@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-243/set/102577090/</loc>
+  <lastmod>2026-05-06T23:43:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909866/image-5badb6154b18455c274d319656dd208a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Osserva vs Death13, ESG Fight Night #243 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Osserva vs Death13 in Winners Final of ESG Fight Night #243, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=ESG_Live_Streams&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1328</video:duration>
+    <video:publication_date>2026-05-06T23:43:50.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-05-14T23:43:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/cake-chab-s-engangement-bracket/set/102505157/</loc>
   <lastmod>2026-05-04T03:35:16.000Z</lastmod>
   <changefreq>daily</changefreq>
