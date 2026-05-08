@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-145/set/102616119/</loc>
+  <lastmod>2026-05-08T05:06:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909223/image-cb782c9367b330dfdd08e3cf7f24f594.png
+    </video:thumbnail_loc>
+    <video:title>
+      Steech | cliché vs snake, Rage Against the CRT #145 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Steech | cliché vs snake in Grand Final of Rage Against the CRT #145, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2766784024&amp;t=2h17m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>822</video:duration>
+    <video:publication_date>2026-05-08T04:29:31.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2026-05-16T04:29:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-145/set/102616118/</loc>
   <lastmod>2026-05-08T04:16:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-11T10:43:07.000Z</video:publication_date>
     <video:uploader>german_melee</video:uploader>
     <video:expiration_date>2026-04-19T10:43:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sapf-2/set/101322618/</loc>
-  <lastmod>2026-04-11T11:29:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/775093/image-935ea78c7d3cbc20d9296cef9fb21fe8.png
-    </video:thumbnail_loc>
-    <video:title>
-      b41 | Aaron0Brian vs Bach, SAPF 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch b41 | Aaron0Brian vs Bach in Round 7 of SAPF 2, streamed by german_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745294120&amp;t=1h45m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>850</video:duration>
-    <video:publication_date>2026-04-11T10:42:02.000Z</video:publication_date>
-    <video:uploader>german_melee</video:uploader>
-    <video:expiration_date>2026-04-19T10:42:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
