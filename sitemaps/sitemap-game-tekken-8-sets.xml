@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tiny-tekken-xvi/set/102631039/</loc>
+  <lastmod>2026-05-08T20:46:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909435/image-c32c9081523a679f958cceaa422ada71.png
+    </video:thumbnail_loc>
+    <video:title>
+      VoidEversor vs scoop, Tiny Tekken XVI - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VoidEversor vs scoop in Winners Quarter-Final of Tiny Tekken XVI, streamed by Ciojely
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2767328598&amp;t=0h18m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1852</video:duration>
+    <video:publication_date>2026-05-08T20:46:50.000Z</video:publication_date>
+    <video:uploader>Ciojely</video:uploader>
+    <video:expiration_date>2026-05-16T20:46:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-218-tekken-8-weekly/set/102619401/</loc>
   <lastmod>2026-05-08T07:02:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-11T05:08:40.000Z</video:publication_date>
     <video:uploader>BlurredWolf</video:uploader>
     <video:expiration_date>2026-04-19T05:08:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/ascnd-35/set/101459760/</loc>
-  <lastmod>2026-04-11T05:10:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898957/image-662c795357b17fc5930117c9c0f3f22f.png
-    </video:thumbnail_loc>
-    <video:title>
-      SUNK | rein vs tenten, ASCND//35 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SUNK | rein vs tenten in Winners Round 2 of ASCND//35, streamed by BlurredWolf
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745082470&amp;t=2h45m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>607</video:duration>
-    <video:publication_date>2026-04-11T04:35:27.000Z</video:publication_date>
-    <video:uploader>BlurredWolf</video:uploader>
-    <video:expiration_date>2026-04-19T04:35:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
