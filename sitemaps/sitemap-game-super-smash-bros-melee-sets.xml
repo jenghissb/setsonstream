@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hflan-light/set/102675997/</loc>
-  <lastmod>2026-05-09T16:52:48.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hflan-light/set/102675983/</loc>
+  <lastmod>2026-05-09T17:54:41.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882970/image-f8c29b697cd0e5426b45a16599bf7fef.png
+    </video:thumbnail_loc>
+    <video:title>
+      OBR | Madness vs BG | NekoKaze, HFLAN Light - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OBR | Madness vs BG | NekoKaze in Winners Final of HFLAN Light, streamed by supersmashdelft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2767761391&amp;t=8h43m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>746</video:duration>
+    <video:publication_date>2026-05-09T17:54:41.000Z</video:publication_date>
+    <video:uploader>supersmashdelft</video:uploader>
+    <video:expiration_date>2026-05-17T17:54:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hflan-light/set/102675997/</loc>
+  <lastmod>2026-05-09T17:34:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2767761391&amp;t=7h41m55s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1300</video:duration>
+    <video:duration>1040</video:duration>
     <video:publication_date>2026-05-09T16:52:48.000Z</video:publication_date>
     <video:uploader>supersmashdelft</video:uploader>
     <video:expiration_date>2026-05-17T16:52:48.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-12T12:02:16.000Z</video:publication_date>
     <video:uploader>german_melee</video:uploader>
     <video:expiration_date>2026-04-20T12:02:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sapf-2/set/101508985/</loc>
-  <lastmod>2026-04-12T12:51:52.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/775093/image-935ea78c7d3cbc20d9296cef9fb21fe8.png
-    </video:thumbnail_loc>
-    <video:title>
-      kins0 vs SwebBy, SAPF 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch kins0 vs SwebBy in Losers Round 6 of SAPF 2, streamed by german_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2746168776&amp;t=2h28m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>867</video:duration>
-    <video:publication_date>2026-04-12T11:55:45.000Z</video:publication_date>
-    <video:uploader>german_melee</video:uploader>
-    <video:expiration_date>2026-04-20T11:55:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
