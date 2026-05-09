@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-may-9-2026/set/102692320/</loc>
-  <lastmod>2026-05-09T20:15:20.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6-quarta-etapa/set/102690662/</loc>
+  <lastmod>2026-05-09T20:35:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906772/image-fd3fe063531865b648a8040d4ff1843b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Shodown | HKDASH vs 2G | Zangief_bolado, Kabum Fight Club - Street Fighter 6 - Quarta etapa - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Shodown | HKDASH vs 2G | Zangief_bolado in Winners Semi-Final of Kabum Fight Club - Street Fighter 6 - Quarta etapa, streamed by fgcsaopaulo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2768016261&amp;t=3h23m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2122</video:duration>
+    <video:publication_date>2026-05-09T20:35:27.000Z</video:publication_date>
+    <video:uploader>fgcsaopaulo</video:uploader>
+    <video:expiration_date>2026-05-17T20:35:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-may-9-2026/set/102692319/</loc>
+  <lastmod>2026-05-09T20:42:41.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +34,24 @@
       https://images.start.gg/images/tournament/901008/image-5b0d5a00ba7d6f22921eb387e56ff1a5.png
     </video:thumbnail_loc>
     <video:title>
-      MEATCITY | COLDM@N vs BBZ, Space City Beatdown - May 9, 2026 - Sets on Stream
+      Dandy vs Chino, Space City Beatdown - May 9, 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch MEATCITY | COLDM@N vs BBZ in Winners Semi-Final of Space City Beatdown - May 9, 2026, streamed by TXShowdownLive
+      Watch Dandy vs Chino in Winners Semi-Final of Space City Beatdown - May 9, 2026, streamed by TXShowdownLive
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768064634&amp;t=1h59m52s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2768064634&amp;t=2h27m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>756</video:duration>
-    <video:publication_date>2026-05-09T20:15:20.000Z</video:publication_date>
+    <video:duration>1688</video:duration>
+    <video:publication_date>2026-05-09T20:42:41.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-05-17T20:15:20.000Z</video:expiration_date>
+    <video:expiration_date>2026-05-17T20:42:41.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/retro-revival-monthly-05-09-26/set/102688963/</loc>
-  <lastmod>2026-05-09T20:15:32.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-09T20:44:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2768157815&amp;t=0h0m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>744</video:duration>
+    <video:duration>558</video:duration>
     <video:publication_date>2026-05-09T20:15:32.000Z</video:publication_date>
     <video:uploader>RetroRevivalFGC2</video:uploader>
     <video:expiration_date>2026-05-17T20:15:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/space-city-beatdown-may-9-2026/set/102692320/</loc>
+  <lastmod>2026-05-09T20:44:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901008/image-5b0d5a00ba7d6f22921eb387e56ff1a5.png
+    </video:thumbnail_loc>
+    <video:title>
+      MEATCITY | COLDM@N vs BBZ, Space City Beatdown - May 9, 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MEATCITY | COLDM@N vs BBZ in Winners Semi-Final of Space City Beatdown - May 9, 2026, streamed by TXShowdownLive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2768064634&amp;t=1h59m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1030</video:duration>
+    <video:publication_date>2026-05-09T20:15:20.000Z</video:publication_date>
+    <video:uploader>TXShowdownLive</video:uploader>
+    <video:expiration_date>2026-05-17T20:15:20.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7150,54 +7198,6 @@
     <video:publication_date>2026-04-11T16:36:55.000Z</video:publication_date>
     <video:uploader>TEKFGC</video:uploader>
     <video:expiration_date>2026-04-19T16:36:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/duke-it-out-4-2/set/101485464/</loc>
-  <lastmod>2026-04-11T17:15:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/867071/image-cfb76671b98ee1e5edde4bc414d82249.png
-    </video:thumbnail_loc>
-    <video:title>
-      EMPR | TropicTrickster vs UMBC | GRN | Squilliam, Duke It Out 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EMPR | TropicTrickster vs UMBC | GRN | Squilliam in Winners Semi-Final of Duke It Out 4, streamed by Kmltournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745435954&amp;t=2h32m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>385</video:duration>
-    <video:publication_date>2026-04-11T16:32:17.000Z</video:publication_date>
-    <video:uploader>Kmltournaments</video:uploader>
-    <video:expiration_date>2026-04-19T16:32:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/northern-battles-special-04-11-2026-sf6-2xko-ffcowt-kofxv-usf4/set/101485116/</loc>
-  <lastmod>2026-04-11T17:15:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/894710/image-957020971ebf2b903b6e965a93ed0754.png
-    </video:thumbnail_loc>
-    <video:title>
-      Pancreas Impaired vs YT | YonkoJah, Northern Battles Special - 04/11/2026 - SF6, 2XKO, FFCOWT, KOFXV &amp; USF4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Pancreas Impaired vs YT | YonkoJah in Winners Round 1 of Northern Battles Special - 04/11/2026 - SF6, 2XKO, FFCOWT, KOFXV &amp; USF4, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745526413&amp;t=0h15m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>459</video:duration>
-    <video:publication_date>2026-04-11T16:32:06.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2026-04-19T16:32:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
