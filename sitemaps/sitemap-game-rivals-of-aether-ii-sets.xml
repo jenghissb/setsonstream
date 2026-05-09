@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/tautahi-onslaught-2026-christchurch-fighting-game-major/set/102655770/</loc>
+  <lastmod>2026-05-09T05:10:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884679/image-ebf7ab6631cf32d1b38bed5ebbcfacef.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Welly! | Timothée Chalorcane vs .cringe | Akabird, Ōtautahi Onslaught 2026 - Christchurch Fighting Game Major!! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Welly! | Timothée Chalorcane vs .cringe | Akabird in Losers Round 2 of Ōtautahi Onslaught 2026 - Christchurch Fighting Game Major!!, streamed by aftershockfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2767468854&amp;t=4h42m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>824</video:duration>
+    <video:publication_date>2026-05-09T04:37:10.000Z</video:publication_date>
+    <video:uploader>aftershockfgc</video:uploader>
+    <video:expiration_date>2026-05-17T04:37:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-534/set/102635386/</loc>
   <lastmod>2026-05-09T00:23:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-09T01:44:51.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2026-04-17T01:44:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-10-14/set/101361573/</loc>
-  <lastmod>2026-04-09T01:52:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/900116/image-9bf8f0905e4bf6366ff91186100a1a0c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Arelius | Shadowhawke vs Merp, HoG: Burn 10.14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Arelius | Shadowhawke vs Merp in Winners Final of HoG: Burn 10.14, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2743359998&amp;t=1h55m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>748</video:duration>
-    <video:publication_date>2026-04-09T01:22:40.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-04-17T01:22:40.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
