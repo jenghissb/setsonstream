@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hflan-light/set/102664919/</loc>
-  <lastmod>2026-05-09T12:05:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/882970/image-f8c29b697cd0e5426b45a16599bf7fef.png
-    </video:thumbnail_loc>
-    <video:title>
-      PSG | Busard vs kirbyvert, HFLAN Light - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PSG | Busard vs kirbyvert in Round 2 of HFLAN Light, streamed by supersmashdelft
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767761391&amp;t=2h54m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2290</video:duration>
-    <video:publication_date>2026-05-09T12:05:46.000Z</video:publication_date>
-    <video:uploader>supersmashdelft</video:uploader>
-    <video:expiration_date>2026-05-17T12:05:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hflan-light/set/102664932/</loc>
-  <lastmod>2026-05-09T12:19:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-09T12:50:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2767761391&amp;t=3h8m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1484</video:duration>
+    <video:duration>1343</video:duration>
     <video:publication_date>2026-05-09T12:19:12.000Z</video:publication_date>
     <video:uploader>supersmashdelft</video:uploader>
     <video:expiration_date>2026-05-17T12:19:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hflan-light/set/102664919/</loc>
+  <lastmod>2026-05-09T12:50:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882970/image-f8c29b697cd0e5426b45a16599bf7fef.png
+    </video:thumbnail_loc>
+    <video:title>
+      PSG | Busard vs kirbyvert, HFLAN Light - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PSG | Busard vs kirbyvert in Round 2 of HFLAN Light, streamed by supersmashdelft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2767761391&amp;t=2h54m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1593</video:duration>
+    <video:publication_date>2026-05-09T12:05:46.000Z</video:publication_date>
+    <video:uploader>supersmashdelft</video:uploader>
+    <video:expiration_date>2026-05-17T12:05:46.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
