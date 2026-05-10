@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-45/set/102698787/</loc>
-  <lastmod>2026-05-09T22:46:07.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-45/set/102698803/</loc>
+  <lastmod>2026-05-09T23:11:38.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909205/image-674ee32b42aa90cb36ac0b3d88a2f908.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jeans vs Severity, Calculated #45 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jeans vs Severity in Losers Final of Calculated #45, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2768233315&amp;t=1h5m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2145</video:duration>
+    <video:publication_date>2026-05-09T23:11:38.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-05-17T23:11:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-45/set/102698787/</loc>
+  <lastmod>2026-05-09T23:23:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2768233315&amp;t=0h39m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>780</video:duration>
+    <video:duration>805</video:duration>
     <video:publication_date>2026-05-09T22:46:07.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-05-17T22:46:07.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-16T01:49:23.000Z</video:publication_date>
     <video:uploader>MEECHY72</video:uploader>
     <video:expiration_date>2026-04-24T01:49:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pofc-90-guilty-gear-strive/set/101655680/</loc>
-  <lastmod>2026-04-16T02:04:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/900682/image-c1457dbede035545183b67cc0d2361a2.png
-    </video:thumbnail_loc>
-    <video:title>
-      Frankentank vs Junowo, POFC 90 - Guilty Gear Strive - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frankentank vs Junowo in Winners Round 2 of POFC 90 - Guilty Gear Strive, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2749121127&amp;t=0h22m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>335</video:duration>
-    <video:publication_date>2026-04-16T01:35:39.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-04-24T01:35:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
