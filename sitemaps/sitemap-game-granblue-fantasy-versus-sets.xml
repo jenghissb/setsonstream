@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/brussels-challenge-major-edition-2026/set/102731874/</loc>
-  <lastmod>2026-05-10T10:34:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/brussels-challenge-major-edition-2026/set/102731875/</loc>
+  <lastmod>2026-05-10T11:22:51.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/880632/image-80f1e0be38f6afc614c326c630057f45.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Nitronoir vs SLVC | Hoku, Brussels Challenge Major Edition 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nitronoir vs SLVC | Hoku in Winners Semi-Final of Brussels Challenge Major Edition 2026, streamed by teamsp00ky
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2768592228&amp;t=1h30m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>869</video:duration>
+    <video:publication_date>2026-05-10T11:22:51.000Z</video:publication_date>
+    <video:uploader>teamsp00ky</video:uploader>
+    <video:expiration_date>2026-05-18T11:22:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/brussels-challenge-major-edition-2026/set/102731874/</loc>
+  <lastmod>2026-05-10T11:00:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2768592228&amp;t=0h42m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>654</video:duration>
+    <video:duration>693</video:duration>
     <video:publication_date>2026-05-10T10:34:52.000Z</video:publication_date>
     <video:uploader>teamsp00ky</video:uploader>
     <video:expiration_date>2026-05-18T10:34:52.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-15T14:43:07.000Z</video:publication_date>
     <video:uploader>FERVO_OFICIAL</video:uploader>
     <video:expiration_date>2026-03-23T14:43:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-march-2026/set/100448296/</loc>
-  <lastmod>2026-03-15T02:37:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/881621/image-be670c96c1e55dc3f5a82a5da8606d5e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Vermillion vs Djeeta, Astral Beatdown March 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Vermillion vs Djeeta in Grand Final of Astral Beatdown March 2026, streamed by norcalgranblue
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2722485212&amp;t=4h22m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>362</video:duration>
-    <video:publication_date>2026-03-15T02:05:44.000Z</video:publication_date>
-    <video:uploader>norcalgranblue</video:uploader>
-    <video:expiration_date>2026-03-23T02:05:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
