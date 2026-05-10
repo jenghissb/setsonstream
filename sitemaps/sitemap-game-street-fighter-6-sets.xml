@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-tournament-12/set/102751005/</loc>
-  <lastmod>2026-05-10T21:53:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-tournament-12/set/102751014/</loc>
+  <lastmod>2026-05-10T22:41:16.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904348/image-e8bcb1c20bce4acd4ba6971b27bab98f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      EVG | Ferreras vs XeroDgX, McDonald´s Tournament #12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EVG | Ferreras vs XeroDgX in Winners Round 3 of McDonald´s Tournament #12, streamed by BlizzStars
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/ZN284WYClVw?start=5397s
+    </video:player_loc>
+    <video:duration>1752</video:duration>
+    <video:publication_date>2026-05-10T22:41:16.000Z</video:publication_date>
+    <video:uploader>BlizzStars</video:uploader>
+    <video:expiration_date>2026-05-18T22:41:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-tournament-12/set/102751005/</loc>
+  <lastmod>2026-05-10T22:22:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/ZN284WYClVw?start=2516s
     </video:player_loc>
-    <video:duration>1059</video:duration>
+    <video:duration>654</video:duration>
     <video:publication_date>2026-05-10T21:53:15.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2026-05-18T21:53:15.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-11T22:21:34.000Z</video:publication_date>
     <video:uploader>fgcsaopaulo</video:uploader>
     <video:expiration_date>2026-04-19T22:21:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/colorado-mile-high-burst-monthly-april-2026/set/101510874/</loc>
-  <lastmod>2026-04-11T22:29:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893712/image-c958cb594d106c5b43da450fefe253f1.png
-    </video:thumbnail_loc>
-    <video:title>
-      TeaSea vs Ghooost, Colorado Mile High Burst Monthly April 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TeaSea vs Ghooost in Winners Final of Colorado Mile High Burst Monthly April 2026, streamed by akihabaraarcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2745619168&amp;t=3h19m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>555</video:duration>
-    <video:publication_date>2026-04-11T21:35:41.000Z</video:publication_date>
-    <video:uploader>akihabaraarcade</video:uploader>
-    <video:expiration_date>2026-04-19T21:35:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
