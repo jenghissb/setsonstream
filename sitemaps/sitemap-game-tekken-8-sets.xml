@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/down-back-tuesdays-mama-lion-24-biweekly-fighting-game-tournament-los-angeles/set/102806246/</loc>
+  <lastmod>2026-05-13T06:21:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909557/image-835db840b5391b135410d64f57f33a32.png
+    </video:thumbnail_loc>
+    <video:title>
+      HAMMER | MrCarnival vs SR | Swell, DOWN BACK TUESDAYS @ MAMA LION #24 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HAMMER | MrCarnival vs SR | Swell in Grand Final of DOWN BACK TUESDAYS @ MAMA LION #24 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2770725969&amp;t=2h34m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>912</video:duration>
+    <video:publication_date>2026-05-13T05:43:43.000Z</video:publication_date>
+    <video:uploader>DownBackClub</video:uploader>
+    <video:expiration_date>2026-05-21T05:43:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-102-norcal-tekken-8-2xko-weekly/set/102805764/</loc>
-  <lastmod>2026-05-13T04:48:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-13T05:28:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2770718738&amp;t=1h51m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1503</video:duration>
+    <video:duration>1071</video:duration>
     <video:publication_date>2026-05-13T04:48:36.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-05-21T04:48:36.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-18T18:27:43.000Z</video:publication_date>
     <video:uploader>teamdashbr</video:uploader>
     <video:expiration_date>2026-04-26T18:27:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/kayane-invitational-tekken-8-tournament/set/101756200/</loc>
-  <lastmod>2026-04-18T18:39:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902150/image-e5abdb776d9a13df4ea69dca4176377e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      QLH971 vs K.T.B | Dahoursen, Kayane Invitational: Tekken 8 Tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch QLH971 vs K.T.B | Dahoursen in Losers Round 2 of Kayane Invitational: Tekken 8 Tournament, streamed by KayaneTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2751114934&amp;t=3h46m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>590</video:duration>
-    <video:publication_date>2026-04-18T18:03:47.000Z</video:publication_date>
-    <video:uploader>KayaneTV</video:uploader>
-    <video:expiration_date>2026-04-26T18:03:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
