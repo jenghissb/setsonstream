@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/socasmash-179-myrtle-s-weekly/set/102791173/</loc>
+  <lastmod>2026-05-12T23:29:06.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909875/image-667d27973985a9cda254274b6ada66a6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TamaPDaiFreaky vs walkemdownandstealtheyza, SocaSmash 179: Myrtle’s Weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TamaPDaiFreaky vs walkemdownandstealtheyza in Round 4 of SocaSmash 179: Myrtle’s Weekly, streamed by myrtlebeachsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2770572331&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>917</video:duration>
+    <video:publication_date>2026-05-12T23:29:06.000Z</video:publication_date>
+    <video:uploader>myrtlebeachsmash</video:uploader>
+    <video:expiration_date>2026-05-20T23:29:06.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-499/set/102778250/</loc>
   <lastmod>2026-05-12T04:29:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-16T00:52:08.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-04-24T00:52:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-136/set/101649362/</loc>
-  <lastmod>2026-04-16T01:12:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902792/image-e50a1e0429d414ff0e3b814a5af53dbe.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gamer4God vs Bradley | Oshabetta, Raptor Boost 136 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gamer4God vs Bradley | Oshabetta in Winners Semi-Final of Raptor Boost 136, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2749044673&amp;t=1h6m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>483</video:duration>
-    <video:publication_date>2026-04-16T00:38:58.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2026-04-24T00:38:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
