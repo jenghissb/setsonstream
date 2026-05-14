@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/stun-city-05-13-2026-ffcowt-t8-and-sf6-casuals/set/102825619/</loc>
+  <lastmod>2026-05-14T01:29:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/910198/image-8849965bd015ff29a0084acc232bbad7.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Tran vs DelzonFire, Stun City 05/13/2026 - FFCOWT, T8 and SF6 + casuals - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tran vs DelzonFire in Losers Semi-Final of Stun City 05/13/2026 - FFCOWT, T8 and SF6 + casuals, streamed by torontotoptiers
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2771349674&amp;t=1h23m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>522</video:duration>
+    <video:publication_date>2026-05-14T00:51:00.000Z</video:publication_date>
+    <video:uploader>torontotoptiers</video:uploader>
+    <video:expiration_date>2026-05-22T00:51:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-24-biweekly-fighting-game-tournament-los-angeles/set/102806580/</loc>
   <lastmod>2026-05-13T05:47:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-15T01:03:34.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-04-23T01:03:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesdays-at-d-b-40/set/101627748/</loc>
-  <lastmod>2026-04-15T01:12:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901716/image-0db8baaea1731823a41b5ba4ac59e363.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wardo Cardo vs Vaxtrum, Tuesdays at D&amp;B#40 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wardo Cardo vs Vaxtrum in Winners Round 2 of Tuesdays at D&amp;B#40, streamed by Chicagolandfightersfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2748299778&amp;t=0h19m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>537</video:duration>
-    <video:publication_date>2026-04-15T00:44:55.000Z</video:publication_date>
-    <video:uploader>Chicagolandfightersfgc</video:uploader>
-    <video:expiration_date>2026-04-23T00:44:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
