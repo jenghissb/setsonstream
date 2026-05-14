@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bn-biweekly-3/set/102848980/</loc>
+  <lastmod>2026-05-14T20:14:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909865/image-9d1a4840204188314ec8d7fdf16c7fe1.png
+    </video:thumbnail_loc>
+    <video:title>
+      MIDZ vs NOG | Paupiette, BN-BiWeekly #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MIDZ vs NOG | Paupiette in Losers Quarter-Final of BN-BiWeekly #3, streamed by breadandbutter_caen
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2771901573&amp;t=2h19m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1473</video:duration>
+    <video:publication_date>2026-05-14T19:46:55.000Z</video:publication_date>
+    <video:uploader>breadandbutter_caen</video:uploader>
+    <video:expiration_date>2026-05-22T19:46:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bn-biweekly-3/set/102848915/</loc>
-  <lastmod>2026-05-14T18:48:46.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-14T19:21:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2771901573&amp;t=1h21m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1148</video:duration>
+    <video:duration>550</video:duration>
     <video:publication_date>2026-05-14T18:48:46.000Z</video:publication_date>
     <video:uploader>breadandbutter_caen</video:uploader>
     <video:expiration_date>2026-05-22T18:48:46.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-18T02:32:27.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-04-26T02:32:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-38/set/101734768/</loc>
-  <lastmod>2026-04-18T02:40:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898925/image-ec3601404d66c0299eb56f9fd6aaf485.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      LagSpike vs Tripp, 4o4 By Sh33rz: Anime Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LagSpike vs Tripp in Losers Round 5 of 4o4 By Sh33rz: Anime Weekly, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2750680876&amp;t=1h49m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>570</video:duration>
-    <video:publication_date>2026-04-18T01:59:43.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-04-26T01:59:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
