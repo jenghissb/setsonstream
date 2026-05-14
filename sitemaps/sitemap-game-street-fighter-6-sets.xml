@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-116/set/102843955/</loc>
-  <lastmod>2026-05-14T11:48:37.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-116/set/102843992/</loc>
+  <lastmod>2026-05-14T12:42:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/911755/image-2c787d3ae86a5bf325d5581eead32740.png
     </video:thumbnail_loc>
     <video:title>
-      ジーコ提督(jiiko teitoku) vs Salto, Paradise Cup #116 - Sets on Stream
+      VLY | すさ(VLY | susa) vs おMew(o Mew), Paradise Cup #116 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ジーコ提督(jiiko teitoku) vs Salto in Round 2 of Paradise Cup #116, streamed by ParadiseFGC
+      Watch VLY | すさ(VLY | susa) vs おMew(o Mew) in Round 4 of Paradise Cup #116, streamed by Vgbootcamp
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=ParadiseFGC&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2771672256&amp;t=1h16m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2035</video:duration>
-    <video:publication_date>2026-05-14T11:48:37.000Z</video:publication_date>
-    <video:uploader>ParadiseFGC</video:uploader>
-    <video:expiration_date>2026-05-22T11:48:37.000Z</video:expiration_date>
+    <video:duration>260</video:duration>
+    <video:publication_date>2026-05-14T12:16:54.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-05-22T12:16:54.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -7198,30 +7198,6 @@
     <video:publication_date>2026-04-15T01:29:08.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-04-23T01:29:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesdays-at-d-b-40/set/101627755/</loc>
-  <lastmod>2026-04-15T01:35:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901716/image-0db8baaea1731823a41b5ba4ac59e363.png
-    </video:thumbnail_loc>
-    <video:title>
-      Play_guy vs Vaxtrum, Tuesdays at D&amp;B#40 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Play_guy vs Vaxtrum in Winners Quarter-Final of Tuesdays at D&amp;B#40, streamed by Chicagolandfightersfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2748299778&amp;t=0h45m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>317</video:duration>
-    <video:publication_date>2026-04-15T01:10:45.000Z</video:publication_date>
-    <video:uploader>Chicagolandfightersfgc</video:uploader>
-    <video:expiration_date>2026-04-23T01:10:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
