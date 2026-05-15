@@ -488,6 +488,37 @@ async function processData(data, forExpired=false) {
       data[key1][key2].forEach(item => {
         item.bracketInfo.setKey = `${item.bracketInfo.setId}`
         item.bracketInfo.lastMod = getLastMod(item)
+
+        const correctionMap = {
+          "andybogard": "andy",
+          "joehigashi": "joe",
+          "terrybogard": "terry",
+          "rockhoward": "rock",
+          "kainrheinlein": "kain",
+          "hotarufutaba": "hotaru",
+          "cristianoronaldo": "cristiano",
+          "billykane": "billy",
+          "kevinrian": "kevin",
+          "maishiranui": "mai",
+          "marcorodrigues": "marco",
+          "salvatoreganacci": "salvatore",
+          "voxreaper": "vox",
+          "kimdonghwan": "donghwan"
+        }
+
+        //temporory for data update
+        if (key1 == "73221") {
+          for (const charInfo of item.player1Info?.charInfo ?? []) {
+            if (correctionMap[charInfo.name] != null) {
+              charInfo.name = correctionMap[charInfo.name]
+            }
+          }
+          for (const charInfo of item.player2Info?.charInfo ?? []) {
+            if (correctionMap[charInfo.name] != null) {
+              charInfo.name = correctionMap[charInfo.name]
+            }
+          }
+        }
       })
     })
   })
@@ -617,7 +648,7 @@ async function processData(data, forExpired=false) {
 
   // === Generate game + character sitemaps ===
   const templatePath = "build/index.html";
-  const includeCharactersForGames = ["super-smash-bros-ultimate", "rivals-of-aether-ii", "guilty-gear-strive", "super-smash-bros-melee", "tekken-8"]
+  const includeCharactersForGames = ["super-smash-bros-ultimate", "rivals-of-aether-ii", "guilty-gear-strive", "super-smash-bros-melee", "tekken-8", "fatal-fury-city-of-the-wolves"]
   const games = VideoGameInfo
   var keywords = GameKeywords["1386"]
   var jsonLd = generateJsonLdAbout({})

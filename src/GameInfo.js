@@ -23,6 +23,9 @@ export const Characters = Object.freeze({
   },
   "53945": {
     charList: ["absa","clairen","etalus","fleet","forsburn","galvan","kragg","lareina","loxodont","maypul","olympia","orcane","ranno","slade","wrastor","zetterburn"]    
+  },
+  "73221": {
+    charList: ["andy","billy","bjenet","bluemary","chunli","cristiano","donghwan","gato","geese","hokutomaru","hotaru","jaehoon","joe","kain","ken","kevin","krauser","mai","marco","mrbig","preecha","rock","salvatore","terry","tizoc","vox"]
   }
 });
 
@@ -32,7 +35,8 @@ export const ButtonCharacters = Object.freeze({
   "33945": ["aba","anji","asukar","axl"],
   // "43868": ["luke","mai","ryu","rashid"],
   "49783": ["jin", "kazuya", "asuka", "reina"],
-  "53945": ["kragg", "fleet", "maypul", "ranno"]
+  "53945": ["kragg", "fleet", "maypul", "ranno"],
+  "73221": ["andy", "billy", "mai", "kain"]
 });
 
 export const GameKeywords = Object.freeze({
@@ -42,8 +46,8 @@ export const GameKeywords = Object.freeze({
   "43868": "Street Fighter 6, SF6, competitive Street Fighter, SF6 tournaments, fighting game streams, SF6 sets, tournament matches, esports, characters, gameplay, live matches",
   "49783": "Tekken 8, T8, competitive Tekken, Tekken tournaments, fighting game streams, Tekken sets, tournament matches, esports, characters, gameplay, live matches",
   "53945": "Rivals of Aether 2, RoA2, competitive Rivals of Aether, Rivals tournaments, fighting game streams, RoA sets, tournament matches, esports, characters, gameplay, live matches",
-  "48548": "Granblue Fantasy Versus, GBVS, competitive Granblue Fantasy, GBVS tournaments, fighting game streams, GBVS sets, tournament matches, esports, characters, gameplay, live matches"
-  //"73221": "Fatal Fury City of the Wolves, Fatal Fury, competitive Fatal Fury, Fatal Fury tournaments, fighting game streams, Fatal Fury sets, tournament matches, esports, characters, gameplay, live matches"
+  "48548": "Granblue Fantasy Versus, GBVS, competitive Granblue Fantasy, GBVS tournaments, fighting game streams, GBVS sets, tournament matches, esports, characters, gameplay, live matches",
+  "73221": "Fatal Fury City of the Wolves, Fatal Fury, competitive Fatal Fury, Fatal Fury tournaments, fighting game streams, Fatal Fury sets, tournament matches, esports, characters, gameplay, live matches"
 });
 
 export const GamePublishers = Object.freeze({
@@ -74,11 +78,11 @@ export const GamePublishers = Object.freeze({
   "48548": {
     "name": "Cygames",
     "url": "https://www.cygames.co.jp/"
+  },
+  "73221": {
+    "name": "SNK",
+    "url": "https://www.snk-corp.co.jp/"
   }
-  // "fatal-fury-city-of-the-wolves": {
-  //   "name": "SNK",
-  //   "url": "https://www.snk-corp.co.jp/"
-  // }
 })
 
 
@@ -178,6 +182,18 @@ export const VideoGameInfo = Object.freeze([
       }
     ]
   },
+  {
+    "id": "73221",
+    "hide": "true",
+    "name": "Fatal Fury: City of the Wolves",
+    "displayName": "Fatal Fury: City of the Wolves",
+    "gameSlug": "fatal-fury-city-of-the-wolves",
+    "images": [
+      {
+        "url": "https://images.start.gg/images/videogame/73221/image-a8bb93cc531f7e62736f1b8c24f06f29.jpg?ehk=Uh0r5coU9wAG%2BTT4NPURV%2BvyDjoI7SXptv4%2Fph1l6cI%3D&ehkOptimized=lC2Q90lmxJje7Z5coBoi3wTMxM1FxNJrOfp5qThOpFs%3D"
+      }
+    ]
+  }
 ]);
 
 export const VideoGameInfoById = Object.fromEntries(

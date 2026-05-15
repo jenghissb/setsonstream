@@ -1186,10 +1186,39 @@ function MainComponent({homeMode, homeType, darkMode}) {
         if (data == null) {
           data = {}
         }
+        const correctionMap = {
+          "andybogard": "andy",
+          "joehigashi": "joe",
+          "terrybogard": "terry",
+          "rockhoward": "rock",
+          "kainrheinlein": "kain",
+          "hotarufutaba": "hotaru",
+          "cristianoronaldo": "cristiano",
+          "billykane": "billy",
+          "kevinrian": "kevin",
+          "maishiranui": "mai",
+          "marcorodrigues": "marco",
+          "salvatoreganacci": "salvatore",
+          "voxreaper": "vox",
+          "kimdonghwan": "donghwan"
+        }
         Object.keys(data).forEach((key1) => {
           Object.keys(data[key1]).forEach((key2) => {
             data[key1][key2].forEach(item => {
               item.bracketInfo.setKey = `${item.bracketInfo.setId}`
+              // Temporory for data update
+              if (key1 == "73221") {
+                for (const charInfo of item.player1Info?.charInfo ?? []) {
+                  if (correctionMap[charInfo.name] != null) {
+                    charInfo.name = correctionMap[charInfo.name]
+                  }
+                }
+                for (const charInfo of item.player2Info?.charInfo ?? []) {
+                  if (correctionMap[charInfo.name] != null) {
+                    charInfo.name = correctionMap[charInfo.name]
+                  }
+                }
+              }
             })
           })
         })
