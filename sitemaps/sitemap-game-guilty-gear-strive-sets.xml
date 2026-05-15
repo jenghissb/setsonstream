@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/run-that-back-3/set/102863735/</loc>
+  <lastmod>2026-05-15T03:27:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911682/image-b67baea4ee756337d921df4aecf2f30c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kwan vs WAVE, Run That Back #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kwan vs WAVE in Losers Final of Run That Back #3, streamed by runthesticks
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2772144737&amp;t=3h49m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>398</video:duration>
+    <video:publication_date>2026-05-15T02:52:18.000Z</video:publication_date>
+    <video:uploader>runthesticks</video:uploader>
+    <video:expiration_date>2026-05-23T02:52:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/neon-dreams-guilty-gear-strive-29-x-xrd-rev2/set/102861029/</loc>
-  <lastmod>2026-05-15T02:11:07.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-15T02:57:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2772236088&amp;t=1h5m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2000</video:duration>
+    <video:duration>958</video:duration>
     <video:publication_date>2026-05-15T02:11:07.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2026-05-23T02:11:07.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-18T03:36:01.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-04-26T03:36:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-115-3-year-anniversary/set/101748744/</loc>
-  <lastmod>2026-04-18T03:43:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888082/image-536fd13b44c2fac9c85635ce3b559f95.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      真島建設 | Arcblade(mashima kensetsu | Arcblade) vs SkypeMagic, SoCal Colosseum #115 - 3 Year Anniversary! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 真島建設 | Arcblade(mashima kensetsu | Arcblade) vs SkypeMagic in Winners Round 3 of SoCal Colosseum #115 - 3 Year Anniversary!, streamed by socalcolosseum1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2750785201&amp;t=0h45m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>629</video:duration>
-    <video:publication_date>2026-04-18T03:12:46.000Z</video:publication_date>
-    <video:uploader>socalcolosseum1</video:uploader>
-    <video:expiration_date>2026-04-26T03:12:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
