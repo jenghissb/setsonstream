@@ -12,16 +12,17 @@ export const Characters = Object.freeze({
     charList: ["bowser","captainfalcon","donkeykong","drmario","falco","fox","ganondorf","iceclimbers","jigglypuff","kirby","link","luigi","mario","marth","mewtwo","mrgamewatch","ness","peach","pichu","pikachu","roy","samus","sheik","yoshi","younglink","zelda"]
   },
   "33945": {
-    charList: ["aba","anji","asukar","axl","baiken","bedman","bridget","chipp","dizzy","elphelt","faust","giovanna","goldlewis","happychaos","ino","jacko","johnny","ky","leo","may","millia","nagoriyuki","potemkin","ramlethal","sin","slayer","sol","testament","venom","zato"]
+    charList: ["aba","anji","asukar","axl","baiken","bedman","bridget","chipp","dizzy","elphelt","faust","giovanna","goldlewis","happychaos","ino","jacko","jam","johnny","ky","leo","lucy","may","millia","nagoriyuki","potemkin","ramlethal","sin","slayer","sol","testament","unika","venom","zato"]    
   },
   // "43868": {
   //   charList: ["aki","akuma","blanka","cammy","chunli","deejay","dhalsim","ehonda","ed","elena","guile","jp","jamie","juri","ken","kimberly","lily","luke","mbison","mai","manon","marisa","rashid","ryu","terry","zangief"]
   // },
   "49783": {
-    charList: ["alisa","anna","asuka","azucena","bryan","claudio","clive","deviljin","dragunov","eddy","fahkumram","feng","heihachi","hwoarang","jack8","jin","jun","kazuya","king","kuma","lars","law","lee","leo","leroy","lidia","lili","nina","panda","paul","raven","reina","shaheen","steve","victor","xiaoyu","yoshimitsu","zafina"]
+    charList: ["alisa","anna","armorking","asuka","azucena","bryan","claudio","clive","deviljin","dragunov","eddy","fahkumram","feng","heihachi","hwoarang","jack8","jin","jun","kazuya","king","kuma","kunimitsu","lars","law","lee","leo","leroy","lidia","lili","miaryzo","nina","panda","paul","raven","reina","shaheen","steve","victor","xiaoyu","yoshimitsu","zafina"]
+    
   },
   "53945": {
-    charList: ["absa","clairen","etalus","fleet","forsburn","kragg","loxodont","maypul","olympia","orcane","ranno","wrastor","zetterburn"]
+    charList: ["absa","clairen","etalus","fleet","forsburn","galvan","kragg","lareina","loxodont","maypul","olympia","orcane","ranno","slade","wrastor","zetterburn"]    
   }
 });
 
