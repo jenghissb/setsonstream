@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/run-that-back-3/set/102853478/</loc>
+  <lastmod>2026-05-14T23:42:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911682/image-b67baea4ee756337d921df4aecf2f30c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Chris Pancakes vs Big Ziggy, Run That Back #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chris Pancakes vs Big Ziggy in Winners Final of Run That Back #3, streamed by runthesticks
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2772144737&amp;t=0h39m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>810</video:duration>
+    <video:publication_date>2026-05-14T23:42:15.000Z</video:publication_date>
+    <video:uploader>runthesticks</video:uploader>
+    <video:expiration_date>2026-05-22T23:42:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/le-dojo-club-77-4/set/102845405/</loc>
   <lastmod>2026-05-14T15:32:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-15T02:18:28.000Z</video:publication_date>
     <video:uploader>Chicagolandfightersfgc</video:uploader>
     <video:expiration_date>2026-04-23T02:18:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesdays-at-d-b-40/set/101627759/</loc>
-  <lastmod>2026-04-15T02:26:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901716/image-0db8baaea1731823a41b5ba4ac59e363.png
-    </video:thumbnail_loc>
-    <video:title>
-      Play_guy vs rave, Tuesdays at D&amp;B#40 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Play_guy vs rave in Winners Semi-Final of Tuesdays at D&amp;B#40, streamed by Chicagolandfightersfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2748299778&amp;t=1h8m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>614</video:duration>
-    <video:publication_date>2026-04-15T01:33:58.000Z</video:publication_date>
-    <video:uploader>Chicagolandfightersfgc</video:uploader>
-    <video:expiration_date>2026-04-23T01:33:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
