@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kbit-2026/set/102873157/</loc>
+  <lastmod>2026-05-15T13:45:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888725/image-bec1ae8b2a9c9ab922e09c3886534998.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dalarna | Shorteex vs monsterjohnny, KBit 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dalarna | Shorteex vs monsterjohnny in Losers Semi-Final of KBit 2026, streamed by VasterasFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2772496841&amp;t=2h11m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>585</video:duration>
+    <video:publication_date>2026-05-15T13:13:12.000Z</video:publication_date>
+    <video:uploader>VasterasFGC</video:uploader>
+    <video:expiration_date>2026-05-23T13:13:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-207-norcal-street-fighter-6-weekly/set/102868433/</loc>
   <lastmod>2026-05-15T05:48:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-16T12:12:34.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-04-24T12:12:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-114/set/101664600/</loc>
-  <lastmod>2026-04-16T11:37:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902659/image-5fbe3957fd11747e042fced6f23f508c.png
-    </video:thumbnail_loc>
-    <video:title>
-      マンドライ(mandorai) vs みつや(mitsuya), Paradise Cup #114 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch マンドライ(mandorai) vs みつや(mitsuya) in Round 1 of Paradise Cup #114, streamed by Vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2749363881&amp;t=0h9m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>471</video:duration>
-    <video:publication_date>2026-04-16T11:10:21.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp</video:uploader>
-    <video:expiration_date>2026-04-24T11:10:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

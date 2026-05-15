@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/kbit-2026/set/102875379/</loc>
+  <lastmod>2026-05-15T15:27:50.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888725/image-bec1ae8b2a9c9ab922e09c3886534998.png
+    </video:thumbnail_loc>
+    <video:title>
+      UFGC | Bumpen vs shimmy timmy, KBit 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UFGC | Bumpen vs shimmy timmy in Winners Round 2 of KBit 2026, streamed by VasterasFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2772627025&amp;t=0h17m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>617</video:duration>
+    <video:publication_date>2026-05-15T15:27:50.000Z</video:publication_date>
+    <video:uploader>VasterasFGC</video:uploader>
+    <video:expiration_date>2026-05-23T15:27:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-219-tekken-8-weekly/set/102870169/</loc>
   <lastmod>2026-05-15T06:22:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-18T23:28:55.000Z</video:publication_date>
     <video:uploader>nyctekken</video:uploader>
     <video:expiration_date>2026-04-26T23:28:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/lost-in-the-sauce-4-2/set/101819278/</loc>
-  <lastmod>2026-04-19T00:09:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/890098/image-17427969f89e99bd77c90c5b5dc53c11.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sicoby vs WSF | Debaser, Lost In The Sauce 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sicoby vs WSF | Debaser in Winners Quarter-Final of Lost In The Sauce 4, streamed by Ugk4life
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2751274682&amp;t=5h24m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>708</video:duration>
-    <video:publication_date>2026-04-18T23:26:45.000Z</video:publication_date>
-    <video:uploader>Ugk4life</video:uploader>
-    <video:expiration_date>2026-04-26T23:26:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
