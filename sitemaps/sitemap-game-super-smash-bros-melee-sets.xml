@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guild-gauntlet-10/set/102906605/</loc>
-  <lastmod>2026-05-16T04:11:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-217/set/102908810/</loc>
+  <lastmod>2026-05-16T05:45:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/912042/image-e5146a3490cf145462c095d30115ef62.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SU | MunfMunf vs TheCommunityFool, Fight Night Fridays #217 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SU | MunfMunf vs TheCommunityFool in Grand Final Reset of Fight Night Fridays #217, streamed by cptwoodbeard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2773129470&amp;t=2h15m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>817</video:duration>
+    <video:publication_date>2026-05-16T05:07:38.000Z</video:publication_date>
+    <video:uploader>cptwoodbeard</video:uploader>
+    <video:expiration_date>2026-05-24T05:07:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guild-gauntlet-10/set/102906607/</loc>
+  <lastmod>2026-05-16T05:18:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/904411/image-8b762e7804797011e3eefa94c125e84c.png
     </video:thumbnail_loc>
     <video:title>
-      Spooky vs Narps, Guild Gauntlet 10 - Sets on Stream
+      Spooky vs Reviewer, Guild Gauntlet 10 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Spooky vs Narps in Losers Quarter-Final of Guild Gauntlet 10, streamed by GuildhallSFL
+      Watch Spooky vs Reviewer in Losers Semi-Final of Guild Gauntlet 10, streamed by GuildhallSFL
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2773009755&amp;t=4h3m55s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2773009755&amp;t=4h36m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2393</video:duration>
-    <video:publication_date>2026-05-16T04:11:19.000Z</video:publication_date>
+    <video:duration>704</video:duration>
+    <video:publication_date>2026-05-16T04:43:55.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-05-24T04:11:19.000Z</video:expiration_date>
+    <video:expiration_date>2026-05-24T04:43:55.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fight-night-fridays-217/set/102908808/</loc>
-  <lastmod>2026-05-16T04:18:03.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-16T04:50:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2773129470&amp;t=1h25m59s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1989</video:duration>
+    <video:duration>1012</video:duration>
     <video:publication_date>2026-05-16T04:18:03.000Z</video:publication_date>
     <video:uploader>cptwoodbeard</video:uploader>
     <video:expiration_date>2026-05-24T04:18:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/guild-gauntlet-10/set/102906605/</loc>
+  <lastmod>2026-05-16T04:50:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904411/image-8b762e7804797011e3eefa94c125e84c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Spooky vs Narps, Guild Gauntlet 10 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Spooky vs Narps in Losers Quarter-Final of Guild Gauntlet 10, streamed by GuildhallSFL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2773009755&amp;t=4h3m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>925</video:duration>
+    <video:publication_date>2026-05-16T04:11:19.000Z</video:publication_date>
+    <video:uploader>GuildhallSFL</video:uploader>
+    <video:expiration_date>2026-05-24T04:11:19.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-04-18T23:42:47.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
     <video:expiration_date>2026-04-26T23:42:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/norcal-arcadian-8/set/101819205/</loc>
-  <lastmod>2026-04-19T00:21:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877587/image-dfd099da6c71f439894a3b007e9fbbf4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fat Chance vs TJGE | Megaman, NorCal Arcadian 8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fat Chance vs TJGE | Megaman in Losers Round 3 of NorCal Arcadian 8, streamed by sfmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2751362737&amp;t=3h46m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>566</video:duration>
-    <video:publication_date>2026-04-18T23:37:23.000Z</video:publication_date>
-    <video:uploader>sfmelee</video:uploader>
-    <video:expiration_date>2026-04-26T23:37:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/crossover-ict-140-wichita-s-melee-fgc-weekly-tournament/set/101827217/</loc>
-  <lastmod>2026-04-19T00:21:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901945/image-2fe6ef1b024dcbd2cc9d299d5696d2cc.png
-    </video:thumbnail_loc>
-    <video:title>
-      ICT | Swaggermuffin vs Kotumine, Crossover ICT #140 - Wichita&apos;s Melee &amp; FGC Weekly Tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ICT | Swaggermuffin vs Kotumine in Winners Round 1 of Crossover ICT #140 - Wichita&apos;s Melee &amp; FGC Weekly Tournament, streamed by WichitaMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2751515200&amp;t=0h3m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>658</video:duration>
-    <video:publication_date>2026-04-18T23:36:03.000Z</video:publication_date>
-    <video:uploader>WichitaMelee</video:uploader>
-    <video:expiration_date>2026-04-26T23:36:03.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
