@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/run-the-set-8-the-red-bull-gaming-hub-tmu/set/102938474/</loc>
+  <lastmod>2026-05-16T18:33:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899043/image-c8ccd6f24e0e729fdfaf800f5cd30a23.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GGN | Casper vs JM | Hotline, Run The Set #8 @ The Red Bull Gaming Hub &amp; TMU - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GGN | Casper vs JM | Hotline in Winners Round 2 of Run The Set #8 @ The Red Bull Gaming Hub &amp; TMU, streamed by Incendiumgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Incendiumgaming&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-05-16T18:33:41.000Z</video:publication_date>
+    <video:uploader>Incendiumgaming</video:uploader>
+    <video:expiration_date>2026-05-24T18:33:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/3f-fight-for-the-future-2/set/102942611/</loc>
+  <lastmod>2026-05-16T18:38:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887886/image-eaa30047178ca008d1a878dc074aa021.png
+    </video:thumbnail_loc>
+    <video:title>
+      FDS | IceHimura vs PHT | Sudano, 3F - Fight For The Future - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FDS | IceHimura vs PHT | Sudano in Winners Final of 3F - Fight For The Future, streamed by Alemeras
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/5J_IQ4c_R3Y?start=10956s
+    </video:player_loc>
+    <video:duration>851</video:duration>
+    <video:publication_date>2026-05-16T18:09:04.000Z</video:publication_date>
+    <video:uploader>Alemeras</video:uploader>
+    <video:expiration_date>2026-05-24T18:09:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/3f-fight-for-the-future-2/set/102931331/</loc>
   <lastmod>2026-05-16T16:15:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4822,6 @@
     <video:publication_date>2026-04-18T20:21:27.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-04-26T20:21:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/the-infinite-oasis-4-18-26/set/101793862/</loc>
-  <lastmod>2026-04-18T20:23:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895293/image-e91d162e3b04ddd002815470fd2b4898.png
-    </video:thumbnail_loc>
-    <video:title>
-      Severity vs Dry_Fire, The Infinite Oasis 4/18/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Severity vs Dry_Fire in Winners Quarter-Final of The Infinite Oasis 4/18/26, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2751184410&amp;t=3h40m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>580</video:duration>
-    <video:publication_date>2026-04-18T19:44:02.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-04-26T19:44:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
