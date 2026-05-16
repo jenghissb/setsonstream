@@ -18,40 +18,64 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2773354710&amp;t=4h12m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>915</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-05-16T15:58:57.000Z</video:publication_date>
     <video:uploader>SuperSmashDelft</video:uploader>
     <video:expiration_date>2026-05-24T15:58:57.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kbit-2026/set/102930324/</loc>
-  <lastmod>2026-05-16T16:03:03.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-13/set/102932551/</loc>
+  <lastmod>2026-05-16T16:59:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/908788/image-83da611ce55f51a07ee432d0cb319cbe.png
+    </video:thumbnail_loc>
+    <video:title>
+      Touffe vs Arte, THE CRT: S04 EP #13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Touffe vs Arte in Losers Quarter-Final of THE CRT: S04 EP #13, streamed by kapa_team
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2773519535&amp;t=0h39m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1053</video:duration>
+    <video:publication_date>2026-05-16T16:59:39.000Z</video:publication_date>
+    <video:uploader>kapa_team</video:uploader>
+    <video:expiration_date>2026-05-24T16:59:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kbit-2026/set/102930327/</loc>
+  <lastmod>2026-05-16T17:10:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/888725/image-bec1ae8b2a9c9ab922e09c3886534998.png
     </video:thumbnail_loc>
     <video:title>
-      MrBoboGet vs Sukhmai Bahlz, KBit 2026 - Sets on Stream
+      smushmarth vs o7 | Pipsqueak, KBit 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch MrBoboGet vs Sukhmai Bahlz in Losers Round 3 of KBit 2026, streamed by testtubegirl
+      Watch smushmarth vs o7 | Pipsqueak in Losers Semi-Final of KBit 2026, streamed by VasterasFGC
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2773414177&amp;t=2h29m44s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2773336765&amp;t=5h25m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>669</video:duration>
-    <video:publication_date>2026-05-16T16:03:03.000Z</video:publication_date>
-    <video:uploader>testtubegirl</video:uploader>
-    <video:expiration_date>2026-05-24T16:03:03.000Z</video:expiration_date>
+    <video:duration>796</video:duration>
+    <video:publication_date>2026-05-16T16:29:21.000Z</video:publication_date>
+    <video:uploader>VasterasFGC</video:uploader>
+    <video:expiration_date>2026-05-24T16:29:21.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kbit-2026/set/102930325/</loc>
-  <lastmod>2026-05-16T16:06:42.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-16T16:40:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2773336765&amp;t=5h2m47s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>450</video:duration>
+    <video:duration>496</video:duration>
     <video:publication_date>2026-05-16T16:06:42.000Z</video:publication_date>
     <video:uploader>VasterasFGC</video:uploader>
     <video:expiration_date>2026-05-24T16:06:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kbit-2026/set/102930324/</loc>
+  <lastmod>2026-05-16T16:40:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888725/image-bec1ae8b2a9c9ab922e09c3886534998.png
+    </video:thumbnail_loc>
+    <video:title>
+      MrBoboGet vs Sukhmai Bahlz, KBit 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MrBoboGet vs Sukhmai Bahlz in Losers Round 3 of KBit 2026, streamed by testtubegirl
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2773414177&amp;t=2h29m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>667</video:duration>
+    <video:publication_date>2026-05-16T16:03:03.000Z</video:publication_date>
+    <video:uploader>testtubegirl</video:uploader>
+    <video:expiration_date>2026-05-24T16:03:03.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-04-20T00:20:32.000Z</video:publication_date>
     <video:uploader>devdoggxx</video:uploader>
     <video:expiration_date>2026-04-28T00:20:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-6/set/101871378/</loc>
-  <lastmod>2026-04-20T00:44:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893927/image-199555147d2245563f4620bc19782a6e.png
-    </video:thumbnail_loc>
-    <video:title>
-      SHED | Epoodle vs Adwan, Melee at Recess 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SHED | Epoodle vs Adwan in Losers Final of Melee at Recess 6, streamed by devdoggxx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2752266114&amp;t=3h5m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>776</video:duration>
-    <video:publication_date>2026-04-20T00:05:37.000Z</video:publication_date>
-    <video:uploader>devdoggxx</video:uploader>
-    <video:expiration_date>2026-04-28T00:05:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-6/set/101869099/</loc>
-  <lastmod>2026-04-19T23:11:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893927/image-199555147d2245563f4620bc19782a6e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Adwan vs angst, Melee at Recess 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Adwan vs angst in Winners Quarter-Final of Melee at Recess 6, streamed by devdoggxx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2752266114&amp;t=1h36m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>320</video:duration>
-    <video:publication_date>2026-04-19T22:36:12.000Z</video:publication_date>
-    <video:uploader>devdoggxx</video:uploader>
-    <video:expiration_date>2026-04-27T22:36:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
