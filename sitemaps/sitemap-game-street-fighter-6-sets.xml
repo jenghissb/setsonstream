@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/3f-fight-for-the-future-2/set/103004047/</loc>
+  <lastmod>2026-05-17T15:25:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887886/image-eaa30047178ca008d1a878dc074aa021.png
+    </video:thumbnail_loc>
+    <video:title>
+      KBM! | Kyuki vs TomzinMilgrau, 3F - Fight For The Future - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KBM! | Kyuki vs TomzinMilgrau in Winners Semi-Final of 3F - Fight For The Future, streamed by FGC SP
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/FPIQ5lniAzc?start=294s
+    </video:player_loc>
+    <video:duration>1245</video:duration>
+    <video:publication_date>2026-05-17T15:25:40.000Z</video:publication_date>
+    <video:uploader>FGC SP</video:uploader>
+    <video:expiration_date>2026-05-25T15:25:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-rush-hour-5-16-1/set/102991415/</loc>
   <lastmod>2026-05-17T03:53:31.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-18T19:50:23.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-04-26T19:50:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-115-3-year-anniversary/set/101754461/</loc>
-  <lastmod>2026-04-18T05:13:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/888082/image-536fd13b44c2fac9c85635ce3b559f95.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Vita | noot vs Abyssal, SoCal Colosseum #115 - 3 Year Anniversary! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Vita | noot vs Abyssal in Winners Semi-Final of SoCal Colosseum #115 - 3 Year Anniversary!, streamed by socalcolosseum1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2750785201&amp;t=2h16m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>614</video:duration>
-    <video:publication_date>2026-04-18T04:43:54.000Z</video:publication_date>
-    <video:uploader>socalcolosseum1</video:uploader>
-    <video:expiration_date>2026-04-26T04:43:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
