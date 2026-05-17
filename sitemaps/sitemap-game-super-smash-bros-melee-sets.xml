@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gote-4thekids-11th-annual-charity-event/set/103015030/</loc>
+  <lastmod>2026-05-17T20:07:29.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869881/image-c4af6d60ad9db2e629b57e58e1071115.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CowCowCowCowCow vs Moochi, GoTE 4TheKids 11th Annual Charity Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CowCowCowCowCow vs Moochi in Losers Quarter-Final of GoTE 4TheKids 11th Annual Charity Event, streamed by gamersontheedge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2774376189&amp;t=3h11m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2286</video:duration>
+    <video:publication_date>2026-05-17T20:07:29.000Z</video:publication_date>
+    <video:uploader>gamersontheedge</video:uploader>
+    <video:expiration_date>2026-05-25T20:07:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/q-house-38-qualifier-for-q-summit/set/102987804/</loc>
   <lastmod>2026-05-17T06:48:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-23T23:01:01.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-05-01T23:01:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-377/set/101966562/</loc>
-  <lastmod>2026-04-23T23:03:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905104/image-6f74df63d5effa13e1a165f5c9bd8154.png
-    </video:thumbnail_loc>
-    <video:title>
-      Twan vs Qwizzical, Salt Water Smash 377 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Twan vs Qwizzical in Round 5 of Salt Water Smash 377, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2755409637&amp;t=0h56m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>485</video:duration>
-    <video:publication_date>2026-04-23T22:36:23.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-05-01T22:36:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
