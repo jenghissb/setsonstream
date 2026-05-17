@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/road-to-ewc-dreamhack-atlanta/set/103004245/</loc>
+  <lastmod>2026-05-17T19:31:37.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/900141/image-18e2af1037778126074b38746ec8750a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RIDDLE ORDER | Jr. vs RIDDLE ORDER | Shigematsu, Road to EWC: DreamHack Atlanta - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RIDDLE ORDER | Jr. vs RIDDLE ORDER | Shigematsu in Winners Semi-Final of Road to EWC: DreamHack Atlanta, streamed by ewc_plus_en2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2774312754&amp;t=4h8m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1302</video:duration>
+    <video:publication_date>2026-05-17T19:31:37.000Z</video:publication_date>
+    <video:uploader>ewc_plus_en2</video:uploader>
+    <video:expiration_date>2026-05-25T19:31:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/3f-fight-for-the-future-2/set/103004064/</loc>
   <lastmod>2026-05-17T17:21:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-18T21:26:57.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-04-26T21:26:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guild-gauntlet-9/set/101795493/</loc>
-  <lastmod>2026-04-18T21:35:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895394/image-deef82c0711d02faaa2a2921280c4324.png
-    </video:thumbnail_loc>
-    <video:title>
-      Senu vs AoC | StriderX, Guild Gauntlet 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Senu vs AoC | StriderX in Losers Round 3 of Guild Gauntlet 9, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2751351309&amp;t=1h23m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>622</video:duration>
-    <video:publication_date>2026-04-18T20:58:53.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-04-26T20:58:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

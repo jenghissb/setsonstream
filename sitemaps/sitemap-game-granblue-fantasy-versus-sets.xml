@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/collisions-44-kickstart-a-new-era/set/103007324/</loc>
+  <lastmod>2026-05-17T19:11:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907744/image-091263bbae6785a00029040eeaf8d4d3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      KSKN | | Crimzonblu vs OEG | Verxina, Collisions 44 || Kickstart a New Era - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KSKN | | Crimzonblu vs OEG | Verxina in Winners Final of Collisions 44 || Kickstart a New Era, streamed by collisionsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2774379638&amp;t=1h31m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>927</video:duration>
+    <video:publication_date>2026-05-17T18:30:58.000Z</video:publication_date>
+    <video:uploader>collisionsfgc</video:uploader>
+    <video:expiration_date>2026-05-25T18:30:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/bsk-spring-clash-fgc-edition/set/102998727/</loc>
   <lastmod>2026-05-17T13:28:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-21T13:16:04.000Z</video:publication_date>
     <video:uploader>themixuplyon</video:uploader>
     <video:expiration_date>2026-03-29T13:16:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/kayane-session-lyon-edition-gones-games/set/100654797/</loc>
-  <lastmod>2026-03-21T13:19:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879601/image-f289700b4ee45d4267e30c8515e7ba28.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Frinity vs LightningFox, Kayane Session à Lyon - Edition Gones Games - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frinity vs LightningFox in Winners Semi-Final of Kayane Session à Lyon - Edition Gones Games, streamed by themixuplyon
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2727994946&amp;t=0h22m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1066</video:duration>
-    <video:publication_date>2026-03-21T12:46:34.000Z</video:publication_date>
-    <video:uploader>themixuplyon</video:uploader>
-    <video:expiration_date>2026-03-29T12:46:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
