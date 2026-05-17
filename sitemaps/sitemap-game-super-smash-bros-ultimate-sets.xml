@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sandstorm-series-5/set/102997554/</loc>
+  <lastmod>2026-05-17T10:44:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902861/image-22ef0fa3b2d01d862f10b899250a04c6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Erboxgame vs mega, Sandstorm Series #5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Erboxgame vs mega in Winners Round 1 of Sandstorm Series #5, streamed by smashgranada
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2774144085&amp;t=0h16m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1464</video:duration>
+    <video:publication_date>2026-05-17T10:16:43.000Z</video:publication_date>
+    <video:uploader>smashgranada</video:uploader>
+    <video:expiration_date>2026-05-25T10:16:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/try-hards-ds-night-market-2/set/102989887/</loc>
   <lastmod>2026-05-17T05:11:48.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71973,30 +71997,6 @@
     <video:duration>878</video:duration>
     <video:publication_date>2026-05-08T02:04:42.000Z</video:publication_date>
     <video:uploader>Jmar2704</video:uploader>
-    <video:expiration_date>2026-05-16T02:04:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/kmlocal-59-go-to-patchwork/set/102605419/</loc>
-  <lastmod>2026-05-08T02:31:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908322/image-41757429efddedb631f722fb3dfbc4bf.png
-    </video:thumbnail_loc>
-    <video:title>
-      SMFN | JKIM | Oolong vs 4JKIM | Wrap!, KMLocal #59 - Go to Patchwork! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SMFN | JKIM | Oolong vs 4JKIM | Wrap! in Winners Semi-Final of KMLocal #59 - Go to Patchwork!, streamed by KMLTournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2766759219&amp;t=0h28m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1231</video:duration>
-    <video:publication_date>2026-05-08T02:04:42.000Z</video:publication_date>
-    <video:uploader>KMLTournaments</video:uploader>
     <video:expiration_date>2026-05-16T02:04:42.000Z</video:expiration_date>
   </video:video>
 </url>
