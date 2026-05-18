@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/collisions-44-kickstart-a-new-era/set/103026131/</loc>
-  <lastmod>2026-05-17T23:29:13.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/collisions-44-kickstart-a-new-era/set/103026116/</loc>
+  <lastmod>2026-05-17T23:43:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907744/image-091263bbae6785a00029040eeaf8d4d3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      COL | Bimbes McFly vs Khman, Collisions 44 || Kickstart a New Era - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch COL | Bimbes McFly vs Khman in Grand Final of Collisions 44 || Kickstart a New Era, streamed by collisionsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=collisionsfgc&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-05-17T23:43:50.000Z</video:publication_date>
+    <video:uploader>collisionsfgc</video:uploader>
+    <video:expiration_date>2026-05-25T23:43:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/collisions-44-kickstart-a-new-era/set/103026131/</loc>
+  <lastmod>2026-05-18T00:02:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2774379638&amp;t=6h30m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>863</video:duration>
+    <video:duration>872</video:duration>
     <video:publication_date>2026-05-17T23:29:13.000Z</video:publication_date>
     <video:uploader>collisionsfgc</video:uploader>
     <video:expiration_date>2026-05-25T23:29:13.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-22T02:20:27.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-04-30T02:20:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-101/set/101918187/</loc>
-  <lastmod>2026-04-22T02:23:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/903803/image-8dccaf054761b1811ca3d52e7bfb32a9.png
-    </video:thumbnail_loc>
-    <video:title>
-      StitchFace vs Lightice, Block String @ Wonderfly #101 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch StitchFace vs Lightice in Grand Final of Block String @ Wonderfly #101, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2753896150&amp;t=2h44m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>603</video:duration>
-    <video:publication_date>2026-04-22T01:53:13.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2026-04-30T01:53:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
