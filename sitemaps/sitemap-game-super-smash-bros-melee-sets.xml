@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-green-rock-2/set/103019084/</loc>
+  <lastmod>2026-05-17T23:29:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911234/image-970fe9a65655880efa52fe3ef70f3908.png
+    </video:thumbnail_loc>
+    <video:title>
+      TSC | Claw vs TSC | KoRT, Melee @ Green Rock #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TSC | Claw vs TSC | KoRT in Losers Quarter-Final of Melee @ Green Rock #2, streamed by lucky7smelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2774522862&amp;t=2h45m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>912</video:duration>
+    <video:publication_date>2026-05-17T22:46:31.000Z</video:publication_date>
+    <video:uploader>lucky7smelee</video:uploader>
+    <video:expiration_date>2026-05-25T22:46:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gote-4thekids-11th-annual-charity-event/set/103015017/</loc>
   <lastmod>2026-05-17T22:34:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-24T00:06:55.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-05-02T00:06:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-302/set/101973956/</loc>
-  <lastmod>2026-04-24T00:42:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905037/image-2a9e76d82daafe93585dfe39c7376a85.png
-    </video:thumbnail_loc>
-    <video:title>
-      BloNo | Flyguy vs Tom Foolery, Illinois State Smash Weekly #302 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BloNo | Flyguy vs Tom Foolery in Winners Quarter-Final of Illinois State Smash Weekly #302, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2755476750&amp;t=0h41m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>943</video:duration>
-    <video:publication_date>2026-04-24T00:02:28.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2026-05-02T00:02:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
