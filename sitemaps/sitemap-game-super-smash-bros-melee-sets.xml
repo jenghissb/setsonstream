@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-15/set/103070643/</loc>
+  <lastmod>2026-05-19T20:47:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911910/image-f00132e90f2d635b8b18487eb3f15825.png
+    </video:thumbnail_loc>
+    <video:title>
+      LSB | Pjon vs Walsall Gaming | Useth, Fowl Play! - 15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LSB | Pjon vs Walsall Gaming | Useth in Losers Semi-Final of Fowl Play! - 15, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2775958354&amp;t=1h46m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1490</video:duration>
+    <video:publication_date>2026-05-19T19:59:34.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2026-05-27T19:59:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-15/set/103070612/</loc>
-  <lastmod>2026-05-19T19:35:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-19T20:19:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2775958354&amp;t=1h22m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2322</video:duration>
+    <video:duration>1418</video:duration>
     <video:publication_date>2026-05-19T19:35:50.000Z</video:publication_date>
     <video:uploader>Jaysotee</video:uploader>
     <video:expiration_date>2026-05-27T19:35:50.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-24T02:14:07.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-05-02T02:14:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/illinois-state-smash-weekly-302/set/101973993/</loc>
-  <lastmod>2026-04-24T02:52:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905037/image-2a9e76d82daafe93585dfe39c7376a85.png
-    </video:thumbnail_loc>
-    <video:title>
-      Snocc vs Tom Foolery, Illinois State Smash Weekly #302 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Snocc vs Tom Foolery in Losers Final of Illinois State Smash Weekly #302, streamed by isu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2755476750&amp;t=2h50m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1353</video:duration>
-    <video:publication_date>2026-04-24T02:11:50.000Z</video:publication_date>
-    <video:uploader>isu_smash</video:uploader>
-    <video:expiration_date>2026-05-02T02:11:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
