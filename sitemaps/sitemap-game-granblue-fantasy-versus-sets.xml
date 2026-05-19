@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/63-ttgbvsr-26-05-19/set/103066662/</loc>
+  <lastmod>2026-05-19T11:53:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/913382/image-3ecd815553e06452755086aad509fd0b.png
+    </video:thumbnail_loc>
+    <video:title>
+      LastUMA Ketsubattler vs Aevanstron, #63 TTGBVSR 26/05/19 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LastUMA Ketsubattler vs Aevanstron in Losers Semi-Final of #63 TTGBVSR 26/05/19, streamed by robert_rorio
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2775682145&amp;t=1h51m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>410</video:duration>
+    <video:publication_date>2026-05-19T11:25:43.000Z</video:publication_date>
+    <video:uploader>robert_rorio</video:uploader>
+    <video:expiration_date>2026-05-27T11:25:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/collisions-44-kickstart-a-new-era/set/103007324/</loc>
   <lastmod>2026-05-17T19:11:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-21T13:42:00.000Z</video:publication_date>
     <video:uploader>themixuplyon</video:uploader>
     <video:expiration_date>2026-03-29T13:42:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/kayane-session-lyon-edition-gones-games/set/100654813/</loc>
-  <lastmod>2026-03-21T13:45:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879601/image-f289700b4ee45d4267e30c8515e7ba28.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Frinity vs DUC | Genosys, Kayane Session à Lyon - Edition Gones Games - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frinity vs DUC | Genosys in Losers Semi-Final of Kayane Session à Lyon - Edition Gones Games, streamed by themixuplyon
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2727994946&amp;t=0h52m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>844</video:duration>
-    <video:publication_date>2026-03-21T13:16:04.000Z</video:publication_date>
-    <video:uploader>themixuplyon</video:uploader>
-    <video:expiration_date>2026-03-29T13:16:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
