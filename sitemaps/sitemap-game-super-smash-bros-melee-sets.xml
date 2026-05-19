@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/spin-to-win-121/set/103075078/</loc>
+  <lastmod>2026-05-19T22:31:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/913233/image-1e06bbc1dfc956ab1a8a6ae7e8ebeb8a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Steelzy vs Foxy | Ember Wolf, Spin To Win! 121! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Steelzy vs Foxy | Ember Wolf in Winners Round 2 of Spin To Win! 121!, streamed by nsmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2776117642&amp;t=0h28m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1348</video:duration>
+    <video:publication_date>2026-05-19T22:31:14.000Z</video:publication_date>
+    <video:uploader>nsmelee</video:uploader>
+    <video:expiration_date>2026-05-27T22:31:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-15/set/103070643/</loc>
   <lastmod>2026-05-19T20:47:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-24T02:15:47.000Z</video:publication_date>
     <video:uploader>rutgers_melee</video:uploader>
     <video:expiration_date>2026-05-02T02:15:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-143/set/101981430/</loc>
-  <lastmod>2026-04-24T02:52:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904548/image-50f1f598d9ef01c479832cc4fd954058.png
-    </video:thumbnail_loc>
-    <video:title>
-      MAJOR | SpottieOatieDopaliscious vs Chockrit, Rage Against the CRT #143 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MAJOR | SpottieOatieDopaliscious vs Chockrit in Winners Round 1 of Rage Against the CRT #143, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2755591349&amp;t=0h11m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>937</video:duration>
-    <video:publication_date>2026-04-24T02:14:07.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2026-05-02T02:14:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
