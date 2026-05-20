@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-142/set/103094455/</loc>
+  <lastmod>2026-05-20T06:40:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/912297/image-aff2080aaa51750b8c0ca3e75012e598.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rob jr | blargh257 vs fap | battleshock, Melee @ Abbey Tavern #142 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rob jr | blargh257 vs fap | battleshock in Losers Semi-Final of Melee @ Abbey Tavern #142, streamed by SFMelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2776290792&amp;t=3h56m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>895</video:duration>
+    <video:publication_date>2026-05-20T05:59:55.000Z</video:publication_date>
+    <video:uploader>SFMelee</video:uploader>
+    <video:expiration_date>2026-05-28T05:59:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-142/set/103092234/</loc>
-  <lastmod>2026-05-20T03:44:32.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-20T04:20:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2776290792&amp;t=1h40m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>941</video:duration>
+    <video:duration>713</video:duration>
     <video:publication_date>2026-05-20T03:44:32.000Z</video:publication_date>
     <video:uploader>SFMelee</video:uploader>
     <video:expiration_date>2026-05-28T03:44:32.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-25T00:03:30.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
     <video:expiration_date>2026-05-03T00:03:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-225/set/102005526/</loc>
-  <lastmod>2026-04-25T01:16:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904970/image-e4e587351cb7eebee1e748671f155668.png
-    </video:thumbnail_loc>
-    <video:title>
-      Blue Velvet vs Sam, Smash Night at Prodigy #225 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Blue Velvet vs Sam in Losers Quarter-Final of Smash Night at Prodigy #225, streamed by cg_conduitgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2756256571&amp;t=0h53m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>938</video:duration>
-    <video:publication_date>2026-04-24T23:58:38.000Z</video:publication_date>
-    <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2026-05-02T23:58:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
