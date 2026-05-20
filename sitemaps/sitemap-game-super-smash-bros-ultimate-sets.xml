@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-231/set/103096376/</loc>
+  <lastmod>2026-05-20T13:45:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911166/image-b061743ce42ef845c541d6b78c1e2d61.png
+    </video:thumbnail_loc>
+    <video:title>
+      RC | Shuton vs 雨飴/uame(ame ame /uame), Weekly Smash Party ～スマパ～ #231 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RC | Shuton vs 雨飴/uame(ame ame /uame) in Grand Final of Weekly Smash Party ～スマパ～ #231, streamed by East Geek Smash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/KeJGrz-aiyA?start=12066s
+    </video:player_loc>
+    <video:duration>815</video:duration>
+    <video:publication_date>2026-05-20T13:30:05.000Z</video:publication_date>
+    <video:uploader>East Geek Smash</video:uploader>
+    <video:expiration_date>2026-05-28T13:30:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weekly-smash-party-231/set/103096503/</loc>
-  <lastmod>2026-05-20T13:15:17.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-20T13:33:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/KeJGrz-aiyA?start=11178s
     </video:player_loc>
-    <video:duration>591</video:duration>
+    <video:duration>839</video:duration>
     <video:publication_date>2026-05-20T13:15:17.000Z</video:publication_date>
     <video:uploader>East Geek Smash</video:uploader>
     <video:expiration_date>2026-05-28T13:15:17.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-05-09T21:12:46.000Z</video:publication_date>
     <video:uploader>SalemFighters</video:uploader>
     <video:expiration_date>2026-05-17T21:12:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hive-heresy-3-chaos-reigns-100-pot-bonus/set/102673230/</loc>
-  <lastmod>2026-05-09T21:37:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898345/image-34bb143bf9748c00415b7c72fd8c56be.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bugacheen vs BloNo | Tricky, Hive Heresy 3: Chaos Reigns - $100 Pot Bonus - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bugacheen vs BloNo | Tricky in Winners Round 2 of Hive Heresy 3: Chaos Reigns - $100 Pot Bonus, streamed by sauesports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767921752&amp;t=6h19m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1168</video:duration>
-    <video:publication_date>2026-05-09T21:11:26.000Z</video:publication_date>
-    <video:uploader>sauesports</video:uploader>
-    <video:expiration_date>2026-05-17T21:11:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
