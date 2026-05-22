@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tiny-tekken-xvii/set/103181075/</loc>
+  <lastmod>2026-05-22T22:24:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/910800/image-ef736a1b385d3684279c21dd7bcbd297.png
+    </video:thumbnail_loc>
+    <video:title>
+      N2K vs DC3 | Jely, Tiny Tekken XVII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch N2K vs DC3 | Jely in Winners Semi-Final of Tiny Tekken XVII, streamed by Ciojely
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2778440131&amp;t=0h4m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1316</video:duration>
+    <video:publication_date>2026-05-22T21:42:14.000Z</video:publication_date>
+    <video:uploader>Ciojely</video:uploader>
+    <video:expiration_date>2026-05-30T21:42:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tiny-tekken-xvii/set/103181076/</loc>
-  <lastmod>2026-05-22T21:25:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-22T21:59:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2778389803&amp;t=1h2m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>707</video:duration>
+    <video:duration>625</video:duration>
     <video:publication_date>2026-05-22T21:25:58.000Z</video:publication_date>
     <video:uploader>Ciojely</video:uploader>
     <video:expiration_date>2026-05-30T21:25:58.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-04-25T23:30:29.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-05-03T23:30:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mid-hudson-mayhem-42/set/102080149/</loc>
-  <lastmod>2026-04-25T22:54:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/896925/image-a97b4ec00b00aecdf032a77fa7f503dc.png
-    </video:thumbnail_loc>
-    <video:title>
-      KingsTigBiddies vs Massacre, Mid Hudson Mayhem #42 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KingsTigBiddies vs Massacre in Winners Semi-Final of Mid Hudson Mayhem #42, streamed by midhudsonmayhem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2756994162&amp;t=1h59m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>562</video:duration>
-    <video:publication_date>2026-04-25T22:13:42.000Z</video:publication_date>
-    <video:uploader>midhudsonmayhem</video:uploader>
-    <video:expiration_date>2026-05-03T22:13:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
