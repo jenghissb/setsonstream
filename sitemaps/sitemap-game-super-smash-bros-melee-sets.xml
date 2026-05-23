@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcamini-19/set/103210883/</loc>
+  <lastmod>2026-05-23T09:34:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/886315/image-e1a57853a5c969b62655ebe2e4cae2d9.png
+    </video:thumbnail_loc>
+    <video:title>
+      gaby671 vs Atticus, Arcamini 19 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch gaby671 vs Atticus in Round 1 of Arcamini 19, streamed by 8vstv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2778804023&amp;t=0h32m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1870</video:duration>
+    <video:publication_date>2026-05-23T08:41:29.000Z</video:publication_date>
+    <video:uploader>8vstv</video:uploader>
+    <video:expiration_date>2026-05-31T08:41:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-14/set/103205508/</loc>
   <lastmod>2026-05-23T05:28:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-28T01:38:58.000Z</video:publication_date>
     <video:uploader>vgbootcamp2</video:uploader>
     <video:expiration_date>2026-05-06T01:38:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/uconn-union-of-melee-67-an-untimely-graduation-ft-hayden/set/102184949/</loc>
-  <lastmod>2026-04-28T01:41:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/906430/image-8f544493e41d4f7eb347d07d46d97baa.png
-    </video:thumbnail_loc>
-    <video:title>
-      PNG | Penguno vs H4yd | supremelol, UConn Union of Melee 67: An Untimely Graduation (ft. Hayden) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PNG | Penguno vs H4yd | supremelol in Winners Quarter-Final of UConn Union of Melee 67: An Untimely Graduation (ft. Hayden), streamed by UconnSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2758746185&amp;t=0h42m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>941</video:duration>
-    <video:publication_date>2026-04-28T01:06:48.000Z</video:publication_date>
-    <video:uploader>UconnSmash</video:uploader>
-    <video:expiration_date>2026-05-06T01:06:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
