@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-ix/set/103234326/</loc>
-  <lastmod>2026-05-23T21:28:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breach-the-abyss-6/set/103265399/</loc>
+  <lastmod>2026-05-23T22:11:27.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/914654/image-eadde68ec85c62a19d481a75a524d4e4.png
+    </video:thumbnail_loc>
+    <video:title>
+      GRL | Plastic Dinos vs KiwiSTG, Breach The Abyss #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GRL | Plastic Dinos vs KiwiSTG in Winners Semi-Final of Breach The Abyss #6, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2779112798&amp;t=4h8m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1688</video:duration>
+    <video:publication_date>2026-05-23T22:11:27.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2026-05-31T22:11:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/prodigy-classic-ix/set/103234326/</loc>
+  <lastmod>2026-05-23T22:15:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2779007316&amp;t=5h57m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>747</video:duration>
+    <video:duration>1523</video:duration>
     <video:publication_date>2026-05-23T21:28:40.000Z</video:publication_date>
     <video:uploader>hazelnutting247</video:uploader>
     <video:expiration_date>2026-05-31T21:28:40.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-25T07:34:55.000Z</video:publication_date>
     <video:uploader>kitt_miller</video:uploader>
     <video:expiration_date>2026-05-03T07:34:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floating-point-2026/set/102029998/</loc>
-  <lastmod>2026-04-25T07:37:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872402/image-127461cf0d6480cb562f7ead1c96a033.png
-    </video:thumbnail_loc>
-    <video:title>
-      DANGLE | Garfield vs Scales, Floating Point 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DANGLE | Garfield vs Scales in Losers Round 4 of Floating Point 2026, streamed by kitt_miller
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2756326932&amp;t=6h23m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>646</video:duration>
-    <video:publication_date>2026-04-25T07:06:25.000Z</video:publication_date>
-    <video:uploader>kitt_miller</video:uploader>
-    <video:expiration_date>2026-05-03T07:06:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
