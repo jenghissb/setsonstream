@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-7/set/103318333/</loc>
+  <lastmod>2026-05-24T22:21:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909053/image-ad2d80ead6856f85c1cde69ac7d83fe9.png
+    </video:thumbnail_loc>
+    <video:title>
+      LiLzPotato vs Abacys, Melee at Recess 7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LiLzPotato vs Abacys in Winners Round 1 of Melee at Recess 7, streamed by devdoggxx
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2780072982&amp;t=1h6m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>624</video:duration>
+    <video:publication_date>2026-05-24T22:21:33.000Z</video:publication_date>
+    <video:uploader>devdoggxx</video:uploader>
+    <video:expiration_date>2026-06-01T22:21:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-500/set/103284020/</loc>
   <lastmod>2026-05-24T04:12:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-30T01:42:20.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-05-08T01:42:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gourmet-clash-84/set/102252903/</loc>
-  <lastmod>2026-04-30T02:00:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904541/image-628bd93041466d680128222ec4e2604f.png
-    </video:thumbnail_loc>
-    <video:title>
-      MPrime vs beeredbelly, Gourmet Clash #84 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MPrime vs beeredbelly in Losers Semi-Final of Gourmet Clash #84, streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760301661&amp;t=1h40m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>474</video:duration>
-    <video:publication_date>2026-04-30T01:28:52.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2026-05-08T01:28:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
