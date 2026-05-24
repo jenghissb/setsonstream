@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/oslo-showdown-2026-ex-spring/set/103301158/</loc>
+  <lastmod>2026-05-24T16:54:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909697/image-1de9a7532f03129596902f49154e343f.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Splarfie vs Luchadeer, Oslo Showdown: 2026 #EX-SPRING - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Splarfie vs Luchadeer in Losers Final of Oslo Showdown: 2026 #EX-SPRING, streamed by RBNorway
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2779812526&amp;t=1h5m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>883</video:duration>
+    <video:publication_date>2026-05-24T16:16:51.000Z</video:publication_date>
+    <video:uploader>RBNorway</video:uploader>
+    <video:expiration_date>2026-06-01T16:16:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/gameland-7/set/103297633/</loc>
   <lastmod>2026-05-24T13:27:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-25T21:21:50.000Z</video:publication_date>
     <video:uploader>MatchStickMelee</video:uploader>
     <video:expiration_date>2026-05-03T21:21:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/campe-n-regio-9/set/102064139/</loc>
-  <lastmod>2026-04-25T22:03:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901622/image-164965c828768cc4cf6957e33f07516f.png
-    </video:thumbnail_loc>
-    <video:title>
-      DGM | Zombie vs DGM | FR3DZZ, Campeón Regio 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DGM | Zombie vs DGM | FR3DZZ in Losers Final of Campeón Regio 9, streamed by teamCDW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2756980035&amp;t=1h19m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>754</video:duration>
-    <video:publication_date>2026-04-25T21:15:30.000Z</video:publication_date>
-    <video:uploader>teamCDW</video:uploader>
-    <video:expiration_date>2026-05-03T21:15:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
