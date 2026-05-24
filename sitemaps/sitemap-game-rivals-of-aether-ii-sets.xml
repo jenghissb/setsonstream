@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/oregon-arcadian-iii-1/set/103278262/</loc>
+  <lastmod>2026-05-24T00:34:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/897882/image-54f2699d7f3e43f673e4de69fe8f9c98.png
+    </video:thumbnail_loc>
+    <video:title>
+      AQUA | maya vs darai, Oregon Arcadian III - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AQUA | maya vs darai in Losers Round 1 of Oregon Arcadian III, streamed by Zekehere
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2779177330&amp;t=4h8m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2958</video:duration>
+    <video:publication_date>2026-05-23T23:34:10.000Z</video:publication_date>
+    <video:uploader>Zekehere</video:uploader>
+    <video:expiration_date>2026-05-31T23:34:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breach-the-abyss-6/set/103265399/</loc>
   <lastmod>2026-05-23T23:04:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-25T07:55:51.000Z</video:publication_date>
     <video:uploader>kitt_miller</video:uploader>
     <video:expiration_date>2026-05-03T07:55:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/floating-point-2026/set/102029938/</loc>
-  <lastmod>2026-04-25T08:02:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872402/image-127461cf0d6480cb562f7ead1c96a033.png
-    </video:thumbnail_loc>
-    <video:title>
-      CCE | Ryzuul vs JDW | RNGReallyNotGood, Floating Point 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CCE | Ryzuul vs JDW | RNGReallyNotGood in Winners Final of Floating Point 2026, streamed by kitt_miller
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2756326932&amp;t=6h52m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1239</video:duration>
-    <video:publication_date>2026-04-25T07:34:55.000Z</video:publication_date>
-    <video:uploader>kitt_miller</video:uploader>
-    <video:expiration_date>2026-05-03T07:34:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
