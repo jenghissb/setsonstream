@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-7/set/103318344/</loc>
+  <lastmod>2026-05-24T23:18:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909053/image-ad2d80ead6856f85c1cde69ac7d83fe9.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yeet | Womb! vs angst, Melee at Recess 7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yeet | Womb! vs angst in Winners Semi-Final of Melee at Recess 7, streamed by devdoggxx
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2780072982&amp;t=1h28m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>795</video:duration>
+    <video:publication_date>2026-05-24T22:43:40.000Z</video:publication_date>
+    <video:uploader>devdoggxx</video:uploader>
+    <video:expiration_date>2026-06-01T22:43:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-7/set/103318333/</loc>
-  <lastmod>2026-05-24T22:21:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-24T22:53:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2780072982&amp;t=1h6m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>624</video:duration>
+    <video:duration>466</video:duration>
     <video:publication_date>2026-05-24T22:21:33.000Z</video:publication_date>
     <video:uploader>devdoggxx</video:uploader>
     <video:expiration_date>2026-06-01T22:21:33.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-04-30T01:53:48.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2026-05-08T01:53:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-4-29-26/set/102247298/</loc>
-  <lastmod>2026-04-30T02:25:55.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/893472/image-c6eb1557b924cbbd4ec06b551d8e3b84.png
-    </video:thumbnail_loc>
-    <video:title>
-      Deadstock vs RyGuy, One Up Melee 4.29.26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Deadstock vs RyGuy in Losers Semi-Final of One Up Melee 4.29.26, streamed by One_Up_Games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760295915&amp;t=2h2m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1290</video:duration>
-    <video:publication_date>2026-04-30T01:42:20.000Z</video:publication_date>
-    <video:uploader>One_Up_Games</video:uploader>
-    <video:expiration_date>2026-05-08T01:42:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
