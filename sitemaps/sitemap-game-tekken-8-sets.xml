@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-54-1/set/103384632/</loc>
+  <lastmod>2026-05-27T18:53:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907458/image-b4e91407186c4d13043e798d26335076.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      StF | AnimanKS vs ESC | FUNKYWEED, Jam Session #54 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch StF | AnimanKS vs ESC | FUNKYWEED in Winners Quarter-Final of Jam Session #54, streamed by strikefiercefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2782274501&amp;t=0h22m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>178</video:duration>
+    <video:publication_date>2026-05-27T18:22:38.000Z</video:publication_date>
+    <video:uploader>strikefiercefgc</video:uploader>
+    <video:expiration_date>2026-06-04T18:22:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-104-norcal-tekken-8-2xko-weekly/set/103378241/</loc>
   <lastmod>2026-05-27T06:35:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-01T04:22:57.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-05-09T04:22:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/showdown-91/set/102252229/</loc>
-  <lastmod>2026-04-30T03:24:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905478/image-fd4d9b6b9bebd991da5503cf59cf90ed.png
-    </video:thumbnail_loc>
-    <video:title>
-      HLD | BALDI vs AvocadoMeat, Showdown #91 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HLD | BALDI vs AvocadoMeat in Grand Final of Showdown #91, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760319302&amp;t=2h51m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>897</video:duration>
-    <video:publication_date>2026-04-30T03:00:52.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2026-05-08T03:00:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
