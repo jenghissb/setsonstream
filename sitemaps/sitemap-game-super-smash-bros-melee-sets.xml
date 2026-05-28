@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-melee-underground-19/set/103402761/</loc>
+  <lastmod>2026-05-28T05:28:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/915743/image-40222f8f802064491628d588fd21119c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      OBE | Khalid vs Steech | cliché, The Melee Underground #19 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OBE | Khalid vs Steech | cliché in Grand Final of The Melee Underground #19, streamed by SanDiegoGaming_Official
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2782598556&amp;t=2h58m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1899</video:duration>
+    <video:publication_date>2026-05-28T04:38:16.000Z</video:publication_date>
+    <video:uploader>SanDiegoGaming_Official</video:uploader>
+    <video:expiration_date>2026-06-05T04:38:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-melee-underground-19/set/103402824/</loc>
-  <lastmod>2026-05-28T04:26:52.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-28T04:58:25.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2782598556&amp;t=2h47m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1034</video:duration>
+    <video:duration>663</video:duration>
     <video:publication_date>2026-05-28T04:26:52.000Z</video:publication_date>
     <video:uploader>SanDiegoGaming_Official</video:uploader>
     <video:expiration_date>2026-06-05T04:26:52.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-02T00:55:26.000Z</video:publication_date>
     <video:uploader>cg_conduitgaming</video:uploader>
     <video:expiration_date>2026-05-10T00:55:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smash-night-at-prodigy-226/set/102362032/</loc>
-  <lastmod>2026-05-02T01:04:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/906863/image-33abe1dacd4efc7f930ccab10f051fde.png
-    </video:thumbnail_loc>
-    <video:title>
-      AUNTIE WOW | bleop vs BeautifulGenius, Smash Night at Prodigy #226 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AUNTIE WOW | bleop vs BeautifulGenius in Winners Semi-Final of Smash Night at Prodigy #226, streamed by cg_conduitgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2761910280&amp;t=0h45m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>892</video:duration>
-    <video:publication_date>2026-05-01T23:48:26.000Z</video:publication_date>
-    <video:uploader>cg_conduitgaming</video:uploader>
-    <video:expiration_date>2026-05-09T23:48:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
