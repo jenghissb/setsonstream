@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-36/set/103409039/</loc>
+  <lastmod>2026-05-28T19:56:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909560/image-0d9dea024b265478d852c2de7d139dda.png
+    </video:thumbnail_loc>
+    <video:title>
+      PhantomWebAman vs cupofnoodles, Black Country Foundry #36 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PhantomWebAman vs cupofnoodles in Winners Semi-Final of Black Country Foundry #36, streamed by bc_foundry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2783035547&amp;t=1h33m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>794</video:duration>
+    <video:publication_date>2026-05-28T19:11:45.000Z</video:publication_date>
+    <video:uploader>bc_foundry</video:uploader>
+    <video:expiration_date>2026-06-05T19:11:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-36/set/103409037/</loc>
-  <lastmod>2026-05-28T18:51:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-28T19:24:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2783035547&amp;t=1h13m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1860</video:duration>
+    <video:duration>553</video:duration>
     <video:publication_date>2026-05-28T18:51:58.000Z</video:publication_date>
     <video:uploader>bc_foundry</video:uploader>
     <video:expiration_date>2026-06-05T18:51:58.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-01T06:02:34.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-05-09T06:02:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-217-tekken-8-weekly/set/102302044/</loc>
-  <lastmod>2026-05-01T06:10:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/906338/image-54398a9b6cbb09875ec9703ff7c5745f.png
-    </video:thumbnail_loc>
-    <video:title>
-      PonyboyJuan vs ONi | Joi, Tech City Tekken #217 - Tekken 8 Weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PonyboyJuan vs ONi | Joi in Winners Semi-Final of Tech City Tekken #217 - Tekken 8 Weekly, streamed by CapsuleEntertainment
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2761285434&amp;t=1h37m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>432</video:duration>
-    <video:publication_date>2026-05-01T05:47:23.000Z</video:publication_date>
-    <video:uploader>CapsuleEntertainment</video:uploader>
-    <video:expiration_date>2026-05-09T05:47:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
