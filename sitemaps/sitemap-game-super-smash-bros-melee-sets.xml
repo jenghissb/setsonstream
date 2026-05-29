@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-148/set/103432682/</loc>
+  <lastmod>2026-05-29T05:16:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/916550/image-31ec550c1993ffe3e6388491d33b2a5e.png
+    </video:thumbnail_loc>
+    <video:title>
+      MF | KoDoRiN vs OBE | Khalid, Rage Against the CRT #148 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MF | KoDoRiN vs OBE | Khalid in Grand Final of Rage Against the CRT #148, streamed by OBEtv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2783376692&amp;t=2h45m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1377</video:duration>
+    <video:publication_date>2026-05-29T04:34:13.000Z</video:publication_date>
+    <video:uploader>OBEtv</video:uploader>
+    <video:expiration_date>2026-06-06T04:34:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-148/set/103432744/</loc>
-  <lastmod>2026-05-29T04:09:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-29T04:49:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2783376692&amp;t=2h21m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2077</video:duration>
+    <video:duration>739</video:duration>
     <video:publication_date>2026-05-29T04:09:53.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-06-06T04:09:53.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-02T17:43:54.000Z</video:publication_date>
     <video:uploader>kapa_team</video:uploader>
     <video:expiration_date>2026-05-10T17:43:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-crt-s04-ep-12/set/102405227/</loc>
-  <lastmod>2026-05-02T17:41:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904184/image-44db57bf42303a607a9c9ea5dc34507e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sabreur vs PSG | Busard, THE CRT: S04 EP #12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sabreur vs PSG | Busard in Losers Quarter-Final of THE CRT: S04 EP #12, streamed by kapa_team
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762454908&amp;t=1h1m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1385</video:duration>
-    <video:publication_date>2026-05-02T17:09:04.000Z</video:publication_date>
-    <video:uploader>kapa_team</video:uploader>
-    <video:expiration_date>2026-05-10T17:09:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
