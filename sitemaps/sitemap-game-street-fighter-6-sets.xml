@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/thursday-throwdown-193/set/103420415/</loc>
+  <lastmod>2026-05-28T23:37:53.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/910602/image-e142ab2bd9d652b828cb28e21db78b38.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      !liz | Scarecrow vs Threeyes, Thursday Throwdown 193 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch !liz | Scarecrow vs Threeyes in Winners Quarter-Final of Thursday Throwdown 193, streamed by Magik4FGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2783279500&amp;t=0h6m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1915</video:duration>
+    <video:publication_date>2026-05-28T23:37:53.000Z</video:publication_date>
+    <video:uploader>Magik4FGC</video:uploader>
+    <video:expiration_date>2026-06-05T23:37:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/pofc-96-street-fighter-6/set/103400467/</loc>
   <lastmod>2026-05-28T04:39:58.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-26T08:15:33.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-05-04T08:15:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fits-12-sf6-monthly/set/102102763/</loc>
-  <lastmod>2026-04-26T02:43:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/900501/image-24d36032d86ca7b57f575f81622fa4ec.png
-    </video:thumbnail_loc>
-    <video:title>
-      FitS | SodaCan vs STK3 | TreeWiz, FITS #12 - SF6 Monthly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FitS | SodaCan vs STK3 | TreeWiz in Losers Semi-Final of FITS #12 - SF6 Monthly, streamed by studysessionlive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2757046573&amp;t=4h37m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>824</video:duration>
-    <video:publication_date>2026-04-26T02:05:32.000Z</video:publication_date>
-    <video:uploader>studysessionlive</video:uploader>
-    <video:expiration_date>2026-05-04T02:05:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
