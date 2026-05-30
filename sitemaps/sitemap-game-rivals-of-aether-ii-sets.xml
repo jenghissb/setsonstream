@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/rivals-uncaged-9-regional-event/set/103524420/</loc>
+  <lastmod>2026-05-30T20:24:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906384/image-e22ef4ce1027bf359b0c96cd67628ac3.png
+    </video:thumbnail_loc>
+    <video:title>
+      DMGZaya vs Momo, Rivals Uncaged #9 - Regional Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DMGZaya vs Momo in Winners Round 1 of Rivals Uncaged #9 - Regional Event, streamed by bros_calamity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2784673363&amp;t=1h28m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>878</video:duration>
+    <video:publication_date>2026-05-30T19:49:16.000Z</video:publication_date>
+    <video:uploader>bros_calamity</video:uploader>
+    <video:expiration_date>2026-06-07T19:49:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/molten-merendero-iv/set/103507528/</loc>
   <lastmod>2026-05-30T19:23:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-02T21:21:43.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2026-05-10T21:21:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/for-the-community-1/set/102425668/</loc>
-  <lastmod>2026-05-02T21:52:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898267/image-054b01d8b8240f02c63add68e36258d0.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Steppers | LGDMurp vs fish | X. Raven, For the Community #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Steppers | LGDMurp vs fish | X. Raven in Round 2 of For the Community #1, streamed by seatac_rivals
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762563025&amp;t=2h24m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1488</video:duration>
-    <video:publication_date>2026-05-02T20:57:04.000Z</video:publication_date>
-    <video:uploader>seatac_rivals</video:uploader>
-    <video:expiration_date>2026-05-10T20:57:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
