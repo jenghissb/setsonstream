@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-132/set/103472241/</loc>
+  <lastmod>2026-05-30T01:49:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/915732/image-b611698d38e7a153ea7e24b666099326.png
+    </video:thumbnail_loc>
+    <video:title>
+      Triiiclops vs Redthunder, UP THE BLOCK #132 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Triiiclops vs Redthunder in Winners Round 2 of UP THE BLOCK #132, streamed by UG_NYC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2784120289&amp;t=0h24m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>379</video:duration>
+    <video:publication_date>2026-05-30T01:10:07.000Z</video:publication_date>
+    <video:uploader>UG_NYC</video:uploader>
+    <video:expiration_date>2026-06-07T01:10:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-209-norcal-street-fighter-6-weekly/set/103434410/</loc>
   <lastmod>2026-05-29T06:24:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-29T00:05:24.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-05-07T00:05:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-150/set/102215392/</loc>
-  <lastmod>2026-04-29T00:13:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/907135/image-765d26281baa4e94a6991d57a03ad417.png
-    </video:thumbnail_loc>
-    <video:title>
-      Blondechai vs MrGreenman, HoG: Dragon #150 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Blondechai vs MrGreenman in Winners Round 1 of HoG: Dragon #150, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2759490241&amp;t=0h13m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>360</video:duration>
-    <video:publication_date>2026-04-28T23:42:25.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-05-06T23:42:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
