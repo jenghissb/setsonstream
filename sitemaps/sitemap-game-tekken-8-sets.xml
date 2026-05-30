@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-119/set/103485932/</loc>
+  <lastmod>2026-05-30T06:51:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/913052/image-c6f74ed168597abaadff1ed4f642971b.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Joe Budden vs Scab, SoCal Colosseum #119 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Joe Budden vs Scab in Grand Final of SoCal Colosseum #119, streamed by SoCalColosseum
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2784196957&amp;t=3h44m2s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>928</video:duration>
+    <video:publication_date>2026-05-30T06:12:49.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum</video:uploader>
+    <video:expiration_date>2026-06-07T06:12:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-119/set/103485931/</loc>
   <lastmod>2026-05-30T05:54:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-02T10:11:36.000Z</video:publication_date>
     <video:uploader>mke_makisevents</video:uploader>
     <video:expiration_date>2026-05-10T10:11:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/makis-tournament-1/set/102274211/</loc>
-  <lastmod>2026-05-02T10:39:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/899884/image-01a27987ad46e65658a4f033b4f7e734.png
-    </video:thumbnail_loc>
-    <video:title>
-      Naosuke vs Xelor, Makis Tournament #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Naosuke vs Xelor in Round 3 of Makis Tournament #1, streamed by mke_makisevents
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762232110&amp;t=1h28m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1045</video:duration>
-    <video:publication_date>2026-05-02T10:09:41.000Z</video:publication_date>
-    <video:uploader>mke_makisevents</video:uploader>
-    <video:expiration_date>2026-05-10T10:09:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
