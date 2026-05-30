@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bourbon-state-gaming-fighters-edition-xxiv/set/103524299/</loc>
+  <lastmod>2026-05-30T22:47:10.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906856/image-a2813c23c924738f014beced95b74dd1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sniffulls vs Shawk, Bourbon State Gaming: Fighters Edition XXIV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sniffulls vs Shawk in Grand Final of Bourbon State Gaming: Fighters Edition XXIV, streamed by bourbonstategaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2784859410&amp;t=0h5m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>714</video:duration>
+    <video:publication_date>2026-05-30T22:47:10.000Z</video:publication_date>
+    <video:uploader>bourbonstategaming</video:uploader>
+    <video:expiration_date>2026-06-07T22:47:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mid-hudson-mayhem-43/set/103519552/</loc>
   <lastmod>2026-05-30T20:09:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-04-30T01:13:50.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2026-05-08T01:13:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/stun-city-04-29-2026-sf6-t8-ff-and-casuals/set/102244331/</loc>
-  <lastmod>2026-04-30T01:18:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/906699/image-2a7c7ec2839f23bb7862eb0c4f3a757f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DelzonFire vs TTTTTO | I only throw scissors, Stun City 04/29/2026 - SF6, T8, FF and Casuals - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DelzonFire vs TTTTTO | I only throw scissors in Winners Final of Stun City 04/29/2026 - SF6, T8, FF and Casuals, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760288223&amp;t=1h11m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>717</video:duration>
-    <video:publication_date>2026-04-30T00:40:17.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2026-05-08T00:40:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
