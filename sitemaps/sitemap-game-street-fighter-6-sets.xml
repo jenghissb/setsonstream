@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-16-bh3-x-joystick/set/103531193/</loc>
+  <lastmod>2026-05-31T15:36:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902347/image-5010d57dc70cfe914a26b2e242f59664.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BH3 | Ritchy vs Olibé, Monthly FGC#16 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BH3 | Ritchy vs Olibé in Grand Final of Monthly FGC#16 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2785229090&amp;t=3h47m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>559</video:duration>
+    <video:publication_date>2026-05-31T15:03:33.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2026-06-08T15:03:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-16-bh3-x-joystick/set/103531192/</loc>
-  <lastmod>2026-05-31T14:40:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-31T15:09:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2785229090&amp;t=3h24m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1389</video:duration>
+    <video:duration>610</video:duration>
     <video:publication_date>2026-05-31T14:40:02.000Z</video:publication_date>
     <video:uploader>bh3_esport</video:uploader>
     <video:expiration_date>2026-06-08T14:40:02.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-02T02:55:09.000Z</video:publication_date>
     <video:uploader>SoCalColosseum2</video:uploader>
     <video:expiration_date>2026-05-10T02:55:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgc-meetups-120/set/102376250/</loc>
-  <lastmod>2026-05-02T02:57:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905469/image-7410ff97e2f5c4918ecc1b0ad92cbb92.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      rave vs lucky, FGC Meetups 120 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch rave vs lucky in Winners Quarter-Final of FGC Meetups 120, streamed by unrivaledtournaments
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2761992967&amp;t=1h26m54s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>576</video:duration>
-    <video:publication_date>2026-05-02T02:23:32.000Z</video:publication_date>
-    <video:uploader>unrivaledtournaments</video:uploader>
-    <video:expiration_date>2026-05-10T02:23:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
