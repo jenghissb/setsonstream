@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-16-bh3-x-joystick/set/103531426/</loc>
+  <lastmod>2026-05-31T13:00:28.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902347/image-5010d57dc70cfe914a26b2e242f59664.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NOG/DING/LDO | Hironami vs Letz | Sylvalpha, Monthly FGC#16 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NOG/DING/LDO | Hironami vs Letz | Sylvalpha in Round 5 of Monthly FGC#16 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2785229090&amp;t=1h44m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1684</video:duration>
+    <video:publication_date>2026-05-31T13:00:28.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2026-06-08T13:00:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cardinal-crash-the-2nd/set/103531288/</loc>
   <lastmod>2026-05-31T00:16:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-30T04:28:33.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-05-08T04:28:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-220-norcal-ssbu-ggst-uni2/set/102257908/</loc>
-  <lastmod>2026-04-30T04:35:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/906878/image-2f35744351d26053eaffeb7df8d73b3e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Jonathan Tene vs pr*m | Apho, Guildhouse Weekly 220 - Norcal SSBU, GGST, UNI2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jonathan Tene vs pr*m | Apho in Winners Final of Guildhouse Weekly 220 - Norcal SSBU, GGST, UNI2, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760429543&amp;t=1h26m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>481</video:duration>
-    <video:publication_date>2026-04-30T04:11:56.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-05-08T04:11:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
