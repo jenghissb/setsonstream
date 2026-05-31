@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/monthly-fgc-16-bh3-x-joystick/set/103531192/</loc>
+  <lastmod>2026-05-31T14:40:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902347/image-5010d57dc70cfe914a26b2e242f59664.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BH3 | Ritchy vs Olibé, Monthly FGC#16 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BH3 | Ritchy vs Olibé in Winners Final of Monthly FGC#16 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2785229090&amp;t=3h24m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1389</video:duration>
+    <video:publication_date>2026-05-31T14:40:02.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2026-06-08T14:40:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tlf-house-5-30-26/set/103556992/</loc>
   <lastmod>2026-05-31T04:26:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-02T02:23:32.000Z</video:publication_date>
     <video:uploader>unrivaledtournaments</video:uploader>
     <video:expiration_date>2026-05-10T02:23:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-124/set/102378279/</loc>
-  <lastmod>2026-05-02T02:57:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/907098/image-36a808c517b5f64755f68c0e8f631062.png
-    </video:thumbnail_loc>
-    <video:title>
-      Davy vs Walliemartin, Suplex! #124 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Davy vs Walliemartin in Grand Final of Suplex! #124, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2761939384&amp;t=2h34m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>519</video:duration>
-    <video:publication_date>2026-05-02T02:20:30.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-05-10T02:20:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

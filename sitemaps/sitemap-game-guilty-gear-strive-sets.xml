@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-16-bh3-x-joystick/set/103531425/</loc>
+  <lastmod>2026-05-31T14:09:56.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902347/image-5010d57dc70cfe914a26b2e242f59664.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      NOG | Gzeosta vs ÉruptionScolaire76, Monthly FGC#16 - BH3 x JOYSTICK - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch NOG | Gzeosta vs ÉruptionScolaire76 in Round 4 of Monthly FGC#16 - BH3 x JOYSTICK, streamed by bh3_esport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2785229090&amp;t=2h1m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1616</video:duration>
+    <video:publication_date>2026-05-31T13:17:32.000Z</video:publication_date>
+    <video:uploader>bh3_esport</video:uploader>
+    <video:expiration_date>2026-06-08T13:17:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/monthly-fgc-16-bh3-x-joystick/set/103531426/</loc>
-  <lastmod>2026-05-31T13:00:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-05-31T13:42:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2785229090&amp;t=1h44m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1684</video:duration>
+    <video:duration>968</video:duration>
     <video:publication_date>2026-05-31T13:00:28.000Z</video:publication_date>
     <video:uploader>bh3_esport</video:uploader>
     <video:expiration_date>2026-06-08T13:00:28.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-30T04:39:30.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-05-08T04:39:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-220-norcal-ssbu-ggst-uni2/set/102257970/</loc>
-  <lastmod>2026-04-30T04:54:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/906878/image-2f35744351d26053eaffeb7df8d73b3e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FROG | Squid! vs Aubfox, Guildhouse Weekly 220 - Norcal SSBU, GGST, UNI2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FROG | Squid! vs Aubfox in Losers Quarter-Final of Guildhouse Weekly 220 - Norcal SSBU, GGST, UNI2, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760429543&amp;t=1h42m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>648</video:duration>
-    <video:publication_date>2026-04-30T04:28:33.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-05-08T04:28:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
