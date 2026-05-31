@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cardinal-crash-the-2nd/set/103531317/</loc>
-  <lastmod>2026-05-30T22:41:40.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cardinal-crash-the-2nd/set/103531288/</loc>
+  <lastmod>2026-05-30T23:44:21.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/913320/image-09d329935d0e9f2629d246e6f4886304.png
+    </video:thumbnail_loc>
+    <video:title>
+      TTH|FZERO|DIMG | Frijoles vs FZERO | Edgelord44, CARDINAL CRASH the 2ND - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TTH|FZERO|DIMG | Frijoles vs FZERO | Edgelord44 in Grand Final Reset of CARDINAL CRASH the 2ND, streamed by riceychicken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2784774589&amp;t=3h9m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1016</video:duration>
+    <video:publication_date>2026-05-30T23:44:21.000Z</video:publication_date>
+    <video:uploader>riceychicken</video:uploader>
+    <video:expiration_date>2026-06-07T23:44:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cardinal-crash-the-2nd/set/103531317/</loc>
+  <lastmod>2026-05-30T23:16:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2784774589&amp;t=2h7m7s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1044</video:duration>
+    <video:duration>613</video:duration>
     <video:publication_date>2026-05-30T22:41:40.000Z</video:publication_date>
     <video:uploader>riceychicken</video:uploader>
     <video:expiration_date>2026-06-07T22:41:40.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-04-30T04:11:56.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-05-08T04:11:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/seasons-edge-71-1/set/102245559/</loc>
-  <lastmod>2026-04-30T01:39:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904153/image-4e34dce23e44b2cc7f5bf74e31e4ba88.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ganeon vs xliquidvoid, Seasons Edge 71 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ganeon vs xliquidvoid in Winners Final of Seasons Edge 71, streamed by edgegamerslounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760302832&amp;t=1h22m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>830</video:duration>
-    <video:publication_date>2026-04-30T01:12:32.000Z</video:publication_date>
-    <video:uploader>edgegamerslounge</video:uploader>
-    <video:expiration_date>2026-05-08T01:12:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
