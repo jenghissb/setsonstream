@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/give-orange-me-weekly-1/set/103607032/</loc>
-  <lastmod>2026-06-01T22:36:41.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/arcade-time-knockout-smash-brothers-tournament-with-hungrybox-11/set/103616694/</loc>
+  <lastmod>2026-06-02T01:13:43.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/914167/image-e1ea5165e67fe2f4d6e7bb6b49c2ec20.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      OG Kid vs Komodo, Arcade Time Knockout Smash Brothers Tournament With Hungrybox 11! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OG Kid vs Komodo in Winners Quarter-Final of Arcade Time Knockout Smash Brothers Tournament With Hungrybox 11!, streamed by HUNGRYBOX
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2786440163&amp;t=1h48m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1974</video:duration>
+    <video:publication_date>2026-06-02T01:13:43.000Z</video:publication_date>
+    <video:uploader>HUNGRYBOX</video:uploader>
+    <video:expiration_date>2026-06-10T01:13:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/give-orange-me-weekly-1/set/103607032/</loc>
+  <lastmod>2026-06-02T00:16:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2786359772&amp;t=1h14m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2987</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-06-01T22:36:41.000Z</video:publication_date>
     <video:uploader>macerjones</video:uploader>
     <video:expiration_date>2026-06-09T22:36:41.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-03T02:00:59.000Z</video:publication_date>
     <video:uploader>Rochestersmash</video:uploader>
     <video:expiration_date>2026-05-11T02:00:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/frame-18/set/102427021/</loc>
-  <lastmod>2026-05-03T01:49:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/877538/image-363472142f9db1e48b5db5eff66359e7.png
-    </video:thumbnail_loc>
-    <video:title>
-      BING vs OG Kid, Frame 18 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BING vs OG Kid in Losers Quarter-Final of Frame 18, streamed by Rochestersmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762508544&amp;t=7h45m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1282</video:duration>
-    <video:publication_date>2026-05-03T01:09:51.000Z</video:publication_date>
-    <video:uploader>Rochestersmash</video:uploader>
-    <video:expiration_date>2026-05-11T01:09:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

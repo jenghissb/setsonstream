@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-437/set/103621094/</loc>
+  <lastmod>2026-06-02T01:37:22.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/916846/image-6a956fc8c30ca8568f0d54c53cbd8a7e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TS | ColdPika vs carrerghoul, Downtown Throwdown #437 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TS | ColdPika vs carrerghoul in Winners Quarter-Final of Downtown Throwdown #437, streamed by KhanmandoFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2786443663&amp;t=2h7m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>555</video:duration>
+    <video:publication_date>2026-06-02T01:37:22.000Z</video:publication_date>
+    <video:uploader>KhanmandoFGC</video:uploader>
+    <video:expiration_date>2026-06-10T01:37:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/chains-of-fate-passion-monthly-21-a-chain-shift-2026-event/set/103597707/</loc>
   <lastmod>2026-06-01T01:53:05.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-03T22:22:02.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-05-11T22:22:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/super-bit-wars-2026/set/102445750/</loc>
-  <lastmod>2026-05-03T04:28:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/868631/image-7d10ed884ce3d7676c9df27e4b88aee6.png
-    </video:thumbnail_loc>
-    <video:title>
-      STG | Wasulu vs TPC | SnakeFang, Super Bit Wars 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch STG | Wasulu vs TPC | SnakeFang in Grand Final Reset of Super Bit Wars 2026, streamed by hxcgaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762701495&amp;t=6h21m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1012</video:duration>
-    <video:publication_date>2026-05-03T03:56:39.000Z</video:publication_date>
-    <video:uploader>hxcgaming</video:uploader>
-    <video:expiration_date>2026-05-11T03:56:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
