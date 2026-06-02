@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-61-lots-of-luck/set/103624721/</loc>
+  <lastmod>2026-06-02T06:56:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/917926/image-de784a57e8a461c2f4dca0b4f958eb86.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ringler vs CCR | Casper, McCloud&apos;s Melee Co. #61: Lots of Luck - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ringler vs CCR | Casper in Losers Final of McCloud&apos;s Melee Co. #61: Lots of Luck, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2786602163&amp;t=3h1m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1199</video:duration>
+    <video:publication_date>2026-06-02T06:27:20.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2026-06-10T06:27:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-61-lots-of-luck/set/103624716/</loc>
   <lastmod>2026-06-02T06:04:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-03T19:13:00.000Z</video:publication_date>
     <video:uploader>obetv</video:uploader>
     <video:expiration_date>2026-05-11T19:13:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rain-or-shine-2026/set/102482566/</loc>
-  <lastmod>2026-05-03T18:52:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901548/image-c08bba566c94252fbde6ceaca8993c9d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Koil vs Nuss, Rain or Shine 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Koil vs Nuss in Winners Quarter-Final of Rain or Shine 2026, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2763339832&amp;t=1h0m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>992</video:duration>
-    <video:publication_date>2026-05-03T18:14:22.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-05-11T18:14:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
