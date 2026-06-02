@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-16/set/103630605/</loc>
+  <lastmod>2026-06-02T19:53:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/916403/image-4380e877566e6fcfb1f44c94900fc984.png
+    </video:thumbnail_loc>
+    <video:title>
+      LSB | Pjon vs Harvey, Fowl Play! - 16 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LSB | Pjon vs Harvey in Losers Round 3 of Fowl Play! - 16, streamed by Jaysotee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2787017373&amp;t=0h53m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>700</video:duration>
+    <video:publication_date>2026-06-02T19:21:58.000Z</video:publication_date>
+    <video:uploader>Jaysotee</video:uploader>
+    <video:expiration_date>2026-06-10T19:21:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-61-lots-of-luck/set/103624721/</loc>
   <lastmod>2026-06-02T06:56:29.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-03T19:15:33.000Z</video:publication_date>
     <video:uploader>obetv</video:uploader>
     <video:expiration_date>2026-05-11T19:15:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/pat-s-house-5/set/102466531/</loc>
-  <lastmod>2026-05-03T19:50:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/712363/image-ffa3e5edb5390c19a23c156fa6d9130f.png
-    </video:thumbnail_loc>
-    <video:title>
-      snake vs Inngenn, Pat&apos;s House 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch snake vs Inngenn in Losers Round 1 of Pat&apos;s House 5, streamed by obetv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2763422516&amp;t=0h15m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1618</video:duration>
-    <video:publication_date>2026-05-03T19:13:00.000Z</video:publication_date>
-    <video:uploader>obetv</video:uploader>
-    <video:expiration_date>2026-05-11T19:13:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
