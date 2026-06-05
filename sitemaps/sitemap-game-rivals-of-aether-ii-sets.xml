@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/battle-of-bc-8-7/set/103727452/</loc>
+  <lastmod>2026-06-05T20:22:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813487/image-84ed845ba507bf52e01294843b96807c.png
+    </video:thumbnail_loc>
+    <video:title>
+      KMS | Bishly vs VGY | Kopter, Battle of BC 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KMS | Bishly vs VGY | Kopter in Winners Round 2 of Battle of BC 8, streamed by flare2v
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2789477025&amp;t=0h18m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2108</video:duration>
+    <video:publication_date>2026-06-05T20:22:58.000Z</video:publication_date>
+    <video:uploader>flare2v</video:uploader>
+    <video:expiration_date>2026-06-13T20:22:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/sfu-rivals-thursdays-bobc-pre-local/set/103720835/</loc>
   <lastmod>2026-06-05T06:51:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-05T00:26:39.000Z</video:publication_date>
     <video:uploader>collisionseriestv2</video:uploader>
     <video:expiration_date>2026-05-13T00:26:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-fusion-arcadian-13/set/102524366/</loc>
-  <lastmod>2026-05-05T00:33:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902155/image-055acf76734e3eabd968009eb891a9b7.png
-    </video:thumbnail_loc>
-    <video:title>
-      FLuX Magnetique vs Arcos, The Fusion Arcadian 13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FLuX Magnetique vs Arcos in Winners Round 2 of The Fusion Arcadian 13, streamed by collisionseriestv2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2764365506&amp;t=0h13m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>917</video:duration>
-    <video:publication_date>2026-05-04T23:56:11.000Z</video:publication_date>
-    <video:uploader>collisionseriestv2</video:uploader>
-    <video:expiration_date>2026-05-12T23:56:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

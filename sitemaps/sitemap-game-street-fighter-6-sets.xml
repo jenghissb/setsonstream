@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/canadian-fighting-game-championship-2026/set/103737643/</loc>
+  <lastmod>2026-06-05T20:48:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899938/image-82976ee9ceaf1ad86e698ebfda5bffc7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lvt | ramune vs Lvt | Shmaw, Canadian Fighting Game Championship 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lvt | ramune vs Lvt | Shmaw in Winners Final of Canadian Fighting Game Championship 2026, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2789394691&amp;t=1h40m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>766</video:duration>
+    <video:publication_date>2026-06-05T20:01:23.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2026-06-13T20:01:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-210-norcal-street-fighter-6-weekly/set/103725338/</loc>
   <lastmod>2026-06-05T04:55:20.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-02T23:35:23.000Z</video:publication_date>
     <video:uploader>SatelliteFighters</video:uploader>
     <video:expiration_date>2026-05-10T23:35:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/underground-empire-monthly-10-canfgc-qualifier/set/102436342/</loc>
-  <lastmod>2026-05-03T00:12:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/897413/image-a1231c7787c6d2e9c40adf0254b9b4e2.png
-    </video:thumbnail_loc>
-    <video:title>
-      MTL_Rami vs LDG | onset!, Underground Empire Monthly #10: CanFGC Qualifier - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MTL_Rami vs LDG | onset! in Winners Final of Underground Empire Monthly #10: CanFGC Qualifier, streamed by mtl_underground
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762651434&amp;t=3h9m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>546</video:duration>
-    <video:publication_date>2026-05-02T23:33:30.000Z</video:publication_date>
-    <video:uploader>mtl_underground</video:uploader>
-    <video:expiration_date>2026-05-10T23:33:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

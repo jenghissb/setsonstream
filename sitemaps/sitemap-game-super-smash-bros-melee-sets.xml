@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-roastery-no-62/set/103737612/</loc>
+  <lastmod>2026-06-05T20:38:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/918015/image-3b8f4e2be45208924f5be1c32b62c23c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Wales | Rain vs Cool beans | Pedlar, The Roastery: No.62 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Wales | Rain vs Cool beans | Pedlar in Grand Final of The Roastery: No.62, streamed by SmashWales
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2789370569&amp;t=2h6m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1004</video:duration>
+    <video:publication_date>2026-06-05T19:57:55.000Z</video:publication_date>
+    <video:uploader>SmashWales</video:uploader>
+    <video:expiration_date>2026-06-13T19:57:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-roastery-no-62/set/103736563/</loc>
   <lastmod>2026-06-05T18:56:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-05T03:49:36.000Z</video:publication_date>
     <video:uploader>fxgames_gg</video:uploader>
     <video:expiration_date>2026-05-13T03:49:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-498/set/102533030/</loc>
-  <lastmod>2026-05-05T04:08:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908559/image-75a8061d3a5a10c12b4762c4762750fb.png
-    </video:thumbnail_loc>
-    <video:title>
-      Pops | Pops vs FX | Fury, Monday Night Melee 498 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Pops | Pops vs FX | Fury in Winners Final of Monday Night Melee 498, streamed by fxgames_gg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2764415137&amp;t=2h37m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2078</video:duration>
-    <video:publication_date>2026-05-05T03:27:55.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-05-13T03:27:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
