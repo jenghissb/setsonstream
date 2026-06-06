@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-120/set/103765673/</loc>
+  <lastmod>2026-06-06T04:42:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/917589/image-096d48564850201eba0c57ee717ff1dd.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Garlic Bread vs WLF | Dodger, SoCal Colosseum #120 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Garlic Bread vs WLF | Dodger in Losers Final of SoCal Colosseum #120, streamed by SoCalColosseum2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2789781141&amp;t=1h35m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>687</video:duration>
+    <video:publication_date>2026-06-06T04:08:23.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum2</video:uploader>
+    <video:expiration_date>2026-06-14T04:08:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/canadian-fighting-game-championship-2026/set/103742215/</loc>
   <lastmod>2026-06-06T00:58:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-03T01:29:11.000Z</video:publication_date>
     <video:uploader>SatelliteFighters</video:uploader>
     <video:expiration_date>2026-05-11T01:29:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/secret-labs-az-may-2026/set/102448253/</loc>
-  <lastmod>2026-05-03T01:57:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902554/image-e50778d805041457e3078cf3d70f5147.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      C. YA vs Cheez, Secret Labs AZ May 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch C. YA vs Cheez in Winners Semi-Final of Secret Labs AZ May 2026, streamed by TheXButton
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762639232&amp;t=5h16m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>688</video:duration>
-    <video:publication_date>2026-05-03T01:22:55.000Z</video:publication_date>
-    <video:uploader>TheXButton</video:uploader>
-    <video:expiration_date>2026-05-11T01:22:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

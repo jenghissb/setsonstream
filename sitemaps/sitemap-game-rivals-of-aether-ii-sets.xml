@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/battle-of-bc-8-7/set/103727753/</loc>
-  <lastmod>2026-06-06T01:13:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/813487/image-84ed845ba507bf52e01294843b96807c.png
-    </video:thumbnail_loc>
-    <video:title>
-      JoJoDaHoBo vs PG! | BGD, Battle of BC 8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JoJoDaHoBo vs PG! | BGD in Losers Round 3 of Battle of BC 8, streamed by flare2v
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2789706147&amp;t=0h22m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1368</video:duration>
-    <video:publication_date>2026-06-06T01:13:12.000Z</video:publication_date>
-    <video:uploader>flare2v</video:uploader>
-    <video:expiration_date>2026-06-14T01:13:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/battle-of-bc-8-7/set/103727698/</loc>
-  <lastmod>2026-06-06T01:13:34.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-06T02:35:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2789665913&amp;t=1h19m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1346</video:duration>
+    <video:duration>1298</video:duration>
     <video:publication_date>2026-06-06T01:13:34.000Z</video:publication_date>
     <video:uploader>rivalsofaether</video:uploader>
     <video:expiration_date>2026-06-14T01:13:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/battle-of-bc-8-7/set/103727753/</loc>
+  <lastmod>2026-06-06T02:35:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813487/image-84ed845ba507bf52e01294843b96807c.png
+    </video:thumbnail_loc>
+    <video:title>
+      JoJoDaHoBo vs PG! | BGD, Battle of BC 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JoJoDaHoBo vs PG! | BGD in Losers Round 3 of Battle of BC 8, streamed by flare2v
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2789706147&amp;t=0h22m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1242</video:duration>
+    <video:publication_date>2026-06-06T01:13:12.000Z</video:publication_date>
+    <video:uploader>flare2v</video:uploader>
+    <video:expiration_date>2026-06-14T01:13:12.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
