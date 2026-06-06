@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-29/set/103772586/</loc>
+  <lastmod>2026-06-06T09:58:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/915033/image-73fd02838d6f49cebf905de592258252.png
+    </video:thumbnail_loc>
+    <video:title>
+      ROF vs TonyN_, Drive Theory 29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ROF vs TonyN_ in Winners Quarter-Final of Drive Theory 29, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2789946220&amp;t=0h58m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>359</video:duration>
+    <video:publication_date>2026-06-06T09:25:36.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-06-14T09:25:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-120/set/103765673/</loc>
   <lastmod>2026-06-06T04:42:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-03T01:53:08.000Z</video:publication_date>
     <video:uploader>teamsp00ky</video:uploader>
     <video:expiration_date>2026-05-11T01:53:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/backstreet-brawl-16-the-power-to-destroy/set/102435594/</loc>
-  <lastmod>2026-05-03T01:57:37.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/896044/image-8e1269738e3ac485fac553f97ad23307.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ryhan vs NEED, Backstreet Brawl #16 - The Power to Destroy - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ryhan vs NEED in Grand Final Reset of Backstreet Brawl #16 - The Power to Destroy, streamed by SatelliteFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762596484&amp;t=6h16m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>581</video:duration>
-    <video:publication_date>2026-05-03T01:29:11.000Z</video:publication_date>
-    <video:uploader>SatelliteFighters</video:uploader>
-    <video:expiration_date>2026-05-11T01:29:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
