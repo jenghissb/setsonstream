@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hessen-crash-xxiii/set/103772414/</loc>
-  <lastmod>2026-06-06T09:50:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2026-round-3/set/103776889/</loc>
+  <lastmod>2026-06-06T11:35:45.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/916686/image-5723096dd3c82e4ee1e4f8c7c2bc4662.png
+    </video:thumbnail_loc>
+    <video:title>
+      ZENITH | Ishiro vs ZENITH | Aigle Noir, THE NEXT LEVEL PLAY 2026  - ROUND 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZENITH | Ishiro vs ZENITH | Aigle Noir in Winners Round 2 of THE NEXT LEVEL PLAY 2026  - ROUND 3, streamed by Tekken Madagascar
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/F9_KhmM_w8Y?start=16132s
+    </video:player_loc>
+    <video:duration>1130</video:duration>
+    <video:publication_date>2026-06-06T11:35:45.000Z</video:publication_date>
+    <video:uploader>Tekken Madagascar</video:uploader>
+    <video:expiration_date>2026-06-14T11:35:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hessen-crash-xxiii/set/103772414/</loc>
+  <lastmod>2026-06-06T10:38:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2789933221&amp;t=2h0m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2017</video:duration>
+    <video:duration>1173</video:duration>
     <video:publication_date>2026-06-06T09:50:23.000Z</video:publication_date>
     <video:uploader>2BCU</video:uploader>
     <video:expiration_date>2026-06-14T09:50:23.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-09T01:06:43.000Z</video:publication_date>
     <video:uploader>wheel___</video:uploader>
     <video:expiration_date>2026-05-17T01:06:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/balance-patch-t8-season-3-week-6/set/102642170/</loc>
-  <lastmod>2026-05-09T01:20:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909064/image-9a5df338dab13d955c89a01c87b332e1.png
-    </video:thumbnail_loc>
-    <video:title>
-      SPLOINK | door vs Menod, Balance Patch T8 - Season 3 - Week 6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SPLOINK | door vs Menod in Winners Round 2 of Balance Patch T8 - Season 3 - Week 6, streamed by wheel___
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767466835&amp;t=0h22m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>762</video:duration>
-    <video:publication_date>2026-05-09T00:14:23.000Z</video:publication_date>
-    <video:uploader>wheel___</video:uploader>
-    <video:expiration_date>2026-05-17T00:14:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
