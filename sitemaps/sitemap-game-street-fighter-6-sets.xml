@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hessen-crash-xxiii/set/103845224/</loc>
-  <lastmod>2026-06-07T16:12:18.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/879241/image-ffe3eb17988f91b49e669f672f9cf2f6.png
-    </video:thumbnail_loc>
-    <video:title>
-      BIE | semy28 vs VDV | Jaeger, Hessen Crash XXIII - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BIE | semy28 vs VDV | Jaeger in Grand Final of Hessen Crash XXIII, streamed by 2BCU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2790754514&amp;t=8h45m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2058</video:duration>
-    <video:publication_date>2026-06-07T16:12:18.000Z</video:publication_date>
-    <video:uploader>2BCU</video:uploader>
-    <video:expiration_date>2026-06-15T16:12:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/iron-pride-dojo-razer-store-charing-cross/set/103843005/</loc>
-  <lastmod>2026-06-07T16:16:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-07T16:53:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2790897856&amp;t=3h2m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1831</video:duration>
+    <video:duration>738</video:duration>
     <video:publication_date>2026-06-07T16:16:05.000Z</video:publication_date>
     <video:uploader>IronPrideFGC</video:uploader>
     <video:expiration_date>2026-06-15T16:16:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hessen-crash-xxiii/set/103845224/</loc>
+  <lastmod>2026-06-07T16:53:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/879241/image-ffe3eb17988f91b49e669f672f9cf2f6.png
+    </video:thumbnail_loc>
+    <video:title>
+      BIE | semy28 vs VDV | Jaeger, Hessen Crash XXIII - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BIE | semy28 vs VDV | Jaeger in Grand Final of Hessen Crash XXIII, streamed by 2BCU
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2790754514&amp;t=8h45m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>980</video:duration>
+    <video:publication_date>2026-06-07T16:12:18.000Z</video:publication_date>
+    <video:uploader>2BCU</video:uploader>
+    <video:expiration_date>2026-06-15T16:12:18.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
