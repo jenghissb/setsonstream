@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/oms-present-heaven-or-hell-4/set/103859832/</loc>
+  <lastmod>2026-06-07T21:12:21.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/915822/image-84622b1299a76efe890900637566d1cd.png
+    </video:thumbnail_loc>
+    <video:title>
+      DS | Madrid vs Mim | Mr. Avocado, OMS Present: Heaven or Hell #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DS | Madrid vs Mim | Mr. Avocado in Winners Quarter-Final of OMS Present: Heaven or Hell #4, streamed by temohardy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2791236205&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2400</video:duration>
+    <video:publication_date>2026-06-07T21:12:21.000Z</video:publication_date>
+    <video:uploader>temohardy</video:uploader>
+    <video:expiration_date>2026-06-15T21:12:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/iron-pride-dojo-razer-store-charing-cross/set/103843005/</loc>
   <lastmod>2026-06-07T16:53:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-09T19:48:21.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2026-05-17T19:48:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kabum-fight-club-street-fighter-6-quarta-etapa/set/102686570/</loc>
-  <lastmod>2026-05-09T19:51:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/906772/image-fd3fe063531865b648a8040d4ff1843b.png
-    </video:thumbnail_loc>
-    <video:title>
-      2G | Zangief_bolado vs TomzinMilgrau, Kabum Fight Club - Street Fighter 6 - Quarta etapa - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 2G | Zangief_bolado vs TomzinMilgrau in Winners Quarter-Final of Kabum Fight Club - Street Fighter 6 - Quarta etapa, streamed by fgcsaopaulo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768016261&amp;t=2h9m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>909</video:duration>
-    <video:publication_date>2026-05-09T19:21:35.000Z</video:publication_date>
-    <video:uploader>fgcsaopaulo</video:uploader>
-    <video:expiration_date>2026-05-17T19:21:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/summer-fox-smackdown-27-fgc-monthly/set/103857598/</loc>
+  <lastmod>2026-06-07T21:32:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/914191/image-eb639c3348a90bebf24c1e4610dc67d2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Surge vs PunchBrando, Summer Fox Smackdown 27 - FGC Monthly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Surge vs PunchBrando in Winners Semi-Final of Summer Fox Smackdown 27 - FGC Monthly, streamed by MNCSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2791185383&amp;t=0h51m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>686</video:duration>
+    <video:publication_date>2026-06-07T20:53:55.000Z</video:publication_date>
+    <video:uploader>MNCSmash</video:uploader>
+    <video:expiration_date>2026-06-15T20:53:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/summer-fox-smackdown-27-fgc-monthly/set/103857596/</loc>
-  <lastmod>2026-06-07T20:29:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-07T21:03:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2791185383&amp;t=0h26m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>751</video:duration>
+    <video:duration>990</video:duration>
     <video:publication_date>2026-06-07T20:29:01.000Z</video:publication_date>
     <video:uploader>MNCSmash</video:uploader>
     <video:expiration_date>2026-06-15T20:29:01.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-10T16:47:21.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-05-18T16:47:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/mba-fight-series-tekken-8-guilty-gear-strive-and-granblue/set/102739996/</loc>
-  <lastmod>2026-05-10T16:49:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/903749/image-7d7c303bfaee3db9281b23134759e5a6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gaer Gaeaf vs memoire, MBA Fight Series - Tekken 8, Guilty Gear Strive and Granblue - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gaer Gaeaf vs memoire in Winners Semi-Final of MBA Fight Series - Tekken 8, Guilty Gear Strive and Granblue, streamed by mba_gaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768620730&amp;t=5h14m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>687</video:duration>
-    <video:publication_date>2026-05-10T16:22:11.000Z</video:publication_date>
-    <video:uploader>mba_gaming</video:uploader>
-    <video:expiration_date>2026-05-18T16:22:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
