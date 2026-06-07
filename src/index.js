@@ -5,6 +5,7 @@ import { HelmetProvider } from "react-helmet-async";
 import './index.css';
 import Home2, {HomeModes, HomeTypes} from './Home';
 import About from './About';
+import LedgeOptions from './LedgeOptions';
 import reportWebVitals from './reportWebVitals';
 import AppNavBar from "./AppNavBar";
 import { FeedbackModal } from "./Feedback";
@@ -38,6 +39,7 @@ root.render(
             <Route path="fullmap" element={<Home2 homeMode={HomeModes.FULLMAP}/>} />
             <Route path="allinlist" element={<Home2 homeMode={HomeModes.ALLINLIST}/>} />
             <Route path="about" element={<About />} />
+            <Route path="ledgeoptions" element={<LedgeOptions />} />
           </Route>
         </Routes>
       </main>

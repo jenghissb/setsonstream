@@ -1,0 +1,222 @@
+/* Ensure the root viewer acts as a layout anchor point for absolute elements */
+.viewer-container {
+  position: relative;
+  padding: 4px; 
+  font-family: sans-serif;
+  color: #ffffff;
+  box-sizing: border-box;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; 
+  align-items: flex-start; 
+  min-height: 100dvh;      
+  width: 100%;
+}
+
+/* THE FLOATING LOADING OVERLAY: Appears perfectly centered over content without shifting layout grids */
+.loading-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 50; /* Sits over the canvases but stays behind native dropdown selects */
+  padding: 10px 20px;
+  background: rgba(255, 71, 87, 0.95); /* Semi-transparent warning coral tone */
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  pointer-events: none; /* Allows user to click through the notice if needed */
+  white-space: nowrap;
+}
+
+/* FULLSCREEN CONSOLE LAYOUT REFINEMENT: 
+   Browsers default to a black canvas background in full screen mode, 
+   so we match your dark scheme styling explicitly here */
+.viewer-container:fullscreen {
+  background-color: #12141a; 
+  padding: 16px; /* Give it slightly cleaner framing when blown up on a large monitor */
+}
+
+/* Give the fullscreen button its own look */
+.btn-fullscreen {
+  background-color: #4b6584;
+  font-size: 15px;
+}
+.btn-fullscreen:hover {
+  background-color: #718093;
+}
+
+/* Ensure the control bar width is appropriately scaled to accept the extra button button layout footprint */
+.control-console.horizontal-scroll-layout {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  background: #1e222b;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid #2c323f;
+  max-width: 620px; /* Bumped up slightly from 580px to accommodate the fullscreen block safely */
+  margin: 0; 
+  width: 100%;
+  box-sizing: border-box;
+  flex-shrink: 0; 
+  
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none; 
+}
+
+
+
+
+
+
+
+/* THE FLEX CONTAINER: Holds the cells tightly together */
+.sprite-grid-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; 
+  align-items: flex-start;
+  gap: 4px; 
+  box-sizing: border-box;
+  
+  /* REDUCED PADDING: Cut down from 8px to a crisp 4px gap under the animations */
+  margin: 0 0 4px 0; 
+  max-width: 100%; 
+}
+
+/* Let the card sizes be dictated purely by the fluid canvas dimensions */
+.sprite-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  border: none;
+  padding: 0px;
+  flex: 1 1 0%; 
+  min-width: 0;
+}
+
+/* Smooth scaling in both directions with no black bars and no empty spaces */
+.sprite-canvas {
+  width: 100%;
+  height: auto;
+  
+  /* ADJUSTED CLAMP HEIGHT: Optimized to reclaim the saved control console space */
+  max-height: calc(100dvh - 56px); 
+  
+  aspect-ratio: 440 / 880; 
+  background-color: #000000;
+  display: block;
+  object-fit: contain; 
+}
+
+.variant-title-inset {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  z-index: 10;
+  margin: 0;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-size: 0.75rem; /* Slightly smaller to match the tight layout profile */
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8);
+  pointer-events: none;
+}
+
+.control-console.horizontal-scroll-layout::-webkit-scrollbar {
+  display: none;
+}
+
+.control-button-group, .control-dropdown-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ULTRA-COMPACT CONTROL BUTTONS */
+.btn-ctrl {
+  width: 32px;  /* Dropped from 42px to 32px height and width */
+  height: 32px; /* Dropped from 42px to 32px height and width */
+  font-size: 14px; /* Scaled down type size slightly to center perfectly */
+  font-weight: 600;
+  cursor: pointer;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  background-color: #2f3542; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 !important;
+  flex-shrink: 0; 
+  transition: opacity 0.2s, background-color 0.2s;
+}
+
+.btn-ctrl:hover:not(:disabled) { background-color: #57606f; }
+.btn-ctrl:disabled { opacity: 0.15; cursor: not-allowed; }
+.btn-play { background-color: #ff4757; }
+.btn-play.playing { background-color: #5352ed; }
+.btn-play:hover { filter: brightness(1.1); }
+
+/* ULTRA-COMPACT SELECT BUTTON WRAPPERS */
+.select-wrapper {
+  position: relative;
+  height: 32px; /* Matched to 32px structural heights */
+  background-color: #2f3542;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.select-wrapper:hover {
+  background-color: #57606f;
+}
+
+/* Width footprints slimmed down slightly for micro sizing look */
+.speed-select { width: 52px; }
+.char-select { width: 110px; }
+.loop-select { width: 72px; }
+
+.select-btn-label {
+  color: #ffffff;
+  font-size: 12px; /* Text size refined down to fit snugly */
+  font-weight: 600;
+  text-transform: capitalize;
+  text-align: center;
+  pointer-events: none; 
+  padding: 0 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.select-wrapper select {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0; 
+  cursor: pointer;
+  appearance: none;
+}
+
+.select-wrapper select option {
+  background-color: #1e222b;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-weight: normal;
+  text-transform: capitalize;
+}
