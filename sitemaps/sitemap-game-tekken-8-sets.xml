@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2026-round-3/set/103841802/</loc>
+  <lastmod>2026-06-07T08:04:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/916686/image-5723096dd3c82e4ee1e4f8c7c2bc4662.png
+    </video:thumbnail_loc>
+    <video:title>
+      EvA | Origami vs SLY | Manounou, THE NEXT LEVEL PLAY 2026  - ROUND 3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EvA | Origami vs SLY | Manounou in Winners Semi-Final of THE NEXT LEVEL PLAY 2026  - ROUND 3, streamed by Tekken Madagascar
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/YmBZupBeXHM?start=588s
+    </video:player_loc>
+    <video:duration>699</video:duration>
+    <video:publication_date>2026-06-07T07:28:40.000Z</video:publication_date>
+    <video:uploader>Tekken Madagascar</video:uploader>
+    <video:expiration_date>2026-06-15T07:28:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/zenith-san-diego-51-a-local-reborn/set/103833038/</loc>
   <lastmod>2026-06-07T04:23:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-10T01:18:06.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-05-18T01:18:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-clash-30/set/102712809/</loc>
-  <lastmod>2026-05-10T01:25:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/861783/image-1e23446f5b5b51e4c1930709941fde3b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ONi | NYC TKN | Dr.theJAKEMAN, M.D vs DEGEN | BeavReh, SoCal Colosseum Clash #30 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ONi | NYC TKN | Dr.theJAKEMAN, M.D vs DEGEN | BeavReh in Winners Quarter-Final of SoCal Colosseum Clash #30, streamed by SoCalColosseum
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768312541&amp;t=0h46m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>482</video:duration>
-    <video:publication_date>2026-05-10T00:57:45.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum</video:uploader>
-    <video:expiration_date>2026-05-18T00:57:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
