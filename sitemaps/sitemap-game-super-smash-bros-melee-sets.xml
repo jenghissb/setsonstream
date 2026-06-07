@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battle-of-bc-8-7/set/103819621/</loc>
-  <lastmod>2026-06-06T23:00:41.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battle-of-bc-8-7/set/103819626/</loc>
+  <lastmod>2026-06-07T00:26:56.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,48 @@
       https://images.start.gg/images/tournament/813487/image-84ed845ba507bf52e01294843b96807c.png
     </video:thumbnail_loc>
     <video:title>
-      SR | Joshman vs Alberto, Battle of BC 8 - Sets on Stream
+      SR | Joshman vs Eggdog | Aura, Battle of BC 8 - Sets on Stream
     </video:title>
     <video:description>
-      Watch SR | Joshman vs Alberto in Winners Round 1 of Battle of BC 8, streamed by galintgaming
+      Watch SR | Joshman vs Eggdog | Aura in Winners Quarter-Final of Battle of BC 8, streamed by galintgaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2790200570&amp;t=6h15m13s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2790200570&amp;t=7h41m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2750</video:duration>
-    <video:publication_date>2026-06-06T23:00:41.000Z</video:publication_date>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-06-07T00:26:56.000Z</video:publication_date>
     <video:uploader>galintgaming</video:uploader>
-    <video:expiration_date>2026-06-14T23:00:41.000Z</video:expiration_date>
+    <video:expiration_date>2026-06-15T00:26:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battle-of-bc-8-7/set/103819625/</loc>
+  <lastmod>2026-06-07T00:34:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813487/image-84ed845ba507bf52e01294843b96807c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Liquid | Hungrybox vs Dawson, Battle of BC 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Liquid | Hungrybox vs Dawson in Winners Quarter-Final of Battle of BC 8, streamed by galintgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2790200570&amp;t=7h4m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1316</video:duration>
+    <video:publication_date>2026-06-06T23:50:08.000Z</video:publication_date>
+    <video:uploader>galintgaming</video:uploader>
+    <video:expiration_date>2026-06-14T23:50:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/abq-barfights-35-return-to-form/set/103811060/</loc>
-  <lastmod>2026-06-06T23:13:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-06T23:58:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2790322455&amp;t=3h51m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1952</video:duration>
+    <video:duration>591</video:duration>
     <video:publication_date>2026-06-06T23:13:59.000Z</video:publication_date>
     <video:uploader>NMmelee</video:uploader>
     <video:expiration_date>2026-06-14T23:13:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battle-of-bc-8-7/set/103819621/</loc>
+  <lastmod>2026-06-06T23:58:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813487/image-84ed845ba507bf52e01294843b96807c.png
+    </video:thumbnail_loc>
+    <video:title>
+      SR | Joshman vs Alberto, Battle of BC 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SR | Joshman vs Alberto in Winners Round 1 of Battle of BC 8, streamed by galintgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2790200570&amp;t=6h15m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3293</video:duration>
+    <video:publication_date>2026-06-06T23:00:41.000Z</video:publication_date>
+    <video:uploader>galintgaming</video:uploader>
+    <video:expiration_date>2026-06-14T23:00:41.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14350,54 +14398,6 @@
     <video:publication_date>2026-05-07T01:24:04.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-05-15T01:24:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gourmet-clash-85/set/102584452/</loc>
-  <lastmod>2026-05-07T02:05:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908083/image-64e1070c8b2c74675495ebfdb9ae2123.png
-    </video:thumbnail_loc>
-    <video:title>
-      DSH | Blue-Eyes White Quiggles vs Carbs, Gourmet Clash #85 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DSH | Blue-Eyes White Quiggles vs Carbs in Grand Final of Gourmet Clash #85, streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2765905940&amp;t=1h37m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1168</video:duration>
-    <video:publication_date>2026-05-07T01:16:55.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2026-05-15T01:16:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gourmet-clash-85/set/102584467/</loc>
-  <lastmod>2026-05-07T01:35:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908083/image-64e1070c8b2c74675495ebfdb9ae2123.png
-    </video:thumbnail_loc>
-    <video:title>
-      Carbs vs Pang, Gourmet Clash #85 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Carbs vs Pang in Losers Final of Gourmet Clash #85, streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2765905940&amp;t=1h22m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>929</video:duration>
-    <video:publication_date>2026-05-07T01:01:23.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2026-05-15T01:01:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
