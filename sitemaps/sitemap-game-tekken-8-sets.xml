@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/summer-fox-smackdown-27-fgc-monthly/set/103857630/</loc>
+  <lastmod>2026-06-07T22:29:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/914191/image-eb639c3348a90bebf24c1e4610dc67d2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sunny vs Dj Locke, Summer Fox Smackdown 27 - FGC Monthly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sunny vs Dj Locke in Losers Quarter-Final of Summer Fox Smackdown 27 - FGC Monthly, streamed by MNCSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2791256542&amp;t=0h2m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1050</video:duration>
+    <video:publication_date>2026-06-07T21:51:18.000Z</video:publication_date>
+    <video:uploader>MNCSmash</video:uploader>
+    <video:expiration_date>2026-06-15T21:51:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/summer-fox-smackdown-27-fgc-monthly/set/103857598/</loc>
   <lastmod>2026-06-07T21:32:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-11T19:01:41.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-05-19T19:01:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/rage-lx-10/set/102735102/</loc>
-  <lastmod>2026-05-10T17:14:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904335/image-660355053c64171bf6b8b15f392ec88f.png
-    </video:thumbnail_loc>
-    <video:title>
-      FTW | NuNoX_ vs Mr.Dream, Rage LX #10 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FTW | NuNoX_ vs Mr.Dream in Losers Semi-Final of Rage LX #10, streamed by Locus_Crew
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768708690&amp;t=2h47m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>772</video:duration>
-    <video:publication_date>2026-05-10T16:47:21.000Z</video:publication_date>
-    <video:uploader>Locus_Crew</video:uploader>
-    <video:expiration_date>2026-05-18T16:47:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
