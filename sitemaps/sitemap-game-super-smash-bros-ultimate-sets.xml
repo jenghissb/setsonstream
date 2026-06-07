@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/s-h-i-e-l-d-break-46/set/103844217/</loc>
+  <lastmod>2026-06-07T12:47:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901539/image-76e49a2cb5cf07714529427f28a38a99.png
+    </video:thumbnail_loc>
+    <video:title>
+      nathy vs ARK | Cyrano de l&apos;Ouest, S.H.I.E.L.D. BREAK 46 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch nathy vs ARK | Cyrano de l&apos;Ouest in Round 4 of S.H.I.E.L.D. BREAK 46, streamed by msutv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2790880866&amp;t=0h1m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1091</video:duration>
+    <video:publication_date>2026-06-07T12:47:14.000Z</video:publication_date>
+    <video:uploader>msutv</video:uploader>
+    <video:expiration_date>2026-06-15T12:47:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/sen-smash-3/set/103835779/</loc>
   <lastmod>2026-06-07T07:15:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-05-28T18:33:05.000Z</video:publication_date>
     <video:uploader>openworldvienna</video:uploader>
     <video:expiration_date>2026-06-05T18:33:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/biscuit-crown-43/set/103409811/</loc>
-  <lastmod>2026-05-28T18:44:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913659/image-64db6061fb4d51a4c5c4bc9f738353d7.png
-    </video:thumbnail_loc>
-    <video:title>
-      R-B | Palouse vs TBG | Vulpil, Biscuit Crown #43 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch R-B | Palouse vs TBG | Vulpil in Winners Round 2 of Biscuit Crown #43, streamed by thebattlegroundofficial
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2783036907&amp;t=0h51m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>603</video:duration>
-    <video:publication_date>2026-05-28T18:31:49.000Z</video:publication_date>
-    <video:uploader>thebattlegroundofficial</video:uploader>
-    <video:expiration_date>2026-06-05T18:31:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
