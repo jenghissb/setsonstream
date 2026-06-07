@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-xliv/set/103826228/</loc>
+  <lastmod>2026-06-07T03:10:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911337/image-62a402ee8888e15cd82afd85fd4c9e13.png
+    </video:thumbnail_loc>
+    <video:title>
+      0rangeSoda vs Strat2G, Iron Grid XLIV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 0rangeSoda vs Strat2G in Losers Final of Iron Grid XLIV, streamed by Pandabetic
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2790248594&amp;t=8h16m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>817</video:duration>
+    <video:publication_date>2026-06-07T02:07:53.000Z</video:publication_date>
+    <video:uploader>Pandabetic</video:uploader>
+    <video:expiration_date>2026-06-15T02:07:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/devohlution-2026/set/103808755/</loc>
   <lastmod>2026-06-07T00:40:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-09T00:50:40.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-05-17T00:50:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-221-norcal-ssbu-ggst-weekly/set/102590649/</loc>
-  <lastmod>2026-05-07T05:45:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909698/image-2a05f788bf407db2c05de0647e7bf57b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MjKurase vs Aubfox, Guildhouse Weekly 221 - Norcal SSBU &amp; GGST weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MjKurase vs Aubfox in Grand Final of Guildhouse Weekly 221 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2766046372&amp;t=1h41m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3531</video:duration>
-    <video:publication_date>2026-05-07T04:43:02.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-05-15T04:43:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
