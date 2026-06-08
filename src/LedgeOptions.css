@@ -1,4 +1,5 @@
-/* Ensure the root viewer acts as a layout anchor point for absolute elements */
+/* Tight fluid container wrapper */
+/* Tight fluid container wrapper */
 .viewer-container {
   position: relative;
   padding: 4px; 
@@ -9,88 +10,99 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start; 
-  align-items: flex-start; 
-  min-height: 100dvh;      
+  align-items: center; 
   width: 100%;
+  min-height: 100dvh; 
 }
 
-/* THE FLOATING LOADING OVERLAY: Appears perfectly centered over content without shifting layout grids */
-.loading-overlay {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 50; /* Sits over the canvases but stays behind native dropdown selects */
-  padding: 10px 20px;
-  background: rgba(255, 71, 87, 0.95); /* Semi-transparent warning coral tone */
-  border-radius: 4px;
-  font-weight: bold;
-  font-size: 13px;
-  letter-spacing: 0.5px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
-  pointer-events: none; /* Allows user to click through the notice if needed */
-  white-space: nowrap;
+/* Flex items stay contiguous and center-aligned as a unit */
+.sprite-grid-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; 
+  align-items: flex-start;
+  gap: 4px; 
+  box-sizing: border-box;
+  margin: 0 0 4px 0; 
+  max-width: 100%; 
 }
 
-/* FULLSCREEN CONSOLE LAYOUT REFINEMENT: 
-   Browsers default to a black canvas background in full screen mode, 
-   so we match your dark scheme styling explicitly here */
-.viewer-container:fullscreen {
-  background-color: #12141a; 
-  padding: 16px; /* Give it slightly cleaner framing when blown up on a large monitor */
-}
-
-/* Give the fullscreen button its own look */
-.btn-fullscreen {
-  background-color: #4b6584;
-  font-size: 15px;
-}
-.btn-fullscreen:hover {
-  background-color: #718093;
-}
-
-/* Ensure the control bar width is appropriately scaled to accept the extra button button layout footprint */
+/* COMPACT DECK TOOLBAR FRAME */
+/* COMPACT DECK TOOLBAR FRAME */
 .control-console.horizontal-scroll-layout {
+  position: relative; 
   display: flex;
   justify-content: flex-start;
   align-items: center;
   gap: 12px;
   background: #1e222b;
-  padding: 4px 8px;
-  border-radius: 4px;
   border: 1px solid #2c323f;
-  max-width: 620px; /* Bumped up slightly from 580px to accommodate the fullscreen block safely */
-  margin: 0; 
-  width: 100%;
+  border-radius: 4px;
   box-sizing: border-box;
   flex-shrink: 0; 
+  
+  width: 100%;
+  max-width: max-content; 
+  margin: 0 auto; 
+  padding: 4px 4px; 
   
   overflow-x: auto;
   white-space: nowrap;
   scrollbar-width: none; 
 }
+.control-console.horizontal-scroll-layout::-webkit-scrollbar { display: none; }
 
-
-
-
-
-
-
-/* THE FLEX CONTAINER: Holds the cells tightly together */
-.sprite-grid-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start; 
-  align-items: flex-start;
-  gap: 4px; 
-  box-sizing: border-box;
+/* LEFT EDGE STICKY FADE */
+.control-console.horizontal-scroll-layout::before {
+  content: "";
+  position: -webkit-sticky;
+  position: sticky;
+  left: -4px; 
   
-  /* REDUCED PADDING: Cut down from 8px to a crisp 4px gap under the animations */
-  margin: 0 0 4px 0; 
-  max-width: 100%; 
+  /* DIALED IN: Reduced width to 16px to make the fade cleaner and less aggressive */
+  margin-right: -16px; 
+  width: 16px;
+  
+  height: 32px;
+  flex-shrink: 0;
+  z-index: 10;
+  pointer-events: none;
+  
+  background: linear-gradient(to right, #1e222b 0%, rgba(30, 34, 43, 0) 100%);
 }
 
-/* Let the card sizes be dictated purely by the fluid canvas dimensions */
+/* RIGHT EDGE STICKY FADE */
+.control-console.horizontal-scroll-layout::after {
+  content: "";
+  position: -webkit-sticky;
+  position: sticky;
+  right: -4px; 
+  
+  /* DIALED IN: Reduced width to 16px and balanced the matching margin offset */
+  margin-left: auto; 
+  margin-right: -16px;
+  width: 16px;
+  
+  height: 32px;
+  flex-shrink: 0;
+  z-index: 10;
+  pointer-events: none;
+  
+  background: linear-gradient(to left, #1e222b 0%, rgba(30, 34, 43, 0) 100%);
+}
+
+
+/* VERIFIED DVH ASSET SCALING BOUNDARIES */
+.sprite-canvas {
+  width: 100%;
+  height: auto;
+  max-height: calc(100dvh - 80px); 
+  aspect-ratio: 440 / 880; 
+  background-color: #000000;
+  display: block;
+  object-fit: contain; 
+}
+
 .sprite-card {
   position: relative;
   display: flex;
@@ -102,38 +114,93 @@
   min-width: 0;
 }
 
-/* Smooth scaling in both directions with no black bars and no empty spaces */
-.sprite-canvas {
-  width: 100%;
-  height: auto;
-  
-  /* ADJUSTED CLAMP HEIGHT: Optimized to reclaim the saved control console space */
-  max-height: calc(100dvh - 56px); 
-  
-  aspect-ratio: 440 / 880; 
-  background-color: #000000;
-  display: block;
-  object-fit: contain; 
-}
-
-.variant-title-inset {
+/* INTERACTIVE FILTER & CONFIGURATION SELECTION PANEL */
+.filter-reorder-drawer {
   position: absolute;
-  top: 4px;
-  left: 4px;
-  z-index: 10;
-  margin: 0;
-  text-transform: capitalize;
-  color: #ffffff;
-  font-size: 0.75rem; /* Slightly smaller to match the tight layout profile */
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8);
-  pointer-events: none;
+  bottom: 48px; 
+  right: 44px;  
+  background: #1e222b;
+  border: 1px solid #2c323f;
+  border-radius: 4px;
+  padding: 8px;
+  z-index: 90;
+  width: max-content;
+  min-width: 180px;
+  max-width: 280px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
 }
 
-.control-console.horizontal-scroll-layout::-webkit-scrollbar {
-  display: none;
+.drawer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  gap: 12px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #a4b0be;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #2c323f;
+  padding-bottom: 4px;
+  margin-bottom: 2px;
 }
+
+.btn-drawer-close {
+  background: transparent;
+  border: none;
+  color: #a4b0be;
+  font-size: 16px; 
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 2px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s, transform 0.2s;
+}
+.btn-drawer-close:hover { color: #ff4757; transform: scale(1.1); }
+.btn-drawer-close:active { transform: scale(0.9); }
+
+.drawer-item-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+}
+.checkbox-label input { cursor: pointer; accent-color: #ff4757; }
+.checkbox-label span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.reorder-btn-group { display: flex; gap: 2px; }
+
+.btn-sort {
+  background: #2f3542;
+  border: none;
+  color: #fff;
+  border-radius: 2px;
+  width: 18px;
+  height: 18px;
+  font-size: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-sort:hover:not(:disabled) { background: #57606f; }
+.btn-sort:disabled { opacity: 0.2; cursor: not-allowed; }
 
 .control-button-group, .control-dropdown-group {
   display: flex;
@@ -141,11 +208,10 @@
   gap: 6px;
 }
 
-/* ULTRA-COMPACT CONTROL BUTTONS */
 .btn-ctrl {
-  width: 32px;  /* Dropped from 42px to 32px height and width */
-  height: 32px; /* Dropped from 42px to 32px height and width */
-  font-size: 14px; /* Scaled down type size slightly to center perfectly */
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
   font-weight: 600;
   cursor: pointer;
   color: white;
@@ -159,17 +225,17 @@
   flex-shrink: 0; 
   transition: opacity 0.2s, background-color 0.2s;
 }
-
 .btn-ctrl:hover:not(:disabled) { background-color: #57606f; }
 .btn-ctrl:disabled { opacity: 0.15; cursor: not-allowed; }
-.btn-play { background-color: #ff4757; }
-.btn-play.playing { background-color: #5352ed; }
-.btn-play:hover { filter: brightness(1.1); }
+.btn-filter { background-color: #2f3542; color: #ffffff; }
+.btn-filter:hover { background-color: #57606f; }
+.btn-filter.active { background-color: #4b6584; box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.6); }
+.btn-fullscreen { background-color: #4b6584; font-size: 13px; }
 
-/* ULTRA-COMPACT SELECT BUTTON WRAPPERS */
+/* DROPDOWNS SIZING SYSTEM */
 .select-wrapper {
   position: relative;
-  height: 32px; /* Matched to 32px structural heights */
+  height: 32px;
   background-color: #2f3542;
   border-radius: 3px;
   display: flex;
@@ -177,46 +243,66 @@
   justify-content: center;
   flex-shrink: 0;
   cursor: pointer;
-  transition: background-color 0.2s;
+}
+.select-wrapper:hover { background-color: #57606f; }
+.speed-select {
+  width: auto;
+  min-width: 36px;
+  max-width: 80px; /* Rigidly respects your 80dp cap requirement */
+}
+.loop-select {
+  width: auto;
+  min-width: 48px;
+  max-width: 80px; /* Rigidly respects your 80dp cap requirement */
 }
 
-.select-wrapper:hover {
-  background-color: #57606f;
+/* CHARACTER SELECT DROPDOWN */
+.char-select { 
+  width: auto;
+  min-width: 48px;
+  max-width: 80px; /* Rigidly respects your 80dp cap requirement */
 }
-
-/* Width footprints slimmed down slightly for micro sizing look */
-.speed-select { width: 52px; }
-.char-select { width: 110px; }
-.loop-select { width: 72px; }
 
 .select-btn-label {
   color: #ffffff;
-  font-size: 12px; /* Text size refined down to fit snugly */
+  font-size: 12px;
   font-weight: 600;
   text-transform: capitalize;
   text-align: center;
   pointer-events: none; 
-  padding: 0 4px;
+  padding: 0 6px; 
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis;
+  text-overflow: ellipsis; /* Appends a clean '...' if text breaks the 80dp limit */
 }
 
 .select-wrapper select {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0; 
-  cursor: pointer;
-  appearance: none;
+  top: 0; left: 0; width: 100%; height: 100%;
+  opacity: 0; cursor: pointer; appearance: none;
+}
+.select-wrapper select option { background-color: #1e222b; color: #ffffff; text-transform: capitalize; }
+
+.variant-title-inset {
+  position: absolute;
+  top: 4px; left: 4px; z-index: 10; margin: 0;
+  text-transform: capitalize; color: #ffffff;
+  font-size: 0.75rem; font-weight: 600;
+  letter-spacing: 0.5px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8);
+  pointer-events: none;
 }
 
-.select-wrapper select option {
-  background-color: #1e222b;
-  color: #ffffff;
-  font-family: sans-serif;
-  font-weight: normal;
-  text-transform: capitalize;
+.loading-overlay {
+  position: absolute;
+  top: 50%; left: 50%; transform: translate(-50%, -50%);
+  z-index: 50; padding: 10px 20px;
+  background: rgba(22, 22, 22, 0.95); border-radius: 4px;
+  font-weight: bold; font-size: 13px;
+  box-shadow: 0 4px 15px rgba(22, 22, 22, 0.5);
+  pointer-events: none; white-space: nowrap;
 }
+
+/* FULLSCREEN HARDWARE ADAPTATION OVERWRITE */
+.viewer-container:fullscreen { background-color: #12141a; padding: 8px; }
+.viewer-container:fullscreen .sprite-canvas { max-height: calc(100dvh - 80px); }

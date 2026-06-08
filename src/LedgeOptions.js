@@ -42,9 +42,14 @@ export default function LedgeOptions() {
   const [currentSetIndex, setCurrentSetIndex] = useState(0); 
   const [currentFrameIndex, setCurrentFrameIndex] = useState(0); 
   const [isPlaying, setIsPlaying] = useState(false);
-  const [currentSpeed, setCurrentSpeed] = useState(SPEED_OPTIONS[1]); 
+  const [currentSpeed, setCurrentSpeed] = useState(SPEED_OPTIONS[0]); 
   const [loopLimit, setLoopLimit] = useState('all'); 
   const [isAssetLoading, setIsAssetLoading] = useState(true); // Added loading state flag
+
+// A simple array of indices representing the current sorting order
+  const [variantsOrder, setVariantsOrder] = useState([0, 1, 2, 3]);
+  const [activeVariants, setActiveVariants] = useState([0, 1, 2, 3]);
+  const [showFilterDrawer, setShowFilterDrawer] = useState(false);
 
   const displayCanvasRefs = useRef([]);
   const preRenderedFrames = useRef([[], [], [], []]);
@@ -53,7 +58,7 @@ export default function LedgeOptions() {
   const isPlayingRef = useRef(false);
   const animationFrameId = useRef(null);
   const lastFrameTime = useRef(0);
-  const targetFpsRef = useRef(30);
+  const targetFpsRef = useRef(60);
   
   const loopLimitRef = useRef('all'); 
   const currentMaxFramesRef = useRef(34);
@@ -244,6 +249,34 @@ export default function LedgeOptions() {
   const handleCharacterDropdownChange = (e) => {
     setCurrentSetIndex(parseInt(e.target.value, 10));
   };
+
+// --- SIMPLIFIED FILTER & REORDER HANDLERS ---
+const toggleVisibility = (index) => {
+    if (activeVariants.includes(index)) {
+      if (activeVariants.length === 1) return; // Always keep at least one checked
+      setActiveVariants(activeVariants.filter(vIdx => vIdx !== index));
+    } else {
+      // 1. Unhide the requested variant by appending it to the active list array state
+      setActiveVariants([...activeVariants, index]);
+
+      // 2. THE REPAINT FIX: Escape the synchronous state cycle to allow the canvas DOM 
+      // rendering tree node mount to conclude, then paint the active frame slice immediately.
+      setTimeout(() => {
+        paintVisibleFrame(index, frameIndexRef.current);
+      }, 0);
+    }
+  };
+  const moveVariant = (currentIndex, direction) => {
+    const nextIndex = currentIndex + direction;
+    if (nextIndex < 0 || nextIndex >= variantsOrder.length) return;
+    
+    const updated = [...variantsOrder];
+    const temp = updated[currentIndex];
+    updated[currentIndex] = updated[nextIndex];
+    updated[nextIndex] = temp;
+    setVariantsOrder(updated);
+  };
+  
 // 1. Add a container ref at the top of your component alongside your other refs
 const containerRef = useRef(null);
 
@@ -260,69 +293,128 @@ const toggleFullscreen = () => {
   }
 };
 
-// 3. Update your return JSX statement to use the ref and include the button:
-return (
-  <div className="viewer-container" ref={containerRef}>
-    {/* The loading notice now floats on top of everything automatically */}
-    {isAssetLoading && (
-      <div className="loading-overlay">
-        Loading Character Frames...
-      </div>
-    )}
+// Render the views based on the custom user sequence filtered by visibility
+  const renderedVariants = variantsOrder.filter(idx => activeVariants.includes(idx));
 
-    <div className="sprite-grid-container" style={{ opacity: isAssetLoading ? 0.3 : 1 }}>
-      {optionNames.map((optionName, index) => (
-        <div key={optionName} className="sprite-card">
-          <h4 className="variant-title-inset">
-            {optionName.replace(/NotBlue/g, '')}
-          </h4>
-          <canvas 
-            ref={(el) => (displayCanvasRefs.current[index] = el)} 
-            className="sprite-canvas"
-            width={FRAME_WIDTH}
-            height={FRAME_HEIGHT}
-          />
+  return (
+    <div className="viewer-container" ref={containerRef}>
+      {isAssetLoading && (
+        <div className="loading-overlay">
+          Loading Character Frames...
         </div>
-      ))}
+      )}
+
+      {/* FILTER & REORDER CONFIGURATION DRAWER */}
+      {showFilterDrawer && (
+        <div className="filter-reorder-drawer">
+          {/* ENHANCED HEADER: Includes an explicit close button mapped to the toggle state */}
+          <div className="drawer-header">
+            <span>Arrange Viewports:</span>
+            <button 
+              className="btn-drawer-close" 
+              onClick={() => setShowFilterDrawer(false)}
+              title="Close Menu"
+            >
+              &times;
+            </button>
+          </div>
+          {variantsOrder.map((variantIdx, currentIndex) => {
+            const isVisible = activeVariants.includes(variantIdx);
+            const rawName = optionNames[variantIdx];
+            const cleanLabel = rawName ? rawName.replace(/NotBlue/g, '') : `Variant ${variantIdx + 1}`;
+
+            return (
+              <div key={variantIdx} className="drawer-item-row">
+                <label className="checkbox-label">
+                  <input 
+                    type="checkbox" 
+                    checked={isVisible} 
+                    disabled={isVisible && activeVariants.length === 1}
+                    onChange={() => toggleVisibility(variantIdx)}
+                  />
+                  <span>{cleanLabel}</span>
+                </label>
+                <div className="reorder-btn-group">
+                  <button onClick={() => moveVariant(currentIndex, -1)} disabled={currentIndex === 0} className="btn-sort">▲</button>
+                  <button onClick={() => moveVariant(currentIndex, 1)} disabled={currentIndex === variantsOrder.length - 1} className="btn-sort">▼</button>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      )}
+
+      {/* ANIMATION VIEWPORT GRID CONTAINER */}
+      <div className="sprite-grid-container" style={{ opacity: isAssetLoading ? 0.8 : 1 }}>
+        {renderedVariants.map((variantIdx) => {
+          const optionName = optionNames[variantIdx];
+
+          return (
+            <div key={variantIdx} className="sprite-card">
+              <h4 className="variant-title-inset">
+                {optionName ? optionName.replace(/NotBlue/g, '') : `Variant ${variantIdx + 1}`}
+              </h4>
+              <canvas 
+                ref={(el) => (displayCanvasRefs.current[variantIdx] = el)} 
+                className="sprite-canvas"
+                width={FRAME_WIDTH}
+                height={FRAME_HEIGHT}
+              />
+            </div>
+          );
+        })}
+      </div>
+
+      {/* COMPACT HARDWARE CONTROL CONSOLE */}
+      <div className="control-console horizontal-scroll-layout">
+        <div className="control-button-group">
+          <button onClick={handlePrevSet} disabled={currentSetIndex === 0} className="btn btn-ctrl" title="Previous Character">«</button>
+          <button onClick={handlePrevFrame} disabled={(currentFrameIndex === 0 && !isPlaying) || isAssetLoading} className="btn btn-ctrl" title="Previous Frame">‹</button>
+          <button onClick={togglePlay} disabled={isAssetLoading} className={`btn btn-ctrl btn-play ${isPlaying ? 'playing' : ''}`} title={isPlaying ? "Pause" : "Play"}>{isPlaying ? '⏸' : '▶'}</button>
+          <button onClick={handleNextFrame} disabled={(currentFrameIndex === currentMaxFramesRef.current - 1 && !isPlaying) || isAssetLoading} className="btn btn-ctrl" title="Next Frame">›</button>
+          <button onClick={handleNextSet} disabled={currentSetIndex === TOTAL_SETS - 1} className="btn btn-ctrl" title="Next Character">»</button>
+        </div>
+
+        <div className="control-dropdown-group">
+          <div className="select-wrapper speed-select">
+            <span className="select-btn-label">{currentSpeed.label}</span>
+            <select value={SPEED_OPTIONS.indexOf(currentSpeed)} onChange={handleSpeedChange}>
+              {SPEED_OPTIONS.map((opt, i) => <option key={i} value={i}>{opt.menuLabel}</option>)}
+            </select>
+          </div>
+
+          <div className="select-wrapper loop-select">
+            <span className="select-btn-label">🔁 {loopLimit === 'all' ? 'All' : `${loopLimit}f`}</span>
+            <select value={loopLimit} onChange={handleLoopChange}>
+              {LOOP_OPTIONS.map((opt, i) => <option key={i} value={opt.value}>🔁 {opt.label}</option>)}
+            </select>
+          </div>
+
+          <div className="select-wrapper char-select">
+            <span className="select-btn-label">{charNames[currentSetIndex]}</span>
+            <select value={currentSetIndex} onChange={handleCharacterDropdownChange}>
+              {charNames.map((name, idx) => <option key={name} value={idx}>{name}</option>)}
+            </select>
+          </div>
+
+          <button 
+            onClick={() => setShowFilterDrawer(!showFilterDrawer)} 
+            className={`btn btn-ctrl btn-filter ${showFilterDrawer ? 'active' : ''}`}
+            title="Configure Viewports"
+          >
+            {/* Modern 3-line descending filter vector */}
+            <svg width="18px" height="18px" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M2 8H26" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M6 15H22" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M11 22H17" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+
+          </button>
+          <button onClick={toggleFullscreen} className="btn btn-ctrl btn-fullscreen" title="Toggle Fullscreen">
+            ⛶
+          </button>
+        </div>
+      </div>
     </div>
-
-    <div className="control-console horizontal-scroll-layout">
-      <div className="control-button-group">
-        <button onClick={handlePrevSet} disabled={currentSetIndex === 0} className="btn btn-ctrl" title="Previous Character">«</button>
-        <button onClick={handlePrevFrame} disabled={(currentFrameIndex === 0 && !isPlaying) || isAssetLoading} className="btn btn-ctrl" title="Previous Frame">‹</button>
-        <button onClick={togglePlay} disabled={isAssetLoading} className={`btn btn-ctrl btn-play ${isPlaying ? 'playing' : ''}`} title={isPlaying ? "Pause" : "Play"}>{isPlaying ? '⏸' : '▶'}</button>
-        <button onClick={handleNextFrame} disabled={(currentFrameIndex === currentMaxFramesRef.current - 1 && !isPlaying) || isAssetLoading} className="btn btn-ctrl" title="Next Frame">›</button>
-        <button onClick={handleNextSet} disabled={currentSetIndex === TOTAL_SETS - 1} className="btn btn-ctrl" title="Next Character">»</button>
-      </div>
-
-      <div className="control-dropdown-group">
-        <div className="select-wrapper speed-select">
-          <span className="select-btn-label">{currentSpeed.label}</span>
-          <select value={SPEED_OPTIONS.indexOf(currentSpeed)} onChange={handleSpeedChange}>
-            {SPEED_OPTIONS.map((opt, i) => <option key={i} value={i}>{opt.menuLabel}</option>)}
-          </select>
-        </div>
-
-        <div className="select-wrapper loop-select">
-          <span className="select-btn-label">🔁 {loopLimit === 'all' ? 'All' : `${loopLimit}f`}</span>
-          <select value={loopLimit} onChange={handleLoopChange}>
-            {LOOP_OPTIONS.map((opt, i) => <option key={i} value={opt.value}>🔁 {opt.label}</option>)}
-          </select>
-        </div>
-
-        <div className="select-wrapper char-select">
-          <span className="select-btn-label">{charNames[currentSetIndex]}</span>
-          <select value={currentSetIndex} onChange={handleCharacterDropdownChange}>
-            {charNames.map((name, idx) => <option key={name} value={idx}>{name}</option>)}
-          </select>
-        </div>
-
-        {/* NEW Fullscreen Toggle Button Added Here */}
-        <button onClick={toggleFullscreen} className="btn btn-ctrl btn-fullscreen" title="Toggle Fullscreen">
-          ⛶
-        </button>
-      </div>
-    </div>
-  </div>
-);
+  );
 }
