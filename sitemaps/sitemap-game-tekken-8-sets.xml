@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-84/set/103879869/</loc>
+  <lastmod>2026-06-08T22:12:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/914165/image-d96305a506a9d31fe66a5a3884498d21.png
+    </video:thumbnail_loc>
+    <video:title>
+      Siphonia vs iLiink, Toulouse Fighting Monday 84 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Siphonia vs iLiink in Grand Final of Toulouse Fighting Monday 84, streamed by toulousevsfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2791864613&amp;t=3h8m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1141</video:duration>
+    <video:publication_date>2026-06-08T21:28:50.000Z</video:publication_date>
+    <video:uploader>toulousevsfighters</video:uploader>
+    <video:expiration_date>2026-06-16T21:28:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/toulouse-fighting-monday-84/set/103879884/</loc>
-  <lastmod>2026-06-08T21:06:11.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-08T21:47:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2791864613&amp;t=2h46m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1428</video:duration>
+    <video:duration>1313</video:duration>
     <video:publication_date>2026-06-08T21:06:11.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-06-16T21:06:11.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-13T05:43:43.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-05-21T05:43:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-102-norcal-tekken-8-2xko-weekly/set/102805764/</loc>
-  <lastmod>2026-05-13T05:28:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/911560/image-aef47aaf5e7972eb5925ca30a462be39.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Paul Z vs richter, Guildhouse Tuesday 102 - Norcal Tekken 8 &amp; 2XKO weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Paul Z vs richter in Grand Final of Guildhouse Tuesday 102 - Norcal Tekken 8 &amp; 2XKO weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2770718738&amp;t=1h51m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1071</video:duration>
-    <video:publication_date>2026-05-13T04:48:36.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-05-21T04:48:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
