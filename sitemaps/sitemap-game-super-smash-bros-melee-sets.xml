@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battle-of-bc-8-7/set/103861390/</loc>
+  <lastmod>2026-06-08T01:46:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/813487/image-84ed845ba507bf52e01294843b96807c.png
+    </video:thumbnail_loc>
+    <video:title>
+      SR | moky vs Liquid | Hungrybox, Battle of BC 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SR | moky vs Liquid | Hungrybox in Losers Final of Battle of BC 8, streamed by galintgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2791084865&amp;t=6h47m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>976</video:duration>
+    <video:publication_date>2026-06-08T00:43:37.000Z</video:publication_date>
+    <video:uploader>galintgaming</video:uploader>
+    <video:expiration_date>2026-06-16T00:43:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battle-of-bc-8-7/set/103861374/</loc>
-  <lastmod>2026-06-08T00:12:54.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-08T00:46:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2791084865&amp;t=6h17m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>384</video:duration>
+    <video:duration>600</video:duration>
     <video:publication_date>2026-06-08T00:12:54.000Z</video:publication_date>
     <video:uploader>galintgaming</video:uploader>
     <video:expiration_date>2026-06-16T00:12:54.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-08T00:04:26.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-05-16T00:04:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sconefest-summer-2026-1-house-tournament-dm-for-address/set/102603919/</loc>
-  <lastmod>2026-05-08T00:19:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909438/image-867c59018b53f9999bcae8c8ab9628c2.png
-    </video:thumbnail_loc>
-    <video:title>
-      BRamZ vs KBK | ren, SCONEFEST SUMMER 2026 #1: HOUSE TOURNAMENT (DM FOR ADDRESS) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BRamZ vs KBK | ren in Winners Quarter-Final of SCONEFEST SUMMER 2026 #1: HOUSE TOURNAMENT (DM FOR ADDRESS), streamed by renwitdashifts
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2766637531&amp;t=0h51m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>711</video:duration>
-    <video:publication_date>2026-05-07T23:42:00.000Z</video:publication_date>
-    <video:uploader>renwitdashifts</video:uploader>
-    <video:expiration_date>2026-05-15T23:42:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
