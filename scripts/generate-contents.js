@@ -411,7 +411,8 @@ function generateSetSitemap(game, sets) {
 function generateTopPagesSitemap() {
   const urls = [
     makeUrlEntry(`${BASE_URL}/`, undefined, "hourly", 1.0),
-    makeUrlEntry(`${BASE_URL}/about/`, undefined, "monthly", 0.3)
+    makeUrlEntry(`${BASE_URL}/about/`, undefined, "monthly", 0.3),
+    makeUrlEntry(`${BASE_URL}/ledgeoptions/`, undefined, "monthly", 0.3)
   ];
   return wrapUrlset(urls);
 }
@@ -659,7 +660,20 @@ async function processData(data, forExpired=false) {
       title: `About - Sets on Stream`,
       description: `Watch live and recent matches from fighting game tournaments: Smash Ultimate, SF6, Rivals 2, Tekken 8, and more.`,
       keywords: keywords,
-      // jsonLd,
+      jsonLd,
+    })
+  );
+
+  jsonLd = generateJsonLdLedge({})
+  writeFile(
+    path.join(DIST_DIR, "ledgeoptions", "index.html"),
+
+    generatePage({
+      templatePath,
+      title: `Ledge Option Animation Comparisons`,
+      description: `Compare Ledge Option Animations for Smash Ultimate`,
+      keywords: ["Smash", "Ultimate", "Smash Ultimate", "Ledge animation"],
+      jsonLd,
     })
   );
 
@@ -1790,6 +1804,31 @@ function generateJsonLdCharacter({item, gameInfo, charName, url, items, videoObj
     //   }
       /* …more VideoObjects for other sets … */
     // ]
+  }
+}
+
+function generateJsonLdLedge({}) {
+  const title = "Ledge Option Animation Comparisons"
+  const description = "Compare Ledge Option Animations for Smash Ultimate"
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "@id": "https://setsonstream.tv/ledgeoptions/#webapp",
+    "url": "https://setsonstream.tv/ledgeoptions",
+    "name": `${title}`,
+    "operatingSystem": "All",
+    "description": `${description}`,
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Sets on Stream",
+      "url": "https://setsonstream.tv/"
+    }
   }
 }
 

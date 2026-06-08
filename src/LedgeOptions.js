@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { Helmet } from "react-helmet-async";
 import './LedgeOptions.css';
 
 const FRAME_WIDTH = 440;
@@ -310,9 +311,18 @@ const toggleFullscreen = () => {
 
 // Render the views based on the custom user sequence filtered by visibility
   const renderedVariants = variantsOrder.filter(idx => activeVariants.includes(idx));
+  const title = "Ledge Option Animation Comparisons"
+  const description = "Compare Ledge Option Animations for Smash Ultimate"
 
   return (
     <div className="viewer-container" ref={containerRef}>
+      <Helmet>
+          <title>{title}</title>
+          <meta name="description" content={description} />
+          <meta name="twitter:title" content={title}/>
+          <meta name="twitter:description" content={description}/>
+      </Helmet>
+
       {isAssetLoading && (
         <div className="loading-overlay">
           Loading Character Frames...
@@ -414,7 +424,7 @@ const toggleFullscreen = () => {
           <button 
             onClick={() => setShowFilterDrawer(!showFilterDrawer)} 
             className={`btn btn-ctrl btn-filter ${showFilterDrawer ? 'active' : ''}`}
-            title="Configure Viewports"
+            title="Configure Ledge Options"
           >
             {/* Modern 3-line descending filter vector */}
             <svg width="18px" height="18px" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
