@@ -33,6 +33,9 @@ const LOOP_OPTIONS = [
 const cloudName = "dmajy6owm";
 const charNames = ["mario","donkeykong","link","samus","darksamus","yoshi","kirby","fox","pikachu","luigi","ness","captainfalcon","jigglypuff","peach","daisy","bowser","iceclimbers","sheik","zelda","drmario","pichu","falco","marth","lucina","younglink","ganondorf","mewtwo","roy","chrom","gnw","metaknight","pit","darkpit","zss","wario","snake","ike","squirtle","ivysaur","charizard","diddykong","lucas","sonic","kingdedede","olimar","lucario","rob","toonlink","wolf","villager","megaman","wiifittrainer","rosalina","littlemac","greninja","palutena","pacman","robin","shulk","bowserjr","duckhunt","ryu","ken","cloud","corrin","bayonetta","inkling","ridley","simon","richter","kingkrool","isabelle","incineroar","plant","joker","hero","banjo","terry","byleth","minmin","steve","sephiroth","pyra","mythra","kazuya","sora","miibrawler","miisword","miigunner"];
 const optionNames = ["rollNotBlue","normalGetupNotBlue", "jumpNotBlue","getupAttackNotBlue"];
+const optionDisplayNames = ["Roll","Normal Getup", "Jump","Getup Attack"]
+;
+
 const TOTAL_SETS = charNames.length;   
 
 // Set this to 0 now, and it will loop with absolutely zero interruption
@@ -140,6 +143,16 @@ export default function LedgeOptions() {
     }
   };
 
+  const playAfterSwitch = () => {
+    if (isPlaying) {
+      isPlayingRef.current = true;
+      setIsPlaying(true);
+      if (animationFrameId.current) cancelAnimationFrame(animationFrameId.current);
+      lastFrameTime.current = performance.now();
+      animationFrameId.current = requestAnimationFrame(playTick);
+    }
+  }
+
   const handleSpeedChange = (e) => {
     const selectedIdx = e.target.value;
     const speedObj = SPEED_OPTIONS[selectedIdx];
@@ -203,7 +216,9 @@ export default function LedgeOptions() {
         // Flag setup complete only when all 4 option sets are baked in memory
         if (loadedCount === optionNames.length) {
           setIsAssetLoading(false);
+          playAfterSwitch()
         }
+        /////play
       };
     });
   }, [currentSetIndex]);
@@ -309,7 +324,7 @@ const toggleFullscreen = () => {
         <div className="filter-reorder-drawer">
           {/* ENHANCED HEADER: Includes an explicit close button mapped to the toggle state */}
           <div className="drawer-header">
-            <span>Arrange Viewports:</span>
+            <span>Ledge options:</span>
             <button 
               className="btn-drawer-close" 
               onClick={() => setShowFilterDrawer(false)}
@@ -320,8 +335,7 @@ const toggleFullscreen = () => {
           </div>
           {variantsOrder.map((variantIdx, currentIndex) => {
             const isVisible = activeVariants.includes(variantIdx);
-            const rawName = optionNames[variantIdx];
-            const cleanLabel = rawName ? rawName.replace(/NotBlue/g, '') : `Variant ${variantIdx + 1}`;
+            const cleanLabel = optionDisplayNames[variantIdx]
 
             return (
               <div key={variantIdx} className="drawer-item-row">
@@ -347,12 +361,12 @@ const toggleFullscreen = () => {
       {/* ANIMATION VIEWPORT GRID CONTAINER */}
       <div className="sprite-grid-container" style={{ opacity: isAssetLoading ? 0.8 : 1 }}>
         {renderedVariants.map((variantIdx) => {
-          const optionName = optionNames[variantIdx];
+          const optionName = optionDisplayNames[variantIdx];
 
           return (
             <div key={variantIdx} className="sprite-card">
               <h4 className="variant-title-inset">
-                {optionName ? optionName.replace(/NotBlue/g, '') : `Variant ${variantIdx + 1}`}
+                {optionName ? optionName : `Variant ${variantIdx + 1}`}
               </h4>
               <canvas 
                 ref={(el) => (displayCanvasRefs.current[variantIdx] = el)} 

@@ -285,7 +285,7 @@
 
 .variant-title-inset {
   position: absolute;
-  top: 4px; left: 4px; z-index: 10; margin: 0;
+  top: 0px; left: 2px; z-index: 10; margin: 0;
   text-transform: capitalize; color: #ffffff;
   font-size: 0.75rem; font-weight: 600;
   letter-spacing: 0.5px;
@@ -305,4 +305,4 @@
 
 /* FULLSCREEN HARDWARE ADAPTATION OVERWRITE */
 .viewer-container:fullscreen { background-color: #12141a; padding: 8px; }
-.viewer-container:fullscreen .sprite-canvas { max-height: calc(100dvh - 80px); }
+.viewer-container:fullscreen .sprite-canvas { max-height: calc(100dvh - 60px); }
