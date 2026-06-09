@@ -1367,7 +1367,7 @@ function MainComponent({homeMode, homeType, darkMode}) {
     }
     const rewindAmount = 5
     const fastForwardAmount = 5
-    document.addEventListener('keydown', function(e) {
+    const keyFun = function(e) {
       if (e.key === 'ArrowLeft' && !ignorePress()) {
         e.preventDefault();
         handleTimestampChange(null, rewindAmount)
@@ -1396,7 +1396,11 @@ function MainComponent({homeMode, homeType, darkMode}) {
         e.preventDefault();
         handleQualitySet()
       }
-    });
+    }
+    document.addEventListener('keydown', keyFun);
+    return () => {
+      document.removeEventListener('keydown', keyFun);
+    };
   }, []);
 
 

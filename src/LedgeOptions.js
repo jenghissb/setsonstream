@@ -235,7 +235,7 @@ export default function LedgeOptions() {
 
   const handleNextFrame = () => {
     if (isAssetLoadingRef.current) return;
-    if (isPlaying) togglePlay();
+    if (isPlayingRef.current) togglePlay();
     if (frameIndexRef.current < currentMaxFramesRef.current - 1) {
       frameIndexRef.current += 1;
       setCurrentFrameIndex(frameIndexRef.current);
@@ -245,7 +245,7 @@ export default function LedgeOptions() {
 
   const handlePrevFrame = () => {
     if (isAssetLoadingRef.current) return;
-    if (isPlaying) togglePlay();
+    if (isPlayingRef.current) togglePlay();
     if (frameIndexRef.current > 0) {
       frameIndexRef.current -= 1;
       setCurrentFrameIndex(frameIndexRef.current);
@@ -274,7 +274,7 @@ export default function LedgeOptions() {
       }
       return false
     }
-    document.addEventListener('keydown', function(e) {
+    const keyFun = function(e) {
       if (e.key === 'ArrowLeft' && !ignorePress()) {
         e.preventDefault();
         handlePrevFrame()
@@ -291,7 +291,11 @@ export default function LedgeOptions() {
         e.preventDefault();
         togglePlay()
       }
-    });
+    }
+    document.addEventListener('keydown', keyFun);
+    return () => {
+      document.removeEventListener('keydown', keyFun);
+    };
   }, []);
 
   const handleCharacterDropdownChange = (e) => {
