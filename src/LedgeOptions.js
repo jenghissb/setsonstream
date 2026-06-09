@@ -24,7 +24,7 @@ const SPEED_OPTIONS = [
 ];
 
 const LOOP_OPTIONS = [
-  { label: 'All', value: 'all' },
+  { label: 'All-f', value: 'all' },
   { label: '12f', value: 12 },
   { label: '10f', value: 10 },
   { label: '8f', value: 8 },
@@ -63,6 +63,7 @@ export default function LedgeOptions() {
   const animationFrameId = useRef(null);
   const lastFrameTime = useRef(0);
   const targetFpsRef = useRef(60);
+  const isAssetLoadingRef = useRef(true);
   
   const loopLimitRef = useRef('all'); 
   const currentMaxFramesRef = useRef(34);
@@ -131,8 +132,8 @@ export default function LedgeOptions() {
   };
 
   const togglePlay = () => {
-    if (isAssetLoading) return; // Prevent playing empty setups
-    if (isPlaying) {
+    if (isAssetLoadingRef.current) return; // Prevent playing empty setups
+    if (isPlayingRef.current) {
       isPlayingRef.current = false;
       setIsPlaying(false);
       if (animationFrameId.current) cancelAnimationFrame(animationFrameId.current);
@@ -173,6 +174,7 @@ export default function LedgeOptions() {
     if (animationFrameId.current) cancelAnimationFrame(animationFrameId.current);
     isPlayingRef.current = false;
     setIsPlaying(false);
+    isAssetLoadingRef.current = true
     setIsAssetLoading(true); // Signal asset download pipeline is processing
 
     const framesForThisChar = NUM_FRAMES_PER_CHAR[currentSetIndex] || 34;
@@ -216,6 +218,7 @@ export default function LedgeOptions() {
         
         // Flag setup complete only when all 4 option sets are baked in memory
         if (loadedCount === optionNames.length) {
+          isAssetLoadingRef.current = false
           setIsAssetLoading(false);
           playAfterSwitch()
         }
@@ -231,8 +234,8 @@ export default function LedgeOptions() {
   }, []);
 
   const handleNextFrame = () => {
-    if (isAssetLoading) return;
-    if (isPlaying) togglePlay(); 
+    if (isAssetLoadingRef.current) return;
+    if (isPlaying) togglePlay();
     if (frameIndexRef.current < currentMaxFramesRef.current - 1) {
       frameIndexRef.current += 1;
       setCurrentFrameIndex(frameIndexRef.current);
@@ -241,7 +244,7 @@ export default function LedgeOptions() {
   };
 
   const handlePrevFrame = () => {
-    if (isAssetLoading) return;
+    if (isAssetLoadingRef.current) return;
     if (isPlaying) togglePlay();
     if (frameIndexRef.current > 0) {
       frameIndexRef.current -= 1;
@@ -261,6 +264,35 @@ export default function LedgeOptions() {
       setCurrentSetIndex((prev) => prev - 1);
     }
   };
+
+  useEffect(() => {
+    const ignoreElemTypes = ["text", "textarea", "email"]
+    const ignorePress = () => {
+      const activeElemType = document.activeElement.type
+      if (activeElemType && ignoreElemTypes.includes(activeElemType)) {
+        return true
+      }
+      return false
+    }
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'ArrowLeft' && !ignorePress()) {
+        e.preventDefault();
+        handlePrevFrame()
+      } else if (e.key === 'ArrowRight' && !ignorePress()) {
+        e.preventDefault();
+        handleNextFrame()
+      } else if (e.key === ',' && !ignorePress()) {
+        e.preventDefault();
+        handlePrevSet()
+      } else if (e.key === '.' && !ignorePress()) {
+        e.preventDefault();
+        handleNextSet()
+      } else if (e.key === ' ' && !ignorePress()) {
+        e.preventDefault();
+        togglePlay()
+      }
+    });
+  }, []);
 
   const handleCharacterDropdownChange = (e) => {
     setCurrentSetIndex(parseInt(e.target.value, 10));
