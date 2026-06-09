@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/give-orange-me-weekly-3/set/103880447/</loc>
-  <lastmod>2026-06-08T23:27:52.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/monday-night-melee-502-rut-s-revenge/set/103892812/</loc>
+  <lastmod>2026-06-09T04:19:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/920159/image-ca15446da88828991da9bac85ae361fc.png
+    </video:thumbnail_loc>
+    <video:title>
+      FX | Fury vs Frame1 | morgan from 8 to 11, Monday Night Melee 502 - Rut&apos;s Revenge! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FX | Fury vs Frame1 | morgan from 8 to 11 in Grand Final of Monday Night Melee 502 - Rut&apos;s Revenge!, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=fxgames_gg&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>987</video:duration>
+    <video:publication_date>2026-06-09T04:19:20.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2026-06-17T04:19:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/give-orange-me-weekly-3/set/103880417/</loc>
+  <lastmod>2026-06-09T00:41:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/920186/image-4e8e5aaf4e91efd9b2a64bea4f9bdf5b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Drizzy vs Eastea, Give Orange Me Weekly #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Drizzy vs Eastea in Grand Final of Give Orange Me Weekly #3, streamed by macerjones
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2791989038&amp;t=2h45m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>919</video:duration>
+    <video:publication_date>2026-06-09T00:00:00.000Z</video:publication_date>
+    <video:uploader>macerjones</video:uploader>
+    <video:expiration_date>2026-06-17T00:00:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/give-orange-me-weekly-3/set/103880447/</loc>
+  <lastmod>2026-06-09T00:10:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2791989038&amp;t=2h13m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2182</video:duration>
+    <video:duration>1051</video:duration>
     <video:publication_date>2026-06-08T23:27:52.000Z</video:publication_date>
     <video:uploader>macerjones</video:uploader>
     <video:expiration_date>2026-06-16T23:27:52.000Z</video:expiration_date>
@@ -14374,30 +14422,6 @@
     <video:publication_date>2026-05-08T01:14:05.000Z</video:publication_date>
     <video:uploader>BaltimoreMelee</video:uploader>
     <video:expiration_date>2026-05-16T01:14:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bmw-167-melen-s-epic-67-day/set/102610528/</loc>
-  <lastmod>2026-05-08T01:20:20.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909045/image-4ea233d5531aacae53008ba133c2a972.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kush Messiah vs Cheesepuff, BMW #167: Melen&apos;s Epic 67 Day - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kush Messiah vs Cheesepuff in Winners Round 2 of BMW #167: Melen&apos;s Epic 67 Day, streamed by BaltimoreMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2766713608&amp;t=0h13m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>798</video:duration>
-    <video:publication_date>2026-05-08T00:48:12.000Z</video:publication_date>
-    <video:uploader>BaltimoreMelee</video:uploader>
-    <video:expiration_date>2026-05-16T00:48:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
