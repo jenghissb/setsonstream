@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/teksmash-48/set/103898682/</loc>
+  <lastmod>2026-06-09T16:45:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/920240/image-60500c8ea8468cd988fa5bba6313883a.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Eclipse vs JES | Rαρh(JES | R alpha rho h), TekSmash #48 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Eclipse vs JES | Rαρh(JES | R alpha rho h) in Winners Round 1 of TekSmash #48, streamed by teamaquilaeasso
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2792571853&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1331</video:duration>
+    <video:publication_date>2026-06-09T16:18:17.000Z</video:publication_date>
+    <video:uploader>teamaquilaeasso</video:uploader>
+    <video:expiration_date>2026-06-17T16:18:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-270/set/103897299/</loc>
   <lastmod>2026-06-09T13:58:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-05-29T17:52:32.000Z</video:publication_date>
     <video:uploader>SmashStrasbourg</video:uploader>
     <video:expiration_date>2026-06-06T17:52:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pyro-series-ninkasi-edition-3/set/103454897/</loc>
-  <lastmod>2026-05-29T18:20:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/907931/image-2e090d03da470946cc522918f5aa79fb.png
-    </video:thumbnail_loc>
-    <video:title>
-      HsR | Nexus vs Threllox, Pyro Series - Ninkasi Edition 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HsR | Nexus vs Threllox in Winners Round 2 of Pyro Series - Ninkasi Edition 3, streamed by rocalys_esport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2783795946&amp;t=0h40m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1264</video:duration>
-    <video:publication_date>2026-05-29T17:50:52.000Z</video:publication_date>
-    <video:uploader>rocalys_esport</video:uploader>
-    <video:expiration_date>2026-06-06T17:50:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
