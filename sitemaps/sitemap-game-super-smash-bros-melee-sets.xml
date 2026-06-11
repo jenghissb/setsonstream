@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-191-bopdx/set/103948532/</loc>
+  <lastmod>2026-06-11T05:50:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/920907/image-0e3cb6d6b103de9b13f5b3c631d57062.png
+    </video:thumbnail_loc>
+    <video:title>
+      AP vs F5 | God&apos;s Only Son, Adam’s Smash Series #191: BoPDX - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AP vs F5 | God&apos;s Only Son in Losers Final of Adam’s Smash Series #191: BoPDX, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2793785473&amp;t=3h26m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1063</video:duration>
+    <video:publication_date>2026-06-11T05:20:43.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2026-06-19T05:20:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-191-bopdx/set/103948402/</loc>
-  <lastmod>2026-06-11T04:46:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-11T05:22:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2793785473&amp;t=2h52m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1023</video:duration>
+    <video:duration>613</video:duration>
     <video:publication_date>2026-06-11T04:46:02.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2026-06-19T04:46:02.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-08T02:46:12.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-05-16T02:46:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/dmgc-smash-bros-local-219/set/102613122/</loc>
-  <lastmod>2026-05-08T03:22:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910172/image-5033e10ca6c70610737aff743faba751.png
-    </video:thumbnail_loc>
-    <video:title>
-      Maple vs ΘΔ | W_NDI(Theta Delta | W_NDI), DMGC Smash Bros Local #219 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Maple vs ΘΔ | W_NDI(Theta Delta | W_NDI) in Losers Semi-Final of DMGC Smash Bros Local #219, streamed by gdubsmp4
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2766676646&amp;t=2h50m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1013</video:duration>
-    <video:publication_date>2026-05-08T02:37:22.000Z</video:publication_date>
-    <video:uploader>gdubsmp4</video:uploader>
-    <video:expiration_date>2026-05-16T02:37:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
