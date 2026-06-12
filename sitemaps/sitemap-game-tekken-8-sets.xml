@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-223-tekken-8-weekly/set/103988365/</loc>
+  <lastmod>2026-06-12T06:04:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/920967/image-378186663258bb3f46650ba170dea56d.png
+    </video:thumbnail_loc>
+    <video:title>
+      WHATZIT TOOYA vs ONi | Joi, Tech City Tekken #223 - Tekken 8 Weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WHATZIT TOOYA vs ONi | Joi in Winners Quarter-Final of Tech City Tekken #223 - Tekken 8 Weekly, streamed by CapsuleEntertainment
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2794649866&amp;t=1h46m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1096</video:duration>
+    <video:publication_date>2026-06-12T06:04:40.000Z</video:publication_date>
+    <video:uploader>CapsuleEntertainment</video:uploader>
+    <video:expiration_date>2026-06-20T06:04:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-37/set/103964845/</loc>
   <lastmod>2026-06-11T20:07:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-14T01:32:57.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-05-22T01:32:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/showdown-93/set/102832106/</loc>
-  <lastmod>2026-05-14T02:10:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910161/image-630e3e2cadb25ddfe7cd7b41fe200019.png
-    </video:thumbnail_loc>
-    <video:title>
-      SLC | The Moonsmith vs SLC | Gremlin, Showdown #93 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SLC | The Moonsmith vs SLC | Gremlin in Grand Final of Showdown #93, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2771382241&amp;t=1h15m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1292</video:duration>
-    <video:publication_date>2026-05-14T01:26:25.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2026-05-22T01:26:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

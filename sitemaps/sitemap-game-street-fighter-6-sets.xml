@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-211-norcal-street-fighter-6-weekly/set/103986289/</loc>
+  <lastmod>2026-06-12T05:51:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/921629/image-2b3244c6489e8a95bb773e374bc55db5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      HLG | LouisCampbell vs MAD | CoolWip, Guildhouse Fighters 211 - Norcal Street Fighter 6 weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HLG | LouisCampbell vs MAD | CoolWip in Losers Round 5 of Guildhouse Fighters 211 - Norcal Street Fighter 6 weekly, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2794612556&amp;t=0h48m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>512</video:duration>
+    <video:publication_date>2026-06-12T03:53:42.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-06-20T03:53:42.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tol-thursday-night-throwdown-104/set/103976160/</loc>
   <lastmod>2026-06-12T00:46:34.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-11T00:45:00.000Z</video:publication_date>
     <video:uploader>aozaru9</video:uploader>
     <video:expiration_date>2026-05-19T00:45:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-tournament-12/set/102751144/</loc>
-  <lastmod>2026-05-11T00:50:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904348/image-e8bcb1c20bce4acd4ba6971b27bab98f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      360 | Horaky vs EVG | La_grasa01, McDonald´s Tournament #12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 360 | Horaky vs EVG | La_grasa01 in Losers Round 5 of McDonald´s Tournament #12, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/ZN284WYClVw?start=10014s
-    </video:player_loc>
-    <video:duration>285</video:duration>
-    <video:publication_date>2026-05-10T23:58:13.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
-    <video:expiration_date>2026-05-18T23:58:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
