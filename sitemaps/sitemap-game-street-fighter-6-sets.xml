@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tol-thursday-night-throwdown-104/set/103976160/</loc>
+  <lastmod>2026-06-12T00:46:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/914840/image-50224a5dfc97f65f3ab7bf425c5b04b8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tough Crowd | bre4d_ vs romanjelly, TOL Thursday Night Throwdown #104 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tough Crowd | bre4d_ vs romanjelly in Winners Round 1 of TOL Thursday Night Throwdown #104, streamed by tol_gaming_lounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2794485022&amp;t=0h4m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>554</video:duration>
+    <video:publication_date>2026-06-12T00:05:14.000Z</video:publication_date>
+    <video:uploader>tol_gaming_lounge</video:uploader>
+    <video:expiration_date>2026-06-20T00:05:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/le-dojo-club-80/set/103965260/</loc>
   <lastmod>2026-06-11T19:28:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-10T23:58:13.000Z</video:publication_date>
     <video:uploader>BlizzStars</video:uploader>
     <video:expiration_date>2026-05-18T23:58:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/mcdonald-s-tournament-12/set/102751021/</loc>
-  <lastmod>2026-05-11T00:01:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904348/image-e8bcb1c20bce4acd4ba6971b27bab98f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      KB | Star Platinum vs 360 | Horaky, McDonald´s Tournament #12 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch KB | Star Platinum vs 360 | Horaky in Winners Quarter-Final of McDonald´s Tournament #12, streamed by BlizzStars
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/ZN284WYClVw?start=8567s
-    </video:player_loc>
-    <video:duration>818</video:duration>
-    <video:publication_date>2026-05-10T23:34:06.000Z</video:publication_date>
-    <video:uploader>BlizzStars</video:uploader>
-    <video:expiration_date>2026-05-18T23:34:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
