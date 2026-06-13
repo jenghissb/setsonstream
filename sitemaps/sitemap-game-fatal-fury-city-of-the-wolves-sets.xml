@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/d-i-y-2026/set/104131158/</loc>
+  <lastmod>2026-06-13T18:54:43.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873804/image-6955d95401c24e9db5dffaee68ac46ad.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jim_Nasium vs skeme 237, D.I.Y 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jim_Nasium vs skeme 237 in Winners Semi-Final of D.I.Y 2026, streamed by diy_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795766864&amp;t=2h55m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>377</video:duration>
+    <video:publication_date>2026-06-13T18:54:43.000Z</video:publication_date>
+    <video:uploader>diy_fgc</video:uploader>
+    <video:expiration_date>2026-06-21T18:54:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/tretinha-curitiba-junho-2026/set/103855164/</loc>
   <lastmod>2026-06-07T22:34:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-03-01T07:53:00.000Z</video:publication_date>
     <video:uploader>JustFrameMX</video:uploader>
     <video:expiration_date>2026-03-09T07:53:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/cfc-aniversario-2026/set/99937156/</loc>
-  <lastmod>2026-03-01T08:00:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884972/image-a5da92e780d778c7760cb87efc504b50.png
-    </video:thumbnail_loc>
-    <video:title>
-      NAVI | | DarkAngel vs AR NV | EL Dogor, CFC ANIVERSARIO 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NAVI | | DarkAngel vs AR NV | EL Dogor in Losers Final of CFC ANIVERSARIO 2026, streamed by JustFrameMX
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2710739663&amp;t=2h43m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>432</video:duration>
-    <video:publication_date>2026-03-01T07:45:33.000Z</video:publication_date>
-    <video:uploader>JustFrameMX</video:uploader>
-    <video:expiration_date>2026-03-09T07:45:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
