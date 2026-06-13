@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/secret-labs-az-june-2026/set/104148201/</loc>
+  <lastmod>2026-06-13T22:34:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911208/image-4f65fda2df393e983ceaa2ad92399977.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Phantaku vs MinGG, Secret Labs AZ June 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Phantaku vs MinGG in Winners Round 2 of Secret Labs AZ June 2026, streamed by TheXButton
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795946844&amp;t=2h30m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>867</video:duration>
+    <video:publication_date>2026-06-13T22:34:45.000Z</video:publication_date>
+    <video:uploader>TheXButton</video:uploader>
+    <video:expiration_date>2026-06-21T22:34:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/side-seven-skirmish-38/set/103944394/</loc>
   <lastmod>2026-06-11T03:43:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-09T13:38:56.000Z</video:publication_date>
     <video:uploader>AlirezaFGC</video:uploader>
     <video:expiration_date>2026-05-17T13:38:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sweetlake-shimmy-25-hosted-by-gamenest/set/102667281/</loc>
-  <lastmod>2026-05-09T13:44:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905061/image-b92d561015c13f05c87c80e975af1d35.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dildry vs BLADE | ZF | Rodo, Sweetlake Shimmy #25 Hosted by Gamenest - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dildry vs BLADE | ZF | Rodo in Losers Quarter-Final of Sweetlake Shimmy #25 Hosted by Gamenest, streamed by AlirezaFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767791383&amp;t=2h40m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1121</video:duration>
-    <video:publication_date>2026-05-09T13:18:57.000Z</video:publication_date>
-    <video:uploader>AlirezaFGC</video:uploader>
-    <video:expiration_date>2026-05-17T13:18:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
