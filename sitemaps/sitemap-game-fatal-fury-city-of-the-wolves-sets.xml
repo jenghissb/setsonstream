@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/d-i-y-2026/set/104131174/</loc>
-  <lastmod>2026-06-13T19:43:29.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/chi-monthlies-june-jawbreaker-2026/set/104141792/</loc>
+  <lastmod>2026-06-13T21:40:15.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://setsonstream.tv/logoOg.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bomb vs HologramMikeRoss, Chi Monthlies- June Jawbreaker 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bomb vs HologramMikeRoss in Losers Semi-Final of Chi Monthlies- June Jawbreaker 2026, streamed by willenglishiv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=willenglishiv&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>388</video:duration>
+    <video:publication_date>2026-06-13T21:40:15.000Z</video:publication_date>
+    <video:uploader>willenglishiv</video:uploader>
+    <video:expiration_date>2026-06-21T21:40:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/d-i-y-2026/set/104131174/</loc>
+  <lastmod>2026-06-13T20:26:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2795766864&amp;t=3h44m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2185</video:duration>
+    <video:duration>612</video:duration>
     <video:publication_date>2026-06-13T19:43:29.000Z</video:publication_date>
     <video:uploader>diy_fgc</video:uploader>
     <video:expiration_date>2026-06-21T19:43:29.000Z</video:expiration_date>

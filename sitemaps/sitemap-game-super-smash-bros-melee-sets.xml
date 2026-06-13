@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stockyard-revival-350-pot-bonus/set/104133140/</loc>
-  <lastmod>2026-06-13T19:41:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stockyard-revival-350-pot-bonus/set/104118912/</loc>
+  <lastmod>2026-06-13T21:08:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896325/image-1f013be3c791c41bee5fa90595c0f887.png
+    </video:thumbnail_loc>
+    <video:title>
+      512 | Fleskore vs PIP | Delzoun, Stockyard Revival ($350 Pot Bonus) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 512 | Fleskore vs PIP | Delzoun in Winners Semi-Final of Stockyard Revival ($350 Pot Bonus), streamed by echelonmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795839989&amp;t=3h22m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2298</video:duration>
+    <video:publication_date>2026-06-13T21:08:24.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-06-21T21:08:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stockyard-revival-350-pot-bonus/set/104133140/</loc>
+  <lastmod>2026-06-13T20:32:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2795839989&amp;t=1h54m46s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2333</video:duration>
+    <video:duration>936</video:duration>
     <video:publication_date>2026-06-13T19:41:01.000Z</video:publication_date>
     <video:uploader>echelonmelee</video:uploader>
     <video:expiration_date>2026-06-21T19:41:01.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-09T02:17:48.000Z</video:publication_date>
     <video:uploader>sbumelee</video:uploader>
     <video:expiration_date>2026-05-17T02:17:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sbu-wolfie-wars-70/set/102639011/</loc>
-  <lastmod>2026-05-09T02:31:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910560/image-cc8da78cb0b4120178b25916a6336303.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DrDannyDrizzle vs Swaghetti, SBU Wolfie Wars 70 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DrDannyDrizzle vs Swaghetti in Losers Semi-Final of SBU Wolfie Wars 70, streamed by sbumelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767442279&amp;t=2h44m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1040</video:duration>
-    <video:publication_date>2026-05-09T02:00:17.000Z</video:publication_date>
-    <video:uploader>sbumelee</video:uploader>
-    <video:expiration_date>2026-05-17T02:00:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
