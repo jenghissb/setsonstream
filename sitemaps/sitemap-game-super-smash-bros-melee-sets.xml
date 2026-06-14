@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stockyard-revival-350-pot-bonus/set/104160158/</loc>
+  <lastmod>2026-06-14T00:24:51.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896325/image-1f013be3c791c41bee5fa90595c0f887.png
+    </video:thumbnail_loc>
+    <video:title>
+      BrockoSpotify | sethibuns vs Frame1 | morgan from 8 to 11, Stockyard Revival ($350 Pot Bonus) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BrockoSpotify | sethibuns vs Frame1 | morgan from 8 to 11 in Winners Semi-Final of Stockyard Revival ($350 Pot Bonus), streamed by echelonmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795839989&amp;t=6h38m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-06-14T00:24:51.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-06-22T00:24:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stockyard-revival-350-pot-bonus/set/104118915/</loc>
   <lastmod>2026-06-13T23:53:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-09T03:27:29.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-05-17T03:27:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-13/set/102653899/</loc>
-  <lastmod>2026-05-09T03:57:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909167/image-7e6964ea3c9488cad63a2a771fcfd614.png
-    </video:thumbnail_loc>
-    <video:title>
-      Brutalrattle vs MrG, Kastle Smashers 13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Brutalrattle vs MrG in Winners Semi-Final of Kastle Smashers 13, streamed by NorCalMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767593332&amp;t=0h42m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1093</video:duration>
-    <video:publication_date>2026-05-09T03:27:13.000Z</video:publication_date>
-    <video:uploader>NorCalMelee</video:uploader>
-    <video:expiration_date>2026-05-17T03:27:13.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/seaside-slam-6/set/104141235/</loc>
+  <lastmod>2026-06-14T04:32:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/912938/image-dbf1b8df3a9fe26e7fd9a1cf48d90ccb.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dr1ftwood vs Dubby | Donut Lord, Seaside Slam #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dr1ftwood vs Dubby | Donut Lord in Grand Final of Seaside Slam #6, streamed by BellinghamBeatdown
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2796099737&amp;t=0h22m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1244</video:duration>
+    <video:publication_date>2026-06-14T00:34:46.000Z</video:publication_date>
+    <video:uploader>BellinghamBeatdown</video:uploader>
+    <video:expiration_date>2026-06-22T00:34:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-clash-31/set/104143211/</loc>
   <lastmod>2026-06-13T22:44:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-13T03:46:19.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-05-21T03:46:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-24-biweekly-fighting-game-tournament-los-angeles/set/102806541/</loc>
-  <lastmod>2026-05-13T03:57:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909557/image-835db840b5391b135410d64f57f33a32.png
-    </video:thumbnail_loc>
-    <video:title>
-      SALT CITY | KrisRon vs jobobobo, DOWN BACK TUESDAYS @ MAMA LION #24 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SALT CITY | KrisRon vs jobobobo in Winners Round 1 of DOWN BACK TUESDAYS @ MAMA LION #24 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2770725969&amp;t=0h15m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>595</video:duration>
-    <video:publication_date>2026-05-13T03:24:18.000Z</video:publication_date>
-    <video:uploader>DownBackClub</video:uploader>
-    <video:expiration_date>2026-05-21T03:24:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

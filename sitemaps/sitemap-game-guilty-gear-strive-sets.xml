@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/summer-fever/set/104156259/</loc>
+  <lastmod>2026-06-14T04:21:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888308/image-c89db9b836596ef99294c47339e450df.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pk | Yandere vs August Cross, Summer Fever - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pk | Yandere vs August Cross in Winners Semi-Final of Summer Fever, streamed by FGL Events, LLC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/TomZ_oOO1Fw?start=21743s
+    </video:player_loc>
+    <video:duration>953</video:duration>
+    <video:publication_date>2026-06-14T00:36:19.000Z</video:publication_date>
+    <video:uploader>FGL Events, LLC</video:uploader>
+    <video:expiration_date>2026-06-22T00:36:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/secret-labs-az-june-2026/set/104148267/</loc>
-  <lastmod>2026-06-13T23:52:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-14T00:47:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2795946844&amp;t=3h48m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>728</video:duration>
+    <video:duration>449</video:duration>
     <video:publication_date>2026-06-13T23:52:56.000Z</video:publication_date>
     <video:uploader>TheXButton</video:uploader>
     <video:expiration_date>2026-06-21T23:52:56.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-09T17:55:46.000Z</video:publication_date>
     <video:uploader>RetroRevivalFGC2</video:uploader>
     <video:expiration_date>2026-05-17T17:55:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/retro-revival-monthly-05-09-26/set/102678178/</loc>
-  <lastmod>2026-05-09T18:03:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904601/image-943c1033258a4d3880e475a1cc390454.png
-    </video:thumbnail_loc>
-    <video:title>
-      Beesto vs packet, Retro Revival Monthly 05/09/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Beesto vs packet in Losers Semi-Final of Retro Revival Monthly 05/09/26, streamed by RetroRevivalFGC2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768031028&amp;t=0h2m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>792</video:duration>
-    <video:publication_date>2026-05-09T17:36:15.000Z</video:publication_date>
-    <video:uploader>RetroRevivalFGC2</video:uploader>
-    <video:expiration_date>2026-05-17T17:36:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
