@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/collisions-45-are-you-a-fighter/set/104193191/</loc>
-  <lastmod>2026-06-14T19:34:56.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/collisions-45-are-you-a-fighter/set/104193196/</loc>
+  <lastmod>2026-06-14T20:32:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/916668/image-d3f7dc87ad021a24d5f147de0d875e70.png
+    </video:thumbnail_loc>
+    <video:title>
+      Drny vs COL | John_Rubicon, Collisions 45 || Are You a Fighter? - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Drny vs COL | John_Rubicon in Winners Final of Collisions 45 || Are You a Fighter?, streamed by collisionsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2796699995&amp;t=1h35m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2391</video:duration>
+    <video:publication_date>2026-06-14T20:32:55.000Z</video:publication_date>
+    <video:uploader>collisionsfgc</video:uploader>
+    <video:expiration_date>2026-06-22T20:32:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/collisions-45-are-you-a-fighter/set/104193191/</loc>
+  <lastmod>2026-06-14T20:37:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2796699995&amp;t=0h37m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1472</video:duration>
+    <video:duration>2979</video:duration>
     <video:publication_date>2026-06-14T19:34:56.000Z</video:publication_date>
     <video:uploader>collisionsfgc</video:uploader>
     <video:expiration_date>2026-06-22T19:34:56.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-16T03:13:47.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-05-24T03:13:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/balance-patch-t8-season-3-week-7/set/102898183/</loc>
-  <lastmod>2026-05-16T05:36:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/912508/image-e82808b9de249bb4d298d6c941057209.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bone Figure vs OA | TennoIX, Balance Patch T8 - Season 3 - Week 7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bone Figure vs OA | TennoIX in Grand Final of Balance Patch T8 - Season 3 - Week 7, streamed by wheel___
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772999954&amp;t=3h17m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-05-16T03:13:29.000Z</video:publication_date>
-    <video:uploader>wheel___</video:uploader>
-    <video:expiration_date>2026-05-24T03:13:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

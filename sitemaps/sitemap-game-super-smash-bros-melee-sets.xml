@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/undiscovered-realm-comic-con-2026/set/104181653/</loc>
-  <lastmod>2026-06-14T18:02:19.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/undiscovered-realm-comic-con-2026/set/104193076/</loc>
+  <lastmod>2026-06-14T20:37:29.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/819889/image-ea1afb226a6a0bb7c45faef2c58f7bef.png
+    </video:thumbnail_loc>
+    <video:title>
+      DPD vs Loagns Friend | Zachhhh, Undiscovered Realm Comic Con 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DPD vs Loagns Friend | Zachhhh in Losers Quarter-Final of Undiscovered Realm Comic Con 2026, streamed by smashchester
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2796589784&amp;t=4h5m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2117</video:duration>
+    <video:publication_date>2026-06-14T20:37:29.000Z</video:publication_date>
+    <video:uploader>smashchester</video:uploader>
+    <video:expiration_date>2026-06-22T20:37:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/undiscovered-realm-comic-con-2026/set/104181653/</loc>
+  <lastmod>2026-06-14T20:07:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2796589784&amp;t=1h30m23s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
+    <video:duration>1405</video:duration>
     <video:publication_date>2026-06-14T18:02:19.000Z</video:publication_date>
     <video:uploader>smashchester</video:uploader>
     <video:expiration_date>2026-06-22T18:02:19.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-09T03:46:11.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-05-17T03:46:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-56/set/102651109/</loc>
-  <lastmod>2026-05-09T04:49:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908587/image-6e87f7c10bc30a4e8135229fdcc1760f.png
-    </video:thumbnail_loc>
-    <video:title>
-      psy-phy vs Jbags, The Guild Trials 56 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch psy-phy vs Jbags in Losers Semi-Final of The Guild Trials 56, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767526370&amp;t=2h33m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1496</video:duration>
-    <video:publication_date>2026-05-09T03:43:38.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-05-17T03:43:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
