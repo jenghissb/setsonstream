@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-31/set/104144768/</loc>
+  <lastmod>2026-06-13T23:32:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/910940/image-7ac04f1a6b14114498d6442fa71d3fab.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      missinglynk vs FG@UCI | pax, SoCal Colosseum Clash #31 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch missinglynk vs FG@UCI | pax in Losers Semi-Final of SoCal Colosseum Clash #31, streamed by SoCalColosseum3
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795982078&amp;t=1h43m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>818</video:duration>
+    <video:publication_date>2026-06-13T22:41:03.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum3</video:uploader>
+    <video:expiration_date>2026-06-21T22:41:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-31/set/104144748/</loc>
   <lastmod>2026-06-13T22:07:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-03-29T22:57:20.000Z</video:publication_date>
     <video:uploader>bifuteki</video:uploader>
     <video:expiration_date>2026-04-06T22:57:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/texas-showdown-2026/set/101030630/</loc>
-  <lastmod>2026-03-29T23:04:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/797131/image-34e3631cb5c9a2445eafed3cd989c4f0.png
-    </video:thumbnail_loc>
-    <video:title>
-      DEUS | Incendiate vs BlueSkyGuyBSG, Texas Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DEUS | Incendiate vs BlueSkyGuyBSG in Winners Final of Texas Showdown 2026, streamed by bifuteki
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2734777353&amp;t=7h55m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1125</video:duration>
-    <video:publication_date>2026-03-29T22:24:41.000Z</video:publication_date>
-    <video:uploader>bifuteki</video:uploader>
-    <video:expiration_date>2026-04-06T22:24:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

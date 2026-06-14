@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stockyard-revival-350-pot-bonus/set/104118915/</loc>
+  <lastmod>2026-06-13T23:53:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896325/image-1f013be3c791c41bee5fa90595c0f887.png
+    </video:thumbnail_loc>
+    <video:title>
+      G00se vs Llama Pajama, Stockyard Revival ($350 Pot Bonus) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch G00se vs Llama Pajama in Grand Final of Stockyard Revival ($350 Pot Bonus), streamed by echelonmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795839989&amp;t=5h11m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1003</video:duration>
+    <video:publication_date>2026-06-13T22:57:25.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-06-21T22:57:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stockyard-revival-350-pot-bonus/set/104118929/</loc>
-  <lastmod>2026-06-13T22:27:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-13T23:12:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2795839989&amp;t=4h40m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1327</video:duration>
+    <video:duration>627</video:duration>
     <video:publication_date>2026-06-13T22:27:05.000Z</video:publication_date>
     <video:uploader>echelonmelee</video:uploader>
     <video:expiration_date>2026-06-21T22:27:05.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-09T03:27:13.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-05-17T03:27:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wwu-spring-2026-6/set/102654417/</loc>
-  <lastmod>2026-05-09T03:57:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909614/image-c945d88a266124696c156b39d7d6a175.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      GQ | Jen vs Dinkerbob, WWU Spring 2026 #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GQ | Jen vs Dinkerbob in Winners Semi-Final of WWU Spring 2026 #6, streamed by marioman_909
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767566458&amp;t=0h57m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1820</video:duration>
-    <video:publication_date>2026-05-09T03:02:47.000Z</video:publication_date>
-    <video:uploader>marioman_909</video:uploader>
-    <video:expiration_date>2026-05-17T03:02:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

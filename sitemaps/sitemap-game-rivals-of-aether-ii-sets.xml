@@ -1,9 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/face-the-elements/set/104145267/</loc>
-  <lastmod>2026-06-13T22:17:09.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/amsidian-rush-3/set/104155466/</loc>
+  <lastmod>2026-06-13T23:36:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/917734/image-deaa2bedddca73b8ceb4da07429e56dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Senseovernet vs SMV | abdaz, Amsidian Rush #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Senseovernet vs SMV | abdaz in Winners Round 1 of Amsidian Rush #3, streamed by KevinTube Smash VODs
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/hU-kO1ZGXzI?start=2864s
+    </video:player_loc>
+    <video:duration>1689</video:duration>
+    <video:publication_date>2026-06-13T23:36:55.000Z</video:publication_date>
+    <video:uploader>KevinTube Smash VODs</video:uploader>
+    <video:expiration_date>2026-06-21T23:36:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ggs-only-3/set/104139695/</loc>
+  <lastmod>2026-06-13T23:45:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911541/image-13e24a8ad82ffcc09b4efa9223d6978e.png
+    </video:thumbnail_loc>
+    <video:title>
+      F4keNotR3al vs Necroflyer, GGs Only #3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch F4keNotR3al vs Necroflyer in Losers Quarter-Final of GGs Only #3, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795947400&amp;t=2h58m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>717</video:duration>
+    <video:publication_date>2026-06-13T23:03:52.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2026-06-21T23:03:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/face-the-elements/set/104145272/</loc>
+  <lastmod>2026-06-13T23:45:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889106/image-8f0d270d95e18e721b088d30a3553574.png
+    </video:thumbnail_loc>
+    <video:title>
+      Doc vs Edmund, Face The Elements - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Doc vs Edmund in Losers Final of Face The Elements, streamed by GuildhallSFL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795835946&amp;t=5h23m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>629</video:duration>
+    <video:publication_date>2026-06-13T23:03:27.000Z</video:publication_date>
+    <video:uploader>GuildhallSFL</video:uploader>
+    <video:expiration_date>2026-06-21T23:03:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/summer-fever/set/104142954/</loc>
+  <lastmod>2026-06-13T23:45:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/888308/image-c89db9b836596ef99294c47339e450df.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pippu vs BKE | Mar, Summer Fever - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pippu vs BKE | Mar in Losers Final of Summer Fever, streamed by FGL Events, LLC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/TomZ_oOO1Fw?start=15938s
+    </video:player_loc>
+    <video:duration>815</video:duration>
+    <video:publication_date>2026-06-13T22:59:34.000Z</video:publication_date>
+    <video:uploader>FGL Events, LLC</video:uploader>
+    <video:expiration_date>2026-06-21T22:59:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/face-the-elements/set/104145267/</loc>
+  <lastmod>2026-06-13T23:05:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,40 +114,16 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2795835199&amp;t=4h37m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1923</video:duration>
+    <video:duration>1211</video:duration>
     <video:publication_date>2026-06-13T22:17:09.000Z</video:publication_date>
     <video:uploader>Renzo017</video:uploader>
     <video:expiration_date>2026-06-21T22:17:09.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/face-the-elements/set/104145256/</loc>
-  <lastmod>2026-06-13T22:09:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889106/image-8f0d270d95e18e721b088d30a3553574.png
-    </video:thumbnail_loc>
-    <video:title>
-      Doc vs POOP | Monthu, Face The Elements - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Doc vs POOP | Monthu in Winners Final of Face The Elements, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2795835946&amp;t=4h29m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2354</video:duration>
-    <video:publication_date>2026-06-13T22:09:58.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-06-21T22:09:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ggs-only-3/set/104139663/</loc>
-  <lastmod>2026-06-13T22:16:41.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-13T23:05:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,10 +138,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2795947400&amp;t=2h11m39s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1951</video:duration>
+    <video:duration>1371</video:duration>
     <video:publication_date>2026-06-13T22:16:41.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-06-21T22:16:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/face-the-elements/set/104145256/</loc>
+  <lastmod>2026-06-13T23:05:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889106/image-8f0d270d95e18e721b088d30a3553574.png
+    </video:thumbnail_loc>
+    <video:title>
+      Doc vs POOP | Monthu, Face The Elements - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Doc vs POOP | Monthu in Winners Final of Face The Elements, streamed by GuildhallSFL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2795835946&amp;t=4h29m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>779</video:duration>
+    <video:publication_date>2026-06-13T22:09:58.000Z</video:publication_date>
+    <video:uploader>GuildhallSFL</video:uploader>
+    <video:expiration_date>2026-06-21T22:09:58.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4702,102 +4798,6 @@
     <video:publication_date>2026-05-15T23:27:32.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-05-23T23:27:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-535/set/102891964/</loc>
-  <lastmod>2026-05-15T23:32:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/911050/image-dab5ecfd4eb4d5d5007e2e9a3d4629b8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Punching Bag vs 585Z | Shotglass, Adventure B-Airs #535 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Punching Bag vs 585Z | Shotglass in Winners Quarter-Final of Adventure B-Airs #535, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772956393&amp;t=0h5m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>755</video:duration>
-    <video:publication_date>2026-05-15T23:00:08.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2026-05-23T23:00:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-68/set/102865625/</loc>
-  <lastmod>2026-05-15T03:46:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/911632/image-f81e002676b9090918c747e1d0da9725.png
-    </video:thumbnail_loc>
-    <video:title>
-      Eyeris vs Solid | SilentRain, Wasteland Warriors #68 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Eyeris vs Solid | SilentRain in Losers Quarter-Final of Wasteland Warriors #68, streamed by azrivalsofaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772255105&amp;t=1h27m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1733</video:duration>
-    <video:publication_date>2026-05-15T02:59:02.000Z</video:publication_date>
-    <video:uploader>azrivalsofaether</video:uploader>
-    <video:expiration_date>2026-05-23T02:59:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/solarpowered-34/set/102860616/</loc>
-  <lastmod>2026-05-15T03:17:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/912220/image-4d81ebde394da6ef23618a85153b63fa.png
-    </video:thumbnail_loc>
-    <video:title>
-      nines vs Arrendajo, SOLARPOWERED #34 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch nines vs Arrendajo in Round 5 of SOLARPOWERED #34, streamed by solarpoweredntx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772201283&amp;t=2h17m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1311</video:duration>
-    <video:publication_date>2026-05-15T02:37:57.000Z</video:publication_date>
-    <video:uploader>solarpoweredntx</video:uploader>
-    <video:expiration_date>2026-05-23T02:37:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/solarpowered-34/set/102860630/</loc>
-  <lastmod>2026-05-15T02:46:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/912220/image-4d81ebde394da6ef23618a85153b63fa.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sirius vs C.R.M, SOLARPOWERED #34 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sirius vs C.R.M in Round 4 of SOLARPOWERED #34, streamed by solarpoweredntx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772201283&amp;t=1h39m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>892</video:duration>
-    <video:publication_date>2026-05-15T02:00:02.000Z</video:publication_date>
-    <video:uploader>solarpoweredntx</video:uploader>
-    <video:expiration_date>2026-05-23T02:00:02.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
