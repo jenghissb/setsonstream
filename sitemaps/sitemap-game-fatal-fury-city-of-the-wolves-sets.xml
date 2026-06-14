@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/the-mixup-2026-round-8/set/104185211/</loc>
-  <lastmod>2026-06-14T17:58:35.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/the-mixup-2026-round-8/set/104185215/</loc>
+  <lastmod>2026-06-14T19:08:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868200/image-24b7d5b0d4cbec300bdb11455661b965.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      VIT | H-DOPE vs DFM/PWS | GO1, The MIXUP 2026 - Round 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VIT | H-DOPE vs DFM/PWS | GO1 in Losers Semi-Final of The MIXUP 2026 - Round 8, streamed by Kahikusu
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2796623547&amp;t=1h50m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3087</video:duration>
+    <video:publication_date>2026-06-14T19:08:01.000Z</video:publication_date>
+    <video:uploader>Kahikusu</video:uploader>
+    <video:expiration_date>2026-06-22T19:08:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/the-mixup-2026-round-8/set/104185211/</loc>
+  <lastmod>2026-06-14T19:15:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2796623547&amp;t=0h40m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>844</video:duration>
+    <video:duration>685</video:duration>
     <video:publication_date>2026-06-14T17:58:35.000Z</video:publication_date>
     <video:uploader>Kahikusu</video:uploader>
     <video:expiration_date>2026-06-22T17:58:35.000Z</video:expiration_date>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-03-05T04:04:59.000Z</video:publication_date>
     <video:uploader>MEECHY72</video:uploader>
     <video:expiration_date>2026-03-13T04:04:59.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/side-seven-skirmish-25/set/100051794/</loc>
-  <lastmod>2026-03-05T03:37:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866063/image-c7925f97b51f5b3979c612df1b393f48.png
-    </video:thumbnail_loc>
-    <video:title>
-      ELCG | NaCl vs Bomb, SIDE SEVEN SKIRMISH 25 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ELCG | NaCl vs Bomb in Winners Final of SIDE SEVEN SKIRMISH 25, streamed by MEECHY72
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2714096581&amp;t=0h45m25s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>878</video:duration>
-    <video:publication_date>2026-03-05T03:07:27.000Z</video:publication_date>
-    <video:uploader>MEECHY72</video:uploader>
-    <video:expiration_date>2026-03-13T03:07:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

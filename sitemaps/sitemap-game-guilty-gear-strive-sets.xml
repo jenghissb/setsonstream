@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/d-i-y-2026/set/104181990/</loc>
-  <lastmod>2026-06-14T16:44:15.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/d-i-y-2026/set/104189705/</loc>
+  <lastmod>2026-06-14T19:20:20.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/873804/image-6955d95401c24e9db5dffaee68ac46ad.png
+    </video:thumbnail_loc>
+    <video:title>
+      Fly | NitroNY vs EVIL | KyokuReset, D.I.Y 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Fly | NitroNY vs EVIL | KyokuReset in Winners Semi-Final of D.I.Y 2026, streamed by diy_fgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2796564964&amp;t=3h24m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2348</video:duration>
+    <video:publication_date>2026-06-14T19:20:20.000Z</video:publication_date>
+    <video:uploader>diy_fgc</video:uploader>
+    <video:expiration_date>2026-06-22T19:20:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/d-i-y-2026/set/104181990/</loc>
+  <lastmod>2026-06-14T18:32:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2796586758&amp;t=0h16m53s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
+    <video:duration>1058</video:duration>
     <video:publication_date>2026-06-14T16:44:15.000Z</video:publication_date>
     <video:uploader>houseof3000</video:uploader>
     <video:expiration_date>2026-06-22T16:44:15.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/d-i-y-2026/set/104181992/</loc>
-  <lastmod>2026-06-14T16:44:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-14T18:32:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2796564964&amp;t=0h48m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
+    <video:duration>1406</video:duration>
     <video:publication_date>2026-06-14T16:44:05.000Z</video:publication_date>
     <video:uploader>diy_fgc</video:uploader>
     <video:expiration_date>2026-06-22T16:44:05.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-09T23:11:38.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-05-17T23:11:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/calculated-45/set/102698787/</loc>
-  <lastmod>2026-05-09T23:23:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909205/image-674ee32b42aa90cb36ac0b3d88a2f908.png
-    </video:thumbnail_loc>
-    <video:title>
-      SwimCheesy vs Jeans, Calculated #45 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SwimCheesy vs Jeans in Winners Final of Calculated #45, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768233315&amp;t=0h39m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>805</video:duration>
-    <video:publication_date>2026-05-09T22:46:07.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-05-17T22:46:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
