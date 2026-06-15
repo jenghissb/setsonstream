@@ -105,6 +105,29 @@
   min-width: 0;
 }
 
+.info-drawer {
+  position: absolute;
+  bottom: 48px; 
+  right: 44px;  
+  background: #1e222b;
+  border: 1px solid #2c323f;
+  border-radius: 4px;
+  padding: 8px;
+  padding-top: 0px;
+  z-index: 90;
+  width: max-content;
+  min-width: 180px;
+  max-width: 280px;
+  max-height: calc(100dvh - 80px);
+  /* height: 300px; */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
+  overscroll-behavior: none;
+}
+
 .filter-reorder-drawer {
   position: absolute;
   bottom: 48px; 
@@ -113,19 +136,28 @@
   border: 1px solid #2c323f;
   border-radius: 4px;
   padding: 8px;
+  padding-top: 0px;
   z-index: 90;
   width: max-content;
   min-width: 180px;
   max-width: 280px;
+  max-height: calc(100dvh - 80px);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
   display: flex;
   flex-direction: column;
   gap: 6px;
+  overflow-y: auto;
+  overscroll-behavior: none;
 }
 
 .drawer-header {
+  padding-top: 8px;
   display: flex;
   align-items: center;
+  position: -webkit-sticky;
+  position: sticky;
+  background: #1e222b;
+  top:0px;
   justify-content: space-between; 
   gap: 12px;
   font-size: 11px;
@@ -134,7 +166,7 @@
   font-weight: bold;
   letter-spacing: 0.5px;
   border-bottom: 1px solid #2c323f;
-  padding-bottom: 4px;
+  padding-bottom: 8px;
   margin-bottom: 2px;
 }
 
@@ -150,9 +182,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: color 0.2s, transform 0.2s;
+  transition: color 0.2s, transform 0.02s;
+  transform: scale(1.6)
 }
-.btn-drawer-close:hover { color: #ff4757; transform: scale(1.1); }
+.btn-drawer-close:hover { color: #414952; transform: scale(1.8); }
 .btn-drawer-close:active { transform: scale(0.9); }
 
 .drawer-item-row {
@@ -199,7 +232,7 @@
 }
 
 .btn-ctrl {
-  width: 32px;
+  width: 42px;
   height: 32px;
   font-size: 14px;
   font-weight: 600;
@@ -220,7 +253,10 @@
 .btn-filter { background-color: #2f3542; color: #ffffff; }
 .btn-filter:hover { background-color: #57606f; }
 .btn-filter.active { background-color: #4b6584; box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.6); }
-.btn-fullscreen { background-color: #4b6584; font-size: 13px; }
+.btn-fullscreen { background-color: #4b6584; font-size: 16px; }
+.btn-notes { font-size: 16px; }
+.btn-notes-on { background-color: #576679}
+.btn-info { background-color: #576679; border-radius: 8px; width: 32px; font-size: 14px}
 
 .select-wrapper {
   position: relative;
@@ -292,6 +328,72 @@
   pointer-events: none; white-space: nowrap;
 }
 
+.speed-inset-1 {
+  position: absolute;
+  top: 0px;margin: 0;
+  left: 50%;
+  transform: translateX(-50%); /* Shifts the element back by half its own width */
+  color: #ffffff;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  pointer-events: none;
+  padding: 30dp !important;
+}
+
+
+.speed-inset {
+  position: absolute;
+  /* top: 0px; */
+  margin: 0;
+  /* bottom: 50%; */
+  bottom: 2px;
+  /* left: 50%; */
+  left: 2px;
+  /* right: 45%; */
+  color: #ffffff;
+  
+  /* color: #ffffff; */
+  /* background-color: rgb(100, 80, 80); */
+  font-weight: 500;
+  /* font-size: 0.75rem; */
+  /* font-size: 0.75rem; font-weight: 600; */
+  letter-spacing: 0.5px;
+  /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8); */
+  /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8); */
+  pointer-events: none;
+  padding: 30dp !important;
+}
+
+
+.notes-inset {
+  position: absolute;
+  /* top: 0px; */
+  margin: 0;
+  /* bottom: 50%; */
+  /* bottom: 0%; */
+  bottom: 26px;
+  /* left: 50%; */
+  left: 2px;
+  right: 45%;
+  color: rgb(250, 250, 150);
+  
+  /* color: #ffffff; */
+  /* background-color: rgb(100, 80, 80); */
+  font-weight: 500;
+  font-size: 0.75rem;
+  /* font-size: 0.75rem; font-weight: 600; */
+  letter-spacing: 0.5px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8);
+  /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8); */
+  pointer-events: none;
+  padding: 30dp !important;
+}
+
+
+/* .speed-inset .Slow {
+  background-color: rgb
+
+} */
 
 .viewer-container:fullscreen { background-color: #12141a; padding: 8px; }
 .viewer-container:fullscreen .sprite-canvas { max-height: calc(100dvh - 60px); }
