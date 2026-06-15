@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/knockout-zone-110/set/104219680/</loc>
+  <lastmod>2026-06-15T18:15:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/921788/image-74d93cab90e508b1a0b35f49573540e4.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BGT! vs Graham, KnockOut Zone #110 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BGT! vs Graham in Winners Semi-Final of KnockOut Zone #110, streamed by orbitalgoats
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2797378147&amp;t=0h46m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-06-15T18:15:31.000Z</video:publication_date>
+    <video:uploader>orbitalgoats</video:uploader>
+    <video:expiration_date>2026-06-23T18:15:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-construct-221/set/104192825/</loc>
   <lastmod>2026-06-14T22:47:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-09T12:05:46.000Z</video:publication_date>
     <video:uploader>supersmashdelft</video:uploader>
     <video:expiration_date>2026-05-17T12:05:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kastle-smashers-13/set/102653902/</loc>
-  <lastmod>2026-05-09T05:15:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909167/image-7e6964ea3c9488cad63a2a771fcfd614.png
-    </video:thumbnail_loc>
-    <video:title>
-      Brutalrattle vs darkwizard123, Kastle Smashers 13 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Brutalrattle vs darkwizard123 in Grand Final of Kastle Smashers 13, streamed by NorCalMelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767593332&amp;t=1h57m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1016</video:duration>
-    <video:publication_date>2026-05-09T04:42:29.000Z</video:publication_date>
-    <video:uploader>NorCalMelee</video:uploader>
-    <video:expiration_date>2026-05-17T04:42:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
