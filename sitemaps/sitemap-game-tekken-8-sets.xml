@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-157/set/104270658/</loc>
+  <lastmod>2026-06-17T02:28:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/923388/image-065cf92c56d055e89e29108f8f71d7a4.png
+    </video:thumbnail_loc>
+    <video:title>
+      BES | C-Sticks vs HoG | Penalva, HoG: Dragon #157 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BES | C-Sticks vs HoG | Penalva in Grand Final of HoG: Dragon #157, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2798411916&amp;t=1h39m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1093</video:duration>
+    <video:publication_date>2026-06-17T01:11:49.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-06-25T01:11:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-439/set/104234671/</loc>
   <lastmod>2026-06-16T06:26:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-16T03:43:05.000Z</video:publication_date>
     <video:uploader>unrivaledtournaments</video:uploader>
     <video:expiration_date>2026-05-24T03:43:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-118/set/102911014/</loc>
-  <lastmod>2026-05-16T04:13:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908479/image-4fdb8cab1562f68c9fa5a8d60050eede.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      UF | Demonkingj vs ScorchedEclipse, SoCal Colosseum #118 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UF | Demonkingj vs ScorchedEclipse in Losers Round 3 of SoCal Colosseum #118, streamed by SoCalColosseum
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2773116752&amp;t=1h5m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>715</video:duration>
-    <video:publication_date>2026-05-16T03:38:30.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum</video:uploader>
-    <video:expiration_date>2026-05-24T03:38:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
