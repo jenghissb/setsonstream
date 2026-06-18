@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-120/set/104312400/</loc>
+  <lastmod>2026-06-18T13:12:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/922661/image-f243319e4ece2ec55c4997a8f43ddcb8.png
+    </video:thumbnail_loc>
+    <video:title>
+      鉄人(tetsujin) vs アムール(amuuru), Paradise Cup #120 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 鉄人(tetsujin) vs アムール(amuuru) in Quarter-Final of Paradise Cup #120, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2799527297&amp;t=1h42m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1222</video:duration>
+    <video:publication_date>2026-06-18T12:45:23.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-06-26T12:45:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-120/set/104312360/</loc>
-  <lastmod>2026-06-18T11:55:24.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-18T12:47:51.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2799527297&amp;t=0h52m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2901</video:duration>
+    <video:duration>393</video:duration>
     <video:publication_date>2026-06-18T11:55:24.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-06-26T11:55:24.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-15T00:11:12.000Z</video:publication_date>
     <video:uploader>runthesticks</video:uploader>
     <video:expiration_date>2026-05-23T00:11:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/run-that-back-3/set/102853478/</loc>
-  <lastmod>2026-05-15T00:14:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/911682/image-b67baea4ee756337d921df4aecf2f30c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chris Pancakes vs Big Ziggy, Run That Back #3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chris Pancakes vs Big Ziggy in Winners Final of Run That Back #3, streamed by runthesticks
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772144737&amp;t=0h39m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>601</video:duration>
-    <video:publication_date>2026-05-14T23:42:15.000Z</video:publication_date>
-    <video:uploader>runthesticks</video:uploader>
-    <video:expiration_date>2026-05-22T23:42:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
