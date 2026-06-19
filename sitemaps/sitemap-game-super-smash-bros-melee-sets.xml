@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/front-runners-41/set/104350870/</loc>
+  <lastmod>2026-06-19T20:25:40.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/922160/image-fe4a57258218c72e4b13907a9af10c7b.png
+    </video:thumbnail_loc>
+    <video:title>
+      MagiMagi vs 4Qs | Fred Melee, Front Runners #41 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MagiMagi vs 4Qs | Fred Melee in Winners Semi-Final of Front Runners #41, streamed by PhoenixSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2800569776&amp;t=1h49m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1403</video:duration>
+    <video:publication_date>2026-06-19T20:25:40.000Z</video:publication_date>
+    <video:uploader>PhoenixSmash</video:uploader>
+    <video:expiration_date>2026-06-27T20:25:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-friends-activate-162/set/104337167/</loc>
   <lastmod>2026-06-19T05:07:24.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-10T16:23:29.000Z</video:publication_date>
     <video:uploader>smashwales</video:uploader>
     <video:expiration_date>2026-05-18T16:23:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-valley-after-another/set/102739876/</loc>
-  <lastmod>2026-05-10T16:33:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878815/image-2fe6185474e786665c0b68930ee3a3a1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Polska | TakaNe vs Spooky, One Valley After Another - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Polska | TakaNe vs Spooky in Round 1 of One Valley After Another, streamed by sheikchick
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768652325&amp;t=3h50m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>674</video:duration>
-    <video:publication_date>2026-05-10T16:07:00.000Z</video:publication_date>
-    <video:uploader>sheikchick</video:uploader>
-    <video:expiration_date>2026-05-18T16:07:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
