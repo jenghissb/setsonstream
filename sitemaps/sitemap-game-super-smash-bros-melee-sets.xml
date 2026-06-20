@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stitches-2026-the-patchwork-pre-local/set/104385044/</loc>
-  <lastmod>2026-06-20T00:08:23.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stitches-2026-the-patchwork-pre-local/set/104385046/</loc>
+  <lastmod>2026-06-20T00:33:01.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887896/image-d56af7b770e22770a2b8f07ee2bbb26e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Eggdog | Salt vs MATE | Kalvar, Stitches 2026: The Patchwork Pre-Local - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Eggdog | Salt vs MATE | Kalvar in Winners Final of Stitches 2026: The Patchwork Pre-Local, streamed by BuddBuds2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2800793247&amp;t=0h32m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-06-20T00:33:01.000Z</video:publication_date>
+    <video:uploader>BuddBuds2</video:uploader>
+    <video:expiration_date>2026-06-28T00:33:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/stitches-2026-the-patchwork-pre-local/set/104385044/</loc>
+  <lastmod>2026-06-20T00:44:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2800793247&amp;t=0h7m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>890</video:duration>
+    <video:duration>437</video:duration>
     <video:publication_date>2026-06-20T00:08:23.000Z</video:publication_date>
     <video:uploader>BuddBuds2</video:uploader>
     <video:expiration_date>2026-06-28T00:08:23.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-in-the-dream-chamber-13/set/104386611/</loc>
-  <lastmod>2026-06-20T00:04:16.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-20T00:44:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2800769759&amp;t=0h37m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1137</video:duration>
+    <video:duration>688</video:duration>
     <video:publication_date>2026-06-20T00:04:16.000Z</video:publication_date>
     <video:uploader>neondreamsarcade</video:uploader>
     <video:expiration_date>2026-06-28T00:04:16.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-10T17:18:53.000Z</video:publication_date>
     <video:uploader>sheikchick</video:uploader>
     <video:expiration_date>2026-05-18T17:18:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-valley-after-another/set/102744262/</loc>
-  <lastmod>2026-05-10T17:48:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878815/image-2fe6185474e786665c0b68930ee3a3a1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Ayda Fox vs CASHOUT | Gorillionaire, One Valley After Another - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ayda Fox vs CASHOUT | Gorillionaire in Losers Round 1 of One Valley After Another, streamed by smashwales
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2768702649&amp;t=3h28m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1059</video:duration>
-    <video:publication_date>2026-05-10T17:18:33.000Z</video:publication_date>
-    <video:uploader>smashwales</video:uploader>
-    <video:expiration_date>2026-05-18T17:18:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
