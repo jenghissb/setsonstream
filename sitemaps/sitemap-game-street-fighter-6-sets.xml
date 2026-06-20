@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cheese-league-june-2026/set/104409091/</loc>
+  <lastmod>2026-06-20T08:08:03.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/920571/image-db1687831391b3061c1b2dc321164c90.png
+    </video:thumbnail_loc>
+    <video:title>
+      A.K.I | Moonlight &lt;3 vs Nedjoe, Cheese League June 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch A.K.I | Moonlight &lt;3 vs Nedjoe in Losers Final of Cheese League June 2026, streamed by KPKaiza
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2801024548&amp;t=1h25m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>831</video:duration>
+    <video:publication_date>2026-06-20T08:08:03.000Z</video:publication_date>
+    <video:uploader>KPKaiza</video:uploader>
+    <video:expiration_date>2026-06-28T08:08:03.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/friday-fundies-32-1/set/104385223/</loc>
   <lastmod>2026-06-20T02:45:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-16T00:48:40.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-05-24T00:48:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/up-the-block-130/set/102900070/</loc>
-  <lastmod>2026-05-16T01:24:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910164/image-a853f2b619306ea7646979fc9b518fc7.png
-    </video:thumbnail_loc>
-    <video:title>
-      toomuchdog77 vs ECHT_AdamNshame, UP THE BLOCK #130 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch toomuchdog77 vs ECHT_AdamNshame in Winners Round 1 of UP THE BLOCK #130, streamed by UG_NYC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2773027607&amp;t=0h10m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>705</video:duration>
-    <video:publication_date>2026-05-16T00:42:09.000Z</video:publication_date>
-    <video:uploader>UG_NYC</video:uploader>
-    <video:expiration_date>2026-05-24T00:42:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
