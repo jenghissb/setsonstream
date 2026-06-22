@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/weekly-bamagotchi-138/set/104513811/</loc>
+  <lastmod>2026-06-22T20:42:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/923828/image-9e3ad649b3722ca5ab0ec01a43de7fae.png
+    </video:thumbnail_loc>
+    <video:title>
+      CB | Scyro vs Rat | WeavileStrongestDefender, Weekly Bamagotchi 138 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CB | Scyro vs Rat | WeavileStrongestDefender in Grand Final of Weekly Bamagotchi 138, streamed by ducesport
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2802959899&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1469</video:duration>
+    <video:publication_date>2026-06-22T20:14:46.000Z</video:publication_date>
+    <video:uploader>ducesport</video:uploader>
+    <video:expiration_date>2026-06-30T20:14:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-6-17-26/set/104298654/</loc>
   <lastmod>2026-06-18T00:48:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-15T23:58:40.000Z</video:publication_date>
     <video:uploader>CVCloud9</video:uploader>
     <video:expiration_date>2026-05-23T23:58:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-535/set/102891983/</loc>
-  <lastmod>2026-05-16T00:33:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/911050/image-dab5ecfd4eb4d5d5007e2e9a3d4629b8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Punching Bag vs FS | Jelato, Adventure B-Airs #535 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Punching Bag vs FS | Jelato in Losers Quarter-Final of Adventure B-Airs #535, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772956393&amp;t=0h58m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>951</video:duration>
-    <video:publication_date>2026-05-15T23:53:24.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2026-05-23T23:53:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
