@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/split-neutral-60/set/104581081/</loc>
+  <lastmod>2026-06-25T05:43:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/925133/image-0902361cebf34a8bdcbb77be55f2918c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Genghis Jon vs Kelllyy, Split Neutral #60 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Genghis Jon vs Kelllyy in Losers Final of Split Neutral #60, streamed by seatac_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2804699776&amp;t=3h52m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2782</video:duration>
+    <video:publication_date>2026-06-25T04:53:43.000Z</video:publication_date>
+    <video:uploader>seatac_rivals</video:uploader>
+    <video:expiration_date>2026-07-03T04:53:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/split-neutral-60/set/104577663/</loc>
-  <lastmod>2026-06-25T04:34:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-25T06:39:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2804699776&amp;t=3h33m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>698</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-06-25T04:34:09.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2026-07-03T04:34:09.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-21T01:19:53.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-05-29T01:19:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/gote-rivals-2-and-more-5-20-26/set/103109558/</loc>
-  <lastmod>2026-05-21T01:55:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913985/image-689b0aec003a48f6940de3a913909672.png
-    </video:thumbnail_loc>
-    <video:title>
-      OatmealTime vs GAW | RedShirt, GoTE Rivals 2 and more (5/20/26) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch OatmealTime vs GAW | RedShirt in Losers Final of GoTE Rivals 2 and more (5/20/26), streamed by GamersOnTheEdge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2776964297&amp;t=1h42m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>811</video:duration>
-    <video:publication_date>2026-05-21T01:17:30.000Z</video:publication_date>
-    <video:uploader>GamersOnTheEdge</video:uploader>
-    <video:expiration_date>2026-05-29T01:17:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

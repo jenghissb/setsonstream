@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-228-norcal-ssbu-ggst-gbvsr/set/104580156/</loc>
+  <lastmod>2026-06-25T04:58:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/924482/image-342d266458f8d05cc23fc5ec3111fea3.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      pr*m | Apho vs SJSU | Brone, Guildhouse Weekly 228 - Norcal SSBU, GGST, &amp; GBVSR - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch pr*m | Apho vs SJSU | Brone in Grand Final of Guildhouse Weekly 228 - Norcal SSBU, GGST, &amp; GBVSR, streamed by guildhouse2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2804780744&amp;t=1h37m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>597</video:duration>
+    <video:publication_date>2026-06-25T04:44:09.000Z</video:publication_date>
+    <video:uploader>guildhouse2</video:uploader>
+    <video:expiration_date>2026-07-03T04:44:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-228-norcal-ssbu-ggst-gbvsr/set/104580187/</loc>
-  <lastmod>2026-06-25T04:32:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-25T04:50:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2804780744&amp;t=1h25m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>808</video:duration>
+    <video:duration>699</video:duration>
     <video:publication_date>2026-06-25T04:32:19.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-07-03T04:32:19.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-16T15:01:22.000Z</video:publication_date>
     <video:uploader>Alemeras</video:uploader>
     <video:expiration_date>2026-05-24T15:01:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-118/set/102910036/</loc>
-  <lastmod>2026-05-16T05:50:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908479/image-4fdb8cab1562f68c9fa5a8d60050eede.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Garlic Bread vs +edge | Lēʻahi(+edge | L +edge | L +edge | Lahi), SoCal Colosseum #118 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Garlic Bread vs +edge | Lēʻahi(+edge | L +edge | L +edge | Lahi) in Losers Semi-Final of SoCal Colosseum #118, streamed by SoCalColosseum1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2773117144&amp;t=2h42m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1338</video:duration>
-    <video:publication_date>2026-05-16T05:15:49.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum1</video:uploader>
-    <video:expiration_date>2026-05-24T05:15:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

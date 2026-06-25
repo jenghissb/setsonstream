@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-193-steam-machine-or-600-entry-fees/set/104579854/</loc>
+  <lastmod>2026-06-25T05:12:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/925869/image-936c41dadb1400d5cf34ac7d03f7450f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Sprite | Jiffy vs USN | Chai_Rockyy, Adam&apos;s Smash Series #193: Steam Machine or 600 entry fees? - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sprite | Jiffy vs USN | Chai_Rockyy in Losers Semi-Final of Adam&apos;s Smash Series #193: Steam Machine or 600 entry fees?, streamed by adamssmashseries
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2804744035&amp;t=2h47m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>887</video:duration>
+    <video:publication_date>2026-06-25T04:53:02.000Z</video:publication_date>
+    <video:uploader>adamssmashseries</video:uploader>
+    <video:expiration_date>2026-07-03T04:53:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-193-steam-machine-or-600-entry-fees/set/104579727/</loc>
-  <lastmod>2026-06-25T04:40:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-25T04:57:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2804744035&amp;t=2h35m16s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>328</video:duration>
+    <video:duration>752</video:duration>
     <video:publication_date>2026-06-25T04:40:19.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2026-07-03T04:40:19.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-15T00:32:03.000Z</video:publication_date>
     <video:uploader>isu_smash</video:uploader>
     <video:expiration_date>2026-05-23T00:32:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-380/set/102852219/</loc>
-  <lastmod>2026-05-15T01:39:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/912472/image-e714f57516269686f0d8be258e3123b0.png
-    </video:thumbnail_loc>
-    <video:title>
-      RileyReads vs ND Halfside | D$rex, Salt Water Smash 380 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RileyReads vs ND Halfside | D$rex in Grand Final of Salt Water Smash 380, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2772091182&amp;t=2h27m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-05-15T00:14:56.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-05-23T00:14:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
