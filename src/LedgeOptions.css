@@ -664,3 +664,53 @@
 .quiz-reset-btn:hover {
   background-color: #ff6b81 !important;
 }
+
+.quiz-feedback-banner {
+  position: absolute;
+  top: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  background: rgba(22, 25, 34, 0.95);
+  border: 1px solid #2c323f;
+  padding: 10px 20px;
+  border-radius: 6px;
+  z-index: 100;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  animation: fadeIn 0.08s ease-out;
+}
+
+.quiz-feedback-text {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.quiz-feedback-text.correct {
+  color: #2ed573;
+}
+
+.quiz-feedback-text.incorrect {
+  color: #ff4757;
+}
+
+.quiz-feedback-subtext {
+  font-size: 13px;
+  color: #a4b0be;
+}
+
+.quiz-guess-btn.correct-choice {
+  background-color: #2ed573 !important;
+  box-shadow: 0 0 8px rgba(46, 213, 115, 0.6);
+}
+
+.quiz-guess-btn.incorrect-choice {
+  background-color: #ff4757 !important;
+  box-shadow: 0 0 8px rgba(255, 71, 87, 0.6);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}

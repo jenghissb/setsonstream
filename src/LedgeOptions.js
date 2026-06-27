@@ -84,6 +84,8 @@ export default function LedgeOptions() {
   const [isQuizMode, setIsQuizMode] = useState(false);
   const [quizScore, setQuizScore] = useState({ correct: 0, incorrect: 0 });
   const [quizTargetVariant, setQuizTargetVariant] = useState(null);
+  const [quizAnswered, setQuizAnswered] = useState(false);
+  const [userSelection, setUserSelection] = useState(null);
 
   const [shouldShowNotes, setShouldShowNotes] = useState(true);
 
@@ -101,18 +103,22 @@ export default function LedgeOptions() {
   const currentMaxFramesRef = useRef(34);
   const pauseFrameCounterRef = useRef(0);
 
-  const isQuizModeRef = useRef(false)
+  const isQuizModeRef = useRef(false);
   const quizCanvasRef = useRef(null);
   const quizAnimFrameId = useRef(null);
   const quizFrameIndexRef = useRef(0);
   const quizLastFrameTime = useRef(0);
   const quizTimeoutRef = useRef(null);
+  const quizAdvanceTimeoutRef = useRef(null);
   
   const targetVariantRef = useRef(null);
 
   const gestureRef = useRef({ startTime: 0, startX: 0, startY: 0 });
   const MAX_TAP_DURATION = 250;
   const MAX_TAP_MOVE = 15;
+
+  const quizAnsweredRef = useRef(false);
+
   const handlePointerDown = useCallback((e) => {
     if (e == null) return;
     gestureRef.current = {
@@ -120,7 +126,8 @@ export default function LedgeOptions() {
       startX: e.clientX,
       startY: e.clientY,
     };
-  },[])
+  }, []);
+
   const handlePointerUp = useCallback((e) => {
     if (e == null) return;
     const { startTime, startX, startY } = gestureRef.current;
@@ -134,11 +141,9 @@ export default function LedgeOptions() {
     const tapXInsideContainer = e.clientX - rect.left;
     const isRightSide = tapXInsideContainer > rect.width / 2;
     if (isRightSide) {
-      console.log("Valid tap on the RIGHT");
-      handleNextFrame()
+      handleNextFrame();
     } else {
-      console.log("Valid tap on the LEFT");
-      handlePrevFrame()
+      handlePrevFrame();
     }
   }, []);
   
@@ -243,6 +248,12 @@ export default function LedgeOptions() {
   };
 
   useEffect(() => {
+    if (quizAdvanceTimeoutRef.current) clearTimeout(quizAdvanceTimeoutRef.current);
+    setQuizScore({ correct: 0, incorrect: 0 });
+    setQuizAnswered(false);
+    quizAnsweredRef.current = false;
+    setUserSelection(null);
+
     if (animationFrameId.current) cancelAnimationFrame(animationFrameId.current);
     isPlayingRef.current = false;
     setIsPlaying(false);
@@ -291,7 +302,7 @@ export default function LedgeOptions() {
         if (loadedCount === optionNames.length) {
           isAssetLoadingRef.current = false;
           setIsAssetLoading(false);
-          if (isQuizMode) {
+          if (isQuizModeRef.current) {
             setupNextQuizQuestion();
           } else {
             playAfterSwitch();
@@ -306,6 +317,7 @@ export default function LedgeOptions() {
       if (animationFrameId.current) cancelAnimationFrame(animationFrameId.current);
       if (quizAnimFrameId.current) cancelAnimationFrame(quizAnimFrameId.current);
       if (quizTimeoutRef.current) clearTimeout(quizTimeoutRef.current);
+      if (quizAdvanceTimeoutRef.current) clearTimeout(quizAdvanceTimeoutRef.current);
     };
   }, []);
 
@@ -316,6 +328,11 @@ export default function LedgeOptions() {
 
   const setupNextQuizQuestion = () => {
     stopQuizPlayback();
+    if (quizAdvanceTimeoutRef.current) clearTimeout(quizAdvanceTimeoutRef.current);
+    setQuizAnswered(false);
+    quizAnsweredRef.current = false;
+    setUserSelection(null);
+
     if (isAssetLoadingRef.current || activeVariants.length === 0) return;
 
     const randomIndex = Math.floor(Math.random() * activeVariants.length);
@@ -328,6 +345,7 @@ export default function LedgeOptions() {
   };
 
   const replayQuizAnimation = () => {
+    if (quizAnsweredRef.current) return;
     stopQuizPlayback();
     if (targetVariantRef.current === null) return;
 
@@ -370,10 +388,12 @@ export default function LedgeOptions() {
         quizLastFrameTime.current = timestamp - (elapsed % frameInterval);
         quizAnimFrameId.current = requestAnimationFrame(quizPlayTick);
       } else {
-        const canvas = quizCanvasRef.current;
-        if (canvas) {
-          const ctx = canvas.getContext('2d');
-          ctx.clearRect(0, 0, canvas.width, canvas.height);
+        if (!quizAnsweredRef.current) {
+          const canvas = quizCanvasRef.current;
+          if (canvas) {
+            const ctx = canvas.getContext('2d');
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+          }
         }
         stopQuizPlayback();
       }
@@ -382,13 +402,36 @@ export default function LedgeOptions() {
     }
   };
 
-  const handleQuizAnswer = (variantIdx) => {
-    if (variantIdx === targetVariantRef.current) {
+const handleQuizAnswer = (variantIdx) => {
+    if (quizAnswered) return;
+
+    setQuizAnswered(true);
+    quizAnsweredRef.current = true;
+    setUserSelection(variantIdx);
+
+    const wasCorrect = variantIdx === targetVariantRef.current
+    if (wasCorrect) {
       setQuizScore(prev => ({ ...prev, correct: prev.correct + 1 }));
     } else {
       setQuizScore(prev => ({ ...prev, incorrect: prev.incorrect + 1 }));
+      
+      const canvas = quizCanvasRef.current;
+      if (canvas) {
+        const currentMax = currentMaxFramesRef.current;
+        const reviewFrameIdx = Math.min(13, currentMax - 1);
+        
+        const bakedCanvas = preRenderedFrames.current[targetVariantRef.current]?.[reviewFrameIdx];
+        if (bakedCanvas) {
+          const ctx = canvas.getContext('2d');
+          ctx.clearRect(0, 0, canvas.width, canvas.height);
+          ctx.drawImage(bakedCanvas, 0, 0);
+        }
+      }
     }
-    setupNextQuizQuestion();
+    const advanceTime = wasCorrect ? 520 : 1000
+    quizAdvanceTimeoutRef.current = setTimeout(() => {
+      setupNextQuizQuestion();
+    }, advanceTime);
   };
 
   const handleQuizReset = () => {
@@ -399,9 +442,13 @@ export default function LedgeOptions() {
   const handleToggleQuizMode = () => {
     if (isQuizModeRef.current) {
       stopQuizPlayback();
+      if (quizAdvanceTimeoutRef.current) clearTimeout(quizAdvanceTimeoutRef.current);
       targetVariantRef.current = null;
       setQuizTargetVariant(null);
-      isQuizModeRef.current = false
+      setQuizAnswered(false);
+      quizAnsweredRef.current = false;
+      setUserSelection(null);
+      isQuizModeRef.current = false;
       setIsQuizMode(false);
       setTimeout(() => playAfterSwitch(), 50);
     } else {
@@ -410,7 +457,7 @@ export default function LedgeOptions() {
         setIsPlaying(false);
         if (animationFrameId.current) cancelAnimationFrame(animationFrameId.current);
       }
-      isQuizModeRef.current = true
+      isQuizModeRef.current = true;
       setIsQuizMode(true);
       setTimeout(() => setupNextQuizQuestion(), 50);
     }
@@ -451,7 +498,6 @@ export default function LedgeOptions() {
   useEffect(() => {
     const ignoreElemTypes = ["text", "textarea", "email"];
     const ignorePress = () => {
-
       const activeElemType = document.activeElement.type;
       if (activeElemType && ignoreElemTypes.includes(activeElemType)) {
         return true;
@@ -459,7 +505,7 @@ export default function LedgeOptions() {
       return false;
     };
     const keyFun = function(e) {
-      const isQuiz = isQuizModeRef.current
+      const isQuiz = isQuizModeRef.current;
       if (!isQuiz && e.key === 'ArrowLeft' && !ignorePress()) {
         e.preventDefault();
         handlePrevFrame();
@@ -474,24 +520,21 @@ export default function LedgeOptions() {
         handleNextSet();
       } else if (e.key === ' ' && !ignorePress()) {
         e.preventDefault();
-        if (isQuiz == true) {
-          console.log("path 1")
-          replayQuizAnimation()
+        if (isQuiz === true) {
+          replayQuizAnimation();
         } else {
-          console.log("path 2")
           togglePlay();
         }
       } else if (e.key === 'q' && !ignorePress()) {
         e.preventDefault();
         handleToggleQuizMode();
       }
-
     };
     document.addEventListener('keydown', keyFun);
     return () => {
       document.removeEventListener('keydown', keyFun);
     };
-  }, [isQuizMode, currentSetIndex]);
+  }, [isQuizMode, currentSetIndex, quizAnswered]);
 
   const handleCharacterDropdownChange = (e) => {
     setCurrentSetIndex(parseInt(e.target.value, 10));
@@ -572,7 +615,7 @@ export default function LedgeOptions() {
           <div>🔁 through a smaller amount of frames to help learn to react to the beginning.</div>
           <div>On mobile the fullscreen ⛶ button helps in landscape</div>
           <div>🎓 Quiz mode lets you practice recognizing/reacting to the animations.  Make sure to adjust the ledge option {renderFilterSvg()} and 🔁 loop frames</div>
-          <div>Use ‹ and › to examine the animations frame by frame.  And the 1x button to change the play speed.  Remember brief changes are hard to react in 1x, things that show for multiple frames are better.</div>
+          <div>Use ‹ and › buttons to examine the animations frame by frame.  And the 1x button to change the play speed.  Remember brief changes are hard to react in 1x, things that show for multiple frames are better.</div>
           <div>Toggle note display 📝 to show/hide provided notes (not editable).</div>
           <div>Slow / Medium / Fast refers to the visual speed of the first 5-10 frames relative to that character's other options, with a preference towards the first 5</div>
           <div>Shortcuts:</div>
@@ -626,7 +669,6 @@ export default function LedgeOptions() {
       )}
 
       <div className="wrapper-container">
-        
           <div className="sprite-grid-container" style={{ opacity: isAssetLoading ? 0.8 : 1 }}
             onPointerDown={handlePointerDown}
             onPointerUp={handlePointerUp}
@@ -634,8 +676,8 @@ export default function LedgeOptions() {
           {
             renderedVariants.map((variantIdx) => {
               const optionName = optionDisplayNames[variantIdx];
-              const optionSpeed = optionSpeeds[variantIdx][currentSetIndex]
-              const optionNote = optionNotes[variantIdx][currentSetIndex]
+              const optionSpeed = optionSpeeds[variantIdx][currentSetIndex];
+              const optionNote = optionNotes[variantIdx][currentSetIndex];
               return (
                 <div key={variantIdx} className="sprite-card">
                   <h4 className="variant-title-inset">
@@ -669,6 +711,19 @@ export default function LedgeOptions() {
                 &times;
               </button>
               
+              {quizAnswered && (
+                <div className="quiz-feedback-banner">
+                  {userSelection === quizTargetVariant ? (
+                    <span className="quiz-feedback-text correct">✓ Correct ({optionDisplayNames[userSelection]})</span>
+                  ) : (
+                    <>
+                      <span className="quiz-feedback-text incorrect">✗ Incorrect</span>
+                      <span className="quiz-feedback-subtext">Correct option: <strong>{optionDisplayNames[quizTargetVariant]}</strong></span>
+                    </>
+                  )}
+                </div>
+              )}
+              
               <div className="quiz-info-column">
                 <div className="quiz-info-stat">Score: <span className="quiz-stat-val">{successPercent}%</span></div>
                 <div className="quiz-info-stat-sub">Correct: <span className="quiz-stat-val-sub">{quizScore.correct}</span></div>
@@ -691,7 +746,6 @@ export default function LedgeOptions() {
       </div>
 
       <div className="control-console horizontal-scroll-layout">
-        
         {!isQuizMode ? (
           <div className="control-button-group">
             <button onClick={handlePrevSet} disabled={currentSetIndex === 0} className="btn btn-ctrl" title="Previous Character">«</button>
@@ -702,16 +756,37 @@ export default function LedgeOptions() {
           </div>
         ) : (
           <div className="control-button-group quiz-action-group">
-            {activeVariants.map((variantIdx) => (
-              <button 
-                key={variantIdx} 
-                onClick={() => handleQuizAnswer(variantIdx)} 
-                className="btn btn-ctrl quiz-buttons-btn quiz-guess-btn"
-              >
-                {optionDisplayNames[variantIdx]}
-              </button>
-            ))}            
-            <button onClick={replayQuizAnimation} className="btn btn-ctrl quiz-buttons-btn quiz-replay-btn" title="Replay Animation">Replay 🔁</button>
+            {activeVariants.map((variantIdx) => {
+              let modifierClass = "";
+              if (quizAnswered) {
+                if (variantIdx === quizTargetVariant) {
+                  modifierClass = " correct-choice";
+                } else if (userSelection === variantIdx) {
+                  modifierClass = " incorrect-choice";
+                }
+              }
+
+              return (
+                <button
+                  key={variantIdx} 
+                  disabled={quizAnswered}
+                  onClick={() => handleQuizAnswer(variantIdx)} 
+                  className={`btn btn-ctrl quiz-buttons-btn quiz-guess-btn${modifierClass}`}
+                >
+                  {optionDisplayNames[variantIdx]}
+                </button>
+              );
+            })}
+            
+            <button
+              onClick={replayQuizAnimation} 
+              disabled={quizAnswered} 
+              className="btn btn-ctrl quiz-buttons-btn quiz-replay-btn" 
+              title="Replay Animation"
+            >
+              Replay 🔁
+            </button>
+            
             <button onClick={handleQuizReset} className="btn btn-ctrl quiz-buttons-btn quiz-reset-btn" title="Reset Quiz Progress">Reset</button>
           </div>
         )}
