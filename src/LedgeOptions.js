@@ -149,7 +149,8 @@ export default function LedgeOptions() {
   
   const getOptionNameUrl = (charIndex, optionName) => {
     const charName = charNames[charIndex];
-    return `https://res.cloudinary.com/${cloudName}/image/upload/ledgeoptions1/${charName}/${charName}_${optionName}.webp`;
+    return `https://opspritesheets.vercel.app/${charName}_${optionName}.webp`
+    // return `https://res.cloudinary.com/${cloudName}/image/upload/ledgeoptions1/${charName}/${charName}_${optionName}.webp`;
   };
 
   const paintVisibleFrame = (variantIdx, frameIdx) => {
