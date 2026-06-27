@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/p-pite-stadium-la-derni-re/set/104689528/</loc>
+  <lastmod>2026-06-27T16:30:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/884946/image-1d725d670ccb3aa5d1fb50fb5cc84767.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      metony vs Graham, PÉPITE STADIUM - LA DERNIÈRE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch metony vs Graham in Losers Round 4 of PÉPITE STADIUM - LA DERNIÈRE, streamed by SylpheGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2806518300&amp;t=5h22m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1357</video:duration>
+    <video:publication_date>2026-06-27T16:07:13.000Z</video:publication_date>
+    <video:uploader>SylpheGaming</video:uploader>
+    <video:expiration_date>2026-07-05T16:07:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/p-pite-stadium-la-derni-re/set/104689467/</loc>
   <lastmod>2026-06-27T15:12:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-17T01:16:38.000Z</video:publication_date>
     <video:uploader>MaherSSB</video:uploader>
     <video:expiration_date>2026-05-25T01:16:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lab-monster-97/set/102976581/</loc>
-  <lastmod>2026-05-17T01:26:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/912710/image-f3655e9a46f77897d8f546483ef1432d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Steech | cliché vs Hulka, Lab Monster 97 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Steech | cliché vs Hulka in Losers Final of Lab Monster 97, streamed by labmonsters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2773759032&amp;t=3h12m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>913</video:duration>
-    <video:publication_date>2026-05-17T00:50:54.000Z</video:publication_date>
-    <video:uploader>labmonsters</video:uploader>
-    <video:expiration_date>2026-05-25T00:50:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
