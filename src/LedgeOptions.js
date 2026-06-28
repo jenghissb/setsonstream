@@ -27,7 +27,7 @@ const LOOP_OPTIONS = [
   { label: 'All', value: 'all' },
   { label: '20f', value: 20 },
   { label: '16f', value: 16 },
-  { label: '14f', value: 12 },
+  { label: '14f', value: 14 },
   { label: '12f', value: 12 },
   { label: '10f', value: 10 },
   { label: '8f', value: 8 },
@@ -261,6 +261,12 @@ export default function LedgeOptions() {
       if (animationFrameId.current) cancelAnimationFrame(animationFrameId.current);
       lastFrameTime.current = performance.now();
       animationFrameId.current = requestAnimationFrame(playTick);
+    } else {
+      optionNames.forEach((optionName, variantIdx) => {
+        setTimeout(() => {
+        paintVisibleFrame(variantIdx, 0);
+        }, 0);
+      })
     }
   };
 
@@ -756,7 +762,8 @@ export default function LedgeOptions() {
             onPointerUp={handlePointerUp}
           >
           {
-            renderedVariants.map((variantIdx) => {
+            renderedVariants.filter((_item, index) => !isQuizMode || index <1).map((variantIdx) => {
+            // renderedVariants.map((variantIdx, index) => {
               const optionName = optionDisplayNames[variantIdx];
               const optionSpeed = optionSpeeds[variantIdx][currentSetIndex];
               const optionNote = optionNotes[variantIdx][currentSetIndex];
@@ -838,7 +845,7 @@ export default function LedgeOptions() {
           </div>
         ) : (
           <div className="control-button-group quiz-action-group">
-            {activeVariants.map((variantIdx) => {
+            {renderedVariants.map((variantIdx) => {
               let modifierClass = "";
               if (quizAnswered) {
                 if (variantIdx === quizTargetVariant) {
