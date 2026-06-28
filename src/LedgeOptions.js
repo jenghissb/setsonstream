@@ -27,6 +27,7 @@ const LOOP_OPTIONS = [
   { label: 'All', value: 'all' },
   { label: '20f', value: 20 },
   { label: '16f', value: 16 },
+  { label: '14f', value: 12 },
   { label: '12f', value: 12 },
   { label: '10f', value: 10 },
   { label: '8f', value: 8 },
@@ -67,6 +68,19 @@ const renderFilterSvg = () => <svg width="18px" height="18px" viewBox="0 0 30 30
   <path d="M11 22H17" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
 </svg>
 
+const charNameMap = {
+  squirtle: "pokemontrainer",
+  ivysaur: "pokemontrainer",
+  charizard: "pokemontrainer",
+  rosalina: "rosalinaandluma",
+  plant: "piranhaplant",
+  banjo: "banjokazooie",
+  miisword: "miiswordfighter"
+}
+const getCharThumb = (charName) => {
+  const imgName = charNameMap[charName] || charName;
+  return process.env.PUBLIC_URL + `/charEmojis/1386/${imgName}.png`
+}
 
 export default function LedgeOptions() {
   const [currentSetIndex, setCurrentSetIndex] = useState(0); 
@@ -80,6 +94,9 @@ export default function LedgeOptions() {
   const [activeVariants, setActiveVariants] = useState([0, 1, 2, 3]);
   const [showFilterDrawer, setShowFilterDrawer] = useState(false);
   const [showInfoDrawer, setShowInfoDrawer] = useState(false);
+  
+  const [searchTerm, setSearchTerm] = useState("");
+  const [showCharDropdown, setShowCharDropdown] = useState(false);
 
   const [isQuizMode, setIsQuizMode] = useState(false);
   const [quizScore, setQuizScore] = useState({ correct: 0, incorrect: 0 });
@@ -114,10 +131,24 @@ export default function LedgeOptions() {
   const targetVariantRef = useRef(null);
 
   const gestureRef = useRef({ startTime: 0, startX: 0, startY: 0 });
+  const charBtnRef = useRef(null); 
   const MAX_TAP_DURATION = 250;
   const MAX_TAP_MOVE = 15;
 
   const quizAnsweredRef = useRef(false);
+
+  // Close overlay if clicking outside the core search card element
+  useEffect(() => {
+    if (showCharDropdown) {
+      const handleOutsideClick = (e) => {
+        if (e.target.classList.contains('char-search-backdrop-modal')) {
+          setShowCharDropdown(false);
+        }
+      };
+      document.addEventListener('click', handleOutsideClick);
+      return () => document.removeEventListener('click', handleOutsideClick);
+    }
+  }, [showCharDropdown]);
 
   const handlePointerDown = useCallback((e) => {
     if (e == null) return;
@@ -403,14 +434,14 @@ export default function LedgeOptions() {
     }
   };
 
-const handleQuizAnswer = (variantIdx) => {
+  const handleQuizAnswer = (variantIdx) => {
     if (quizAnswered) return;
 
     setQuizAnswered(true);
     quizAnsweredRef.current = true;
     setUserSelection(variantIdx);
 
-    const wasCorrect = variantIdx === targetVariantRef.current
+    const wasCorrect = variantIdx === targetVariantRef.current;
     if (wasCorrect) {
       setQuizScore(prev => ({ ...prev, correct: prev.correct + 1 }));
     } else {
@@ -429,7 +460,7 @@ const handleQuizAnswer = (variantIdx) => {
         }
       }
     }
-    const advanceTime = wasCorrect ? 520 : 1000
+    const advanceTime = wasCorrect ? 520 : 1000;
     quizAdvanceTimeoutRef.current = setTimeout(() => {
       setupNextQuizQuestion();
     }, advanceTime);
@@ -536,10 +567,6 @@ const handleQuizAnswer = (variantIdx) => {
       document.removeEventListener('keydown', keyFun);
     };
   }, [isQuizMode, currentSetIndex, quizAnswered]);
-
-  const handleCharacterDropdownChange = (e) => {
-    setCurrentSetIndex(parseInt(e.target.value, 10));
-  };
 
   const toggleVisibility = (index) => {
     if (activeVariants.includes(index)) {
@@ -666,6 +693,60 @@ const handleQuizAnswer = (variantIdx) => {
               </div>
             );
           })}
+        </div>
+      )}
+
+      {/* KEYBOARD VISUAL VIEWPORT TRACKING BACKDROP MODAL SYSTEM */}
+      {showCharDropdown && (
+        <div 
+          className="char-search-backdrop-modal"
+        >
+          <div className="char-search-centered-card">
+            <div className="char-modal-header">
+              <span>Select Character</span>
+              <button className="char-modal-close-x" onClick={() => setShowCharDropdown(false)}>&times;</button>
+            </div>
+            
+            <input
+              className="char-filter-search-box"
+              placeholder="Type to filter characters..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              type="search"
+              name="filter"
+              autocomplete="off"
+              autocapitalize="none"
+              spellcheck="false"
+              />
+
+            <div className="char-filter-search-list">
+              {charNames
+                .map((name, idx) => ({ name, idx }))
+                .filter(item => item.name.toLowerCase().includes(searchTerm.toLowerCase()))
+                .map((char) => (
+                  <div
+                    key={char.name}
+                    className={`char-search-row-item ${char.idx === currentSetIndex ? 'selected-target' : ''}`}
+                    onClick={() => {
+                      setCurrentSetIndex(char.idx);
+                      setShowCharDropdown(false);
+                    }}
+                  >
+                    <img 
+                      src={getCharThumb(char.name)}
+                      className='char-search-row-item-img'
+                      alt=""
+                    />
+                    <div
+                      className='char-search-row-item-text'
+                    >
+                      {char.name}
+                    </div>
+                  </div>
+                ))
+              }
+            </div>
+          </div>
         </div>
       )}
 
@@ -807,11 +888,17 @@ const handleQuizAnswer = (variantIdx) => {
             </select>
           </div>
 
-          <div className="select-wrapper char-select">
+          <div 
+            className={`select-wrapper char-select ${showCharDropdown ? 'active' : ''}`}
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowCharDropdown(!showCharDropdown);
+              setShowFilterDrawer(false);
+              setShowInfoDrawer(false);
+              setSearchTerm("");
+            }}
+          >
             <span className="select-btn-label">{charNames[currentSetIndex]}</span>
-            <select value={currentSetIndex} onChange={handleCharacterDropdownChange}>
-              {charNames.map((name, idx) => <option key={name} value={idx}>{name}</option>)}
-            </select>
           </div>
 
           <button 
