@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/soul-calibur-ii-30-x-street-fighter-6-bi-monthly-65/set/104744333/</loc>
+  <lastmod>2026-06-28T02:32:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/925396/image-e1ab9bc777d5c47afc71144dac85223a.png
+    </video:thumbnail_loc>
+    <video:title>
+      H.G vs NeoTurfMaster, Soul Calibur II #30 x Street Fighter 6 Bi-Monthly #65 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch H.G vs NeoTurfMaster in Winners Final of Soul Calibur II #30 x Street Fighter 6 Bi-Monthly #65, streamed by NeonDreamsArcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2807011717&amp;t=2h2m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>247</video:duration>
+    <video:publication_date>2026-06-28T02:20:39.000Z</video:publication_date>
+    <video:uploader>NeonDreamsArcade</video:uploader>
+    <video:expiration_date>2026-07-06T02:20:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/soul-calibur-ii-30-x-street-fighter-6-bi-monthly-65/set/104744362/</loc>
-  <lastmod>2026-06-28T01:45:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-06-28T02:13:18.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2807011717&amp;t=1h27m6s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>596</video:duration>
+    <video:duration>1167</video:duration>
     <video:publication_date>2026-06-28T01:45:28.000Z</video:publication_date>
     <video:uploader>NeonDreamsArcade</video:uploader>
     <video:expiration_date>2026-07-06T01:45:28.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-27T02:10:57.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-06-04T02:10:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-242-look-out-for-rease-s-pieces/set/103362612/</loc>
-  <lastmod>2026-05-27T02:19:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/914396/image-d1b110a6680d35b6fa96fd2d4c82b92a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | Ichi vs Truly | DonShark, CFG Tuesday Trials 242: Look Out For Rease&apos;s Pieces - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | Ichi vs Truly | DonShark in Winners Final of CFG Tuesday Trials 242: Look Out For Rease&apos;s Pieces, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2781685293&amp;t=3h6m19s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>665</video:duration>
-    <video:publication_date>2026-05-27T01:42:27.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-06-04T01:42:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
