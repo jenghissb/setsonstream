@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/versus-for-life-2/set/104760226/</loc>
+  <lastmod>2026-06-28T12:14:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/877285/image-fe8fe0a45cf3d79992012dc8099b4885.png
+    </video:thumbnail_loc>
+    <video:title>
+      LaDOSE | Akim vs GS | Tokoko, Versus for Life #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LaDOSE | Akim vs GS | Tokoko in Winners Semi-Final of Versus for Life #2, streamed by Versus_Smash_Valence
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2807330470&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1613</video:duration>
+    <video:publication_date>2026-06-28T11:45:38.000Z</video:publication_date>
+    <video:uploader>Versus_Smash_Valence</video:uploader>
+    <video:expiration_date>2026-07-06T11:45:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/soul-calibur-ii-30-x-street-fighter-6-bi-monthly-65/set/104744333/</loc>
   <lastmod>2026-06-28T02:32:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-27T02:12:50.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-06-04T02:12:50.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-242-look-out-for-rease-s-pieces/set/103362644/</loc>
-  <lastmod>2026-05-27T02:48:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/914396/image-d1b110a6680d35b6fa96fd2d4c82b92a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Truly | Ichi vs Daltino, CFG Tuesday Trials 242: Look Out For Rease&apos;s Pieces - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Truly | Ichi vs Daltino in Losers Final of CFG Tuesday Trials 242: Look Out For Rease&apos;s Pieces, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2781685293&amp;t=3h34m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>577</video:duration>
-    <video:publication_date>2026-05-27T02:10:57.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-06-04T02:10:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
