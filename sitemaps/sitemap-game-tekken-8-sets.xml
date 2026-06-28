@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/otaku-twt-dojo-1/set/104765028/</loc>
+  <lastmod>2026-06-28T14:35:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907197/image-3e93f9bd0f18e92343cd155eda06496d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      OPG | SuperSantoro vs Bikergab, Otaku TWT Dojo #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OPG | SuperSantoro vs Bikergab in Winners Round 1 of Otaku TWT Dojo #1, streamed by otakuzone
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2807380052&amp;t=0h49m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>266</video:duration>
+    <video:publication_date>2026-06-28T14:24:53.000Z</video:publication_date>
+    <video:uploader>otakuzone</video:uploader>
+    <video:expiration_date>2026-07-06T14:24:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/nyespla-4/set/104761245/</loc>
   <lastmod>2026-06-28T12:30:06.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-27T05:28:08.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-06-04T05:28:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/guildhouse-tuesday-104-norcal-tekken-8-2xko-weekly/set/103378270/</loc>
-  <lastmod>2026-05-27T05:42:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/915029/image-2e83aa0b503737f75ad5f8d1d2cdecdc.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Cenizen vs MADHouse | Enenra, Guildhouse Tuesday 104 - Norcal Tekken 8 &amp; 2XKO weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Cenizen vs MADHouse | Enenra in Losers Semi-Final of Guildhouse Tuesday 104 - Norcal Tekken 8 &amp; 2XKO weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2781870320&amp;t=2h15m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>785</video:duration>
-    <video:publication_date>2026-05-27T05:14:59.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-06-04T05:14:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
