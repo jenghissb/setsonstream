@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/game-quest-weekly-116/set/104833533/</loc>
+  <lastmod>2026-07-01T00:29:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/928109/image-65d5c7fac9018eb24297caa5c817fcf3.png
+    </video:thumbnail_loc>
+    <video:title>
+      CAUTION vs EDPS | Skribblz, Game Quest Weekly #116 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CAUTION vs EDPS | Skribblz in Winners Quarter-Final of Game Quest Weekly #116, streamed by gamequestpg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2809291043&amp;t=0h3m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>890</video:duration>
+    <video:publication_date>2026-07-01T00:12:48.000Z</video:publication_date>
+    <video:uploader>gamequestpg</video:uploader>
+    <video:expiration_date>2026-07-09T00:12:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-541/set/104646921/</loc>
   <lastmod>2026-06-27T00:22:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-23T19:57:45.000Z</video:publication_date>
     <video:uploader>hazelnutting247</video:uploader>
     <video:expiration_date>2026-05-31T19:57:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/oregon-arcadian-iii-1/set/103234950/</loc>
-  <lastmod>2026-05-23T20:27:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/897882/image-54f2699d7f3e43f673e4de69fe8f9c98.png
-    </video:thumbnail_loc>
-    <video:title>
-      Zekesports | darai vs automatic, Oregon Arcadian III - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Zekesports | darai vs automatic in Winners Round 2 of Oregon Arcadian III, streamed by Zekehere
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2779177330&amp;t=0h24m14s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>816</video:duration>
-    <video:publication_date>2026-05-23T19:49:58.000Z</video:publication_date>
-    <video:uploader>Zekehere</video:uploader>
-    <video:expiration_date>2026-05-31T19:49:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

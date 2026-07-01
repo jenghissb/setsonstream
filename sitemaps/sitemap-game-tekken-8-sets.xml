@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/double-perfect-24/set/104835324/</loc>
+  <lastmod>2026-07-01T01:17:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/927267/image-4750e5051f3a6061e3db5f2736ab083d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      RainS vs +2, Double Perfect #24 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RainS vs +2 in Round 2 of Double Perfect #24, streamed by foothillfootsies
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2809315642&amp;t=0h14m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>956</video:duration>
+    <video:publication_date>2026-07-01T00:59:33.000Z</video:publication_date>
+    <video:uploader>foothillfootsies</video:uploader>
+    <video:expiration_date>2026-07-09T00:59:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-441/set/104811491/</loc>
   <lastmod>2026-06-30T02:00:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-30T12:11:04.000Z</video:publication_date>
     <video:uploader>bfgl_main</video:uploader>
     <video:expiration_date>2026-06-07T12:11:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/bfgl-pixo-fest-2026-fgc-tournaments/set/103498136/</loc>
-  <lastmod>2026-05-30T12:15:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898746/image-52438200abf10c7c055414022eba738a.png
-    </video:thumbnail_loc>
-    <video:title>
-      SirMelgard vs RaKrisGG, BFGL // PIXO Fest 2026 // FGC Tournaments - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SirMelgard vs RaKrisGG in Losers Round 1 of BFGL // PIXO Fest 2026 // FGC Tournaments, streamed by bfgl_main
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2784431768&amp;t=0h1m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>694</video:duration>
-    <video:publication_date>2026-05-30T11:39:06.000Z</video:publication_date>
-    <video:uploader>bfgl_main</video:uploader>
-    <video:expiration_date>2026-06-07T11:39:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
