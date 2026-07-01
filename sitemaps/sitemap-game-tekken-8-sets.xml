@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-59/set/104846606/</loc>
+  <lastmod>2026-07-01T18:11:35.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/923835/image-b02e4a1350ec2ad2b67afe7f83c4e349.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Glacial vs StF | Ralfosaurus, Jam Session #59 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Glacial vs StF | Ralfosaurus in Winners Round 1 of Jam Session #59, streamed by strikefiercefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2809807587&amp;t=0h8m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>458</video:duration>
+    <video:publication_date>2026-07-01T18:11:35.000Z</video:publication_date>
+    <video:uploader>strikefiercefgc</video:uploader>
+    <video:expiration_date>2026-07-09T18:11:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/double-perfect-24/set/104835324/</loc>
   <lastmod>2026-07-01T01:17:42.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-05-30T13:04:18.000Z</video:publication_date>
     <video:uploader>bfgl_main</video:uploader>
     <video:expiration_date>2026-06-07T13:04:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/bfgl-pixo-fest-2026-fgc-tournaments/set/103498138/</loc>
-  <lastmod>2026-05-30T12:42:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898746/image-52438200abf10c7c055414022eba738a.png
-    </video:thumbnail_loc>
-    <video:title>
-      capo vs RaKrisGG, BFGL // PIXO Fest 2026 // FGC Tournaments - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch capo vs RaKrisGG in Losers Quarter-Final of BFGL // PIXO Fest 2026 // FGC Tournaments, streamed by bfgl_main
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2784431768&amp;t=0h33m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>931</video:duration>
-    <video:publication_date>2026-05-30T12:11:04.000Z</video:publication_date>
-    <video:uploader>bfgl_main</video:uploader>
-    <video:expiration_date>2026-06-07T12:11:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
