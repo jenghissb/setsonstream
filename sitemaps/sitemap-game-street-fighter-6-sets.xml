@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-121/set/104869574/</loc>
+  <lastmod>2026-07-02T11:16:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/927859/image-ee7e86b302c7f9c8d699d5052bdd6b79.png
+    </video:thumbnail_loc>
+    <video:title>
+      MaGちゃん(MaG chan) vs hadjiDP|ハジ ディーピー(hadjiDP| haji diipii), Paradise Cup #121 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MaGちゃん(MaG chan) vs hadjiDP|ハジ ディーピー(hadjiDP| haji diipii) in Round 1 of Paradise Cup #121, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2810347631&amp;t=0h6m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>339</video:duration>
+    <video:publication_date>2026-07-02T11:04:51.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-07-10T11:04:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/double-perfect-24/set/104836085/</loc>
   <lastmod>2026-07-01T03:00:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-05-31T02:36:08.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-06-08T02:36:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/neon-dreams-street-fighter-6-bi-weekly-58-pot-bonus/set/103548455/</loc>
-  <lastmod>2026-05-31T03:07:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/916408/image-5304c7cc1751f9444f1b7aadf533893b.png
-    </video:thumbnail_loc>
-    <video:title>
-      SR NuckleDu vs Cole Wnsty, Neon Dreams Street Fighter 6 Bi-Weekly #58 POT BONUS - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SR NuckleDu vs Cole Wnsty in Winners Final of Neon Dreams Street Fighter 6 Bi-Weekly #58 POT BONUS, streamed by NeonDreamsArcade
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2784922548&amp;t=2h16m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>375</video:duration>
-    <video:publication_date>2026-05-31T02:35:57.000Z</video:publication_date>
-    <video:uploader>NeonDreamsArcade</video:uploader>
-    <video:expiration_date>2026-06-08T02:35:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
