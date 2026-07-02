@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-178-maesuma-hit-178/set/104869430/</loc>
-  <lastmod>2026-07-02T12:57:08.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/922422/image-48f9a2009291eedccdb3cfb95558249f.png
-    </video:thumbnail_loc>
-    <video:title>
-      MarK vs くろすけ(kurosuke), マエスマ&apos;HIT#178 / Maesuma&apos;HIT#178 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MarK vs くろすけ(kurosuke) in Grand Final Reset of マエスマ&apos;HIT#178 / Maesuma&apos;HIT#178, streamed by まえだくん
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/TIjvtxQ1NO0?start=11012s
-    </video:player_loc>
-    <video:duration>1289</video:duration>
-    <video:publication_date>2026-07-02T12:57:08.000Z</video:publication_date>
-    <video:uploader>まえだくん</video:uploader>
-    <video:expiration_date>2026-07-10T12:57:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/2-492/set/104869866/</loc>
-  <lastmod>2026-07-02T13:02:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-02T13:27:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/F91JAbh3SQc?start=7978s
     </video:player_loc>
-    <video:duration>996</video:duration>
+    <video:duration>1478</video:duration>
     <video:publication_date>2026-07-02T13:02:01.000Z</video:publication_date>
     <video:uploader>BUZZ e-sports</video:uploader>
     <video:expiration_date>2026-07-10T13:02:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-178-maesuma-hit-178/set/104869430/</loc>
+  <lastmod>2026-07-02T13:18:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/922422/image-48f9a2009291eedccdb3cfb95558249f.png
+    </video:thumbnail_loc>
+    <video:title>
+      MarK vs くろすけ(kurosuke), マエスマ&apos;HIT#178 / Maesuma&apos;HIT#178 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MarK vs くろすけ(kurosuke) in Grand Final Reset of マエスマ&apos;HIT#178 / Maesuma&apos;HIT#178, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/TIjvtxQ1NO0?start=11012s
+    </video:player_loc>
+    <video:duration>1188</video:duration>
+    <video:publication_date>2026-07-02T12:57:08.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2026-07-10T12:57:08.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
