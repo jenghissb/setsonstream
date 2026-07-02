@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-251/set/104853344/</loc>
+  <lastmod>2026-07-01T23:11:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/928705/image-a45d2f9b479fadd9f2d3cbb8f7a72140.png
+    </video:thumbnail_loc>
+    <video:title>
+      Osserva vs ESG | HOJU, ESG Fight Night#251 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Osserva vs ESG | HOJU in Round 3 of ESG Fight Night#251, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=ESG_Live_Streams&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>568</video:duration>
+    <video:publication_date>2026-07-01T23:11:34.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-07-09T23:11:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-59/set/104846649/</loc>
   <lastmod>2026-07-01T20:35:31.000Z</lastmod>
   <changefreq>daily</changefreq>
