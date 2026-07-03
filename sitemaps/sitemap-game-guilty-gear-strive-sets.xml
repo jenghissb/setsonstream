@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/under-the-tree-31/set/104888351/</loc>
+  <lastmod>2026-07-02T23:51:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/928158/image-a2ece32a1d418b5bcef2235be09581ad.png
+    </video:thumbnail_loc>
+    <video:title>
+      good civ vs BMS | Junglesnipes, Under the Tree #31 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch good civ vs BMS | Junglesnipes in Winners Quarter-Final of Under the Tree #31, streamed by treehippygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2810813367&amp;t=0h6m49s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>749</video:duration>
+    <video:publication_date>2026-07-02T23:51:36.000Z</video:publication_date>
+    <video:uploader>treehippygaming</video:uploader>
+    <video:expiration_date>2026-07-10T23:51:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/juicy-game-night-171/set/104857276/</loc>
   <lastmod>2026-07-02T02:02:06.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-05-21T05:22:53.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-05-29T05:22:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-223-norcal-ssbu-ggst-weekly/set/103119735/</loc>
-  <lastmod>2026-05-21T05:23:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913736/image-f8de22c18aeec3da7cb22532a2ec8862.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SSG | Flasco vs MjKurase, Guildhouse Weekly 223 - Norcal SSBU &amp; GGST weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SSG | Flasco vs MjKurase in Winners Semi-Final of Guildhouse Weekly 223 - Norcal SSBU &amp; GGST weekly, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2777099053&amp;t=1h52m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>884</video:duration>
-    <video:publication_date>2026-05-21T04:41:22.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-05-29T04:41:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
