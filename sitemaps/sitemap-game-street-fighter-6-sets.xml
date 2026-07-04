@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-30/set/104945239/</loc>
+  <lastmod>2026-07-04T12:07:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/925940/image-d3d350df44b0d12f7c85ccad11a90565.png
+    </video:thumbnail_loc>
+    <video:title>
+      Antwerp vs Aimm, Drive Theory 30 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Antwerp vs Aimm in Losers Final of Drive Theory 30, streamed by itschandarin
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2811858816&amp;t=3h52m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>544</video:duration>
+    <video:publication_date>2026-07-04T11:52:05.000Z</video:publication_date>
+    <video:uploader>itschandarin</video:uploader>
+    <video:expiration_date>2026-07-12T11:52:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/drive-theory-30/set/104945238/</loc>
   <lastmod>2026-07-04T11:46:59.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-06-06T19:26:47.000Z</video:publication_date>
     <video:uploader>gamearenaco</video:uploader>
     <video:expiration_date>2026-06-14T19:26:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/devohlution-2026/set/103792849/</loc>
-  <lastmod>2026-06-06T19:35:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/862755/image-5a276a2e3c115d4f72501757b60329f5.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SmokingSeabass vs MUOH | nekro, DevOHlution 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SmokingSeabass vs MUOH | nekro in Winners Final of DevOHlution 2026, streamed by gamearenaco
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2790224340&amp;t=1h41m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>996</video:duration>
-    <video:publication_date>2026-06-06T18:58:18.000Z</video:publication_date>
-    <video:uploader>gamearenaco</video:uploader>
-    <video:expiration_date>2026-06-14T18:58:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ppg-challengers-season-2/set/104947310/</loc>
+  <lastmod>2026-07-04T12:51:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/917895/image-a5b232bbac4230239345f17bf9d75119.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Alihassan vs CC | XYN | | Irtaxa, PPG - Challengers (Season 2) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Alihassan vs CC | XYN | | Irtaxa in Winners Semi-Final of PPG - Challengers (Season 2), streamed by sikkify
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2811828992&amp;t=5h59m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1094</video:duration>
+    <video:publication_date>2026-07-04T12:30:28.000Z</video:publication_date>
+    <video:uploader>sikkify</video:uploader>
+    <video:expiration_date>2026-07-12T12:30:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/ppg-challengers-season-2/set/104945126/</loc>
-  <lastmod>2026-07-04T11:46:43.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-04T12:41:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +42,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2811828992&amp;t=5h16m14s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>409</video:duration>
+    <video:duration>2790</video:duration>
     <video:publication_date>2026-07-04T11:46:43.000Z</video:publication_date>
     <video:uploader>sikkify</video:uploader>
     <video:expiration_date>2026-07-12T11:46:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/arcalux-2026-geek-gaming-convention/set/104946699/</loc>
-  <lastmod>2026-07-04T11:45:05.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/916021/image-3be90b9afb376b2ca83385bb3624e20c.png
-    </video:thumbnail_loc>
-    <video:title>
-      HIT | Duke vs Hadlar, Arcalux 2026 - Geek &amp; Gaming Convention - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HIT | Duke vs Hadlar in Losers Quarter-Final of Arcalux 2026 - Geek &amp; Gaming Convention, streamed by fightingcornerlux
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=fightingcornerlux&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>507</video:duration>
-    <video:publication_date>2026-07-04T11:45:05.000Z</video:publication_date>
-    <video:uploader>fightingcornerlux</video:uploader>
-    <video:expiration_date>2026-07-12T11:45:05.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8398,30 +8398,6 @@
     <video:publication_date>2026-06-06T12:04:13.000Z</video:publication_date>
     <video:uploader>Tekken Madagascar</video:uploader>
     <video:expiration_date>2026-06-14T12:04:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-next-level-play-2026-round-3/set/103776889/</loc>
-  <lastmod>2026-06-06T12:12:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/916686/image-5723096dd3c82e4ee1e4f8c7c2bc4662.png
-    </video:thumbnail_loc>
-    <video:title>
-      ZENITH | Ishiro vs ZENITH | Aigle Noir, THE NEXT LEVEL PLAY 2026  - ROUND 3 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ZENITH | Ishiro vs ZENITH | Aigle Noir in Winners Round 2 of THE NEXT LEVEL PLAY 2026  - ROUND 3, streamed by Tekken Madagascar
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/F9_KhmM_w8Y?start=16132s
-    </video:player_loc>
-    <video:duration>326</video:duration>
-    <video:publication_date>2026-06-06T11:35:45.000Z</video:publication_date>
-    <video:uploader>Tekken Madagascar</video:uploader>
-    <video:expiration_date>2026-06-14T11:35:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
