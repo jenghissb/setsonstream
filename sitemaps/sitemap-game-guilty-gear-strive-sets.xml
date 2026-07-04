@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgc-meetups-124/set/104927849/</loc>
+  <lastmod>2026-07-04T01:06:09.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/925292/image-e2e6a9e2aa705fc96ea1c8b50b1e1edf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PFaB | Mikuruw vs S7 | Photo Jenny, FGC Meetups 124 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PFaB | Mikuruw vs S7 | Photo Jenny in Winners Round 1 of FGC Meetups 124, streamed by mintymynti
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=mintymynti&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>901</video:duration>
+    <video:publication_date>2026-07-04T01:06:09.000Z</video:publication_date>
+    <video:uploader>mintymynti</video:uploader>
+    <video:expiration_date>2026-07-12T01:06:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/4o4-by-sh33rz-anime-weekly-48/set/104925127/</loc>
+  <lastmod>2026-07-04T01:01:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/928377/image-1786bef7453d5c3e4a78ebef5e8d35af.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Flowedup vs Robotic Kyler, 4o4 by Sh33rz: Anime Weekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Flowedup vs Robotic Kyler in Winners Semi-Final of 4o4 by Sh33rz: Anime Weekly, streamed by 4o4esports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2811617946&amp;t=0h48m22s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1151</video:duration>
+    <video:publication_date>2026-07-04T01:01:59.000Z</video:publication_date>
+    <video:uploader>4o4esports</video:uploader>
+    <video:expiration_date>2026-07-12T01:01:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/under-the-tree-31/set/104888356/</loc>
   <lastmod>2026-07-03T01:34:16.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4822,6 @@
     <video:publication_date>2026-05-23T09:04:57.000Z</video:publication_date>
     <video:uploader>fgc_lithuania</video:uploader>
     <video:expiration_date>2026-05-31T09:04:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ltfgc-x-ccb26/set/103210759/</loc>
-  <lastmod>2026-05-23T09:13:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/892964/image-2083d8e38ab40c105b826f7b773fda95.png
-    </video:thumbnail_loc>
-    <video:title>
-      Phantomicious vs Trishthefish, LTFGC x CCB26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Phantomicious vs Trishthefish in Winners Semi-Final of LTFGC x CCB26, streamed by fgc_lithuania
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2778802298&amp;t=0h43m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>574</video:duration>
-    <video:publication_date>2026-05-23T08:46:53.000Z</video:publication_date>
-    <video:uploader>fgc_lithuania</video:uploader>
-    <video:expiration_date>2026-05-31T08:46:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
