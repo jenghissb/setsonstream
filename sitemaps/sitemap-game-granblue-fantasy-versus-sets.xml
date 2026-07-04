@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/fight-for-the-throne-2026-fgc-tournament-at-eh-game-expo-3k-prize-pools/set/104962509/</loc>
+  <lastmod>2026-07-04T20:21:26.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892032/image-6289290fecfe4740d649922b63f3228e.png
+    </video:thumbnail_loc>
+    <video:title>
+      TF | Gabagool vs 4Ender | EDLN | AuVerity, Fight for the Throne 2026 – FGC Tournament at Eh! Game Expo ($3k+ Prize Pools) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TF | Gabagool vs 4Ender | EDLN | AuVerity in Winners Semi-Final of Fight for the Throne 2026 – FGC Tournament at Eh! Game Expo ($3k+ Prize Pools), streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2812054583&amp;t=4h55m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1027</video:duration>
+    <video:publication_date>2026-07-04T20:21:26.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2026-07-12T20:21:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/hog-dragon-159/set/104834736/</loc>
   <lastmod>2026-07-01T02:51:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-04-04T23:29:32.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2026-04-12T23:29:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/iron-grid-xlii/set/101236353/</loc>
-  <lastmod>2026-04-04T23:40:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/892615/image-6c0722980f991164bc4433a5d773c45d.png
-    </video:thumbnail_loc>
-    <video:title>
-      FISH | Pokee vs semi, Iron Grid XLII - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FISH | Pokee vs semi in Winners Final of Iron Grid XLII, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2739991660&amp;t=3h12m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>876</video:duration>
-    <video:publication_date>2026-04-04T22:55:28.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2026-04-12T22:55:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
