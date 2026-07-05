@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/kokoro-2026/set/104991238/</loc>
+  <lastmod>2026-07-05T10:37:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904269/image-92eb1935bff71596e2bed3ec0af4727f.png
+    </video:thumbnail_loc>
+    <video:title>
+      MrClefy vs CrazyPizza, Kokoro 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MrClefy vs CrazyPizza in Winners Quarter-Final of Kokoro 2026, streamed by starup_tv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2812644747&amp;t=0h2m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>734</video:duration>
+    <video:publication_date>2026-07-05T10:18:30.000Z</video:publication_date>
+    <video:uploader>starup_tv</video:uploader>
+    <video:expiration_date>2026-07-13T10:18:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/neon-dreams-tekken-8-54-local/set/104974994/</loc>
   <lastmod>2026-07-05T02:59:49.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-06-07T16:56:06.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-06-15T16:56:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/rage-lx-11/set/103846637/</loc>
-  <lastmod>2026-06-07T17:29:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/914907/image-b51bf3817a14a6e6e1ed4aed89040208.png
-    </video:thumbnail_loc>
-    <video:title>
-      TAP | Esqueiro vs Neurónio | leguim, Rage LX #11 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TAP | Esqueiro vs Neurónio | leguim in Losers Quarter-Final of Rage LX #11, streamed by Locus_Crew
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2790948186&amp;t=2h13m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1282</video:duration>
-    <video:publication_date>2026-06-07T16:55:59.000Z</video:publication_date>
-    <video:uploader>Locus_Crew</video:uploader>
-    <video:expiration_date>2026-06-15T16:55:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
