@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/pochisuma-next-patch-4/set/104989298/</loc>
+  <lastmod>2026-07-05T05:59:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/918423/image-b81fe4ce7b3674637baf38704932845e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      スミオ(sumio) vs カルシウム(karushiumu), ポチスマ/Pochisuma NEXT PATCH #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch スミオ(sumio) vs カルシウム(karushiumu) in Winners Round 2 of ポチスマ/Pochisuma NEXT PATCH #4, streamed by ポチスマ 配信
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/Epk_eWcVa2Q?start=15633s
+    </video:player_loc>
+    <video:duration>43</video:duration>
+    <video:publication_date>2026-07-05T05:57:58.000Z</video:publication_date>
+    <video:uploader>ポチスマ 配信</video:uploader>
+    <video:expiration_date>2026-07-13T05:57:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/fight-night-4-jv4/set/104977206/</loc>
   <lastmod>2026-07-05T03:54:38.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-06-26T04:37:34.000Z</video:publication_date>
     <video:uploader>The Gaming Zone</video:uploader>
     <video:expiration_date>2026-07-04T04:37:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/foco-ultimate-weekly-437/set/104604445/</loc>
-  <lastmod>2026-06-26T04:45:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/925783/image-9068be2ae6a189aad688fc829a91fb5c.png
-    </video:thumbnail_loc>
-    <video:title>
-      FC | Chronos vs ME | My Prince, FoCo Ultimate Weekly #437 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FC | Chronos vs ME | My Prince in Grand Final Reset of FoCo Ultimate Weekly #437, streamed by cosmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2805598579&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>830</video:duration>
-    <video:publication_date>2026-06-26T04:30:29.000Z</video:publication_date>
-    <video:uploader>cosmash</video:uploader>
-    <video:expiration_date>2026-07-04T04:30:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
