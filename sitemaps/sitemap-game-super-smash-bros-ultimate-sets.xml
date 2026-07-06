@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/hit-179-maesuma-hit-179/set/105018465/</loc>
+  <lastmod>2026-07-06T09:58:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/928336/image-25001f9d9a7e7db93f16cd0a770e4f3e.png
+    </video:thumbnail_loc>
+    <video:title>
+      かのん天地愛(kanon tenchi ai) vs KU | KILINN, マエスマ&apos;HIT#179 / Maesuma&apos;HIT#179 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch かのん天地愛(kanon tenchi ai) vs KU | KILINN in Winners Round 1 of マエスマ&apos;HIT#179 / Maesuma&apos;HIT#179, streamed by まえだくん
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/gAF3F7EvPbc?start=436s
+    </video:player_loc>
+    <video:duration>741</video:duration>
+    <video:publication_date>2026-07-06T09:58:33.000Z</video:publication_date>
+    <video:uploader>まえだくん</video:uploader>
+    <video:expiration_date>2026-07-14T09:58:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/stratasphere-5/set/105011707/</loc>
   <lastmod>2026-07-06T03:11:44.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-06-26T23:41:56.000Z</video:publication_date>
     <video:uploader>cavalryesports</video:uploader>
     <video:expiration_date>2026-07-04T23:41:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tol-smash-masters-95-06-26-2026/set/104648575/</loc>
-  <lastmod>2026-06-26T23:48:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/925782/image-509d07caf797b33042a0d7839460d007.png
-    </video:thumbnail_loc>
-    <video:title>
-      TB | YoshiStar vs Rising, TOL Smash Masters #95 - 06/26/2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TB | YoshiStar vs Rising in Winners Quarter-Final of TOL Smash Masters #95 - 06/26/2026, streamed by tol_gaming_lounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2806169574&amp;t=0h26m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>259</video:duration>
-    <video:publication_date>2026-06-26T23:41:54.000Z</video:publication_date>
-    <video:uploader>tol_gaming_lounge</video:uploader>
-    <video:expiration_date>2026-07-04T23:41:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
