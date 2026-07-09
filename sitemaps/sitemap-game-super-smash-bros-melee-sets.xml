@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-eldritch-blast-x/set/105101014/</loc>
+  <lastmod>2026-07-09T22:53:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/930241/image-5597d2da3e28001267305860da87ea3e.png
+    </video:thumbnail_loc>
+    <video:title>
+      nicklebackair vs PAGING | Dr. Kangas, The Eldritch Blast X - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch nicklebackair vs PAGING | Dr. Kangas in Winners Quarter-Final of The Eldritch Blast X, streamed by revelstny
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2816142539&amp;t=0h8m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>635</video:duration>
+    <video:publication_date>2026-07-09T22:41:41.000Z</video:publication_date>
+    <video:uploader>revelstny</video:uploader>
+    <video:expiration_date>2026-07-17T22:41:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-195-chai-rockyy-more-like-no-i-won-t-even-say/set/105087754/</loc>
   <lastmod>2026-07-09T06:37:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-05-31T19:19:35.000Z</video:publication_date>
     <video:uploader>mdva_melee</video:uploader>
     <video:expiration_date>2026-06-08T19:19:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/tapped-in-8-back-in-action/set/103574730/</loc>
-  <lastmod>2026-05-31T19:53:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908214/image-dc550f79a0b816219cd615be2f4eca39.png
-    </video:thumbnail_loc>
-    <video:title>
-      Frostbyte vs LLUY | John Llawless, Tapped In #8 - Back In Action - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Frostbyte vs LLUY | John Llawless in Winners Quarter-Final of Tapped In #8 - Back In Action, streamed by mdva_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2785381689&amp;t=3h12m55s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1643</video:duration>
-    <video:publication_date>2026-05-31T19:05:23.000Z</video:publication_date>
-    <video:uploader>mdva_melee</video:uploader>
-    <video:expiration_date>2026-06-08T19:05:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
