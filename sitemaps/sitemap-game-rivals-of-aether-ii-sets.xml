@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-73/set/105113845/</loc>
+  <lastmod>2026-07-10T04:48:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/930685/image-c0262be89d44a68bf9cbca1002fd4fa0.png
+    </video:thumbnail_loc>
+    <video:title>
+      GRL | Plastic Dinos vs BLZE | McLovin, Wasteland Warriors #73 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GRL | Plastic Dinos vs BLZE | McLovin in Losers Semi-Final of Wasteland Warriors #73, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2816294845&amp;t=2h43m25s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>579</video:duration>
+    <video:publication_date>2026-07-10T04:37:33.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2026-07-18T04:37:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-73/set/105113844/</loc>
-  <lastmod>2026-07-10T04:12:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-10T04:32:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2816294845&amp;t=2h18m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1305</video:duration>
+    <video:duration>1005</video:duration>
     <video:publication_date>2026-07-10T04:12:12.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-07-18T04:12:12.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-06-04T00:06:55.000Z</video:publication_date>
     <video:uploader>pghrivals</video:uploader>
     <video:expiration_date>2026-06-12T00:06:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-burn-10-22/set/103664895/</loc>
-  <lastmod>2026-06-04T00:50:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/919117/image-1ca0dc15c24a90866e8ce5af4440919f.png
-    </video:thumbnail_loc>
-    <video:title>
-      AGENCY | shane vs KyleTM, HoG: Burn 10.22 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AGENCY | shane vs KyleTM in Winners Semi-Final of HoG: Burn 10.22, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2788020038&amp;t=0h27m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1505</video:duration>
-    <video:publication_date>2026-06-03T23:55:11.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-06-11T23:55:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
