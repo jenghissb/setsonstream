@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esports-festival-2026/set/105172543/</loc>
+  <lastmod>2026-07-11T14:58:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911088/image-ba863775f1a910271d464328b678a9f6.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ILoveBuffLadies vs arghaggg, eSports Festival 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ILoveBuffLadies vs arghaggg in Losers Round 5 of eSports Festival 2026, streamed by Tekkenaustria
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817430188&amp;t=1h23m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>767</video:duration>
+    <video:publication_date>2026-07-11T14:40:48.000Z</video:publication_date>
+    <video:uploader>Tekkenaustria</video:uploader>
+    <video:expiration_date>2026-07-19T14:40:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/only-the-best-2026/set/105171781/</loc>
   <lastmod>2026-07-11T14:33:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-06-27T15:38:18.000Z</video:publication_date>
     <video:uploader>gamingloods</video:uploader>
     <video:expiration_date>2026-07-05T15:38:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/kel-x-yomi-turniej-tekken-8-twt/set/104694888/</loc>
-  <lastmod>2026-06-27T15:44:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/920247/image-1085b2e7a8b0d395b1242da0df66c316.png
-    </video:thumbnail_loc>
-    <video:title>
-      GG | Tapczan30 vs Rywciu, KEL x YOMI - Turniej Tekken 8 [TWT] - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch GG | Tapczan30 vs Rywciu in Winners Semi-Final of KEL x YOMI - Turniej Tekken 8 [TWT], streamed by YOMIPoznanFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2806513834&amp;t=5h3m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>188</video:duration>
-    <video:publication_date>2026-06-27T15:34:37.000Z</video:publication_date>
-    <video:uploader>YOMIPoznanFGC</video:uploader>
-    <video:expiration_date>2026-07-05T15:34:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
