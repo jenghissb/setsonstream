@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/iron-grid-xlv/set/105195366/</loc>
+  <lastmod>2026-07-11T20:47:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/922385/image-0765c0d515e9dc8ff5c25771fd71e7c3.png
+    </video:thumbnail_loc>
+    <video:title>
+      CreakyAxe vs Gab0, Iron Grid XLV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CreakyAxe vs Gab0 in Winners Quarter-Final of Iron Grid XLV, streamed by Pandabetic
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817594075&amp;t=2h47m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>411</video:duration>
+    <video:publication_date>2026-07-11T20:32:38.000Z</video:publication_date>
+    <video:uploader>Pandabetic</video:uploader>
+    <video:expiration_date>2026-07-19T20:32:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/bam-16-battle-arena-melbourne-16/set/105124461/</loc>
   <lastmod>2026-07-11T04:22:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-03-19T03:14:37.000Z</video:publication_date>
     <video:uploader>MEECHY72</video:uploader>
     <video:expiration_date>2026-03-27T03:14:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/side-seven-skirmish-27/set/100567451/</loc>
-  <lastmod>2026-03-19T03:27:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/866069/image-7ea7e21c4287225d0ffa233b10c798b8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Arcueid Flow vs ELCG | NaCl, SIDE SEVEN SKIRMISH 27 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Arcueid Flow vs ELCG | NaCl in Losers Semi-Final of SIDE SEVEN SKIRMISH 27, streamed by MEECHY72
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2725989631&amp;t=1h37m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>972</video:duration>
-    <video:publication_date>2026-03-19T02:58:21.000Z</video:publication_date>
-    <video:uploader>MEECHY72</video:uploader>
-    <video:expiration_date>2026-03-27T02:58:21.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
