@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/greebcrib-2026/set/105170637/</loc>
+  <lastmod>2026-07-11T12:47:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901349/image-fe93d569078bd75460c5aaf62ba788c1.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Steingrim vs Veldor, GreebCrib 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Steingrim vs Veldor in Round 8 of GreebCrib 2026, streamed by casualgamingno
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817367311&amp;t=1h24m45s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>567</video:duration>
+    <video:publication_date>2026-07-11T12:31:29.000Z</video:publication_date>
+    <video:uploader>casualgamingno</video:uploader>
+    <video:expiration_date>2026-07-19T12:31:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/second-wind-2026/set/105163477/</loc>
   <lastmod>2026-07-11T08:38:43.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-06-06T03:51:32.000Z</video:publication_date>
     <video:uploader>cptwoodbeard</video:uploader>
     <video:expiration_date>2026-06-14T03:51:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-roastery-no-62/set/103737612/</loc>
-  <lastmod>2026-06-05T20:38:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/918015/image-3b8f4e2be45208924f5be1c32b62c23c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wales | Rain vs Cool beans | Pedlar, The Roastery: No.62 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wales | Rain vs Cool beans | Pedlar in Grand Final of The Roastery: No.62, streamed by SmashWales
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2789370569&amp;t=2h6m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1004</video:duration>
-    <video:publication_date>2026-06-05T19:57:55.000Z</video:publication_date>
-    <video:uploader>SmashWales</video:uploader>
-    <video:expiration_date>2026-06-13T19:57:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
