@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-543/set/105139317/</loc>
+  <lastmod>2026-07-10T23:32:32.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/930540/image-137ab24949edf23b6b03ac4ee23696a5.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jelato vs Slasher, Adventure B-Airs #543 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jelato vs Slasher in Winners Round 1 of Adventure B-Airs #543, streamed by bros_calamity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2816989000&amp;t=0h5m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1249</video:duration>
+    <video:publication_date>2026-07-10T23:10:55.000Z</video:publication_date>
+    <video:uploader>bros_calamity</video:uploader>
+    <video:expiration_date>2026-07-18T23:10:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-73/set/105113845/</loc>
   <lastmod>2026-07-10T04:48:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-06-04T00:13:20.000Z</video:publication_date>
     <video:uploader>GamersOnTheEdge</video:uploader>
     <video:expiration_date>2026-06-12T00:13:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fries-on-a-salad-236-armoredgohma432-edition/set/103665564/</loc>
-  <lastmod>2026-06-04T00:50:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/917409/image-a99dcc21eb66ce703fdff5a55320a721.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      CGMM | Vv vs clementine, Fries on a Salad #236: ArmoredGohma432 Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CGMM | Vv vs clementine in Winners Quarter-Final of Fries on a Salad #236: ArmoredGohma432 Edition, streamed by pghrivals
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2788035643&amp;t=0h15m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>982</video:duration>
-    <video:publication_date>2026-06-04T00:06:55.000Z</video:publication_date>
-    <video:uploader>pghrivals</video:uploader>
-    <video:expiration_date>2026-06-12T00:06:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
