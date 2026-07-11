@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/bam-16-battle-arena-melbourne-16/set/105124479/</loc>
+  <lastmod>2026-07-11T01:03:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868670/image-41f807dd0cd5324c2fc18b74e0545132.png
+    </video:thumbnail_loc>
+    <video:title>
+      Photons vs Timic83, BAM 16: Battle Arena Melbourne 16 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Photons vs Timic83 in Winners Round 1 of BAM 16: Battle Arena Melbourne 16, streamed by newgameplustv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=newgameplustv&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>411</video:duration>
+    <video:publication_date>2026-07-11T01:03:15.000Z</video:publication_date>
+    <video:uploader>newgameplustv</video:uploader>
+    <video:expiration_date>2026-07-19T01:03:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/esports-world-cup-2026-fatal-fury-city-of-the-wolves-lcq/set/104995211/</loc>
   <lastmod>2026-07-05T16:38:50.000Z</lastmod>
   <changefreq>daily</changefreq>
