@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/iron-grid-xlv/set/105197164/</loc>
-  <lastmod>2026-07-11T20:48:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-july-2026/set/105206880/</loc>
+  <lastmod>2026-07-11T22:01:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/922385/image-0765c0d515e9dc8ff5c25771fd71e7c3.png
+      https://images.start.gg/images/tournament/922902/image-7bfb7e501353ded38477915d062d2786.png
     </video:thumbnail_loc>
     <video:title>
-      GeoLancer vs UGNYC | Azure Dynamo, Iron Grid XLV - Sets on Stream
+      Elysian vs TBN | Sibyl, Astral Beatdown July 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch GeoLancer vs UGNYC | Azure Dynamo in Winners Quarter-Final of Iron Grid XLV, streamed by TempestFGC
+      Watch Elysian vs TBN | Sibyl in Winners Semi-Final of Astral Beatdown July 2026, streamed by norcalgranblue
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817564616&amp;t=3h46m46s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?channel=norcalgranblue&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1122</video:duration>
-    <video:publication_date>2026-07-11T20:48:24.000Z</video:publication_date>
-    <video:uploader>TempestFGC</video:uploader>
-    <video:expiration_date>2026-07-19T20:48:24.000Z</video:expiration_date>
+    <video:duration>468</video:duration>
+    <video:publication_date>2026-07-11T22:01:49.000Z</video:publication_date>
+    <video:uploader>norcalgranblue</video:uploader>
+    <video:expiration_date>2026-07-19T22:01:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/socal-colosseum-clash-32/set/105200466/</loc>
+  <lastmod>2026-07-11T22:01:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/922419/image-279e6dabb43d238c0551dd35eee29b86.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SR | Virgoux vs FISH | Shino, SoCal Colosseum Clash #32 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SR | Virgoux vs FISH | Shino in Winners Final of SoCal Colosseum Clash #32, streamed by SoCalColosseum3
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817736202&amp;t=1h3m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>465</video:duration>
+    <video:publication_date>2026-07-11T22:01:52.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum3</video:uploader>
+    <video:expiration_date>2026-07-19T22:01:52.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/juicy-monthly-july-11th-2026/set/105183965/</loc>
-  <lastmod>2026-07-11T20:51:45.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-11T21:11:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +66,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2817625177&amp;t=2h26m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>921</video:duration>
+    <video:duration>1136</video:duration>
     <video:publication_date>2026-07-11T20:51:45.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-07-19T20:51:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/iron-grid-xlv/set/105197164/</loc>
+  <lastmod>2026-07-11T21:11:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/922385/image-0765c0d515e9dc8ff5c25771fd71e7c3.png
+    </video:thumbnail_loc>
+    <video:title>
+      GeoLancer vs UGNYC | Azure Dynamo, Iron Grid XLV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GeoLancer vs UGNYC | Azure Dynamo in Winners Quarter-Final of Iron Grid XLV, streamed by TempestFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817564616&amp;t=3h46m46s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>497</video:duration>
+    <video:publication_date>2026-07-11T20:48:24.000Z</video:publication_date>
+    <video:uploader>TempestFGC</video:uploader>
+    <video:expiration_date>2026-07-19T20:48:24.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -2614,30 +2662,6 @@
     <video:publication_date>2026-04-18T01:00:43.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-04-26T01:00:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/the-king-of-oasis-tournament-special/set/101734233/</loc>
-  <lastmod>2026-04-18T01:13:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901578/image-6202bde999343c51f975c51c534a6aa1.png
-    </video:thumbnail_loc>
-    <video:title>
-      DNBcool vs KoFrey, The King of Oasis Tournament Special - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DNBcool vs KoFrey in Winners Final of The King of Oasis Tournament Special, streamed by cokemilktv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2750664249&amp;t=0h47m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>513</video:duration>
-    <video:publication_date>2026-04-18T00:37:47.000Z</video:publication_date>
-    <video:uploader>cokemilktv</video:uploader>
-    <video:expiration_date>2026-04-26T00:37:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

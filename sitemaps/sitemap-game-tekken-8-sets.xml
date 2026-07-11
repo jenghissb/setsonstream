@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/northern-battles-07-11-2026-toronto-s-monthly-fighting-game-event/set/105189983/</loc>
+  <lastmod>2026-07-11T21:31:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/920859/image-2cfe80f5792448748a7def9eaa917139.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ryu Housen vs googy, Northern Battles 07/11/2026 - Toronto&apos;s Monthly Fighting game event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ryu Housen vs googy in Winners Quarter-Final of Northern Battles 07/11/2026 - Toronto&apos;s Monthly Fighting game event, streamed by torontotoptiers
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817540733&amp;t=4h43m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>417</video:duration>
+    <video:publication_date>2026-07-11T21:10:10.000Z</video:publication_date>
+    <video:uploader>torontotoptiers</video:uploader>
+    <video:expiration_date>2026-07-19T21:10:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/iron-grid-xlv/set/105194765/</loc>
-  <lastmod>2026-07-11T20:45:35.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-11T21:14:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2817652206&amp;t=1h45m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1291</video:duration>
+    <video:duration>800</video:duration>
     <video:publication_date>2026-07-11T20:45:35.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2026-07-19T20:45:35.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-06-27T21:08:34.000Z</video:publication_date>
     <video:uploader>lord_tkd</video:uploader>
     <video:expiration_date>2026-07-05T21:08:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/the-heat-smash-tournament-2026/set/104709805/</loc>
-  <lastmod>2026-06-27T21:24:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/921523/image-2331e883f77fb9157997b9fc45b3a97a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TTK | DRAKHOK vs Ttk | Rodrigo_gti, The Heat Smash Tournament 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TTK | DRAKHOK vs Ttk | Rodrigo_gti in Winners Semi-Final of The Heat Smash Tournament 2026, streamed by lord_tkd
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2806801426&amp;t=2h8m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>588</video:duration>
-    <video:publication_date>2026-06-27T21:07:06.000Z</video:publication_date>
-    <video:uploader>lord_tkd</video:uploader>
-    <video:expiration_date>2026-07-05T21:07:06.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
