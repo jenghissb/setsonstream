@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/igm-summer-showdown-2026/set/105237669/</loc>
+  <lastmod>2026-07-12T15:54:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/899785/image-5a2717cfd3afed73cd62c664ca25575d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Space vs Socky, IGM Summer Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Space vs Socky in Grand Final of IGM Summer Showdown 2026, streamed by IrishGamingMarket
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2818167187&amp;t=4h2m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1167</video:duration>
+    <video:publication_date>2026-07-12T15:30:36.000Z</video:publication_date>
+    <video:uploader>IrishGamingMarket</video:uploader>
+    <video:expiration_date>2026-07-20T15:30:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/igm-summer-showdown-2026/set/105237668/</loc>
   <lastmod>2026-07-12T15:02:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-05-02T21:34:28.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2026-05-10T21:34:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/seasonal-mix-spring-2026/set/102415770/</loc>
-  <lastmod>2026-05-02T21:13:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/905023/image-576b456042cff2921e8bfbd26e72052b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      RG | SilverbackSenpai vs YoItzEdd, Seasonal Mix Spring 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RG | SilverbackSenpai vs YoItzEdd in Grand Final of Seasonal Mix Spring 2026, streamed by flynnsgamingfl
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2762590784&amp;t=1h35m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1146</video:duration>
-    <video:publication_date>2026-05-02T20:40:43.000Z</video:publication_date>
-    <video:uploader>flynnsgamingfl</video:uploader>
-    <video:expiration_date>2026-05-10T20:40:43.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
