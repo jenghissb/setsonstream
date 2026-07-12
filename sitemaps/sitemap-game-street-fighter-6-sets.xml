@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/only-the-best-2026/set/105180447/</loc>
-  <lastmod>2026-07-12T12:23:06.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cross-ouest-2-7/set/105237368/</loc>
+  <lastmod>2026-07-12T14:03:24.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/925272/image-2d12c8f9cad79d997f1625775800d884.png
+    </video:thumbnail_loc>
+    <video:title>
+      CLW | BiG_T vs Bagarre2Niort | Pagal, CROSS OUEST #2.7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CLW | BiG_T vs Bagarre2Niort | Pagal in Winners Semi-Final of CROSS OUEST #2.7, streamed by Claws_TV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=Claws_TV&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>781</video:duration>
+    <video:publication_date>2026-07-12T14:03:24.000Z</video:publication_date>
+    <video:uploader>Claws_TV</video:uploader>
+    <video:expiration_date>2026-07-20T14:03:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/only-the-best-2026/set/105180433/</loc>
+  <lastmod>2026-07-12T13:15:20.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863086/image-1d5bec78da0c036e1abe36e3a0278b71.png
+    </video:thumbnail_loc>
+    <video:title>
+      ShadyImpostor vs N2N | Bryzee, Only The Best 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ShadyImpostor vs N2N | Bryzee in Grand Final of Only The Best 2026, streamed by TeamSp00ky
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2818088777&amp;t=5h18m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>627</video:duration>
+    <video:publication_date>2026-07-12T13:00:50.000Z</video:publication_date>
+    <video:uploader>TeamSp00ky</video:uploader>
+    <video:expiration_date>2026-07-20T13:00:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/only-the-best-2026/set/105180448/</loc>
+  <lastmod>2026-07-12T13:01:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/863086/image-1d5bec78da0c036e1abe36e3a0278b71.png
+    </video:thumbnail_loc>
+    <video:title>
+      N2N | Bryzee vs SYG | Garnet, Only The Best 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch N2N | Bryzee vs SYG | Garnet in Losers Final of Only The Best 2026, streamed by TeamSp00ky
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2818088777&amp;t=5h1m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>805</video:duration>
+    <video:publication_date>2026-07-12T12:43:40.000Z</video:publication_date>
+    <video:uploader>TeamSp00ky</video:uploader>
+    <video:expiration_date>2026-07-20T12:43:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/only-the-best-2026/set/105180447/</loc>
+  <lastmod>2026-07-12T12:40:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +90,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2818088777&amp;t=4h40m57s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>992</video:duration>
+    <video:duration>849</video:duration>
     <video:publication_date>2026-07-12T12:23:06.000Z</video:publication_date>
     <video:uploader>TeamSp00ky</video:uploader>
     <video:expiration_date>2026-07-20T12:23:06.000Z</video:expiration_date>
@@ -7150,54 +7222,6 @@
     <video:publication_date>2026-07-01T01:48:16.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-07-09T01:48:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/double-perfect-24/set/104836051/</loc>
-  <lastmod>2026-07-01T02:07:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/927267/image-4750e5051f3a6061e3db5f2736ab083d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Rize vs GalletaPR, Double Perfect #24 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rize vs GalletaPR in Winners Quarter-Final of Double Perfect #24, streamed by foothillfootsies
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2809315642&amp;t=1h2m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>740</video:duration>
-    <video:publication_date>2026-07-01T01:47:27.000Z</video:publication_date>
-    <video:uploader>foothillfootsies</video:uploader>
-    <video:expiration_date>2026-07-09T01:47:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-106/set/104834637/</loc>
-  <lastmod>2026-07-01T01:57:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/926795/image-ddaa0d74077ef9b5a878c6a0dbc8ba9c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      4o4 | chrisymandias vs 4o4 | byronic zero, 4o4 by Sh33rz: Street Fighter #106 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4o4 | chrisymandias vs 4o4 | byronic zero in Winners Semi-Final of 4o4 by Sh33rz: Street Fighter #106, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2809280815&amp;t=1h44m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>422</video:duration>
-    <video:publication_date>2026-07-01T01:41:29.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-07-09T01:41:29.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
