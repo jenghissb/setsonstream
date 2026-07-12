@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bam-16-battle-arena-melbourne-16/set/105229391/</loc>
+  <lastmod>2026-07-12T06:05:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868670/image-41f807dd0cd5324c2fc18b74e0545132.png
+    </video:thumbnail_loc>
+    <video:title>
+      VARREL | Tokido vs Falcons/Qanba | Micky, BAM 16: Battle Arena Melbourne 16 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VARREL | Tokido vs Falcons/Qanba | Micky in Losers Round 1 of BAM 16: Battle Arena Melbourne 16, streamed by capcomfighters
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2818031099&amp;t=0h41m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>680</video:duration>
+    <video:publication_date>2026-07-12T05:53:02.000Z</video:publication_date>
+    <video:uploader>capcomfighters</video:uploader>
+    <video:expiration_date>2026-07-20T05:53:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/susd-2026-july-11-sf6-x-puyo-puyo-tetris/set/105214465/</loc>
   <lastmod>2026-07-12T02:16:47.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -603,7 +627,7 @@
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/most-wanted-4/set/105163485/</loc>
   <lastmod>2026-07-11T22:53:52.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-06-30T23:36:33.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2026-07-08T23:36:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/block-string-wonderfly-110/set/104807553/</loc>
-  <lastmod>2026-06-30T01:56:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/926985/image-dbdafbefb647aca7500ff375ee33c06f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dalope vs RtB | Daft Flunk, Block String @ Wonderfly #110 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dalope vs RtB | Daft Flunk in Losers Final of Block String @ Wonderfly #110, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2808520774&amp;t=1h39m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>523</video:duration>
-    <video:publication_date>2026-06-30T01:36:50.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2026-07-08T01:36:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

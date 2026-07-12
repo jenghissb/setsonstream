@@ -1,33 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/dream-con-championship-series-2026/set/105224199/</loc>
-  <lastmod>2026-07-12T03:42:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/second-wind-2026/set/105229414/</loc>
+  <lastmod>2026-07-12T05:22:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887941/image-c2b52bc617a6015971a1a5aa96ad746d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ethan yan vs EVE | Tupai, Second Wind 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ethan yan vs EVE | Tupai in Losers Semi-Final of Second Wind 2026, streamed by respawnesportscentre
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817796872&amp;t=6h15m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1448</video:duration>
+    <video:publication_date>2026-07-12T04:53:35.000Z</video:publication_date>
+    <video:uploader>respawnesportscentre</video:uploader>
+    <video:expiration_date>2026-07-20T04:53:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/second-wind-2026/set/105229399/</loc>
+  <lastmod>2026-07-12T04:55:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887941/image-c2b52bc617a6015971a1a5aa96ad746d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Toothy vs Aura-nui, Second Wind 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Toothy vs Aura-nui in Winners Final of Second Wind 2026, streamed by respawnesportscentre
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817796872&amp;t=5h59m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>976</video:duration>
+    <video:publication_date>2026-07-12T04:37:14.000Z</video:publication_date>
+    <video:uploader>respawnesportscentre</video:uploader>
+    <video:expiration_date>2026-07-20T04:37:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/dream-con-championship-series-2026/set/105224184/</loc>
+  <lastmod>2026-07-12T04:33:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/856169/image-3c92adb19dd6d957fecffd28f329bb66.jpg
     </video:thumbnail_loc>
     <video:title>
-      ONi | Riddum vs Kanme | Shadow 20z, Dream Con Championship Series 2026 - Sets on Stream
+      PAR | TheOriginalCrush vs Kanme | Shadow 20z, Dream Con Championship Series 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch ONi | Riddum vs Kanme | Shadow 20z in Losers Final of Dream Con Championship Series 2026, streamed by Dreamcongaming
+      Watch PAR | TheOriginalCrush vs Kanme | Shadow 20z in Grand Final of Dream Con Championship Series 2026, streamed by Dreamcongaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817544553&amp;t=11h9m14s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2817544553&amp;t=11h22m52s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>967</video:duration>
-    <video:publication_date>2026-07-12T03:42:01.000Z</video:publication_date>
+    <video:duration>1797</video:duration>
+    <video:publication_date>2026-07-12T03:55:39.000Z</video:publication_date>
     <video:uploader>Dreamcongaming</video:uploader>
-    <video:expiration_date>2026-07-20T03:42:01.000Z</video:expiration_date>
+    <video:expiration_date>2026-07-20T03:55:39.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/frame-franzy-xxvi/set/105224238/</loc>
-  <lastmod>2026-07-12T03:43:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-12T03:59:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +90,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2817804142&amp;t=4h51m48s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>886</video:duration>
+    <video:duration>766</video:duration>
     <video:publication_date>2026-07-12T03:43:22.000Z</video:publication_date>
     <video:uploader>laredofgc</video:uploader>
     <video:expiration_date>2026-07-20T03:43:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/dream-con-championship-series-2026/set/105224199/</loc>
+  <lastmod>2026-07-12T03:59:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856169/image-3c92adb19dd6d957fecffd28f329bb66.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ONi | Riddum vs Kanme | Shadow 20z, Dream Con Championship Series 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ONi | Riddum vs Kanme | Shadow 20z in Losers Final of Dream Con Championship Series 2026, streamed by Dreamcongaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2817544553&amp;t=11h9m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>740</video:duration>
+    <video:publication_date>2026-07-12T03:42:01.000Z</video:publication_date>
+    <video:uploader>Dreamcongaming</video:uploader>
+    <video:expiration_date>2026-07-20T03:42:01.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -8326,78 +8398,6 @@
     <video:publication_date>2026-07-02T01:25:09.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-07-10T01:25:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-104/set/104860243/</loc>
-  <lastmod>2026-07-02T01:43:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/926797/image-83e2bcd6ee237e254b3504b6203db705.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      O.N.2 vs Jesse(JJ), 4o4 by Sh33rz: Tekken 8 #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch O.N.2 vs Jesse(JJ) in Winners Quarter-Final of 4o4 by Sh33rz: Tekken 8 #104, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2810061997&amp;t=1h9m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>649</video:duration>
-    <video:publication_date>2026-07-02T01:24:44.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-07-10T01:24:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-104/set/104860234/</loc>
-  <lastmod>2026-07-02T01:43:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/926797/image-83e2bcd6ee237e254b3504b6203db705.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      PrimeStone vs HoboPC, 4o4 by Sh33rz: Tekken 8 #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PrimeStone vs HoboPC in Winners Round 2 of 4o4 by Sh33rz: Tekken 8 #104, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2810061997&amp;t=1h7m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>724</video:duration>
-    <video:publication_date>2026-07-02T01:22:27.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-07-10T01:22:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/4o4-by-sh33rz-tekken-8-104/set/104860244/</loc>
-  <lastmod>2026-07-02T01:29:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/926797/image-83e2bcd6ee237e254b3504b6203db705.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BOLT | KhalRhaego vs REHOO, 4o4 by Sh33rz: Tekken 8 #104 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BOLT | KhalRhaego vs REHOO in Winners Quarter-Final of 4o4 by Sh33rz: Tekken 8 #104, streamed by 4o4esports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2810061997&amp;t=0h57m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>762</video:duration>
-    <video:publication_date>2026-07-02T01:12:34.000Z</video:publication_date>
-    <video:uploader>4o4esports</video:uploader>
-    <video:expiration_date>2026-07-10T01:12:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
