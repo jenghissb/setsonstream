@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/arcade-time-knockout-smash-brothers-tournament-with-hungrybox-14-1/set/105286397/</loc>
-  <lastmod>2026-07-14T04:51:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-14T05:15:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2819424390&amp;t=4h43m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>475</video:duration>
+    <video:duration>1420</video:duration>
     <video:publication_date>2026-07-14T04:51:10.000Z</video:publication_date>
     <video:uploader>Duostudios</video:uploader>
     <video:expiration_date>2026-07-22T04:51:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-276-1/set/105283679/</loc>
-  <lastmod>2026-07-14T04:12:36.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/932770/image-235e9249ce7c73c7f95d119ed6889d38.png
-    </video:thumbnail_loc>
-    <video:title>
-      CTG | AnthonyIsntCool vs Hawk, Movement Smash # 276 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CTG | AnthonyIsntCool vs Hawk in Grand Final of Movement Smash # 276, streamed by MovementEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=MovementEsports&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2789</video:duration>
-    <video:publication_date>2026-07-14T04:12:36.000Z</video:publication_date>
-    <video:uploader>MovementEsports</video:uploader>
-    <video:expiration_date>2026-07-22T04:12:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -118,6 +94,30 @@
     <video:publication_date>2026-07-14T04:15:37.000Z</video:publication_date>
     <video:uploader>Duostudios</video:uploader>
     <video:expiration_date>2026-07-22T04:15:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/movement-smash-276-1/set/105283679/</loc>
+  <lastmod>2026-07-14T05:58:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/932770/image-235e9249ce7c73c7f95d119ed6889d38.png
+    </video:thumbnail_loc>
+    <video:title>
+      CTG | AnthonyIsntCool vs Hawk, Movement Smash # 276 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CTG | AnthonyIsntCool vs Hawk in Grand Final of Movement Smash # 276, streamed by MovementEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2819442751&amp;t=3h39m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-07-14T04:12:36.000Z</video:publication_date>
+    <video:uploader>MovementEsports</video:uploader>
+    <video:expiration_date>2026-07-22T04:12:36.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
