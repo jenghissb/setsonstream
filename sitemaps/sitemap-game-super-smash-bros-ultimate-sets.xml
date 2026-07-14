@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/cathedral-clash-77/set/105292056/</loc>
+  <lastmod>2026-07-14T18:11:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/931506/image-8f3f70762e95fd49373a69519fa6ef62.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CC | Nevidium vs Underdemon, Cathedral Clash #77 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CC | Nevidium vs Underdemon in Winners Round 1 of Cathedral Clash #77, streamed by SurreyVGS
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2819933212&amp;t=0h44m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>460</video:duration>
+    <video:publication_date>2026-07-14T18:11:44.000Z</video:publication_date>
+    <video:uploader>SurreyVGS</video:uploader>
+    <video:expiration_date>2026-07-22T18:11:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-275/set/105289874/</loc>
   <lastmod>2026-07-14T12:30:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-07-04T12:58:25.000Z</video:publication_date>
     <video:uploader>letzsmash_ssb</video:uploader>
     <video:expiration_date>2026-07-12T12:58:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/arcalux-2026-geek-gaming-convention/set/104946414/</loc>
-  <lastmod>2026-07-04T13:17:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/916021/image-3be90b9afb376b2ca83385bb3624e20c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tapsy vs TL | Kakpu, Arcalux 2026 - Geek &amp; Gaming Convention - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tapsy vs TL | Kakpu in Winners Quarter-Final of Arcalux 2026 - Geek &amp; Gaming Convention, streamed by rs_axi0s
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2811913216&amp;t=2h13m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1091</video:duration>
-    <video:publication_date>2026-07-04T12:58:05.000Z</video:publication_date>
-    <video:uploader>rs_axi0s</video:uploader>
-    <video:expiration_date>2026-07-12T12:58:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
