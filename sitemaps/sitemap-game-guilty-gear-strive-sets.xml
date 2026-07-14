@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/le-hub-233/set/105293798/</loc>
+  <lastmod>2026-07-14T22:42:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/931321/image-b3b2c2664484baf34b588fd4a722b789.png
+    </video:thumbnail_loc>
+    <video:title>
+      ProgAres vs Jeezus, Le Hub 233 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ProgAres vs Jeezus in Winners Semi-Final of Le Hub 233, streamed by hubcityfgc2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=hubcityfgc2&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>918</video:duration>
+    <video:publication_date>2026-07-14T22:42:08.000Z</video:publication_date>
+    <video:uploader>hubcityfgc2</video:uploader>
+    <video:expiration_date>2026-07-22T22:42:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/barro-s-beatdown-19/set/105288572/</loc>
   <lastmod>2026-07-14T05:39:34.000Z</lastmod>
   <changefreq>daily</changefreq>
