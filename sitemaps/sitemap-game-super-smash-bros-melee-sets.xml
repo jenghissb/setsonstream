@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-389/set/105351211/</loc>
+  <lastmod>2026-07-16T22:07:10.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/933914/image-ba4fab0d018cbf93fcb7885725db2458.png
+    </video:thumbnail_loc>
+    <video:title>
+      ChrisBall vs A-Pow, Salt Water Smash 389 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ChrisBall vs A-Pow in Round 1 of Salt Water Smash 389, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2821669804&amp;t=0h39m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>752</video:duration>
+    <video:publication_date>2026-07-16T22:07:10.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-07-24T22:07:10.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-196-lindsey-graham-was-a-known-g-w-main/set/105340051/</loc>
   <lastmod>2026-07-16T05:37:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-06-24T23:13:06.000Z</video:publication_date>
     <video:uploader>GameGroveWV</video:uploader>
     <video:expiration_date>2026-07-02T23:13:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-146/set/104566281/</loc>
-  <lastmod>2026-06-24T23:14:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/924926/image-7ca41f99a8614d0fbfad1ff641015fb7.png
-    </video:thumbnail_loc>
-    <video:title>
-      MRSH | jrocket vs BLAST!!! | Penobo, Raptor Boost 146 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MRSH | jrocket vs BLAST!!! | Penobo in Winners Round 1 of Raptor Boost 146, streamed by GameGroveWV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2804612226&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1525</video:duration>
-    <video:publication_date>2026-06-24T22:47:22.000Z</video:publication_date>
-    <video:uploader>GameGroveWV</video:uploader>
-    <video:expiration_date>2026-07-02T22:47:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
