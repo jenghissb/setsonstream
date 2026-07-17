@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-145-1/set/105373033/</loc>
+  <lastmod>2026-07-17T10:22:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/930293/image-7d88ada2e4e3b74dc498a2f49af17548.png
+    </video:thumbnail_loc>
+    <video:title>
+      けん(ken) vs Reo, Smash薬院#145 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch けん(ken) vs Reo in Winners Round 1 of Smash薬院#145, streamed by スマイン-Smash 薬院-
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/MjTTTtKZKVA?start=694s
+    </video:player_loc>
+    <video:duration>351</video:duration>
+    <video:publication_date>2026-07-17T10:16:16.000Z</video:publication_date>
+    <video:uploader>スマイン-Smash 薬院-</video:uploader>
+    <video:expiration_date>2026-07-25T10:16:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/tgz-throwdown-thursdays-256/set/105369564/</loc>
   <lastmod>2026-07-17T06:10:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-07-08T23:48:39.000Z</video:publication_date>
     <video:uploader>kev_tournaments</video:uploader>
     <video:expiration_date>2026-07-16T23:48:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/game-night-at-dave-and-busters-100-monthly/set/105073230/</loc>
-  <lastmod>2026-07-08T23:56:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/929759/image-8e4209a0a2a4079daf91cf57cde6d315.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MMG+ | BIG CRUMB vs GTN | Smokingaces, Game Night at Dave and Busters #100 Monthly! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MMG+ | BIG CRUMB vs GTN | Smokingaces in Winners Round 2 of Game Night at Dave and Busters #100 Monthly!, streamed by vgbootcamp
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2815384901&amp;t=0h19m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>475</video:duration>
-    <video:publication_date>2026-07-08T23:46:51.000Z</video:publication_date>
-    <video:uploader>vgbootcamp</video:uploader>
-    <video:expiration_date>2026-07-16T23:46:51.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
