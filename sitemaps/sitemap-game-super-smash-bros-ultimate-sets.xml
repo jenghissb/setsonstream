@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/newgate-67-1/set/105383284/</loc>
+  <lastmod>2026-07-17T21:10:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/932484/image-a5f3295ddfb1900cc886ed155e73212e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Souren vs SBF | Vérix, Newgate #67 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Souren vs SBF | Vérix in Winners Final of Newgate #67, streamed by asso_grab
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2822332434&amp;t=2h45m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1083</video:duration>
+    <video:publication_date>2026-07-17T20:51:15.000Z</video:publication_date>
+    <video:uploader>asso_grab</video:uploader>
+    <video:expiration_date>2026-07-25T20:51:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/newgate-67-1/set/105383283/</loc>
-  <lastmod>2026-07-17T20:21:52.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-17T20:51:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2822332434&amp;t=2h15m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1813</video:duration>
+    <video:duration>1750</video:duration>
     <video:publication_date>2026-07-17T20:21:52.000Z</video:publication_date>
     <video:uploader>asso_grab</video:uploader>
     <video:expiration_date>2026-07-25T20:21:52.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-07-09T01:14:07.000Z</video:publication_date>
     <video:uploader>FlashbackFightclub</video:uploader>
     <video:expiration_date>2026-07-17T01:14:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/b-side-smash-9-1/set/105081455/</loc>
-  <lastmod>2026-07-09T01:25:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/927957/image-68cc643205d81dd73ea79533e84672f6.png
-    </video:thumbnail_loc>
-    <video:title>
-      HST | Rocco vs F2 | Flip, B Side Smash #9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch HST | Rocco vs F2 | Flip in Winners Final of B Side Smash #9, streamed by HindsightNE
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2815383255&amp;t=1h48m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>599</video:duration>
-    <video:publication_date>2026-07-09T01:13:17.000Z</video:publication_date>
-    <video:uploader>HindsightNE</video:uploader>
-    <video:expiration_date>2026-07-17T01:13:17.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
