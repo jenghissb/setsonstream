@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gone-fishin-2-still-fishin/set/105315004/</loc>
+  <lastmod>2026-07-18T17:36:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/895559/image-a0949f974d36da18385e14712354b7ae.png
+    </video:thumbnail_loc>
+    <video:title>
+      Donegal | ItalianStallion vs AN2, Gone Fishin&apos; 2: Still Fishin&apos; - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Donegal | ItalianStallion vs AN2 in Winners Round 2 of Gone Fishin&apos; 2: Still Fishin&apos;, streamed by bigfishbelfast2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2822887469&amp;t=7h47m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1307</video:duration>
+    <video:publication_date>2026-07-18T17:12:32.000Z</video:publication_date>
+    <video:uploader>bigfishbelfast2</video:uploader>
+    <video:expiration_date>2026-07-26T17:12:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gone-fishin-2-still-fishin/set/105314866/</loc>
   <lastmod>2026-07-18T10:48:49.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-06-27T01:48:05.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-07-05T01:48:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-guild-trials-63/set/104665346/</loc>
-  <lastmod>2026-06-27T01:52:18.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/921222/image-1a6fdb51a0f0ca4f87d579560a01c7a4.png
-    </video:thumbnail_loc>
-    <video:title>
-      PanCubano vs GGR | goosey, The Guild Trials 63 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PanCubano vs GGR | goosey in Winners Round 1 of The Guild Trials 63, streamed by GuildhallSFL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2806265616&amp;t=0h6m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>503</video:duration>
-    <video:publication_date>2026-06-27T01:36:33.000Z</video:publication_date>
-    <video:uploader>GuildhallSFL</video:uploader>
-    <video:expiration_date>2026-07-05T01:36:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
