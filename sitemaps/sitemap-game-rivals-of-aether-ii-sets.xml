@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/s-factor-x3/set/105445914/</loc>
-  <lastmod>2026-07-18T19:23:08.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/s-factor-x3/set/105457782/</loc>
+  <lastmod>2026-07-18T20:36:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866147/image-c3d0e4f819d1df10be44e05298c09ccc.png
+    </video:thumbnail_loc>
+    <video:title>
+      CakeAssault vs DES | Kebe, S Factor X3 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CakeAssault vs DES | Kebe in Winners Quarter-Final of S Factor X3, streamed by Mang0
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2823102176&amp;t=4h4m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>443</video:duration>
+    <video:publication_date>2026-07-18T20:36:55.000Z</video:publication_date>
+    <video:uploader>Mang0</video:uploader>
+    <video:expiration_date>2026-07-26T20:36:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/s-factor-x3/set/105445914/</loc>
+  <lastmod>2026-07-18T19:53:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2823102176&amp;t=2h51m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1843</video:duration>
+    <video:duration>1143</video:duration>
     <video:publication_date>2026-07-18T19:23:08.000Z</video:publication_date>
     <video:uploader>Mang0</video:uploader>
     <video:expiration_date>2026-07-26T19:23:08.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-06-23T02:33:58.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV2</video:uploader>
     <video:expiration_date>2026-07-01T02:33:58.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-300/set/104529978/</loc>
-  <lastmod>2026-06-23T02:40:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/914543/image-0dce663ead9fa6057c7d2c5ce112b9c6.png
-    </video:thumbnail_loc>
-    <video:title>
-      CLEMNATION | edith vs The Strong One | HamPolo, Fusion #300 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CLEMNATION | edith vs The Strong One | HamPolo in Winners Semi-Final of Fusion #300, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2803100124&amp;t=2h25m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1203</video:duration>
-    <video:publication_date>2026-06-23T02:13:52.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-01T02:13:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
