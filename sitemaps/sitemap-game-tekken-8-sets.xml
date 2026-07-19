@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/boston-blue-beat-beach-episode-2026/set/105507291/</loc>
+  <lastmod>2026-07-19T16:33:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/856746/image-f0025b12696604f79fb6859286a7582f.png
+    </video:thumbnail_loc>
+    <video:title>
+      MTS | Tomoriru vs OA | TennoIX, Boston Blue Beat: Beach Episode 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MTS | Tomoriru vs OA | TennoIX in Winners Final of Boston Blue Beat: Beach Episode 2026, streamed by majinobama
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2823845300&amp;t=1h49m27s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>674</video:duration>
+    <video:publication_date>2026-07-19T16:16:04.000Z</video:publication_date>
+    <video:uploader>majinobama</video:uploader>
+    <video:expiration_date>2026-07-27T16:16:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/kansas-k-o-iv/set/105493718/</loc>
   <lastmod>2026-07-19T05:05:09.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-07-11T08:39:04.000Z</video:publication_date>
     <video:uploader>Tekken Madagascar</video:uploader>
     <video:expiration_date>2026-07-19T08:39:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/only-the-best-2026/set/105165654/</loc>
-  <lastmod>2026-07-11T08:28:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/863086/image-1d5bec78da0c036e1abe36e3a0278b71.png
-    </video:thumbnail_loc>
-    <video:title>
-      FOX | Luxsylva vs nevemusic, Only The Best 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FOX | Luxsylva vs nevemusic in Winners Round 2 of Only The Best 2026, streamed by TeamSp00ky
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817297137&amp;t=0h30m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>558</video:duration>
-    <video:publication_date>2026-07-11T08:12:36.000Z</video:publication_date>
-    <video:uploader>TeamSp00ky</video:uploader>
-    <video:expiration_date>2026-07-19T08:12:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

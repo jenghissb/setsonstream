@@ -18,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2823719271&amp;t=5h25m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>789</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-07-19T15:26:59.000Z</video:publication_date>
     <video:uploader>bigfishbelfast</video:uploader>
     <video:expiration_date>2026-07-27T15:26:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-the-elm-26/set/105508032/</loc>
+  <lastmod>2026-07-19T16:29:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/866075/image-c407fa0107432c080fd04fda5be7ecf6.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tommy vs DrEsportstTeam | EduPorp, Melee At The Elm #26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tommy vs DrEsportstTeam | EduPorp in Winners Round 1 of Melee At The Elm #26, streamed by 22Kteam
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2823902956&amp;t=0h4m26s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1418</video:duration>
+    <video:publication_date>2026-07-19T16:03:20.000Z</video:publication_date>
+    <video:uploader>22Kteam</video:uploader>
+    <video:expiration_date>2026-07-27T16:03:20.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-06-27T20:50:33.000Z</video:publication_date>
     <video:uploader>raviannn</video:uploader>
     <video:expiration_date>2026-07-05T20:50:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gotta-gacha-melee-2/set/104719604/</loc>
-  <lastmod>2026-06-27T21:15:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/917906/image-dcd33d5ff2d000041885d6d128f49c65.png
-    </video:thumbnail_loc>
-    <video:title>
-      schook vs yeti, Gotta Gacha Melee 2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch schook vs yeti in Losers Round 2 of Gotta Gacha Melee 2, streamed by raviannn
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2806843623&amp;t=0h50m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>798</video:duration>
-    <video:publication_date>2026-06-27T20:47:47.000Z</video:publication_date>
-    <video:uploader>raviannn</video:uploader>
-    <video:expiration_date>2026-07-05T20:47:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

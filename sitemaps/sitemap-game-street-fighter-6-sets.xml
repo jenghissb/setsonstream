@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/beast-in-the-east-9/set/105508941/</loc>
+  <lastmod>2026-07-19T16:31:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/876530/image-9337c84f6e6bb2efcdffb80768617109.png
+    </video:thumbnail_loc>
+    <video:title>
+      Docmorales24 vs THG | Child233, Beast in the East 9 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Docmorales24 vs THG | Child233 in Winners Semi-Final of Beast in the East 9, streamed by kpblive
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2823891748&amp;t=0h31m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1004</video:duration>
+    <video:publication_date>2026-07-19T16:14:11.000Z</video:publication_date>
+    <video:uploader>kpblive</video:uploader>
+    <video:expiration_date>2026-07-27T16:14:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/kansas-k-o-iv/set/105489281/</loc>
   <lastmod>2026-07-19T03:29:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-10T04:53:22.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-07-18T04:53:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-214-norcal-street-fighter-6-weekly/set/105117581/</loc>
-  <lastmod>2026-07-10T04:53:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/929313/image-18b7545de05135b8ba2f8a045d3008e1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MAD | DM l El Cubano Loco vs Ryze, Guildhouse Fighters 214 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MAD | DM l El Cubano Loco vs Ryze in Losers Semi-Final of Guildhouse Fighters 214 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2816330192&amp;t=1h56m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>638</video:duration>
-    <video:publication_date>2026-07-10T04:42:04.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2026-07-18T04:42:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
