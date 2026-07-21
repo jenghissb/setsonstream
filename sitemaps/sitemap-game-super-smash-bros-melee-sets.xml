@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kame-house-weekly-164/set/105544355/</loc>
+  <lastmod>2026-07-21T00:43:27.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/933659/image-34a135663c1f4fdf896ba9d5d98e22f7.png
+    </video:thumbnail_loc>
+    <video:title>
+      John Rod vs floaties, Kame House Weekly #164 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch John Rod vs floaties in Winners Quarter-Final of Kame House Weekly #164, streamed by vgbootcamp2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2825016562&amp;t=0h1m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1650</video:duration>
+    <video:publication_date>2026-07-21T00:43:27.000Z</video:publication_date>
+    <video:uploader>vgbootcamp2</video:uploader>
+    <video:expiration_date>2026-07-29T00:43:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-9/set/105522663/</loc>
   <lastmod>2026-07-20T00:15:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-06-28T00:15:27.000Z</video:publication_date>
     <video:uploader>labmonsters</video:uploader>
     <video:expiration_date>2026-07-06T00:15:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/eggdog-house-party-june-2026/set/104739697/</loc>
-  <lastmod>2026-06-28T00:35:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/926223/image-37cb1817ca5f9710838e24b9e99ebbea.png
-    </video:thumbnail_loc>
-    <video:title>
-      parry.gg | DarkGenex vs L7 | Freezus, Eggdog House Party June 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch parry.gg | DarkGenex vs L7 | Freezus in Winners Semi-Final of Eggdog House Party June 2026, streamed by satellitemelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2806862897&amp;t=3h47m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1004</video:duration>
-    <video:publication_date>2026-06-28T00:12:25.000Z</video:publication_date>
-    <video:uploader>satellitemelee</video:uploader>
-    <video:expiration_date>2026-07-06T00:12:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
