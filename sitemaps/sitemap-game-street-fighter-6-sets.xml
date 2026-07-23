@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradisecup-124/set/105611761/</loc>
+  <lastmod>2026-07-23T11:04:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/935288/image-5ba4fa853bed11aaa4d5ab255311f16c.png
+    </video:thumbnail_loc>
+    <video:title>
+      KOTARO vs ジーコ提督(jiiko teitoku), ParadiseCup#124 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch KOTARO vs ジーコ提督(jiiko teitoku) in Round 1 of ParadiseCup#124, streamed by ParadiseFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=ParadiseFGC&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1115</video:duration>
+    <video:publication_date>2026-07-23T11:04:36.000Z</video:publication_date>
+    <video:uploader>ParadiseFGC</video:uploader>
+    <video:expiration_date>2026-07-31T11:04:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/showdown-103/set/105605845/</loc>
   <lastmod>2026-07-23T03:06:44.000Z</lastmod>
   <changefreq>daily</changefreq>
