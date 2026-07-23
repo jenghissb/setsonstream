@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/blodhevn-2026-5hevn-v-for-blodhevn/set/105617591/</loc>
+  <lastmod>2026-07-23T20:58:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/889206/image-171e4478a1b53cac71b588e6ca1d80dd.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GGBergen | Doot vs AIL | Ton, BLODHEVN 2026 — 5Hevn: V for BlodheVn - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GGBergen | Doot vs AIL | Ton in Losers Final of BLODHEVN 2026 — 5Hevn: V for BlodheVn, streamed by FGCRogaland
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2827232449&amp;t=1h38m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>636</video:duration>
+    <video:publication_date>2026-07-23T20:46:54.000Z</video:publication_date>
+    <video:uploader>FGCRogaland</video:uploader>
+    <video:expiration_date>2026-07-31T20:46:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/blodhevn-2026-5hevn-v-for-blodhevn/set/105617590/</loc>
-  <lastmod>2026-07-23T20:32:59.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-23T20:50:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2827232449&amp;t=1h24m42s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>845</video:duration>
+    <video:duration>824</video:duration>
     <video:publication_date>2026-07-23T20:32:59.000Z</video:publication_date>
     <video:uploader>FGCRogaland</video:uploader>
     <video:expiration_date>2026-07-31T20:32:59.000Z</video:expiration_date>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-04-06T02:09:17.000Z</video:publication_date>
     <video:uploader>DreamersForce</video:uploader>
     <video:expiration_date>2026-04-14T02:09:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/vegas-climax-vi/set/101289348/</loc>
-  <lastmod>2026-04-06T02:11:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/876490/image-a80bb2f5bda9fe923293512949d7f702.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Falcons ET vs BS MDC KoopaDTJ, Vegas Climax VI - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Falcons ET vs BS MDC KoopaDTJ in Winners Semi-Final of Vegas Climax VI, streamed by DreamersForce
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2740802061&amp;t=6h32m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1261</video:duration>
-    <video:publication_date>2026-04-06T01:37:45.000Z</video:publication_date>
-    <video:uploader>DreamersForce</video:uploader>
-    <video:expiration_date>2026-04-14T01:37:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
