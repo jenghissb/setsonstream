@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/vsfighting-xiv/set/105649975/</loc>
+  <lastmod>2026-07-24T18:24:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/854949/image-38e534e493f2c19c50b6e1ea9b57a14d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Weibo | kkokkoma vs VizardTheWizard, VSFighting XIV - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Weibo | kkokkoma vs VizardTheWizard in Winners Quarter-Final of VSFighting XIV, streamed by TEKKEN
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2827731867&amp;t=8h45m58s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>387</video:duration>
+    <video:publication_date>2026-07-24T18:14:25.000Z</video:publication_date>
+    <video:uploader>TEKKEN</video:uploader>
+    <video:expiration_date>2026-08-01T18:14:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/vsfighting-xiv/set/105649967/</loc>
-  <lastmod>2026-07-24T17:45:57.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-24T18:02:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2827731867&amp;t=8h17m30s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>942</video:duration>
+    <video:duration>977</video:duration>
     <video:publication_date>2026-07-24T17:45:57.000Z</video:publication_date>
     <video:uploader>TEKKEN</video:uploader>
     <video:expiration_date>2026-08-01T17:45:57.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-07-12T08:52:17.000Z</video:publication_date>
     <video:uploader>toulousevsfighters</video:uploader>
     <video:expiration_date>2026-07-20T08:52:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/second-wind-2026/set/105229414/</loc>
-  <lastmod>2026-07-12T05:22:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887941/image-c2b52bc617a6015971a1a5aa96ad746d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ethan yan vs EVE | Tupai, Second Wind 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ethan yan vs EVE | Tupai in Losers Semi-Final of Second Wind 2026, streamed by respawnesportscentre
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817796872&amp;t=6h15m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1448</video:duration>
-    <video:publication_date>2026-07-12T04:53:35.000Z</video:publication_date>
-    <video:uploader>respawnesportscentre</video:uploader>
-    <video:expiration_date>2026-07-20T04:53:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

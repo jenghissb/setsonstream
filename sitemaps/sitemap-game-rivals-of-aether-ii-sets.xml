@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/front-runners-42/set/105654528/</loc>
+  <lastmod>2026-07-24T19:23:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/931297/image-fce2b2c0bc56290e99a1f09d834bae77.png
+    </video:thumbnail_loc>
+    <video:title>
+      IDPG vs Bonig | CorRingo Starr, Front Runners #42 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch IDPG vs Bonig | CorRingo Starr in Winners Round 1 of Front Runners #42, streamed by focus_miss
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828048119&amp;t=0h5m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>604</video:duration>
+    <video:publication_date>2026-07-24T19:08:53.000Z</video:publication_date>
+    <video:uploader>focus_miss</video:uploader>
+    <video:expiration_date>2026-08-01T19:08:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-75/set/105632854/</loc>
   <lastmod>2026-07-24T04:21:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-04T01:53:38.000Z</video:publication_date>
     <video:uploader>Bros. Calamity</video:uploader>
     <video:expiration_date>2026-07-12T01:53:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-bairs-542/set/104919307/</loc>
-  <lastmod>2026-07-04T01:59:33.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/928066/image-cda52c69df5259ce83dfb4c5b7c189f6.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yoda Cage vs Archangel, Adventure Bairs #542 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yoda Cage vs Archangel in Winners Final of Adventure Bairs #542, streamed by Bros. Calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/pZ73zI4hwDI?start=2958s
-    </video:player_loc>
-    <video:duration>1083</video:duration>
-    <video:publication_date>2026-07-04T01:35:16.000Z</video:publication_date>
-    <video:uploader>Bros. Calamity</video:uploader>
-    <video:expiration_date>2026-07-12T01:35:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
