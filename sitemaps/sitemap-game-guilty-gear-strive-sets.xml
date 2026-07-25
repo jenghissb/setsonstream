@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-monthly-45-the-fgc-event/set/105735146/</loc>
-  <lastmod>2026-07-25T20:25:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-monthly-45-the-fgc-event/set/105735092/</loc>
+  <lastmod>2026-07-25T21:20:25.000Z</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
   <video:video>
@@ -10,24 +10,96 @@
       https://images.start.gg/images/tournament/933198/image-4e37c2b49c2e04ae70e43178c5c5d444.jpg
     </video:thumbnail_loc>
     <video:title>
-      pastapajamas vs Sleepy Orc, ESG Monthly #45: The FGC Event - Sets on Stream
+      Rothicus vs Nannerb, ESG Monthly #45: The FGC Event - Sets on Stream
     </video:title>
     <video:description>
-      Watch pastapajamas vs Sleepy Orc in Losers Round 2 of ESG Monthly #45: The FGC Event, streamed by ESG_Live_Streams
+      Watch Rothicus vs Nannerb in Winners Final of ESG Monthly #45: The FGC Event, streamed by ESG_Live_Streams
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828862504&amp;t=2h10m54s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2828862504&amp;t=3h6m17s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1327</video:duration>
-    <video:publication_date>2026-07-25T20:25:02.000Z</video:publication_date>
+    <video:duration>1251</video:duration>
+    <video:publication_date>2026-07-25T21:20:25.000Z</video:publication_date>
     <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2026-08-02T20:25:02.000Z</video:expiration_date>
+    <video:expiration_date>2026-08-02T21:20:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/300-pot-bonus-canon-event-the-bounty-hunt/set/105725209/</loc>
+  <lastmod>2026-07-25T20:36:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/872729/image-55de281ebb19dfb6218c73ec80ebe0d1.png
+    </video:thumbnail_loc>
+    <video:title>
+      Achroma vs Tushka | Inferno, ($300 Pot Bonus) Canon Event: The Bounty Hunt - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Achroma vs Tushka | Inferno in Grand Final Reset of ($300 Pot Bonus) Canon Event: The Bounty Hunt, streamed by hxcgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=hxcgaming&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-07-25T20:36:04.000Z</video:publication_date>
+    <video:uploader>hxcgaming</video:uploader>
+    <video:expiration_date>2026-08-02T20:36:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-monthly-45-the-fgc-event/set/105735091/</loc>
+  <lastmod>2026-07-25T21:27:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/933198/image-4e37c2b49c2e04ae70e43178c5c5d444.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Nannerb vs EVIL | KyokuReset, ESG Monthly #45: The FGC Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nannerb vs EVIL | KyokuReset in Winners Semi-Final of ESG Monthly #45: The FGC Event, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828862504&amp;t=2h51m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>898</video:duration>
+    <video:publication_date>2026-07-25T21:05:09.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-08-02T21:05:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-monthly-45-the-fgc-event/set/105735090/</loc>
+  <lastmod>2026-07-25T21:08:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/933198/image-4e37c2b49c2e04ae70e43178c5c5d444.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      CRAB | SLG | ThatScrubDavid vs Rothicus, ESG Monthly #45: The FGC Event - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CRAB | SLG | ThatScrubDavid vs Rothicus in Winners Semi-Final of ESG Monthly #45: The FGC Event, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828862504&amp;t=2h26m12s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>760</video:duration>
+    <video:publication_date>2026-07-25T20:40:20.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-08-02T20:40:20.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/meaty-mania-2026/set/105728514/</loc>
-  <lastmod>2026-07-25T20:29:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-25T20:50:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,34 +114,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2828920864&amp;t=1h0m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1038</video:duration>
+    <video:duration>1071</video:duration>
     <video:publication_date>2026-07-25T20:29:51.000Z</video:publication_date>
     <video:uploader>pocatellopugilistsfgc</video:uploader>
     <video:expiration_date>2026-08-02T20:29:51.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/300-pot-bonus-canon-event-the-bounty-hunt/set/105725208/</loc>
-  <lastmod>2026-07-25T20:15:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-monthly-45-the-fgc-event/set/105735146/</loc>
+  <lastmod>2026-07-25T20:50:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872729/image-55de281ebb19dfb6218c73ec80ebe0d1.png
+      https://images.start.gg/images/tournament/933198/image-4e37c2b49c2e04ae70e43178c5c5d444.jpg
     </video:thumbnail_loc>
     <video:title>
-      Tushka | Inferno vs Achroma, ($300 Pot Bonus) Canon Event: The Bounty Hunt - Sets on Stream
+      pastapajamas vs Sleepy Orc, ESG Monthly #45: The FGC Event - Sets on Stream
     </video:title>
     <video:description>
-      Watch Tushka | Inferno vs Achroma in Grand Final of ($300 Pot Bonus) Canon Event: The Bounty Hunt, streamed by hxcgaming
+      Watch pastapajamas vs Sleepy Orc in Losers Round 2 of ESG Monthly #45: The FGC Event, streamed by ESG_Live_Streams
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=hxcgaming&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2828862504&amp;t=2h10m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1901</video:duration>
-    <video:publication_date>2026-07-25T20:15:28.000Z</video:publication_date>
-    <video:uploader>hxcgaming</video:uploader>
-    <video:expiration_date>2026-08-02T20:15:28.000Z</video:expiration_date>
+    <video:duration>484</video:duration>
+    <video:publication_date>2026-07-25T20:25:02.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-08-02T20:25:02.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4750,78 +4822,6 @@
     <video:publication_date>2026-07-12T17:07:26.000Z</video:publication_date>
     <video:uploader>IrishGamingMarket</video:uploader>
     <video:expiration_date>2026-07-20T17:07:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/igm-summer-showdown-2026/set/105239743/</loc>
-  <lastmod>2026-07-12T17:07:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/899785/image-5a2717cfd3afed73cd62c664ca25575d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Goronberry vs The Facebreaker, IGM Summer Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Goronberry vs The Facebreaker in Losers Quarter-Final of IGM Summer Showdown 2026, streamed by IrishGamingMarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2818167187&amp;t=5h25m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>701</video:duration>
-    <video:publication_date>2026-07-12T16:54:32.000Z</video:publication_date>
-    <video:uploader>IrishGamingMarket</video:uploader>
-    <video:expiration_date>2026-07-20T16:54:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/igm-summer-showdown-2026/set/105239742/</loc>
-  <lastmod>2026-07-12T17:00:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/899785/image-5a2717cfd3afed73cd62c664ca25575d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Rubii vs Green | Carbattery, IGM Summer Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Rubii vs Green | Carbattery in Losers Round 1 of IGM Summer Showdown 2026, streamed by IrishGamingMarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2818167187&amp;t=5h10m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>950</video:duration>
-    <video:publication_date>2026-07-12T16:38:36.000Z</video:publication_date>
-    <video:uploader>IrishGamingMarket</video:uploader>
-    <video:expiration_date>2026-07-20T16:38:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/igm-summer-showdown-2026/set/105239741/</loc>
-  <lastmod>2026-07-12T16:45:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/899785/image-5a2717cfd3afed73cd62c664ca25575d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Monj vs The Facebreaker, IGM Summer Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Monj vs The Facebreaker in Losers Round 1 of IGM Summer Showdown 2026, streamed by IrishGamingMarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2818167187&amp;t=5h2m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>475</video:duration>
-    <video:publication_date>2026-07-12T16:30:36.000Z</video:publication_date>
-    <video:uploader>IrishGamingMarket</video:uploader>
-    <video:expiration_date>2026-07-20T16:30:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

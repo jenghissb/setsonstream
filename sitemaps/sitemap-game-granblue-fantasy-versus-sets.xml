@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-block-one-more/set/105733835/</loc>
+  <lastmod>2026-07-25T21:14:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896046/image-103e9bfd0ac795186903c6334dfd7f33.png
+    </video:thumbnail_loc>
+    <video:title>
+      adorabledragon vs ABOLISH ICE | Hatt, Just Block: One More - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch adorabledragon vs ABOLISH ICE | Hatt in Winners Semi-Final of Just Block: One More, streamed by TempestStreamCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828874176&amp;t=2h23m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>765</video:duration>
+    <video:publication_date>2026-07-25T20:53:12.000Z</video:publication_date>
+    <video:uploader>TempestStreamCo</video:uploader>
+    <video:expiration_date>2026-08-02T20:53:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/blodhevn-2026-5hevn-v-for-blodhevn/set/105696078/</loc>
   <lastmod>2026-07-25T13:14:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-06-12T04:00:27.000Z</video:publication_date>
     <video:uploader>gtekfgc</video:uploader>
     <video:expiration_date>2026-06-20T04:00:27.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/guildhouse-weekly-226-norcal-ssbu-ggst-gbvsr/set/103948251/</loc>
-  <lastmod>2026-06-11T05:08:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/919679/image-b353d716696d1c013d9eea49d3609adc.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nyantic vs ChrisZ, Guildhouse Weekly 226 - Norcal SSBU, GGST, GBVSR - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nyantic vs ChrisZ in Grand Final of Guildhouse Weekly 226 - Norcal SSBU, GGST, GBVSR, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2793808042&amp;t=2h8m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>948</video:duration>
-    <video:publication_date>2026-06-11T04:35:36.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-06-19T04:35:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
