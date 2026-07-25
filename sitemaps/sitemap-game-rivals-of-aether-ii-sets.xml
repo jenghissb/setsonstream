@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/kingsgate-signature-20-gouie-waiting-room/set/105676902/</loc>
+  <lastmod>2026-07-25T04:04:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/933302/image-d29c3a0e6d58adea0ca7379fb1ec48a7.png
+    </video:thumbnail_loc>
+    <video:title>
+      sword | kapl vs Riveriver, Kingsgate Signature #20 Gouie Waiting Room - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch sword | kapl vs Riveriver in Grand Final of Kingsgate Signature #20 Gouie Waiting Room, streamed by Kingsgate_community
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828365921&amp;t=1h31m36s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>984</video:duration>
+    <video:publication_date>2026-07-25T03:41:53.000Z</video:publication_date>
+    <video:uploader>Kingsgate_community</video:uploader>
+    <video:expiration_date>2026-08-02T03:41:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/kingsgate-signature-20-gouie-waiting-room/set/105676917/</loc>
-  <lastmod>2026-07-25T03:27:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-25T03:46:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2828365921&amp;t=1h17m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>938</video:duration>
+    <video:duration>801</video:duration>
     <video:publication_date>2026-07-25T03:27:48.000Z</video:publication_date>
     <video:uploader>Kingsgate_community</video:uploader>
     <video:expiration_date>2026-08-02T03:27:48.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-10T23:58:56.000Z</video:publication_date>
     <video:uploader>bros_calamity</video:uploader>
     <video:expiration_date>2026-07-18T23:58:56.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-543/set/105139328/</loc>
-  <lastmod>2026-07-11T00:01:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/930540/image-137ab24949edf23b6b03ac4ee23696a5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Archangel vs Bloom | Roukuggle, Adventure B-Airs #543 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Archangel vs Bloom | Roukuggle in Winners Semi-Final of Adventure B-Airs #543, streamed by bros_calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2816989000&amp;t=0h40m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>551</video:duration>
-    <video:publication_date>2026-07-10T23:46:04.000Z</video:publication_date>
-    <video:uploader>bros_calamity</video:uploader>
-    <video:expiration_date>2026-07-18T23:46:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
