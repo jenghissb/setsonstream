@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sector-z-8-0/set/105707572/</loc>
+  <lastmod>2026-07-25T15:34:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/198225/image-1ca1ec0c12fa2b5621f9cbe3e43dad24.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bowen vs vlerk, Sector Z #8.0 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bowen vs vlerk in Winners Semi-Final of Sector Z #8.0, streamed by supersmashdelft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828596432&amp;t=4h42m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>864</video:duration>
+    <video:publication_date>2026-07-25T15:19:34.000Z</video:publication_date>
+    <video:uploader>supersmashdelft</video:uploader>
+    <video:expiration_date>2026-08-02T15:19:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sc-melee-pleasure-pizza-19/set/105678356/</loc>
   <lastmod>2026-07-25T04:55:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-07-03T03:37:25.000Z</video:publication_date>
     <video:uploader>OBEtv</video:uploader>
     <video:expiration_date>2026-07-11T03:37:25.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-153/set/104899612/</loc>
-  <lastmod>2026-07-03T03:38:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/928370/image-68b8d32a4de795bb5141fb0aa435630a.png
-    </video:thumbnail_loc>
-    <video:title>
-      CCR | Casper vs MOJ | Liang, Rage Against the CRT #153 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CCR | Casper vs MOJ | Liang in Winners Round 3 of Rage Against the CRT #153, streamed by OBEtv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2810914715&amp;t=1h13m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>452</video:duration>
-    <video:publication_date>2026-07-03T03:20:09.000Z</video:publication_date>
-    <video:uploader>OBEtv</video:uploader>
-    <video:expiration_date>2026-07-11T03:20:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
