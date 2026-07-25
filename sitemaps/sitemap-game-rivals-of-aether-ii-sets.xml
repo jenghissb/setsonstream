@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/tgm-unlimited-2026/set/105693976/</loc>
+  <lastmod>2026-07-25T11:48:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/904390/image-4432b406bac8bfbc0cb686cc25dda779.png
+    </video:thumbnail_loc>
+    <video:title>
+      CU | Minä vs AB/BnB | marw, TGM Unlimited 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CU | Minä vs AB/BnB | marw in Losers Quarter-Final of TGM Unlimited 2026, streamed by tgmgonsenheim
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828575855&amp;t=1h52m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>584</video:duration>
+    <video:publication_date>2026-07-25T11:31:04.000Z</video:publication_date>
+    <video:uploader>tgmgonsenheim</video:uploader>
+    <video:expiration_date>2026-08-02T11:31:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/tgm-unlimited-2026/set/105693944/</loc>
   <lastmod>2026-07-25T11:10:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-11T00:57:22.000Z</video:publication_date>
     <video:uploader>hazelnutting247</video:uploader>
     <video:expiration_date>2026-07-19T00:57:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-231/set/105142101/</loc>
-  <lastmod>2026-07-11T01:05:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/930348/image-94f236ee84c124bcac3d450549ebc13e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Tiki vs ohm, Smash Night at Prodigy #231 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Tiki vs ohm in Losers Round 1 of Smash Night at Prodigy #231, streamed by hazelnutting247
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817013248&amp;t=1h5m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>514</video:duration>
-    <video:publication_date>2026-07-11T00:45:23.000Z</video:publication_date>
-    <video:uploader>hazelnutting247</video:uploader>
-    <video:expiration_date>2026-07-19T00:45:23.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
