@@ -1,57 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-2-1/set/105743374/</loc>
-  <lastmod>2026-07-25T22:13:53.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-6-1/set/105736739/</loc>
+  <lastmod>2026-07-25T23:25:59.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892973/image-48d4253b0ebd11154ab71541eb85c2cd.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      sword | kapl vs AQUA | maya, ROC&apos;s Nest #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch sword | kapl vs AQUA | maya in Grand Final of ROC&apos;s Nest #6, streamed by seatac_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828973582&amp;t=2h42m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1202</video:duration>
+    <video:publication_date>2026-07-25T23:25:59.000Z</video:publication_date>
+    <video:uploader>seatac_rivals</video:uploader>
+    <video:expiration_date>2026-08-02T23:25:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/amsidian-rush-4/set/105754342/</loc>
+  <lastmod>2026-07-25T23:26:48.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/931448/image-6f0f7a8936e9a02dfe1b0c86469d184f.png
+    </video:thumbnail_loc>
+    <video:title>
+      #1CoolTooleFan | Shadowdot vs Astrobeat, Amsidian Rush #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch #1CoolTooleFan | Shadowdot vs Astrobeat in Winners Final of Amsidian Rush #4, streamed by KevinTube Smash VODs
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/7L-T7IYR_Mg?start=5740s
+    </video:player_loc>
+    <video:duration>1153</video:duration>
+    <video:publication_date>2026-07-25T23:26:48.000Z</video:publication_date>
+    <video:uploader>KevinTube Smash VODs</video:uploader>
+    <video:expiration_date>2026-08-02T23:26:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-6-1/set/105736802/</loc>
+  <lastmod>2026-07-25T23:37:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892973/image-48d4253b0ebd11154ab71541eb85c2cd.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      AQUA | maya vs Riveriver, ROC&apos;s Nest #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AQUA | maya vs Riveriver in Losers Final of ROC&apos;s Nest #6, streamed by seatac_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828973582&amp;t=2h35m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>441</video:duration>
+    <video:publication_date>2026-07-25T23:18:33.000Z</video:publication_date>
+    <video:uploader>seatac_rivals</video:uploader>
+    <video:expiration_date>2026-08-02T23:18:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/amsidian-rush-4/set/105754341/</loc>
+  <lastmod>2026-07-25T23:37:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/931448/image-6f0f7a8936e9a02dfe1b0c86469d184f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Astrobeat vs Dae, Amsidian Rush #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Astrobeat vs Dae in Winners Semi-Final of Amsidian Rush #4, streamed by KevinTube Smash VODs
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/7L-T7IYR_Mg?start=4729s
+    </video:player_loc>
+    <video:duration>893</video:duration>
+    <video:publication_date>2026-07-25T23:09:57.000Z</video:publication_date>
+    <video:uploader>KevinTube Smash VODs</video:uploader>
+    <video:expiration_date>2026-08-02T23:09:57.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-2-1/set/105743375/</loc>
+  <lastmod>2026-07-25T23:20:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/922205/image-a98247aea8f0503f26225dd7ca1f49c8.png
     </video:thumbnail_loc>
     <video:title>
-      fb | etsy witch vs Bionicle, Fusion+ #2 - Sets on Stream
+      Bbatts vs GORDON | aubreyclo, Fusion+ #2 - Sets on Stream
     </video:title>
     <video:description>
-      Watch fb | etsy witch vs Bionicle in Winners Round 2 of Fusion+ #2, streamed by CollisionSeriesTV
+      Watch Bbatts vs GORDON | aubreyclo in Winners Quarter-Final of Fusion+ #2, streamed by CollisionSeriesTV
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828999095&amp;t=0h53m49s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2828999095&amp;t=1h35m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1604</video:duration>
-    <video:publication_date>2026-07-25T22:13:53.000Z</video:publication_date>
+    <video:duration>550</video:duration>
+    <video:publication_date>2026-07-25T22:55:26.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV</video:uploader>
-    <video:expiration_date>2026-08-02T22:13:53.000Z</video:expiration_date>
+    <video:expiration_date>2026-08-02T22:55:26.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/framework-2-1/set/105716329/</loc>
-  <lastmod>2026-07-25T20:50:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-16-isthmian-gaming/set/105743715/</loc>
+  <lastmod>2026-07-25T23:20:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/927133/image-d34af71c9007c60e7badd9f4f1d95920.png
+      https://images.start.gg/images/tournament/935008/image-c7b99c097500965fc3a4fc7beb379e09.png
     </video:thumbnail_loc>
     <video:title>
-      GCU | Rongunshu vs kusiwastaken, Framework 2 - Sets on Stream
+      Ubergronk vs Brain, Triple Dunk #16 @ Isthmian Gaming - Sets on Stream
     </video:title>
     <video:description>
-      Watch GCU | Rongunshu vs kusiwastaken in Grand Final Reset of Framework 2, streamed by NoStyleEsports
+      Watch Ubergronk vs Brain in Losers Round 3 of Triple Dunk #16 @ Isthmian Gaming, streamed by IsthmianGaming
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828904210&amp;t=1h42m59s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2828934430&amp;t=2h56m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-07-25T20:50:33.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2026-08-02T20:50:33.000Z</video:expiration_date>
+    <video:duration>1126</video:duration>
+    <video:publication_date>2026-07-25T22:44:40.000Z</video:publication_date>
+    <video:uploader>IsthmianGaming</video:uploader>
+    <video:expiration_date>2026-08-02T22:44:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/roc-s-nest-6-1/set/105736738/</loc>
+  <lastmod>2026-07-25T23:01:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/892973/image-48d4253b0ebd11154ab71541eb85c2cd.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      AQUA | maya vs sword | kapl, ROC&apos;s Nest #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AQUA | maya vs sword | kapl in Winners Final of ROC&apos;s Nest #6, streamed by seatac_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828973582&amp;t=1h59m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>965</video:duration>
+    <video:publication_date>2026-07-25T22:42:32.000Z</video:publication_date>
+    <video:uploader>seatac_rivals</video:uploader>
+    <video:expiration_date>2026-08-02T22:42:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/amsidian-rush-4/set/105746020/</loc>
+  <lastmod>2026-07-25T23:01:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/931448/image-6f0f7a8936e9a02dfe1b0c86469d184f.png
+    </video:thumbnail_loc>
+    <video:title>
+      #1CoolTooleFan | Shadowdot vs Dae, Amsidian Rush #4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch #1CoolTooleFan | Shadowdot vs Dae in Round 3 of Amsidian Rush #4, streamed by KevinTube Smash VODs
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/7L-T7IYR_Mg?start=3072s
+    </video:player_loc>
+    <video:duration>756</video:duration>
+    <video:publication_date>2026-07-25T22:42:20.000Z</video:publication_date>
+    <video:uploader>KevinTube Smash VODs</video:uploader>
+    <video:expiration_date>2026-08-02T22:42:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-16-isthmian-gaming/set/105743682/</loc>
+  <lastmod>2026-07-25T23:01:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/935008/image-c7b99c097500965fc3a4fc7beb379e09.png
+    </video:thumbnail_loc>
+    <video:title>
+      UGS | Serris vs Gormy with the Forty, Triple Dunk #16 @ Isthmian Gaming - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UGS | Serris vs Gormy with the Forty in Winners Quarter-Final of Triple Dunk #16 @ Isthmian Gaming, streamed by IsthmianGaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828934430&amp;t=2h43m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>707</video:duration>
+    <video:publication_date>2026-07-25T22:32:33.000Z</video:publication_date>
+    <video:uploader>IsthmianGaming</video:uploader>
+    <video:expiration_date>2026-08-02T22:32:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-2-1/set/105743370/</loc>
+  <lastmod>2026-07-25T23:01:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/922205/image-a98247aea8f0503f26225dd7ca1f49c8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Lucius vs Drewsephix, Fusion+ #2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Lucius vs Drewsephix in Winners Round 2 of Fusion+ #2, streamed by CollisionSeriesTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828999095&amp;t=1h7m51s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1006</video:duration>
+    <video:publication_date>2026-07-25T22:27:55.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV</video:uploader>
+    <video:expiration_date>2026-08-02T22:27:55.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/triple-dunk-16-isthmian-gaming/set/105743709/</loc>
-  <lastmod>2026-07-25T22:14:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-25T22:44:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -66,34 +258,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2828934430&amp;t=2h26m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1549</video:duration>
+    <video:duration>1050</video:duration>
     <video:publication_date>2026-07-25T22:14:48.000Z</video:publication_date>
     <video:uploader>IsthmianGaming</video:uploader>
     <video:expiration_date>2026-08-02T22:14:48.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/unc-frozen-s-icebox-15/set/105743509/</loc>
-  <lastmod>2026-07-25T22:20:45.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-2-1/set/105743374/</loc>
+  <lastmod>2026-07-25T22:44:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/930216/image-b8e1d8a6eb50ae94615fc4e819ef7f89.jpg
+      https://images.start.gg/images/tournament/922205/image-a98247aea8f0503f26225dd7ca1f49c8.png
     </video:thumbnail_loc>
     <video:title>
-      UM | Jimbly vs Darkgun, Unc Frozen&apos;s Icebox 15 - Sets on Stream
+      fb | etsy witch vs Bionicle, Fusion+ #2 - Sets on Stream
     </video:title>
     <video:description>
-      Watch UM | Jimbly vs Darkgun in Winners Semi-Final of Unc Frozen&apos;s Icebox 15, streamed by fxgames_gg
+      Watch fb | etsy witch vs Bionicle in Winners Round 2 of Fusion+ #2, streamed by CollisionSeriesTV
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=fxgames_gg&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2828999095&amp;t=0h53m49s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1192</video:duration>
-    <video:publication_date>2026-07-25T22:20:45.000Z</video:publication_date>
-    <video:uploader>fxgames_gg</video:uploader>
-    <video:expiration_date>2026-08-02T22:20:45.000Z</video:expiration_date>
+    <video:duration>848</video:duration>
+    <video:publication_date>2026-07-25T22:13:53.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV</video:uploader>
+    <video:expiration_date>2026-08-02T22:13:53.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -190,6 +382,30 @@
     <video:publication_date>2026-07-25T20:54:32.000Z</video:publication_date>
     <video:uploader>seatac_rivals</video:uploader>
     <video:expiration_date>2026-08-02T20:54:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/framework-2-1/set/105716329/</loc>
+  <lastmod>2026-07-25T23:01:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/927133/image-d34af71c9007c60e7badd9f4f1d95920.png
+    </video:thumbnail_loc>
+    <video:title>
+      GCU | Rongunshu vs kusiwastaken, Framework 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GCU | Rongunshu vs kusiwastaken in Grand Final Reset of Framework 2, streamed by NoStyleEsports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828904210&amp;t=1h42m59s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-07-25T20:50:33.000Z</video:publication_date>
+    <video:uploader>NoStyleEsports</video:uploader>
+    <video:expiration_date>2026-08-02T20:50:33.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4582,246 +4798,6 @@
     <video:publication_date>2026-07-14T01:22:35.000Z</video:publication_date>
     <video:uploader>CollisionSeriesTV2</video:uploader>
     <video:expiration_date>2026-07-22T01:22:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-303/set/105274825/</loc>
-  <lastmod>2026-07-14T01:23:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/930875/image-60662db9258aff0ddaa9f8bf3e296958.png
-    </video:thumbnail_loc>
-    <video:title>
-      Gekkingga vs Odyssey, Fusion #303 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Gekkingga vs Odyssey in Winners Semi-Final of Fusion #303, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2819389574&amp;t=1h35m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1486</video:duration>
-    <video:publication_date>2026-07-14T00:57:29.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-22T00:57:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-303/set/105274821/</loc>
-  <lastmod>2026-07-14T01:10:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/930875/image-60662db9258aff0ddaa9f8bf3e296958.png
-    </video:thumbnail_loc>
-    <video:title>
-      sleet.gg | CheesyPotato vs nard, Fusion #303 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch sleet.gg | CheesyPotato vs nard in Winners Quarter-Final of Fusion #303, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2819389574&amp;t=0h58m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2220</video:duration>
-    <video:publication_date>2026-07-14T00:20:05.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-22T00:20:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-303/set/105274823/</loc>
-  <lastmod>2026-07-14T00:31:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/930875/image-60662db9258aff0ddaa9f8bf3e296958.png
-    </video:thumbnail_loc>
-    <video:title>
-      Odyssey vs MuttNut | MuttNut, Fusion #303 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Odyssey vs MuttNut | MuttNut in Winners Quarter-Final of Fusion #303, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2819389574&amp;t=0h38m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1135</video:duration>
-    <video:publication_date>2026-07-14T00:00:30.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-22T00:00:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-303/set/105274813/</loc>
-  <lastmod>2026-07-14T00:06:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/930875/image-60662db9258aff0ddaa9f8bf3e296958.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fidel Ca$htro vs AJ | Air Gordon, Fusion #303 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fidel Ca$htro vs AJ | Air Gordon in Winners Round 1 of Fusion #303, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2819389574&amp;t=0h12m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1428</video:duration>
-    <video:publication_date>2026-07-13T23:34:07.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-21T23:34:07.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/garden-brawl-2026/set/105195435/</loc>
-  <lastmod>2026-07-11T23:58:56.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895273/image-e56da0ebc4081146be367b96baaad584.png
-    </video:thumbnail_loc>
-    <video:title>
-      The Strong One | HamPolo vs Yoda Cage, Garden Brawl 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch The Strong One | HamPolo vs Yoda Cage in Grand Final Reset of Garden Brawl 2026, streamed by CollisionSeriesTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817554266&amp;t=6h35m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1640</video:duration>
-    <video:publication_date>2026-07-11T23:24:05.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV</video:uploader>
-    <video:expiration_date>2026-07-19T23:24:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/garden-brawl-2026/set/105195434/</loc>
-  <lastmod>2026-07-11T23:40:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895273/image-e56da0ebc4081146be367b96baaad584.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yoda Cage vs The Strong One | HamPolo, Garden Brawl 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yoda Cage vs The Strong One | HamPolo in Grand Final of Garden Brawl 2026, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817564946&amp;t=6h8m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>790</video:duration>
-    <video:publication_date>2026-07-11T23:10:52.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-19T23:10:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/garden-brawl-2026/set/105195490/</loc>
-  <lastmod>2026-07-11T23:21:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895273/image-e56da0ebc4081146be367b96baaad584.png
-    </video:thumbnail_loc>
-    <video:title>
-      The Strong One | HamPolo vs Gekkingga, Garden Brawl 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch The Strong One | HamPolo vs Gekkingga in Losers Final of Garden Brawl 2026, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817564946&amp;t=5h43m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1407</video:duration>
-    <video:publication_date>2026-07-11T22:45:33.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-19T22:45:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/garden-brawl-2026/set/105195488/</loc>
-  <lastmod>2026-07-11T23:03:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895273/image-e56da0ebc4081146be367b96baaad584.png
-    </video:thumbnail_loc>
-    <video:title>
-      BUNK | Switch vs Gekkingga, Garden Brawl 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BUNK | Switch vs Gekkingga in Losers Semi-Final of Garden Brawl 2026, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817564946&amp;t=5h17m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1537</video:duration>
-    <video:publication_date>2026-07-11T22:19:42.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-19T22:19:42.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/garden-brawl-2026/set/105195433/</loc>
-  <lastmod>2026-07-11T22:27:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895273/image-e56da0ebc4081146be367b96baaad584.png
-    </video:thumbnail_loc>
-    <video:title>
-      Yoda Cage vs The Strong One | HamPolo, Garden Brawl 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Yoda Cage vs The Strong One | HamPolo in Winners Final of Garden Brawl 2026, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817564946&amp;t=5h1m8s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>973</video:duration>
-    <video:publication_date>2026-07-11T22:03:10.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-19T22:03:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/garden-brawl-2026/set/105195483/</loc>
-  <lastmod>2026-07-11T22:10:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895273/image-e56da0ebc4081146be367b96baaad584.png
-    </video:thumbnail_loc>
-    <video:title>
-      BUNK | Switch vs sleet.gg | CheesyPotato, Garden Brawl 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BUNK | Switch vs sleet.gg | CheesyPotato in Losers Quarter-Final of Garden Brawl 2026, streamed by CollisionSeriesTV2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817564946&amp;t=4h43m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1020</video:duration>
-    <video:publication_date>2026-07-11T21:46:01.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV2</video:uploader>
-    <video:expiration_date>2026-07-19T21:46:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

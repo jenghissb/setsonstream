@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-block-one-more/set/105747081/</loc>
+  <lastmod>2026-07-25T23:14:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/896046/image-103e9bfd0ac795186903c6334dfd7f33.png
+    </video:thumbnail_loc>
+    <video:title>
+      TBN | Sibyl vs EDLN | O.G.S | TeMP, Just Block: One More - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TBN | Sibyl vs EDLN | O.G.S | TeMP in Winners Semi-Final of Just Block: One More, streamed by TempestStreamCo
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2828874176&amp;t=4h19m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>637</video:duration>
+    <video:publication_date>2026-07-25T22:49:22.000Z</video:publication_date>
+    <video:uploader>TempestStreamCo</video:uploader>
+    <video:expiration_date>2026-08-02T22:49:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/just-block-one-more/set/105733835/</loc>
   <lastmod>2026-07-25T21:14:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-06-13T21:25:51.000Z</video:publication_date>
     <video:uploader>SoCalColosseum3</video:uploader>
     <video:expiration_date>2026-06-21T21:25:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/bragging-rights-100-the-peoples-card-shop/set/103985380/</loc>
-  <lastmod>2026-06-12T06:00:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/921062/image-0ca489a8b2b5d7b2704835f1373624dd.png
-    </video:thumbnail_loc>
-    <video:title>
-      yuna vs Avarice Aeon, Bragging Rights #100 @ The Peoples Card Shop - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch yuna vs Avarice Aeon in Winners Semi-Final of Bragging Rights #100 @ The Peoples Card Shop, streamed by gtekfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2794592077&amp;t=1h28m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>685</video:duration>
-    <video:publication_date>2026-06-12T04:00:27.000Z</video:publication_date>
-    <video:uploader>gtekfgc</video:uploader>
-    <video:expiration_date>2026-06-20T04:00:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
