@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/weekend-warriors-6-1/set/105787859/</loc>
-  <lastmod>2026-07-26T17:09:02.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/efc-feria-del-mundo-anime-2026/set/105791665/</loc>
+  <lastmod>2026-07-26T18:22:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/902437/image-24239f4a6328c85a9833d3de45a3d5d6.png
+    </video:thumbnail_loc>
+    <video:title>
+      360 | HorakyRD vs KB\OES | 10 Luka, eFC: Feria del Mundo Anime 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 360 | HorakyRD vs KB\OES | 10 Luka in Winners Quarter-Final of eFC: Feria del Mundo Anime 2026, streamed by BlizzStars
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/channel/UC8oMHvx2zAAPeZS_H1VWVmw
+    </video:player_loc>
+    <video:duration>710</video:duration>
+    <video:publication_date>2026-07-26T18:22:13.000Z</video:publication_date>
+    <video:uploader>BlizzStars</video:uploader>
+    <video:expiration_date>2026-08-03T18:22:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/weekend-warriors-6-1/set/105787859/</loc>
+  <lastmod>2026-07-26T17:20:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2829461588&amp;t=4h55m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>664</video:duration>
+    <video:duration>583</video:duration>
     <video:publication_date>2026-07-26T17:09:02.000Z</video:publication_date>
     <video:uploader>battleloungefife</video:uploader>
     <video:expiration_date>2026-08-03T17:09:02.000Z</video:expiration_date>

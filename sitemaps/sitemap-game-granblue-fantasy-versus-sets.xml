@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/sac-4-guilty-gear-strive-x-granblue-fantasy-versus-rising/set/105789217/</loc>
-  <lastmod>2026-07-26T17:04:01.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/collisions-46-water-earth-fi-leverless/set/105791225/</loc>
+  <lastmod>2026-07-26T18:15:49.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/928672/image-5af4dfadde86e7c902a980ea57ffa9dc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Antz vs Crimzonblu, Collisions 46 || Water, Earth, Fi- LEVERLESS!?!?! - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Antz vs Crimzonblu in Winners Final of Collisions 46 || Water, Earth, Fi- LEVERLESS!?!?!, streamed by collisionsfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2829622358&amp;t=1h28m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1094</video:duration>
+    <video:publication_date>2026-07-26T18:15:49.000Z</video:publication_date>
+    <video:uploader>collisionsfgc</video:uploader>
+    <video:expiration_date>2026-08-03T18:15:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/sac-4-guilty-gear-strive-x-granblue-fantasy-versus-rising/set/105789217/</loc>
+  <lastmod>2026-07-26T17:21:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2829528950&amp;t=2h44m33s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>965</video:duration>
+    <video:duration>695</video:duration>
     <video:publication_date>2026-07-26T17:04:01.000Z</video:publication_date>
     <video:uploader>saltyarena</video:uploader>
     <video:expiration_date>2026-08-03T17:04:01.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-07-04T20:50:19.000Z</video:publication_date>
     <video:uploader>NoStyleEsports</video:uploader>
     <video:expiration_date>2026-07-12T20:50:19.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/fight-for-the-throne-2026-fgc-tournament-at-eh-game-expo-3k-prize-pools/set/104962509/</loc>
-  <lastmod>2026-07-04T20:36:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/892032/image-6289290fecfe4740d649922b63f3228e.png
-    </video:thumbnail_loc>
-    <video:title>
-      TF | Gabagool vs 4Ender | EDLN | AuVerity, Fight for the Throne 2026 – FGC Tournament at Eh! Game Expo ($3k+ Prize Pools) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TF | Gabagool vs 4Ender | EDLN | AuVerity in Winners Semi-Final of Fight for the Throne 2026 – FGC Tournament at Eh! Game Expo ($3k+ Prize Pools), streamed by NoStyleEsports
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2812054583&amp;t=4h55m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>682</video:duration>
-    <video:publication_date>2026-07-04T20:21:26.000Z</video:publication_date>
-    <video:uploader>NoStyleEsports</video:uploader>
-    <video:expiration_date>2026-07-12T20:21:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
