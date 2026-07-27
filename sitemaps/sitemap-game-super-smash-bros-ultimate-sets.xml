@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/street-stars-2-2/set/105829763/</loc>
+  <lastmod>2026-07-27T22:06:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936109/image-7427718f9f664bfa49dca2a35b604c72.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PeW vs Owned | Elias, Street Stars | 2/2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PeW vs Owned | Elias in Grand Final of Street Stars | 2/2, streamed by Cycom
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2830461058&amp;t=3h37m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1182</video:duration>
+    <video:publication_date>2026-07-27T21:46:29.000Z</video:publication_date>
+    <video:uploader>Cycom</video:uploader>
+    <video:expiration_date>2026-08-04T21:46:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/street-stars-2-2/set/105829778/</loc>
-  <lastmod>2026-07-27T21:33:50.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-07-27T21:46:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2830461058&amp;t=3h24m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>383</video:duration>
+    <video:duration>743</video:duration>
     <video:publication_date>2026-07-27T21:33:50.000Z</video:publication_date>
     <video:uploader>Cycom</video:uploader>
     <video:expiration_date>2026-08-04T21:33:50.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-07-19T18:08:18.000Z</video:publication_date>
     <video:uploader>PhenixPhoceen</video:uploader>
     <video:expiration_date>2026-07-27T18:08:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/gerik-treehouse-returns-8/set/105509844/</loc>
-  <lastmod>2026-07-19T18:18:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/934689/image-6b7d4bc7db1856f275fbb3a9a5680e44.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SSC PKF | Oguri Cap~ vs SSC/PKF | Nic., Gerik Treehouse Returns #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SSC PKF | Oguri Cap~ vs SSC/PKF | Nic. in Winners Quarter-Final of Gerik Treehouse Returns #8, streamed by GerikTreehouseR
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2823892980&amp;t=2h20m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>753</video:duration>
-    <video:publication_date>2026-07-19T18:05:31.000Z</video:publication_date>
-    <video:uploader>GerikTreehouseR</video:uploader>
-    <video:expiration_date>2026-07-27T18:05:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
