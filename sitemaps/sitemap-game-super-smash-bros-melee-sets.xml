@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/smashworks-2-plymouth-melee-biweekly/set/105850640/</loc>
+  <lastmod>2026-07-28T17:38:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936477/image-2476ba0c2d8d6cda58d06fa1094caea4.png
+    </video:thumbnail_loc>
+    <video:title>
+      Frog vs Sly-bods, Smashworks 2 - Plymouth Melee BiWeekly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Frog vs Sly-bods in Winners Round 1 of Smashworks 2 - Plymouth Melee BiWeekly, streamed by TakaNe4
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2831210608&amp;t=0h11m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1815</video:duration>
+    <video:publication_date>2026-07-28T17:03:18.000Z</video:publication_date>
+    <video:uploader>TakaNe4</video:uploader>
+    <video:expiration_date>2026-08-05T17:03:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/kame-house-weekly-165/set/105840931/</loc>
   <lastmod>2026-07-28T03:06:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-07-10T00:19:05.000Z</video:publication_date>
     <video:uploader>revelstny</video:uploader>
     <video:expiration_date>2026-07-18T00:19:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wii-the-north-7/set/105102795/</loc>
-  <lastmod>2026-07-10T00:29:23.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/929435/image-d55afecb5aaa7498901e42a3faf640f4.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      BTE | n0ne vs TheBenjiest, Wii The North #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BTE | n0ne vs TheBenjiest in Winners Round 3 of Wii The North #7, streamed by toronto_melee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2816162188&amp;t=1h13m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>790</video:duration>
-    <video:publication_date>2026-07-10T00:12:05.000Z</video:publication_date>
-    <video:uploader>toronto_melee</video:uploader>
-    <video:expiration_date>2026-07-18T00:12:05.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
