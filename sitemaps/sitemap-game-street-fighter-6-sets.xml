@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/showdown-104/set/105890501/</loc>
+  <lastmod>2026-07-29T23:58:15.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936141/image-d0b1b332b5446fe6ffa9b261edb71143.png
+    </video:thumbnail_loc>
+    <video:title>
+      DeltaSage vs [TTU] | Firebirdofnight, Showdown #104 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch DeltaSage vs [TTU] | Firebirdofnight in Round 1 of Showdown #104, streamed by fgleventsllc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2832341425&amp;t=0h5m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1009</video:duration>
+    <video:publication_date>2026-07-29T23:58:15.000Z</video:publication_date>
+    <video:uploader>fgleventsllc</video:uploader>
+    <video:expiration_date>2026-08-06T23:58:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-110/set/105866434/</loc>
   <lastmod>2026-07-29T03:55:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-22T00:51:49.000Z</video:publication_date>
     <video:uploader>Chicagolandfightersfgc</video:uploader>
     <video:expiration_date>2026-07-30T00:51:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesdays-at-d-b-53/set/105574128/</loc>
-  <lastmod>2026-07-22T00:55:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/934060/image-baf0f56ecfda3e55c9984c488471c840.png
-    </video:thumbnail_loc>
-    <video:title>
-      PhillipNCider vs TCG, Tuesdays at D&amp;B #53 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PhillipNCider vs TCG in Winners Round 1 of Tuesdays at D&amp;B #53, streamed by Chicagolandfightersfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2825796074&amp;t=0h49m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>315</video:duration>
-    <video:publication_date>2026-07-22T00:44:22.000Z</video:publication_date>
-    <video:uploader>Chicagolandfightersfgc</video:uploader>
-    <video:expiration_date>2026-07-30T00:44:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
