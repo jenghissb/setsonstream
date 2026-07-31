@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-37/set/105912736/</loc>
+  <lastmod>2026-07-30T23:23:05.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/937132/image-3be9e8232a0d4e259087e738418852e5.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      TBB | BananaFrosty vs BigArmsG, Fight for the Aux #37 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TBB | BananaFrosty vs BigArmsG in Round 1 of Fight for the Aux #37, streamed by fightfortheauxky
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2833129815&amp;t=0h2m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>706</video:duration>
+    <video:publication_date>2026-07-30T23:23:05.000Z</video:publication_date>
+    <video:uploader>fightfortheauxky</video:uploader>
+    <video:expiration_date>2026-08-07T23:23:05.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/pofc-105-street-fighter-6/set/105896173/</loc>
   <lastmod>2026-07-30T02:46:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-22T01:30:47.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-07-30T01:30:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/cfg-tuesday-trials-250-happy-5th-birthday-tuesday-trials-suna-sonicspear-too/set/105563431/</loc>
-  <lastmod>2026-07-22T01:46:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/934106/image-6b123421bf98514598e55cbbab5feac1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Servo vs Daltino, CFG Tuesday Trials 250: Happy 5th Birthday Tuesday Trials! Suna, Sonicspear too! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Servo vs Daltino in Losers Semi-Final of CFG Tuesday Trials 250: Happy 5th Birthday Tuesday Trials! Suna, Sonicspear too!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2825729573&amp;t=3h3m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>537</video:duration>
-    <video:publication_date>2026-07-22T01:29:11.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-07-30T01:29:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
