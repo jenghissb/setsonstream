@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wwu-summer-2026-6/set/105964663/</loc>
+  <lastmod>2026-08-01T04:17:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/938271/image-2d0b3d0c59f5b12afb0274bb8f69973d.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Baileyoshi vs BearHugger, WWU Summer 2026 #6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Baileyoshi vs BearHugger in Losers Final of WWU Summer 2026 #6, streamed by satellitemelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2834067681&amp;t=2h39m52s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>904</video:duration>
+    <video:publication_date>2026-08-01T04:01:53.000Z</video:publication_date>
+    <video:uploader>satellitemelee</video:uploader>
+    <video:expiration_date>2026-08-09T04:01:53.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wwu-summer-2026-6/set/105961815/</loc>
-  <lastmod>2026-08-01T03:46:41.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-01T04:10:12.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2834067681&amp;t=2h24m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>447</video:duration>
+    <video:duration>1123</video:duration>
     <video:publication_date>2026-08-01T03:46:41.000Z</video:publication_date>
     <video:uploader>satellitemelee</video:uploader>
     <video:expiration_date>2026-08-09T03:46:41.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-07-11T20:15:04.000Z</video:publication_date>
     <video:uploader>echelonmelee</video:uploader>
     <video:expiration_date>2026-07-19T20:15:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/garden-brawl-2026/set/105195484/</loc>
-  <lastmod>2026-07-11T20:49:43.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/895273/image-e56da0ebc4081146be367b96baaad584.png
-    </video:thumbnail_loc>
-    <video:title>
-      PicanteThought vs SLTE | S+Hiro, Garden Brawl 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PicanteThought vs SLTE | S+Hiro in Winners Round 2 of Garden Brawl 2026, streamed by CollisionSeriesTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817554266&amp;t=3h24m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1547</video:duration>
-    <video:publication_date>2026-07-11T20:12:30.000Z</video:publication_date>
-    <video:uploader>CollisionSeriesTV</video:uploader>
-    <video:expiration_date>2026-07-19T20:12:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
