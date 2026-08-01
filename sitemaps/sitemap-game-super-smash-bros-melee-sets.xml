@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/half-half-30/set/105950980/</loc>
+  <lastmod>2026-07-31T23:59:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936643/image-c16c7ae18a5ebe4a163ee5f0c96732ee.png
+    </video:thumbnail_loc>
+    <video:title>
+      Proxfrd vs Cowa, Half &amp; Half #30 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Proxfrd vs Cowa in Winners Quarter-Final of Half &amp; Half #30, streamed by phoenixssbm
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2833979335&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1262</video:duration>
+    <video:publication_date>2026-07-31T23:28:07.000Z</video:publication_date>
+    <video:uploader>phoenixssbm</video:uploader>
+    <video:expiration_date>2026-08-08T23:28:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rage-against-the-crt-157/set/105924361/</loc>
   <lastmod>2026-07-31T04:59:53.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-07-11T17:07:57.000Z</video:publication_date>
     <video:uploader>casualgamingno</video:uploader>
     <video:expiration_date>2026-07-19T17:07:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/greebcrib-2026/set/105175679/</loc>
-  <lastmod>2026-07-11T17:00:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901349/image-fe93d569078bd75460c5aaf62ba788c1.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      SN | Gardex vs Skaug, GreebCrib 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SN | Gardex vs Skaug in Losers Semi-Final of GreebCrib 2026, streamed by casualgamingno
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2817367311&amp;t=5h33m51s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1131</video:duration>
-    <video:publication_date>2026-07-11T16:40:35.000Z</video:publication_date>
-    <video:uploader>casualgamingno</video:uploader>
-    <video:expiration_date>2026-07-19T16:40:35.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
