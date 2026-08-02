@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esports-world-cup-2026-tekken-8-lcq/set/106034168/</loc>
+  <lastmod>2026-08-02T15:25:15.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/919284/image-364b4a31dece77f7c51e62e3820d3613.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FALCON | | Numan Ch vs AG | M. Zubair, Esports World Cup 2026: TEKKEN 8 - LCQ - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FALCON | | Numan Ch vs AG | M. Zubair in Grand Final Reset of Esports World Cup 2026: TEKKEN 8 - LCQ, streamed by EWC_Plus_EN
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2835228727&amp;t=3h45m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>881</video:duration>
+    <video:publication_date>2026-08-02T15:07:33.000Z</video:publication_date>
+    <video:uploader>EWC_Plus_EN</video:uploader>
+    <video:expiration_date>2026-08-10T15:07:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/esports-world-cup-2026-tekken-8-lcq/set/106034167/</loc>
-  <lastmod>2026-08-02T14:47:29.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-02T15:10:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2835228727&amp;t=3h25m20s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1241</video:duration>
+    <video:duration>1105</video:duration>
     <video:publication_date>2026-08-02T14:47:29.000Z</video:publication_date>
     <video:uploader>EWC_Plus_EN</video:uploader>
     <video:expiration_date>2026-08-10T14:47:29.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-07-25T17:17:30.000Z</video:publication_date>
     <video:uploader>dqretro</video:uploader>
     <video:expiration_date>2026-08-02T17:17:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/vsfighting-xiv/set/105709818/</loc>
-  <lastmod>2026-07-25T17:33:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/854949/image-38e534e493f2c19c50b6e1ea9b57a14d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Weibo | kkokkoma vs falcons | Shaman, VSFighting XIV - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Weibo | kkokkoma vs falcons | Shaman in Losers Round 1 of VSFighting XIV, streamed by TEKKEN
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828572583&amp;t=7h43m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>769</video:duration>
-    <video:publication_date>2026-07-25T17:11:26.000Z</video:publication_date>
-    <video:uploader>TEKKEN</video:uploader>
-    <video:expiration_date>2026-08-02T17:11:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
