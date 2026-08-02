@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/summer-fox-smackdown-31-fgc-monthly/set/106047590/</loc>
+  <lastmod>2026-08-02T20:21:43.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/930680/image-0e3ca247accb5a86bdb1985a5ba23e46.png
+    </video:thumbnail_loc>
+    <video:title>
+      MADHouse | SumThin vs kuggz, Summer Fox Smackdown 31 - FGC Monthly - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MADHouse | SumThin vs kuggz in Winners Quarter-Final of Summer Fox Smackdown 31 - FGC Monthly, streamed by MNCSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2835571304&amp;t=0h31m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1007</video:duration>
+    <video:publication_date>2026-08-02T20:21:43.000Z</video:publication_date>
+    <video:uploader>MNCSmash</video:uploader>
+    <video:expiration_date>2026-08-10T20:21:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/metrocade-metrocon-2026/set/106038243/</loc>
   <lastmod>2026-08-02T17:36:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-24T15:04:06.000Z</video:publication_date>
     <video:uploader>RBNorway</video:uploader>
     <video:expiration_date>2026-08-01T15:04:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/esports-world-cup-2026-street-fighter-6-lcq/set/105647543/</loc>
-  <lastmod>2026-07-24T15:08:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/919272/image-fe30b3a4aef9c36474dd7dbd23a8a658.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      VARREL | Wabiichi vs Linkexelo, Esports World Cup 2026: Street Fighter 6 - LCQ - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VARREL | Wabiichi vs Linkexelo in Winners Quarter-Final of Esports World Cup 2026: Street Fighter 6 - LCQ, streamed by EWC_Plus_EN
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2827704274&amp;t=7h3m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>297</video:duration>
-    <video:publication_date>2026-07-24T15:01:26.000Z</video:publication_date>
-    <video:uploader>EWC_Plus_EN</video:uploader>
-    <video:expiration_date>2026-08-01T15:01:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
