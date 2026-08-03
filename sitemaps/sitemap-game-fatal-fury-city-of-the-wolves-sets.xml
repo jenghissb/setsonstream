@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/komit-arena-2026/set/106055448/</loc>
+  <lastmod>2026-08-03T01:34:24.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868772/image-ee14c542eb091f457cc287f1db8e1832.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SCARZ | Masao vs GodLike|ATG | SCORE, KOMITÊ ARENA 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SCARZ | Masao vs GodLike|ATG | SCORE in Losers Quarter-Final of KOMITÊ ARENA 2026, streamed by Komitê Arena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/AWzZf9cGy2M?start=41322s
+    </video:player_loc>
+    <video:duration>979</video:duration>
+    <video:publication_date>2026-08-03T01:15:48.000Z</video:publication_date>
+    <video:uploader>Komitê Arena</video:uploader>
+    <video:expiration_date>2026-08-11T01:15:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/komit-arena-2026/set/106055447/</loc>
-  <lastmod>2026-08-03T01:07:26.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-03T01:21:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/AWzZf9cGy2M?start=40820s
     </video:player_loc>
-    <video:duration>658</video:duration>
+    <video:duration>494</video:duration>
     <video:publication_date>2026-08-03T01:07:26.000Z</video:publication_date>
     <video:uploader>Komitê Arena</video:uploader>
     <video:expiration_date>2026-08-11T01:07:26.000Z</video:expiration_date>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-05-09T05:06:08.000Z</video:publication_date>
     <video:uploader>aftershockfgc2</video:uploader>
     <video:expiration_date>2026-05-17T05:06:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/tautahi-onslaught-2026-christchurch-fighting-game-major/set/102654411/</loc>
-  <lastmod>2026-05-09T05:10:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/884679/image-ebf7ab6631cf32d1b38bed5ebbcfacef.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TauntInstall vs RhinBo, Ōtautahi Onslaught 2026 - Christchurch Fighting Game Major!! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TauntInstall vs RhinBo in Losers Quarter-Final of Ōtautahi Onslaught 2026 - Christchurch Fighting Game Major!!, streamed by aftershockfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2767468854&amp;t=4h45m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1237</video:duration>
-    <video:publication_date>2026-05-09T04:39:58.000Z</video:publication_date>
-    <video:uploader>aftershockfgc</video:uploader>
-    <video:expiration_date>2026-05-17T04:39:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
