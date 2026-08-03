@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/komit-arena-2026/set/106048306/</loc>
+  <lastmod>2026-08-02T22:46:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/868772/image-ee14c542eb091f457cc287f1db8e1832.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PLSX vs MDC | Kula, KOMITÊ ARENA 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PLSX vs MDC | Kula in Winners Quarter-Final of KOMITÊ ARENA 2026, streamed by Komitê Arena
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/eVTDK7_Jnfg?start=29869s
+    </video:player_loc>
+    <video:duration>545</video:duration>
+    <video:publication_date>2026-08-02T22:33:14.000Z</video:publication_date>
+    <video:uploader>Komitê Arena</video:uploader>
+    <video:expiration_date>2026-08-10T22:33:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/komit-arena-2026/set/105980398/</loc>
   <lastmod>2026-08-01T17:18:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-05-02T18:00:14.000Z</video:publication_date>
     <video:uploader>versusone_</video:uploader>
     <video:expiration_date>2026-05-10T18:00:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/city-of-bros-14/set/102251398/</loc>
-  <lastmod>2026-04-30T01:04:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/902485/image-a5a812a4147f8686d0bd642818e0208a.png
-    </video:thumbnail_loc>
-    <video:title>
-      Still Green | Phanpy Bogard vs [RR] | ripple, City of Bros 14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Still Green | Phanpy Bogard vs [RR] | ripple in Winners Quarter-Final of City of Bros 14, streamed by aozaru9
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2760328304&amp;t=0h12m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>295</video:duration>
-    <video:publication_date>2026-04-30T00:34:16.000Z</video:publication_date>
-    <video:uploader>aozaru9</video:uploader>
-    <video:expiration_date>2026-05-08T00:34:16.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
