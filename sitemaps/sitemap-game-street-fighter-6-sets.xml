@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-30-biweekly-fighting-game-tournament-los-angeles/set/106104266/</loc>
+  <lastmod>2026-08-05T06:30:11.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/937775/image-05e684724056745a5a6e63ca4d39aa61.png
+    </video:thumbnail_loc>
+    <video:title>
+      Samaro vs Chef Dchong, DOWN BACK TUESDAYS @ MAMA LION #30 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Samaro vs Chef Dchong in Grand Final Reset of DOWN BACK TUESDAYS @ MAMA LION #30 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2837625802&amp;t=2h57m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>611</video:duration>
+    <video:publication_date>2026-08-05T06:15:19.000Z</video:publication_date>
+    <video:uploader>DownBackClub</video:uploader>
+    <video:expiration_date>2026-08-13T06:15:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-30-biweekly-fighting-game-tournament-los-angeles/set/106104265/</loc>
-  <lastmod>2026-08-05T06:00:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-05T06:17:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2837625802&amp;t=2h42m38s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>694</video:duration>
+    <video:duration>816</video:duration>
     <video:publication_date>2026-08-05T06:00:40.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-08-13T06:00:40.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-25T16:32:24.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2026-08-02T16:32:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bfgl-x-yo-mana-yo-melee-iv/set/105698882/</loc>
-  <lastmod>2026-07-25T16:49:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/912139/image-16341d93c25560affab1edc536778fa2.png
-    </video:thumbnail_loc>
-    <video:title>
-      IS | Karlaaaa vs BFGL | KarsaloW, BFGL x Yo Mana // YO MELEE IV - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch IS | Karlaaaa vs BFGL | KarsaloW in Losers Final of BFGL x Yo Mana // YO MELEE IV, streamed by bfgl_main
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828567268&amp;t=7h18m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>475</video:duration>
-    <video:publication_date>2026-07-25T16:30:11.000Z</video:publication_date>
-    <video:uploader>bfgl_main</video:uploader>
-    <video:expiration_date>2026-08-02T16:30:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
