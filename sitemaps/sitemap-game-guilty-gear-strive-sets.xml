@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-fight-night-256/set/106119732/</loc>
+  <lastmod>2026-08-06T00:53:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/940280/image-7e9bf40158b784bb4da3a0360cf09900.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Nannerb vs ESG | Magnatoon, ESG Fight Night #256 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Nannerb vs ESG | Magnatoon in Winners Final of ESG Fight Night #256, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2838292413&amp;t=2h8m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>846</video:duration>
+    <video:publication_date>2026-08-06T00:53:52.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-08-14T00:53:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-252-enjoy-getting-1-year-closer-to-your-deathbed-r-squared/set/106094053/</loc>
   <lastmod>2026-08-05T02:53:17.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-23T01:03:24.000Z</video:publication_date>
     <video:uploader>fgleventsllc</video:uploader>
     <video:expiration_date>2026-07-31T01:03:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-fight-night-254/set/105601297/</loc>
-  <lastmod>2026-07-23T01:06:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/935792/image-bf6bcb11a65195a55257637737b9abe6.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nannerb vs ESG | Magnatoon, ESG Fight Night #254 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nannerb vs ESG | Magnatoon in Winners Final of ESG Fight Night #254, streamed by ESG_Live_Streams
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2826572417&amp;t=1h47m24s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>473</video:duration>
-    <video:publication_date>2026-07-23T00:45:53.000Z</video:publication_date>
-    <video:uploader>ESG_Live_Streams</video:uploader>
-    <video:expiration_date>2026-07-31T00:45:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
