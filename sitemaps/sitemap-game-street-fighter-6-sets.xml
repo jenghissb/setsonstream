@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-125/set/106134112/</loc>
+  <lastmod>2026-08-06T12:35:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/939818/image-88950e606add0eeac6e44478fd015c53.png
+    </video:thumbnail_loc>
+    <video:title>
+      たかだか(takadaka) vs MatteYo724, Paradise Cup #125 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch たかだか(takadaka) vs MatteYo724 in Quarter-Final of Paradise Cup #125, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2838690960&amp;t=1h28m5s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>250</video:duration>
+    <video:publication_date>2026-08-06T12:25:17.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-08-14T12:25:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-125/set/106134103/</loc>
-  <lastmod>2026-08-06T12:15:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-06T12:22:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2838690960&amp;t=1h18m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>321</video:duration>
+    <video:duration>232</video:duration>
     <video:publication_date>2026-08-06T12:15:33.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-08-14T12:15:33.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-25T18:30:51.000Z</video:publication_date>
     <video:uploader>torontotoptiers</video:uploader>
     <video:expiration_date>2026-08-02T18:30:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/toryuken-2026-counter-attack-toronto-s-regional-fighting-game-tournament/set/105718034/</loc>
-  <lastmod>2026-07-25T18:37:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/907130/image-f5a83c55053ea607c548b22e01270f38.png
-    </video:thumbnail_loc>
-    <video:title>
-      LFGC | drigo vs fent brick, TORYUKEN 2026 Counter Attack: Toronto&apos;s Regional Fighting Game Tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LFGC | drigo vs fent brick in Winners Quarter-Final of TORYUKEN 2026 Counter Attack: Toronto&apos;s Regional Fighting Game Tournament, streamed by torontotoptiers
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828762708&amp;t=2h20m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>844</video:duration>
-    <video:publication_date>2026-07-25T18:16:31.000Z</video:publication_date>
-    <video:uploader>torontotoptiers</video:uploader>
-    <video:expiration_date>2026-08-02T18:16:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
