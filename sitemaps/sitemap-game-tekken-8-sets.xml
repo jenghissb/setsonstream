@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hidden-retreat-2/set/106231888/</loc>
-  <lastmod>2026-08-08T18:56:10.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/just-us-baddies-51/set/106245817/</loc>
+  <lastmod>2026-08-08T20:34:47.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936531/image-6d3634cad2835324c499eb683878b465.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      STG/WTI | | Gohaanify vs KH | | Capture, Just Us Baddies 51 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch STG/WTI | | Gohaanify vs KH | | Capture in Winners Quarter-Final of Just Us Baddies 51, streamed by FXGames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=FXGames_gg&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>984</video:duration>
+    <video:publication_date>2026-08-08T20:34:47.000Z</video:publication_date>
+    <video:uploader>FXGames_gg</video:uploader>
+    <video:expiration_date>2026-08-16T20:34:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hidden-retreat-2/set/106231888/</loc>
+  <lastmod>2026-08-08T19:13:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2840478062&amp;t=8h57m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1034</video:duration>
+    <video:duration>1006</video:duration>
     <video:publication_date>2026-08-08T18:56:10.000Z</video:publication_date>
     <video:uploader>hardreadch</video:uploader>
     <video:expiration_date>2026-08-16T18:56:10.000Z</video:expiration_date>
