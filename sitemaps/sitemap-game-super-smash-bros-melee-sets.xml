@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/supernova-2026/set/106230858/</loc>
+  <lastmod>2026-08-08T16:41:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/906802/image-ae644c1a7f788366599c2f259ae7f040.png
+    </video:thumbnail_loc>
+    <video:title>
+      UMF | Agent vs SwebBy, Supernova 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UMF | Agent vs SwebBy in Winners Semi-Final of Supernova 2026, streamed by vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2840583168&amp;t=2h50m56s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>917</video:duration>
+    <video:publication_date>2026-08-08T16:22:45.000Z</video:publication_date>
+    <video:uploader>vgbootcamp</video:uploader>
+    <video:expiration_date>2026-08-16T16:22:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/wwu-summer-2026-7/set/106199994/</loc>
   <lastmod>2026-08-08T04:02:30.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-07-19T22:54:57.000Z</video:publication_date>
     <video:uploader>devdoggxx</video:uploader>
     <video:expiration_date>2026-07-27T22:54:57.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-at-recess-9/set/105520972/</loc>
-  <lastmod>2026-07-19T22:58:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/925233/image-790c6b6827df7d63a9571a85f6d2fff4.png
-    </video:thumbnail_loc>
-    <video:title>
-      MGFC | CuteJosie vs 99b | Craig, Melee at Recess 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MGFC | CuteJosie vs 99b | Craig in Winners Quarter-Final of Melee at Recess 9, streamed by devdoggxx
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2824107786&amp;t=1h21m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>965</video:duration>
-    <video:publication_date>2026-07-19T22:38:39.000Z</video:publication_date>
-    <video:uploader>devdoggxx</video:uploader>
-    <video:expiration_date>2026-07-27T22:38:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
