@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ascnd-39/set/106198008/</loc>
+  <lastmod>2026-08-08T03:15:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/938579/image-9cf29a4d0feeb694756f5c1c5dc67359.png
+    </video:thumbnail_loc>
+    <video:title>
+      Monkehugger vs MSTK | MedriMystic, ASCND//39 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Monkehugger vs MSTK | MedriMystic in Losers Quarter-Final of ASCND//39, streamed by BlurredWolf
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2840232818&amp;t=1h3m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>388</video:duration>
+    <video:publication_date>2026-08-08T02:58:31.000Z</video:publication_date>
+    <video:uploader>BlurredWolf</video:uploader>
+    <video:expiration_date>2026-08-16T02:58:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ascnd-39/set/106198007/</loc>
-  <lastmod>2026-08-08T02:45:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-08T03:04:03.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2840232818&amp;t=0h49m51s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1131</video:duration>
+    <video:duration>515</video:duration>
     <video:publication_date>2026-08-08T02:45:19.000Z</video:publication_date>
     <video:uploader>BlurredWolf</video:uploader>
     <video:expiration_date>2026-08-16T02:45:19.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-23T19:42:08.000Z</video:publication_date>
     <video:uploader>RBNorway</video:uploader>
     <video:expiration_date>2026-07-31T19:42:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/blodhevn-2026-5hevn-v-for-blodhevn/set/105616762/</loc>
-  <lastmod>2026-07-23T19:37:50.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889206/image-171e4478a1b53cac71b588e6ca1d80dd.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      DegruM vs T-Fisk | Thunder kitty, BLODHEVN 2026 — 5Hevn: V for BlodheVn - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DegruM vs T-Fisk | Thunder kitty in Winners Semi-Final of BLODHEVN 2026 — 5Hevn: V for BlodheVn, streamed by RBNorway
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2826963654&amp;t=7h29m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>478</video:duration>
-    <video:publication_date>2026-07-23T19:26:53.000Z</video:publication_date>
-    <video:uploader>RBNorway</video:uploader>
-    <video:expiration_date>2026-07-31T19:26:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
