@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/ebiflycup-sp2-in-shanghai/set/106217844/</loc>
+  <lastmod>2026-08-08T10:18:14.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/930303/image-60d34486fc16e8e93313511eeffe4002.png
+    </video:thumbnail_loc>
+    <video:title>
+      嘉豪王(ka gou ou) vs fourzero, 炸虾杯EbiflyCup SP2 in Shanghai - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 嘉豪王(ka gou ou) vs fourzero in Losers Semi-Final of 炸虾杯EbiflyCup SP2 in Shanghai, streamed by maoroon
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=maoroon&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>688</video:duration>
+    <video:publication_date>2026-08-08T10:18:14.000Z</video:publication_date>
+    <video:uploader>maoroon</video:uploader>
+    <video:expiration_date>2026-08-16T10:18:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/bsk-season-clash-4/set/105973931/</loc>
   <lastmod>2026-08-01T16:20:04.000Z</lastmod>
   <changefreq>daily</changefreq>
