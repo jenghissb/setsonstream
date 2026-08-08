@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-167/set/106189031/</loc>
+  <lastmod>2026-08-07T23:39:36.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/939900/image-c9f79cd53378057264b4d392819da7c7.png
+    </video:thumbnail_loc>
+    <video:title>
+      MaximusPrime vs AquaticOwl, HoG: Moonlight #167 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MaximusPrime vs AquaticOwl in Winners Round 2 of HoG: Moonlight #167, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2840118397&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>738</video:duration>
+    <video:publication_date>2026-08-07T23:39:36.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-08-15T23:39:36.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-234-norcal-ssbu-ggst-gbvsr/set/106131456/</loc>
   <lastmod>2026-08-06T04:50:52.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-23T15:38:38.000Z</video:publication_date>
     <video:uploader>RBNorway</video:uploader>
     <video:expiration_date>2026-07-31T15:38:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/blodhevn-2026-5hevn-v-for-blodhevn/set/105612985/</loc>
-  <lastmod>2026-07-23T15:38:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/889206/image-171e4478a1b53cac71b588e6ca1d80dd.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Barskebirk vs GGbergen | fat pepol, BLODHEVN 2026 — 5Hevn: V for BlodheVn - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Barskebirk vs GGbergen | fat pepol in Winners Quarter-Final of BLODHEVN 2026 — 5Hevn: V for BlodheVn, streamed by RBNorway
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2826963654&amp;t=3h17m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1147</video:duration>
-    <video:publication_date>2026-07-23T15:14:50.000Z</video:publication_date>
-    <video:uploader>RBNorway</video:uploader>
-    <video:expiration_date>2026-07-31T15:14:50.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
