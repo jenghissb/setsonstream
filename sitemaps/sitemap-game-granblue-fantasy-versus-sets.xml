@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/rogafight-60-s-ndag-f-ndag-v/set/106293289/</loc>
+  <lastmod>2026-08-09T16:49:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/932471/image-a48c4eed9dbb7cf247485a14939a0200.png
+    </video:thumbnail_loc>
+    <video:title>
+      Floor 4 | Zero Blod vs Zeke, RogaFight #60 — Søndag Føndag V - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Floor 4 | Zero Blod vs Zeke in Winners Final of RogaFight #60 — Søndag Føndag V, streamed by fgcrogaland
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2841475309&amp;t=3h50m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>539</video:duration>
+    <video:publication_date>2026-08-09T16:49:44.000Z</video:publication_date>
+    <video:uploader>fgcrogaland</video:uploader>
+    <video:expiration_date>2026-08-17T16:49:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-beatdown-august-2026/set/106262754/</loc>
   <lastmod>2026-08-09T00:21:15.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-07-12T11:57:05.000Z</video:publication_date>
     <video:uploader>IrishGamingMarket</video:uploader>
     <video:expiration_date>2026-07-20T11:57:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/igm-summer-showdown-2026/set/105236436/</loc>
-  <lastmod>2026-07-12T11:57:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/899785/image-5a2717cfd3afed73cd62c664ca25575d.png
-    </video:thumbnail_loc>
-    <video:title>
-      Space vs Mini_Kai, IGM Summer Showdown 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Space vs Mini_Kai in Winners Quarter-Final of IGM Summer Showdown 2026, streamed by IrishGamingMarket
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2818167187&amp;t=0h17m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>605</video:duration>
-    <video:publication_date>2026-07-12T11:46:22.000Z</video:publication_date>
-    <video:uploader>IrishGamingMarket</video:uploader>
-    <video:expiration_date>2026-07-20T11:46:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
