@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgcafe-haarlem-18/set/106322660/</loc>
+  <lastmod>2026-08-10T18:42:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/938345/image-07c0afdd12b4e79e9d1e44caf718e7ef.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Chip Damage | Abel vs Mitsu, FGcafe Haarlem #18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Chip Damage | Abel vs Mitsu in Grand Final of FGcafe Haarlem #18, streamed by vrcafehaarlem
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2842492999&amp;t=1h29m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>685</video:duration>
+    <video:publication_date>2026-08-10T18:25:33.000Z</video:publication_date>
+    <video:uploader>vrcafehaarlem</video:uploader>
+    <video:expiration_date>2026-08-18T18:25:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/powersurge-sammy-d-s-bar-11/set/106315301/</loc>
   <lastmod>2026-08-10T01:22:23.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-27T17:24:46.000Z</video:publication_date>
     <video:uploader>vrcafehaarlem</video:uploader>
     <video:expiration_date>2026-08-04T17:24:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgcafe-haarlem-17/set/105825992/</loc>
-  <lastmod>2026-07-27T17:09:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/932979/image-2b0d0e64308ece792e8c28fa61146725.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      EX | Abel vs Cryn, FGcafe Haarlem #17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch EX | Abel vs Cryn in Winners Round 1 of FGcafe Haarlem #17, streamed by vrcafehaarlem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2830401919&amp;t=0h12m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>423</video:duration>
-    <video:publication_date>2026-07-27T17:00:20.000Z</video:publication_date>
-    <video:uploader>vrcafehaarlem</video:uploader>
-    <video:expiration_date>2026-08-04T17:00:20.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
