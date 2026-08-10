@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/powersurge-sammy-d-s-bar-11/set/106315301/</loc>
+  <lastmod>2026-08-10T01:22:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936296/image-06eff11e336c686d6aae51a6b83c988e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PS|4TW | RnV vs EMPR | Bjr, PowerSurge @ Sammy D&apos;s Bar #11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PS|4TW | RnV vs EMPR | Bjr in Winners Semi-Final of PowerSurge @ Sammy D&apos;s Bar #11, streamed by powerserg26
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2841977356&amp;t=1h1m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>770</video:duration>
+    <video:publication_date>2026-08-10T01:06:32.000Z</video:publication_date>
+    <video:uploader>powerserg26</video:uploader>
+    <video:expiration_date>2026-08-18T01:06:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/inferno-rumble-5-1/set/106308057/</loc>
   <lastmod>2026-08-09T23:34:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-27T17:00:20.000Z</video:publication_date>
     <video:uploader>vrcafehaarlem</video:uploader>
     <video:expiration_date>2026-08-04T17:00:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fgcafe-haarlem-17/set/105825993/</loc>
-  <lastmod>2026-07-27T17:03:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/932979/image-2b0d0e64308ece792e8c28fa61146725.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Animetiddy vs a cube, FGcafe Haarlem #17 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Animetiddy vs a cube in Winners Round 1 of FGcafe Haarlem #17, streamed by vrcafehaarlem
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2830401919&amp;t=0h4m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>464</video:duration>
-    <video:publication_date>2026-07-27T16:52:11.000Z</video:publication_date>
-    <video:uploader>vrcafehaarlem</video:uploader>
-    <video:expiration_date>2026-08-04T16:52:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
