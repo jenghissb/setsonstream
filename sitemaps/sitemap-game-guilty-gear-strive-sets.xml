@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/le-hub-237/set/106354910/</loc>
+  <lastmod>2026-08-11T22:48:31.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/940385/image-7ed0182249ffec6f395419390ce0d2cc.png
+    </video:thumbnail_loc>
+    <video:title>
+      Arrks vs M.Buuda, Le Hub 237 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Arrks vs M.Buuda in Winners Quarter-Final of Le Hub 237, streamed by hubcityfgc2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=hubcityfgc2&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>998</video:duration>
+    <video:publication_date>2026-08-11T22:48:31.000Z</video:publication_date>
+    <video:uploader>hubcityfgc2</video:uploader>
+    <video:expiration_date>2026-08-19T22:48:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rogafight-60-s-ndag-f-ndag-v/set/106290342/</loc>
   <lastmod>2026-08-09T14:43:20.000Z</lastmod>
   <changefreq>daily</changefreq>
