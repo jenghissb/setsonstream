@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-261/set/106384065/</loc>
+  <lastmod>2026-08-13T01:45:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/941113/image-8df04b1158f321c575880990626f409f.png
+    </video:thumbnail_loc>
+    <video:title>
+      Searing Arrow vs Jubilo, Wonderfly Weekly #261 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Searing Arrow vs Jubilo in Grand Final of Wonderfly Weekly #261, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2844589169&amp;t=2h15m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>676</video:duration>
+    <video:publication_date>2026-08-13T01:23:30.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2026-08-21T01:23:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-261/set/106384080/</loc>
-  <lastmod>2026-08-13T01:03:39.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-13T01:31:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2844589169&amp;t=1h56m2s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1568</video:duration>
+    <video:duration>911</video:duration>
     <video:publication_date>2026-08-13T01:03:39.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2026-08-21T01:03:39.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-26T22:04:43.000Z</video:publication_date>
     <video:uploader>one_up_games</video:uploader>
     <video:expiration_date>2026-08-03T22:04:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-pizza-shop-8/set/105805638/</loc>
-  <lastmod>2026-07-26T22:06:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/921118/image-eeeb19b443e5cf98b82e4a70efad5877.png
-    </video:thumbnail_loc>
-    <video:title>
-      4ESTHER | hazelnut vs Gusta, The Pizza Shop #8 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4ESTHER | hazelnut vs Gusta in Losers Semi-Final of The Pizza Shop #8, streamed by one_up_games
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2829634149&amp;t=4h48m5s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>883</video:duration>
-    <video:publication_date>2026-07-26T21:49:55.000Z</video:publication_date>
-    <video:uploader>one_up_games</video:uploader>
-    <video:expiration_date>2026-08-03T21:49:55.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
