@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/hog-phoenix-10-16/set/106414700/</loc>
+  <lastmod>2026-08-13T23:37:59.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/942760/image-1fd859e8c5924a83e2d0bd80968b59e1.png
+    </video:thumbnail_loc>
+    <video:title>
+      coinstar vs KoF | HM04, HoG: Phoenix 10.16 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch coinstar vs KoF | HM04 in Winners Round 1 of HoG: Phoenix 10.16, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2845522768&amp;t=0h3m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1358</video:duration>
+    <video:publication_date>2026-08-13T23:37:59.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-08-21T23:37:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-199-attend-ass-top-10-in-the-world-pipeline/set/106398504/</loc>
   <lastmod>2026-08-13T06:28:26.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-07-25T21:00:38.000Z</video:publication_date>
     <video:uploader>raviannn</video:uploader>
     <video:expiration_date>2026-08-02T21:00:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/spacewalk-4-wet-and-wild/set/105730496/</loc>
-  <lastmod>2026-07-25T21:24:35.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/920809/image-93755eec99103c9923a0eb3b161a343d.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      echelon | SirTaco vs X..., Spacewalk 4: Wet and Wild - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch echelon | SirTaco vs X... in Winners Quarter-Final of Spacewalk 4: Wet and Wild, streamed by bhikin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828879588&amp;t=2h22m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>612</video:duration>
-    <video:publication_date>2026-07-25T20:59:27.000Z</video:publication_date>
-    <video:uploader>bhikin</video:uploader>
-    <video:expiration_date>2026-08-02T20:59:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
