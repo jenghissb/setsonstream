@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/bfgl-unicon-2026-fgc-tournaments/set/106431888/</loc>
+  <lastmod>2026-08-14T15:24:41.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/908139/image-36c9c504e0745ee0cdd2c11e2b6b2809.png
+    </video:thumbnail_loc>
+    <video:title>
+      VGE | WhitefangRex vs BFGL | Kleins, BFGL // UNICON 2026 // FGC TOURNAMENTS - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VGE | WhitefangRex vs BFGL | Kleins in Grand Final of BFGL // UNICON 2026 // FGC TOURNAMENTS, streamed by bfgl_main
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2845910180&amp;t=3h25m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>597</video:duration>
+    <video:publication_date>2026-08-14T15:24:41.000Z</video:publication_date>
+    <video:uploader>bfgl_main</video:uploader>
+    <video:expiration_date>2026-08-22T15:24:41.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/socal-colosseum-clash-33/set/106283134/</loc>
   <lastmod>2026-08-09T05:14:08.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-05-14T01:31:22.000Z</video:publication_date>
     <video:uploader>MEECHY72</video:uploader>
     <video:expiration_date>2026-05-22T01:31:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/city-of-bros-15/set/102832269/</loc>
-  <lastmod>2026-05-14T01:13:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/909195/image-494c669f0b94658690359c32372c7313.png
-    </video:thumbnail_loc>
-    <video:title>
-      Still Green | Phanpy Bogard vs XBF | blaze187ace, City of Bros 15 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Still Green | Phanpy Bogard vs XBF | blaze187ace in Winners Quarter-Final of City of Bros 15, streamed by aozaru9
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2771397309&amp;t=0h6m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>256</video:duration>
-    <video:publication_date>2026-05-14T00:38:00.000Z</video:publication_date>
-    <video:uploader>aozaru9</video:uploader>
-    <video:expiration_date>2026-05-22T00:38:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
