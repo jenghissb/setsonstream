@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ceo-2026/set/106529638/</loc>
+  <lastmod>2026-08-15T19:43:45.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858962/image-13943ca793a9189032c81e8b69fc60ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dansmello | Mr. Nice Guy vs Nek, CEO 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dansmello | Mr. Nice Guy vs Nek in Winners Semi-Final of CEO 2026, streamed by JuicyGameNight
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2846884368&amp;t=5h58m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>998</video:duration>
+    <video:publication_date>2026-08-15T19:43:45.000Z</video:publication_date>
+    <video:uploader>JuicyGameNight</video:uploader>
+    <video:expiration_date>2026-08-23T19:43:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/strike-70/set/106482344/</loc>
   <lastmod>2026-08-15T03:45:41.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-30T00:30:28.000Z</video:publication_date>
     <video:uploader>wonderflygaming</video:uploader>
     <video:expiration_date>2026-08-07T00:30:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wonderfly-weekly-260/set/105886830/</loc>
-  <lastmod>2026-07-30T00:29:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/936507/image-64179cf0399fca1801d7b3adee11a10e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Jubilo vs Salvo, Wonderfly Weekly #260 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jubilo vs Salvo in Winners Semi-Final of Wonderfly Weekly #260, streamed by wonderflygaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2832325033&amp;t=0h30m21s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1507</video:duration>
-    <video:publication_date>2026-07-30T00:00:37.000Z</video:publication_date>
-    <video:uploader>wonderflygaming</video:uploader>
-    <video:expiration_date>2026-08-07T00:00:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

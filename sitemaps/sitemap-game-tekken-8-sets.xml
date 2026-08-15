@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-on-the-big-screen-botbs-22/set/106522549/</loc>
-  <lastmod>2026-08-15T18:36:46.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/cgc-dojo-powered-by-kec-tgh/set/106506523/</loc>
+  <lastmod>2026-08-15T19:36:33.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/937929/image-09dc6ca6aa9ab01a6b0d7b167da2df0b.png
+    </video:thumbnail_loc>
+    <video:title>
+      VYX | Atookman vs NAJN, CGC DOJO POWERED BY KEC &amp; TGH - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch VYX | Atookman vs NAJN in Winners Semi-Final of CGC DOJO POWERED BY KEC &amp; TGH, streamed by competitivegamingclub
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=competitivegamingclub&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1430</video:duration>
+    <video:publication_date>2026-08-15T19:36:33.000Z</video:publication_date>
+    <video:uploader>competitivegamingclub</video:uploader>
+    <video:expiration_date>2026-08-23T19:36:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/battle-on-the-big-screen-botbs-22/set/106522549/</loc>
+  <lastmod>2026-08-15T18:58:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/WoQ7hzghJIg?start=8261s
     </video:player_loc>
-    <video:duration>1457</video:duration>
+    <video:duration>757</video:duration>
     <video:publication_date>2026-08-15T18:36:46.000Z</video:publication_date>
     <video:uploader>Battle On The Big Screen</video:uploader>
     <video:expiration_date>2026-08-23T18:36:46.000Z</video:expiration_date>
