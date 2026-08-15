@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-blue/set/106499545/</loc>
-  <lastmod>2026-08-15T14:31:31.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-blue/set/106499483/</loc>
+  <lastmod>2026-08-15T14:59:02.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/925540/image-fb8566080d104d60fea4d56d074f9c6e.png
+    </video:thumbnail_loc>
+    <video:title>
+      Arefu vs Majin | Melliodama, Arca-Sys BLUE - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Arefu vs Majin | Melliodama in Grand Final of Arca-Sys BLUE, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2846825057&amp;t=2h58m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-08-15T14:59:02.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-08-23T14:59:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-blue/set/106499545/</loc>
+  <lastmod>2026-08-15T14:54:07.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2846825057&amp;t=2h31m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1238</video:duration>
+    <video:duration>1043</video:duration>
     <video:publication_date>2026-08-15T14:31:31.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-08-23T14:31:31.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-07-17T21:27:20.000Z</video:publication_date>
     <video:uploader>teamsp00ky</video:uploader>
     <video:expiration_date>2026-07-25T21:27:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/hog-dragon-161/set/105305182/</loc>
-  <lastmod>2026-07-15T04:56:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/933096/image-785fc81142667d417bff7b68aa07bf0b.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dropleto vs HoG | Blu_Menace, HoG: Dragon #161 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dropleto vs HoG | Blu_Menace in Grand Final of HoG: Dragon #161, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2820176122&amp;t=3h22m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-07-15T02:50:14.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-07-23T02:50:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
