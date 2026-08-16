@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/magwest-2026/set/106582586/</loc>
+  <lastmod>2026-08-16T20:23:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882848/image-5107eff13595b719df37ad1fffe6d229.png
+    </video:thumbnail_loc>
+    <video:title>
+      jonsf vs JaveLin, MAGWest 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch jonsf vs JaveLin in Grand Final of MAGWest 2026, streamed by consoles8
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2848046602&amp;t=1h35m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>627</video:duration>
+    <video:publication_date>2026-08-16T19:57:33.000Z</video:publication_date>
+    <video:uploader>consoles8</video:uploader>
+    <video:expiration_date>2026-08-24T19:57:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/magwest-2026/set/106582601/</loc>
-  <lastmod>2026-08-16T19:43:40.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-16T20:05:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2848046602&amp;t=1h21m54s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>962</video:duration>
+    <video:duration>830</video:duration>
     <video:publication_date>2026-08-16T19:43:40.000Z</video:publication_date>
     <video:uploader>consoles8</video:uploader>
     <video:expiration_date>2026-08-24T19:43:40.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-08-02T12:29:14.000Z</video:publication_date>
     <video:uploader>EWC_Plus_EN</video:uploader>
     <video:expiration_date>2026-08-10T12:29:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/esports-world-cup-2026-tekken-8-lcq/set/106034165/</loc>
-  <lastmod>2026-08-02T12:28:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/919284/image-364b4a31dece77f7c51e62e3820d3613.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      AG | M. Zubair vs RR | Ayorichie, Esports World Cup 2026: TEKKEN 8 - LCQ - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AG | M. Zubair vs RR | Ayorichie in Winners Semi-Final of Esports World Cup 2026: TEKKEN 8 - LCQ, streamed by EWC_Plus_EN
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2835228727&amp;t=0h54m23s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>643</video:duration>
-    <video:publication_date>2026-08-02T12:16:32.000Z</video:publication_date>
-    <video:uploader>EWC_Plus_EN</video:uploader>
-    <video:expiration_date>2026-08-10T12:16:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
