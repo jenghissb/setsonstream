@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-17-fighting-souls/set/106551460/</loc>
+  <lastmod>2026-08-16T01:51:28.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/913653/image-2ba6a1f623e21cabab5f2c22274ac764.png
+    </video:thumbnail_loc>
+    <video:title>
+      &lt;3 | nyoravim vs BARK | LeafBlade, Backstreet Brawl #17 - Fighting Souls - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch &lt;3 | nyoravim vs BARK | LeafBlade in Losers Final of Backstreet Brawl #17 - Fighting Souls, streamed by HopOnPNW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847140639&amp;t=6h17m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>586</video:duration>
+    <video:publication_date>2026-08-16T01:19:51.000Z</video:publication_date>
+    <video:uploader>HopOnPNW</video:uploader>
+    <video:expiration_date>2026-08-24T01:19:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-17-fighting-souls/set/106551428/</loc>
-  <lastmod>2026-08-16T00:54:28.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-16T01:26:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2847140639&amp;t=5h52m11s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1640</video:duration>
+    <video:duration>733</video:duration>
     <video:publication_date>2026-08-16T00:54:28.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2026-08-24T00:54:28.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-26T02:52:15.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2026-08-03T02:52:15.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-block-one-more/set/105768030/</loc>
-  <lastmod>2026-07-26T03:05:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/896046/image-103e9bfd0ac795186903c6334dfd7f33.png
-    </video:thumbnail_loc>
-    <video:title>
-      &lt;3 | nyoravim vs Manoueverable, Just Block: One More - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch &lt;3 | nyoravim vs Manoueverable in Losers Round 2 of Just Block: One More, streamed by TempestStreamCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828874176&amp;t=8h15m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>540</video:duration>
-    <video:publication_date>2026-07-26T02:45:14.000Z</video:publication_date>
-    <video:uploader>TempestStreamCo</video:uploader>
-    <video:expiration_date>2026-08-03T02:45:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
