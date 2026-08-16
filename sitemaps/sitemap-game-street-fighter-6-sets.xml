@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/magwest-2026/set/106544241/</loc>
+  <lastmod>2026-08-15T23:12:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/882848/image-5107eff13595b719df37ad1fffe6d229.png
+    </video:thumbnail_loc>
+    <video:title>
+      sanadough vs applefrog, MAGWest 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch sanadough vs applefrog in Losers Quarter-Final of MAGWest 2026, streamed by consoles8
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847109017&amp;t=4h12m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>834</video:duration>
+    <video:publication_date>2026-08-15T22:39:31.000Z</video:publication_date>
+    <video:uploader>consoles8</video:uploader>
+    <video:expiration_date>2026-08-23T22:39:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/magwest-2026/set/106540470/</loc>
-  <lastmod>2026-08-15T21:43:38.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-15T22:21:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2847109017&amp;t=3h16m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2503</video:duration>
+    <video:duration>696</video:duration>
     <video:publication_date>2026-08-15T21:43:38.000Z</video:publication_date>
     <video:uploader>consoles8</video:uploader>
     <video:expiration_date>2026-08-23T21:43:38.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-07-31T05:29:34.000Z</video:publication_date>
     <video:uploader>guildhouse</video:uploader>
     <video:expiration_date>2026-08-08T05:29:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-fighters-216-norcal-street-fighter-6-weekly/set/105926703/</loc>
-  <lastmod>2026-07-31T05:32:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/934906/image-b70e2431ca80271cc4adbba70842c165.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Exige vs HighSpeedRail, Guildhouse Fighters 216 - Norcal Street Fighter 6 weekly - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Exige vs HighSpeedRail in Losers Semi-Final of Guildhouse Fighters 216 - Norcal Street Fighter 6 weekly, streamed by guildhouse
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2833289028&amp;t=2h23m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>829</video:duration>
-    <video:publication_date>2026-07-31T05:15:39.000Z</video:publication_date>
-    <video:uploader>guildhouse</video:uploader>
-    <video:expiration_date>2026-08-08T05:15:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

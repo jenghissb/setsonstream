@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/secret-labs-az-august-2026-1/set/106544314/</loc>
+  <lastmod>2026-08-15T23:09:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/933679/image-6a0ddd7a28c6d95940c9cdd50875ca09.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      LLGN | Phantaku vs MinGG, Secret Labs AZ August 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LLGN | Phantaku vs MinGG in Winners Round 2 of Secret Labs AZ August 2026, streamed by TheXButton
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847189505&amp;t=2h40m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>585</video:duration>
+    <video:publication_date>2026-08-15T22:40:07.000Z</video:publication_date>
+    <video:uploader>TheXButton</video:uploader>
+    <video:expiration_date>2026-08-23T22:40:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/fgca-presents-fancon-2026-tournaments/set/106502857/</loc>
   <lastmod>2026-08-15T15:20:25.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-26T02:06:04.000Z</video:publication_date>
     <video:uploader>TempestStreamCo</video:uploader>
     <video:expiration_date>2026-08-03T02:06:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-block-one-more/set/105768026/</loc>
-  <lastmod>2026-07-26T02:21:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/896046/image-103e9bfd0ac795186903c6334dfd7f33.png
-    </video:thumbnail_loc>
-    <video:title>
-      &lt;3 | nyoravim vs Fizzgig, Just Block: One More - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch &lt;3 | nyoravim vs Fizzgig in Losers Round 1 of Just Block: One More, streamed by TempestStreamCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828874176&amp;t=7h29m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>773</video:duration>
-    <video:publication_date>2026-07-26T01:59:48.000Z</video:publication_date>
-    <video:uploader>TempestStreamCo</video:uploader>
-    <video:expiration_date>2026-08-03T01:59:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
