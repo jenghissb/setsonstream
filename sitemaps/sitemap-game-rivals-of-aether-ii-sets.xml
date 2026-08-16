@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ceo-2026/set/106576434/</loc>
-  <lastmod>2026-08-16T16:32:17.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ceo-2026/set/106579859/</loc>
+  <lastmod>2026-08-16T17:19:50.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858962/image-13943ca793a9189032c81e8b69fc60ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      BLZE | Dingo vs AoC | Acorn, CEO 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BLZE | Dingo vs AoC | Acorn in Winners Quarter-Final of CEO 2026, streamed by JuicyGameNight
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847870115&amp;t=2h42m31s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2371</video:duration>
+    <video:publication_date>2026-08-16T17:19:50.000Z</video:publication_date>
+    <video:uploader>JuicyGameNight</video:uploader>
+    <video:expiration_date>2026-08-24T17:19:50.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ceo-2026/set/106576434/</loc>
+  <lastmod>2026-08-16T16:52:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2847870115&amp;t=1h54m58s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1394</video:duration>
+    <video:duration>423</video:duration>
     <video:publication_date>2026-08-16T16:32:17.000Z</video:publication_date>
     <video:uploader>JuicyGameNight</video:uploader>
     <video:expiration_date>2026-08-24T16:32:17.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-30T23:59:05.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-08-07T23:59:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hog-phoenix-10-14/set/105914584/</loc>
-  <lastmod>2026-07-31T00:00:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/938346/image-2db3799c862da90980fffe1510e850c5.png
-    </video:thumbnail_loc>
-    <video:title>
-      Toxic vs bababooey, HoG: Phoenix 10.14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Toxic vs bababooey in Winners Round 1 of HoG: Phoenix 10.14, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2833136491&amp;t=0h13m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>940</video:duration>
-    <video:publication_date>2026-07-30T23:43:22.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-08-07T23:43:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -1,33 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ceo-2026/set/106575088/</loc>
-  <lastmod>2026-08-16T16:23:43.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/st-no-john-s-12/set/106575251/</loc>
+  <lastmod>2026-08-16T17:49:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893990/image-3b5d069c19a36c06236abda770386caa.png
+    </video:thumbnail_loc>
+    <video:title>
+      SkizzardWizzard vs GNL | Josh MagBrag, St. No John&apos;s 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SkizzardWizzard vs GNL | Josh MagBrag in Losers Round 4 of St. No John&apos;s 12, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847888230&amp;t=2h21m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>994</video:duration>
+    <video:publication_date>2026-08-16T17:24:34.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-08-24T17:24:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ceo-2026/set/106575090/</loc>
+  <lastmod>2026-08-16T17:49:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/858962/image-13943ca793a9189032c81e8b69fc60ed.png
     </video:thumbnail_loc>
     <video:title>
-      EggdogSpiral | Krudo vs Envy | Wizzrobe, CEO 2026 - Sets on Stream
+      Envy | Wizzrobe vs Tempo | Axe, CEO 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch EggdogSpiral | Krudo vs Envy | Wizzrobe in Losers Quarter-Final of CEO 2026, streamed by VGBootCamp
+      Watch Envy | Wizzrobe vs Tempo | Axe in Losers Semi-Final of CEO 2026, streamed by VGBootCamp
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2847874367&amp;t=1h39m34s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2847874367&amp;t=2h39m5s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1908</video:duration>
-    <video:publication_date>2026-08-16T16:23:43.000Z</video:publication_date>
+    <video:duration>1380</video:duration>
+    <video:publication_date>2026-08-16T17:23:14.000Z</video:publication_date>
     <video:uploader>VGBootCamp</video:uploader>
-    <video:expiration_date>2026-08-24T16:23:43.000Z</video:expiration_date>
+    <video:expiration_date>2026-08-24T17:23:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/st-no-john-s-12/set/106575193/</loc>
+  <lastmod>2026-08-16T17:34:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893990/image-3b5d069c19a36c06236abda770386caa.png
+    </video:thumbnail_loc>
+    <video:title>
+      Travy vs SC | Solanum, St. No John&apos;s 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Travy vs SC | Solanum in Winners Quarter-Final of St. No John&apos;s 12, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847888230&amp;t=2h8m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>676</video:duration>
+    <video:publication_date>2026-08-16T17:11:43.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-08-24T17:11:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ceo-2026/set/106575075/</loc>
+  <lastmod>2026-08-16T17:34:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858962/image-13943ca793a9189032c81e8b69fc60ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      Liquid | Hungrybox vs LLD | Cody Schwab, CEO 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Liquid | Hungrybox vs LLD | Cody Schwab in Winners Final of CEO 2026, streamed by VGBootCamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847874367&amp;t=2h19m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1180</video:duration>
+    <video:publication_date>2026-08-16T17:03:29.000Z</video:publication_date>
+    <video:uploader>VGBootCamp</video:uploader>
+    <video:expiration_date>2026-08-24T17:03:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/st-no-john-s-12/set/106575192/</loc>
+  <lastmod>2026-08-16T17:20:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/893990/image-3b5d069c19a36c06236abda770386caa.png
+    </video:thumbnail_loc>
+    <video:title>
+      SC | nunavut kaiju vs LilFrogurt, St. No John&apos;s 12 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SC | nunavut kaiju vs LilFrogurt in Winners Quarter-Final of St. No John&apos;s 12, streamed by SmashNL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847888230&amp;t=1h46m28s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1307</video:duration>
+    <video:publication_date>2026-08-16T16:49:29.000Z</video:publication_date>
+    <video:uploader>SmashNL</video:uploader>
+    <video:expiration_date>2026-08-24T16:49:29.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/st-no-john-s-12/set/106575191/</loc>
-  <lastmod>2026-08-16T16:30:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-16T16:54:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,10 +138,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2847888230&amp;t=1h27m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1517</video:duration>
+    <video:duration>1099</video:duration>
     <video:publication_date>2026-08-16T16:30:14.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-08-24T16:30:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/ceo-2026/set/106575088/</loc>
+  <lastmod>2026-08-16T16:54:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/858962/image-13943ca793a9189032c81e8b69fc60ed.png
+    </video:thumbnail_loc>
+    <video:title>
+      EggdogSpiral | Krudo vs Envy | Wizzrobe, CEO 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch EggdogSpiral | Krudo vs Envy | Wizzrobe in Losers Quarter-Final of CEO 2026, streamed by VGBootCamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847874367&amp;t=1h39m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1369</video:duration>
+    <video:publication_date>2026-08-16T16:23:43.000Z</video:publication_date>
+    <video:uploader>VGBootCamp</video:uploader>
+    <video:expiration_date>2026-08-24T16:23:43.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -14278,126 +14398,6 @@
     <video:publication_date>2026-07-30T22:10:01.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-08-07T22:10:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-391/set/105908377/</loc>
-  <lastmod>2026-07-30T22:07:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/938084/image-d8c5b9c5e992749a3639e0a6ae2a8e7e.png
-    </video:thumbnail_loc>
-    <video:title>
-      A-Pow vs Dead, Salt Water Smash 391 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch A-Pow vs Dead in Round 1 of Salt Water Smash 391, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2833055711&amp;t=0h20m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>485</video:duration>
-    <video:publication_date>2026-07-30T21:57:48.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-08-07T21:57:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-391/set/105908392/</loc>
-  <lastmod>2026-07-30T21:55:45.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/938084/image-d8c5b9c5e992749a3639e0a6ae2a8e7e.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chef | PenguinOfSpace vs DadNL, Salt Water Smash 391 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chef | PenguinOfSpace vs DadNL in Round 1 of Salt Water Smash 391, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2833055711&amp;t=0h4m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>565</video:duration>
-    <video:publication_date>2026-07-30T21:41:47.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-08-07T21:41:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-197-hi-brynn/set/105898698/</loc>
-  <lastmod>2026-07-30T04:54:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/937558/image-f54e96d64bb677a15ba0bb01da8800a9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Eggdog | Salt vs CMC 23, Adam&apos;s Smash Series #197: Hi Brynn - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Eggdog | Salt vs CMC 23 in Winners Semi-Final of Adam&apos;s Smash Series #197: Hi Brynn, streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2832432275&amp;t=2h43m50s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>840</video:duration>
-    <video:publication_date>2026-07-30T04:32:54.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2026-08-07T04:32:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-197-hi-brynn/set/105898699/</loc>
-  <lastmod>2026-07-30T04:38:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/937558/image-f54e96d64bb677a15ba0bb01da8800a9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Level1 | Zoey vs USN | Chai_Rockyy, Adam&apos;s Smash Series #197: Hi Brynn - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Level1 | Zoey vs USN | Chai_Rockyy in Winners Semi-Final of Adam&apos;s Smash Series #197: Hi Brynn, streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2832432275&amp;t=2h37m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>399</video:duration>
-    <video:publication_date>2026-07-30T04:26:11.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2026-08-07T04:26:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-197-hi-brynn/set/105898819/</loc>
-  <lastmod>2026-07-30T04:21:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/937558/image-f54e96d64bb677a15ba0bb01da8800a9.png
-    </video:thumbnail_loc>
-    <video:title>
-      Pbag | Lop vs Pbag, Adam&apos;s Smash Series #197: Hi Brynn - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Pbag | Lop vs Pbag in Losers Round 6 of Adam&apos;s Smash Series #197: Hi Brynn, streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2832432275&amp;t=2h13m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>820</video:duration>
-    <video:publication_date>2026-07-30T04:02:47.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2026-08-07T04:02:47.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
