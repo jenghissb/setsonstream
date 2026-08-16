@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/fgca-presents-fancon-2026-tournaments/set/106497124/</loc>
+  <lastmod>2026-08-16T09:13:00.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909336/image-cb0c327be89c34c93391dbb639f13066.png
+    </video:thumbnail_loc>
+    <video:title>
+      JacobKaas vs Stack, FGCA Presents: FanCon 2026 Tournaments - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JacobKaas vs Stack in Winners Final of FGCA Presents: FanCon 2026 Tournaments, streamed by FGCAARHUS
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847678200&amp;t=0h49m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>769</video:duration>
+    <video:publication_date>2026-08-16T09:13:00.000Z</video:publication_date>
+    <video:uploader>FGCAARHUS</video:uploader>
+    <video:expiration_date>2026-08-24T09:13:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/blue-spark-saturday-showdown-001-8-15-26-peabody-circuit-2026/set/106544565/</loc>
   <lastmod>2026-08-15T22:55:04.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-08-02T00:32:03.000Z</video:publication_date>
     <video:uploader>TampaNeverSleeps</video:uploader>
     <video:expiration_date>2026-08-10T00:32:03.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/metrocade-metrocon-2026/set/106020458/</loc>
-  <lastmod>2026-08-02T00:40:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/912197/image-2c93f8a6ea871c829d235a5eb2328dfc.png
-    </video:thumbnail_loc>
-    <video:title>
-      IDK | Blank vs LS | W1nata, METROcade @ METROCON 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch IDK | Blank vs LS | W1nata in Winners Quarter-Final of METROcade @ METROCON 2026, streamed by TampaNeverSleeps
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2834757599&amp;t=3h16m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>392</video:duration>
-    <video:publication_date>2026-08-02T00:24:42.000Z</video:publication_date>
-    <video:uploader>TampaNeverSleeps</video:uploader>
-    <video:expiration_date>2026-08-10T00:24:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
