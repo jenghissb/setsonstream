@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/new-england-fancon-gaming-tournaments/set/106579431/</loc>
+  <lastmod>2026-08-16T18:26:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/930062/image-280605cc8a495018590c4103d7d9dc7a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jshroud vs Redthunder, New England FanCon Gaming Tournaments - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jshroud vs Redthunder in Losers Final of New England FanCon Gaming Tournaments, streamed by gamersguildct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847980533&amp;t=0h56m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>597</video:duration>
+    <video:publication_date>2026-08-16T18:01:46.000Z</video:publication_date>
+    <video:uploader>gamersguildct</video:uploader>
+    <video:expiration_date>2026-08-24T18:01:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/new-england-fancon-gaming-tournaments/set/106579430/</loc>
-  <lastmod>2026-08-16T17:52:39.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-16T18:11:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2847980533&amp;t=0h47m12s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>402</video:duration>
+    <video:duration>536</video:duration>
     <video:publication_date>2026-08-16T17:52:39.000Z</video:publication_date>
     <video:uploader>gamersguildct</video:uploader>
     <video:expiration_date>2026-08-24T17:52:39.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-08-01T14:02:24.000Z</video:publication_date>
     <video:uploader>assymylly</video:uploader>
     <video:expiration_date>2026-08-09T14:02:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/assymylly-summer-2026/set/105971814/</loc>
-  <lastmod>2026-08-01T11:26:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/915358/image-9bb2eb8cfdc6d7583d56507489f74609.png
-    </video:thumbnail_loc>
-    <video:title>
-      vaalix vs RVA | Yonzai, Assymylly Summer 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch vaalix vs RVA | Yonzai in Winners Semi-Final of Assymylly Summer 2026, streamed by hfgcry
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2834327607&amp;t=1h20m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>538</video:duration>
-    <video:publication_date>2026-08-01T11:15:37.000Z</video:publication_date>
-    <video:uploader>hfgcry</video:uploader>
-    <video:expiration_date>2026-08-09T11:15:37.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

@@ -18,10 +18,34 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?channel=xenite12000&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1964</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-08-16T17:26:37.000Z</video:publication_date>
     <video:uploader>xenite12000</video:uploader>
     <video:expiration_date>2026-08-24T17:26:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/oslo-showdown-2026-ex-summer/set/106580544/</loc>
+  <lastmod>2026-08-16T18:22:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/935395/image-ced5087d2fec0604ea581b4a39f4bf9e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      GNC | POOP | Strelitzia vs NIS | Jona, Oslo Showdown: 2026 #EX-SUMMER - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch GNC | POOP | Strelitzia vs NIS | Jona in Winners Semi-Final of Oslo Showdown: 2026 #EX-SUMMER, streamed by RBNorway
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2847922125&amp;t=2h12m8s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>775</video:duration>
+    <video:publication_date>2026-08-16T18:04:42.000Z</video:publication_date>
+    <video:uploader>RBNorway</video:uploader>
+    <video:expiration_date>2026-08-24T18:04:42.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -4798,30 +4822,6 @@
     <video:publication_date>2026-07-26T03:29:08.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2026-08-03T03:29:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-block-one-more/set/105768033/</loc>
-  <lastmod>2026-07-26T03:33:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/896046/image-103e9bfd0ac795186903c6334dfd7f33.png
-    </video:thumbnail_loc>
-    <video:title>
-      Valiant | Suicune vs BOKEHEM | EnzogXY, Just Block: One More - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Valiant | Suicune vs BOKEHEM | EnzogXY in Losers Quarter-Final of Just Block: One More, streamed by HopOnPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2828958402&amp;t=6h52m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>819</video:duration>
-    <video:publication_date>2026-07-26T03:14:07.000Z</video:publication_date>
-    <video:uploader>HopOnPNW</video:uploader>
-    <video:expiration_date>2026-08-03T03:14:07.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
