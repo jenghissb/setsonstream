@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/stratasphere-10/set/106594677/</loc>
-  <lastmod>2026-08-17T03:10:59.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/last-resort-17/set/106598710/</loc>
+  <lastmod>2026-08-17T04:31:23.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/942589/image-6cb01d1c86fe0a334ab5297a077d5880.png
+    </video:thumbnail_loc>
+    <video:title>
+      LR | Hydride vs LR | Ciyro, Last Resort #17 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch LR | Hydride vs LR | Ciyro in Losers Quarter-Final of Last Resort #17, streamed by CiyroZ
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=CiyroZ&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1752</video:duration>
+    <video:publication_date>2026-08-17T04:31:23.000Z</video:publication_date>
+    <video:uploader>CiyroZ</video:uploader>
+    <video:expiration_date>2026-08-25T04:31:23.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/stratasphere-10/set/106594677/</loc>
+  <lastmod>2026-08-17T03:31:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/EBMPASvpF70?start=19391s
     </video:player_loc>
-    <video:duration>1150</video:duration>
+    <video:duration>1141</video:duration>
     <video:publication_date>2026-08-17T03:10:59.000Z</video:publication_date>
     <video:uploader>Stratas</video:uploader>
     <video:expiration_date>2026-08-25T03:10:59.000Z</video:expiration_date>
