@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/73-ttgbvsr-26-08-18/set/106624982/</loc>
+  <lastmod>2026-08-18T11:36:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/941039/image-fa1c6660fea5d179b09792f661562292.png
+    </video:thumbnail_loc>
+    <video:title>
+      Natsuka vs ネル飯(neru meshi), #73 TTGBVSR++ 26/08/18 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Natsuka vs ネル飯(neru meshi) in Losers Quarter-Final of #73 TTGBVSR++ 26/08/18, streamed by robert_rorio
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2849522010&amp;t=0h57m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>270</video:duration>
+    <video:publication_date>2026-08-18T11:26:59.000Z</video:publication_date>
+    <video:uploader>robert_rorio</video:uploader>
+    <video:expiration_date>2026-08-26T11:26:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/backstreet-brawl-17-fighting-souls/set/106538350/</loc>
   <lastmod>2026-08-15T23:42:28.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-07-18T12:29:36.000Z</video:publication_date>
     <video:uploader>resetaberdeen</video:uploader>
     <video:expiration_date>2026-07-26T12:29:36.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/northern-fights-2-on-the-beach/set/105426306/</loc>
-  <lastmod>2026-07-18T12:31:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/872557/image-0abe167faa0c3b330e53deaf4b496013.png
-    </video:thumbnail_loc>
-    <video:title>
-      TWS GATK | releasebogus vs RST | eteptseisaE, Northern Fights 2: On the Beach - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TWS GATK | releasebogus vs RST | eteptseisaE in Winners Quarter-Final of Northern Fights 2: On the Beach, streamed by resetaberdeen
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2822943671&amp;t=0h25m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>362</video:duration>
-    <video:publication_date>2026-07-18T12:19:39.000Z</video:publication_date>
-    <video:uploader>resetaberdeen</video:uploader>
-    <video:expiration_date>2026-07-26T12:19:39.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
