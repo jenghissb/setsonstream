@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/le-hub-238/set/106635879/</loc>
+  <lastmod>2026-08-18T22:37:08.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/942632/image-d0a7b1204e90555d46fc396bd856e7d8.png
+    </video:thumbnail_loc>
+    <video:title>
+      Jeezus vs Jemmie, Le Hub 238 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Jeezus vs Jemmie in Winners Semi-Final of Le Hub 238, streamed by hubcityfgc2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=hubcityfgc2&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>927</video:duration>
+    <video:publication_date>2026-08-18T22:37:08.000Z</video:publication_date>
+    <video:uploader>hubcityfgc2</video:uploader>
+    <video:expiration_date>2026-08-26T22:37:08.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/chains-of-fate-monthly-22-drinks-on-thee/set/106597311/</loc>
   <lastmod>2026-08-17T02:48:50.000Z</lastmod>
   <changefreq>daily</changefreq>
