@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/swinburne-smashdown-11/set/106624252/</loc>
+  <lastmod>2026-08-18T08:48:54.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/943812/image-55608747860b21afb3d625ada177c2c2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Tong vs Cl0ne, Swinburne Smashdown #11 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Tong vs Cl0ne in Winners Round 1 of Swinburne Smashdown #11, streamed by swinesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2849482181&amp;t=0h5m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>433</video:duration>
+    <video:publication_date>2026-08-18T08:48:54.000Z</video:publication_date>
+    <video:uploader>swinesports</video:uploader>
+    <video:expiration_date>2026-08-26T08:48:54.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-replay-runback-144/set/106622325/</loc>
   <lastmod>2026-08-18T06:20:55.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-08-08T05:30:04.000Z</video:publication_date>
     <video:uploader>sonicbpro</video:uploader>
     <video:expiration_date>2026-08-16T05:30:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/the-super-smashbowl-60/set/106201335/</loc>
-  <lastmod>2026-08-08T05:30:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/940562/image-d59bce3f516fe3dc3992926ccda242ff.png
-    </video:thumbnail_loc>
-    <video:title>
-      Clune vs BSC | IdealSavagery, The Super SmashBowl #60 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Clune vs BSC | IdealSavagery in Losers Quarter-Final of The Super SmashBowl #60, streamed by sonicbpro
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2840206542&amp;t=3h55m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>674</video:duration>
-    <video:publication_date>2026-08-08T05:18:42.000Z</video:publication_date>
-    <video:uploader>sonicbpro</video:uploader>
-    <video:expiration_date>2026-08-16T05:18:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
