@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-280/set/106624526/</loc>
-  <lastmod>2026-08-18T12:34:04.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ledgetrompe-28/set/106626160/</loc>
+  <lastmod>2026-08-18T17:09:48.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/942992/image-13aa0058834066e483de8097bdfe1541.png
+    </video:thumbnail_loc>
+    <video:title>
+      TCO | Other vs GNS | McCoy, Ledgetrompe #28 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TCO | Other vs GNS | McCoy in Winners Round 1 of Ledgetrompe #28, streamed by toulouselaststock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2849746408&amp;t=0h19m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1096</video:duration>
+    <video:publication_date>2026-08-18T17:09:48.000Z</video:publication_date>
+    <video:uploader>toulouselaststock</video:uploader>
+    <video:expiration_date>2026-08-26T17:09:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-280/set/106624526/</loc>
+  <lastmod>2026-08-18T13:37:37.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2849493651&amp;t=3h19m25s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>3502</video:duration>
+    <video:duration>3600</video:duration>
     <video:publication_date>2026-08-18T12:34:04.000Z</video:publication_date>
     <video:uploader>bigcheese_gg</video:uploader>
     <video:expiration_date>2026-08-26T12:34:04.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-08-08T06:52:22.000Z</video:publication_date>
     <video:uploader>POWgaming</video:uploader>
     <video:expiration_date>2026-08-16T06:52:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/game-lab-smash-228/set/106213612/</loc>
-  <lastmod>2026-08-08T07:03:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/940789/image-5cb1f1862fefb7d7bc5d53cabbf0c13f.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Nexus vs SDG | Groggy, Game Lab Smash #228 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nexus vs SDG | Groggy in Grand Final Reset of Game Lab Smash #228, streamed by Thebackyardsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2840270525&amp;t=4h4m49s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>942</video:duration>
-    <video:publication_date>2026-08-08T06:46:44.000Z</video:publication_date>
-    <video:uploader>Thebackyardsmash</video:uploader>
-    <video:expiration_date>2026-08-16T06:46:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
