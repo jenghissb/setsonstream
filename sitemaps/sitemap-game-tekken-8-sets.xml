@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/esg-fight-night-258/set/106667470/</loc>
+  <lastmod>2026-08-19T23:03:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/944624/image-5670a84b534e986b3bf629ecc359be38.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Dr. MDMA M.D. vs CRAB | small funny, ESG Fight Night #258 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dr. MDMA M.D. vs CRAB | small funny in Winners Quarter-Final of ESG Fight Night #258, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2850943233&amp;t=0h6m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>474</video:duration>
+    <video:publication_date>2026-08-19T22:55:00.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-08-27T22:55:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/down-back-tuesdays-mama-lion-31-biweekly-fighting-game-tournament-los-angeles/set/106653246/</loc>
   <lastmod>2026-08-19T06:35:43.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-08-05T03:42:30.000Z</video:publication_date>
     <video:uploader>downbackclub2</video:uploader>
     <video:expiration_date>2026-08-13T03:42:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-164/set/106095931/</loc>
-  <lastmod>2026-08-05T03:09:12.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/939802/image-f9ad2e5829c56c5ad6f80341a66ccdfc.png
-    </video:thumbnail_loc>
-    <video:title>
-      JJG | Lunacy vs BES|39 | C-Sticks, HoG: Dragon #164 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JJG | Lunacy vs BES|39 | C-Sticks in Grand Final of HoG: Dragon #164, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2837437117&amp;t=3h27m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>475</video:duration>
-    <video:publication_date>2026-08-05T02:51:12.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-08-13T02:51:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
