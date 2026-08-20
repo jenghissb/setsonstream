@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-8-19-26/set/106671544/</loc>
-  <lastmod>2026-08-20T01:39:21.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/raptor-boost-154-trapper-come-home/set/106669648/</loc>
+  <lastmod>2026-08-20T02:30:13.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/944667/image-9178bb15eabd60c5d49e04277416ec35.png
+    </video:thumbnail_loc>
+    <video:title>
+      PIMP // | Jeff Fuel vs AOC/GG | SD Paint, Raptor Boost 154: Trapper Come Home - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PIMP // | Jeff Fuel vs AOC/GG | SD Paint in Grand Final of Raptor Boost 154: Trapper Come Home, streamed by GameGroveWV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=GameGroveWV&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1514</video:duration>
+    <video:publication_date>2026-08-20T02:30:13.000Z</video:publication_date>
+    <video:uploader>GameGroveWV</video:uploader>
+    <video:expiration_date>2026-08-28T02:30:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/one-up-melee-8-19-26/set/106671544/</loc>
+  <lastmod>2026-08-20T02:25:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2850982179&amp;t=2h4m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>876</video:duration>
+    <video:duration>1792</video:duration>
     <video:publication_date>2026-08-20T01:39:21.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-08-28T01:39:21.000Z</video:expiration_date>
