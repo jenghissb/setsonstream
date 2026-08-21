@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/yomi-x-lenovo-legion-tekken-8/set/106724652/</loc>
+  <lastmod>2026-08-21T15:07:46.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/934275/image-83bce7fe9068888f617d97956b0ef247.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      pojaponii.pl | C-Hush vs Bombardier, YOMI x Lenovo Legion - TEKKEN 8 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch pojaponii.pl | C-Hush vs Bombardier in Round 1 of YOMI x Lenovo Legion - TEKKEN 8, streamed by YOMIPoznanFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2852327874&amp;t=1h32m9s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>589</video:duration>
+    <video:publication_date>2026-08-21T14:52:09.000Z</video:publication_date>
+    <video:uploader>YOMIPoznanFGC</video:uploader>
+    <video:expiration_date>2026-08-29T14:52:09.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/tech-city-tekken-232-t8-weekly/set/106718504/</loc>
   <lastmod>2026-08-21T06:58:51.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-08-06T01:29:46.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2026-08-14T01:29:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/showdown-105/set/106125435/</loc>
-  <lastmod>2026-08-06T01:45:36.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/938334/image-eb70c184859e2cc8c39b1d17eba146e9.png
-    </video:thumbnail_loc>
-    <video:title>
-      FGL | NrettG vs Arphax, Showdown #105 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FGL | NrettG vs Arphax in Losers Semi-Final of Showdown #105, streamed by fgleventsllc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2838339326&amp;t=1h39m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>771</video:duration>
-    <video:publication_date>2026-08-06T01:22:59.000Z</video:publication_date>
-    <video:uploader>fgleventsllc</video:uploader>
-    <video:expiration_date>2026-08-14T01:22:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
