@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-78/set/106714515/</loc>
+  <lastmod>2026-08-21T04:01:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/944348/image-2b343f0e6d60e5c5b0e37d2c60065082.png
+    </video:thumbnail_loc>
+    <video:title>
+      PQ2 | CPU0 vs BLZE | McLovin, Wasteland Warriors #78 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PQ2 | CPU0 vs BLZE | McLovin in Winners Final of Wasteland Warriors #78, streamed by azrivalsofaether
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2852007965&amp;t=1h55m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>664</video:duration>
+    <video:publication_date>2026-08-21T03:42:51.000Z</video:publication_date>
+    <video:uploader>azrivalsofaether</video:uploader>
+    <video:expiration_date>2026-08-29T03:42:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-78/set/106714577/</loc>
-  <lastmod>2026-08-21T03:30:00.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-21T03:42:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2852007965&amp;t=1h42m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>544</video:duration>
+    <video:duration>623</video:duration>
     <video:publication_date>2026-08-21T03:30:00.000Z</video:publication_date>
     <video:uploader>azrivalsofaether</video:uploader>
     <video:expiration_date>2026-08-29T03:30:00.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-31T23:29:22.000Z</video:publication_date>
     <video:uploader>Bros. Calamity</video:uploader>
     <video:expiration_date>2026-08-08T23:29:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-546-new-beginnings/set/105950783/</loc>
-  <lastmod>2026-07-31T23:37:41.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/937443/image-7f7b0edbfe7688eb856c10560be6bf34.png
-    </video:thumbnail_loc>
-    <video:title>
-      SBAB | Scarab vs Delphox, Adventure B-Airs #546 - New Beginnings - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SBAB | Scarab vs Delphox in Winners Quarter-Final of Adventure B-Airs #546 - New Beginnings, streamed by Bros. Calamity
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/xhFdAhzr3Ew?start=2180s
-    </video:player_loc>
-    <video:duration>406</video:duration>
-    <video:publication_date>2026-07-31T23:22:28.000Z</video:publication_date>
-    <video:uploader>Bros. Calamity</video:uploader>
-    <video:expiration_date>2026-08-08T23:22:28.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
