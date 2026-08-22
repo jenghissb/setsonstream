@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/ktb-tournament-evoconquest/set/106725048/</loc>
+  <lastmod>2026-08-22T12:32:34.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/937271/image-f5074e809740e00024bf811e3ee76664.png
+    </video:thumbnail_loc>
+    <video:title>
+      MRC | Kurosaki vs MKE | Maxytrique, KTB Tournament #EvoConquest - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MRC | Kurosaki vs MKE | Maxytrique in Round 4 of KTB Tournament #EvoConquest, streamed by Rad_Saeba
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2853254844&amp;t=0h16m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>787</video:duration>
+    <video:publication_date>2026-08-22T12:32:34.000Z</video:publication_date>
+    <video:uploader>Rad_Saeba</video:uploader>
+    <video:expiration_date>2026-08-30T12:32:34.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-125/set/106758510/</loc>
   <lastmod>2026-08-22T04:24:11.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-08-06T23:19:11.000Z</video:publication_date>
     <video:uploader>bluesparkmd</video:uploader>
     <video:expiration_date>2026-08-14T23:19:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-39/set/106137797/</loc>
-  <lastmod>2026-08-06T18:52:38.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/938887/image-df77cf8c066127310f464c2c0d897516.png
-    </video:thumbnail_loc>
-    <video:title>
-      PhantomWebAman vs cupofnoodles, Black Country Foundry #39 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch PhantomWebAman vs cupofnoodles in Winners Semi-Final of Black Country Foundry #39, streamed by bc_foundry
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2838922630&amp;t=1h16m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>535</video:duration>
-    <video:publication_date>2026-08-06T18:41:36.000Z</video:publication_date>
-    <video:uploader>bc_foundry</video:uploader>
-    <video:expiration_date>2026-08-14T18:41:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
