@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/bour-pif-arena-12-10-ans/set/106765523/</loc>
+  <lastmod>2026-08-22T10:39:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/917346/image-aaf0fb6b863bab3e6971b6f6e15f517c.png
+    </video:thumbnail_loc>
+    <video:title>
+      AEG | TPK vs Liem, Bour&apos;Pif Arena # 12 - 10 ans - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AEG | TPK vs Liem in Round 6 of Bour&apos;Pif Arena # 12 - 10 ans, streamed by supersmashyaute2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2853170628&amp;t=1h15m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>464</video:duration>
+    <video:publication_date>2026-08-22T10:22:40.000Z</video:publication_date>
+    <video:uploader>supersmashyaute2</video:uploader>
+    <video:expiration_date>2026-08-30T10:22:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/socal-colosseum-125/set/106758099/</loc>
   <lastmod>2026-08-22T05:01:46.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-08-05T00:34:53.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-08-13T00:34:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tuesdays-at-d-b-55/set/106095307/</loc>
-  <lastmod>2026-08-05T00:45:39.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/938382/image-ed6a4bf9a841d02190be7493269f2425.png
-    </video:thumbnail_loc>
-    <video:title>
-      seph vs Razing Phoenix, Tuesdays at D&amp;B #55 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch seph vs Razing Phoenix in Winners Round 2 of Tuesdays at D&amp;B #55, streamed by Chicagolandfightersfgc
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2837463669&amp;t=0h35m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>795</video:duration>
-    <video:publication_date>2026-08-05T00:31:19.000Z</video:publication_date>
-    <video:uploader>Chicagolandfightersfgc</video:uploader>
-    <video:expiration_date>2026-08-13T00:31:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
