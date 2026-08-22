@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/re-raise-2026/set/106804818/</loc>
+  <lastmod>2026-08-22T20:33:25.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936991/image-cc2921bbccaac6031c3862f07cbb0131.png
+    </video:thumbnail_loc>
+    <video:title>
+      ΘΔ | rei wolf(Theta Delta | rei wolf) vs d4nace, Re:Raise 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ΘΔ | rei wolf(Theta Delta | rei wolf) vs d4nace in Winners Round 1 of Re:Raise 2026, streamed by seatac_rivals
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2853630209&amp;t=0h9m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1053</video:duration>
+    <video:publication_date>2026-08-22T20:33:25.000Z</video:publication_date>
+    <video:uploader>seatac_rivals</video:uploader>
+    <video:expiration_date>2026-08-30T20:33:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/smash-night-at-prodigy-234/set/106738199/</loc>
   <lastmod>2026-08-22T02:59:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-01T21:58:05.000Z</video:publication_date>
     <video:uploader>SatelliteSmash</video:uploader>
     <video:expiration_date>2026-08-09T21:58:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/blazing-battlefield-12-scattered-dreams/set/106006309/</loc>
-  <lastmod>2026-08-01T22:07:02.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913648/image-d1a35a7841b385f3e04c97ed7b2ffa04.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kyb vs Miles GX, Blazing Battlefield #12 - Scattered Dreams - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kyb vs Miles GX in Winners Quarter-Final of Blazing Battlefield #12 - Scattered Dreams, streamed by SatelliteSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2834760389&amp;t=0h35m31s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>631</video:duration>
-    <video:publication_date>2026-08-01T21:47:30.000Z</video:publication_date>
-    <video:uploader>SatelliteSmash</video:uploader>
-    <video:expiration_date>2026-08-09T21:47:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
