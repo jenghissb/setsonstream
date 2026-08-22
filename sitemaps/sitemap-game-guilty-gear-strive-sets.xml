@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-125/set/106755616/</loc>
+  <lastmod>2026-08-22T05:59:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/939005/image-953d0daa1b41032d836096cfcea07fcb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      1Desu vs +edge | Lēʻahi(+edge | L +edge | L +edge | Lahi), SoCal Colosseum #125 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 1Desu vs +edge | Lēʻahi(+edge | L +edge | L +edge | Lahi) in Grand Final of SoCal Colosseum #125, streamed by SoCalColosseum2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2852976586&amp;t=2h51m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1410</video:duration>
+    <video:publication_date>2026-08-22T05:31:44.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum2</video:uploader>
+    <video:expiration_date>2026-08-30T05:31:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-125/set/106755646/</loc>
   <lastmod>2026-08-22T05:16:36.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-07-30T03:10:32.000Z</video:publication_date>
     <video:uploader>FreaksTX</video:uploader>
     <video:expiration_date>2026-08-07T03:10:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-233-norcal-ssbu-ggst-uni2/set/105900002/</loc>
-  <lastmod>2026-07-30T03:23:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/936994/image-66ba82d799f2f3dd367ddf96a535a219.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Brone vs ANGL | Freeetsa, Guildhouse Weekly 233 - Norcal SSBU, GGST, &amp; UNI2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Brone vs ANGL | Freeetsa in Winners Quarter-Final of Guildhouse Weekly 233 - Norcal SSBU, GGST, &amp; UNI2, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2832475253&amp;t=0h19m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>492</video:duration>
-    <video:publication_date>2026-07-30T03:09:32.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-08-07T03:09:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
