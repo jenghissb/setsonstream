@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/norcup-lcq-sluttspill-2026/set/106766962/</loc>
+  <lastmod>2026-08-22T11:34:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/936903/image-db59feec81d632f136db6d68266f0f9e.png
+    </video:thumbnail_loc>
+    <video:title>
+      SN | Martin vs SN | Gardex, Norcup LCQ &amp; Sluttspill 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SN | Martin vs SN | Gardex in Losers Final of Norcup LCQ &amp; Sluttspill 2026, streamed by SmashNorge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2853190402&amp;t=1h6m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1246</video:duration>
+    <video:publication_date>2026-08-22T11:04:52.000Z</video:publication_date>
+    <video:uploader>SmashNorge</video:uploader>
+    <video:expiration_date>2026-08-30T11:04:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/norcup-lcq-sluttspill-2026/set/106766946/</loc>
-  <lastmod>2026-08-22T10:43:20.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-22T10:55:52.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2853190402&amp;t=0h44m35s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>498</video:duration>
+    <video:duration>479</video:duration>
     <video:publication_date>2026-08-22T10:43:20.000Z</video:publication_date>
     <video:uploader>SmashNorge</video:uploader>
     <video:expiration_date>2026-08-30T10:43:20.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-08-03T02:06:05.000Z</video:publication_date>
     <video:uploader>Vgbootcamp2</video:uploader>
     <video:expiration_date>2026-08-11T02:06:05.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/get-on-my-level-2026-canadian-fighting-game-championships/set/106051836/</loc>
-  <lastmod>2026-08-03T02:01:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/846324/image-a24bf9ac6bae1725c38d0a6c255f7b7f.png
-    </video:thumbnail_loc>
-    <video:title>
-      ROOTS | S3C | RapMonster vs Zain, Get On My Level 2026 - Canadian Fighting Game Championships - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ROOTS | S3C | RapMonster vs Zain in Losers Final of Get On My Level 2026 - Canadian Fighting Game Championships, streamed by Vgbootcamp2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2835553045&amp;t=6h20m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>801</video:duration>
-    <video:publication_date>2026-08-03T01:47:36.000Z</video:publication_date>
-    <video:uploader>Vgbootcamp2</video:uploader>
-    <video:expiration_date>2026-08-11T01:47:36.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
