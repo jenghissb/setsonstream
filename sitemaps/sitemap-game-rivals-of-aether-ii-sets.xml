@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/amsidian-rush-5/set/106814563/</loc>
-  <lastmod>2026-08-23T00:54:22.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-23T01:21:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,34 +18,10 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://www.youtube.com/embed/VEDapjhM_C4?start=15896s
     </video:player_loc>
-    <video:duration>1041</video:duration>
+    <video:duration>989</video:duration>
     <video:publication_date>2026-08-23T00:54:22.000Z</video:publication_date>
     <video:uploader>KevinTube Smash VODs</video:uploader>
     <video:expiration_date>2026-08-31T00:54:22.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breakfest-august-2026/set/106814756/</loc>
-  <lastmod>2026-08-22T23:48:53.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/940291/image-87b7bfea39f814edf31e0660eb209a17.png
-    </video:thumbnail_loc>
-    <video:title>
-      SNRS | SmokePudding vs CR2 | baronkorvo, BreakFest August 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SNRS | SmokePudding vs CR2 | baronkorvo in Grand Final of BreakFest August 2026, streamed by ZoneBreakersTV
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2853668642&amp;t=2h39m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-08-22T23:48:53.000Z</video:publication_date>
-    <video:uploader>ZoneBreakersTV</video:uploader>
-    <video:expiration_date>2026-08-30T23:48:53.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -214,6 +190,30 @@
     <video:publication_date>2026-08-22T23:55:12.000Z</video:publication_date>
     <video:uploader>KevinTube Smash VODs</video:uploader>
     <video:expiration_date>2026-08-30T23:55:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/breakfest-august-2026/set/106814756/</loc>
+  <lastmod>2026-08-23T01:53:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/940291/image-87b7bfea39f814edf31e0660eb209a17.png
+    </video:thumbnail_loc>
+    <video:title>
+      SNRS | SmokePudding vs CR2 | baronkorvo, BreakFest August 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SNRS | SmokePudding vs CR2 | baronkorvo in Grand Final of BreakFest August 2026, streamed by ZoneBreakersTV
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2853668642&amp;t=2h39m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-08-22T23:48:53.000Z</video:publication_date>
+    <video:uploader>ZoneBreakersTV</video:uploader>
+    <video:expiration_date>2026-08-30T23:48:53.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
