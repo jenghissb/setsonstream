@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ragnarok-tournament-2026/set/106857802/</loc>
+  <lastmod>2026-08-23T21:05:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/909250/image-4e142ffaa36083823e57abeef2b0081e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ZLG | Vitah vs Seylor, RAGNAROK TOURNAMENT 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ZLG | Vitah vs Seylor in Losers Quarter-Final of RAGNAROK TOURNAMENT 2026, streamed by fighters_arg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2854241046&amp;t=7h23m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>899</video:duration>
+    <video:publication_date>2026-08-23T20:43:45.000Z</video:publication_date>
+    <video:uploader>fighters_arg</video:uploader>
+    <video:expiration_date>2026-08-31T20:43:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ragnarok-tournament-2026/set/106857800/</loc>
-  <lastmod>2026-08-23T20:08:00.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-23T20:23:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2854241046&amp;t=6h47m26s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>703</video:duration>
+    <video:duration>915</video:duration>
     <video:publication_date>2026-08-23T20:08:00.000Z</video:publication_date>
     <video:uploader>fighters_arg</video:uploader>
     <video:expiration_date>2026-08-31T20:08:00.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-01T21:36:46.000Z</video:publication_date>
     <video:uploader>supercombogg</video:uploader>
     <video:expiration_date>2026-08-09T21:36:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-fist-monthly-5-year-anniversary-presented-by-aggie-esports/set/105996741/</loc>
-  <lastmod>2026-08-01T21:40:25.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913761/image-a7c4fd210cc1602fc27fcf6cbc4e93b9.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Island | Tama | Zintai vs TAMA | eggles, Iron Fist Monthly 5 Year Anniversary: Presented by Aggie eSports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Island | Tama | Zintai vs TAMA | eggles in Losers Semi-Final of Iron Fist Monthly 5 Year Anniversary: Presented by Aggie eSports, streamed by supercombogg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2834645430&amp;t=2h39m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>655</video:duration>
-    <video:publication_date>2026-08-01T21:25:14.000Z</video:publication_date>
-    <video:uploader>supercombogg</video:uploader>
-    <video:expiration_date>2026-08-09T21:25:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
