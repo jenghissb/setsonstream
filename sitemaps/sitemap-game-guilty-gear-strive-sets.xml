@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/umad-2026/set/106856503/</loc>
+  <lastmod>2026-08-23T18:45:13.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/869397/image-9f5ce931a14fbbf01a2a74e344b907b7.png
+    </video:thumbnail_loc>
+    <video:title>
+      Bird | Charms | Mephisto vs 67 | BUSTA Rhymez, UMAD 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Bird | Charms | Mephisto vs 67 | BUSTA Rhymez in Winners Semi-Final of UMAD 2026, streamed by woolieversus
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2854340936&amp;t=2h57m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1266</video:duration>
+    <video:publication_date>2026-08-23T18:45:13.000Z</video:publication_date>
+    <video:uploader>woolieversus</video:uploader>
+    <video:expiration_date>2026-08-31T18:45:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/umad-2026/set/106849883/</loc>
   <lastmod>2026-08-23T17:44:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-01T01:45:38.000Z</video:publication_date>
     <video:uploader>hog_ct</video:uploader>
     <video:expiration_date>2026-08-09T01:45:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-166/set/105951873/</loc>
-  <lastmod>2026-08-01T01:56:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/937335/image-85401ed94d70abf1acbee14e95b952c8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Nannerb vs MLGF, HoG: Moonlight #166 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Nannerb vs MLGF in Losers Semi-Final of HoG: Moonlight #166, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2833971567&amp;t=2h8m35s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1021</video:duration>
-    <video:publication_date>2026-08-01T01:28:34.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-08-09T01:28:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
