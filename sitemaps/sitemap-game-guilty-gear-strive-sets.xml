@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/counter-break-2/set/106814713/</loc>
-  <lastmod>2026-08-22T22:35:24.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/counter-break-2/set/106814715/</loc>
+  <lastmod>2026-08-22T23:41:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/937541/image-1e34f43b03ea76f9ff063c7d8d54df6b.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ganeon vs Opysis, Counter Break 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ganeon vs Opysis in Grand Final of Counter Break 2, streamed by counterhitfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=counterhitfgc&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1130</video:duration>
+    <video:publication_date>2026-08-22T23:41:39.000Z</video:publication_date>
+    <video:uploader>counterhitfgc</video:uploader>
+    <video:expiration_date>2026-08-30T23:41:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/counter-break-2/set/106814728/</loc>
+  <lastmod>2026-08-22T23:28:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/937541/image-1e34f43b03ea76f9ff063c7d8d54df6b.png
+    </video:thumbnail_loc>
+    <video:title>
+      CH! | P-Roni vs FlamLordD19, Counter Break 2 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CH! | P-Roni vs FlamLordD19 in Losers Quarter-Final of Counter Break 2, streamed by counterhitfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2853484170&amp;t=5h24m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>570</video:duration>
+    <video:publication_date>2026-08-22T23:06:40.000Z</video:publication_date>
+    <video:uploader>counterhitfgc</video:uploader>
+    <video:expiration_date>2026-08-30T23:06:40.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/counter-break-2/set/106814713/</loc>
+  <lastmod>2026-08-22T22:50:10.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2853484170&amp;t=4h53m24s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>884</video:duration>
+    <video:duration>859</video:duration>
     <video:publication_date>2026-08-22T22:35:24.000Z</video:publication_date>
     <video:uploader>counterhitfgc</video:uploader>
     <video:expiration_date>2026-08-30T22:35:24.000Z</video:expiration_date>
@@ -4774,30 +4822,6 @@
     <video:publication_date>2026-07-30T05:10:35.000Z</video:publication_date>
     <video:uploader>guildhouse2</video:uploader>
     <video:expiration_date>2026-08-07T05:10:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-233-norcal-ssbu-ggst-uni2/set/105900009/</loc>
-  <lastmod>2026-07-30T05:12:14.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/936994/image-66ba82d799f2f3dd367ddf96a535a219.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ANGL | Seri vs Brone, Guildhouse Weekly 233 - Norcal SSBU, GGST, &amp; UNI2 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ANGL | Seri vs Brone in Grand Final of Guildhouse Weekly 233 - Norcal SSBU, GGST, &amp; UNI2, streamed by guildhouse2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2832475253&amp;t=2h10m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>622</video:duration>
-    <video:publication_date>2026-07-30T05:00:00.000Z</video:publication_date>
-    <video:uploader>guildhouse2</video:uploader>
-    <video:expiration_date>2026-08-07T05:00:00.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
