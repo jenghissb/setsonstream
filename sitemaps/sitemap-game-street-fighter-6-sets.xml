@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tok-n-throwdown-49/set/106851889/</loc>
+  <lastmod>2026-08-23T19:14:26.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/940725/image-b423d42283ae414beaf78bb3f4f17cfc.png
+    </video:thumbnail_loc>
+    <video:title>
+      MCFGC | harms vs ArtificialHolly, TokŌn Throwdown #49 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MCFGC | harms vs ArtificialHolly in Grand Final of TokŌn Throwdown #49, streamed by scruffycityfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2854393322&amp;t=2h7m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>448</video:duration>
+    <video:publication_date>2026-08-23T19:00:31.000Z</video:publication_date>
+    <video:uploader>scruffycityfgc</video:uploader>
+    <video:expiration_date>2026-08-31T19:00:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tok-n-throwdown-49/set/106851952/</loc>
-  <lastmod>2026-08-23T18:50:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-23T19:06:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2854393322&amp;t=1h57m10s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>975</video:duration>
+    <video:duration>584</video:duration>
     <video:publication_date>2026-08-23T18:50:04.000Z</video:publication_date>
     <video:uploader>scruffycityfgc</video:uploader>
     <video:expiration_date>2026-08-31T18:50:04.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-08-09T01:08:53.000Z</video:publication_date>
     <video:uploader>majinobama</video:uploader>
     <video:expiration_date>2026-08-17T01:08:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/susd-2026-august-8-sf6-x-3rd-strike/set/106265240/</loc>
-  <lastmod>2026-08-09T01:57:11.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/932789/image-16df6b8da402a26970122917552944ff.png
-    </video:thumbnail_loc>
-    <video:title>
-      Red Rooster | BigButtJackson vs HD-CM, SUSD 2026 (August 8) SF6 x 3rd Strike - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Red Rooster | BigButtJackson vs HD-CM in Winners Semi-Final of SUSD 2026 (August 8) SF6 x 3rd Strike, streamed by majinobama
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2841033673&amp;t=1h40m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1631</video:duration>
-    <video:publication_date>2026-08-09T01:08:49.000Z</video:publication_date>
-    <video:uploader>majinobama</video:uploader>
-    <video:expiration_date>2026-08-17T01:08:49.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
