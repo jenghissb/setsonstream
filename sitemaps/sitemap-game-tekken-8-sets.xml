@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/rmit-games-day-33-1/set/106837443/</loc>
+  <lastmod>2026-08-23T09:22:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/942022/image-bb4fe48ca8596935dd833370b3900acc.png
+    </video:thumbnail_loc>
+    <video:title>
+      jojoscar63 vs lol? | Mosman, RMIT Games Day #33 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch jojoscar63 vs lol? | Mosman in Losers Final of RMIT Games Day #33, streamed by couchwarriors
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2853927229&amp;t=6h21m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>968</video:duration>
+    <video:publication_date>2026-08-23T09:00:30.000Z</video:publication_date>
+    <video:uploader>couchwarriors</video:uploader>
+    <video:expiration_date>2026-08-31T09:00:30.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/rmit-games-day-33-1/set/106837441/</loc>
   <lastmod>2026-08-23T08:50:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-08-09T03:18:41.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-08-17T03:18:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-clash-33/set/106281577/</loc>
-  <lastmod>2026-08-09T03:24:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/932180/image-2eccdd213e2d764ae415331acae0ab26.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      JKS Temple | Hey It&apos;s Sage vs SR | Swell, SoCal Colosseum Clash #33 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JKS Temple | Hey It&apos;s Sage vs SR | Swell in Losers Quarter-Final of SoCal Colosseum Clash #33, streamed by SoCalColosseum
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2841054033&amp;t=3h14m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>459</video:duration>
-    <video:publication_date>2026-08-09T03:10:52.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum</video:uploader>
-    <video:expiration_date>2026-08-17T03:10:52.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
