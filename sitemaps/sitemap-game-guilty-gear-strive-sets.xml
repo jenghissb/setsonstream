@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/red-dirt-rumble-8-23-2026-1/set/106863507/</loc>
+  <lastmod>2026-08-23T22:35:49.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/937044/image-f3c0b56cbdf00f57c296f5af018e012d.png
+    </video:thumbnail_loc>
+    <video:title>
+      TF | SMN | Ice Dew vs AnyMemesNecesary, Red Dirt Rumble 8/23/2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TF | SMN | Ice Dew vs AnyMemesNecesary in Winners Semi-Final of Red Dirt Rumble 8/23/2026, streamed by hxcgaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2854699718&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2630</video:duration>
+    <video:publication_date>2026-08-23T22:35:49.000Z</video:publication_date>
+    <video:uploader>hxcgaming</video:uploader>
+    <video:expiration_date>2026-08-31T22:35:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ragnarok-tournament-2026/set/106857789/</loc>
   <lastmod>2026-08-23T22:15:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-01T22:08:49.000Z</video:publication_date>
     <video:uploader>cokemilktv</video:uploader>
     <video:expiration_date>2026-08-09T22:08:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-fist-monthly-5-year-anniversary-presented-by-aggie-esports/set/105996679/</loc>
-  <lastmod>2026-08-01T22:10:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913761/image-a7c4fd210cc1602fc27fcf6cbc4e93b9.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TNS | Cheryo vs TF | Lurry, Iron Fist Monthly 5 Year Anniversary: Presented by Aggie eSports - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TNS | Cheryo vs TF | Lurry in Grand Final of Iron Fist Monthly 5 Year Anniversary: Presented by Aggie eSports, streamed by supercombogg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2834645430&amp;t=3h12m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>670</video:duration>
-    <video:publication_date>2026-08-01T21:57:53.000Z</video:publication_date>
-    <video:uploader>supercombogg</video:uploader>
-    <video:expiration_date>2026-08-09T21:57:53.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
