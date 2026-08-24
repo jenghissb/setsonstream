@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/monday-night-mayhem-22-100-pot-bonus/set/106885834/</loc>
+  <lastmod>2026-08-24T22:15:33.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/943667/image-1061b3c333055c99d587a5042aa2ef98.png
+    </video:thumbnail_loc>
+    <video:title>
+      WL | LVL3 vs Zaitz, Monday Night Mayhem #22 ($100 Pot Bonus) - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WL | LVL3 vs Zaitz in Winners Round 1 of Monday Night Mayhem #22 ($100 Pot Bonus), streamed by tristn_m
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2855531865&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>530</video:duration>
+    <video:publication_date>2026-08-24T22:15:33.000Z</video:publication_date>
+    <video:uploader>tristn_m</video:uploader>
+    <video:expiration_date>2026-09-01T22:15:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/esportrn-check-in-8/set/106882448/</loc>
   <lastmod>2026-08-24T18:39:39.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-08-16T01:42:24.000Z</video:publication_date>
     <video:uploader>iamjoshe</video:uploader>
     <video:expiration_date>2026-08-24T01:42:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/team-wex-invitational-1100-prize-pot/set/106533706/</loc>
-  <lastmod>2026-08-16T02:17:26.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/933790/image-07fd8224e039744efe0ba56dd7f7bae0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Myth vs Bruho, Team Wex Invitational ($1100 Prize Pot!) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Myth vs Bruho in Grand Final of Team Wex Invitational ($1100 Prize Pot!), streamed by HouseOf3000
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2847072304&amp;t=7h45m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>2135</video:duration>
-    <video:publication_date>2026-08-16T01:38:15.000Z</video:publication_date>
-    <video:uploader>HouseOf3000</video:uploader>
-    <video:expiration_date>2026-08-24T01:38:15.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
