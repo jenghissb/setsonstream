@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-281/set/106903297/</loc>
-  <lastmod>2026-08-25T12:52:00.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ledgetrompe-29/set/106905096/</loc>
+  <lastmod>2026-08-25T17:06:39.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/945165/image-b6ae041beded3e7223635eac54ac75b3.png
+    </video:thumbnail_loc>
+    <video:title>
+      PINGU | RdR | Aster vs Holm-heuSS, Ledgetrompe #29 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PINGU | RdR | Aster vs Holm-heuSS in Winners Round 1 of Ledgetrompe #29, streamed by toulouselaststock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2856184629&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1452</video:duration>
+    <video:publication_date>2026-08-25T17:06:39.000Z</video:publication_date>
+    <video:uploader>toulouselaststock</video:uploader>
+    <video:expiration_date>2026-09-02T17:06:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/weeklyvac-281/set/106903297/</loc>
+  <lastmod>2026-08-25T13:44:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -16,9 +40,9 @@
       Watch yellow vs FP | Heaven in Grand Final of WeeklyVac #281, streamed by bigcheese_gg
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=bigcheese_gg&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2855906808&amp;t=3h47m15s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>2765</video:duration>
+    <video:duration>3137</video:duration>
     <video:publication_date>2026-08-25T12:52:00.000Z</video:publication_date>
     <video:uploader>bigcheese_gg</video:uploader>
     <video:expiration_date>2026-09-02T12:52:00.000Z</video:expiration_date>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-08-16T21:41:41.000Z</video:publication_date>
     <video:uploader>destrekstudios</video:uploader>
     <video:expiration_date>2026-08-24T21:41:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/approach-attach-32/set/106588742/</loc>
-  <lastmod>2026-08-16T21:59:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/942568/image-cb3921530021c004a96ae48f1714e02e.png
-    </video:thumbnail_loc>
-    <video:title>
-      AKO/BOSS | Clauske vs maestro sid, Approach &amp; Attach #32 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch AKO/BOSS | Clauske vs maestro sid in Winners Semi-Final of Approach &amp; Attach #32, streamed by uwu_smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2848141172&amp;t=1h26m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1241</video:duration>
-    <video:publication_date>2026-08-16T21:33:58.000Z</video:publication_date>
-    <video:uploader>uwu_smash</video:uploader>
-    <video:expiration_date>2026-08-24T21:33:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
