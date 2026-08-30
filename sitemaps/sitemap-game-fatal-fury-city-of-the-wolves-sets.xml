@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/trc-desert-fighters-4/set/107099083/</loc>
+  <lastmod>2026-08-30T00:16:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/901018/image-c52c091545512777be72498b21525f60.png
+    </video:thumbnail_loc>
+    <video:title>
+      ONIC | KoopaDTJ vs TZK MDC ZEUS, TRC DESERT FIGHTERS 4 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ONIC | KoopaDTJ vs TZK MDC ZEUS in Losers Round 2 of TRC DESERT FIGHTERS 4, streamed by JustFrameMX
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2860176258&amp;t=0h17m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>582</video:duration>
+    <video:publication_date>2026-08-29T23:54:21.000Z</video:publication_date>
+    <video:uploader>JustFrameMX</video:uploader>
+    <video:expiration_date>2026-09-06T23:54:21.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/trc-desert-fighters-4/set/107099084/</loc>
-  <lastmod>2026-08-29T23:41:14.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-30T00:00:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2860176258&amp;t=0h4m0s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1272</video:duration>
+    <video:duration>745</video:duration>
     <video:publication_date>2026-08-29T23:41:14.000Z</video:publication_date>
     <video:uploader>JustFrameMX</video:uploader>
     <video:expiration_date>2026-09-06T23:41:14.000Z</video:expiration_date>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-05-23T16:47:23.000Z</video:publication_date>
     <video:uploader>fightingcornerlux</video:uploader>
     <video:expiration_date>2026-05-31T16:47:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/3f-fight-for-the-future-2/set/103004303/</loc>
-  <lastmod>2026-05-17T21:07:44.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/887886/image-eaa30047178ca008d1a878dc074aa021.png
-    </video:thumbnail_loc>
-    <video:title>
-      FTLTR | Trema vs ChuChu, 3F - Fight For The Future - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FTLTR | Trema vs ChuChu in Grand Final of 3F - Fight For The Future, streamed by Alemeras
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/A3YaqISknec?start=6679s
-    </video:player_loc>
-    <video:duration>2214</video:duration>
-    <video:publication_date>2026-05-17T20:25:18.000Z</video:publication_date>
-    <video:uploader>Alemeras</video:uploader>
-    <video:expiration_date>2026-05-25T20:25:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
