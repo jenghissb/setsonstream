@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/weekend-warriors-7-1/set/107144820/</loc>
+  <lastmod>2026-08-30T15:04:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/941637/image-7ab76464ccf8fbc91b086b2902dbbc26.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BTF | Kozmo vs BLF | Faber, WEEKEND WARRIORS #7 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BTF | Kozmo vs BLF | Faber in Round 5 of WEEKEND WARRIORS #7, streamed by battleloungefife
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2860583340&amp;t=2h55m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>350</video:duration>
+    <video:publication_date>2026-08-30T14:48:02.000Z</video:publication_date>
+    <video:uploader>battleloungefife</video:uploader>
+    <video:expiration_date>2026-09-07T14:48:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/weekend-warriors-7-1/set/107144816/</loc>
-  <lastmod>2026-08-30T14:32:17.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-08-30T14:51:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2860583340&amp;t=2h39m19s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>663</video:duration>
+    <video:duration>355</video:duration>
     <video:publication_date>2026-08-30T14:32:17.000Z</video:publication_date>
     <video:uploader>battleloungefife</video:uploader>
     <video:expiration_date>2026-09-07T14:32:17.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-09T02:00:32.000Z</video:publication_date>
     <video:uploader>IronGridFGC</video:uploader>
     <video:expiration_date>2026-08-17T02:00:32.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/iron-grid-xlvi/set/106265107/</loc>
-  <lastmod>2026-08-09T02:06:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/932689/image-d9dbaad9a5372545e3f5a279699df920.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRAB | SLG | ThatScrubDavid vs 7STRN | AoiKypher, Iron Grid XLVI - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRAB | SLG | ThatScrubDavid vs 7STRN | AoiKypher in Winners Final of Iron Grid XLVI, streamed by IronGridFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2840759602&amp;t=7h58m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>919</video:duration>
-    <video:publication_date>2026-08-09T01:44:38.000Z</video:publication_date>
-    <video:uploader>IronGridFGC</video:uploader>
-    <video:expiration_date>2026-08-17T01:44:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
