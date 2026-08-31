@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/genesis-black-at-guildhouse-2026/set/107174527/</loc>
+  <lastmod>2026-08-31T01:43:40.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907677/image-3c9b2bea464e9978bef94245bf13324c.png
+    </video:thumbnail_loc>
+    <video:title>
+      TCS | elkiies vs OAK Revolution | Ryuki, GENESIS: BLACK at Guildhouse 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TCS | elkiies vs OAK Revolution | Ryuki in Losers Quarter-Final of GENESIS: BLACK at Guildhouse 2026, streamed by Mang0
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2860948739&amp;t=5h46m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>516</video:duration>
+    <video:publication_date>2026-08-31T01:26:18.000Z</video:publication_date>
+    <video:uploader>Mang0</video:uploader>
+    <video:expiration_date>2026-09-08T01:26:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/genesis-black-at-guildhouse-2026/set/107174526/</loc>
   <lastmod>2026-08-31T01:00:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-14T01:42:54.000Z</video:publication_date>
     <video:uploader>IsthmianGaming</video:uploader>
     <video:expiration_date>2026-08-22T01:42:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/double-dunk-85-isthmian-gaming/set/106417078/</loc>
-  <lastmod>2026-08-14T01:56:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/942248/image-2a60bddcf47a134c707067727c17930f.png
-    </video:thumbnail_loc>
-    <video:title>
-      Seggo vs Ubergronk, Double Dunk #85 @ Isthmian Gaming - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Seggo vs Ubergronk in Winners Semi-Final of Double Dunk #85 @ Isthmian Gaming, streamed by IsthmianGaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2845546560&amp;t=1h19m12s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1227</video:duration>
-    <video:publication_date>2026-08-14T01:22:14.000Z</video:publication_date>
-    <video:uploader>IsthmianGaming</video:uploader>
-    <video:expiration_date>2026-08-22T01:22:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
