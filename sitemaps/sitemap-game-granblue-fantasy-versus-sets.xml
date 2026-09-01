@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/75-ttgbvsr-26-09-01/set/107209858/</loc>
+  <lastmod>2026-09-01T11:23:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/948079/image-d96bf68cac50e115c242acccfd178d30.png
+    </video:thumbnail_loc>
+    <video:title>
+      WIP | ZanDori vs 惡月軍|LastUMA(akugetsu gun |LastUMA), #75 TTGBVSR 26/09/01 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch WIP | ZanDori vs 惡月軍|LastUMA(akugetsu gun |LastUMA) in Winners Quarter-Final of #75 TTGBVSR 26/09/01, streamed by robert_rorio
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2862300482&amp;t=1h45m41s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>286</video:duration>
+    <video:publication_date>2026-09-01T11:11:45.000Z</video:publication_date>
+    <video:uploader>robert_rorio</video:uploader>
+    <video:expiration_date>2026-09-09T11:11:45.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/collisions-47-a-new-age-of-heroes-assembles/set/107152151/</loc>
   <lastmod>2026-08-30T20:21:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-08-01T12:56:43.000Z</video:publication_date>
     <video:uploader>DucEsport</video:uploader>
     <video:expiration_date>2026-08-09T12:56:43.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/bsk-season-clash-4/set/105973954/</loc>
-  <lastmod>2026-08-01T12:26:22.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/922371/image-ca4671075f94015614433c2830cbcb32.png
-    </video:thumbnail_loc>
-    <video:title>
-      DUC | Genosys vs 3QI | Monark, BSK Season Clash #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DUC | Genosys vs 3QI | Monark in Losers Round 1 of BSK Season Clash #4, streamed by DucEsport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2834370810&amp;t=0h26m40s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>738</video:duration>
-    <video:publication_date>2026-08-01T12:09:19.000Z</video:publication_date>
-    <video:uploader>DucEsport</video:uploader>
-    <video:expiration_date>2026-08-09T12:09:19.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
