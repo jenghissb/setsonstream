@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/friendlies-pr-201/set/107241003/</loc>
+  <lastmod>2026-09-02T16:04:36.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/948240/image-c650cd67fec3ec16ffe00e5ae34a9259.png
+    </video:thumbnail_loc>
+    <video:title>
+      HEF | Howsov vs Fantasie, Friendlies PR #201 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HEF | Howsov vs Fantasie in Winners Semi-Final of Friendlies PR #201, streamed by Spiritofsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2863353135&amp;t=0h19m38s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>510</video:duration>
+    <video:publication_date>2026-09-02T15:52:43.000Z</video:publication_date>
+    <video:uploader>Spiritofsmash</video:uploader>
+    <video:expiration_date>2026-09-10T15:52:43.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-abbey-tavern-156/set/107237678/</loc>
   <lastmod>2026-09-02T06:32:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-08-15T20:57:38.000Z</video:publication_date>
     <video:uploader>buddbuds2</video:uploader>
     <video:expiration_date>2026-08-23T20:57:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-monthly-uncg-gold-edition-150-pot-bonus-melee/set/106532368/</loc>
-  <lastmod>2026-08-15T20:35:49.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/933281/image-8d63c66354fe9244c575e5cf1fcbcd7e.png
-    </video:thumbnail_loc>
-    <video:title>
-      UNCG | cleo! vs greek tragedy, The Monthly @ UNCG: Gold Edition ($150 Pot Bonus!! + Melee) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch UNCG | cleo! vs greek tragedy in Winners Round 1 of The Monthly @ UNCG: Gold Edition ($150 Pot Bonus!! + Melee), streamed by buddbuds2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2847190065&amp;t=0h10m32s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>506</video:duration>
-    <video:publication_date>2026-08-15T20:11:11.000Z</video:publication_date>
-    <video:uploader>buddbuds2</video:uploader>
-    <video:expiration_date>2026-08-23T20:11:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
