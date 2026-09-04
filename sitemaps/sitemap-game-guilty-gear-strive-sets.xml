@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-80-ggst-tokon/set/107280901/</loc>
+  <lastmod>2026-09-03T23:13:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/948612/image-3f97026acda6c106c68b01a412751988.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dread vs Two dollar tiki, Just Mids #80: GGST &amp; Tokon - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dread vs Two dollar tiki in Winners Semi-Final of Just Mids #80: GGST &amp; Tokon, streamed by just_mids
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2864517530&amp;t=0h49m23s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>841</video:duration>
+    <video:publication_date>2026-09-03T23:13:44.000Z</video:publication_date>
+    <video:uploader>just_mids</video:uploader>
+    <video:expiration_date>2026-09-11T23:13:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guildhouse-weekly-238-norcal-ssbu-ggst-gbvsr/set/107265971/</loc>
   <lastmod>2026-09-03T06:00:14.000Z</lastmod>
   <changefreq>hourly</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-14T16:14:29.000Z</video:publication_date>
     <video:uploader>bfgl_main</video:uploader>
     <video:expiration_date>2026-08-22T16:14:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bfgl-unicon-2026-fgc-tournaments/set/106433045/</loc>
-  <lastmod>2026-08-14T16:15:27.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/908139/image-36c9c504e0745ee0cdd2c11e2b6b2809.png
-    </video:thumbnail_loc>
-    <video:title>
-      MSQR | Fairy Seal vs Jaycedup, BFGL // UNICON 2026 // FGC TOURNAMENTS - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MSQR | Fairy Seal vs Jaycedup in Losers Round 1 of BFGL // UNICON 2026 // FGC TOURNAMENTS, streamed by bfgl_main
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2845910180&amp;t=3h59m16s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>999</video:duration>
-    <video:publication_date>2026-08-14T15:58:34.000Z</video:publication_date>
-    <video:uploader>bfgl_main</video:uploader>
-    <video:expiration_date>2026-08-22T15:58:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
