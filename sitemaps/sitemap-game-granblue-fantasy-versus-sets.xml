@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-15/set/107361953/</loc>
+  <lastmod>2026-09-05T15:10:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/943763/image-13882708a8edb911c8c2a8f7ecb11e4a.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ryori vs Justplay, Arca-Sys #15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ryori vs Justplay in Grand Final of Arca-Sys #15, streamed by justplayfly
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2865881064&amp;t=2h40m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2019</video:duration>
+    <video:publication_date>2026-09-05T14:36:31.000Z</video:publication_date>
+    <video:uploader>justplayfly</video:uploader>
+    <video:expiration_date>2026-09-13T14:36:31.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-15/set/107361981/</loc>
   <lastmod>2026-09-05T13:56:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-08-01T15:50:40.000Z</video:publication_date>
     <video:uploader>DucEsport</video:uploader>
     <video:expiration_date>2026-08-09T15:50:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/bsk-season-clash-4/set/105973961/</loc>
-  <lastmod>2026-08-01T15:52:08.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/922371/image-ca4671075f94015614433c2830cbcb32.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kentaro vs Rat | Yxo, BSK Season Clash #4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kentaro vs Rat | Yxo in Losers Final of BSK Season Clash #4, streamed by DucEsport
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2834370810&amp;t=3h58m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>575</video:duration>
-    <video:publication_date>2026-08-01T15:40:46.000Z</video:publication_date>
-    <video:uploader>DucEsport</video:uploader>
-    <video:expiration_date>2026-08-09T15:40:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
