@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-75-the-finale/set/107489301/</loc>
+  <lastmod>2026-09-08T07:46:16.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950693/image-04ba0400bc79590ead5f355dca92ec85.png
+    </video:thumbnail_loc>
+    <video:title>
+      Goodie vs 69% | Fiction, McCloud&apos;s Melee Co. #75: The Finale - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Goodie vs 69% | Fiction in Grand Final of McCloud&apos;s Melee Co. #75: The Finale, streamed by verylocalmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2868431905&amp;t=3h51m13s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>849</video:duration>
+    <video:publication_date>2026-09-08T07:26:35.000Z</video:publication_date>
+    <video:uploader>verylocalmelee</video:uploader>
+    <video:expiration_date>2026-09-16T07:26:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/mccloud-s-melee-co-75-the-finale/set/107489554/</loc>
   <lastmod>2026-09-08T07:02:35.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-08-22T03:45:28.000Z</video:publication_date>
     <video:uploader>NorCalMelee</video:uploader>
     <video:expiration_date>2026-08-30T03:45:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/chikin-coop-3/set/106747747/</loc>
-  <lastmod>2026-08-22T03:47:34.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/944108/image-c0db032986a018246c2c6808e61ccd64.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Ismon vs Prof Engr | AlyJ, CHIKIN COOP 3!!! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Ismon vs Prof Engr | AlyJ in Losers Semi-Final of CHIKIN COOP 3!!!, streamed by bhikin
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2852893372&amp;t=2h20m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1140</video:duration>
-    <video:publication_date>2026-08-22T03:23:25.000Z</video:publication_date>
-    <video:uploader>bhikin</video:uploader>
-    <video:expiration_date>2026-08-30T03:23:25.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
