@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fight-for-the-aux-39/set/107554294/</loc>
+  <lastmod>2026-09-10T23:28:52.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950696/image-d17b57548245385de253bc7d9b60edee.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sunday Streets | Sniffulls vs TheRealGB117, Fight for the Aux #39 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sunday Streets | Sniffulls vs TheRealGB117 in Round 1 of Fight for the Aux #39, streamed by fightfortheauxky
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2870802093&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>821</video:duration>
+    <video:publication_date>2026-09-10T23:28:52.000Z</video:publication_date>
+    <video:uploader>fightfortheauxky</video:uploader>
+    <video:expiration_date>2026-09-18T23:28:52.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/paradise-cup-129-1/set/107544922/</loc>
   <lastmod>2026-09-10T12:21:12.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-08-29T22:09:37.000Z</video:publication_date>
     <video:uploader>bourbonstategaming</video:uploader>
     <video:expiration_date>2026-09-06T22:09:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/tol-final-showdown-closure-event-party/set/107087216/</loc>
-  <lastmod>2026-08-29T22:49:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/945611/image-c453328711dd42ca747c0a9fbbf63a51.png
-    </video:thumbnail_loc>
-    <video:title>
-      vinay vs Tao, TOL Final Showdown Closure Event/Party - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch vinay vs Tao in Losers Final of TOL Final Showdown Closure Event/Party, streamed by tol_gaming_lounge
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2860028814&amp;t=1h3m34s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-08-29T21:31:57.000Z</video:publication_date>
-    <video:uploader>tol_gaming_lounge</video:uploader>
-    <video:expiration_date>2026-09-06T21:31:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
