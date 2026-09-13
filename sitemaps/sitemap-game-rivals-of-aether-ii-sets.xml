@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/riptide-2026-4/set/107713619/</loc>
+  <lastmod>2026-09-13T18:09:50.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/851461/image-d9f14221cd72b3c08681db1f5e5d7e73.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sandstorm vs CakeAssault, Riptide 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Sandstorm vs CakeAssault in Grand Final of Riptide 2026, streamed by vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2873179144&amp;t=2h56m50s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>931</video:duration>
+    <video:publication_date>2026-09-13T17:50:20.000Z</video:publication_date>
+    <video:uploader>vgbootcamp</video:uploader>
+    <video:expiration_date>2026-09-21T17:50:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/riptide-2026-4/set/107713634/</loc>
-  <lastmod>2026-09-13T17:28:11.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-09-13T17:52:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2873179144&amp;t=2h34m41s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1700</video:duration>
+    <video:duration>976</video:duration>
     <video:publication_date>2026-09-13T17:28:11.000Z</video:publication_date>
     <video:uploader>vgbootcamp</video:uploader>
     <video:expiration_date>2026-09-21T17:28:11.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-08-30T21:02:18.000Z</video:publication_date>
     <video:uploader>Mang0</video:uploader>
     <video:expiration_date>2026-09-07T21:02:18.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/genesis-black-at-guildhouse-2026/set/107157666/</loc>
-  <lastmod>2026-08-30T21:01:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/907677/image-3c9b2bea464e9978bef94245bf13324c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Snive vs loafin, GENESIS: BLACK at Guildhouse 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Snive vs loafin in Round 4 of GENESIS: BLACK at Guildhouse 2026, streamed by Mang0
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2860948739&amp;t=0h57m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1391</video:duration>
-    <video:publication_date>2026-08-30T20:36:59.000Z</video:publication_date>
-    <video:uploader>Mang0</video:uploader>
-    <video:expiration_date>2026-09-07T20:36:59.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
