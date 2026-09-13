@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/susd-2026-september-12-avatar-legends-x-street-fighter-6/set/107682480/</loc>
+  <lastmod>2026-09-13T01:34:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/946338/image-b899404aa02d0569e893a83295af8279.png
+    </video:thumbnail_loc>
+    <video:title>
+      BFL | Diegubis vs Red Rooster | Mono, SUSD 2026 (September 12) Avatar Legends x Street Fighter 6 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BFL | Diegubis vs Red Rooster | Mono in Grand Final of SUSD 2026 (September 12) Avatar Legends x Street Fighter 6, streamed by majinobama
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2872648777&amp;t=1h33m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1579</video:duration>
+    <video:publication_date>2026-09-13T01:03:20.000Z</video:publication_date>
+    <video:uploader>majinobama</video:uploader>
+    <video:expiration_date>2026-09-21T01:03:20.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/secret-labs-az-september-2026/set/107693553/</loc>
-  <lastmod>2026-09-13T00:49:21.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-09-13T01:09:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2872667218&amp;t=0h54m28s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>872</video:duration>
+    <video:duration>676</video:duration>
     <video:publication_date>2026-09-13T00:49:21.000Z</video:publication_date>
     <video:uploader>TheXButton</video:uploader>
     <video:expiration_date>2026-09-21T00:49:21.000Z</video:expiration_date>
@@ -26,8 +50,8 @@
 </url>
 <url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/susd-2026-september-12-avatar-legends-x-street-fighter-6/set/107682510/</loc>
-  <lastmod>2026-09-13T00:46:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-09-13T01:09:17.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -42,7 +66,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2872648777&amp;t=1h17m13s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1015</video:duration>
+    <video:duration>468</video:duration>
     <video:publication_date>2026-09-13T00:46:58.000Z</video:publication_date>
     <video:uploader>majinobama</video:uploader>
     <video:expiration_date>2026-09-21T00:46:58.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-09-02T04:25:29.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-09-10T04:25:29.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-32-biweekly-fighting-game-tournament-los-angeles/set/107236612/</loc>
-  <lastmod>2026-09-02T04:27:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/946756/image-60f07e8930144ad0353c65a1f4dea613.png
-    </video:thumbnail_loc>
-    <video:title>
-      Chef Dchong vs GareDaBear, DOWN BACK TUESDAYS @ MAMA LION #32 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Chef Dchong vs GareDaBear in Winners Quarter-Final of DOWN BACK TUESDAYS @ MAMA LION #32 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2863043742&amp;t=0h34m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>469</video:duration>
-    <video:publication_date>2026-09-02T04:16:45.000Z</video:publication_date>
-    <video:uploader>DownBackClub</video:uploader>
-    <video:expiration_date>2026-09-10T04:16:45.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
