@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hyperfocus-september-2026/set/107983648/</loc>
+  <lastmod>2026-09-20T15:16:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/949693/image-eb0226ad427c769598530bbb027c02ca.png
+    </video:thumbnail_loc>
+    <video:title>
+      HorseFighter! | Rosé vs Rainbow, Hyperfocus September 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch HorseFighter! | Rosé vs Rainbow in Grand Final of Hyperfocus September 2026, streamed by EnviSSB
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2879220675&amp;t=3h41m37s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1454</video:duration>
+    <video:publication_date>2026-09-20T14:48:11.000Z</video:publication_date>
+    <video:uploader>EnviSSB</video:uploader>
+    <video:expiration_date>2026-09-28T14:48:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/guild-gauntlet-13/set/107945637/</loc>
   <lastmod>2026-09-20T00:42:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-09-05T19:36:46.000Z</video:publication_date>
     <video:uploader>SmashAtVCU</video:uploader>
     <video:expiration_date>2026-09-13T19:36:46.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/kings-of-hali-9/set/107384421/</loc>
-  <lastmod>2026-09-05T19:42:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/878093/image-14fdfcf341ce96c04b5437bb72b96f5a.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Jawg vs MSHR | DW | AGP, Kings of Hali 9 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Jawg vs MSHR | DW | AGP in Winners Quarter-Final of Kings of Hali 9, streamed by mixupgg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2865925014&amp;t=6h12m11s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1061</video:duration>
-    <video:publication_date>2026-09-05T19:19:34.000Z</video:publication_date>
-    <video:uploader>mixupgg</video:uploader>
-    <video:expiration_date>2026-09-13T19:19:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
