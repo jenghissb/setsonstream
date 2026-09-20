@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/guild-gauntlet-13/set/107945637/</loc>
+  <lastmod>2026-09-20T00:42:45.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/945656/image-929f05d8af085addf39d573d0d84b905.png
+    </video:thumbnail_loc>
+    <video:title>
+      mida vs SLIME | AppleWiz, Guild Gauntlet 13 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch mida vs SLIME | AppleWiz in Grand Final of Guild Gauntlet 13, streamed by GuildhallSFL
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2878652635&amp;t=4h35m40s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1588</video:duration>
+    <video:publication_date>2026-09-20T00:07:39.000Z</video:publication_date>
+    <video:uploader>GuildhallSFL</video:uploader>
+    <video:expiration_date>2026-09-28T00:07:39.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/guild-gauntlet-13/set/107945667/</loc>
-  <lastmod>2026-09-19T23:42:33.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-09-20T00:02:35.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2878652635&amp;t=4h10m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>765</video:duration>
+    <video:duration>891</video:duration>
     <video:publication_date>2026-09-19T23:42:33.000Z</video:publication_date>
     <video:uploader>GuildhallSFL</video:uploader>
     <video:expiration_date>2026-09-27T23:42:33.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-09-05T19:19:34.000Z</video:publication_date>
     <video:uploader>mixupgg</video:uploader>
     <video:expiration_date>2026-09-13T19:19:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/ram-rampage-18/set/107387907/</loc>
-  <lastmod>2026-09-05T19:42:17.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/944791/image-73f724ca541b223805263793c986c6ee.png
-    </video:thumbnail_loc>
-    <video:title>
-      ramen vs P&amp;C | Duckybacca, Ram Rampage 18 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ramen vs P&amp;C | Duckybacca in Winners Round 1 of Ram Rampage 18, streamed by SmashAtVCU
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2866230925&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1361</video:duration>
-    <video:publication_date>2026-09-05T19:17:38.000Z</video:publication_date>
-    <video:uploader>SmashAtVCU</video:uploader>
-    <video:expiration_date>2026-09-13T19:17:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
