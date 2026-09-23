@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-aether-gun-20-the-noob-the-bad-the-goat/set/108070400/</loc>
+  <lastmod>2026-09-23T01:05:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/955454/image-0ef1b86c6a79362e412e3f6b14b6dc72.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      PRNCSS | Golli vs SS | PRNCSS | DookieMuncher, The Aether Gun 20: The Noob, The Bad, The Goat - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch PRNCSS | Golli vs SS | PRNCSS | DookieMuncher in Winners Quarter-Final of The Aether Gun 20: The Noob, The Bad, The Goat, streamed by Diego13825
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2881497340&amp;t=0h18m14s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1188</video:duration>
+    <video:publication_date>2026-09-23T00:37:24.000Z</video:publication_date>
+    <video:uploader>Diego13825</video:uploader>
+    <video:expiration_date>2026-10-01T00:37:24.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-312-the-wuboy-fusion/set/108036923/</loc>
   <lastmod>2026-09-22T01:54:57.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-09-05T23:18:16.000Z</video:publication_date>
     <video:uploader>tryhardsmash</video:uploader>
     <video:expiration_date>2026-09-13T23:18:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/alpine-arena-summer-edition/set/107406775/</loc>
-  <lastmod>2026-09-05T23:50:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/938866/image-cd403b4fbb31bd11106009636ec93c5c.png
-    </video:thumbnail_loc>
-    <video:title>
-      Opprobrium vs Machu, Alpine Arena - Summer Edition - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Opprobrium vs Machu in Winners Round 1 of Alpine Arena - Summer Edition, streamed by PenguinosBC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2866272201&amp;t=2h58m3s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1350</video:duration>
-    <video:publication_date>2026-09-05T23:14:30.000Z</video:publication_date>
-    <video:uploader>PenguinosBC</video:uploader>
-    <video:expiration_date>2026-09-13T23:14:30.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
