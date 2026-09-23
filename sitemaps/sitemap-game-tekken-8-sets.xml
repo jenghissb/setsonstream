@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-70/set/108081536/</loc>
+  <lastmod>2026-09-23T18:56:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/945768/image-e844a843c0df4f3b3e9db863c1eefec7.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ESC/StF | deadite1001 vs StF | AnimanKS, Jam Session #70 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ESC/StF | deadite1001 vs StF | AnimanKS in Winners Semi-Final of Jam Session #70, streamed by strikefiercefgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2882073201&amp;t=0h42m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>188</video:duration>
+    <video:publication_date>2026-09-23T18:47:25.000Z</video:publication_date>
+    <video:uploader>strikefiercefgc</video:uploader>
+    <video:expiration_date>2026-10-01T18:47:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/jam-session-70/set/108081532/</loc>
-  <lastmod>2026-09-23T18:38:10.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-09-23T18:48:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2882073201&amp;t=0h33m3s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>862</video:duration>
+    <video:duration>277</video:duration>
     <video:publication_date>2026-09-23T18:38:10.000Z</video:publication_date>
     <video:uploader>strikefiercefgc</video:uploader>
     <video:expiration_date>2026-10-01T18:38:10.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-09-13T00:23:14.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-09-21T00:23:14.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/buffalo-monthly-09-12-26/set/107681213/</loc>
-  <lastmod>2026-09-13T01:13:30.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/947428/image-a0c375c8b476d98e6b03c4b9fbf5bac6.png
-    </video:thumbnail_loc>
-    <video:title>
-      JJBREEZE vs ThuhRealMak, Buffalo Monthly 09/12/26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch JJBREEZE vs ThuhRealMak in Grand Final of Buffalo Monthly 09/12/26, streamed by BuffaloFGCLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2872577408&amp;t=2h21m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3015</video:duration>
-    <video:publication_date>2026-09-13T00:18:38.000Z</video:publication_date>
-    <video:uploader>BuffaloFGCLive</video:uploader>
-    <video:expiration_date>2026-09-21T00:18:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
