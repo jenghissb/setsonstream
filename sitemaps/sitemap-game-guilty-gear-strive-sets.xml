@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/showdown-112/set/108098566/</loc>
+  <lastmod>2026-09-24T00:04:51.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/954647/image-f45fa7014c0addfafce55a3ce7242ca4.png
+    </video:thumbnail_loc>
+    <video:title>
+      SLC | TopGunn4Hire vs NIHILIFE | F8, Showdown #112 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SLC | TopGunn4Hire vs NIHILIFE | F8 in Round 1 of Showdown #112, streamed by fgleventsllc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2882333046&amp;t=0h14m24s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1017</video:duration>
+    <video:publication_date>2026-09-24T00:04:51.000Z</video:publication_date>
+    <video:uploader>fgleventsllc</video:uploader>
+    <video:expiration_date>2026-10-02T00:04:51.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-259-the-curious-case-of-blaisedonut/set/108068212/</loc>
   <lastmod>2026-09-23T03:55:55.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-09-12T08:32:11.000Z</video:publication_date>
     <video:uploader>ozhadou2nd</video:uploader>
     <video:expiration_date>2026-09-20T08:32:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/ultimate-fighting-arena-2026-2/set/107624050/</loc>
-  <lastmod>2026-09-12T08:46:05.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904086/image-6fd3fbb0b113d44b83507a5008d24067.png
-    </video:thumbnail_loc>
-    <video:title>
-      Platy|LCN|BL | Xorn The Genki vs GK, Ultimate Fighting Arena 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Platy|LCN|BL | Xorn The Genki vs GK in Winners Round 2 of Ultimate Fighting Arena 2026, streamed by ZDamascus
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2871998540&amp;t=0h40m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>452</video:duration>
-    <video:publication_date>2026-09-12T08:31:04.000Z</video:publication_date>
-    <video:uploader>ZDamascus</video:uploader>
-    <video:expiration_date>2026-09-20T08:31:04.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
