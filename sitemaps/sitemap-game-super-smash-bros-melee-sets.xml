@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-bunker-14-ft-everyone/set/108301553/</loc>
+  <lastmod>2026-09-28T00:21:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/948198/image-86cfcb858daf21c09280693ac388fad0.png
+    </video:thumbnail_loc>
+    <video:title>
+      Gumble vs 1000 Rounds of Sumo, The Bunker 14 ft. Everyone - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gumble vs 1000 Rounds of Sumo in Losers Semi-Final of The Bunker 14 ft. Everyone, streamed by hoie_wizard
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2885863199&amp;t=2h29m57s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1125</video:duration>
+    <video:publication_date>2026-09-27T23:57:49.000Z</video:publication_date>
+    <video:uploader>hoie_wizard</video:uploader>
+    <video:expiration_date>2026-10-05T23:57:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/melee-friends-activate-175/set/108139429/</loc>
   <lastmod>2026-09-25T05:03:18.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-09-10T22:29:35.000Z</video:publication_date>
     <video:uploader>SmashNL</video:uploader>
     <video:expiration_date>2026-09-18T22:29:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/salt-water-smash-396/set/107550985/</loc>
-  <lastmod>2026-09-10T22:30:58.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/951812/image-52a1a5ad3e78bdf980a8b1f7a5d97b83.png
-    </video:thumbnail_loc>
-    <video:title>
-      DwightBall vs CaptainFalconGokuAmerica, Salt Water Smash 396 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DwightBall vs CaptainFalconGokuAmerica in Round 1 of Salt Water Smash 396, streamed by SmashNL
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2870686918&amp;t=1h28m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>402</video:duration>
-    <video:publication_date>2026-09-10T22:22:42.000Z</video:publication_date>
-    <video:uploader>SmashNL</video:uploader>
-    <video:expiration_date>2026-09-18T22:22:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
