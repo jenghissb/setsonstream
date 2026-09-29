@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/block-string-wonderfly-122/set/108324129/</loc>
+  <lastmod>2026-09-29T01:56:54.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/957903/image-8b4ed5931e498e2a33349c3a90df5290.png
+    </video:thumbnail_loc>
+    <video:title>
+      CARD | aria vs Lightice, Block String @ Wonderfly #122 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch CARD | aria vs Lightice in Losers Final of Block String @ Wonderfly #122, streamed by wonderflygaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2886751530&amp;t=2h22m54s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>839</video:duration>
+    <video:publication_date>2026-09-29T01:30:48.000Z</video:publication_date>
+    <video:uploader>wonderflygaming</video:uploader>
+    <video:expiration_date>2026-10-07T01:30:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/sunday-night-slugfest-124/set/108301696/</loc>
   <lastmod>2026-09-28T01:03:19.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-09-13T00:37:37.000Z</video:publication_date>
     <video:uploader>SoCalColosseum1</video:uploader>
     <video:expiration_date>2026-09-21T00:37:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/backstreet-brawl-18-hellfire/set/107691798/</loc>
-  <lastmod>2026-09-13T00:52:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/940081/image-3123eec78dda7cfd136b5b0bec2655c1.png
-    </video:thumbnail_loc>
-    <video:title>
-      Sam vs Ruka, Backstreet Brawl #18 - Hellfire - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Sam vs Ruka in Winners Quarter-Final of Backstreet Brawl #18 - Hellfire, streamed by HopOnPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2872452131&amp;t=5h9m15s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>681</video:duration>
-    <video:publication_date>2026-09-13T00:31:42.000Z</video:publication_date>
-    <video:uploader>HopOnPNW</video:uploader>
-    <video:expiration_date>2026-09-21T00:31:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
