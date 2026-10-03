@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/fighting-game-fridays-15/set/108446270/</loc>
+  <lastmod>2026-10-03T01:22:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/960235/image-e66bc2bb3b2ab9a0569f95986cc729e8-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      Blaziken_Blue vs andrew s, Fighting Game Fridays #15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Blaziken_Blue vs andrew s in Winners Semi-Final of Fighting Game Fridays #15, streamed by MSTFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2890255104&amp;t=0h54m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>744</video:duration>
+    <video:publication_date>2026-10-03T00:49:17.000Z</video:publication_date>
+    <video:uploader>MSTFGC</video:uploader>
+    <video:expiration_date>2026-10-11T00:49:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-weekly-241-norcal-smash-and-fgc/set/108416362/</loc>
   <lastmod>2026-10-02T05:35:07.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-09-16T03:41:33.000Z</video:publication_date>
     <video:uploader>DownBackClub</video:uploader>
     <video:expiration_date>2026-09-24T03:41:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/down-back-tuesdays-mama-lion-33-biweekly-fighting-game-tournament-los-angeles/set/107784841/</loc>
-  <lastmod>2026-09-16T03:46:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/951238/image-6e05de6e831bb29ea8e5a3b3b3c3d750.png
-    </video:thumbnail_loc>
-    <video:title>
-      Segundo vs GareDaBear, DOWN BACK TUESDAYS @ MAMA LION #33 Biweekly Fighting Game Tournament Los Angeles - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Segundo vs GareDaBear in Winners Round 2 of DOWN BACK TUESDAYS @ MAMA LION #33 Biweekly Fighting Game Tournament Los Angeles, streamed by DownBackClub
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2875426815&amp;t=0h13m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>443</video:duration>
-    <video:publication_date>2026-09-16T03:33:08.000Z</video:publication_date>
-    <video:uploader>DownBackClub</video:uploader>
-    <video:expiration_date>2026-09-24T03:33:08.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

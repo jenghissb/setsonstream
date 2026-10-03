@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/chimera-cup-sqxl-2026-x-curry-cup/set/108430456/</loc>
+  <lastmod>2026-10-02T23:05:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/948354/image-a48e0230952630fd4e499ee2a2854721.png
+    </video:thumbnail_loc>
+    <video:title>
+      SBG | satoshiixrd vs FISH | Scarlet, CHIMERA CUP | SQXL 2026 x CURRY CUP - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SBG | satoshiixrd vs FISH | Scarlet in Winners Semi-Final of CHIMERA CUP | SQXL 2026 x CURRY CUP, streamed by aaroncurry
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2890121519&amp;t=1h27m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1794</video:duration>
+    <video:publication_date>2026-10-02T22:32:18.000Z</video:publication_date>
+    <video:uploader>aaroncurry</video:uploader>
+    <video:expiration_date>2026-10-10T22:32:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/chimera-cup-sqxl-2026-x-curry-cup/set/108430452/</loc>
-  <lastmod>2026-10-02T22:19:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-02T22:56:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2890121519&amp;t=1h14m50s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1978</video:duration>
+    <video:duration>1689</video:duration>
     <video:publication_date>2026-10-02T22:19:49.000Z</video:publication_date>
     <video:uploader>aaroncurry</video:uploader>
     <video:expiration_date>2026-10-10T22:19:49.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-08-30T09:22:55.000Z</video:publication_date>
     <video:uploader>SWGA_tv</video:uploader>
     <video:expiration_date>2026-09-07T09:22:55.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/les-veaux-bordelais-2026/set/107138330/</loc>
-  <lastmod>2026-08-30T09:26:10.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898307/image-ba29b623775dcdf86d0ff3ec0523de0b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Drayv vs MetallicMike, Les Veaux Bordelais 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Drayv vs MetallicMike in Winners Quarter-Final of Les Veaux Bordelais 2026, streamed by SWGA_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2860482599&amp;t=1h15m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>688</video:duration>
-    <video:publication_date>2026-08-30T09:10:11.000Z</video:publication_date>
-    <video:uploader>SWGA_tv</video:uploader>
-    <video:expiration_date>2026-09-07T09:10:11.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
