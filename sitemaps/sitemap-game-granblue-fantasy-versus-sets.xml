@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-16-sp-ciale-halloween/set/108472201/</loc>
-  <lastmod>2026-10-03T16:29:22.000Z</lastmod>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/colorado-mile-high-burst-monthly-october-2026/set/108500774/</loc>
+  <lastmod>2026-10-03T19:18:19.000Z</lastmod>
   <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/955437/image-675ca78b26af9c67c1e42d77763fb425.png
+    </video:thumbnail_loc>
+    <video:title>
+      fire and brice vs Eeve3, Colorado Mile High Burst Monthly October 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch fire and brice vs Eeve3 in Winners Round 1 of Colorado Mile High Burst Monthly October 2026, streamed by akihabaraarcade
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2890991840&amp;t=0h28m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>895</video:duration>
+    <video:publication_date>2026-10-03T19:18:19.000Z</video:publication_date>
+    <video:uploader>akihabaraarcade</video:uploader>
+    <video:expiration_date>2026-10-11T19:18:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/arca-sys-16-sp-ciale-halloween/set/108472201/</loc>
+  <lastmod>2026-10-03T16:46:13.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2890661630&amp;t=4h41m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1203</video:duration>
+    <video:duration>751</video:duration>
     <video:publication_date>2026-10-03T16:29:22.000Z</video:publication_date>
     <video:uploader>justplayfly</video:uploader>
     <video:expiration_date>2026-10-11T16:29:22.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-08-30T10:43:33.000Z</video:publication_date>
     <video:uploader>SWGA_tv</video:uploader>
     <video:expiration_date>2026-09-07T10:43:33.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/les-veaux-bordelais-2026/set/107138335/</loc>
-  <lastmod>2026-08-30T10:43:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/898307/image-ba29b623775dcdf86d0ff3ec0523de0b.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      MetallicMike vs Justplay, Les Veaux Bordelais 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MetallicMike vs Justplay in Winners Final of Les Veaux Bordelais 2026, streamed by SWGA_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2860482599&amp;t=2h35m44s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>601</video:duration>
-    <video:publication_date>2026-08-30T10:30:48.000Z</video:publication_date>
-    <video:uploader>SWGA_tv</video:uploader>
-    <video:expiration_date>2026-09-07T10:30:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
