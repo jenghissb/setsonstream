@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/big-fish-155/set/108598957/</loc>
+  <lastmod>2026-10-06T21:04:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/959439/image-c7e7adccc43dccc850fd0172e80672da-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      Donegal | ItalianStallion vs Brogue, Big Fish 155 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Donegal | ItalianStallion vs Brogue in Grand Final of Big Fish 155, streamed by bigfishbelfast
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2893530367&amp;t=3h44m10s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1912</video:duration>
+    <video:publication_date>2026-10-06T20:28:11.000Z</video:publication_date>
+    <video:uploader>bigfishbelfast</video:uploader>
+    <video:expiration_date>2026-10-14T20:28:11.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/fowl-play-25/set/108602000/</loc>
   <lastmod>2026-10-06T19:18:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-09-16T23:15:41.000Z</video:publication_date>
     <video:uploader>spaciouscow</video:uploader>
     <video:expiration_date>2026-09-24T23:15:41.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nycmelee-s-stock-exchange-66/set/107800101/</loc>
-  <lastmod>2026-09-16T23:26:03.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/953722/image-e8202825d5cad9cae24435b071660888.png
-    </video:thumbnail_loc>
-    <video:title>
-      Maya Papaya vs Brick, NYCMelee&apos;s Stock Exchange #66 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Maya Papaya vs Brick in Winners Round 1 of NYCMelee&apos;s Stock Exchange #66, streamed by nycmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2876102715&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>858</video:duration>
-    <video:publication_date>2026-09-16T23:10:01.000Z</video:publication_date>
-    <video:uploader>nycmelee</video:uploader>
-    <video:expiration_date>2026-09-24T23:10:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
