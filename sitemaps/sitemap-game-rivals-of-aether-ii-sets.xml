@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/adventure-b-airs-556-quacky-birthday/set/108710534/</loc>
+  <lastmod>2026-10-09T23:07:38.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/961910/image-abd67175bd5bc0d5f4ebcb673f67bc58-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      585Z | Shotglass vs Hey Bon-Bon, Adventure B-Airs #556 - Quacky Birthday - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch 585Z | Shotglass vs Hey Bon-Bon in Winners Quarter-Final of Adventure B-Airs #556 - Quacky Birthday, streamed by bros_calamity
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2896449056&amp;t=0h3m17s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>432</video:duration>
+    <video:publication_date>2026-10-09T23:07:38.000Z</video:publication_date>
+    <video:uploader>bros_calamity</video:uploader>
+    <video:expiration_date>2026-10-17T23:07:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/wasteland-warriors-84/set/108674727/</loc>
   <lastmod>2026-10-09T04:19:21.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-09-19T18:06:21.000Z</video:publication_date>
     <video:uploader>ReallyNotAidan</video:uploader>
     <video:expiration_date>2026-09-27T18:06:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/the-fireplace-rva-1/set/107923991/</loc>
-  <lastmod>2026-09-19T18:05:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/946310/image-81dabcb6ee842287ea332a53647b2b07.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      robertrosenbrook vs Not Aidan, The Fireplace RVA #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch robertrosenbrook vs Not Aidan in Winners Quarter-Final of The Fireplace RVA #1, streamed by ReallyNotAidan
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2878527844&amp;t=0h31m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>990</video:duration>
-    <video:publication_date>2026-09-19T17:47:54.000Z</video:publication_date>
-    <video:uploader>ReallyNotAidan</video:uploader>
-    <video:expiration_date>2026-09-27T17:47:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
