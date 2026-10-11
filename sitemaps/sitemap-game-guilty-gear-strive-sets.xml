@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/v-stersl-ss-15/set/108814382/</loc>
+  <lastmod>2026-10-11T12:15:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/959238/image-d1aa88584fd96f0e19c4bedc0f903c05.png
+    </video:thumbnail_loc>
+    <video:title>
+      Dalarna | Shorteex vs spoon, VÄSterSlåss #15 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Dalarna | Shorteex vs spoon in Winners Quarter-Final of VÄSterSlåss #15, streamed by vasterasfgc
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2897837890&amp;t=0h22m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>517</video:duration>
+    <video:publication_date>2026-10-11T12:02:55.000Z</video:publication_date>
+    <video:uploader>vasterasfgc</video:uploader>
+    <video:expiration_date>2026-10-19T12:02:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-clash-35/set/108797363/</loc>
   <lastmod>2026-10-11T02:10:45.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-09-24T01:39:28.000Z</video:publication_date>
     <video:uploader>TXShowdownLive</video:uploader>
     <video:expiration_date>2026-10-02T01:39:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/pofc-113-guilty-gear-strive/set/108102897/</loc>
-  <lastmod>2026-09-24T01:41:59.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/954638/image-3c5fad04770f089bd9cd90272484cf43.png
-    </video:thumbnail_loc>
-    <video:title>
-      me.n.u vs Johnny&apos;s Wife | BUTTERCUPCAKE, POFC 113 - Guilty Gear Strive - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch me.n.u vs Johnny&apos;s Wife | BUTTERCUPCAKE in Winners Quarter-Final of POFC 113 - Guilty Gear Strive, streamed by TXShowdownLive
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2882399433&amp;t=0h15m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>923</video:duration>
-    <video:publication_date>2026-09-24T01:23:58.000Z</video:publication_date>
-    <video:uploader>TXShowdownLive</video:uploader>
-    <video:expiration_date>2026-10-02T01:23:58.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
