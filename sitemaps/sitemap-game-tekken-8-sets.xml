@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-clash-35/set/108795415/</loc>
+  <lastmod>2026-10-11T01:27:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/953095/image-cd943fc6c96163ea6ca854d834313482.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      AverieyRiB vs BILLALER, SoCal Colosseum Clash #35 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AverieyRiB vs BILLALER in Winners Quarter-Final of SoCal Colosseum Clash #35, streamed by SoCalColosseum
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2897460509&amp;t=1h14m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>617</video:duration>
+    <video:publication_date>2026-10-11T01:09:38.000Z</video:publication_date>
+    <video:uploader>SoCalColosseum</video:uploader>
+    <video:expiration_date>2026-10-19T01:09:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/socal-colosseum-clash-35/set/108795414/</loc>
-  <lastmod>2026-10-11T00:58:38.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-11T01:17:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2897460509&amp;t=1h3m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1083</video:duration>
+    <video:duration>657</video:duration>
     <video:publication_date>2026-10-11T00:58:38.000Z</video:publication_date>
     <video:uploader>SoCalColosseum</video:uploader>
     <video:expiration_date>2026-10-19T00:58:38.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-10-03T09:22:26.000Z</video:publication_date>
     <video:uploader>Tekken Madagascar</video:uploader>
     <video:expiration_date>2026-10-11T09:22:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/nyespla-9-tekken-major/set/108466532/</loc>
-  <lastmod>2026-10-03T09:32:01.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/940480/image-6f1f90adade369dcdb983243de4078b9.png
-    </video:thumbnail_loc>
-    <video:title>
-      TKB | Fabian Kazama vs Jack Bash, NYESPLA! #9: Tekken Major - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TKB | Fabian Kazama vs Jack Bash in Winners Round 2 of NYESPLA! #9: Tekken Major, streamed by TerretaFighters
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890584783&amp;t=0h21m29s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>609</video:duration>
-    <video:publication_date>2026-10-03T09:20:31.000Z</video:publication_date>
-    <video:uploader>TerretaFighters</video:uploader>
-    <video:expiration_date>2026-10-11T09:20:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
