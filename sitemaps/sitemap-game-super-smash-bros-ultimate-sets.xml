@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/dsw-73/set/108895698/</loc>
+  <lastmod>2026-10-14T11:12:27.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/957174/image-897069ea23b0f925c09777a2fda9b138.png
+    </video:thumbnail_loc>
+    <video:title>
+      ちゅうさん(chuusan) vs さわ(sawa), 新京都DSW#73 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ちゅうさん(chuusan) vs さわ(sawa) in Winners Round 1 of 新京都DSW#73, streamed by 京都DSW
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/sbBT7UTwHmw?start=1353s
+    </video:player_loc>
+    <video:duration>571</video:duration>
+    <video:publication_date>2026-10-14T11:02:12.000Z</video:publication_date>
+    <video:uploader>京都DSW</video:uploader>
+    <video:expiration_date>2026-10-22T11:02:12.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/shark-tank-217-skill-issue-awareness-day/set/108894185/</loc>
   <lastmod>2026-10-14T08:14:37.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-10-06T01:12:09.000Z</video:publication_date>
     <video:uploader>uwwsmashbros</video:uploader>
     <video:expiration_date>2026-10-14T01:12:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/smash-capital-6/set/108591219/</loc>
-  <lastmod>2026-10-06T01:19:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/959398/image-a4c184c8e34b6ad3165b0360ebc0bf7f-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      Snooze vs Spid3y, Smash Capital #6 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Snooze vs Spid3y in Winners Round 2 of Smash Capital #6, streamed by Lubbock Smash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://www.youtube.com/embed/UrAYUkERiNA?start=4870s
-    </video:player_loc>
-    <video:duration>292</video:duration>
-    <video:publication_date>2026-10-06T01:11:34.000Z</video:publication_date>
-    <video:uploader>Lubbock Smash</video:uploader>
-    <video:expiration_date>2026-10-14T01:11:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
