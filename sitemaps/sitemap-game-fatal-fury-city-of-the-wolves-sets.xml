@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/xtreme-fighters-showdown-2026/set/108966604/</loc>
+  <lastmod>2026-10-16T22:20:07.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/793177/image-49d48c110edd7d8564b0a57ec41b0dbf.png
+    </video:thumbnail_loc>
+    <video:title>
+      SirLoin vs maestro.matt, Xtreme Fighters Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SirLoin vs maestro.matt in Winners Final of Xtreme Fighters Showdown 2026, streamed by xfshowdown
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2902500164&amp;t=3h25m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1071</video:duration>
+    <video:publication_date>2026-10-16T22:20:07.000Z</video:publication_date>
+    <video:uploader>xfshowdown</video:uploader>
+    <video:expiration_date>2026-10-24T22:20:07.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/roundhouse-2026/set/108822178/</loc>
   <lastmod>2026-10-11T20:46:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-08-29T23:54:21.000Z</video:publication_date>
     <video:uploader>JustFrameMX</video:uploader>
     <video:expiration_date>2026-09-06T23:54:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/trc-desert-fighters-4/set/107099084/</loc>
-  <lastmod>2026-08-30T00:00:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/901018/image-c52c091545512777be72498b21525f60.png
-    </video:thumbnail_loc>
-    <video:title>
-      DM | Johny vs MDC | TBH 3.0 | Juan KOF, TRC DESERT FIGHTERS 4 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch DM | Johny vs MDC | TBH 3.0 | Juan KOF in Losers Round 2 of TRC DESERT FIGHTERS 4, streamed by JustFrameMX
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2860176258&amp;t=0h4m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>745</video:duration>
-    <video:publication_date>2026-08-29T23:41:14.000Z</video:publication_date>
-    <video:uploader>JustFrameMX</video:uploader>
-    <video:expiration_date>2026-09-06T23:41:14.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
