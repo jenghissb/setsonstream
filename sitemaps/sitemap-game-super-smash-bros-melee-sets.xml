@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-prowling-grounds-126/set/108992425/</loc>
-  <lastmod>2026-10-17T03:24:09.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/964297/image-dc3965f31348a6f3f557819305563904-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      SwebBy vs T3A | Rakewell, The Prowling Grounds 126 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SwebBy vs T3A | Rakewell in Grand Final of The Prowling Grounds 126, streamed by RochesterSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=RochesterSmash&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-10-17T03:24:09.000Z</video:publication_date>
-    <video:uploader>RochesterSmash</video:uploader>
-    <video:expiration_date>2026-10-25T03:24:09.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/rutgers-melee-fall-2026-6-the-monthly/set/108992926/</loc>
   <lastmod>2026-10-17T04:36:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -46,6 +22,30 @@
     <video:publication_date>2026-10-17T03:49:18.000Z</video:publication_date>
     <video:uploader>rutgers_melee</video:uploader>
     <video:expiration_date>2026-10-25T03:49:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/the-prowling-grounds-126/set/108992425/</loc>
+  <lastmod>2026-10-17T05:27:56.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/964297/image-dc3965f31348a6f3f557819305563904-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      SwebBy vs T3A | Rakewell, The Prowling Grounds 126 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SwebBy vs T3A | Rakewell in Grand Final of The Prowling Grounds 126, streamed by RochesterSmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2902707713&amp;t=4h18m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-10-17T03:24:09.000Z</video:publication_date>
+    <video:uploader>RochesterSmash</video:uploader>
+    <video:expiration_date>2026-10-25T03:24:09.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
