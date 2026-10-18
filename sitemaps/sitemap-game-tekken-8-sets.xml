@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/mba-fight-series-31/set/109108226/</loc>
+  <lastmod>2026-10-18T12:26:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/954375/image-7e94504d26f26a3b204da06b25b9e05d.png
+    </video:thumbnail_loc>
+    <video:title>
+      Beans-on-toast vs GEMU | SpicyToes, MBA Fight Series #31 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Beans-on-toast vs GEMU | SpicyToes in Winners Round 1 of MBA Fight Series #31, streamed by mba_gaming
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2904095784&amp;t=0h50m48s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>595</video:duration>
+    <video:publication_date>2026-10-18T12:13:37.000Z</video:publication_date>
+    <video:uploader>mba_gaming</video:uploader>
+    <video:expiration_date>2026-10-26T12:13:37.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/xtreme-fighters-showdown-2026/set/109087987/</loc>
   <lastmod>2026-10-18T03:29:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-10-09T04:26:01.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-10-17T04:26:01.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/pre-evo-france-tournament-at-alt-f4-dojo-64/set/108656313/</loc>
-  <lastmod>2026-10-08T22:26:31.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/954693/image-c95327d8e0697e0d68a8274dd3a3a5f5.png
-    </video:thumbnail_loc>
-    <video:title>
-      VIT | JeonDDing vs ILIAS, Pre-EVO FRANCE tournament at ALT-F4 (Dojo-64) - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch VIT | JeonDDing vs ILIAS in Grand Final of Pre-EVO FRANCE tournament at ALT-F4 (Dojo-64), streamed by altf4esportnice
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2895189935&amp;t=7h4m28s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>670</video:duration>
-    <video:publication_date>2026-10-08T22:11:56.000Z</video:publication_date>
-    <video:uploader>altf4esportnice</video:uploader>
-    <video:expiration_date>2026-10-16T22:11:56.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
