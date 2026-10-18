@@ -1,105 +1,441 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/astrovan-1/set/109081713/</loc>
-  <lastmod>2026-10-18T00:14:01.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967726/</loc>
+  <lastmod>2026-10-18T05:07:29.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SDG | Khalid vs OeS | Cohenski, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SDG | Khalid vs OeS | Cohenski in Grand Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=4h12m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>804</video:duration>
+    <video:publication_date>2026-10-18T04:48:18.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T04:48:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967757/</loc>
+  <lastmod>2026-10-18T04:50:34.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ABG | Mr. Motion vs OeS | Cohenski, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ABG | Mr. Motion vs OeS | Cohenski in Losers Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=3h54m3s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1109</video:duration>
+    <video:publication_date>2026-10-18T04:29:48.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T04:29:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967756/</loc>
+  <lastmod>2026-10-18T04:35:53.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      OeS | Cohenski vs YET | Venelox, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OeS | Cohenski vs YET | Venelox in Losers Semi-Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=3h36m44s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1038</video:duration>
+    <video:publication_date>2026-10-18T04:12:29.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T04:12:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967723/</loc>
+  <lastmod>2026-10-18T03:21:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SDG | Khalid vs PEPIS | Noire, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SDG | Khalid vs PEPIS | Noire in Winners Semi-Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=2h31m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>835</video:duration>
+    <video:publication_date>2026-10-18T03:07:01.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T03:07:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967752/</loc>
+  <lastmod>2026-10-18T03:10:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      snake vs OeS | Cohenski, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch snake vs OeS | Cohenski in Losers Round 3 of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=2h13m29s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1021</video:duration>
+    <video:publication_date>2026-10-18T02:49:14.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T02:49:14.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967724/</loc>
+  <lastmod>2026-10-18T02:59:49.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ABG | Mr. Motion vs YET | Venelox, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ABG | Mr. Motion vs YET | Venelox in Winners Semi-Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=1h54m34s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1134</video:duration>
+    <video:publication_date>2026-10-18T02:30:19.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T02:30:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/astrovan-1/set/109081717/</loc>
+  <lastmod>2026-10-18T02:47:44.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/911855/image-a8fce15b88a8bf791243ef6914be6c85.png
     </video:thumbnail_loc>
     <video:title>
-      Case vs Prof Engr | AlyJ, Astrovan - Sets on Stream
+      Prof Engr | AlyJ vs Castbros, Astrovan - Sets on Stream
     </video:title>
     <video:description>
-      Watch Case vs Prof Engr | AlyJ in Losers Round 1 of Astrovan, streamed by echelonmelee
+      Watch Prof Engr | AlyJ vs Castbros in Losers Semi-Final of Astrovan, streamed by echelonmelee
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2903515507&amp;t=4h44m15s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2903515507&amp;t=6h49m37s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1821</video:duration>
-    <video:publication_date>2026-10-18T00:14:01.000Z</video:publication_date>
+    <video:duration>1027</video:duration>
+    <video:publication_date>2026-10-18T02:19:23.000Z</video:publication_date>
     <video:uploader>echelonmelee</video:uploader>
-    <video:expiration_date>2026-10-26T00:14:01.000Z</video:expiration_date>
+    <video:expiration_date>2026-10-26T02:19:23.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/109071107/</loc>
-  <lastmod>2026-10-18T00:20:56.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967753/</loc>
+  <lastmod>2026-10-18T02:33:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
     </video:thumbnail_loc>
     <video:title>
-      Echoes of Swizdom vs CSUSB | Baja, Bronco Brawl Fall 2026 - Sets on Stream
+      Jago vs Melee Stats | s-f, Bronco Brawl Fall 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Echoes of Swizdom vs CSUSB | Baja in Losers Quarter-Final of Bronco Brawl Fall 2026, streamed by cppmelee
+      Watch Jago vs Melee Stats | s-f in Losers Round 3 of Bronco Brawl Fall 2026, streamed by cppmelee
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2903520811&amp;t=4h45m1s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2903756942&amp;t=1h41m40s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1406</video:duration>
-    <video:publication_date>2026-10-18T00:20:56.000Z</video:publication_date>
+    <video:duration>773</video:duration>
+    <video:publication_date>2026-10-18T02:17:25.000Z</video:publication_date>
     <video:uploader>cppmelee</video:uploader>
-    <video:expiration_date>2026-10-26T00:20:56.000Z</video:expiration_date>
+    <video:expiration_date>2026-10-26T02:17:25.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/109070416/</loc>
-  <lastmod>2026-10-18T00:15:15.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/xtreme-fighters-showdown-2026/set/109057776/</loc>
+  <lastmod>2026-10-18T02:21:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/793177/image-49d48c110edd7d8564b0a57ec41b0dbf.png
+    </video:thumbnail_loc>
+    <video:title>
+      BrockoSpotify | sethibuns vs Kaiki, Xtreme Fighters Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BrockoSpotify | sethibuns vs Kaiki in Losers Final of Xtreme Fighters Showdown 2026, streamed by VGBootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903736694&amp;t=1h41m4s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>747</video:duration>
+    <video:publication_date>2026-10-18T01:50:00.000Z</video:publication_date>
+    <video:uploader>VGBootcamp</video:uploader>
+    <video:expiration_date>2026-10-26T01:50:00.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967750/</loc>
+  <lastmod>2026-10-18T02:21:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
       https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
     </video:thumbnail_loc>
     <video:title>
-      Jago vs Angel, Bronco Brawl Fall 2026 - Sets on Stream
+      Janks vs Jago, Bronco Brawl Fall 2026 - Sets on Stream
     </video:title>
     <video:description>
-      Watch Jago vs Angel in Losers Quarter-Final of Bronco Brawl Fall 2026, streamed by worth2pi
+      Watch Janks vs Jago in Losers Round 2 of Bronco Brawl Fall 2026, streamed by cppmelee
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=worth2pi&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2903756942&amp;t=1h10m18s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1747</video:duration>
-    <video:publication_date>2026-10-18T00:15:15.000Z</video:publication_date>
-    <video:uploader>worth2pi</video:uploader>
-    <video:expiration_date>2026-10-26T00:15:15.000Z</video:expiration_date>
+    <video:duration>1322</video:duration>
+    <video:publication_date>2026-10-18T01:46:03.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T01:46:03.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-34-halloween-edition/set/109056674/</loc>
-  <lastmod>2026-10-18T00:28:49.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/astrovan-1/set/109081716/</loc>
+  <lastmod>2026-10-18T02:21:39.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/952925/image-d1d30e9350b195ebd11dd36a7e2bb3ce.png
+      https://images.start.gg/images/tournament/911855/image-a8fce15b88a8bf791243ef6914be6c85.png
     </video:thumbnail_loc>
     <video:title>
-      Preeminent vs Ben, Minnesota Monthly Melee #34: Halloween Edition - Sets on Stream
+      Munich 1997 vs Castbros, Astrovan - Sets on Stream
     </video:title>
     <video:description>
-      Watch Preeminent vs Ben in Winners Final of Minnesota Monthly Melee #34: Halloween Edition, streamed by TeamOxy
+      Watch Munich 1997 vs Castbros in Losers Quarter-Final of Astrovan, streamed by echelonmelee
     </video:description>
     <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2903713186&amp;t=0h48m53s&amp;parent=setsonstream.tv
+      https://player.twitch.tv/?video=2903515507&amp;t=6h14m43s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>933</video:duration>
-    <video:publication_date>2026-10-18T00:28:49.000Z</video:publication_date>
-    <video:uploader>TeamOxy</video:uploader>
-    <video:expiration_date>2026-10-26T00:28:49.000Z</video:expiration_date>
+    <video:duration>606</video:duration>
+    <video:publication_date>2026-10-18T01:44:29.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-10-26T01:44:29.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967749/</loc>
+  <lastmod>2026-10-18T01:53:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      OeS | Cohenski vs niimo, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch OeS | Cohenski vs niimo in Losers Round 2 of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=0h46m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>499</video:duration>
+    <video:publication_date>2026-10-18T01:22:32.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T01:22:32.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/astrovan-1/set/109081715/</loc>
+  <lastmod>2026-10-18T01:53:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911855/image-a8fce15b88a8bf791243ef6914be6c85.png
+    </video:thumbnail_loc>
+    <video:title>
+      Rick vs Prof Engr | AlyJ, Astrovan - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Rick vs Prof Engr | AlyJ in Losers Quarter-Final of Astrovan, streamed by echelonmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903515507&amp;t=5h51m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1419</video:duration>
+    <video:publication_date>2026-10-18T01:20:47.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-10-26T01:20:47.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/astrovan-1/set/109081700/</loc>
+  <lastmod>2026-10-18T01:25:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911855/image-a8fce15b88a8bf791243ef6914be6c85.png
+    </video:thumbnail_loc>
+    <video:title>
+      Palpa vs Munich 1997, Astrovan - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Palpa vs Munich 1997 in Winners Semi-Final of Astrovan, streamed by echelonmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903515507&amp;t=5h37m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>780</video:duration>
+    <video:publication_date>2026-10-18T01:07:02.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-10-26T01:07:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967721/</loc>
+  <lastmod>2026-10-18T01:25:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ABG | Mr. Motion vs OeS | Cohenski, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ABG | Mr. Motion vs OeS | Cohenski in Winners Quarter-Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=0h26m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>433</video:duration>
+    <video:publication_date>2026-10-18T01:01:46.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T01:01:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/xtreme-fighters-showdown-2026/set/109057774/</loc>
+  <lastmod>2026-10-18T01:53:57.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/793177/image-49d48c110edd7d8564b0a57ec41b0dbf.png
+    </video:thumbnail_loc>
+    <video:title>
+      Kaiki vs LuigiAC, Xtreme Fighters Showdown 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Kaiki vs LuigiAC in Losers Quarter-Final of Xtreme Fighters Showdown 2026, streamed by VGBootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903736694&amp;t=0h44m19s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2071</video:duration>
+    <video:publication_date>2026-10-18T00:53:15.000Z</video:publication_date>
+    <video:uploader>VGBootcamp</video:uploader>
+    <video:expiration_date>2026-10-26T00:53:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/108967722/</loc>
+  <lastmod>2026-10-18T01:08:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      YET | Venelox vs snake, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch YET | Venelox vs snake in Winners Quarter-Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903756942&amp;t=0h10m16s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>944</video:duration>
+    <video:publication_date>2026-10-18T00:46:01.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T00:46:01.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/astrovan-1/set/109081714/</loc>
+  <lastmod>2026-10-18T01:08:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911855/image-a8fce15b88a8bf791243ef6914be6c85.png
+    </video:thumbnail_loc>
+    <video:title>
+      warme vs Castbros, Astrovan - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch warme vs Castbros in Losers Round 1 of Astrovan, streamed by echelonmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903515507&amp;t=5h10m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>765</video:duration>
+    <video:publication_date>2026-10-18T00:39:52.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-10-26T00:39:52.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/xtreme-fighters-showdown-2026/set/109057743/</loc>
-  <lastmod>2026-10-18T00:29:27.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-18T00:51:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -114,10 +450,82 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2903736694&amp;t=0h20m31s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>895</video:duration>
+    <video:duration>904</video:duration>
     <video:publication_date>2026-10-18T00:29:27.000Z</video:publication_date>
     <video:uploader>VGBootcamp</video:uploader>
     <video:expiration_date>2026-10-26T00:29:27.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/minnesota-monthly-melee-34-halloween-edition/set/109056674/</loc>
+  <lastmod>2026-10-18T00:51:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/952925/image-d1d30e9350b195ebd11dd36a7e2bb3ce.png
+    </video:thumbnail_loc>
+    <video:title>
+      Preeminent vs Ben, Minnesota Monthly Melee #34: Halloween Edition - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Preeminent vs Ben in Winners Final of Minnesota Monthly Melee #34: Halloween Edition, streamed by TeamOxy
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903713186&amp;t=0h48m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1151</video:duration>
+    <video:publication_date>2026-10-18T00:28:49.000Z</video:publication_date>
+    <video:uploader>TeamOxy</video:uploader>
+    <video:expiration_date>2026-10-26T00:28:49.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/bronco-brawl-fall-2026/set/109071107/</loc>
+  <lastmod>2026-10-18T00:51:02.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Echoes of Swizdom vs CSUSB | Baja, Bronco Brawl Fall 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Echoes of Swizdom vs CSUSB | Baja in Losers Quarter-Final of Bronco Brawl Fall 2026, streamed by cppmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903520811&amp;t=4h45m1s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1055</video:duration>
+    <video:publication_date>2026-10-18T00:20:56.000Z</video:publication_date>
+    <video:uploader>cppmelee</video:uploader>
+    <video:expiration_date>2026-10-26T00:20:56.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/astrovan-1/set/109081713/</loc>
+  <lastmod>2026-10-18T01:08:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/911855/image-a8fce15b88a8bf791243ef6914be6c85.png
+    </video:thumbnail_loc>
+    <video:title>
+      Case vs Prof Engr | AlyJ, Astrovan - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Case vs Prof Engr | AlyJ in Losers Round 1 of Astrovan, streamed by echelonmelee
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903515507&amp;t=4h44m15s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>2323</video:duration>
+    <video:publication_date>2026-10-18T00:14:01.000Z</video:publication_date>
+    <video:uploader>echelonmelee</video:uploader>
+    <video:expiration_date>2026-10-26T00:14:01.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
@@ -13990,438 +14398,6 @@
     <video:publication_date>2026-10-03T22:05:30.000Z</video:publication_date>
     <video:uploader>TheSmashingIllini</video:uploader>
     <video:expiration_date>2026-10-11T22:05:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/show-me-your-moves-26/set/108499998/</loc>
-  <lastmod>2026-10-03T20:44:04.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910945/image-f3a2f0c5cd4af1499b71b3e1d1d4ddc8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Wytch vs PsyRex, Show Me Your Moves &apos;26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Wytch vs PsyRex in Losers Quarter-Final of Show Me Your Moves &apos;26, streamed by TheSmashingIllini
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890858418&amp;t=3h53m59s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>866</video:duration>
-    <video:publication_date>2026-10-03T20:17:21.000Z</video:publication_date>
-    <video:uploader>TheSmashingIllini</video:uploader>
-    <video:expiration_date>2026-10-11T20:17:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/show-me-your-moves-26/set/108498572/</loc>
-  <lastmod>2026-10-03T20:17:53.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910945/image-f3a2f0c5cd4af1499b71b3e1d1d4ddc8.png
-    </video:thumbnail_loc>
-    <video:title>
-      CSC | ORLY vs Gabario | n0tch, Show Me Your Moves &apos;26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CSC | ORLY vs Gabario | n0tch in Losers Quarter-Final of Show Me Your Moves &apos;26, streamed by TheSmashingIllini
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890858418&amp;t=3h34m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>962</video:duration>
-    <video:publication_date>2026-10-03T19:58:08.000Z</video:publication_date>
-    <video:uploader>TheSmashingIllini</video:uploader>
-    <video:expiration_date>2026-10-11T19:58:08.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/show-me-your-moves-26/set/108499967/</loc>
-  <lastmod>2026-10-03T20:05:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910945/image-f3a2f0c5cd4af1499b71b3e1d1d4ddc8.png
-    </video:thumbnail_loc>
-    <video:title>
-      Shed | Sebas vs Wytch, Show Me Your Moves &apos;26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Shed | Sebas vs Wytch in Winners Semi-Final of Show Me Your Moves &apos;26, streamed by TheSmashingIllini
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890858418&amp;t=3h23m42s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>660</video:duration>
-    <video:publication_date>2026-10-03T19:47:04.000Z</video:publication_date>
-    <video:uploader>TheSmashingIllini</video:uploader>
-    <video:expiration_date>2026-10-11T19:47:04.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/show-me-your-moves-26/set/108498540/</loc>
-  <lastmod>2026-10-03T19:51:51.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/910945/image-f3a2f0c5cd4af1499b71b3e1d1d4ddc8.png
-    </video:thumbnail_loc>
-    <video:title>
-      LuckyStats.gg | RapMonster vs Yashichi, Show Me Your Moves &apos;26 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LuckyStats.gg | RapMonster vs Yashichi in Winners Semi-Final of Show Me Your Moves &apos;26, streamed by TheSmashingIllini
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890858418&amp;t=3h13m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>228</video:duration>
-    <video:publication_date>2026-10-03T19:37:00.000Z</video:publication_date>
-    <video:uploader>TheSmashingIllini</video:uploader>
-    <video:expiration_date>2026-10-11T19:37:00.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gg-bergen-309/set/108490774/</loc>
-  <lastmod>2026-10-03T18:40:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/959942/image-e0553c2797b7e40bc8ac683749ee283d-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      NEM | BBQ vs BE | Optimal, GG Bergen #309 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NEM | BBQ vs BE | Optimal in Grand Final of GG Bergen #309, streamed by GGBergentv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890887724&amp;t=1h24m47s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>799</video:duration>
-    <video:publication_date>2026-10-03T18:22:38.000Z</video:publication_date>
-    <video:uploader>GGBergentv</video:uploader>
-    <video:expiration_date>2026-10-11T18:22:38.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gg-bergen-309/set/108490773/</loc>
-  <lastmod>2026-10-03T18:16:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/959942/image-e0553c2797b7e40bc8ac683749ee283d-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      NEM | BBQ vs BE | Optimal, GG Bergen #309 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NEM | BBQ vs BE | Optimal in Winners Final of GG Bergen #309, streamed by GGBergentv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890887724&amp;t=0h59m46s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>668</video:duration>
-    <video:publication_date>2026-10-03T17:57:37.000Z</video:publication_date>
-    <video:uploader>GGBergentv</video:uploader>
-    <video:expiration_date>2026-10-11T17:57:37.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gg-bergen-309/set/108490772/</loc>
-  <lastmod>2026-10-03T18:06:06.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/959942/image-e0553c2797b7e40bc8ac683749ee283d-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      BE | Optimal vs shoble, GG Bergen #309 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BE | Optimal vs shoble in Winners Semi-Final of GG Bergen #309, streamed by GGBergentv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890887724&amp;t=0h36m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1346</video:duration>
-    <video:publication_date>2026-10-03T17:34:28.000Z</video:publication_date>
-    <video:uploader>GGBergentv</video:uploader>
-    <video:expiration_date>2026-10-11T17:34:28.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108490133/</loc>
-  <lastmod>2026-10-03T17:45:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      LunarySSF2 vs RSN | Frenzy, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch LunarySSF2 vs RSN | Frenzy in Round 5 of LENNIED: FATTA THE LAN, streamed by phoenixsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890611526&amp;t=7h24m48s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>682</video:duration>
-    <video:publication_date>2026-10-03T17:28:02.000Z</video:publication_date>
-    <video:uploader>phoenixsmash</video:uploader>
-    <video:expiration_date>2026-10-11T17:28:02.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108487152/</loc>
-  <lastmod>2026-10-03T17:19:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      RestlessWhale vs leighton, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch RestlessWhale vs leighton in Round 4 of LENNIED: FATTA THE LAN, streamed by ssbm_eu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890739964&amp;t=3h13m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>789</video:duration>
-    <video:publication_date>2026-10-03T17:03:13.000Z</video:publication_date>
-    <video:uploader>ssbm_eu</video:uploader>
-    <video:expiration_date>2026-10-11T17:03:13.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108487151/</loc>
-  <lastmod>2026-10-03T17:19:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kidder vs Psylo, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kidder vs Psylo in Round 4 of LENNIED: FATTA THE LAN, streamed by ssbm_eu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890739964&amp;t=3h13m53s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>724</video:duration>
-    <video:publication_date>2026-10-03T17:03:10.000Z</video:publication_date>
-    <video:uploader>ssbm_eu</video:uploader>
-    <video:expiration_date>2026-10-11T17:03:10.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108487149/</loc>
-  <lastmod>2026-10-03T17:19:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      MagiMagi vs LunarySSF2, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MagiMagi vs LunarySSF2 in Round 4 of LENNIED: FATTA THE LAN, streamed by phoenixsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890611526&amp;t=6h59m38s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>942</video:duration>
-    <video:publication_date>2026-10-03T17:02:52.000Z</video:publication_date>
-    <video:uploader>phoenixsmash</video:uploader>
-    <video:expiration_date>2026-10-11T17:02:52.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/gg-bergen-309/set/108487356/</loc>
-  <lastmod>2026-10-03T17:19:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/959942/image-e0553c2797b7e40bc8ac683749ee283d-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      NEM | BBQ vs BE | Optimal, GG Bergen #309 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch NEM | BBQ vs BE | Optimal in Round 2 of GG Bergen #309, streamed by GGBergentv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890887724&amp;t=0h3m2s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>555</video:duration>
-    <video:publication_date>2026-10-03T17:00:53.000Z</video:publication_date>
-    <video:uploader>GGBergentv</video:uploader>
-    <video:expiration_date>2026-10-11T17:00:53.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108486334/</loc>
-  <lastmod>2026-10-03T17:00:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      War | NoPressure1 vs WSLeo, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch War | NoPressure1 vs WSLeo in Round 3 of LENNIED: FATTA THE LAN, streamed by ssbm_eu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890739964&amp;t=2h53m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>645</video:duration>
-    <video:publication_date>2026-10-03T16:42:34.000Z</video:publication_date>
-    <video:uploader>ssbm_eu</video:uploader>
-    <video:expiration_date>2026-10-11T16:42:34.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108486326/</loc>
-  <lastmod>2026-10-03T17:00:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      MagiMagi vs RestlessWhale, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch MagiMagi vs RestlessWhale in Round 3 of LENNIED: FATTA THE LAN, streamed by phoenixsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890611526&amp;t=6h38m7s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>747</video:duration>
-    <video:publication_date>2026-10-03T16:41:21.000Z</video:publication_date>
-    <video:uploader>phoenixsmash</video:uploader>
-    <video:expiration_date>2026-10-11T16:41:21.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108486325/</loc>
-  <lastmod>2026-10-03T17:00:15.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kidder vs Teeter&apos;s | Thai, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kidder vs Teeter&apos;s | Thai in Round 3 of LENNIED: FATTA THE LAN, streamed by ssbm_eu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890739964&amp;t=2h52m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>816</video:duration>
-    <video:publication_date>2026-10-03T16:41:17.000Z</video:publication_date>
-    <video:uploader>ssbm_eu</video:uploader>
-    <video:expiration_date>2026-10-11T16:41:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108484814/</loc>
-  <lastmod>2026-10-03T16:23:28.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      4Qs | Fred Melee vs NintendoLabz, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch 4Qs | Fred Melee vs NintendoLabz in Round 1 of LENNIED: FATTA THE LAN, streamed by phoenixsmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890611526&amp;t=6h3m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>716</video:duration>
-    <video:publication_date>2026-10-03T16:06:51.000Z</video:publication_date>
-    <video:uploader>phoenixsmash</video:uploader>
-    <video:expiration_date>2026-10-11T16:06:51.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108481293/</loc>
-  <lastmod>2026-10-03T15:51:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      #SWAG | Naiwo vs Pi, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch #SWAG | Naiwo vs Pi in Round 5 of LENNIED: FATTA THE LAN, streamed by ssbm_eu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890739964&amp;t=1h44m6s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>590</video:duration>
-    <video:publication_date>2026-10-03T15:33:23.000Z</video:publication_date>
-    <video:uploader>ssbm_eu</video:uploader>
-    <video:expiration_date>2026-10-11T15:33:23.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/lennied-fatta-the-lan/set/108481291/</loc>
-  <lastmod>2026-10-03T15:51:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941160/image-43216a1e45ad2c2e2175059159f70d98.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dr | Captain Blowjob vs Rikzz, LENNIED: FATTA THE LAN - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dr | Captain Blowjob vs Rikzz in Round 5 of LENNIED: FATTA THE LAN, streamed by ssbm_eu
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890739964&amp;t=1h44m1s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1006</video:duration>
-    <video:publication_date>2026-10-03T15:33:18.000Z</video:publication_date>
-    <video:uploader>ssbm_eu</video:uploader>
-    <video:expiration_date>2026-10-11T15:33:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

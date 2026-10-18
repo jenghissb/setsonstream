@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/autumns-edge-2026/set/109030480/</loc>
+  <lastmod>2026-10-18T01:41:58.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/938953/image-593708193c57ef13b40a0f7fe252b3f2.png
+    </video:thumbnail_loc>
+    <video:title>
+      Ganeon vs WOK | JakkuPM, Autumns Edge 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Ganeon vs WOK | JakkuPM in Losers Quarter-Final of Autumns Edge 2026, streamed by edgegamerslounge
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903390527&amp;t=7h31m30s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>421</video:duration>
+    <video:publication_date>2026-10-18T00:47:25.000Z</video:publication_date>
+    <video:uploader>edgegamerslounge</video:uploader>
+    <video:expiration_date>2026-10-26T00:47:25.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/seaside-slam-spooktacular-2026/set/109078453/</loc>
   <lastmod>2026-10-18T00:20:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-10-03T04:14:39.000Z</video:publication_date>
     <video:uploader>SoCalColosseum1</video:uploader>
     <video:expiration_date>2026-10-11T04:14:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/socal-colosseum-130/set/108458642/</loc>
-  <lastmod>2026-10-03T03:53:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/957968/image-ace8afff763e98b5205784dbce8dd36c.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      ICDS vs 真島建設 | Arcblade(mashima kensetsu | Arcblade), SoCal Colosseum #130 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch ICDS vs 真島建設 | Arcblade(mashima kensetsu | Arcblade) in Winners Semi-Final of SoCal Colosseum #130, streamed by SoCalColosseum1
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890386190&amp;t=1h5m27s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>661</video:duration>
-    <video:publication_date>2026-10-03T03:34:27.000Z</video:publication_date>
-    <video:uploader>SoCalColosseum1</video:uploader>
-    <video:expiration_date>2026-10-11T03:34:27.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
