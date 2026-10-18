@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/paradise-game-battle-2026/set/109039115/</loc>
+  <lastmod>2026-10-18T17:15:21.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/898210/image-bd9900dee8c91871ae14109c1b7a906f.png
+    </video:thumbnail_loc>
+    <video:title>
+      T1 | EDGE vs Tetsu, Paradise Game Battle 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch T1 | EDGE vs Tetsu in Grand Final of Paradise Game Battle 2026, streamed by Tekken
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2904171758&amp;t=3h36m11s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>702</video:duration>
+    <video:publication_date>2026-10-18T17:02:38.000Z</video:publication_date>
+    <video:uploader>Tekken</video:uploader>
+    <video:expiration_date>2026-10-26T17:02:38.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/paradise-game-battle-2026/set/109039130/</loc>
-  <lastmod>2026-10-18T16:41:12.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-18T17:06:41.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2904171758&amp;t=3h14m45s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1138</video:duration>
+    <video:duration>1129</video:duration>
     <video:publication_date>2026-10-18T16:41:12.000Z</video:publication_date>
     <video:uploader>Tekken</video:uploader>
     <video:expiration_date>2026-10-26T16:41:12.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-10-09T23:48:47.000Z</video:publication_date>
     <video:uploader>VIzionCollective</video:uploader>
     <video:expiration_date>2026-10-17T23:48:47.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/don-t-whiff-7/set/108709426/</loc>
-  <lastmod>2026-10-09T23:55:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/952252/image-137d3cedf3c65063bc042ea92d4008a4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Fruit Punch sg vs El Niño, Don&apos;t Whiff! #7 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Fruit Punch sg vs El Niño in Winners Quarter-Final of Don&apos;t Whiff! #7, streamed by VIzionCollective
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2896414882&amp;t=1h7m26s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>686</video:duration>
-    <video:publication_date>2026-10-09T23:29:18.000Z</video:publication_date>
-    <video:uploader>VIzionCollective</video:uploader>
-    <video:expiration_date>2026-10-17T23:29:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
