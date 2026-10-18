@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/living-legacy-1/set/109082603/</loc>
-  <lastmod>2026-10-18T03:13:48.000Z</lastmod>
-  <changefreq>hourly</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/948640/image-5f996c04ae686d47100eb5a95d8d9c7e.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      FYR | Abel809! vs FYR | Slacker, Living Legacy #1 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch FYR | Abel809! vs FYR | Slacker in Grand Final of Living Legacy #1, streamed by Vermilion_Series
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?channel=Vermilion_Series&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>3600</video:duration>
-    <video:publication_date>2026-10-18T03:13:48.000Z</video:publication_date>
-    <video:uploader>Vermilion_Series</video:uploader>
-    <video:expiration_date>2026-10-26T03:13:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/xtreme-fighters-showdown-2026/set/109087987/</loc>
   <lastmod>2026-10-18T03:29:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -46,6 +22,30 @@
     <video:publication_date>2026-10-18T03:16:19.000Z</video:publication_date>
     <video:uploader>xfshowdown</video:uploader>
     <video:expiration_date>2026-10-26T03:16:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/living-legacy-1/set/109082603/</loc>
+  <lastmod>2026-10-18T05:19:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/948640/image-5f996c04ae686d47100eb5a95d8d9c7e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      FYR | Abel809! vs FYR | Slacker, Living Legacy #1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch FYR | Abel809! vs FYR | Slacker in Grand Final of Living Legacy #1, streamed by Vermilion_Series
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2903770356&amp;t=2h20m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>3600</video:duration>
+    <video:publication_date>2026-10-18T03:13:48.000Z</video:publication_date>
+    <video:uploader>Vermilion_Series</video:uploader>
+    <video:expiration_date>2026-10-26T03:13:48.000Z</video:expiration_date>
   </video:video>
 </url>
 <url>
