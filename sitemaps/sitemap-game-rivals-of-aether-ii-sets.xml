@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/fusion-316/set/109157735/</loc>
+  <lastmod>2026-10-19T23:30:02.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/965211/image-eef055183b4d9bd4f413756e7ae4ae65-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      vooni vs gleam, Fusion #316 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch vooni vs gleam in Winners Quarter-Final of Fusion #316, streamed by CollisionSeriesTV2
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2905441477&amp;t=0h48m55s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>830</video:duration>
+    <video:publication_date>2026-10-19T23:30:02.000Z</video:publication_date>
+    <video:uploader>CollisionSeriesTV2</video:uploader>
+    <video:expiration_date>2026-10-27T23:30:02.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/don-t-get-tilted-212-1/set/109157567/</loc>
+  <lastmod>2026-10-19T23:26:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/965330/image-5e72e2cea5fb399dc362ecf41ddc4047-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      BluSkies vs BM | Rizzo, Don&apos;t Get Tilted #212 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BluSkies vs BM | Rizzo in Winners Quarter-Final of Don&apos;t Get Tilted #212, streamed by mutedoesathing
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=mutedoesathing&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1014</video:duration>
+    <video:publication_date>2026-10-19T23:26:58.000Z</video:publication_date>
+    <video:uploader>mutedoesathing</video:uploader>
+    <video:expiration_date>2026-10-27T23:26:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/platfight-gaming-championships-2026/set/109127232/</loc>
   <lastmod>2026-10-19T00:27:06.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4822,6 @@
     <video:publication_date>2026-10-03T20:32:17.000Z</video:publication_date>
     <video:uploader>kmltournaments</video:uploader>
     <video:expiration_date>2026-10-11T20:32:17.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/hitfall-5/set/108504416/</loc>
-  <lastmod>2026-10-03T20:41:54.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/917866/image-407b5c55f5076b01203653388ac06fb4.png
-    </video:thumbnail_loc>
-    <video:title>
-      Bowler vs BRG | T. Richard, Hitfall 5 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Bowler vs BRG | T. Richard in Winners Round 2 of Hitfall 5, streamed by vgbootcamp2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890730902&amp;t=6h52m20s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>669</video:duration>
-    <video:publication_date>2026-10-03T20:27:26.000Z</video:publication_date>
-    <video:uploader>vgbootcamp2</video:uploader>
-    <video:expiration_date>2026-10-11T20:27:26.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
