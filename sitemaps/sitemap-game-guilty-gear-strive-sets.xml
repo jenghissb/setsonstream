@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/buster-out-199-smash-ultimate-weekly-at-refuge-gaming/set/109177980/</loc>
+  <lastmod>2026-10-20T23:21:22.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/965334/image-d1c24680be4e95ed956a5a0cf32eaaed-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      Pyro vs CSU | potatoblu, Buster Out #199 - Smash Ultimate Weekly at Refuge Gaming - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Pyro vs CSU | potatoblu in Final of Buster Out #199 - Smash Ultimate Weekly at Refuge Gaming, streamed by buster_out
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2906274406&amp;t=0h55m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>471</video:duration>
+    <video:publication_date>2026-10-20T23:07:17.000Z</video:publication_date>
+    <video:uploader>buster_out</video:uploader>
+    <video:expiration_date>2026-10-28T23:07:17.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/bronco-brawl-fall-2026/set/109143054/</loc>
   <lastmod>2026-10-19T04:33:22.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-10-04T01:06:31.000Z</video:publication_date>
     <video:uploader>WickedWestFGC</video:uploader>
     <video:expiration_date>2026-10-12T01:06:31.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/guilty-gala-2026/set/108508159/</loc>
-  <lastmod>2026-10-04T01:13:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/933346/image-c6b4b57d08b4d28f680ef290d02f0680.png
-    </video:thumbnail_loc>
-    <video:title>
-      CRAB | SLG | ThatScrubDavid vs SWEET | SNS | MegaRura, Guilty Gala 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CRAB | SLG | ThatScrubDavid vs SWEET | SNS | MegaRura in Winners Semi-Final of Guilty Gala 2026, streamed by WickedWestFGC
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2891290560&amp;t=0h0m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>649</video:duration>
-    <video:publication_date>2026-10-04T00:55:33.000Z</video:publication_date>
-    <video:uploader>WickedWestFGC</video:uploader>
-    <video:expiration_date>2026-10-12T00:55:33.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
