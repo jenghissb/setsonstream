@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/solarpowered-55/set/109244393/</loc>
+  <lastmod>2026-10-23T02:27:06.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/967028/image-9f6cc8dcd4b8de7b94d1851217de54ed-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      UM | Jimbly vs SOLAR | FLICKER, SOLARPOWERED #55 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch UM | Jimbly vs SOLAR | FLICKER in Round 4 of SOLARPOWERED #55, streamed by solarpoweredntx
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2908094749&amp;t=1h54m35s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1082</video:duration>
+    <video:publication_date>2026-10-23T02:02:59.000Z</video:publication_date>
+    <video:uploader>solarpoweredntx</video:uploader>
+    <video:expiration_date>2026-10-31T02:02:59.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/solarpowered-55/set/109244388/</loc>
-  <lastmod>2026-10-23T00:33:58.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-23T00:53:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2908094749&amp;t=0h25m34s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1148</video:duration>
+    <video:duration>825</video:duration>
     <video:publication_date>2026-10-23T00:33:58.000Z</video:publication_date>
     <video:uploader>solarpoweredntx</video:uploader>
     <video:expiration_date>2026-10-31T00:33:58.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-10-03T21:49:54.000Z</video:publication_date>
     <video:uploader>sse_fgc</video:uploader>
     <video:expiration_date>2026-10-11T21:49:54.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/evergreen-rising-14/set/108506340/</loc>
-  <lastmod>2026-10-03T22:27:46.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913658/image-1402ef91b09154ef64d60262b36a1914.png
-    </video:thumbnail_loc>
-    <video:title>
-      SteveReen vs Stef, Evergreen Rising #14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SteveReen vs Stef in Winners Semi-Final of Evergreen Rising #14, streamed by SatelliteSmash
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2891110411&amp;t=0h44m37s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1456</video:duration>
-    <video:publication_date>2026-10-03T21:47:42.000Z</video:publication_date>
-    <video:uploader>SatelliteSmash</video:uploader>
-    <video:expiration_date>2026-10-11T21:47:42.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
