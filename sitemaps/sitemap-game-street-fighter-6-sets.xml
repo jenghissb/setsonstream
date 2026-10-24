@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/jarpex-x-breakout/set/109261673/</loc>
+  <lastmod>2026-10-23T20:36:14.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/943095/image-96814f143fa656c027d24c9406c8ab72.png
+    </video:thumbnail_loc>
+    <video:title>
+      plan-C | Saix vs Renoir, JARPEX X BREAKOUT - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch plan-C | Saix vs Renoir in Losers Quarter-Final of JARPEX X BREAKOUT, streamed by Breakoutsmash
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2908812698&amp;t=0h0m0s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1657</video:duration>
+    <video:publication_date>2026-10-23T20:04:48.000Z</video:publication_date>
+    <video:uploader>Breakoutsmash</video:uploader>
+    <video:expiration_date>2026-10-31T20:04:48.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/jarpex-x-breakout/set/109256236/</loc>
   <lastmod>2026-10-23T17:43:00.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-10-10T08:33:26.000Z</video:publication_date>
     <video:uploader>EVO_France2</video:uploader>
     <video:expiration_date>2026-10-18T08:33:26.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/evo-france-2026/set/108736968/</loc>
-  <lastmod>2026-10-10T08:53:24.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/896660/image-7fceb9a49b581fecd9b0a78b302b17c0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Falcons | Craime vs JumpHack MaLC | Nyanpi, EVO FRANCE 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Falcons | Craime vs JumpHack MaLC | Nyanpi in Winners Quarter-Final of EVO FRANCE 2026, streamed by EVO_France2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2896775946&amp;t=0h56m22s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1524</video:duration>
-    <video:publication_date>2026-10-10T08:23:01.000Z</video:publication_date>
-    <video:uploader>EVO_France2</video:uploader>
-    <video:expiration_date>2026-10-18T08:23:01.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
