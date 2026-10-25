@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/the-ziegge-9-jalog-inazo/set/109352972/</loc>
+  <lastmod>2026-10-24T23:49:04.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/948753/image-f2c32e2c9728491f193309f488757c12-optimized.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Gen.G | Dany &quot;El Maza&quot; vs TL-LOA | Pepikof, The Ziegge #9: Jalogüinazo - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Gen.G | Dany &quot;El Maza&quot; vs TL-LOA | Pepikof in Winners Quarter-Final of The Ziegge #9: Jalogüinazo, streamed by JustFrameMX
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2909850746&amp;t=2h26m33s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>730</video:duration>
+    <video:publication_date>2026-10-24T23:49:04.000Z</video:publication_date>
+    <video:uploader>JustFrameMX</video:uploader>
+    <video:expiration_date>2026-11-01T23:49:04.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/2-on-block-presents-eclipse-community-games/set/109327042/</loc>
   <lastmod>2026-10-24T20:10:54.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-09-03T16:31:11.000Z</video:publication_date>
     <video:uploader>mysticsquad_tv</video:uploader>
     <video:expiration_date>2026-09-11T16:31:11.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/gran-canaria-experience/set/107270304/</loc>
-  <lastmod>2026-09-03T16:33:21.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/886846/image-a5c13e44745a090ce8ee80f0ea4795d0.png
-    </video:thumbnail_loc>
-    <video:title>
-      Skug_Sama vs GofitoEnjoyer, Gran Canaria eXperience - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Skug_Sama vs GofitoEnjoyer in Winners Round 2 of Gran Canaria eXperience, streamed by mysticsquad_tv
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2864201730&amp;t=1h1m17s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>435</video:duration>
-    <video:publication_date>2026-09-03T16:22:12.000Z</video:publication_date>
-    <video:uploader>mysticsquad_tv</video:uploader>
-    <video:expiration_date>2026-09-11T16:22:12.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
