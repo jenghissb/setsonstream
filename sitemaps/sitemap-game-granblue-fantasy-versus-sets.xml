@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/duke-it-out-5-1/set/109403765/</loc>
+  <lastmod>2026-10-25T22:26:23.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/907719/image-fe965db4ce5d6b240d8dc685fdc34e2a-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      Siero vs Valkyraboo, Duke It Out 5 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Siero vs Valkyraboo in Winners Final of Duke It Out 5, streamed by Kmltournaments
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2910470552&amp;t=7h27m7s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>575</video:duration>
+    <video:publication_date>2026-10-25T22:11:22.000Z</video:publication_date>
+    <video:uploader>Kmltournaments</video:uploader>
+    <video:expiration_date>2026-11-02T22:11:22.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/duke-it-out-5-1/set/109403778/</loc>
-  <lastmod>2026-10-25T21:56:19.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-25T22:18:33.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2910470552&amp;t=7h12m4s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>816</video:duration>
+    <video:duration>862</video:duration>
     <video:publication_date>2026-10-25T21:56:19.000Z</video:publication_date>
     <video:uploader>Kmltournaments</video:uploader>
     <video:expiration_date>2026-11-02T21:56:19.000Z</video:expiration_date>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-10-03T22:45:12.000Z</video:publication_date>
     <video:uploader>HopOnPNW</video:uploader>
     <video:expiration_date>2026-10-11T22:45:12.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/evergreen-rising-14/set/108506598/</loc>
-  <lastmod>2026-10-03T22:53:47.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/913658/image-1402ef91b09154ef64d60262b36a1914.png
-    </video:thumbnail_loc>
-    <video:title>
-      Brigadier_BunBun vs Riko, Evergreen Rising #14 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Brigadier_BunBun vs Riko in Winners Final of Evergreen Rising #14, streamed by HopOnPNW
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2890991086&amp;t=3h41m57s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>825</video:duration>
-    <video:publication_date>2026-10-03T22:31:09.000Z</video:publication_date>
-    <video:uploader>HopOnPNW</video:uploader>
-    <video:expiration_date>2026-10-11T22:31:09.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
