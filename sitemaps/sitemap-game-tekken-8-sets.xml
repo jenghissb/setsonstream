@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-44-1/set/109498231/</loc>
+  <lastmod>2026-10-29T20:35:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/958191/image-20bc12524b0af9e1e9db4316cb54a5bb-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      RR | Ayorichie vs YungDinglberry, Black Country Foundry #44 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch RR | Ayorichie vs YungDinglberry in Winners Semi-Final of Black Country Foundry #44, streamed by BCFoundryFGC
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2914128032&amp;t=1h53m32s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>423</video:duration>
+    <video:publication_date>2026-10-29T20:22:55.000Z</video:publication_date>
+    <video:uploader>BCFoundryFGC</video:uploader>
+    <video:expiration_date>2026-11-06T20:22:55.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/black-country-foundry-44-1/set/109498230/</loc>
-  <lastmod>2026-10-29T20:13:31.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-29T20:28:09.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2914128032&amp;t=1h44m8s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1006</video:duration>
+    <video:duration>509</video:duration>
     <video:publication_date>2026-10-29T20:13:31.000Z</video:publication_date>
     <video:uploader>BCFoundryFGC</video:uploader>
     <video:expiration_date>2026-11-06T20:13:31.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-10-19T01:13:49.000Z</video:publication_date>
     <video:uploader>chainshift_events</video:uploader>
     <video:expiration_date>2026-10-27T01:13:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/bronco-brawl-fall-2026/set/109141619/</loc>
-  <lastmod>2026-10-19T01:17:29.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/950247/image-f0d7517e6f25339ad4d5889da05677cf.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      TTV | BlessedYonko vs HIDE | | Freebie, Bronco Brawl Fall 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TTV | BlessedYonko vs HIDE | | Freebie in Losers Round 1 of Bronco Brawl Fall 2026, streamed by chainshift_events
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2904497301&amp;t=5h6m13s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>552</video:duration>
-    <video:publication_date>2026-10-19T01:04:34.000Z</video:publication_date>
-    <video:uploader>chainshift_events</video:uploader>
-    <video:expiration_date>2026-10-27T01:04:34.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
