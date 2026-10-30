@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/roffa-rumble-53/set/109529398/</loc>
+  <lastmod>2026-10-30T18:55:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/965452/image-99f8f91f5abbb79de3483c563b677d6a-optimized.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      BTE | Nuckels vs Kelvin, Roffa Rumble #53 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch BTE | Nuckels vs Kelvin in Winners Quarter-Final of Roffa Rumble #53, streamed by supersmashdelft
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2914990853&amp;t=0h46m47s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>375</video:duration>
+    <video:publication_date>2026-10-30T18:43:26.000Z</video:publication_date>
+    <video:uploader>supersmashdelft</video:uploader>
+    <video:expiration_date>2026-11-07T18:43:26.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/sf-state-smash-thursdays-10-29-2026/set/109521019/</loc>
   <lastmod>2026-10-30T05:40:10.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-10-14T23:56:45.000Z</video:publication_date>
     <video:uploader>One_Up_Games</video:uploader>
     <video:expiration_date>2026-10-22T23:56:45.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/nycmelee-s-stock-exchange-70/set/108907288/</loc>
-  <lastmod>2026-10-15T00:14:07.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/963890/image-bdb5f7fe38371d47ff5e00d6c7853f7a-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      TONY vs PurpleDolphin, NYCMelee&apos;s Stock Exchange #70 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch TONY vs PurpleDolphin in Winners Quarter-Final of NYCMelee&apos;s Stock Exchange #70, streamed by nycmelee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2900948985&amp;t=0h45m18s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>699</video:duration>
-    <video:publication_date>2026-10-14T23:55:44.000Z</video:publication_date>
-    <video:uploader>nycmelee</video:uploader>
-    <video:expiration_date>2026-10-22T23:55:44.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
