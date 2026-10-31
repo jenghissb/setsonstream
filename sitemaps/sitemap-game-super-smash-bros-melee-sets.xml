@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battlegateway-53/set/109563662/</loc>
+  <lastmod>2026-10-31T08:36:04.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/950545/image-a56008f9c774ea65ae95f50e49c8a249.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Red Bull | aMSa vs ckyulmiqnudaetr, BattleGateWay #53 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Red Bull | aMSa vs ckyulmiqnudaetr in Losers Semi-Final of BattleGateWay #53, streamed by Vgbootcamp
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2915506478&amp;t=3h41m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>721</video:duration>
+    <video:publication_date>2026-10-31T08:21:28.000Z</video:publication_date>
+    <video:uploader>Vgbootcamp</video:uploader>
+    <video:expiration_date>2026-11-08T08:21:28.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/battlegateway-53/set/109563531/</loc>
-  <lastmod>2026-10-31T06:29:16.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-31T06:46:42.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2915506478&amp;t=1h49m27s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1175</video:duration>
+    <video:duration>714</video:duration>
     <video:publication_date>2026-10-31T06:29:16.000Z</video:publication_date>
     <video:uploader>Vgbootcamp</video:uploader>
     <video:expiration_date>2026-11-08T06:29:16.000Z</video:expiration_date>
@@ -14374,30 +14398,6 @@
     <video:publication_date>2026-10-15T03:28:20.000Z</video:publication_date>
     <video:uploader>adamssmashseries</video:uploader>
     <video:expiration_date>2026-10-23T03:28:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-melee/tournament/adam-s-smash-series-207-i-can-see-everything/set/108920558/</loc>
-  <lastmod>2026-10-15T03:10:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/964390/image-e4a7c09e4d39332a30525f05d9c84061-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      yuge vs Girlframe | Spicy Ogre, Adam&apos;s Smash Series #207: I can see everything. - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch yuge vs Girlframe | Spicy Ogre in Winners Round 2 of Adam&apos;s Smash Series #207: I can see everything., streamed by adamssmashseries
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2901074840&amp;t=1h14m9s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>320</video:duration>
-    <video:publication_date>2026-10-15T02:59:38.000Z</video:publication_date>
-    <video:uploader>adamssmashseries</video:uploader>
-    <video:expiration_date>2026-10-23T02:59:38.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
