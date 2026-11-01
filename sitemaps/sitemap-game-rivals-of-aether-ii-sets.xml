@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/giga-hog-11-1/set/109589861/</loc>
+  <lastmod>2026-10-31T21:07:08.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/959992/image-b80c6f42402c4db0dada02046298e4aa-optimized.png
+    </video:thumbnail_loc>
+    <video:title>
+      AGENCY | shane vs Arelius | Shadowhawke, Giga HoG 11.1 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch AGENCY | shane vs Arelius | Shadowhawke in Grand Final Reset of Giga HoG 11.1, streamed by HoG_CT
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2915944084&amp;t=2h53m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>846</video:duration>
+    <video:publication_date>2026-10-31T20:44:13.000Z</video:publication_date>
+    <video:uploader>HoG_CT</video:uploader>
+    <video:expiration_date>2026-11-08T20:44:13.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/giga-hog-11-1/set/109589860/</loc>
-  <lastmod>2026-10-31T20:28:51.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-10-31T20:48:05.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2915944084&amp;t=2h38m21s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>978</video:duration>
+    <video:duration>906</video:duration>
     <video:publication_date>2026-10-31T20:28:51.000Z</video:publication_date>
     <video:uploader>HoG_CT</video:uploader>
     <video:expiration_date>2026-11-08T20:28:51.000Z</video:expiration_date>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-10-17T13:59:40.000Z</video:publication_date>
     <video:uploader>ladaether</video:uploader>
     <video:expiration_date>2026-10-25T13:59:40.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/rivals-of-aether-ii/tournament/la-daether-07/set/109014582/</loc>
-  <lastmod>2026-10-17T13:42:09.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/956802/image-b772587a12fb9e3120b6b61a554067d9-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      Kine. vs Sherka 2027 | Sherka, La Daether #07 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Kine. vs Sherka 2027 | Sherka in Winners Quarter-Final of La Daether #07, streamed by ladaether
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2903179699&amp;t=0h29m41s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>1506</video:duration>
-    <video:publication_date>2026-10-17T13:11:54.000Z</video:publication_date>
-    <video:uploader>ladaether</video:uploader>
-    <video:expiration_date>2026-10-25T13:11:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
