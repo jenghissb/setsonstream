@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/hog-moonlight-180/set/109796060/</loc>
+  <lastmod>2026-11-07T00:46:35.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/971535/image-c11e68e4bfccbbeda5a6a91f014c37af.png
+    </video:thumbnail_loc>
+    <video:title>
+      MLGF vs MF MOSKY, HoG: Moonlight #180 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch MLGF vs MF MOSKY in Winners Semi-Final of HoG: Moonlight #180, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2921641247&amp;t=0h13m43s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>819</video:duration>
+    <video:publication_date>2026-11-07T00:46:35.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-11-15T00:46:35.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/just-mids-89-ggst-tokon/set/109756048/</loc>
   <lastmod>2026-11-06T00:56:14.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-10-17T20:54:20.000Z</video:publication_date>
     <video:uploader>bmg_badmangaming</video:uploader>
     <video:expiration_date>2026-10-25T20:54:20.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/rocktown-beatdown-2026/set/109043915/</loc>
-  <lastmod>2026-10-17T21:06:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/934456/image-7a580ae1a8e9d49e7e637f6d9a255505.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Aluin vs M.C.Chuckles, Rocktown Beatdown - 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Aluin vs M.C.Chuckles in Losers Semi-Final of Rocktown Beatdown - 2026, streamed by bmg_badmangaming
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2903507958&amp;t=1h24m30s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>478</video:duration>
-    <video:publication_date>2026-10-17T20:45:57.000Z</video:publication_date>
-    <video:uploader>bmg_badmangaming</video:uploader>
-    <video:expiration_date>2026-10-25T20:45:57.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
