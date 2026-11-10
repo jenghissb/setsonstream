@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/ledgetrompe-40/set/109971210/</loc>
+  <lastmod>2026-11-10T18:13:44.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/972536/image-8f4b681f543bcada9065410524f3d5a7.png
+    </video:thumbnail_loc>
+    <video:title>
+      TCO | Otherwise vs CDO | Flying Raccoon, Ledgetrompe #40 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch TCO | Otherwise vs CDO | Flying Raccoon in Winners Round 1 of Ledgetrompe #40, streamed by toulouselaststock
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2925066352&amp;t=0h19m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>547</video:duration>
+    <video:publication_date>2026-11-10T18:13:44.000Z</video:publication_date>
+    <video:uploader>toulouselaststock</video:uploader>
+    <video:expiration_date>2026-11-18T18:13:44.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/wgac-151-wdialled-out/set/109966822/</loc>
   <lastmod>2026-11-10T07:19:29.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -71974,30 +71998,6 @@
     <video:publication_date>2026-11-04T06:45:48.000Z</video:publication_date>
     <video:uploader>CapsuleEntertainment</video:uploader>
     <video:expiration_date>2026-11-12T06:45:48.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/super-smash-bros-ultimate/tournament/versus-reborn-280/set/109712908/</loc>
-  <lastmod>2026-11-04T06:46:13.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/969461/image-22eae4d69bf4dbb50ea497e8affd1c8b-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      BanjoGPT vs ebs sjsu | Quatro Quatro, VERSUS Reborn #280 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch BanjoGPT vs ebs sjsu | Quatro Quatro in Grand Final of VERSUS Reborn #280, streamed by CapsuleEntertainment
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2919048601&amp;t=3h5m56s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>775</video:duration>
-    <video:publication_date>2026-11-04T06:32:48.000Z</video:publication_date>
-    <video:uploader>CapsuleEntertainment</video:uploader>
-    <video:expiration_date>2026-11-12T06:32:48.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
