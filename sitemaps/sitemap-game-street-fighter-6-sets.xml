@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/stun-city-11-11-2026-t8-sf6-avatar-and-ff-casuals/set/110011517/</loc>
+  <lastmod>2026-11-12T00:38:59.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/973848/image-785641d51f2750eccd5fa0c7a556625e.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      fent brick vs Pragmatwit, Stun City 11/11/2026 - T8, SF6, Avatar, and FF + casuals - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch fent brick vs Pragmatwit in Winners Round 1 of Stun City 11/11/2026 - T8, SF6, Avatar, and FF + casuals, streamed by torontotoptiers
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2926312018&amp;t=0h1m42s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>548</video:duration>
+    <video:publication_date>2026-11-12T00:27:58.000Z</video:publication_date>
+    <video:uploader>torontotoptiers</video:uploader>
+    <video:expiration_date>2026-11-20T00:27:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/4o4-by-sh33rz-street-fighter-123/set/109988554/</loc>
   <lastmod>2026-11-11T03:51:50.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-10-26T03:01:16.000Z</video:publication_date>
     <video:uploader>sundevilfg</video:uploader>
     <video:expiration_date>2026-11-03T03:01:16.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/reignited-109/set/109415585/</loc>
-  <lastmod>2026-10-26T03:05:42.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/966469/image-72f7531e6679640eb34644274f7845e2-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      Dr. Iggy vs Mr Tamales, Reignited #109 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Dr. Iggy vs Mr Tamales in Losers Final of Reignited #109, streamed by sundevilfg
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2910933155&amp;t=2h45m0s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>649</video:duration>
-    <video:publication_date>2026-10-26T02:50:24.000Z</video:publication_date>
-    <video:uploader>sundevilfg</video:uploader>
-    <video:expiration_date>2026-11-03T02:50:24.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
