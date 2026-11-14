@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/suplex-150/set/110096898/</loc>
+  <lastmod>2026-11-14T02:45:19.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/974031/image-352357f56f7871bf11bc58e81a94c9b3.png
+    </video:thumbnail_loc>
+    <video:title>
+      Augustblade vs Beluga, Suplex! #150 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Augustblade vs Beluga in Grand Final of Suplex! #150, streamed by fxgames_gg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?channel=fxgames_gg&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>763</video:duration>
+    <video:publication_date>2026-11-14T02:45:19.000Z</video:publication_date>
+    <video:uploader>fxgames_gg</video:uploader>
+    <video:expiration_date>2026-11-22T02:45:19.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-weekly-247-norcal-smash-and-fgc/set/110056563/</loc>
   <lastmod>2026-11-13T06:20:32.000Z</lastmod>
   <changefreq>daily</changefreq>
