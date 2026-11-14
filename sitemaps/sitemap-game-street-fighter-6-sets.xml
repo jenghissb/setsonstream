@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/the-infinite-oasis-november-2026/set/110156948/</loc>
+  <lastmod>2026-11-14T20:38:46.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/959713/image-9dbd976ac7b6ef120d2c45a5d7b2e56c.png
+    </video:thumbnail_loc>
+    <video:title>
+      Yujiro vs Shere Khan, The Infinite Oasis November 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch Yujiro vs Shere Khan in Winners Round 1 of The Infinite Oasis November 2026, streamed by cokemilktv
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2928776858&amp;t=2h45m39s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>368</video:duration>
+    <video:publication_date>2026-11-14T20:38:46.000Z</video:publication_date>
+    <video:uploader>cokemilktv</video:uploader>
+    <video:expiration_date>2026-11-22T20:38:46.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/guildhouse-weekly-247-norcal-smash-and-fgc/set/110056563/</loc>
   <lastmod>2026-11-13T06:20:32.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-10-28T00:28:39.000Z</video:publication_date>
     <video:uploader>4o4esports</video:uploader>
     <video:expiration_date>2026-11-05T00:28:39.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/hog-dragon-176/set/109453481/</loc>
-  <lastmod>2026-10-28T00:46:16.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/969077/image-69e20ea6f1f0f6108837ec6699f4ede4-optimized.png
-    </video:thumbnail_loc>
-    <video:title>
-      fourducks vs HoG | Blu_Menace, HoG: Dragon #176 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch fourducks vs HoG | Blu_Menace in Losers Quarter-Final of HoG: Dragon #176, streamed by hog_ct
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2912610088&amp;t=0h53m43s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>630</video:duration>
-    <video:publication_date>2026-10-28T00:24:54.000Z</video:publication_date>
-    <video:uploader>hog_ct</video:uploader>
-    <video:expiration_date>2026-11-05T00:24:54.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
