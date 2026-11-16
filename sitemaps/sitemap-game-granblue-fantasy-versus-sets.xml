@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/midwest-mixfest-26/set/110217417/</loc>
+  <lastmod>2026-11-15T20:12:19.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/887630/image-821992a3467d431ef92b50199e20dfe9.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SBG | satoshiixrd vs SBG | CharCharRealSmooth, Midwest Mixfest &apos;26 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SBG | satoshiixrd vs SBG | CharCharRealSmooth in Winners Semi-Final of Midwest Mixfest &apos;26, streamed by lowkickesports
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2929716705&amp;t=3h33m6s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>754</video:duration>
+    <video:publication_date>2026-11-15T19:57:16.000Z</video:publication_date>
+    <video:uploader>lowkickesports</video:uploader>
+    <video:expiration_date>2026-11-23T19:57:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/astral-finish-2026/set/110178659/</loc>
   <lastmod>2026-11-15T02:10:01.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -2614,30 +2638,6 @@
     <video:publication_date>2026-10-18T06:46:06.000Z</video:publication_date>
     <video:uploader>GamerBee</video:uploader>
     <video:expiration_date>2026-10-26T06:46:06.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/granblue-fantasy-versus/tournament/beepro-taiwan-qualifier-2026/set/109092081/</loc>
-  <lastmod>2026-10-18T06:48:00.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/931046/image-73a3449a477f644d5b2a2d6445c37b54-optimized.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Boomer vs HKGB | ゲパ_Gepard(HKGB | gepa _Gepard), BeePro Taiwan Qualifier 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Boomer vs HKGB | ゲパ_Gepard(HKGB | gepa _Gepard) in Winners Round 2 of BeePro Taiwan Qualifier 2026, streamed by GamerBee
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2903899201&amp;t=2h31m39s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>902</video:duration>
-    <video:publication_date>2026-10-18T06:28:46.000Z</video:publication_date>
-    <video:uploader>GamerBee</video:uploader>
-    <video:expiration_date>2026-10-26T06:28:46.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
