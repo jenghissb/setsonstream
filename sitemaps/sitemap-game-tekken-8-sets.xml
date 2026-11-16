@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/aussie-mums-and-crocodile-step-dads-25-fate-of-chains/set/110234253/</loc>
+  <lastmod>2026-11-16T03:24:01.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/972992/image-4f8acba4ec3ed06b447e002821f49d6c.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ONi | NYC TKN | Dr.theJAKEMAN, M.D vs Tails, Aussie Mums and Crocodile Step-Dads: 25# Fate of Chains - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ONi | NYC TKN | Dr.theJAKEMAN, M.D vs Tails in Grand Final of Aussie Mums and Crocodile Step-Dads: 25# Fate of Chains, streamed by ChainShift_Events
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2930062243&amp;t=4h4m53s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>661</video:duration>
+    <video:publication_date>2026-11-16T03:08:33.000Z</video:publication_date>
+    <video:uploader>ChainShift_Events</video:uploader>
+    <video:expiration_date>2026-11-24T03:08:33.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/aussie-mums-and-crocodile-step-dads-25-fate-of-chains/set/110236072/</loc>
-  <lastmod>2026-11-16T02:58:02.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-11-16T03:10:00.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2930062243&amp;t=3h54m22s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>1070</video:duration>
+    <video:duration>583</video:duration>
     <video:publication_date>2026-11-16T02:58:02.000Z</video:publication_date>
     <video:uploader>ChainShift_Events</video:uploader>
     <video:expiration_date>2026-11-24T02:58:02.000Z</video:expiration_date>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-11-07T17:43:35.000Z</video:publication_date>
     <video:uploader>Fgcserbia</video:uploader>
     <video:expiration_date>2026-11-15T17:43:35.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/geco-presents-die-auslese-iii-play-con/set/109838020/</loc>
-  <lastmod>2026-11-07T17:57:57.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/941798/image-7183bd5c1a5e328e1206f555f1fdb922.png
-    </video:thumbnail_loc>
-    <video:title>
-      CA | Bear vs CA | KingOfHeLL, GECO Presents: Die Auslese III @ PLAY! Con - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch CA | Bear vs CA | KingOfHeLL in Losers Semi-Final of GECO Presents: Die Auslese III @ PLAY! Con, streamed by gecotrier
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2922155321&amp;t=2h49m45s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>597</video:duration>
-    <video:publication_date>2026-11-07T17:40:31.000Z</video:publication_date>
-    <video:uploader>gecotrier</video:uploader>
-    <video:expiration_date>2026-11-15T17:40:31.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>

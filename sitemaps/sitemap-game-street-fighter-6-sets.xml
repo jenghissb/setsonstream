@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/reignited-112/set/110236609/</loc>
+  <lastmod>2026-11-16T03:31:47.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/974032/image-96461d66d268e424b91b913f11aad23f.png
+    </video:thumbnail_loc>
+    <video:title>
+      temprooki vs Dr. Iggy, Reignited #112 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch temprooki vs Dr. Iggy in Grand Final of Reignited #112, streamed by sundevilfg
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2930109812&amp;t=3h6m20s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>888</video:duration>
+    <video:publication_date>2026-11-16T03:14:15.000Z</video:publication_date>
+    <video:uploader>sundevilfg</video:uploader>
+    <video:expiration_date>2026-11-24T03:14:15.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/street-fighter-6/tournament/reignited-112/set/110236624/</loc>
-  <lastmod>2026-11-16T03:03:04.000Z</lastmod>
-  <changefreq>hourly</changefreq>
+  <lastmod>2026-11-16T03:17:55.000Z</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   <video:video>
     <video:thumbnail_loc>
@@ -18,7 +42,7 @@
     <video:player_loc allow_embed="yes" autoplay="autoplay">
       https://player.twitch.tv/?video=2930109812&amp;t=2h55m9s&amp;parent=setsonstream.tv
     </video:player_loc>
-    <video:duration>768</video:duration>
+    <video:duration>668</video:duration>
     <video:publication_date>2026-11-16T03:03:04.000Z</video:publication_date>
     <video:uploader>sundevilfg</video:uploader>
     <video:expiration_date>2026-11-24T03:03:04.000Z</video:expiration_date>
@@ -7174,30 +7198,6 @@
     <video:publication_date>2026-10-31T14:56:49.000Z</video:publication_date>
     <video:uploader>Locus_Crew</video:uploader>
     <video:expiration_date>2026-11-08T14:56:49.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/street-fighter-6/tournament/crossover-2026-1/set/109570604/</loc>
-  <lastmod>2026-10-31T15:02:19.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/925716/image-e85dd68ee158efc8d0abcb9e44b706de.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Toshiaki vs Cross99, CROSSOVER 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Toshiaki vs Cross99 in Losers Quarter-Final of CROSSOVER 2026, streamed by CROSSOVER_2
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2915672094&amp;t=3h19m52s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>459</video:duration>
-    <video:publication_date>2026-10-31T14:52:18.000Z</video:publication_date>
-    <video:uploader>CROSSOVER_2</video:uploader>
-    <video:expiration_date>2026-11-08T14:52:18.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
