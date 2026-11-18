@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/tekken-8/tournament/hog-dragon-179/set/110288196/</loc>
+  <lastmod>2026-11-18T02:42:58.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/976011/image-9c28d0a1b41ebd0fa700789e2bcf0210.png
+    </video:thumbnail_loc>
+    <video:title>
+      JJG | Lunacy vs MTS | FiveFour, HoG: Dragon #179 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch JJG | Lunacy vs MTS | FiveFour in Winners Final of HoG: Dragon #179, streamed by hog_ct
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2931874476&amp;t=2h19m21s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1052</video:duration>
+    <video:publication_date>2026-11-18T02:42:58.000Z</video:publication_date>
+    <video:uploader>hog_ct</video:uploader>
+    <video:expiration_date>2026-11-26T02:42:58.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/tekken-8/tournament/downtown-throwdown-460/set/110264222/</loc>
   <lastmod>2026-11-17T02:47:40.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -8374,30 +8398,6 @@
     <video:publication_date>2026-11-07T19:10:44.000Z</video:publication_date>
     <video:uploader>rdutekken</video:uploader>
     <video:expiration_date>2026-11-15T19:10:44.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/tekken-8/tournament/games-con-2026-tekken-8-tournament/set/109828591/</loc>
-  <lastmod>2026-11-07T18:23:32.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://setsonstream.tv/logoOg.png
-    </video:thumbnail_loc>
-    <video:title>
-      Elmazar vs Cloudbreaker, Games.CON 2026 Tekken 8 tournament - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch Elmazar vs Cloudbreaker in Losers Quarter-Final of Games.CON 2026 Tekken 8 tournament, streamed by Fgcserbia
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2922168983&amp;t=3h5m10s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>452</video:duration>
-    <video:publication_date>2026-11-07T18:12:32.000Z</video:publication_date>
-    <video:uploader>Fgcserbia</video:uploader>
-    <video:expiration_date>2026-11-15T18:12:32.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
