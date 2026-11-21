@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/battle-coliseum-2026/set/110414575/</loc>
+  <lastmod>2026-11-21T14:29:38.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/870636/image-5ab6f650783727303d83cbc562576053.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      ChuChu vs KOMITE | Erik Urso, Battle Coliseum 2026 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch ChuChu vs KOMITE | Erik Urso in Winners Quarter-Final of Battle Coliseum 2026, streamed by Battle Coliseum
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://www.youtube.com/embed/JTmaPt3TvPQ?start=761s
+    </video:player_loc>
+    <video:duration>693</video:duration>
+    <video:publication_date>2026-11-21T14:13:16.000Z</video:publication_date>
+    <video:uploader>Battle Coliseum</video:uploader>
+    <video:expiration_date>2026-11-29T14:13:16.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/bfgl-dna-2026/set/110353350/</loc>
   <lastmod>2026-11-20T16:51:33.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -3574,30 +3598,6 @@
     <video:publication_date>2026-09-12T22:05:24.000Z</video:publication_date>
     <video:uploader>swagonium</video:uploader>
     <video:expiration_date>2026-09-20T22:05:24.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/fatal-fury-city-of-the-wolves/tournament/ultimate-fighting-arena-2026-2/set/107642797/</loc>
-  <lastmod>2026-09-12T19:18:48.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/904086/image-6fd3fbb0b113d44b83507a5008d24067.png
-    </video:thumbnail_loc>
-    <video:title>
-      SS熊本 | Nemo(SS kumamoto | Nemo) vs VIT | H-DOPE, Ultimate Fighting Arena 2026 - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch SS熊本 | Nemo(SS kumamoto | Nemo) vs VIT | H-DOPE in Grand Final of Ultimate Fighting Arena 2026, streamed by KenBogard
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2872261200&amp;t=3h7m58s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>696</video:duration>
-    <video:publication_date>2026-09-12T18:56:22.000Z</video:publication_date>
-    <video:uploader>KenBogard</video:uploader>
-    <video:expiration_date>2026-09-20T18:56:22.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
