@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/esg-fight-night-272/set/110573521/</loc>
+  <lastmod>2026-11-26T00:53:18.000Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+  <video:video>
+    <video:thumbnail_loc>
+      https://images.start.gg/images/tournament/978353/image-f76c079a6539cda694d5ae5a203fccfb.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      SLG | Typifyy vs Icemarvel07, ESG Fight Night #272 - Sets on Stream
+    </video:title>
+    <video:description>
+      Watch SLG | Typifyy vs Icemarvel07 in Winners Quarter-Final of ESG Fight Night #272, streamed by ESG_Live_Streams
+    </video:description>
+    <video:player_loc allow_embed="yes" autoplay="autoplay">
+      https://player.twitch.tv/?video=2940829666&amp;t=1h10m18s&amp;parent=setsonstream.tv
+    </video:player_loc>
+    <video:duration>1268</video:duration>
+    <video:publication_date>2026-11-26T00:53:18.000Z</video:publication_date>
+    <video:uploader>ESG_Live_Streams</video:uploader>
+    <video:expiration_date>2026-12-04T00:53:18.000Z</video:expiration_date>
+  </video:video>
+</url>
+<url>
   <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-268-the-mangocopter-millenium/set/110551284/</loc>
   <lastmod>2026-11-25T04:32:03.000Z</lastmod>
   <changefreq>daily</changefreq>
@@ -4774,30 +4798,6 @@
     <video:publication_date>2026-11-11T03:37:30.000Z</video:publication_date>
     <video:uploader>GameArenaCo</video:uploader>
     <video:expiration_date>2026-11-19T03:37:30.000Z</video:expiration_date>
-  </video:video>
-</url>
-<url>
-  <loc>https://setsonstream.tv/game/guilty-gear-strive/tournament/cfg-tuesday-trials-266-a-forgetful-mindset-happy-belated-birthday/set/109986509/</loc>
-  <lastmod>2026-11-11T03:42:40.000Z</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-  <video:video>
-    <video:thumbnail_loc>
-      https://images.start.gg/images/tournament/971826/image-3df8f90a2afbe636a0034f5f42a0aa5f.png
-    </video:thumbnail_loc>
-    <video:title>
-      YBAS | AtMyAxlLowest vs QUIZNOS | Doo-Yah!, CFG Tuesday Trials 266: A Forgetful Mindset... Happy Belated Birthday! - Sets on Stream
-    </video:title>
-    <video:description>
-      Watch YBAS | AtMyAxlLowest vs QUIZNOS | Doo-Yah! in Losers Quarter-Final of CFG Tuesday Trials 266: A Forgetful Mindset... Happy Belated Birthday!, streamed by GameArenaCo
-    </video:description>
-    <video:player_loc allow_embed="yes" autoplay="autoplay">
-      https://player.twitch.tv/?video=2925338414&amp;t=3h59m4s&amp;parent=setsonstream.tv
-    </video:player_loc>
-    <video:duration>539</video:duration>
-    <video:publication_date>2026-11-11T03:28:41.000Z</video:publication_date>
-    <video:uploader>GameArenaCo</video:uploader>
-    <video:expiration_date>2026-11-19T03:28:41.000Z</video:expiration_date>
   </video:video>
 </url>
 </urlset>
